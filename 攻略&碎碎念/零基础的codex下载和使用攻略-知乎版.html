@@ -1,0 +1,293 @@
+<h1>零基础的 Codex 下载和使用攻略</h1>
+<blockquote>
+<p>说明：本文原本并不是为知乎写的。为符合知乎平台的审核要求，知乎版删去了接码平台、代充值平台，我个人的联系方式等部分内容。完整原文与配套工具可以在云盘查看：<a href="https://cloud.tsinghua.edu.cn/d/c52cc8b195b240dd87a9/">https://cloud.tsinghua.edu.cn/d/c52cc8b195b240dd87a9/</a></p>
+<p>作者：水至月生<br />
+更新时间：2026 年 8 月 29 日  </p>
+</blockquote>
+<h2>目录</h2>
+<ul>
+<li><a href="#零基础的-codex-下载和使用攻略">零基础的 Codex 下载和使用攻略</a></li>
+<li><a href="#目录">目录</a></li>
+<li><a href="#前言">前言</a></li>
+<li><a href="#一codex-是什么">一、Codex 是什么</a></li>
+<li><a href="#二为什么要用-codex">二、为什么要用 Codex</a></li>
+<li><a href="#三下载">三、下载</a><ul>
+<li><a href="#1-网络与-vpn">1. 网络与 VPN</a></li>
+<li><a href="#2-chatgpt-的账号注册">2. ChatGPT 的账号注册</a></li>
+<li><a href="#3-codex-的下载">3. Codex 的下载</a></li>
+<li><a href="#4-codex-登录">4. Codex 登录</a></li>
+<li><a href="#5-充值">5. 充值</a></li>
+</ul>
+</li>
+<li><a href="#四如何接入其他-api">四、如何接入其他 API</a><ul>
+<li><a href="#方案一清华算力券--我写的接入脚本">方案一：清华算力券 + 我写的接入脚本</a></li>
+<li><a href="#第一步领取算力券">第一步：领取算力券</a></li>
+<li><a href="#第二步用脚本接入-codex">第二步：用脚本接入 Codex</a></li>
+<li><a href="#方案二ccswitch">方案二：CCSwitch</a></li>
+<li><a href="#方案三deepseek-官方-api">方案三：DeepSeek 官方 API</a></li>
+</ul>
+</li>
+<li><a href="#五关于费用的一些问题">五、关于费用的一些问题</a><ul>
+<li><a href="#1-使用-codex-一定要充值吗">1. 使用 Codex 一定要充值吗</a></li>
+<li><a href="#2-新手推荐如何使用">2. 新手推荐如何使用</a></li>
+<li><a href="#3-有必要充值-plus-吗">3. 有必要充值 Plus 吗</a></li>
+<li><a href="#4-国内模型和-gpt-56-有很大差距吗">4. 国内模型和 GPT-5.6 有很大差距吗</a></li>
+</ul>
+</li>
+<li><a href="#六如何使用-codex">六、如何使用 Codex</a><ul>
+<li><a href="#1-善用-github">1. 善用 GitHub</a></li>
+<li><a href="#2-重复的事做一个-skill">2. 重复的事，做一个 Skill</a></li>
+<li><a href="#3-发挥创造力">3. 发挥创造力</a></li>
+</ul>
+</li>
+<li><a href="#七使用-ai-的边界">七、使用 AI 的边界</a><ul>
+<li><a href="#1-ai-不能替你学习">1. AI 不能替你学习</a></li>
+<li><a href="#2-ai-给出的结论要检查">2. AI 给出的结论要检查</a></li>
+</ul>
+</li>
+<li><a href="#八一些-ai4math-的题外话与碎碎念">八、一些 AI4Math 的题外话与碎碎念</a><ul>
+<li><a href="#1-态度">1. 态度</a></li>
+<li><a href="#2-审核与负责">2. 审核与负责</a></li>
+</ul>
+</li>
+<li><a href="#九相关网址与附件">九、相关网址与附件</a></li>
+</ul>
+<h2>前言</h2>
+<p>现在 AI 非常热门，大家都知道 AI 非常好用，但由于 VPN 等各种各样的问题，我身边仍有不少朋友只使用 DeepSeek 网页端。我最近帮助不少朋友配置了 Codex，也向身边不少朋友推荐了 Codex。</p>
+<p>配置并不是一件很简单的事，我自己配置时也花了不少功夫，线上帮别人配置同样有些麻烦。于是便有了这篇文档。本文会介绍为什么要用 Codex、怎么下载 Codex、如何使用 Codex，以及付费等相关问题。</p>
+<p>同时，读者的电脑水平可能参差不齐。有些人可能只是来找一个代充值网站，有些人可能刚高考完、刚开始接触电脑，所以本文会尽可能写得通俗易懂。</p>
+<p>另外，本文默认面向校内读者，所以部分平台只有校内身份才能使用。</p>
+<p>这里不得不提的是，第一稿快要完成时，水月下楼拿了个外卖，不小心关闭了页面，导致没有保存的内容全部丢失。于是现在水月继续在凌晨 4 点写文档，而且明显感觉新版的一些措辞还不如上一版。
+（写完差不多七点半了，力竭了）</p>
+<p>文中涉及的产品界面、计费方式和校园平台额度都可能变化，具体仍然以实际页面为准。有哪里写错了，或者之后已经过时了，也欢迎在评论区提醒我。</p>
+<p>如果对你有帮助的话请说谢谢水至月生。</p>
+<p>最后，为了照顾完全不了解的朋友，这里给出一些名词解释：</p>
+<ul>
+<li>
+<p>API：软件之间互相发送请求和返回结果的一套接口。网页聊天是人在页面里直接输入内容，API 则可以让 Codex、脚本或其他软件自动调用模型。</p>
+</li>
+<li>
+<p>API Key：平台发给用户的一串调用凭证，作用有点像密码。平台会用它识别账号、额度和计费信息，所以不要把真实 Key 发到群聊、截图或公开仓库里。</p>
+</li>
+<li>
+<p>智能体/Agent：不只是回答问题，还能根据目标读取上下文、调用工具、修改文件、运行命令，并连续完成多步任务的 AI。</p>
+</li>
+<li>
+<p>Skill/技能：给智能体使用的一套可复用说明，里面可以规定某类任务的流程、格式、注意事项和参考材料。它更像一份专门的工作手册，并不是一个新的模型。</p>
+</li>
+</ul>
+<h2>一、Codex 是什么</h2>
+<p>简单来说，Codex 是一个可以真正进入项目里干活的 AI 助手。</p>
+<p>普通聊天机器人更多是在对话框里给建议；Codex 则可以在你授权的文件夹中阅读代码和文档、修改文件、运行命令、检查报错、执行测试，并把较长的任务持续做下去。它可以通过桌面应用、IDE 扩展和命令行使用。</p>
+<p>在课程学习和科研项目里，它比较适合做这些事：</p>
+<ul>
+<li>阅读课程代码，解释某一段到底在做什么；</li>
+<li>帮你定位编译错误、运行错误和测试失败；</li>
+<li>整理实验项目、讲义、笔记和 README；</li>
+<li>为科研代码补测试、写使用说明、复现实验流程；</li>
+<li>把一项大任务拆成计划，再逐步执行和验收。</li>
+</ul>
+<p>不过它不是“自动正确机”。尤其是数学证明、课程作业和科研结论，最后仍然需要自己检查。我的理解是，可以把它当成一个很能干、但偶尔会非常自信地说错话的队友。</p>
+<h2>二、为什么要用 Codex</h2>
+<p>我身边的朋友不使用 Codex 等本地 AI 软件，理由通常是下面几种：</p>
+<ol>
+<li>没有 VPN，或者不愿翻墙；</li>
+<li>不愿使用国外 AI；</li>
+<li>我又不写代码，为什么要用这些 AI？</li>
+</ol>
+<p>我之前其实是第一种和第三种的结合体，下面说一下我的看法。</p>
+<ol>
+<li>“我不翻墙”或者“我没梯子”确实是一个很好用的借口，但相关问题其实是很好解决的，最多就是每个月十几块钱罢了</li>
+<li>能够管理本地文件的 Agent 软件并非只有国外产品。如果不想使用国外 AI，也可以尝试国内的 DeepSeek Harness 等 Agent；</li>
+<li>这类本地 Agent 的能力远不止写代码。相比网页端的 AI，它还能直接处理本地文件和多步任务，确实能提高工作效率。</li>
+</ol>
+<p>此外，很多需求是用了这些 Agent 之后才会出现的，比如生成一份复习 PPT、做一些 Skill 之类。</p>
+<p>我的理解是，这些 Agent 可以<strong>极大地提高每个人使用计算机解决问题的能力</strong>。不少事情之前门槛很高，而 Codex 这类 Agent 降低了其中很大一部分门槛。比如把 GitHub 上的一些项目部署到本地，电脑小白之前可能需要查攻略，再一步一步对着做；现在只需要把目标告诉 Codex，让它阅读项目说明并协助完成即可。这类 Agent 让很多事情从“我知道它”变成了“我能做到”，同时也极大地提高了效率。</p>
+<p>比如我最近想买一个电脑配件。以前需要到系统里查看电脑配置，现在只需要向 Codex 提问，就能知道买内存时应该选择什么型号。是的，实在等不及内存降价了，我选择早买早享受喵。</p>
+<h2>三、下载</h2>
+<h3>1. 网络与 VPN</h3>
+<p>这一步并不困难，我相信你们可以自己解决。</p>
+<p>这里特殊说明一下：<strong>我不会在这篇公开攻略里提供 VPN 服务、节点或购买链接。</strong> 这类信息大规模传播存在法律、校规和账号安全风险。请遵守所在地法律法规；确有需要可以私信询问，或者先问自己信任的学长学姐。</p>
+<p>在这一步会有一些常见问题，我这里一一回答：</p>
+<ul>
+<li>Q：科学上网违法吗？A：我不知道喵，不作死应该就行喵；</li>
+<li>Q：朋友提供的服务需要收费，选择什么价格的？A：没有特殊需求的话，先选满足基本使用的最低档即可；</li>
+<li>Q：VPN 的节点选哪里？A：默认节点一般就够用，连接有问题时可以尝试更换节点。</li>
+</ul>
+<h3>2. ChatGPT 的账号注册</h3>
+<p>科学上网后，搜索 ChatGPT 并进入官方网站，按页面提示注册即可。这里没有太复杂的步骤，唯一需要注意的是，最好不要使用学校邮箱，用自己的 QQ 邮箱注册即可。</p>
+<p>ChatGPT 官方登录与注册页面：<a href="https://chatgpt.com/auth/login">https://chatgpt.com/auth/login</a></p>
+<h3>3. Codex 的下载</h3>
+<p>最近一次更新后，Codex 已经整合进 ChatGPT 桌面应用。科学上网后搜索 Codex，进入官方网站下载即可。Windows 用户点击安装后可能会跳转到 Microsoft Store，这是正常现象，无需担心。</p>
+<p>ChatGPT/Codex 官方下载页：<a href="https://chatgpt.com/download/">https://chatgpt.com/download/</a></p>
+<p>第一次安装可以按下面做：</p>
+<ol>
+<li>打开官方下载页，选择自己的系统；</li>
+<li>Windows 跳转到 Microsoft Store 后点击安装；</li>
+<li>安装结束后打开 ChatGPT 桌面应用；</li>
+<li>登录后从左上角进入 Codex。</li>
+</ol>
+<p>除了桌面应用，也可以使用 <a href="https://learn.chatgpt.com/docs/codex/cli">Codex CLI</a> 或 <a href="https://learn.chatgpt.com/docs/codex/ide">VS Code 的 Codex 扩展</a>。第一次接触这类工具的话，先用桌面应用就够了。</p>
+<h3>4. Codex 登录</h3>
+<p>本地使用 Codex 时，主要有两种官方登录方式：使用 ChatGPT 账号登录，或者使用 OpenAI API Key 按量调用。我们一般使用前者登录。</p>
+<p>使用前面注册的账号即可。这里需要注意的是，登录 Codex 时可能需要手机号验证码，页面可能不支持国内手机号。</p>
+<p>关于手机号验证的非官方解决渠道，知乎版不在这里展开，完整说明可以查看开头的云盘原文。无论选择什么方式，都要自行确认服务条款、隐私风险和账号风险，不要把 ChatGPT 密码交给第三方平台。</p>
+<p>账号准备好后，打开桌面应用，点击登录并在浏览器中完成授权，之后回到应用进入 Codex。官方支持使用 ChatGPT 账号获得订阅访问，也支持使用 OpenAI API Key 按量访问。前者对第一次使用的读者更直观。</p>
+<p>Codex 登录与认证说明：<a href="https://learn.chatgpt.com/docs/auth">https://learn.chatgpt.com/docs/auth</a></p>
+<h3>5. 充值</h3>
+<p>进行这一步前建议先读完本文的第五部分。</p>
+<p>充值时可能遇到的问题是，ChatGPT/Codex 订阅一般需要国外银行卡，但这个东西显然不太好获得，所以一种解决方式是使用代充平台。</p>
+<p>关于非官方充值渠道，知乎版同样不提供平台名称和网址，完整说明可以查看开头的云盘原文。使用第三方服务前请自行判断风险，实际价格、到账方式和售后规则也可能变化。不要向任何第三方提供邮箱密码或完整 API Key。</p>
+<p>这里一定要分清楚：ChatGPT 订阅、OpenAI API 余额和第三方 API 平台余额是三套东西。在 ChatGPT 中开通套餐，不等于 OpenAI API 账户里有余额；给并行智算云或 DeepSeek 充值，也只能在对应平台使用。</p>
+<p>ChatGPT 套餐页面：<a href="https://chatgpt.com/pricing/">https://chatgpt.com/pricing/</a></p>
+<p>OpenAI API 充值页面：<a href="https://platform.openai.com/settings/organization/billing/overview">https://platform.openai.com/settings/organization/billing/overview</a></p>
+<p>如果使用本文后面介绍的第三方 API 方案，就不需要再给 OpenAI API 账户充值。需要充值的是你实际获取 API Key 的平台，余额也只能在对应平台内使用。第一次充值时建议先充少量，确认 Codex 能正常调用后再继续。</p>
+<h2>四、如何接入其他 API</h2>
+<p>进行这一步前先完成第三部分的安装和账号准备，建议先读完本文的第五部分。</p>
+<p>下面分别介绍我写的切换脚本、CCSwitch 和 DeepSeek 官方脚本。三种方法不需要同时配置，选一条适合自己的路线即可。</p>
+<h3>方案一：清华算力券 + 我写的接入脚本</h3>
+<p>这是我更推荐的方案。完整流程分成三部分：先领算力券，之后在并行智算云获得 API Key，最后用脚本把它接入 Codex。</p>
+<h4>第一步：领取算力券</h4>
+<ol>
+<li>打开 <a href="https://easycompute.cs.tsinghua.edu.cn/login">算力券申领平台</a>；</li>
+<li>通过清华大学统一身份认证登录，使用自己的学号或工作证号；</li>
+<li>登录后点击“登录领券 / 使用”按钮；</li>
+<li>算力券会自动发放到个人账户，可以在“我的优惠券”中查看和使用；</li>
+<li>点击使用后会跳转到并行智算云；</li>
+<li>在顶部“大模型平台—API 密钥”中新建 API Key。</li>
+</ol>
+<h4>第二步：用脚本接入 Codex</h4>
+<p>如果你是从我的云盘点开的文档，脚本就在本文档旁边，也可以从云盘下载：<a href="https://cloud.tsinghua.edu.cn/d/c52cc8b195b240dd87a9/">https://cloud.tsinghua.edu.cn/d/c52cc8b195b240dd87a9/</a></p>
+<p>由于学校发了 1000 元算力券，基本可以免费使用，所以我更推荐先试它。不过这个方案用起来稍微麻烦一些，而且这也不是长期免费的承诺，具体额度仍以账户中的优惠券和平台规则为准。</p>
+<p>脚本具体操作如下：</p>
+<ol>
+<li>下载 <code>codex-api切换.zip</code>，右键选择“全部解压缩”；</li>
+<li>保存当前工作，再完全退出 ChatGPT 桌面应用或正在运行的 Codex；</li>
+<li>打开解压后的文件夹，双击 <code>启动Codex切换.bat</code>；</li>
+<li>第一个菜单输入 <code>2</code>，选择并行智算云；</li>
+<li>第二个菜单输入 <code>1</code> 或 <code>2</code>，选择要使用的模型；</li>
+<li>第一次使用时粘贴刚才复制的 API Key，然后按回车；</li>
+<li>看到 <code>[OK] 已切换到并行智算云</code> 后关闭窗口；</li>
+<li>重新打开 Codex，先发送一个很短的测试任务。</li>
+</ol>
+<p>输入 Key 时窗口不会显示文字或星号，这是正常现象。可以用下面这句话测试：</p>
+<pre><code class="language-text">请只回复“连接成功”，不要读取或修改任何文件。
+</code></pre>
+<p>能够正常返回结果，基本就说明接入成功。桌面应用中的模型名称可能显示为具体模型名，也可能显示为 <code>Custom</code>。</p>
+<p>如果想恢复 Codex 原版，重新运行脚本，在第一个菜单输入 <code>3</code>，看到成功提示后重启 Codex 即可。脚本每次切换前都会备份原来的 <code>config.toml</code>。</p>
+<p>更完整的 Key 保存位置和故障恢复方法写在工具文件夹的 <a href="./codex-api切换/README.md">README</a> 中。</p>
+<p>这个方案也可以接入 DeepSeek 官方 API Key。</p>
+<h3>方案二：CCSwitch</h3>
+<p>这个我没用过，所以不多说了。</p>
+<p>CCSwitch 可以用来管理和切换不同服务商的配置，适合已经有多个 API 的同学。</p>
+<p>CCSwitch 网址：<a href="https://ccswitch.io/">https://ccswitch.io/</a></p>
+<p>CCSwitch 源码与版本发布：<a href="https://github.com/farion1231/cc-switch">https://github.com/farion1231/cc-switch</a></p>
+<p>使用第三方配置工具时，要核对下载来源、开源仓库和权限范围。切换前保存原配置，不要在截图、Issue 或群聊中露出 Key。</p>
+<h3>方案三：DeepSeek 官方 API</h3>
+<p>如果希望直接使用模型厂商的官方接口，也可以在 DeepSeek 官方平台注册、充值并创建 API Key，然后根据它的官方文档配置。</p>
+<p>DeepSeek 官方平台：<a href="https://platform.deepseek.com/">https://platform.deepseek.com/</a></p>
+<p>DeepSeek 官方文档：<a href="https://api-docs.deepseek.com/zh-cn/quick_start/agent_integrations/codex/">https://api-docs.deepseek.com/zh-cn/quick_start/agent_integrations/codex/</a></p>
+<p>不过，电脑小白只看官方文档可能还是不知道具体怎么操作，所以我来写一个大白话版本：</p>
+<ol>
+<li>在电脑搜索中输入 <code>PowerShell</code> 或 <code>Windows PowerShell</code> 并打开；</li>
+<li>粘贴下面这条官方安装命令，然后按回车；</li>
+</ol>
+<pre><code class="language-powershell">irm https://cdn.deepseek.com/api-docs/codex-deepseek-setup-en.ps1 | iex
+</code></pre>
+<ol start="3">
+<li>根据菜单选择模型。Flash 更快、更便宜，Pro 更适合复杂任务；</li>
+<li>在提示位置粘贴 DeepSeek API Key，输入时不显示字符是正常现象；</li>
+<li>看到成功提示后完全退出并重新打开 Codex；</li>
+</ol>
+<p>DeepSeek API Key 获取页面：<a href="https://platform.deepseek.com/api_keys">https://platform.deepseek.com/api_keys</a></p>
+<p>想恢复原来的 Codex 配置时，再运行同一条命令并选择菜单中的恢复选项。当前官方脚本使用 <code>9</code> 恢复默认配置，界面以后如果发生变化，以当时显示的菜单为准。</p>
+<h2>五、关于费用的一些问题</h2>
+<p>我感觉不少看这篇文档的朋友还抱着“互联网上的东西就应该白嫖”的态度，所以不太愿意为本文提到的 VPN、中介平台、API 以及 Codex 官方服务付费。</p>
+<h3>1. 使用 Codex 一定要充值吗</h3>
+<p>不一定。主要有下面几条路线：</p>
+<ul>
+<li>使用包含 Codex 额度的 ChatGPT 套餐；</li>
+<li>使用并行智算云、DeepSeek 等第三方 API，消耗对应平台的余额或算力券。</li>
+</ul>
+<p>如果能够领取校园算力券，可以先试并行智算云，不需要一开始就充值。</p>
+<h3>2. 新手推荐如何使用</h3>
+<p>我记得新账号有一定的免费额度，建议先试用一下。刚开始只有一些小任务时，可以先接入学校的算力券，虽然不太好用，但基本免费。如果一个月内的需求很大，再考虑订阅 ChatGPT 中包含 Codex 额度的套餐。</p>
+<h3>3. 有必要充值 Plus 吗</h3>
+<p>如果你的需求足够大，一个月能用掉 Plus 额度的 80% 以上，那我认为 Plus 还是很划算的。每月 20 美元，换来生产力的明显提升，我感觉是值得的。</p>
+<h3>4. 国内模型和 GPT-5.6 有很大差距吗</h3>
+<p>如果不处理过于专业的任务，比如大规模编程、数学研究等，日常使用时的体感差距并没有那么大，所以可以放心接入国内模型。</p>
+<h2>六、如何使用 Codex</h2>
+<p>一些常规场景无需我多说，比如辅助学习、完成项目。本节的主要内容在于，如何把 Codex 用到更多领域，以及如何增强它的能力。</p>
+<h3>1. 善用 GitHub</h3>
+<p>GitHub 上有许许多多有趣的项目，说不定就能对你有所帮助。在做一些事情前，不妨先让 Codex 去 GitHub 上找找有没有合适的开源项目。当然别忘了，如果确实有用，可以给项目一个 Star。</p>
+<h3>2. 重复的事，做一个 Skill</h3>
+<p>如果一件事只做一次，在对话里把要求说清楚就够了。但如果同一种任务会重复出现，比如每周整理作业、把讲义转成复习提纲、按固定格式检查代码，或者统一一批文档的语言风格，每次从头解释一遍就很浪费。这时可以把流程做成一个 Skill。</p>
+<p>简单来说，Skill 就是给 Codex 的一份长期工作说明。里面可以写清楚什么时候应该使用它、需要读取哪些材料、按什么顺序做、哪些东西不能改，以及最后怎样才算完成。之后再遇到同类任务，Codex 就可以沿用同一套规则。</p>
+<p>第一次做 Skill 不需要自己研究文件结构，可以直接对 Codex 说：</p>
+<pre><code class="language-text">我经常需要完成下面这类任务：
+【在这里描述任务】
+
+请先阅读本机中与这项任务有关的材料，总结固定流程、输出格式、禁止事项和验收标准，
+然后为它创建一个可复用的 Skill。创建完成后告诉我它保存在哪里，并用一个最小示例测试。
+</code></pre>
+<p>描述得越具体，Skill 越好用。至少建议写清下面几件事：</p>
+<ul>
+<li>什么时候调用，例如“当我让你整理课程资料时使用”；</li>
+<li>输入从哪里来，例如当前文件夹、指定讲义或聊天中粘贴的内容；</li>
+<li>固定步骤是什么，例如先分类，再提取重点，最后生成目录；</li>
+<li>哪些事情不能做，例如不要擅自删除原文件，不要修改数学结论；</li>
+<li>输出放在哪里，以及需要 Markdown、LaTeX 还是其他格式；</li>
+<li>如何检查结果，例如链接能否打开、代码能否运行、文档是否还有空缺。</li>
+</ul>
+<p>Skill 适合处理规则稳定、会反复出现的工作，不适合把每一次临时要求都塞进去。做完后先拿一个小任务测试，发现它理解错了，就让 Codex 根据这次错误修改 Skill。这样迭代几次，通常会比写一段很长的万能提示词更可靠。</p>
+<h3>3. 发挥创造力</h3>
+<p>我们往往能在视频平台看到一些很有意思的东西。而现在，我们不再只能看着，也可以自己去创造。Codex 虽然降低了一部分编程门槛，但还不能让一个零基础的人独自手搓大型项目。不过，小一些的项目还是可以许愿得到的。</p>
+<p>比如你想做一个奇怪版本的植物大战僵尸、一个杀戮尖塔 Mod、一个在网络学堂发布作业后自动整理题目的 Agent，或者一个自动完成二游日常的 Agent。只要想法的规模合适，再投入一些 Token 和精力，这些东西我们自己也能实现。</p>
+<h2>七、使用 AI 的边界</h2>
+<p>前面提到了很多 AI 有多强、多好用。现在我们要提出另一个问题：什么时候不该用 AI？</p>
+<h3>1. AI 不能替你学习</h3>
+<p>完成作业和学会知识其实是两件事。AI 可以在几分钟内生成一份看起来很完整的答案，但如果自己连题目在问什么都没有弄清楚，那么作业虽然交上去了，能力并不会因此增加。</p>
+<p>我认识不少朋友，他们在一场较难的编程考试中得了零分。究其原因，不是 AI 用得不好，反而是平时用得太多，作业全都交给 AI 写了，所以自己什么都不会。</p>
+<p>确实，有些课程在现在的 AI 时代可能已经失去了一部分学习价值。但如果一味地用 AI 完成作业，怕是连有意义的课程也学不会什么东西，考试同样容易挂科。</p>
+<p>另一方面，有些作业看起来只是重复劳动，但我们恰恰能从中获得直觉和经验。如果让 AI 代替自己完成，后续内容也会很难理解。</p>
+<p>我们不得不正视一个问题：在新的时代，我们应该学会什么，又该如何让 AI 辅助学习，而不是让 AI 代替自己学习？</p>
+<h3>2. AI 给出的结论要检查</h3>
+<p>AI 会犯错，而且有时会把错误的内容说得非常确定。代码可能能够运行，但逻辑是错的；数学证明可能在某一步偷偷使用了没有证明的结论；引用和网址也可能根本不存在。</p>
+<p>所以不同任务要有不同的验收方式：</p>
+<ul>
+<li>代码至少要运行测试，并检查输入边界和错误处理；</li>
+<li>数学题要逐步验算，确认每个定理的条件都满足；</li>
+<li>论文和报告中的引用要打开原文核对，不能只看标题像是真的；</li>
+<li>涉及费用、政策、软件版本和平台规则时，要回到官方网站确认；</li>
+<li>医疗、法律、财务和实验安全等重要问题，不能把 AI 当作最终决定者。</li>
+</ul>
+<p>一个很好用的习惯是，完成任务后另开一轮检查，让 AI 专门寻找错误，而不是继续证明刚才的答案是对的。不过 AI 自查仍然只是辅助，最后还是需要自己验收。</p>
+<p>我赞成一句话：<strong>虽然任务是 AI 完成的，但为之负责的还是人本身</strong>。好吧，这句话是我瞎编的。</p>
+<h2>八、一些 AI4Math 的题外话与碎碎念</h2>
+<p>这一部分主要写给数学专业的同学。</p>
+<p>最近 AI 做出了不少数学成果，引发了数学界的一波波“震荡”。这个事情很有意思，有点像 AI 之前在代码领域带来的变革。</p>
+<h3>1. 态度</h3>
+<p>数学界对于 AI 的态度大抵有两种，至少在网上看起来主要是这两种。一种是悲观的，认为 AI 马上就要完全取代数学家，现在出现的成果越来越多、越来越快，也越来越重量级。另一种则是乐观的，认为现在的成果仍然属于小概率抽卡事件，AI 的数学能力还没有那么夸张，我们的数学还大有可为。</p>
+<p>悲观派的代表人物有许多，比如那个分析学爱好者；乐观派我认识的也不少，目前我身边不少数学专业的同学和老师仍然是乐观的。</p>
+<p>此外还有一些很有意思的现象。不少群聊里的群友，听起来并非数学专业，也没有尝试过 AI4Math，却会夸下海口，说给他足够多的 Token，他必能做出一篇四大；也有一些人明确表示自己不会使用国外 AI，等国内出现能力足够强的模型后再用。</p>
+<h3>2. 审核与负责</h3>
+<p>AI 在数学领域带来的另一波冲击是论文审核。现在，在 AI 的帮助下，数学论文的产出越来越快，随之而来的直接后果就是人类审不过来了。</p>
+<p>其实数学界的审稿效率本来就不高。审稿几乎算是一项自愿工作，而数学论文又晦涩难懂，不像其他学科有时还可以通过实验复现来验证。难一些的论文，审稿周期可能是按年计算的。</p>
+<p>过去，成果好歹是人做的；现在，成果可能是 AI 自动跑出来的，最后只有 AI 自己懂。许多不负责任的研究者只负责用 AI 产出，自己不看，也不管最终成果是否正确，浪费了大量数学家的精力。很难想象不远的将来，数学论文开始井喷后，人类数学家应该如何应对。难道要全盘相信 Lean 吗？</p>
+<p>现在数学家们呼吁，论文的署名者不能包括 AI，署名的人要对论文负责。但如果未来 AI 的数学能力再度迎来飞升，这一套约定还真的能继续下去吗？</p>
+<h2>九、相关网址与附件</h2>
+<ul>
+<li>ChatGPT/Codex 官方下载页：<a href="https://chatgpt.com/download/">https://chatgpt.com/download/</a></li>
+<li>Codex CLI 官方说明：<a href="https://learn.chatgpt.com/docs/codex/cli">https://learn.chatgpt.com/docs/codex/cli</a></li>
+<li>Codex IDE 扩展说明：<a href="https://learn.chatgpt.com/docs/codex/ide">https://learn.chatgpt.com/docs/codex/ide</a></li>
+<li>Codex 登录与认证说明：<a href="https://learn.chatgpt.com/docs/auth">https://learn.chatgpt.com/docs/auth</a></li>
+<li>网络相关服务：本文不公开提供，见第三节第一部分</li>
+<li>手机号与非官方充值渠道：知乎版已删去，完整说明见开头的云盘原文</li>
+<li>OpenAI API 官方计费页面：<a href="https://platform.openai.com/settings/organization/billing/overview">https://platform.openai.com/settings/organization/billing/overview</a></li>
+<li>算力券申领平台：<a href="https://easycompute.cs.tsinghua.edu.cn/login">https://easycompute.cs.tsinghua.edu.cn/login</a></li>
+<li>并行智算云文档中心：<a href="https://ai.paratera.com/document">https://ai.paratera.com/document</a></li>
+<li>CCSwitch：<a href="https://ccswitch.io/">https://ccswitch.io/</a></li>
+<li>DeepSeek 官方平台：<a href="https://platform.deepseek.com/">https://platform.deepseek.com/</a></li>
+<li>DeepSeek 接入 Codex 文档：<a href="https://api-docs.deepseek.com/zh-cn/quick_start/agent_integrations/codex/">https://api-docs.deepseek.com/zh-cn/quick_start/agent_integrations/codex/</a></li>
+</ul>
+<p>这里保留了各个平台的名称和用途，没有只扔一个裸链接。这样即使页面以后迁移了，也知道应该重新搜索什么。</p>
