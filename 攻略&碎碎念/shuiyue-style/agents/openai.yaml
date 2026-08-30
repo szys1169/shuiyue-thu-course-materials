@@ -1,0 +1,7 @@
+interface:
+  display_name: "水月风格"
+  short_description: "让回复、解释、改写和技术说明呈现水月式自然中文语气"
+  default_prompt: "Use $shuiyue-style to rewrite this text in 水月的自然中文语气。"
+
+policy:
+  allow_implicit_invocation: true
