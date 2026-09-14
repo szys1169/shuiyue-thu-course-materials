@@ -1,0 +1,5 @@
+<html>
+<body>
+   <applet height=1080 width=1920 align="baseline" archive="avl_seanet.jar" code="BTApplet.class"></applet>
+</body>
+</html>

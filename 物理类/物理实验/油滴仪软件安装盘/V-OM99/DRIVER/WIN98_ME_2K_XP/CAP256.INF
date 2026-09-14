@@ -1,0 +1,150 @@
+;; Cap256.inf
+
+[Version]
+Signature="$CHICAGO$"
+Class=Media
+ClassGUID={4d36e96c-e325-11ce-bfc1-08002be10318}
+provider=%ProviderName%
+LayoutFile=layout.inf
+
+[Manufacturer]
+%MfgName%=Mfg0
+
+[Mfg0]
+%DeviceDesc%=Cap7146.Device,PCI\VEN_1131&DEV_7146
+
+[PreCopySection]
+HKR,,NoSetupUI,,1
+
+[DestinationDirs]
+Cap7146.Files.Ext = 10,System32\Drivers
+KSUpdate.Dll = 10,System
+Cap7146.Files.Inf = 10,INF
+
+[Cap7146.Device]
+Include=ks.inf, kscaptur.inf
+Needs=KS.Registration, KSCAPTUR.Registration
+CopyFiles=Cap7146.Files.Ext, Cap7146.Files.Inf, KSUpdate.Dll
+AddReg=Cap7146.AddReg
+
+[Cap7146.Device.NT]
+Include=ks.inf, kscaptur.inf
+Needs=KS.Registration, KSCAPTUR.Registration.NT
+CopyFiles=Cap7146.Files.Ext, Cap7146.Files.Inf, KSUpdate.Dll
+AddReg=Cap7146.AddReg
+
+[Cap7146.Device.NT.Services]
+Addservice = Cap7146, 0x00000002, Cap7146.AddService
+
+[Cap7146.AddService]
+DisplayName    = %SvcDesc%
+ServiceType    = 1                  ; SERVICE_KERNEL_DRIVER
+StartType      = 2                  ; SERVICE_AUTO_START
+ErrorControl   = 1                  ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %10%\System32\Drivers\Cap256.sys
+LoadOrderGroup = Base
+
+[Cap7146.AddReg]
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,Cap256.sys
+HKR,"Parameters", "VideoDecoder",,"1"  ; 1 for Philips's SAA7114
+HKR,"Parameters", "AdjustHyo",,"1"
+HKR,"Parameters", "InvertField",,"1"
+;HKR,"ENUM\Device1",pnpid,,"phildc46"
+;HKR,"ENUM\Device2",pnpid,,"philtune"
+; Add wdm6750 to the DeviceX list for DEBI input
+;HKR,"ENUM\Device3",pnpid,,"wdm6750"
+;HKR,"Parameters", "EnableDebi",,"1"   ; 1 to enable DEBI input pin
+;HKR,"Parameters", "EnableMPEG",,"1"   ; 1 to enable MPEG formats on capture pin
+;
+; Add BRSOut and WDMDenc to DeviceX list for BRS output
+;HKR,"ENUM\Device3",pnpid,,"BRSOut"
+;HKR,"ENUM\Device4",pnpid,,"WDMDenc"
+
+[Cap7146.Files.Ext]
+Cap256.sys
+stream.sys        ;fixes for win98 bugs
+
+[Cap7146.Files.Inf]
+;Cap7146.Inf
+
+[KSUpdate.Dll]
+kswdmcap.ax       ;fixes for win98 bugs
+ksproxy.ax        ;fixes for win98 bugs
+
+[Cap7146.Device.Interfaces]
+AddInterface={65e8773d-8f56-11d0-a3b9-00a0c9223196},"GLOBAL",VideoCapture,
+AddInterface={a799a800-a46d-11d0-a18c-00a02401dcd4},"GLOBAL",VideoTvTuner,
+AddInterface={a799a802-a46d-11d0-a18c-00a02401dcd4},"GLOBAL",VideoTvAudio,
+AddInterface={a799a801-a46d-11d0-a18c-00a02401dcd4},"GLOBAL",VideoCrossbar,
+
+[Cap7146.Device.NT.Interfaces]
+AddInterface={65e8773d-8f56-11d0-a3b9-00a0c9223196},"GLOBAL",VideoCapture,
+AddInterface={a799a800-a46d-11d0-a18c-00a02401dcd4},"GLOBAL",VideoTvTuner,
+AddInterface={a799a802-a46d-11d0-a18c-00a02401dcd4},"GLOBAL",VideoTvAudio,
+AddInterface={a799a801-a46d-11d0-a18c-00a02401dcd4},"GLOBAL",VideoCrossbar,
+
+[VideoCapture]
+AddReg=VideoCapture.AddReg
+
+[VideoTvTuner]
+AddReg=VideoTvTuner.AddReg
+
+[VideoTvAudio]
+AddReg=VideoTvAudio.AddReg
+
+[VideoCrossbar]
+AddReg=VideoCrossBar.AddReg
+
+[VideoCapture.AddReg]
+HKR,,CLSID,,{17CCA71B-ECD7-11D0-B908-00A0C9223196}
+HKR,,FriendlyName,,%Desc.Capture.Filter%
+;HKLM,%MediaCategories%\%PINGUID_DEBI_IN%,Name,,%PINNAME_DEBI_IN%
+HKLM,%MediaCategories%\%PINGUID_CAPTURE%,Name,,%PINNAME_CAPTURE%
+HKLM,%MediaCategories%\%PINGUID_PREVIEW%,Name,,%PINNAME_PREVIEW%
+HKLM,%MediaCategories%\%PINGUID_AUDIO_OUT%,Name,,%PINNAME_AUDIO_OUT%
+HKLM,%MediaCategories%\%PINGUID_VIDEO_OUT%,Name,,%PINNAME_VIDEO_OUT%
+HKLM,%MediaCategories%\%PINGUID_ANALOG_VIDEO_IN%,Name,,%PINNAME_ANALOG_VIDEO_IN%
+HKLM,%MediaCategories%\%PINGUID_AUDIO_RENDER%,Name,,%PINNAME_AUDIO_RENDER%
+HKLM,%MediaCategories%\%PINGUID_MPEG_VIDEO_IN%,Name,,%PINNAME_MPEG_VIDEO_IN%
+
+[VideoTvTuner.AddReg]
+HKR,,CLSID,,{266EEE40-6C63-11cf-8A03-00AA006ECB65}
+HKR,,FriendlyName,,%Desc.TvTuner.Filter%
+
+[VideoCrossBar.AddReg]
+HKR,,CLSID,,{71F96460-78F3-11d0-A18C-00A0C9118956}
+HKR,,FriendlyName,,%Desc.CrossBar.Filter%
+
+[VideoTvAudio.AddReg]
+HKR,,CLSID,,{71F96462-78F3-11d0-A18C-00A0C9118956}
+HKR,,FriendlyName,,%Desc.TvAudio.Filter%
+
+;---------------------------------------------------------------;
+
+[Strings]
+ProviderName            = "StreamMachine Inc."
+MfgName                 = "StreamMachine"
+DeviceDesc              = "StreamMachine 2210 PCI Minidriver"
+Desc.Capture.Filter     = "StreamMachine 2210 PCI Capture"
+Desc.TvTuner.Filter     = "StreamMachine 2210 PCI TvTuner"
+Desc.TvAudio.Filter     = "StreamMachine 2210 PCI TvAudio"
+Desc.CrossBar.Filter    = "StreamMachine 2210 PCI CrossBar"
+SvcDesc                 = "StreamMachine 2210 PCI Minidriver"
+MediaCategories         = "SYSTEM\CurrentControlSet\Control\MediaCategories"
+;PINGUID_DEBI_IN         = "{548F5540-F3DC-11d2-A4D9-0060080BA634}"
+;PINNAME_DEBI_IN         = "DEBI Input"
+PINGUID_CAPTURE	        = "{DE8F7683-9142-11d4-803C-0001023DA41F}"
+PINNAME_CAPTURE         = "Capture"
+PINGUID_PREVIEW         = "{DE8F7684-9142-11d4-803C-0001023DA41F}"
+PINNAME_PREVIEW         = "Preview"
+PINGUID_AUDIO_OUT       = "{DE8F7685-9142-11d4-803C-0001023DA41F}"
+PINNAME_AUDIO_OUT       = "Audio Out"
+PINGUID_VIDEO_OUT       = "{DE8F7686-9142-11d4-803C-0001023DA41F}"
+PINNAME_VIDEO_OUT       = "Video Out"
+PINGUID_ANALOG_VIDEO_IN = "{DE8F7687-9142-11d4-803C-0001023DA41F}"
+PINNAME_ANALOG_VIDEO_IN = "Analog Video In"
+PINGUID_AUDIO_RENDER    = "{DE8F7688-9142-11d4-803C-0001023DA41F}"
+PINNAME_AUDIO_RENDER    = "Audio Render"
+PINGUID_MPEG_VIDEO_IN   = "{DE8F7689-9142-11d4-803C-0001023DA41F}"
+PINNAME_MPEG_VIDEO_IN   = "MPEG Video In"

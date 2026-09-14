@@ -1,0 +1,17 @@
+* source ANALOGS3
+R_Rb2         0 N00915  10k  
+R_Re         0 N01039  1k  
+R_Rl         0 OUT  10k  
+Q_Q1         N00685 N00656 0 Q2N696
+Q_Q2         N01010 N00915 N01039 Q2N696
+V_V2         VCC 0 0Vdc
+V_V1         IN 0  
++SIN 0 10mV 1kHz 0 0 0
+R_Rb         N00656 VCC  500k  
+C_C1         IN N00656  1n  
+R_Rc1         N00685 VCC  1k  
+C_C2         N00685 N00915  1n  
+R_Rc2         N01010 VCC  1k  
+C_C3         N01039 0  1n  
+R_Rb1         N00915 VCC  20k  
+C_C4         N01010 OUT  1n  

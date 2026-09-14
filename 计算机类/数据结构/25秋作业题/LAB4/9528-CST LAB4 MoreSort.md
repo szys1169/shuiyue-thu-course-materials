@@ -1,0 +1,103 @@
+<!-- 来源：https://dsa.cs.tsinghua.edu.cn/oj/problem.shtml?id=9528 -->
+
+# CST LAB4 MoreSort
+
+---
+
+经典排序算法应用到现实世界中时，会产生很多变种。 这道LAB带着大家探索快速排序算法的一些变种，帮助你：1. 更加深入地理解快速排序 2. 体会在现实世界中实现算法时需要注意的一些细节
+
+本题没有黑盒测试。**但你仍需要完成黑盒提交**（可提交任意代码，不影响成绩），**标记最终版本并签署 Honor Code！**
+
+我们首先给出“经典快速排序”的代码:
+
+```
+#include<algorithm>
+#include<cstdio>
+#include<cstdlib>
+const int LIMIT_INSERTION  = ???;
+inline int myrand(int lo, int hi){
+    return lo + rand()%(hi-lo);
+}
+void insertionSort(int array[],int L, int R){
+    for(int i=L+1;i<R;++i){
+        for(int j=i;j>L;--j){
+            if(array[j]<array[j-1]){
+                std::swap(array[j],array[j-1]);
+            }else{
+                break;
+            }
+        }
+    }
+}
+
+int partition(int array[], int lo, int hi){ //LGU 
+    std::swap(array[lo], array[myrand(lo,hi)]);
+    int pivot = array[lo];
+    int mi = lo;
+    for(int k = lo + 1; k < hi; ++k){
+        if(array[k]<pivot){
+            std::swap(array[++mi], array[k]);
+        }
+    }
+    std::swap(array[lo], array[mi]);
+    return mi;
+}
+void classic_quicksort(int array[ ], int lo, int hi){
+    if(hi - lo < 2) return insertionSort(array, lo, hi); // change to LIMIT_INSERTION
+    int mi = partition(array, lo, hi);
+    classic_quicksort(array, lo, mi); 
+    classic_quicksort(array, mi+1, hi);
+}
+```
+
+**任务1 插入排序优化**
+
+当前代码中，实现了待排序长度较小时，改用插入排序完成最终排序的优化。请在你的机器上用实际数据测试比较，找到一个性能较好的LIMIT_INSERTION 数值，或一个选取LIMIT_INSERTION的策略。
+
+提示：构造一些规模较大的数据, 然后调整不同的LIMIT_INSERTION数值，进行计时比较。
+
+实验报告中，任务1需汇报实验数据生成方式、测试过程和结果。测试结果需反映：整体上，随着LIMIT_INSERTION数值从极小增加到极大，性能先上升后下降。
+
+**任务2 内省排序**
+
+C++标准库的快速排序使用名为IntroSort（内省排序）的算法。除了插入排序的优化，它还实现了递归深度 > 2log2(n)2 log_2(n)  时，改用堆排序完成剩余排序的优化（n为最开始的待排序长度)。请基于给出的代码，实现IntroSort的优化。(参考堆排序的示例代码）。随后，通过srand固定随机数种子，然后构造一个特殊的测例，使得classic_quicksort 需要接近 O(n2)O(n^2)的时间，而IntroSort体现出性能优势。
+
+提示：固定随机数种子后，写一个程序，就可以知道每次选择轴点时会选择哪个数字。构造测例时，让每次选择轴点都恰好选到当前区间内的最大值/最小值。
+
+实验报告中，任务2需要提交IntroSort的代码、以及构造特殊测例所使用的代码，并汇报对比测试的结果。
+
+**任务3 双轴点快速排序**
+
+java标准库中，使用了DualPivot Qsort：每次会随机选择两个轴点，将数组分为三份向下递归。
+
+请基于给出的代码，实现DualPivot QSort的优化, 并与classic_quicksort做性能测试比较。
+
+实验报告中，任务3需要提交DualPivot Qsort的代码，性能测试比较结果，并分析DualPivot QSort的期望时间复杂度。
+
+**任务4 感受分支预测对快速排序性能的影响**
+
+考虑用这样的测试，来观察轴点选取均衡程度对快速排序性能的影响：
+
+我们尝试对数字1到n的随机排列执行快速排序，那么任意递归实例中，我们都容易确定，当前的待排序区间是数字L到R区间内的所有数字。
+
+在每个区间选取轴点时，我们总是选取L到R之间，大小排名约k%的数字。如果k=50，就是总选择中位数做轴点。k=0，就是总选择最小数字作为轴点。
+
+选择轴点后将数字划分到两边的过程仍和classic_quicksort相同。
+
+这样，我们就能模拟出"总是选取大小排名k%的数字作为轴点"的快速排序情形。
+
+理论上，应当是k=50时性能最优。但真实世界里一定是这样吗？请实现上述所说的测试，并对k=10，20，30，40，50, 60, 90进行测试。
+
+实验报告中，任务4需要提交代码、测例生成方式、测试过程和测试结果。
+
+尝试分析一下：k=10和k=90、k=40和k=60的用时是否对称？如果并不对称，可能是因为哪些原因？
+
+现代处理器的“分支预测”特性可能会导致最优的k不等于50。简单来说，分支预测对循环中反复执行的if语句起作用，处理器对这个if语句假设结果为真/为假，来加载后续的指令。如果处理器的假设错误，就会导致性能的损失。可以想象，如果一个判断条件总是为真，那么分支预测就几乎没有性能损失。如果一个判断为真的概率在50%左右，分支预测的性能损失会最大化。当然，这种现象在不同的机器上可能表现的程度不同。因此，测试结果是否反映该现象不影响分数，重要的是提交真实的测试结果。
+
+不计分的挑战任务：阅读 David R. Musser. 1997. Introspective sorting and selection algorithms. Softw. Pract. Exper. 27, 8 (Aug. 1997), 983–993. 并做笔记。
+
+不计分的挑战任务：查找资料，学习如何实现不受分支预测失败影响的快速排序，并进行测试比较。（提示：Pattern Defeating QuickSort)
+
+**本题需要提交白盒报告，包含上述四个任务所要求的内容。**
+
+**同时，你需要完成黑盒提交**（可提交任意代码，不影响成绩），**标记最终版本并签署 Honor Code。**

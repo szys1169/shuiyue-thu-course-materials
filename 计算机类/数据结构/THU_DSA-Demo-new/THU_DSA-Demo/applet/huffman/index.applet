@@ -1,0 +1,5 @@
+<html>
+<body>
+<applet archive="huffman.jar" code="AlgAnimApp.class" width="200" height="35" filename="program.txt" buttonname="Huffman Encoding Tree" algname="Huffman Encoding"></applet>
+</body>
+</html>

@@ -1,0 +1,5 @@
+<html>
+<body>
+<APPLET code=main.class archive="diku.jar" height=1000 width=1920 bgcolor="#FFFFFF"></APPLET>
+</body>
+</html>

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, target-densitydpi=medium-dpi">
+    <meta charset="utf-8">
+    <meta name="renderer" content="webkit">
+    <title>访问出错</title>
+    <script src="/wengine-vpn/js/js/wechat-font.js"></script>
+    <style>
+        body {
+            -webkit-text-size-adjust: 100% !important;
+        }
+    </style>
+</head>
+<body style="background-color: #ffffff;">
+<div style="box-sizing: border-box;
+font-size: 1em;
+line-height: 1.6em;
+margin: 14vh auto 0;
+max-width: 600px;
+width: 100%;
+text-align:center;
+">
+    <img src="/wengine-vpn/js/failed.png" alt="" style="width:200px;height:200px;">
+    <div style="margin-top:40px; color:#535353; text-align:left;">
+        <h3>出错啦！该网站无法访问!</h3>
+        <div style="display: block;
+        font-size: .8em;margin-top: 12px;">
+            地址：/tyche/upload/image/20260103/1767409357761041598.png
+            <br>
+            错误代码：INCORRECT_HTTP_REFERER
+            <br>
+            错误信息：无法解析请求的referer: 
+        </div>
+    </div>
+</div>
+
+</body>
+</html>

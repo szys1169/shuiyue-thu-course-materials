@@ -1,0 +1,20 @@
+<html>
+<body>
+<applet
+   code = AppletButtonText2.class
+   archive = pm2.jar
+   width = 240
+   height = 40
+   windowwidth = 1366
+   windowheight = 768
+   windowTitle = "Boyer-Moore algorithm"
+   buttonText = "Boyer-Moore"
+   windowClass = "ProgramTextWindow2"
+   label1 = "Pattern:"
+   input1 = "gcagagag"
+   label2 = "String:"
+   input2 = "gcatcgcagagagtatacagtacgaagcacggacagcagga"
+   program = "BoyerMoore">
+</applet>
+</body>
+</html>
