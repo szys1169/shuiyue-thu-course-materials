@@ -1,0 +1,197 @@
+{
+  "date": "2026-10-18",
+  "course": "计算机类/软件工程",
+  "summary": {
+    "batch": 26,
+    "course": "软件工程",
+    "selected_files": 26,
+    "source_files": 16,
+    "provenance": 10,
+    "excluded_files": 10,
+    "legacy_paths_merged": 0
+  },
+  "files": [
+    {
+      "path": "计算机类/软件工程/代码/2026-2027秋季学期/即时通讯系统/本地原型/.env.example",
+      "sha256": "2898b30da82ac770fd9af30d0c40e4e08642c99843bb7b520ebc1c88c34077d4",
+      "original_sha256": "2898b30da82ac770fd9af30d0c40e4e08642c99843bb7b520ebc1c88c34077d4",
+      "bytes": 73,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/软件工程/代码/2026-2027秋季学期/即时通讯系统/本地原型/.gitignore",
+      "sha256": "49fc8cfd0d9609dc335beded106c2debdea15f43eb55e8960332764160e153a6",
+      "original_sha256": "49fc8cfd0d9609dc335beded106c2debdea15f43eb55e8960332764160e153a6",
+      "bytes": 79,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/软件工程/代码/2026-2027秋季学期/即时通讯系统/本地原型/docker-compose.yml",
+      "sha256": "7d6c8f71b3023d5e13dc51a08ad3ef3ea0c877155b6729c64fb13969ed6737fa",
+      "original_sha256": "7d6c8f71b3023d5e13dc51a08ad3ef3ea0c877155b6729c64fb13969ed6737fa",
+      "bytes": 273,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/软件工程/代码/2026-2027秋季学期/即时通讯系统/本地原型/Dockerfile",
+      "sha256": "956a3d6181885d347090e28240452fd18f38e668086998cb466e57b92e3c7bdb",
+      "original_sha256": "956a3d6181885d347090e28240452fd18f38e668086998cb466e57b92e3c7bdb",
+      "bytes": 153,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/软件工程/代码/2026-2027秋季学期/即时通讯系统/本地原型/package-lock.json",
+      "sha256": "3cd6cf6faf4c8209af269ef19e556985ddefd95c324f65aedc2f4006eafabfbf",
+      "original_sha256": "3cd6cf6faf4c8209af269ef19e556985ddefd95c324f65aedc2f4006eafabfbf",
+      "bytes": 886,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/软件工程/代码/2026-2027秋季学期/即时通讯系统/本地原型/package.json",
+      "sha256": "520ca0a8c4170817e6586695028f902182cfe9738ce3cb06af26bb2da7ae01e5",
+      "original_sha256": "520ca0a8c4170817e6586695028f902182cfe9738ce3cb06af26bb2da7ae01e5",
+      "bytes": 296,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/软件工程/代码/2026-2027秋季学期/即时通讯系统/本地原型/README_原项目说明.md",
+      "sha256": "de2f9fe2afd254ea65bab53a73efeff9b5750bd1f2d8819af4da8cd185180afe",
+      "original_sha256": "de2f9fe2afd254ea65bab53a73efeff9b5750bd1f2d8819af4da8cd185180afe",
+      "bytes": 2795,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/软件工程/代码/2026-2027秋季学期/即时通讯系统/本地原型/rubric.txt",
+      "sha256": "9eba3c7ee871f64da9ad40d607809fae41d93171e88380160cb400fbd6a9512b",
+      "original_sha256": "9eba3c7ee871f64da9ad40d607809fae41d93171e88380160cb400fbd6a9512b",
+      "bytes": 2410,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/软件工程/代码/2026-2027秋季学期/即时通讯系统/本地原型/server.js",
+      "sha256": "fe342a8dcb9312bc21a23e6d8e6b1f67a9fb56dddeb4c3cc775df2b12c98d1fb",
+      "original_sha256": "fe342a8dcb9312bc21a23e6d8e6b1f67a9fb56dddeb4c3cc775df2b12c98d1fb",
+      "bytes": 24597,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/软件工程/代码/2026-2027秋季学期/即时通讯系统/本地原型/docs/数据库与接口设计.md",
+      "sha256": "ae672788404ca8896db5103dac637304e94a9e2637994c8cc054c5d0660e3481",
+      "original_sha256": "ae672788404ca8896db5103dac637304e94a9e2637994c8cc054c5d0660e3481",
+      "bytes": 3478,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/软件工程/代码/2026-2027秋季学期/即时通讯系统/本地原型/docs/演示与过程管理.md",
+      "sha256": "e73ad51b2ec00b2c9116d94017a8c6616f8948c29c746321a3442f9f4ebb81d0",
+      "original_sha256": "e73ad51b2ec00b2c9116d94017a8c6616f8948c29c746321a3442f9f4ebb81d0",
+      "bytes": 2994,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/软件工程/代码/2026-2027秋季学期/即时通讯系统/本地原型/docs/项目说明与需求追踪.md",
+      "sha256": "45486dff4f6a4ee151730621dd47290f8b742c896613108b009d610c7949ecca",
+      "original_sha256": "45486dff4f6a4ee151730621dd47290f8b742c896613108b009d610c7949ecca",
+      "bytes": 3606,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/软件工程/代码/2026-2027秋季学期/即时通讯系统/本地原型/public/app.js",
+      "sha256": "91ce6f36bd2fdf5a56d1b6a80b85d090bfcfe884254afca044e461a8f949f58a",
+      "original_sha256": "91ce6f36bd2fdf5a56d1b6a80b85d090bfcfe884254afca044e461a8f949f58a",
+      "bytes": 30702,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/软件工程/代码/2026-2027秋季学期/即时通讯系统/本地原型/public/index.html",
+      "sha256": "0a1c5b3096db226e4b677aa6ff881fdbdf7170fa22c726b51175af13d09833e0",
+      "original_sha256": "0a1c5b3096db226e4b677aa6ff881fdbdf7170fa22c726b51175af13d09833e0",
+      "bytes": 4966,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/软件工程/代码/2026-2027秋季学期/即时通讯系统/本地原型/public/styles.css",
+      "sha256": "b3ffbf1292660b4f8b7df1401332e9958c293386ddd8c8f6451c0a6fd0d976bb",
+      "original_sha256": "b3ffbf1292660b4f8b7df1401332e9958c293386ddd8c8f6451c0a6fd0d976bb",
+      "bytes": 20060,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/软件工程/作业/2026-2027秋季学期/小作业/课程链接.md",
+      "sha256": "22dcef133fd42578fabfda8198ecba8d7fcb4d66ca8e0aad35c0018b8d6b5edc",
+      "original_sha256": "22dcef133fd42578fabfda8198ecba8d7fcb4d66ca8e0aad35c0018b8d6b5edc",
+      "bytes": 1071,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/软件工程/README.md",
+      "sha256": "f80d5dccaf1606764da61a8310683b51f0349318c3d35358f12fd84df470f362",
+      "original_sha256": "1750b919371beae869c9f710318ead3248fbb976fc12983c48e81b674e7db19d",
+      "bytes": 449,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/软件工程/代码/README.md",
+      "sha256": "97c55cfbd3fd0014613a1b13dc13cca7319bbace1927082d01541d34038247e2",
+      "original_sha256": "5fd190675a428d53dcaa0168b13cde557f4541813b3e6e401698563b5efcd9e1",
+      "bytes": 703,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/软件工程/代码/2026-2027秋季学期/README.md",
+      "sha256": "8c987ac90d82d99253fa2c893d76e4b03ec1a21429e4e4f281dc3aa21b818fbf",
+      "original_sha256": "f546d6c714c40e539f8e4bb4b72d8ce9eca3f7a42c793361540481bf8af046d5",
+      "bytes": 718,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/软件工程/代码/2026-2027秋季学期/即时通讯系统/README.md",
+      "sha256": "6006b64d7b79c2f74c95794929b988a5072a458b85e988c7583fd7c844b97d85",
+      "original_sha256": "edf7f76360ee561314bc77c69ae702fa405fed7277710347b3ae0f7bf6ee7bdb",
+      "bytes": 715,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/软件工程/代码/2026-2027秋季学期/即时通讯系统/本地原型/README.md",
+      "sha256": "ee4017859b5d52931f951343b00b318c0868897a9609786a53155c424a39110d",
+      "original_sha256": "425214716a78248f5b77504c498b59c83f60713395d2d70c5e4d6d496225d893",
+      "bytes": 2539,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/软件工程/代码/2026-2027秋季学期/即时通讯系统/本地原型/docs/README.md",
+      "sha256": "ed46ab0926857fe32f626eb9a9961ff1bacf50a11df9d249814ad7b5ca3910f2",
+      "original_sha256": "9305099bc37007e11e00852fa5e800687e10a7837f418344e5827712ae159e3d",
+      "bytes": 1537,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/软件工程/代码/2026-2027秋季学期/即时通讯系统/本地原型/public/README.md",
+      "sha256": "a81ff71a821edd7a391ff93d9f560e3f0eca367e20b2aa9cb9d9c4617bd64b9f",
+      "original_sha256": "e923bb27e12a83a154fab1f2c37f4fdcceed75704fd9f46ce2f0ebe06accde35",
+      "bytes": 1429,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/软件工程/作业/README.md",
+      "sha256": "824f677bfcfcff5f949285c32d5591e035274bf5a2c910709c7e4b062577a923",
+      "original_sha256": "7f6f64cc106e4d4e467ff68604f0d37518803739b2793ad334e524e11871948f",
+      "bytes": 500,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/软件工程/作业/2026-2027秋季学期/README.md",
+      "sha256": "fa36ad3c6f23ff66b4d9abc5e691c1c9bc00810107b986cd91e9d88885038a45",
+      "original_sha256": "73977c142800c4e5d4b04d2dd94a7eb3a35bdbb8766af20125dc6b7ff000a164",
+      "bytes": 515,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/软件工程/作业/2026-2027秋季学期/小作业/README.md",
+      "sha256": "cf5565e022ca677b17bb886b094ffe8b6c48584e43afc2dde6c468d97813243e",
+      "original_sha256": "82acd7f9021cf4f8ce832767a9105c60d93a1da4e6aa32d170cc50a97fa6781a",
+      "bytes": 613,
+      "kind": "provenance"
+    }
+  ]
+}

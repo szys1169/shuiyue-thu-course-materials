@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#fff7fb"><meta name="description" content="Sakura IM · 与重要的人保持心跳同步">
+  <title>Sakura · 星屿通讯社</title><link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <div id="toast-root" aria-live="polite"></div>
+  <main id="auth-view" class="auth-shell hidden">
+    <div class="auth-art"><div class="moon"></div><div class="auth-brand"><span class="brand-mark">✿</span><span>星屿通讯社</span></div><div class="auth-copy"><div class="eyebrow">A LITTLE PLACE FOR YOUR HEART</div><h1>让每一次<br>心动都有<span>回应。</span></h1><p>把想念写成消息，送到那个人身边。</p></div><div class="float-card"><span>🌸</span><div><b>今天也要元气满满！</b><small>小樱 · 刚刚</small></div><i>✦</i></div><div class="art-note">星星会听见每一个温柔的愿望</div></div>
+    <section class="auth-panel"><div class="auth-mobile-brand">✿ 星屿通讯社</div><div class="auth-heading"><span class="kicker">WELCOME TO YOUR LITTLE UNIVERSE</span><h2 id="auth-title">欢迎回来，旅人</h2><p id="auth-subtitle">登录后，继续和朋友们的故事吧。</p></div>
+      <form id="auth-form"><label id="username-field" class="field hidden">你的昵称<input name="username" minlength="2" maxlength="24" placeholder="比如：小樱" autocomplete="nickname"></label><label class="field">邮箱地址<input name="email" type="email" required placeholder="you@example.com" autocomplete="email"></label><label class="field">登录密码<input name="password" type="password" minlength="6" required placeholder="至少 6 位字符" autocomplete="current-password"></label><button class="primary-button auth-submit" type="submit"><span id="auth-submit-label">进入星屿</span><span>→</span></button></form>
+      <div class="auth-switch"><span id="auth-switch-copy">还没有账号吗？</span><button id="auth-switch" class="text-button">创建一个</button></div><div class="demo-box"><span class="demo-sparkle">✦</span><div><b>第一次来？试试体验账号</b><p>点击填入 · sakura@hoshi.dev <span> / </span> 123456</p></div><button id="demo-fill" aria-label="填入体验账号">↗</button></div><div class="auth-foot">✧ 你的私人小宇宙，已准备就绪 ✧</div></section>
+  </main>
+  <div id="app" class="app-shell hidden">
+    <aside class="rail"><div class="rail-logo" title="星屿通讯社">✿</div><div class="rail-nav"><button class="rail-item active" data-view="chats" title="聊天">◉<i></i></button><button class="rail-item" data-view="friends" title="好友">♧<span id="friend-badge" class="nav-badge hidden"></span></button><button class="rail-item" data-view="discover" title="发现">✧</button></div><div class="rail-bottom"><button id="invite-button" class="rail-item invite-icon" title="群邀请">✉<span id="invite-badge" class="nav-badge hidden"></span></button><button id="profile-button" class="rail-avatar">🌸</button></div></aside>
+    <aside class="list-panel"><header class="list-top"><div><span class="tiny-label">YOUR LITTLE UNIVERSE</span><h1 id="list-title">消息 <span class="heading-flower">✿</span></h1></div><button id="new-chat" class="icon-button create-button" title="开始新对话">＋</button></header><div class="search-wrap"><span>⌕</span><input id="search-input" placeholder="找一找，谁在线..." aria-label="搜索会话"></div><div id="list-tabs" class="list-tabs"><button class="selected" data-filter="all">全部</button><button data-filter="unread">未读 <span id="unread-count" class="tab-count hidden"></span></button><button data-filter="groups">群聊</button></div><div id="conversation-list" class="conversation-list"></div><div class="list-footer"><span class="online-dot"></span> <span id="online-label">正在连接星屿…</span><span class="footer-star">✦</span></div></aside>
+    <section id="main-pane" class="main-pane"><div class="welcome-state"><div class="welcome-orbit orbit-one"></div><div class="welcome-orbit orbit-two"></div><div class="welcome-icon">🌙</div><div class="welcome-spark sp-one">✦</div><div class="welcome-spark sp-two">✧</div><div class="welcome-kicker">A MESSAGE IS A LITTLE BRIDGE</div><h2>今天，想和谁<br>分享<span>一点心事？</span></h2><p>选择左边的一位朋友，<br>让故事从这里开始吧。</p><button id="welcome-new" class="soft-button">开启一段对话 <span>→</span></button><div class="welcome-foot">STAY CLOSE, EVEN FROM FAR AWAY</div></div></section>
+    <aside id="detail-panel" class="detail-panel hidden"><div class="detail-ornament">✧</div><button id="close-detail" class="icon-button detail-close">×</button><div id="detail-content"></div></aside>
+  </div>
+  <div id="modal-root"></div><script src="/app.js"></script>
+</body>
+</html>

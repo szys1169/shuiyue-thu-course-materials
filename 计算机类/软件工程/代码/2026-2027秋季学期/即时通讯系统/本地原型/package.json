@@ -1,0 +1,9 @@
+{
+  "name": "sakura-im",
+  "version": "1.0.0",
+  "private": true,
+  "description": "面向课程大作业的二次元风格即时通讯系统",
+  "scripts": { "start": "node server.js", "dev": "node --watch server.js" },
+  "engines": { "node": ">=22.5" },
+  "dependencies": { "ws": "^8.18.3" }
+}
