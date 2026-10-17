@@ -1,0 +1,133 @@
+{
+  "summary": {
+    "source_files": 6,
+    "provenance": 10,
+    "selected_files": 16,
+    "excluded_current_files": 6,
+    "local_links_verified": 15,
+    "cloud_links": 1,
+    "legacy_exact_paths_merged": 6,
+    "only_batch30_current22_scope": true
+  },
+  "files": [
+    {
+      "path": "物理类/大学物理/习题与解答/王佳平来源/章节练习/质点系力学题目.pdf",
+      "sha256": "df38054b4bd5a80c94410cc170710b44ae5df55cee4a4dd46f01129d648c921d",
+      "original_sha256": "df38054b4bd5a80c94410cc170710b44ae5df55cee4a4dd46f01129d648c921d",
+      "bytes": 549652,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/王佳平来源/章节练习/第一章第二章质点运动学和动力学题目.pdf",
+      "sha256": "4a27d1a68cd94461f7dd91cf14d86df4838873ca30f645b839379b93c0bf460f",
+      "original_sha256": "4a27d1a68cd94461f7dd91cf14d86df4838873ca30f645b839379b93c0bf460f",
+      "bytes": 701449,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/王佳平来源/章节练习/刚体定轴转动习题.pdf",
+      "sha256": "1f3bee00ec9b710e8463a7a913fd86f94ed5c23dbf81f48fdbf10f482bf144d9",
+      "original_sha256": "1f3bee00ec9b710e8463a7a913fd86f94ed5c23dbf81f48fdbf10f482bf144d9",
+      "bytes": 2084900,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/王佳平来源/章节练习/README.md",
+      "sha256": "22b35dc1e626dd2169e2eceb4b3ea18a313daba6098fcdce0170b26f4c600bf0",
+      "original_sha256": "22b35dc1e626dd2169e2eceb4b3ea18a313daba6098fcdce0170b26f4c600bf0",
+      "bytes": 1704,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/王佳平来源/README.md",
+      "sha256": "de47d319d3b46e503ea2a6ef8456ecb93422a674fca9817f7a2ae7fdd42694e6",
+      "original_sha256": "de47d319d3b46e503ea2a6ef8456ecb93422a674fca9817f7a2ae7fdd42694e6",
+      "bytes": 851,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/复习/王佳平来源/期末练习/题目/期末练习题.pdf",
+      "sha256": "aab957c291bf183fd0bff98ced0e7fb645e5439cf2b2bf88fb937750338328fb",
+      "original_sha256": "aab957c291bf183fd0bff98ced0e7fb645e5439cf2b2bf88fb937750338328fb",
+      "bytes": 676829,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/复习/王佳平来源/期末练习/题目/README.md",
+      "sha256": "fbe2b1855b0804f5ea0429ef4c2715de95d571f901cca4ccfe9ab6fb94f51562",
+      "original_sha256": "fbe2b1855b0804f5ea0429ef4c2715de95d571f901cca4ccfe9ab6fb94f51562",
+      "bytes": 1057,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/复习/王佳平来源/期末练习/手写参考答案_作者未核/期末练习题答案.jpg",
+      "sha256": "dd72d88885de9196ecf8742f2698b4906cc9fc4a9bbfbc7a3554a9dccc72450e",
+      "original_sha256": "dd72d88885de9196ecf8742f2698b4906cc9fc4a9bbfbc7a3554a9dccc72450e",
+      "bytes": 5067685,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/复习/王佳平来源/期末练习/手写参考答案_作者未核/README.md",
+      "sha256": "acee009c38e16370c478dede668ffce1621fb94c5467ff8b31cddb0f954b3fad",
+      "original_sha256": "acee009c38e16370c478dede668ffce1621fb94c5467ff8b31cddb0f954b3fad",
+      "bytes": 1084,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/复习/王佳平来源/期末练习/README.md",
+      "sha256": "857f3c25c734d4fbbdf0f46b0cd3371c842f374c478edbcd1c5b1a2acf90018d",
+      "original_sha256": "857f3c25c734d4fbbdf0f46b0cd3371c842f374c478edbcd1c5b1a2acf90018d",
+      "bytes": 966,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/复习/王佳平来源/README.md",
+      "sha256": "c995e6fc75252f944d71ec9addfc3dfed745144b0c249ab7b88f82016cd5fe60",
+      "original_sha256": "c995e6fc75252f944d71ec9addfc3dfed745144b0c249ab7b88f82016cd5fe60",
+      "bytes": 851,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/往年题/王佳平来源/期中A卷_年份未核/带手写标注/期中A答案.pdf",
+      "sha256": "83e241f0aa6765877542c3b6ffd09caaf4931f43d79f68823605a0bf6207956c",
+      "original_sha256": "83e241f0aa6765877542c3b6ffd09caaf4931f43d79f68823605a0bf6207956c",
+      "bytes": 750120,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/往年题/王佳平来源/期中A卷_年份未核/带手写标注/README.md",
+      "sha256": "3eb136b4707b09173cc5575b893d14636eb17abf2aa787af0559dcbc9278b843",
+      "original_sha256": "3eb136b4707b09173cc5575b893d14636eb17abf2aa787af0559dcbc9278b843",
+      "bytes": 1058,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/往年题/王佳平来源/期中A卷_年份未核/README.md",
+      "sha256": "607c0c0bbc63f201da9e9bd9662890b0af61c6fa13944117b534f602207c9bcd",
+      "original_sha256": "607c0c0bbc63f201da9e9bd9662890b0af61c6fa13944117b534f602207c9bcd",
+      "bytes": 863,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/往年题/王佳平来源/README.md",
+      "sha256": "d5ce02df4d9eade25b1ee8a5bd7fcbe533a63b477ae0a924377f783405359a46",
+      "original_sha256": "d5ce02df4d9eade25b1ee8a5bd7fcbe533a63b477ae0a924377f783405359a46",
+      "bytes": 891,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/README_王佳平资料_第30批.md",
+      "sha256": "8f06826e7c2d1000c4f323b76b94e528d19faa6b70cc904b3ba56cd39a0f3bc1",
+      "original_sha256": "9c309a37fb8f08edb75f714b52d6842e0b1708abab036895e7730fa5a53764e4",
+      "bytes": 1375,
+      "kind": "provenance"
+    }
+  ],
+  "link_adaptations": [
+    {
+      "from": "README_王佳平资料_第30批.md",
+      "target": "讲义/王佳平来源/README.md",
+      "cloud": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E8%AE%B2%E4%B9%89/%E7%8E%8B%E4%BD%B3%E5%B9%B3%E6%9D%A5%E6%BA%90/"
+    }
+  ]
+}
