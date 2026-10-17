@@ -1,0 +1,67 @@
+{
+  "batch": 61,
+  "rawCount": 5,
+  "rawBytes": 131659066,
+  "files": [
+    {
+      "originalName": "研究生教学用书-高等激光物理学（第2版）-李福利-高等教育出版社-2006.djvu",
+      "targetPath": "光学/教材/激光与光子学/李福利_高等激光物理学_第2版2006/DJVU_版次年份据源名_待核/研究生教学用书-高等激光物理学（第2版）-李福利-高等教育出版社-2006.djvu",
+      "sourceDirectory": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/%E4%B9%A6%E7%B1%8D",
+      "role": "教材",
+      "bytes": 10608289,
+      "sha256": "a7ec13a150474f3373e128b70660de3a760e679ff5d38437a12d9cdf63c7e4d7",
+      "pdfPages": null,
+      "evidence": "DJVU原名标李福利《高等激光物理学》第2版、高等教育出版社、2006。本机现有MuPDF不支持该格式，正文、语言、页数及出版信息未核；不能拿同名PDF的版权页替代本文件证据，独立待核保留。",
+      "publicGit": "metadata_only",
+      "cloudAction": "相同SHA既有目标原件服务器移动"
+    },
+    {
+      "originalName": "研究生教学用书-高等激光物理学（第2版）-李福利-高等教育出版社-2006.pdf",
+      "targetPath": "光学/教材/激光与光子学/李福利_高等激光物理学_第2版2006/研究生教学用书-高等激光物理学（第2版）-李福利-高等教育出版社-2006.pdf",
+      "sourceDirectory": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/%E4%B9%A6%E7%B1%8D",
+      "role": "教材",
+      "bytes": 47154374,
+      "sha256": "bff878e681d76557b38e8b0424aa4d901a5585b1d7fe0d5ac0b37d1b299cbe22",
+      "pdfPages": 579,
+      "evidence": "封面、扉页及版权页确认《高等激光物理学（第二版）》、李福利编著，高等教育出版社，2006年7月第2版、2006年7月第1次印刷，ISBN7-04-018402-8，共579 PDF页。归光学/激光与光子学教材；内容提要提到多校教学基础，不据此认定为清华特定学期指定教材。",
+      "publicGit": "metadata_only",
+      "cloudAction": "相同SHA既有目标原件服务器移动"
+    },
+    {
+      "originalName": "研究生教学用书-激光光学：光束描述、传输变换与光腔技术物理（第3版）-吕百达-高等教育出版社-2003.pdf",
+      "targetPath": "光学/教材/激光与光子学/吕百达_激光光学_第3版_CIP2003/研究生教学用书-激光光学：光束描述、传输变换与光腔技术物理（第3版）-吕百达-高等教育出版社-2003.pdf",
+      "sourceDirectory": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/%E4%B9%A6%E7%B1%8D",
+      "role": "教材",
+      "bytes": 8673980,
+      "sha256": "1d1fefc6c31b2afa7e9eeb22759e9cce5eb68d888aa694ab9ff2f39ea636b4f0",
+      "pdfPages": 517,
+      "evidence": "版权页CIP确认《激光光学：光束描述、传输变换与光腔技术物理》、吕百达著、第3版、高等教育出版社，CIP出版信息2003.12，ISBN7-04-012967-1，共517 PDF页。版权版次栏列1986年7月第1版，但第3版及本次印刷年月留空，因此目录标第3版_CIP2003，不把CIP年月当作已确认印刷日期。",
+      "publicGit": "metadata_only",
+      "cloudAction": "相同SHA既有目标原件服务器移动"
+    },
+    {
+      "originalName": "研究生教学用书-晶格振动光谱学（第2版）-张光寅＆蓝国祥-高等教育出版社-2001.pdf",
+      "targetPath": "固体物理/参考阅读/晶格振动光谱/张光寅_蓝国祥_王玉芳_第2版_版权页待核/研究生教学用书-晶格振动光谱学（第2版）-张光寅＆蓝国祥-高等教育出版社-2001.pdf",
+      "sourceDirectory": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/%E4%B9%A6%E7%B1%8D",
+      "role": "专题参考书扫描本",
+      "bytes": 16168064,
+      "sha256": "e5a62a31c844ac3462a6eb4cbb19ab158cfd3f031bd4361571bcdd3d328c90ac",
+      "pdfPages": 422,
+      "evidence": "422 PDF页，从内容摘要与第二版序言开始，未见扉页或版权页。第二版序言署张光寅、蓝国祥、王玉芳，2000年8月于南开大学；正文页眉及内容确为《晶格振动光谱学》，含晶格动力学、布里渊/拉曼/红外光谱。归固体物理专题参考。源名只列前两位且标高教2001，作者署名补记王玉芳，出版社/2001仅来源命名未核。保留既有pdfFactory Pro试用版页脚，不去水印或改字节。",
+      "publicGit": "metadata_only",
+      "cloudAction": "相同SHA既有目标原件服务器移动"
+    },
+    {
+      "originalName": "同步辐射应用概论-马礼敦＆杨福家-复旦大学出版社-2001.pdf",
+      "targetPath": "光学/参考阅读/同步辐射/同步辐射应用概论_源名马礼敦杨福家_版权页待核/同步辐射应用概论-马礼敦＆杨福家-复旦大学出版社-2001.pdf",
+      "sourceDirectory": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/%E4%B9%A6%E7%B1%8D",
+      "role": "专题参考书扫描本",
+      "bytes": 49054359,
+      "sha256": "5ce2b4bacef8ebd76b89b0f251a4eaba4d7db0530d4a9aa6106be53c37b3e2ac",
+      "pdfPages": 523,
+      "evidence": "523 PDF页，从内容摘要开始，缺扉页、版权页。正文页眉及序言确认《同步辐射应用概论》主题，前言介绍复旦公共选修课资料汇编、列集体章节编写人员，末署“编者，2000年”。源名马礼敦、杨福家是收集命名组合，不作为完整作者清单；复旦大学出版社、2001仅来源文件名，版本待核。以同步辐射与光谱实验应用参考书归光学/参考阅读，不继续混在量子力学教材。",
+      "publicGit": "metadata_only",
+      "cloudAction": "相同SHA既有目标原件服务器移动"
+    }
+  ]
+}
