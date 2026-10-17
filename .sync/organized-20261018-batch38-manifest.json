@@ -1,0 +1,113 @@
+{
+  "summary": {
+    "source_files": 3,
+    "provenance": 7,
+    "selected_files": 10,
+    "excluded_files": 5,
+    "local_links_verified": 11,
+    "cloud_links_adapted": 5,
+    "legacy_exact_paths_merged": 3,
+    "only_accepted_mapping_used": true,
+    "existing_same_sha_references": 0,
+    "private_current_paths_removed": 4
+  },
+  "files": [
+    {
+      "path": "物理类/电动力学/README.md",
+      "sha256": "5d5e070f37b27e29a8b8dd532848a1dbb107317e16af5f62b5b4834227dfcc72",
+      "original_sha256": "2919a5fd750ec8d0153616dd7455f8f2211e0ef3a269a2cd9938a2a2ec8e3060",
+      "bytes": 2262,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/电动力学/2022春考试题&习题课/README_迁移说明.md",
+      "sha256": "ec446aaa80826a7ea4174402edeaf37bc59c6e5a214cdae6e28de80445b48c1f",
+      "original_sha256": "c185d3be3be56d26d24f598ee49af31d12b88f4f714eb22b61ade49e22541f1d",
+      "bytes": 937,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/电动力学/课程信息/2022春/README.md",
+      "sha256": "8aed9616f8a5e0d21f5cd68e94ce18dee85e02f97c9bdc82f2d995185c284375",
+      "original_sha256": "0b738e653467acf595c2d6e385399161768a79344ab005e9c05aab6407a8b4f8",
+      "bytes": 1527,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/电动力学/讲义/王青_年份未核/README.md",
+      "sha256": "0fa9aa4623e40b1fcf7d9ef57df035b249108dcba129827fc63cd679617dcd75",
+      "original_sha256": "2f49139ffd1519f3c36bb421b9116adc8881930529dc84f36cdeb3e350a1d9bd",
+      "bytes": 1394,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/电动力学/往年题/2022春/EXAM22-2.pdf",
+      "sha256": "a56d4e56bec1c0660b89ff1c71a84d74aa7c13ceb01fe7d8b88cfd0594ee74f2",
+      "original_sha256": "a56d4e56bec1c0660b89ff1c71a84d74aa7c13ceb01fe7d8b88cfd0594ee74f2",
+      "bytes": 161372,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/电动力学/往年题/2022春/EXAM22-3.pdf",
+      "sha256": "a61a16e52f0f47719e81951075697b2419bb3cabb6bfb2cf79f8dbc1791fc7b6",
+      "original_sha256": "a61a16e52f0f47719e81951075697b2419bb3cabb6bfb2cf79f8dbc1791fc7b6",
+      "bytes": 188377,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/电动力学/往年题/2022春/README.md",
+      "sha256": "c7146eb909ec964031e8e0dff57cc3fa8f0fe9ed850dc07badc2a9b9c2cf3d0e",
+      "original_sha256": "0a4730141c60dfb6e409961e148557dd556c4197f595ed1a4a25d4161d33971f",
+      "bytes": 1317,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/电动力学/往年题/来源标注2025春_正文年份未核/2025春王青电动第一次考试题目.pdf",
+      "sha256": "256e09d5a21a61623e2bb65c74648f5569ba21df038e0b67ae0507c527452355",
+      "original_sha256": "256e09d5a21a61623e2bb65c74648f5569ba21df038e0b67ae0507c527452355",
+      "bytes": 269476,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/电动力学/往年题/来源标注2025春_正文年份未核/README.md",
+      "sha256": "7226f2a285a07f381970a4b9d7e60103a8b1f9917ae5ff78816900e52a4c388b",
+      "original_sha256": "863a7ab079ae5e7208f02a8856daf7bb37482b7c1451ad0464457865ff56a160",
+      "bytes": 1420,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/电动力学/习题课/2022春_来源标注/README.md",
+      "sha256": "59b2b120e1d23e032329bc300f96fb6bb3c2c6aa6bb6b5e603fc35cb1a8d887e",
+      "original_sha256": "c6ef8d950f04239c3e553387f566f55c9162518829d7a03100ca52784c52b8c3",
+      "bytes": 2116,
+      "kind": "provenance"
+    }
+  ],
+  "link_adaptations": [
+    {
+      "from": "课程信息/2022春/README.md",
+      "target": "课程信息/2022春/2022春电动力学大纲&习题.pdf",
+      "cloud": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6/%E8%AF%BE%E7%A8%8B%E4%BF%A1%E6%81%AF/2022%E6%98%A5/"
+    },
+    {
+      "from": "讲义/王青_年份未核/README.md",
+      "target": "讲义/王青_年份未核/王青电动力学课件.pdf",
+      "cloud": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6/%E8%AE%B2%E4%B9%89/%E7%8E%8B%E9%9D%92_%E5%B9%B4%E4%BB%BD%E6%9C%AA%E6%A0%B8/"
+    },
+    {
+      "from": "习题课/2022春_来源标注/README.md",
+      "target": "习题课/2022春_来源标注/第一次习题课.pdf",
+      "cloud": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6/%E4%B9%A0%E9%A2%98%E8%AF%BE/2022%E6%98%A5_%E6%9D%A5%E6%BA%90%E6%A0%87%E6%B3%A8/"
+    },
+    {
+      "from": "习题课/2022春_来源标注/README.md",
+      "target": "习题课/2022春_来源标注/第三次习题课.pdf",
+      "cloud": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6/%E4%B9%A0%E9%A2%98%E8%AF%BE/2022%E6%98%A5_%E6%9D%A5%E6%BA%90%E6%A0%87%E6%B3%A8/"
+    },
+    {
+      "from": "习题课/2022春_来源标注/README.md",
+      "target": "习题课/2022春_来源标注/第二次习题课.pdf",
+      "cloud": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6/%E4%B9%A0%E9%A2%98%E8%AF%BE/2022%E6%98%A5_%E6%9D%A5%E6%BA%90%E6%A0%87%E6%B3%A8/"
+    }
+  ]
+}
