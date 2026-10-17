@@ -1,0 +1,75 @@
+% 使用 XeLaTeX 编译；版式参照泛函分析作业。
+\documentclass{article}
+\usepackage[UTF8]{ctex}
+\usepackage{sectsty}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{mathrsfs}
+\usepackage{graphicx}
+\title{拓扑学作业（第二周·题目）}
+\author{张溢致\quad 致理数41\quad 2024011936}
+\date{}
+\newcommand{\R}{\mathbb R}
+\newcommand{\problem}[2]{\par\medskip\noindent\textbf{#1.}\ （#2）\quad}
+
+\begin{document}
+\maketitle
+
+\noindent\textbf{提交时间：}2026 年 10 月 1 日上午 8:00 前。
+
+\problem{1}{Armstrong，第 2 章，第 27 题}
+设 $(X,d)$ 是度量空间，$A\subseteq X$。证明
+\[
+  d(x,A)=0 \quad\Longleftrightarrow\quad x\in\overline A,
+\]
+其中 $d(x,A)=\inf\{d(x,a):a\in A\}$。
+
+\problem{2}{Armstrong，第 2 章，第 28 题}
+设 $A,B$ 是度量空间 $(X,d)$ 中两个不相交的闭子集。求两个不相交的开集 $U,V$，使得
+\[
+  A\subseteq U,\qquad B\subseteq V.
+\]
+
+\problem{3}{Armstrong，第 2 章，第 29 题}
+在任意集合 $X$ 上定义
+\[
+  d(x,y)=
+  \begin{cases}
+    0,&x=y,\\
+    1,&x\ne y.
+  \end{cases}
+\]
+证明 $d$ 是一个度量，并说明它在 $X$ 上诱导什么拓扑。
+
+\problem{4}{Armstrong，第 2 章，第 30 题}
+证明度量空间的每个闭子集都是可数多个开集的交。
+
+\problem{5}{Armstrong，第 2 章，第 31 题}
+若 $A,B$ 是度量空间的子集，定义它们之间的距离为
+\[
+  d(A,B)=\inf\{d(x,y):x\in A, y\in B\}.
+\]
+求平面中两个不相交的闭子集，使它们之间的距离为零。并验证所求两个闭集的直径均为无穷大，其中
+\[
+  \operatorname{diam}(A)=\sup\{d(x,y):x,y\in A\}.
+\]
+
+\problem{6}{Armstrong，第 2 章，第 35 题}
+给定连续映射
+\[
+  f:X\longrightarrow\R^{n+1}\setminus\{0\},
+\]
+求连续映射 $g:X\to S^n$，使得 $g$ 在 $f^{-1}(S^n)$ 上与 $f$ 相同。
+
+\problem{7}{Munkres，第 7 章，§43，第 4 题}
+证明度量空间 $(X,d)$ 完备，当且仅当：对每个由非空闭集组成的递减序列
+\[
+  A_1\supseteq A_2\supseteq A_3\supseteq\cdots,
+\]
+只要 $\operatorname{diam}(A_n)\to0$，就有
+\[
+  \bigcap_{n=1}^{\infty}A_n\ne\varnothing.
+\]
+
+\end{document}

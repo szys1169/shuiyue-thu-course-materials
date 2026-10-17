@@ -1,0 +1,137 @@
+% 使用 XeLaTeX 编译；版式延续前两次拓扑学作业。
+\documentclass{article}
+\usepackage[UTF8]{ctex}
+\usepackage{amsmath,amssymb,amsthm,graphicx}
+\usepackage[a4paper,margin=25mm]{geometry}
+\title{拓扑学作业（第 3--4 周·详细答案）}
+\author{张溢致\quad 致理数41\quad 2024011936}
+\date{}
+\newcommand{\R}{\mathbb R}
+\newcommand{\problem}[2]{\par\medskip\noindent\textbf{#1.}\ （#2）\quad}
+\begin{document}
+\maketitle
+\noindent\textbf{截止时间：}2026 年 10 月 15 日上午 8:00。网络学堂要求拍照后提交。\par
+\noindent\textbf{题目来源：}Armstrong《Basic Topology》第 3 章习题 6、8、9、10、11、13、14、21、25、26，另加课程作业第 1 题。\par
+\noindent\textbf{约定：}紧致指每个开覆盖有有限子覆盖；Hausdorff 指任意不同两点有不交开邻域。距离与直径记号为
+\[
+d(x,A)=\inf_{a\in A}d(x,a),\quad
+d(A,B)=\inf_{a\in A,b\in B}d(a,b),\quad
+\operatorname{diam}A=\sup_{a,b\in A}d(a,b).
+\]
+第 4 题按原题取点要求，默认 $A\ne\varnothing$。
+
+\problem{1}{Armstrong，第 3 章，第 6 题}
+说明定理 3.7 中的 Hausdorff 条件不能去掉。
+\par\noindent\textbf{解：}
+定理 3.7 断言：紧致空间到 Hausdorff 空间的连续双射是同胚。令 $X=\{a,b\}$ 带离散拓扑，$Y=\{a,b\}$ 带平凡拓扑 $\{\varnothing,Y\}$，并令 $f:X\to Y$ 为恒等集合映射。有限空间 $X$ 紧致；$f$ 是双射，且因为 $Y$ 的开集只有 $\varnothing,Y$，$f$ 连续。但 $f^{-1}:Y\to X$ 不连续，因为 $\{a\}$ 在 $X$ 中开，而它在 $f^{-1}$ 下的原像 $\{a\}$ 在 $Y$ 中不开。因此 $f$ 不是同胚，说明没有 Hausdorff 条件时结论不成立。
+
+\problem{2}{Armstrong，第 3 章，第 8 题}
+（Lindelöf 定理）若 $X$ 的拓扑有可数基，证明 $X$ 的任意开覆盖都有可数子覆盖。
+\par\noindent\textbf{解：}
+设 $\mathcal B=\{B_n:n\in\mathbb N\}$ 是可数基，$\mathcal U$ 是 $X$ 的开覆盖。对每个满足 $B_n\subseteq U$（某个 $U\in\mathcal U$）的基元素 $B_n$，选取一个这样的 $U_n\in\mathcal U$。所得 $\{U_n\}$ 至多可数。任取 $x\in X$，先选 $U\in\mathcal U$ 使 $x\in U$；由基的定义，有 $B_n$ 满足 $x\in B_n\subseteq U$。这个 $B_n$ 已被选中，因而 $x\in B_n\subseteq U_n$。所以 $\{U_n\}$ 覆盖 $X$，是所求的可数子覆盖。
+
+\problem{3}{Armstrong，第 3 章，第 9 题}
+证明 Hausdorff 空间中两个不相交的紧致子集总存在互不相交的邻域。
+\par\noindent\textbf{解：}
+设 $A,B\subseteq X$ 紧致且不相交。固定 $a\in A$。对每个 $b\in B$，由 Hausdorff 性，取不交的开邻域 $U_{a,b}\ni a$ 和 $V_{a,b}\ni b$。$\{V_{a,b}:b\in B\}$ 覆盖 $B$，故有有限多个 $b_1,\ldots,b_m$，使 $B\subseteq\bigcup_{j=1}^mV_{a,b_j}$。令
+\[
+U_a=\bigcap_{j=1}^mU_{a,b_j},\qquad V_a=\bigcup_{j=1}^mV_{a,b_j}.
+\]
+则 $U_a$ 是 $a$ 的开邻域，$V_a$ 是 $B$ 的开邻域，且 $U_a\cap V_a=\varnothing$。再由 $A$ 紧致，取有限个 $a_1,\ldots,a_k$，使 $A\subseteq\bigcup_{i=1}^kU_{a_i}$。令 $U=\bigcup_iU_{a_i}$、$V=\bigcap_iV_{a_i}$，则 $U,V$ 分别是 $A,B$ 的开邻域。若 $z\in U$，则 $z\in U_{a_i}$ 对某个 $i$ 成立，而 $V\subseteq V_{a_i}$，故 $z\notin V$。因此 $U\cap V=\varnothing$。
+
+\problem{4}{Armstrong，第 3 章，第 10 题}
+设 $A$ 是度量空间 $X$ 的紧致子集。证明存在 $x,y\in A$，使 $A$ 的直径等于 $d(x,y)$。给定 $x\in X$，证明存在 $y\in A$，使 $d(x,A)=d(x,y)$。若闭集 $B$ 与 $A$ 不相交，证明 $d(A,B)>0$。
+\par\noindent\textbf{解：}
+由原题的取点要求，取 $A\ne\varnothing$。$A\times A$ 紧致，而距离函数 $D:A\times A\to\R$、$D(u,v)=d(u,v)$ 连续，因为
+\[
+|d(u,v)-d(u',v')|\le d(u,u')+d(v,v').
+\]
+故 $D$ 在某点 $(x_0,y_0)$ 取得最大值；这个最大值正是 $\operatorname{diam}A$。
+
+固定 $x\in X$。函数 $g:A\to\R$、$g(y)=d(x,y)$ 连续，故在某个 $y_0\in A$ 取得最小值。按下确界的定义，$d(x,A)=d(x,y_0)$。
+
+若 $B=\varnothing$，按通常约定 $d(A,B)=+\infty$，结论成立。否则对每个 $a\in A$，因 $B$ 闭且 $a\notin B$，存在 $r_a>0$ 使 $B(a,r_a)\cap B=\varnothing$，从而 $d(a,B)>0$。函数 $h(a)=d(a,B)$ 是 $1$-Lipschitz 的：由三角不等式，对任意 $a,a'$ 有 $|h(a)-h(a')|\le d(a,a')$。因此 $h$ 在紧致集 $A$ 上取得正的最小值 $m>0$，而
+\[
+d(A,B)=\inf_{a\in A}d(a,B)=m>0.
+\]
+
+\problem{5}{Armstrong，第 3 章，第 11 题}
+找一个拓扑空间及其一个紧致子集，使该子集的闭包不是紧致的。
+\par\noindent\textbf{解：}
+令 $X=\{p\}\cup\mathbb N$，赋予\emph{特定点拓扑}：$U\subseteq X$ 非空时，$U$ 开当且仅当 $p\in U$。这是拓扑，因为任意个含 $p$ 的集合之并仍含 $p$，有限个非空含 $p$ 的集合之交亦含 $p$。单点集 $K=\{p\}$ 是紧致的。由于每个非空开集都含 $p$，$p$ 属于 $X$ 中每个非空开集，故每个点都在 $K$ 的闭包中，即 $\overline K=X$。
+
+但 $X$ 不紧致：开集族 $\{\{p,n\}:n\in\mathbb N\}$ 覆盖 $X$，任意有限个成员仅覆盖有限多个自然数，不能覆盖 $X$。于是紧致子集 $K$ 的闭包 $X$ 不是紧致的。
+
+\problem{6}{Armstrong，第 3 章，第 13 题}
+设 $f:X\to Y$ 为闭映射，且 $Y$ 中每个点的原像都是 $X$ 的紧致子集。证明：只要 $K\subseteq Y$ 紧致，$f^{-1}(K)$ 就紧致。闭映射这一条件能否去掉？
+\par\noindent\textbf{解：}
+设 $\mathcal U$ 是 $f^{-1}(K)$ 的开覆盖。把各成员写成 $X$ 中开集与 $f^{-1}(K)$ 的交，可视为由 $X$ 中开集组成的覆盖。对每个 $y\in K$，纤维 $f^{-1}(\{y\})$ 紧致，故可由 $\mathcal U$ 中有限个成员覆盖。记这些成员的并为 $O_y$，则 $O_y$ 在 $X$ 中开且 $f^{-1}(\{y\})\subseteq O_y$。因为 $f$ 是闭映射，
+\[
+V_y=Y\setminus f(X\setminus O_y)
+\]
+是 $Y$ 中含 $y$ 的开集，并满足 $f^{-1}(V_y)\subseteq O_y$。$\{V_y:y\in K\}$ 覆盖紧致集 $K$，取有限子覆盖 $V_{y_1},\ldots,V_{y_m}$。于是 $f^{-1}(K)$ 由用于构造 $O_{y_1},\ldots,O_{y_m}$ 的有限多个 $\mathcal U$ 成员覆盖，故紧致。
+
+闭映射条件不能去掉。令 $X=\mathbb N$ 带离散拓扑，$Y=\mathbb N$ 带余有限拓扑，并令 $f:X\to Y$ 为恒等集合映射。$f$ 连续且每个纤维是紧致的单点集；$Y$ 紧致，因为任一非空开集只漏掉有限个点，余下点可用有限多个覆盖成员补齐。但 $f^{-1}(Y)=X$ 是无限离散空间，不紧致。这里 $f$ 不是闭映射：离散空间的任意无限且余集也无限的子集为闭集，其在 $Y$ 中的像却不闭。
+
+\problem{7}{Armstrong，第 3 章，第 14 题}
+若单射 $f:X\to Y$ 在把 $f(X)$ 赋予从 $Y$ 诱导的子空间拓扑后，成为 $X$ 到 $f(X)$ 的同胚，则称 $f$ 是 $X$ 到 $Y$ 中的嵌入。证明：从紧致空间到 Hausdorff 空间的单射连续映射必为嵌入。
+\par\noindent\textbf{解：}
+把 $f$ 的陪域限制为像空间，得连续双射 $\widetilde f:X\to f(X)$。Hausdorff 性传给子空间，所以 $f(X)$ 是 Hausdorff 空间。对任意 $X$ 中闭集 $C$，$C$ 是紧致的，故 $f(C)$ 紧致；Hausdorff 空间中的紧致子集闭，因此 $f(C)$ 在 $f(X)$ 中闭。这说明 $\widetilde f$ 是闭映射，其逆映射连续。故 $\widetilde f$ 是同胚，按定义 $f$ 是嵌入。
+
+\problem{8}{Armstrong，第 3 章，第 21 题}
+设 $A\subseteq X$ 与 $B\subseteq Y$ 都紧致，且 $W$ 是 $X\times Y$ 中 $A\times B$ 的一个邻域。求 $A$ 在 $X$ 中的邻域 $U$ 与 $B$ 在 $Y$ 中的邻域 $V$，使 $U\times V\subseteq W$。
+\par\noindent\textbf{解：}
+取开集 $O$ 使 $A\times B\subseteq O\subseteq W$。若 $A$ 或 $B$ 为空，取相应的空邻域即可。以下设二者均非空。固定 $a\in A$。对每个 $b\in B$，由积拓扑的基，存在开集 $U_{a,b}\ni a$、$V_{a,b}\ni b$，满足 $U_{a,b}\times V_{a,b}\subseteq O$。由 $B$ 紧致，选有限个 $b_1,\ldots,b_r$，使 $B\subseteq\bigcup_jV_{a,b_j}$。令
+\[
+U_a=\bigcap_{j=1}^rU_{a,b_j},\qquad V_a=\bigcup_{j=1}^rV_{a,b_j}.
+\]
+那么 $a\in U_a$，$B\subseteq V_a$，而 $U_a\times V_a\subseteq O$：若 $(x,y)\in U_a\times V_a$，取 $j$ 使 $y\in V_{a,b_j}$，同时 $x\in U_a\subseteq U_{a,b_j}$。
+
+再由 $A$ 紧致，取有限个 $a_1,\ldots,a_s$，使 $A\subseteq\bigcup_iU_{a_i}$。令 $U=\bigcup_iU_{a_i}$、$V=\bigcap_iV_{a_i}$。则 $U,V$ 分别是 $A,B$ 的开邻域，且若 $(x,y)\in U\times V$，取 $i$ 使 $x\in U_{a_i}$，则 $y\in V\subseteq V_{a_i}$，所以 $(x,y)\in O\subseteq W$。
+
+\problem{9}{Armstrong，第 3 章，第 25 题}
+证明对角映射 $\Delta:X\to X\times X$，$\Delta(x)=(x,x)$，是连续映射，并验证：$X$ 是 Hausdorff 空间，当且仅当 $\Delta(X)$ 是 $X\times X$ 中的闭集。这里“映射”按课程作业说明指连续映射。
+\par\noindent\textbf{解：}
+对积空间中的基开集 $U\times V$，有 $\Delta^{-1}(U\times V)=U\cap V$，在 $X$ 中开，故 $\Delta$ 连续。
+
+设 $X$ 是 Hausdorff 空间。任取 $(x,y)\notin\Delta(X)$，即 $x\ne y$。存在不交开邻域 $U\ni x$、$V\ni y$。于是 $(x,y)\in U\times V$，且 $(U\times V)\cap\Delta(X)=\varnothing$，说明对角集的补开，$\Delta(X)$ 闭。
+
+反之，若 $\Delta(X)$ 闭，则对任意不同的 $x,y\in X$，点 $(x,y)$ 位于开集 $(X\times X)\setminus\Delta(X)$ 中。由积拓扑的基，存在开邻域 $U\ni x$、$V\ni y$，使 $U\times V$ 包含于该补集。若 $U\cap V$ 非空，任取 $z\in U\cap V$，则 $(z,z)\in(U\times V)\cap\Delta(X)$，矛盾。因此 $U\cap V=\varnothing$，$X$ 为 Hausdorff 空间。
+
+\problem{10}{Armstrong，第 3 章，第 26 题}
+已知投影 $p_1:X\times Y\to X$ 与 $p_2:X\times Y\to Y$ 都是开映射。它们是否总为闭映射？这里开（闭）映射指把开（闭）集映成开（闭）集的映射。
+\par\noindent\textbf{解：}
+不一定。取 $X=Y=\R$，并令
+\[
+C=\{(x,y)\in\R^2:xy=1\}.
+\]
+函数 $(x,y)\mapsto xy$ 连续，故 $C$ 是闭集 $\{1\}$ 的原像，在 $\R^2$ 中闭。但 $p_1(C)=\R\setminus\{0\}$，它在 $\R$ 中不闭。因此 $p_1$ 不是闭映射。由对称性，$p_2(C)=\R\setminus\{0\}$，所以 $p_2$ 也不一定是闭映射。
+
+\problem{11}{课程作业附加题}
+课堂上证明了 $\R^n$ 的子集紧致当且仅当它闭且有界。
+\begin{enumerate}
+\item 举例说明，在一般度量空间中，闭且有界的子集未必紧致。
+\item 设 $X$ 是度量空间，$\varepsilon>0$。若 $E\subseteq X$ 满足：对任意 $x\in X$，存在 $e\in E$ 使 $d(e,x)<\varepsilon$，则称 $E$ 为一个 $\varepsilon$-网。若对任意 $\varepsilon>0$ 都存在有限的 $\varepsilon$-网，则称度量空间\emph{全有界}。证明：完备度量空间的一个子集紧致，当且仅当它闭且全有界。
+\end{enumerate}
+\par\noindent\textbf{解：}
+(1) 取无限集合 $X=\mathbb N$，赋予离散度量
+\[
+d(m,n)=
+\begin{cases}0,&m=n,\\1,&m\ne n.\end{cases}
+\]
+$X$ 作为自身的子集既闭又有界，直径为 $1$；但开覆盖 $\{\{n\}:n\in\mathbb N\}$ 没有有限子覆盖，故 $X$ 不紧致。
+
+(2) 设 $(X,d)$ 完备，$A\subseteq X$。以下“$A$ 全有界”指以子空间度量看 $A$ 时，对每个 $\varepsilon>0$，都能用 $A$ 中有限多个半径 $\varepsilon$ 的球覆盖 $A$。
+
+若 $A$ 紧致，则在 Hausdorff 空间 $X$ 中闭。对任意 $\varepsilon>0$，$\{B_A(a,\varepsilon):a\in A\}$ 是 $A$ 的开覆盖；取有限子覆盖，其球心组成有限 $\varepsilon$-网，故 $A$ 全有界。
+
+反过来设 $A$ 闭且全有界。由于 $X$ 完备，$A$ 也完备。先证明 $A$ 中每个序列都有收敛子列。给定 $(x_n)\subseteq A$，用有限个半径 $1/2$ 的球覆盖 $A$，其中一个球包含无限多个 $x_n$；从这些项中取无限子列。再用有限个半径 $1/4$ 的球覆盖 $A$，从该子列中取仍有无限多项落入同一球的子列。如此进行，得到逐级嵌套的无限指标集，其中第 $k$ 级各项同落在一个半径 $2^{-k}$ 的球中。沿对角线选严格递增的指标 $n_k$，使当 $j,\ell\ge k$ 时 $x_{n_j},x_{n_\ell}$ 同属第 $k$ 级选定的球；于是
+\[
+d(x_{n_j},x_{n_\ell})<2^{1-k}.
+\]
+所以 $(x_{n_k})$ 是 Cauchy 列，因 $A$ 完备而收敛于 $A$ 中一点。
+
+现取 $A$ 的任意开覆盖 $\mathcal U$。存在 $\delta>0$，使 $A$ 中任意半径小于 $\delta$ 的球都包含于某个 $U\in\mathcal U$。否则，对每个 $n$ 可取 $a_n\in A$，使 $B_A(a_n,1/n)$ 不包含于任何覆盖成员。上段结论给出子列 $a_{n_k}\to a\in A$。取 $U\in\mathcal U$ 含 $a$，再取 $r>0$ 使 $B_A(a,r)\subseteq U$。当 $k$ 足够大时，$d(a_{n_k},a)+1/n_k<r$，因而 $B_A(a_{n_k},1/n_k)\subseteq U$，矛盾。
+
+由全有界性，取有限个半径 $\delta/2$ 的球覆盖 $A$。每个这样的球都包含于 $\mathcal U$ 的某个成员，因此这些成员构成有限子覆盖。故 $A$ 紧致。
+\end{document}

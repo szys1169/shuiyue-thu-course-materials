@@ -1,0 +1,470 @@
+{
+  "date": "2026-10-18",
+  "course": "数学类/拓扑学",
+  "summary": {
+    "batch": 18,
+    "course": "拓扑学",
+    "selected_files": 65,
+    "source_files": 36,
+    "provenance": 29,
+    "excluded_files": 192,
+    "legacy_paths_merged": 0
+  },
+  "files": [
+    {
+      "path": "数学类/拓扑学/README.md",
+      "sha256": "b9f352ba59f9610d26cab82773746384dd4ed56adcdcb2c7b820625aa9002d2c",
+      "original_sha256": "6cf29363efbf22725349897e16f1940b272a33b533540bab9fc1760235401e51",
+      "bytes": 2042,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/拓扑学/作业/源标记2025秋/他人参考解答/拓扑学作业.pdf",
+      "sha256": "d2cb26e452555bb0dc17cf2b5d131252aef370ecce3c3ebed581e3414286b18a",
+      "original_sha256": "d2cb26e452555bb0dc17cf2b5d131252aef370ecce3c3ebed581e3414286b18a",
+      "bytes": 4246733,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/拓扑学/作业/源标记2025秋/他人参考解答/README.md",
+      "sha256": "8da84ab4453a8c49e270ce95f1fac98780eb0f4b7c0ecd7bc1dd3507d5c22b32",
+      "original_sha256": "cf266a573fc010b5a887faa32f06f7efd85bd7f33082e7b3a8527cfabb806985",
+      "bytes": 2231,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/拓扑学/作业/源标记2025秋/README.md",
+      "sha256": "d94a48d721cd857c59499fce1a261d519cf2a8b646946ecdd3fbd889cd8c224a",
+      "original_sha256": "6509488fe20c785fd22a23c420a4b3c0e915402ab9566138389843a6371294dc",
+      "bytes": 2049,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/拓扑学/作业/README.md",
+      "sha256": "a829627159dc546ff2e318c23982f9821a85d9e0431e9fb5edab455448797e22",
+      "original_sha256": "687de1064dd3c5fc45206795f28a579aa10e8b615941fa4bfc702319ad773e17",
+      "bytes": 2039,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/拓扑学/作业/2026-2027秋季学期/第五周作业/作业说明.md",
+      "sha256": "94ec9047b80fbca7a4dbe57c3a7f56d1b46d20bc85b88d262d540aa8eac8d5bd",
+      "original_sha256": "bea89ac3ce108409ffc199f1d8ffb23fac267b3d3678946075f21f2743ec597a",
+      "bytes": 541,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/拓扑学/作业/2026-2027秋季学期/第五周作业/README.md",
+      "sha256": "0674988ee92862ab5f3764967e3d8b64a54ebcf8f9e03cd38c54045ab36564fa",
+      "original_sha256": "80de35d0b9536c23286cc4a0294bc283666300cccdbbebb0682b07b295ff34f8",
+      "bytes": 2191,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/拓扑学/作业/2026-2027秋季学期/第二周作业/评语附件/第二次作业.pdf",
+      "sha256": "ea113158984a3c4b53a31e82f6a3f5041927ed4ca597734d4d4a2e2ebc85a84a",
+      "original_sha256": "ea113158984a3c4b53a31e82f6a3f5041927ed4ca597734d4d4a2e2ebc85a84a",
+      "bytes": 83146,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/拓扑学/作业/2026-2027秋季学期/第二周作业/评语附件/README.md",
+      "sha256": "1ca6946b134f7767229d93132a800253c41a6c0482fb81a33caae9661c80a07a",
+      "original_sha256": "465645f0a405cd082aabe17c82e8b9a0907079dc32d1268febf3ac5a2c6d085e",
+      "bytes": 2216,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/拓扑学/作业/2026-2027秋季学期/第二周作业/作业说明.md",
+      "sha256": "47da204cc7d4e2fb8e0df16279205c808ddf1a78e670ba7932f4cfe2c7daf98b",
+      "original_sha256": "816447096d136b8449da5657c2d2b2278a0685fa7fc29bd69645eaa5ded8c80a",
+      "bytes": 527,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/拓扑学/作业/2026-2027秋季学期/第二周作业/个人源文件/第二次作业_详细答案.tex",
+      "sha256": "0587f3eb31389a0fa4665f9dc3e8d51c356679a4b0647a9bd30f1352684e8d1d",
+      "original_sha256": "0587f3eb31389a0fa4665f9dc3e8d51c356679a4b0647a9bd30f1352684e8d1d",
+      "bytes": 9681,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/拓扑学/作业/2026-2027秋季学期/第二周作业/个人源文件/第二次作业.tex",
+      "sha256": "9536047b151360f1608aeaae3b85be57ebd29f33e540e20e702191ae2545319d",
+      "original_sha256": "9536047b151360f1608aeaae3b85be57ebd29f33e540e20e702191ae2545319d",
+      "bytes": 2173,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/拓扑学/作业/2026-2027秋季学期/第二周作业/个人源文件/README.md",
+      "sha256": "adb00d20ec985cf7020e757dfb7385f84ee4bb3561a7f444259712c153a26aef",
+      "original_sha256": "627a17fd5606c67f3a496ad0dca6517e507f2bc775cb606a8ae691d1a40c368b",
+      "bytes": 2471,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/拓扑学/作业/2026-2027秋季学期/第二周作业/个人整理题目/第二次作业.pdf",
+      "sha256": "b635145b906dac1810bd6b2d8e7eb1baa067c0d1a244400e388f4806ee97296b",
+      "original_sha256": "b635145b906dac1810bd6b2d8e7eb1baa067c0d1a244400e388f4806ee97296b",
+      "bytes": 49315,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/拓扑学/作业/2026-2027秋季学期/第二周作业/个人整理题目/README.md",
+      "sha256": "591d677f80e81b702755d615ec8735df1fce5904d6bb7c5885585b989b6ea268",
+      "original_sha256": "ce0685cb2da6e3b16ac6e32397af4be47771d1d51006e843c433cef31ebe8a82",
+      "bytes": 2238,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/拓扑学/作业/2026-2027秋季学期/第二周作业/个人参考解答/第二次作业_详细答案.pdf",
+      "sha256": "4dec9cbef23e9134f0e3d070a3a188cf657f456cd5c480e97f1256bbc5ba062b",
+      "original_sha256": "4dec9cbef23e9134f0e3d070a3a188cf657f456cd5c480e97f1256bbc5ba062b",
+      "bytes": 91033,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/拓扑学/作业/2026-2027秋季学期/第二周作业/个人参考解答/README.md",
+      "sha256": "1deed02799e543927d83d39075991073d95b995298ea7a18d1b5bf19ef48ccab",
+      "original_sha256": "4a40610d8fe7647ba2d1e487d62fcb22ec456f9161b62c7fc9568d2e774b42cd",
+      "bytes": 2264,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/拓扑学/作业/2026-2027秋季学期/第二周作业/上交作业附件/第二次作业.pdf",
+      "sha256": "0221ced7d414adc9bdcfd338de9264a6dfd717f4595a7e1f408e3e5eb58a9e90",
+      "original_sha256": "0221ced7d414adc9bdcfd338de9264a6dfd717f4595a7e1f408e3e5eb58a9e90",
+      "bytes": 81827,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/拓扑学/作业/2026-2027秋季学期/第二周作业/上交作业附件/README.md",
+      "sha256": "5ca4d2b30a9297584a746de7ecc7312b5fbac4de4c759036044d0ab8dd122b9f",
+      "original_sha256": "6773976278511f88a7a325273f148fd95c133e946790ce34bd44d78eb42883f8",
+      "bytes": 2222,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/拓扑学/作业/2026-2027秋季学期/第二周作业/README.md",
+      "sha256": "de69b34920c3ab03db0c8b602fa2d1b8e7c2d882a0567b11d9341dbde39decdd",
+      "original_sha256": "e1c26a5e1b33f2cc83baab2e6376b1e2492ca235cf2536097777f1931fb69fe3",
+      "bytes": 2191,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/拓扑学/作业/2026-2027秋季学期/第一周作业/评语附件/第一次作业.pdf",
+      "sha256": "9a54cf2267e09333ff440a39904835d2fedea9dfe5eee179fb2ba14399de13e5",
+      "original_sha256": "9a54cf2267e09333ff440a39904835d2fedea9dfe5eee179fb2ba14399de13e5",
+      "bytes": 93240,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/拓扑学/作业/2026-2027秋季学期/第一周作业/评语附件/README.md",
+      "sha256": "00ba9b015e5d50140510f36764a8ecc2da927ce02f29bf90ef44921ffe8660a4",
+      "original_sha256": "5f3ce7c5a9ed27e9959c577b826edaed36839258598cc75e181b54785fd14543",
+      "bytes": 2216,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/拓扑学/作业/2026-2027秋季学期/第一周作业/作业说明.md",
+      "sha256": "5fa4d33d9a91b7895441d7e72f75c52d716336a6a12130c8a80ef499f882fb21",
+      "original_sha256": "7920a34051b7dc73217a7b61321869f079849beb37813e82e91280cbd5f462a2",
+      "bytes": 490,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/拓扑学/作业/2026-2027秋季学期/第一周作业/个人源文件/第一次作业_详细答案.tex",
+      "sha256": "6aa2800c6e0b0cf5edc82033691edd55fe30e33db10b558b610eda980e581d82",
+      "original_sha256": "6aa2800c6e0b0cf5edc82033691edd55fe30e33db10b558b610eda980e581d82",
+      "bytes": 12694,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/拓扑学/作业/2026-2027秋季学期/第一周作业/个人源文件/第一次作业.tex",
+      "sha256": "5371ec503999efb5ce8ef4757d00938367cc7fda8ce29b5e5507dc182313454c",
+      "original_sha256": "5371ec503999efb5ce8ef4757d00938367cc7fda8ce29b5e5507dc182313454c",
+      "bytes": 11000,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/拓扑学/作业/2026-2027秋季学期/第一周作业/个人源文件/README.md",
+      "sha256": "30fc2881069d82462d21b2785f0e383ce877729813e7e88257ba0678c5ec285a",
+      "original_sha256": "ee541c0484f1f4f88f05a7cddaca006c0434ee4220130bb8b6acedcbe2609e28",
+      "bytes": 2471,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/拓扑学/作业/2026-2027秋季学期/第一周作业/个人整理题目/第一次作业_题目.pdf",
+      "sha256": "55e87eaa044f68c5df3517e73ccfa4b79710975b06f4bb4bb76c49f8854da04b",
+      "original_sha256": "55e87eaa044f68c5df3517e73ccfa4b79710975b06f4bb4bb76c49f8854da04b",
+      "bytes": 69299,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/拓扑学/作业/2026-2027秋季学期/第一周作业/个人整理题目/README.md",
+      "sha256": "7bd1d5d0b8a3d6266e3b1adb35fa78601afca577122e34830debeb8dab650978",
+      "original_sha256": "0cc3cb949c44bce038b7ff655c2afc86d11354e4565f223308736ba39034d59e",
+      "bytes": 2241,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/拓扑学/作业/2026-2027秋季学期/第一周作业/个人参考解答/第一次作业_详细答案.pdf",
+      "sha256": "e451b8dd09547aad0b67ab5ee83dc53ef6e15d65d8d204c88c5a509ff820c609",
+      "original_sha256": "e451b8dd09547aad0b67ab5ee83dc53ef6e15d65d8d204c88c5a509ff820c609",
+      "bytes": 106508,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/拓扑学/作业/2026-2027秋季学期/第一周作业/个人参考解答/README.md",
+      "sha256": "150d3f3a1587bba0b173896f0cbc93d27b35a6790c0f2c283d8b4a07ef7446d4",
+      "original_sha256": "0f109f8f9a319e05469eca0154670cdd222ce6c89051d018b6c664d8f141df17",
+      "bytes": 2253,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/拓扑学/作业/2026-2027秋季学期/第一周作业/上交作业附件/第一次作业.pdf",
+      "sha256": "956cfd50d42e37d14810079712a6dca1711767985393b75a597e367dacbbd94a",
+      "original_sha256": "956cfd50d42e37d14810079712a6dca1711767985393b75a597e367dacbbd94a",
+      "bytes": 87457,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/拓扑学/作业/2026-2027秋季学期/第一周作业/上交作业附件/README.md",
+      "sha256": "ed5c57df0b9043f6343e4ebda2c1342559b076dae76d2520c5d4dd58b79aabdf",
+      "original_sha256": "74bba7fd81f8d890bb3c4c006ede11d5b57ef16c7edc7f3ac270243fd9fd87ad",
+      "bytes": 2222,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/拓扑学/作业/2026-2027秋季学期/第一周作业/README.md",
+      "sha256": "e33ed1e5f49ac680e4e3484c6349aef8bd3e42a095768a2e4df1118bbe639db3",
+      "original_sha256": "6d291023728a51b5f40cc370737bfbd512384fa4ea53bbab4fdb839958b26a49",
+      "bytes": 2191,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/拓扑学/作业/2026-2027秋季学期/第3-4周作业/作业附件/README.md",
+      "sha256": "5064238bc2ab7b006830dc9b4f30130bce63cfd67e78799a65527e560197d12a",
+      "original_sha256": "e1275f0642e18360f24f1e6703efd00ec053c1c85dc718d632fc4aa880e2f669",
+      "bytes": 2220,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/拓扑学/作业/2026-2027秋季学期/第3-4周作业/作业附件/HW3.pdf",
+      "sha256": "4fb5e973baa0f06f247d7ef11005a26c591d2a8efe2031ae7ac748dba56a98f3",
+      "original_sha256": "4fb5e973baa0f06f247d7ef11005a26c591d2a8efe2031ae7ac748dba56a98f3",
+      "bytes": 102489,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/拓扑学/作业/2026-2027秋季学期/第3-4周作业/作业说明.md",
+      "sha256": "5fc2e2c7ab18ea8bacccce87d10b31412c3dc0e05b68cf3afd7dc507df14614e",
+      "original_sha256": "6225474f2ac7265a80c4c46c4480c338cf1a4af095ed0a3fdd0b33363bab57ee",
+      "bytes": 454,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/拓扑学/作业/2026-2027秋季学期/第3-4周作业/个人源文件/第三次作业_详细答案.tex",
+      "sha256": "118657814b8a46add22c79426864c285f62bfdde30343affe6a8204e30f63425",
+      "original_sha256": "118657814b8a46add22c79426864c285f62bfdde30343affe6a8204e30f63425",
+      "bytes": 12962,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/拓扑学/作业/2026-2027秋季学期/第3-4周作业/个人源文件/第三次作业_待完成.tex",
+      "sha256": "9932f2dd4a957db426efe566ef77a3ab386533fc2e054b580051d9063ae64912",
+      "original_sha256": "9932f2dd4a957db426efe566ef77a3ab386533fc2e054b580051d9063ae64912",
+      "bytes": 12414,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/拓扑学/作业/2026-2027秋季学期/第3-4周作业/个人源文件/第三次作业.tex",
+      "sha256": "05cdbf10c77419d37b4116bb2340579afd04d1a38e19f6b96b08c16d08d902f9",
+      "original_sha256": "05cdbf10c77419d37b4116bb2340579afd04d1a38e19f6b96b08c16d08d902f9",
+      "bytes": 3481,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/拓扑学/作业/2026-2027秋季学期/第3-4周作业/个人源文件/README.md",
+      "sha256": "10450c23e7b682e9f9d09e50b31d7a580e33b8be085b6f93f54e82a4723fdb97",
+      "original_sha256": "268663b51a484cdb349c88ef1dba610835b1875de22f621fc4bf9f772c4b245a",
+      "bytes": 2675,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/拓扑学/作业/2026-2027秋季学期/第3-4周作业/个人整理题目/第三次作业.pdf",
+      "sha256": "3a5b917b84192755c44f4821df8dfd3349524a232cba4ce89becd9e872121129",
+      "original_sha256": "3a5b917b84192755c44f4821df8dfd3349524a232cba4ce89becd9e872121129",
+      "bytes": 64535,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/拓扑学/作业/2026-2027秋季学期/第3-4周作业/个人整理题目/README.md",
+      "sha256": "a0d50720c7657d5353780efb5902ff5a5f54b96abb7d69208b50e4ae644a5e06",
+      "original_sha256": "c6be9ff6c18732bc17640aad4053239093b82fff71798f9a9c7734b427071772",
+      "bytes": 2227,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/拓扑学/作业/2026-2027秋季学期/第3-4周作业/个人参考解答/第三次作业_详细答案.pdf",
+      "sha256": "02255e539ff0a46c0dabba30e104cf707660faacd7f319921dcc36b3b27d8420",
+      "original_sha256": "02255e539ff0a46c0dabba30e104cf707660faacd7f319921dcc36b3b27d8420",
+      "bytes": 110762,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/拓扑学/作业/2026-2027秋季学期/第3-4周作业/个人参考解答/README.md",
+      "sha256": "a65facc6547ccc92f4904f24994bf7d6bb186611eb7802b53cbaee7548947471",
+      "original_sha256": "9d6b41a1ddb2976b9aaf542aee58cc394eb51d5121a4a8e395d98848ff9e87f0",
+      "bytes": 2269,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/拓扑学/作业/2026-2027秋季学期/第3-4周作业/上交作业附件/第三次作业.pdf",
+      "sha256": "d853d5e5a04f6a3529fcfd52169191cc7b2d10cf806a7f3a96ab3f433ee416ba",
+      "original_sha256": "d853d5e5a04f6a3529fcfd52169191cc7b2d10cf806a7f3a96ab3f433ee416ba",
+      "bytes": 104127,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/拓扑学/作业/2026-2027秋季学期/第3-4周作业/上交作业附件/README.md",
+      "sha256": "dcbc4f31cf767daa8123334db8e66f01236a1202142b9778ee3330006102ed0d",
+      "original_sha256": "dff92130bf3329f76496e9fc7aeed196744d472c632be281a73bd6948e591e47",
+      "bytes": 2222,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/拓扑学/作业/2026-2027秋季学期/第3-4周作业/README.md",
+      "sha256": "1a1ca21a7678bcb7509cc97d494d99c5ae3dde2a0a200a588e7c7bb7b21e39f8",
+      "original_sha256": "cf7c108eb8164e90c15b2b3688b467d60a63cb9daf1d6db396ab5f58ee36ed4d",
+      "bytes": 2191,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/拓扑学/作业/2026-2027秋季学期/README.md",
+      "sha256": "f1a11ff677df63f40b845e40bf77c9a5e475117191216299d9447f89461f8afa",
+      "original_sha256": "9c8623e7c5c6e4ec83ab6e22f003bf20914e3e26ba2f715da4e267589c244cc4",
+      "bytes": 2054,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/拓扑学/往年题/历史题_部分年份待核/拓扑 3字班 期中.jpg",
+      "sha256": "a091c346d05e522cd3842d7cf29cd0f8568687a33768032e97139296eeaa0970",
+      "original_sha256": "a091c346d05e522cd3842d7cf29cd0f8568687a33768032e97139296eeaa0970",
+      "bytes": 150586,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/拓扑学/往年题/历史题_部分年份待核/拓扑 1字班 期中 (1).jpg",
+      "sha256": "4f85a4ffcad79ce842f8ca2e7b350b4db403941daa3a1b91b3e025bfec555a51",
+      "original_sha256": "4f85a4ffcad79ce842f8ca2e7b350b4db403941daa3a1b91b3e025bfec555a51",
+      "bytes": 58987,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/拓扑学/往年题/历史题_部分年份待核/README.md",
+      "sha256": "3380715ceb06e8d93be65633eeb1e3a009b06b691b507373a295b691cf2951f8",
+      "original_sha256": "098bd6e1ea8687d01afdee8ce4a050c6c2e9d4aa81ffbe34e7453e0a7a9b968f",
+      "bytes": 3409,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/拓扑学/往年题/历史题_部分年份待核/5字班 拓扑 期中.jpg",
+      "sha256": "e432f978dad043b3b5a7675bd1561710fbc7f939c5c7ac9ab96cd49fd72681af",
+      "original_sha256": "e432f978dad043b3b5a7675bd1561710fbc7f939c5c7ac9ab96cd49fd72681af",
+      "bytes": 36948,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/拓扑学/往年题/历史题_部分年份待核/2023_midterm.pdf",
+      "sha256": "d1a197d1da3d56eb3a81b85ab2b1a50482b59175c340f69e15a897d33618dfed",
+      "original_sha256": "d1a197d1da3d56eb3a81b85ab2b1a50482b59175c340f69e15a897d33618dfed",
+      "bytes": 107909,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/拓扑学/往年题/历史题_部分年份待核/2017_midterm.pdf",
+      "sha256": "eae905c04846ec7b89c3683078fa6195c3d1052007db2e65edc7504da4ad72af",
+      "original_sha256": "eae905c04846ec7b89c3683078fa6195c3d1052007db2e65edc7504da4ad72af",
+      "bytes": 99213,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/拓扑学/往年题/历史题_部分年份待核/2010秋拓扑.pdf",
+      "sha256": "477f08dcd0bf3bfe59b4374f0ce223ff55ad1d6862e1952e477be6951934c003",
+      "original_sha256": "477f08dcd0bf3bfe59b4374f0ce223ff55ad1d6862e1952e477be6951934c003",
+      "bytes": 246333,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/拓扑学/往年题/历史题_部分年份待核/2008秋拓扑 (1).pdf",
+      "sha256": "1c87cf270c077b5321f59c07e1c513428ed191ddbb7a51a158d4916547574993",
+      "original_sha256": "1c87cf270c077b5321f59c07e1c513428ed191ddbb7a51a158d4916547574993",
+      "bytes": 237296,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/拓扑学/往年题/历史题_部分年份待核/2007秋拓扑 (1).pdf",
+      "sha256": "3361b63b0d9156e963f7829ab19747eb2b6bdee910c90be6cc95130090f91657",
+      "original_sha256": "3361b63b0d9156e963f7829ab19747eb2b6bdee910c90be6cc95130090f91657",
+      "bytes": 130487,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/拓扑学/往年题/README.md",
+      "sha256": "ccbfa3bd4e467fd147543966d9a792782e38a55ae05fa79046c2a30fed0a3d4c",
+      "original_sha256": "735febb7145401e9620ed3dc28627b130bf84a97776bfdd7c3478e77e844dc59",
+      "bytes": 2042,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/拓扑学/往年题/2025秋/README.md",
+      "sha256": "b7798b8ed5672d6def226b297c0d4ee30dac0db2c34162658496c123c3dd07fe",
+      "original_sha256": "e4ed426db8c39bea8a405e4cfc18928b233a946ec31d523cecc755e3edd17c06",
+      "bytes": 2388,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/拓扑学/往年题/2025秋/2025_fall_midterm.pdf",
+      "sha256": "a981a47916f26cd79d0970dc1570e63c82bb69882b281fdb28143a352923165f",
+      "original_sha256": "a981a47916f26cd79d0970dc1570e63c82bb69882b281fdb28143a352923165f",
+      "bytes": 83123,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/拓扑学/往年题/2025秋/2025_fall_final.pdf",
+      "sha256": "2bcd380018357b04032d5e643399aadd940c5e65e2406b155f94ae22ab6c3cf8",
+      "original_sha256": "2bcd380018357b04032d5e643399aadd940c5e65e2406b155f94ae22ab6c3cf8",
+      "bytes": 103475,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/拓扑学/往年题/2022秋/final-topology-2022.pdf",
+      "sha256": "7d6a394eab12efc1e21f08381698e966bdc1392eec17003fcd047feea5eaa513",
+      "original_sha256": "7d6a394eab12efc1e21f08381698e966bdc1392eec17003fcd047feea5eaa513",
+      "bytes": 128590,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/拓扑学/往年题/2022秋/README.md",
+      "sha256": "56bc963dadc3db82c5753c7202cbd6c31130f917b72d3205d8489bf967ca88bf",
+      "original_sha256": "b1900c20778292348699b1dbd5f081fd9d4d434f82fd18af2f4a71a810cef9eb",
+      "bytes": 2231,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/拓扑学/往年题/2021春_张鼎新/README.md",
+      "sha256": "f8c1f7fd0b173f62ca0b5f4e63151508a97d6772cf516e81dd4aa9f7cca4e04c",
+      "original_sha256": "d2a49c97b3b21bcaec159dac133aeba46e878a759a9ffb0e46d2eb08eda420cd",
+      "bytes": 2281,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/拓扑学/往年题/2021春_张鼎新/2021春拓扑学期中考试(张鼎新).pdf",
+      "sha256": "17bf876678ff3c5b69aba3220d7bf89ffb6706bd20570952ebf8cd1a183db191",
+      "original_sha256": "17bf876678ff3c5b69aba3220d7bf89ffb6706bd20570952ebf8cd1a183db191",
+      "bytes": 91674,
+      "kind": "source"
+    }
+  ]
+}

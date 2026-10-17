@@ -1,0 +1,52 @@
+% 使用 XeLaTeX 编译；版式延续前两次拓扑学作业。
+\documentclass{article}
+\usepackage[UTF8]{ctex}
+\usepackage{amsmath,amssymb,amsthm,mathrsfs,graphicx}
+\usepackage[a4paper,margin=25mm]{geometry}
+\title{拓扑学作业（第 3--4 周·题目）}
+\author{张溢致\quad 致理数41\quad 2024011936}
+\date{}
+\newcommand{\R}{\mathbb R}
+\newcommand{\problem}[2]{\par\medskip\noindent\textbf{#1.}\ （#2）\quad}
+\begin{document}
+\maketitle
+\noindent\textbf{截止时间：}2026 年 10 月 15 日上午 8:00。网络学堂要求拍照后提交。\par
+\noindent\textbf{题目来源：}Armstrong《Basic Topology》第 3 章习题 6、8、9、10、11、13、14、21、25、26，另加课程作业第 1 题。以下为中文转写，不含答案。
+
+\problem{1}{Armstrong，第 3 章，第 6 题}
+说明定理 3.7 中的 Hausdorff 条件不能去掉。
+
+\problem{2}{Armstrong，第 3 章，第 8 题}
+（Lindelöf 定理）若 $X$ 的拓扑有可数基，证明 $X$ 的任意开覆盖都有可数子覆盖。
+
+\problem{3}{Armstrong，第 3 章，第 9 题}
+证明 Hausdorff 空间中两个不相交的紧致子集总存在互不相交的邻域。
+
+\problem{4}{Armstrong，第 3 章，第 10 题}
+设 $A$ 是度量空间 $X$ 的紧致子集。证明存在 $x,y\in A$，使 $A$ 的直径等于 $d(x,y)$。给定 $x\in X$，证明存在 $y\in A$，使 $d(x,A)=d(x,y)$。若闭集 $B$ 与 $A$ 不相交，证明 $d(A,B)>0$。
+
+\problem{5}{Armstrong，第 3 章，第 11 题}
+找一个拓扑空间及其一个紧致子集，使该子集的闭包不是紧致的。
+
+\problem{6}{Armstrong，第 3 章，第 13 题}
+设 $f:X\to Y$ 为闭映射，且 $Y$ 中每个点的原像都是 $X$ 的紧致子集。证明：只要 $K\subseteq Y$ 紧致，$f^{-1}(K)$ 就紧致。闭映射这一条件能否去掉？
+
+\problem{7}{Armstrong，第 3 章，第 14 题}
+若单射 $f:X\to Y$ 在把 $f(X)$ 赋予从 $Y$ 诱导的子空间拓扑后，成为 $X$ 到 $f(X)$ 的同胚，则称 $f$ 是 $X$ 到 $Y$ 中的嵌入。证明：从紧致空间到 Hausdorff 空间的单射连续映射必为嵌入。
+
+\problem{8}{Armstrong，第 3 章，第 21 题}
+设 $A\subseteq X$ 与 $B\subseteq Y$ 都紧致，且 $W$ 是 $X\times Y$ 中 $A\times B$ 的一个邻域。求 $A$ 在 $X$ 中的邻域 $U$ 与 $B$ 在 $Y$ 中的邻域 $V$，使 $U\times V\subseteq W$。
+
+\problem{9}{Armstrong，第 3 章，第 25 题}
+证明对角映射 $\Delta:X\to X\times X$，$\Delta(x)=(x,x)$，是连续映射，并验证：$X$ 是 Hausdorff 空间，当且仅当 $\Delta(X)$ 是 $X\times X$ 中的闭集。这里“映射”按课程作业说明指连续映射。
+
+\problem{10}{Armstrong，第 3 章，第 26 题}
+已知投影 $p_1:X\times Y\to X$ 与 $p_2:X\times Y\to Y$ 都是开映射。它们是否总为闭映射？这里开（闭）映射指把开（闭）集映成开（闭）集的映射。
+
+\problem{11}{课程作业附加题}
+课堂上证明了 $\R^n$ 的子集紧致当且仅当它闭且有界。
+\begin{enumerate}
+\item 举例说明，在一般度量空间中，闭且有界的子集未必紧致。
+\item 设 $X$ 是度量空间，$\varepsilon>0$。若 $E\subseteq X$ 满足：对任意 $x\in X$，存在 $e\in E$ 使 $d(e,x)<\varepsilon$，则称 $E$ 为一个 $\varepsilon$-网。若对任意 $\varepsilon>0$ 都存在有限的 $\varepsilon$-网，则称度量空间\emph{全有界}。证明：完备度量空间的一个子集紧致，当且仅当它闭且全有界。
+\end{enumerate}
+\end{document}

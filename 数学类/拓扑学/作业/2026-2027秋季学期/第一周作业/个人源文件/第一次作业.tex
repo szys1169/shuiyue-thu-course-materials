@@ -1,0 +1,352 @@
+% 使用 XeLaTeX 编译；仅含题目，不含答案或提示。
+\documentclass[UTF8,a4paper,11pt,fontset=windows]{ctexart}
+\usepackage[margin=23mm]{geometry}
+\usepackage{amsmath,amssymb,mathtools,enumitem,fancyhdr,hyperref,xcolor}
+\hypersetup{hidelinks,pdftitle={拓扑学第一次作业（题目）}}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{拓扑学}
+\fancyhead[R]{第一次作业 · 题目}
+\fancyfoot[C]{\thepage}
+\setlength{\headheight}{15pt}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{5pt}
+\setlist[enumerate]{label=(\alph*),leftmargin=2.5em,itemsep=3pt,topsep=4pt}
+\newcommand{\R}{\mathbb R}
+
+\newcommand{\problem}[1]{\par\addvspace{10pt}\textbf{第 #1 题}\quad}
+\begin{document}
+\begin{center}
+  {\LARGE\bfseries 拓扑学第一次作业}\par\vspace{6pt}
+  姓名：张溢致\qquad 班级：致理数41\qquad 学号：2024011936
+\end{center}
+
+
+\problem{1}设 $A,B$ 是空间 $X$ 的任意子集，验证下列各式：
+\begin{enumerate}
+  \item $\overline{A\cup B}=\overline A\cup\overline B$；
+  \item $\overline{A\cap B}\subseteq\overline A\cap\overline B$；
+  \item $\overline{\overline A}=\overline A$；
+  \item $(A\cup B)^\circ\supseteq A^\circ\cup B^\circ$；
+  \item $(A\cap B)^\circ=A^\circ\cap B^\circ$；
+  \item $(A^\circ)^\circ=A^\circ$。
+\end{enumerate}
+说明 (b) 和 (d) 中的等号不一定成立。
+
+\textbf{解：}
+
+设 $A,B\subseteq X$。
+\begin{enumerate}
+  \item 因为 $A\subseteq A\cup B$ 且 $B\subseteq A\cup B$，所以
+    \[
+    \overline A\subseteq\overline{A\cup B},\overline B\subseteq\overline{A\cup B}.
+  \]
+  从而
+  \[
+    \overline A\cup\overline B\subseteq\overline{A\cup B}.
+  \]
+  另一方面，$\overline A$ 和 $\overline B$ 都是闭集，所以有限并 $\overline A\cup\overline B$ 仍是闭集；它又包含 $A\cup B$。由闭包的最小性，
+  \[
+    \overline{A\cup B}\subseteq\overline A\cup\overline B.
+  \]
+综上
+  \[
+    \overline{A\cup B}=\overline A\cup\overline B.
+  \]
+
+  \item 由 $A\cap B\subseteq A$ 和 $A\cap B\subseteq B$
+  \[
+    \overline{A\cap B}\subseteq\overline A,
+    \qquad
+    \overline{A\cap B}\subseteq\overline B.
+  \]
+  因而
+  \[
+    \overline{A\cap B}\subseteq\overline A\cap\overline B.
+  \]
+反方向的反例：取
+  \[
+    A=(-\infty,0),\qquad B=(0,+\infty).
+  \]
+  此时 $A\cap B=\varnothing$，故 $\overline{A\cap B}=\varnothing$；而
+  \[
+    \overline A\cap\overline B=(-\infty,0]\cap[0,+\infty)=\{0\}.
+  \]
+
+  \item $\overline A$ 是闭集。闭集的闭包等于它本身，所以
+  \[
+    \overline{\overline A}=\overline A.
+  \]
+
+  \item $A^\circ\subseteq A\subseteq A\cup B$，而且 $A^\circ$ 是开集，因此 $A^\circ\subseteq(A\cup B)^\circ$。同理，$B^\circ\subseteq(A\cup B)^\circ$。于是
+  \[
+    (A\cup B)^\circ\supseteq A^\circ\cup B^\circ.
+  \]
+反方向的反例：取
+  \[
+    A=(-\infty,0],\qquad B=[0,+\infty).
+  \]
+  则 $A\cup B=\R$，所以 $(A\cup B)^\circ=\R$；但
+  \[
+    A^\circ\cup B^\circ=(-\infty,0)\cup(0,+\infty)=\R\setminus\{0\}.
+  \]
+
+  \item 因为 $A^\circ\cap B^\circ$ 是开集，并且包含于 $A\cap B$，所以
+  \[
+    A^\circ\cap B^\circ\subseteq(A\cap B)^\circ.
+  \]
+  反过来，
+  \[
+    (A\cap B)^\circ\subseteq A^\circ,
+    \qquad
+    (A\cap B)^\circ\subseteq B^\circ.
+  \]
+  因而 $(A\cap B)^\circ\subseteq A^\circ\cap B^\circ$。故
+  \[
+    (A\cap B)^\circ=A^\circ\cap B^\circ.
+  \]
+
+  \item $A^\circ$ 是开集，而开集的内部就是它本身，因此
+  \[
+    (A^\circ)^\circ=A^\circ.
+  \]
+\end{enumerate}
+
+
+
+
+\problem{2}找出实数直线上的一族闭集（closed set），使得它们的并集不是闭集。
+
+\textbf{解：} 取闭区间 $[-1/n,1/n]$，其中 $n=1,2,\ldots$。则
+\[
+  \bigcup_{n=1}^\infty\left[-\frac{1}{n},\frac{1}{n}\right]=(−1,1).
+\]
+这个并集不是闭集。
+
+\problem{3}分别写出平面中下列子集的内部、闭包和边界（frontier）：
+\begin{enumerate}
+  \item $\{(x,y)\in\mathbb R^2\mid 1<x^2+y^2\leq 2\}$；
+  \item 从 $\mathbb R^2$ 中去掉两条坐标轴所得的集合；
+  \item $\mathbb R^2\setminus\{(x,\sin(1/x))\mid x>0\}$。
+\end{enumerate}
+
+\textbf{解}
+\begin{enumerate}
+  \item 令
+  \[
+    A=\{(x,y)\in\R^2:1<x^2+y^2\leq2\}.
+  \]
+ 于是
+  \[
+    A^\circ=\{(x,y):1<x^2+y^2<2\},
+  \]
+  \[
+    \overline A=\{(x,y):1\leq x^2+y^2\leq2\},
+  \]
+  \[
+    \partial A=\{(x,y):x^2+y^2=1\}\cup
+    \{(x,y):x^2+y^2=2\}.
+  \]
+
+  \item 令 $B$ 为去掉两条坐标轴后的平面，即
+  \[
+    B=\{(x,y)\in\R^2:xy\neq0\}.
+  \]
+ 因此
+  \[
+    B^\circ=B,\qquad \overline B=\R^2,
+  \]
+  \[
+    \partial B=\{(x,y):x=0\}\cup\{(x,y):y=0\}.
+  \]
+
+  \item 记
+  \[
+    G=\{(x,\sin(1/x)):x>0\},\qquad C=\R^2\setminus G.
+  \]
+于是
+  \[
+    \overline C=\overline{\R^2\setminus G}
+    =\R^2\setminus G^\circ=\R^2.
+  \]
+  \[
+    C^\circ=\R^2\setminus\overline G
+    =\R^2\setminus\left(G\cup(\{0\}\times[-1,1])\right).
+  \]
+  \[
+    \partial C=\overline C\setminus C^\circ
+    =G\cup\bigl(\{0\}\times[-1,1]\bigr).
+  \]
+\end{enumerate}
+
+\problem{4}求实数直线上下列子集的所有极限点（limit point）：
+\begin{enumerate}
+  \item $\displaystyle\left\{\frac1m+\frac1n\;\middle|\;m,n=1,2,\ldots\right\}$；
+  \item $\displaystyle\left\{\frac{\sin n}{n}\;\middle|\;n=1,2,\ldots\right\}$。
+\end{enumerate}
+
+\textbf{解}
+
+\begin{enumerate}
+  \item 令
+  \[
+    S=\left\{\frac1m+\frac1n:m,n\in\mathbb N\right\}.
+  \]
+  固定 $m$，令 $n\to\infty$，得到
+  \[
+    \frac1m+\frac1n\longrightarrow\frac1m.
+  \]
+  因而每个 $1/m$ 都是 $S$ 的极限点。再令 $m,n\to\infty$，可得 $0$ 也是极限点。
+
+  下面说明没有其他极限点。设 $S$ 中一列互不相同的点
+  \[
+    s_k=\frac1{m_k}+\frac1{n_k}
+  \]
+  收敛。
+  
+  由于 $m,n$ 的地位对称，不妨交换每一项中的两个指标，使 $m_k\leq n_k$。若 $m_k$ 无界，可取子列使 $m_k\to\infty$；此时 $n_k\geq m_k$，故相应子列满足 $s_k\to0$。
+  
+  若 $m_k$ 有界，则可取无限子列使 $m_k$ 恒等于某个正整数 $m$。为了使这一子列中的 $s_k$ 互不相同，$n_k$ 必须取无穷多个值；再取子列可令 $n_k\to\infty$，于是 $s_k\to1/m$。
+  
+  原数列既然收敛，它的极限与任一收敛子列的极限相同，所以原极限只能是 $0$ 或某个 $1/m$。因此极限点集合恰为
+  \[
+    S'=\{0\}\cup\left\{\frac1m:m\in\mathbb N\right\}.
+  \]
+
+  \item 令
+  \[
+    T=\left\{\frac{\sin n}{n}:n\in\mathbb N\right\}.
+  \]
+  因为
+  \[
+    \left|\frac{\sin n}{n}\right|\leq\frac1n\longrightarrow0,
+  \]
+  所以这个数列趋于 $0$。这些项不可能从某一项起只取有限多个非零值，否则它们的绝对值会有一个正的下界，与趋于 $0$ 矛盾。因此存在互不相同的点趋于 $0$，故 $0$ 是极限点。
+
+  对任何 $a\neq0$，取 $\varepsilon=|a|/3$。当 $n$ 充分大时，$|\sin n/n|<\varepsilon$，所以区间 $(a-\varepsilon,a+\varepsilon)$ 至多含有 $T$ 中有限多个点；再缩小邻域即可避开除 $a$ 外的这些有限个点。因此 $a$ 不是极限点。故
+  \[
+    T'=\{0\}.
+  \]
+\end{enumerate}
+
+
+\problem{5}若 $A$ 是空间 $X$ 的稠密子集（dense subset），且 $O$ 是 $X$ 中的开集（open set），证明
+\[
+  O\subseteq\overline{A\cap O}.
+\]
+
+\textbf{解}任取 $x\in O$，并任取 $x$ 的开邻域 $U$。因为 $O$ 也是开集，$U\cap O$ 是 $x$ 的开邻域。又因为 $A$ 在 $X$ 中稠密，即 $\overline A=X$，每个非空开集都与 $A$ 相交，所以
+\[
+  (U\cap O)\cap A\neq\varnothing.
+\]
+等价地，$U\cap(A\cap O)\neq\varnothing$。这对 $x$ 的每个开邻域 $U$ 都成立，因此 $x\in\overline{A\cap O}$。由于 $x\in O$ 任意，得到
+\[
+  O\subseteq\overline{A\cap O}.
+\]
+
+\problem{6}若 $Y$ 是 $X$ 的子空间（subspace），且 $Z$ 是 $Y$ 的子空间，证明 $Z$ 是 $X$ 的子空间。
+
+\textbf{解}设 $W$ 是 $Z$ 中的任意开集。由于 $Z$ 是 $Y$ 的子空间，存在 $Y$ 中的开集 $V$，使得
+\[
+  W=Z\cap V.
+\]
+由于 $Y$ 是 $X$ 的子空间，又存在 $X$ 中的开集 $U$，使得
+\[
+  V=Y\cap U.
+\]
+所以
+\[
+  W=Z\cap(Y\cap U)=(Z\cap Y)\cap U=Z\cap U.
+\]
+这说明 $Z$ 中每个开集都是某个 $X$ 中开集与 $Z$ 的交。反过来，任意 $X$ 中开集 $U$ 都满足
+\[
+  Z\cap U=Z\cap(Y\cap U),
+\]
+而 $Y\cap U$ 在 $Y$ 中开，所以 $Z\cap U$ 在 $Z$ 中开。因此 $Z$ 上原有的拓扑正是由 $X$ 诱导的子空间拓扑，即 $Z$ 是 $X$ 的子空间。
+
+\problem{9}设 $Y$ 是 $X$ 的子空间。若 $A$ 在 $Y$ 中是开集（闭集），且 $Y$ 在 $X$ 中是开集（闭集），证明 $A$ 在 $X$ 中是开集（闭集）。
+
+\textbf{解}若 $A$ 在 $Y$ 中开，则存在 $X$ 中的开集 $U$，使
+\[
+  A=Y\cap U.
+\]
+若 $Y$ 在 $X$ 中也开，那么 $A$ 是 $X$ 中两个开集的交，因此 $A$ 在 $X$ 中开。
+
+闭集类似
+
+\problem{14}证明函数
+\[
+  h(x)=\frac{e^x}{1+e^x}
+\]
+是从实数直线到开区间 $(0,1)$ 的同胚（homeomorphism）。
+
+\textbf{解}
+
+因为 $e^x>0$，所以 $0<h(x)<1$。对任意$y\in(0,1)$，设$y=h(x)$,则
+\[
+  y=\frac{e^x}{1+e^x}
+  \quad\Longleftrightarrow\quad
+  y(1+e^x)=e^x
+  \quad\Longleftrightarrow\quad
+  e^x=\frac{y}{1-y}.
+\]
+而$y/(1-y)>0$，于是
+\[
+  x=\log\frac{y}{1-y}.
+\]
+因此 $h$ 是双射，其逆函数为
+\[
+  h^{-1}(y)=\log\frac{y}{1-y},\qquad 0<y<1.
+\]
+易得$h,h^{-1}$都是连续的，从而$h$ 是从 $\R$ 到 $(0,1)$ 的同胚。
+
+\problem{16}如果定义在 $X$ 上的每一个实值函数（real-valued function）都是连续的（continuous），那么 $X$ 必须具有什么拓扑（topology）？
+
+\textbf{解}任取 $A\subseteq X$，定义示性函数
+\[
+  \chi_A:X\longrightarrow\R,
+  \qquad
+  \chi_A(x)=
+  \begin{cases}
+    1,&x\in A,\\
+    0,&x\notin A.
+  \end{cases}
+\]
+由题设，$\chi_A$ 连续。实数直线中的区间 $(1/2,3/2)$ 是开集，而
+\[
+  \chi_A^{-1}\bigl((1/2,3/2)\bigr)=A.
+\]
+连续映射把开集的原像变成开集，所以 $A$ 在 $X$ 中开。由于 $A$ 是任意子集，$X$ 的每个子集都是开集。根据书上结论， $X$ 必须赋予离散拓扑
+\[
+  \mathcal T=\mathcal P(X).
+\]
+反过来自然成立。
+
+\problem{17}设 $X$ 是赋予余有限拓扑的全体实数所成的集合，定义
+\[
+  f:\mathbb R\longrightarrow X,\qquad f(x)=x,
+\]
+其中定义域 $\mathbb R$ 赋予通常拓扑。证明 $f$ 连续，但不是同胚。
+
+\textbf{解}
+
+任取 $X$ 中的开集 $U$。若 $U=\varnothing$，则 $f^{-1}(U)=\varnothing$，在 $\R$ 中开。若 $U\neq\varnothing$，则存在有限集 $F\subseteq\R$，使
+\[
+  U=\R\setminus F.
+\]
+有限集 $F$ 在通常实数直线中闭，所以 $\R\setminus F$ 在通常拓扑中开。又因为 $f$ 是恒等映射，
+\[
+  f^{-1}(U)=U=\R\setminus F.
+\]
+因此所有 $X$ 中开集的原像都在通常 $\R$ 中开，故 $f$ 连续。
+
+ $f$ 不是同胚：反例：取$(0,1)，$ 在 $\R$ 中开，而
+\[
+  f((0,1))=(0,1)
+\]
+在 $X$ 中不开，因此 $f$ 不是开映射；等价地，逆映射 $f^{-1}:X\to\R$ 不连续。
+
+故 $f$ 虽是连续双射，却不是同胚。
+
+\vfill
+\end{document}

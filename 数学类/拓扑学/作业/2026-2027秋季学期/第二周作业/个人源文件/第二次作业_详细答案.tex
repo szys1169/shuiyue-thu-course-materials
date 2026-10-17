@@ -1,0 +1,325 @@
+% 使用 XeLaTeX 编译；版式参照泛函分析作业。
+\documentclass{article}
+\usepackage[UTF8]{ctex}
+\usepackage{sectsty}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{mathrsfs}
+\usepackage{graphicx}
+\title{拓扑学作业（第二周）}
+\author{张溢致\quad 致理数41\quad 2024011936}
+\date{}
+\newcommand{\R}{\mathbb R}
+\newcommand{\problem}[2]{\par\medskip\noindent\textbf{#1.}\ （#2）\quad}
+\newcommand{\idea}{\par\noindent\textbf{思路：}}
+\newcommand{\solution}{\par\noindent\textbf{解：}}
+
+\begin{document}
+\maketitle
+
+
+\problem{1}{Armstrong 2.27}
+设 $(X,d)$ 是度量空间，$A\subseteq X$。证明
+\[
+  d(x,A)=0 \quad\Longleftrightarrow\quad x\in\overline A,
+\]
+其中 $d(x,A)=\inf\{d(x,a):a\in A\}$。
+
+
+\solution 设 $A\ne\varnothing$。先假设 $x\in\overline A$。任取 $\varepsilon>0$，开球 $B(x,\varepsilon)$ 是 $x$ 的一个邻域。根据闭包的定义，
+\[
+  B(x,\varepsilon)\cap A\ne\varnothing.
+\]
+因此存在 $a\in A$ 使 $d(x,a)<\varepsilon$，从而
+\[
+  0\le d(x,A)\le d(x,a)<\varepsilon.
+\]
+因为这对每个 $\varepsilon>0$ 都成立，所以 $d(x,A)=0$。
+
+反过来，假设 $d(x,A)=0$。为了证明 $x\in\overline A$，只需证明 $x$ 的每个开邻域都与 $A$ 相交。设 $U$ 是 $x$ 的开邻域。由于 $U$ 是开集，存在 $\varepsilon>0$ 使
+\[
+  B(x,\varepsilon)\subseteq U.
+\]
+由 $d(x,A)=0$，数 $\varepsilon$ 不可能是所有 $d(x,a)$（$a\in A$）的下界，所以存在 $a\in A$ 满足
+\[
+  d(x,a)<\varepsilon.
+\]
+于是 $a\in B(x,\varepsilon)\cap A\subseteq U\cap A$，故 $U\cap A\ne\varnothing$。因此 $x\in\overline A$。
+
+综上，
+\[
+  d(x,A)=0\quad\Longleftrightarrow\quad x\in\overline A.
+\]
+
+\problem{2}{Armstrong 2.28}
+设 $A,B$ 是度量空间 $(X,d)$ 中两个不相交的闭子集。求两个不相交的开集 $U,V$，使得
+\[
+  A\subseteq U,\qquad B\subseteq V.
+\]
+
+
+\solution 定义
+\[
+  U=\{x\in X:d(x,A)<d(x,B)\},
+  \qquad
+  V=\{x\in X:d(x,B)<d(x,A)\}.
+\]
+距离函数 $x\mapsto d(x,A)$ 和 $x\mapsto d(x,B)$ 都是连续函数，因此
+\[
+  x\longmapsto d(x,A)-d(x,B)
+\]
+连续。于是
+\[
+  U=\{x:d(x,A)-d(x,B)<0\},
+  \quad
+  V=\{x:d(x,A)-d(x,B)>0\}
+\]
+都是开集。
+
+显然不存在一点同时满足 $d(x,A)<d(x,B)$ 和 $d(x,B)<d(x,A)$，所以 $U\cap V=\varnothing$。
+
+下面验证包含关系。若 $a\in A$，则 $d(a,A)=0$。由于 $B$ 是闭集而 $a\notin B$，由第 1 题
+\[
+  d(a,B)>0.
+\]
+故 $d(a,A)<d(a,B)$，即 $a\in U$。所以 $A\subseteq U$。同理，若 $b\in B$，则
+\[
+  d(b,B)=0<d(b,A),
+\]
+故 $b\in V$，所以 $B\subseteq V$。因此 $U,V$ 就是所求的两个不相交开集。
+
+\problem{3}{Armstrong 2.29}
+在任意集合 $X$ 上定义
+\[
+  d(x,y)=
+  \begin{cases}
+    0,&x=y,\\
+    1,&x\ne y.
+  \end{cases}
+\]
+证明 $d$ 是一个度量，并说明它在 $X$ 上诱导什么拓扑。
+
+
+\solution 对任意 $x,y,z\in X$，显然 $d(x,y)\ge0$，且
+\[
+  d(x,y)=0\quad\Longleftrightarrow\quad x=y,
+\]
+同时 $d(x,y)=d(y,x)$。只需验证三角不等式。
+
+若 $x=z$，则 $d(x,z)=0\le d(x,y)+d(y,z)$。若 $x\ne z$，则 $d(x,z)=1$。此时 $x=y$ 与 $y=z$ 不可能同时成立，所以 $d(x,y)$ 和 $d(y,z)$ 中至少有一个等于 $1$。因而
+\[
+  d(x,z)=1\le d(x,y)+d(y,z).
+\]
+所以 $d$ 是 $X$ 上的度量
+
+对每个 $x\in X$，取任意 $0<r\le1$，则
+\[
+  B(x,r)=\{y\in X:d(x,y)<r\}=\{x\}.
+\]
+因此每个单点集 $\{x\}$ 都是开集。任意子集 $A\subseteq X$ 可写成
+\[
+  A=\bigcup_{x\in A}\{x\},
+\]
+所以任意子集都是开集。由此，$d$ 诱导的拓扑是离散拓扑（discrete topology）
+\[
+  \mathcal T=\mathcal P(X).
+\]
+
+\problem{4}{Armstrong 2.30}
+证明度量空间的每个闭子集都是可数多个开集的交。
+
+
+
+\solution 设 $F$ 是度量空间 $(X,d)$ 的闭子集。若 $F=\varnothing$，取 $U_n=\varnothing$ 即可。以下设 $F\ne\varnothing$。
+
+对每个正整数 $n$，令
+\[
+  U_n=\left\{x\in X:d(x,F)<\frac1n\right\}.
+\]
+距离函数 $x\mapsto d(x,F)$ 连续，所以 $U_n$ 是开集。
+
+若 $x\in F$，则 $d(x,F)=0<1/n$，故 $x\in U_n$ 对所有 $n$ 都成立。因此
+\[
+  F\subseteq\bigcap_{n=1}^{\infty}U_n.
+\]
+反过来，若 $x\in\bigcap_{n=1}^{\infty}U_n$，则
+\[
+  0\le d(x,F)<\frac1n\qquad(n=1,2,\ldots).
+\]
+若 $d(x,F)>0$，可取 $n>1/d(x,F)$，这将给出 $1/n<d(x,F)$，与上式矛盾。因此 $d(x,F)=0$。由第 1 题，$x\in\overline F$；又因为 $F$ 闭，所以 $\overline F=F$。于是
+\[
+  \bigcap_{n=1}^{\infty}U_n\subseteq F.
+\]
+故
+\[
+  F=\bigcap_{n=1}^{\infty}U_n,
+\]
+即 $F$ 是可数多个开集的交。
+
+\problem{5}{Armstrong 2.31}
+若 $A,B$ 是度量空间的子集，定义它们之间的距离为
+\[
+  d(A,B)=\inf\{d(x,y):x\in A, y\in B\}.
+\]
+求平面中两个不相交的闭子集，使它们之间的距离为零。并验证所求两个闭集的直径均为无穷大，其中
+\[
+  \operatorname{diam}(A)=\sup\{d(x,y):x,y\in A\}.
+\]
+
+
+\solution 在欧氏平面 $\R^2$ 中取
+\[
+  A=\{(x,0):x\ge1\},
+  \qquad
+  B=\left\{\left(x,\frac1x\right):x\ge1\right\}.
+\]
+两个集合不相交，因为 $B$ 中每个点的第二坐标都严格大于 $0$，而 $A$ 中每个点的第二坐标等于 $0$。
+
+$A$ 显然是闭集。为了说明 $B$ 闭，设
+\[
+  \left(x_k,\frac1{x_k}\right)\in B,
+  \qquad
+  \left(x_k,\frac1{x_k}\right)\longrightarrow (x,y)\in\R^2.
+\]
+则 $x_k\to x$。由 $x_k\ge1$ 得 $x\ge1$，并由函数 $t\mapsto1/t$ 在 $[1,\infty)$ 上连续得到
+\[
+  y=\lim_{k\to\infty}\frac1{x_k}=\frac1x.
+\]
+所以 $(x,y)\in B$。这说明 $B$ 包含其全部极限点，故 $B$ 闭。
+
+对任意整数 $n\ge1$，点 $(n,0)\in A$ 且 $(n,1/n)\in B$，两点之间的欧氏距离为
+\[
+  d\left((n,0),\left(n,\frac1n\right)\right)=\frac1n.
+\]
+因此
+\[
+  0\le d(A,B)\le\frac1n\qquad(n=1,2,\ldots),
+\]
+令 $n\to\infty$ 可得 $d(A,B)=0$。
+
+最后，对任意 $M>0$，取整数 $n>M+1$。在 $A$ 中有
+\[
+  d((1,0),(n,0))=n-1>M,
+\]
+所以 $\operatorname{diam}(A)=\infty$。在 $B$ 中，
+\[
+  d\left((1,1),\left(n,\frac1n\right)\right)
+  =\sqrt{(n-1)^2+\left(\frac1n-1\right)^2}
+  \ge n-1>M.
+\]
+所以 $\operatorname{diam}(B)=\infty$。两个集合满足题目全部要求。
+
+\problem{6}{Armstrong 2.35}
+给定连续映射
+\[
+  f:X\longrightarrow\R^{n+1}\setminus\{0\},
+\]
+求连续映射 $g:X\to S^n$，使得 $g$ 在 $f^{-1}(S^n)$ 上与 $f$ 相同。
+
+
+\solution 定义
+\[
+  r:\R^{n+1}\setminus\{0\}\longrightarrow S^n,
+  \qquad
+  r(y)=\frac{y}{\lVert y\rVert},
+\]
+并令
+\[
+  g=r\circ f,
+  \qquad
+  g(x)=\frac{f(x)}{\lVert f(x)\rVert}.
+\]
+因为 $f(x)\ne0$，所以分母 $\lVert f(x)\rVert$ 始终严格大于零，$g$ 定义良好。范数函数连续，除法在分母非零处连续，因此 $r$ 连续；又因为 $f$ 连续，所以 $g=r\circ f$ 连续。
+
+此外，
+\[
+  \lVert g(x)\rVert
+  =\left\lVert\frac{f(x)}{\lVert f(x)\rVert}\right\rVert=1,
+\]
+故 $g(x)\in S^n$。若 $x\in f^{-1}(S^n)$，则 $\lVert f(x)\rVert=1$，于是
+\[
+  g(x)=\frac{f(x)}{\lVert f(x)\rVert}=f(x).
+\]
+所以 $g$ 在 $f^{-1}(S^n)$ 上与 $f$ 相同。
+
+\problem{7}{Munkres §43.4}
+证明度量空间 $(X,d)$ 完备，当且仅当：对每个由非空闭集组成的递减序列
+\[
+  A_1\supseteq A_2\supseteq A_3\supseteq\cdots,
+\]
+只要 $\operatorname{diam}(A_n)\to0$，就有
+\[
+  \bigcap_{n=1}^{\infty}A_n\ne\varnothing.
+\]
+
+\solution 先假设 $(X,d)$ 完备。设
+\[
+  A_1\supseteq A_2\supseteq\cdots
+\]
+是一列非空闭集，并且 $\operatorname{diam}(A_n)\to0$。对每个 $n$ 选取一点 $x_n\in A_n$。
+
+我们证明 $(x_n)$ 是柯西列。任取 $\varepsilon>0$。因为 $\operatorname{diam}(A_n)\to0$，存在 $N$ 使
+\[
+  \operatorname{diam}(A_N)<\varepsilon.
+\]
+当 $m,n\ge N$ 时，由递减性有 $A_m\subseteq A_N$ 且 $A_n\subseteq A_N$，所以 $x_m,x_n\in A_N$，从而
+\[
+  d(x_m,x_n)\le\operatorname{diam}(A_N)<\varepsilon.
+\]
+故 $(x_n)$ 是柯西列。由 $X$ 完备，存在 $x\in X$ 使 $x_n\to x$。
+
+固定任意正整数 $k$。当 $n\ge k$ 时，递减性给出 $x_n\in A_n\subseteq A_k$。因此数列的尾部全在 $A_k$ 中。由于 $A_k$ 闭且 $x_n\to x$，可得 $x\in A_k$。$k$ 任意，所以
+\[
+  x\in\bigcap_{k=1}^{\infty}A_k.
+\]
+故该交集非空。
+
+反过来，假设题目中的递减闭集性质成立。为证明 $X$ 完备，任取 $X$ 中的柯西列 $(x_n)$。对每个正整数 $n$ 定义尾集及其闭包
+\[
+  E_n=\{x_k:k\ge n\},
+  \qquad
+  A_n=\overline{E_n}.
+\]
+每个 $A_n$ 都是非空闭集。因为 $E_{n+1}\subseteq E_n$，所以
+\[
+  A_{n+1}\subseteq A_n.
+\]
+
+下面证明 $\operatorname{diam}(A_n)\to0$。任取 $\varepsilon>0$。因为 $(x_n)$ 是柯西列，存在 $N$，使得对所有 $p,q\ge N$ 都有
+\[
+  d(x_p,x_q)<\frac{\varepsilon}{2}.
+\]
+任取 $y,z\in A_N=\overline{E_N}$。可分别选取 $u,v\in E_N$ 使
+\[
+  d(y,u)<\frac{\varepsilon}{4},
+  \qquad
+  d(z,v)<\frac{\varepsilon}{4}.
+\]
+由于 $u=x_p,v=x_q$ 对某些 $p,q\ge N$ 成立，三角不等式给出
+\[
+  d(y,z)
+  \le d(y,u)+d(u,v)+d(v,z)
+  <\frac{\varepsilon}{4}+\frac{\varepsilon}{2}+\frac{\varepsilon}{4}
+  =\varepsilon.
+\]
+因此 $\operatorname{diam}(A_N)\le\varepsilon$。又因 $A_n\subseteq A_N$ 对所有 $n\ge N$ 成立，
+\[
+  \operatorname{diam}(A_n)\le\operatorname{diam}(A_N)\le\varepsilon
+  \qquad(n\ge N).
+\]
+所以 $\operatorname{diam}(A_n)\to0$。
+
+由假设，存在
+\[
+  x\in\bigcap_{n=1}^{\infty}A_n.
+\]
+我们证明 $x_n\to x$。任取 $\varepsilon>0$，可取 $N$ 使 $\operatorname{diam}(A_N)<\varepsilon$。当 $n\ge N$ 时，$x_n\in E_N\subseteq A_N$，同时 $x\in A_N$，所以
+\[
+  d(x_n,x)\le\operatorname{diam}(A_N)<\varepsilon.
+\]
+故 $x_n\to x$。任意柯西列都在 $X$ 中收敛，因此 $(X,d)$ 完备。
+
+综上，两个条件等价。
+
+\end{document}
