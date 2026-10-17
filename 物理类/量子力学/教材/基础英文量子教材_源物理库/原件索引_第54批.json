@@ -1,0 +1,98 @@
+{
+  "batch": 54,
+  "rawCount": 7,
+  "rawBytes": 115711695,
+  "files": [
+    {
+      "originalName": "Modern Quantum Mechanics（现代量子力学·修订版）, J.J. Sakurai , Addison-Wesley, 1994.pdf",
+      "targetPath": "教材/基础英文量子教材_源物理库/Sakurai_ModernQM/Modern Quantum Mechanics（现代量子力学·修订版）, J.J. Sakurai , Addison-Wesley, 1994.pdf",
+      "sourceDirectory": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/%E4%B9%A6%E7%B1%8D",
+      "role": "教材或待核教材扫描本",
+      "bytes": 46907444,
+      "sha256": "c043a05d854503942d494a5eb00112c8d7968e5436b171a024e96ba6664887c6",
+      "pdfPages": 513,
+      "bodyVerified": true,
+      "scopeNote": "PDF扉页、版权页确认 Modern Quantum Mechanics, Revised Edition，J. J. Sakurai 著，San Fu Tuan 编辑，Addison-Wesley，©1994，ISBN 0-201-53929-2，共513 PDF页。版权页的印次数字行未进一步解释为具体再印年。DJVU在独立待核子目录，作者、修订版、出版社、1994目前仅据源名；未核其正文，不能宣称与该PDF同版或重复。",
+      "publicGit": "metadata_only",
+      "cloudAction": "既有相同SHA原件服务器移动"
+    },
+    {
+      "originalName": "Modern Quantum Mechanics（现代量子力学·修订版）, J.J. Sakurai , Addison-Wesley, 1994.djvu",
+      "targetPath": "教材/基础英文量子教材_源物理库/Sakurai_ModernQM/DJVU_版次年份据源名_待核/Modern Quantum Mechanics（现代量子力学·修订版）, J.J. Sakurai , Addison-Wesley, 1994.djvu",
+      "sourceDirectory": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/%E4%B9%A6%E7%B1%8D",
+      "role": "教材或待核教材扫描本",
+      "bytes": 7158047,
+      "sha256": "e094243c218aa33cf6d511f3a17b0180a35180c85d7cc191e4a9b0edda4ca1cf",
+      "pdfPages": null,
+      "bodyVerified": false,
+      "scopeNote": "PDF扉页、版权页确认 Modern Quantum Mechanics, Revised Edition，J. J. Sakurai 著，San Fu Tuan 编辑，Addison-Wesley，©1994，ISBN 0-201-53929-2，共513 PDF页。版权页的印次数字行未进一步解释为具体再印年。DJVU在独立待核子目录，作者、修订版、出版社、1994目前仅据源名；未核其正文，不能宣称与该PDF同版或重复。",
+      "publicGit": "metadata_only",
+      "cloudAction": "既有相同SHA原件服务器移动"
+    },
+    {
+      "originalName": "Principles of Quantum Mechanics, 2ed（量子力学原理 第2版）, R.Shankar, Plenum, 1994.djvu",
+      "targetPath": "教材/基础英文量子教材_源物理库/Shankar_PrinciplesQM/DJVU_版次年份据源名_待核/Principles of Quantum Mechanics, 2ed（量子力学原理 第2版）, R.Shankar, Plenum, 1994.djvu",
+      "sourceDirectory": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/%E4%B9%A6%E7%B1%8D",
+      "role": "教材或待核教材扫描本",
+      "bytes": 5780552,
+      "sha256": "a0ac78b0e9ed04055fd8afd6d96729bfda351cabf2837eaf4c089b6b957149e1",
+      "pdfPages": null,
+      "bodyVerified": false,
+      "scopeNote": "PDF扉页及原版权页确认为 R. Shankar, Principles of Quantum Mechanics, Second Edition，Plenum，©1994、1980，原ISBN 0-306-44790-8。国内版权页为世界图书出版公司北京公司2007年5月第1次印刷，ISBN 978-7-5062-8298-7；这是英文影印本，共695 PDF页，不是中文译本。CIP区域把英文书名写成Many-Particle Physics，与封面、扉页及正文不符，本批按扉页判定书目并记录该不一致。DJVU另存待核，2ed、1994及Plenum仅据来源文件名，未确认与影印PDF对应。",
+      "publicGit": "metadata_only",
+      "cloudAction": "既有相同SHA原件服务器移动"
+    },
+    {
+      "originalName": "经典英文物理学教材系列-量子力学原理（第2版）-[美]R.Shankar-世界图书出版公司-2007.pdf",
+      "targetPath": "教材/基础英文量子教材_源物理库/Shankar_PrinciplesQM/经典英文物理学教材系列-量子力学原理（第2版）-[美]R.Shankar-世界图书出版公司-2007.pdf",
+      "sourceDirectory": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/%E4%B9%A6%E7%B1%8D",
+      "role": "教材或待核教材扫描本",
+      "bytes": 38555958,
+      "sha256": "2d99f1967db1aaef51bd476c7b673d71742863010a96a940a381c66e61ede37b",
+      "pdfPages": 695,
+      "bodyVerified": true,
+      "scopeNote": "PDF扉页及原版权页确认为 R. Shankar, Principles of Quantum Mechanics, Second Edition，Plenum，©1994、1980，原ISBN 0-306-44790-8。国内版权页为世界图书出版公司北京公司2007年5月第1次印刷，ISBN 978-7-5062-8298-7；这是英文影印本，共695 PDF页，不是中文译本。CIP区域把英文书名写成Many-Particle Physics，与封面、扉页及正文不符，本批按扉页判定书目并记录该不一致。DJVU另存待核，2ed、1994及Plenum仅据来源文件名，未确认与影印PDF对应。",
+      "publicGit": "metadata_only",
+      "cloudAction": "既有相同SHA原件服务器移动"
+    },
+    {
+      "originalName": "Quantum Mechanics, 3ed（量子力学 第3版）, Eugen Merzbacher, Wiley, 1998.pdf",
+      "targetPath": "教材/基础英文量子教材_源物理库/Merzbacher_第3版1998/Quantum Mechanics, 3ed（量子力学 第3版）, Eugen Merzbacher, Wiley, 1998.pdf",
+      "sourceDirectory": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/%E4%B9%A6%E7%B1%8D",
+      "role": "教材或待核教材扫描本",
+      "bytes": 4480265,
+      "sha256": "a3b3e3bf685228efcf6972e370c7d1e04c1d94ad425431c6fc50de40b0e7fe26",
+      "pdfPages": 670,
+      "bodyVerified": true,
+      "scopeNote": "扉页、版权页确认 Eugen Merzbacher, Quantum Mechanics, Third Edition，John Wiley & Sons，版权年份列1961、1970、1988、1998，第三版CIP年份1998，ISBN 0-471-88702-1，共670 PDF页。归第3版1998，不根据扫描/馆藏戳记另编授课年或印次。",
+      "publicGit": "metadata_only",
+      "cloudAction": "既有相同SHA原件服务器移动"
+    },
+    {
+      "originalName": "Lectures on Quantum Mechanics by Steven Weinberg (z-lib.org).pdf",
+      "targetPath": "教材/基础英文量子教材_源物理库/Weinberg_第2版2015/Lectures on Quantum Mechanics by Steven Weinberg (z-lib.org).pdf",
+      "sourceDirectory": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/%E4%B9%A6%E7%B1%8D",
+      "role": "教材或待核教材扫描本",
+      "bytes": 5492627,
+      "sha256": "cc8bf4ced6986e964b96ecb8a0e9673a92d8e7a27e0af3fd69c5be541af29888",
+      "pdfPages": 442,
+      "bodyVerified": true,
+      "scopeNote": "封面、扉页、版权页确认 Steven Weinberg, Lectures on Quantum Mechanics, Second Edition，Cambridge University Press，©2015、First published 2015，ISBN 978-1-107-11166-0，共442 PDF页。原文件名没有标版次，现以正文说明确认为第二版2015；正文不是某一学期的教师课件。",
+      "publicGit": "metadata_only",
+      "cloudAction": "既有相同SHA原件服务器移动"
+    },
+    {
+      "originalName": "量子力学-[美]E.Fermi.pdf",
+      "targetPath": "教材/基础英文量子教材_源物理库/Fermi_源名_中英合编_作者版次待核/量子力学-[美]E.Fermi.pdf",
+      "sourceDirectory": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/%E4%B9%A6%E7%B1%8D",
+      "role": "教材或待核教材扫描本",
+      "bytes": 7336802,
+      "sha256": "0abcb5cc2a2ef652ece87cebd6495149efff714dceace7a1f3777edca5d3a6b2",
+      "pdfPages": 399,
+      "bodyVerified": false,
+      "scopeNote": "原文件名为“量子力学-[美]E.Fermi.pdf”，共399 PDF页。文件从中文目录开始，样本可见中文排印章节；PDF第228页标“影印英文手迹”，第229页起见英文手写稿，尾部有索引。未见可用于直接核定书目作者、译者、出版社、年份与版次的扉页/版权页，故仅把Fermi视为来源命名，归中英合编扫描本，作者版次待核。不宣称是完整中文译本、完整英文教材或作者原手稿真迹；未重新拆页拼接。",
+      "publicGit": "metadata_only",
+      "cloudAction": "既有相同SHA原件服务器移动"
+    }
+  ]
+}
