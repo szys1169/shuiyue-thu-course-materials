@@ -1,0 +1,103 @@
+{
+  "summary": {
+    "source_files": 0,
+    "provenance": 6,
+    "selected_files": 6,
+    "excluded_files": 9,
+    "local_links_verified": 5,
+    "cloud_links_adapted": 9,
+    "legacy_exact_paths_merged": 0,
+    "only_accepted_mapping_used": true
+  },
+  "files": [
+    {
+      "path": "物理类/大学物理/README_教材版本索引_第37批.md",
+      "sha256": "9c0de355dab43c0487b010364e1d260f4b18e380c71fd113ff0a4cdb83adc8fa",
+      "original_sha256": "9c0de355dab43c0487b010364e1d260f4b18e380c71fd113ff0a4cdb83adc8fa",
+      "bytes": 760,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/教材/README.md",
+      "sha256": "b40d4971bf38ccec6c96f282cf8472d8889e7bd1bbc08183bbccfb3e47990a2c",
+      "original_sha256": "b40d4971bf38ccec6c96f282cf8472d8889e7bd1bbc08183bbccfb3e47990a2c",
+      "bytes": 690,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/教材/张三慧_大学物理学/README.md",
+      "sha256": "7af46740496c466b1af53d2c862da21fe1ac59f4be132ca6587a584449d62609",
+      "original_sha256": "7af46740496c466b1af53d2c862da21fe1ac59f4be132ca6587a584449d62609",
+      "bytes": 813,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/教材/张三慧_大学物理学/第3版/README.md",
+      "sha256": "5ba8a45ef4092af63b2f8699eeea11ae71f8d3549b496e7e7c2c736237ed624c",
+      "original_sha256": "35e86d766ed31d7a425e3d951a6d90638daf0ce27eb8284290c23943b1a71491",
+      "bytes": 1612,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/教材/张三慧_大学物理学/第4版/README.md",
+      "sha256": "f98d9ee228a145b5c616d2744313ad801a48ff46649f2621ba715c34881c3646",
+      "original_sha256": "a4f17cadbd0dace5f8f6e343304741f64997fc8b975073b57a9e98203671c05c",
+      "bytes": 1709,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/教材/张三慧_大学物理学/第4版/力学热学_勘误/README.md",
+      "sha256": "19111a8a94ed9f00127ef19b2c9c2142d7d9fd185e227c7c39187f5dffbb7110",
+      "original_sha256": "7e8928908a184619be994ef47691c52bd1336104b5c089b221221083024afecd",
+      "bytes": 2350,
+      "kind": "provenance"
+    }
+  ],
+  "link_adaptations": [
+    {
+      "from": "教材/张三慧_大学物理学/第3版/README.md",
+      "target": "教材/张三慧_大学物理学/第3版/张三慧_大学物理学（第3版）_光学、量子物理分册.pdf",
+      "cloud": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E6%95%99%E6%9D%90/%E5%BC%A0%E4%B8%89%E6%85%A7_%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AD%A6/%E7%AC%AC3%E7%89%88/"
+    },
+    {
+      "from": "教材/张三慧_大学物理学/第3版/README.md",
+      "target": "教材/张三慧_大学物理学/第3版/张三慧_大学物理学（第3版）_力学、电磁学分册.pdf",
+      "cloud": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E6%95%99%E6%9D%90/%E5%BC%A0%E4%B8%89%E6%85%A7_%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AD%A6/%E7%AC%AC3%E7%89%88/"
+    },
+    {
+      "from": "教材/张三慧_大学物理学/第3版/README.md",
+      "target": "教材/张三慧_大学物理学/第3版/张三慧_大学物理学（第3版）_学习辅导与习题解答.pdf",
+      "cloud": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E6%95%99%E6%9D%90/%E5%BC%A0%E4%B8%89%E6%85%A7_%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AD%A6/%E7%AC%AC3%E7%89%88/"
+    },
+    {
+      "from": "教材/张三慧_大学物理学/第4版/README.md",
+      "target": "教材/张三慧_大学物理学/第4版/大学物理学. 力学、热学（第4版）.pdf",
+      "cloud": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E6%95%99%E6%9D%90/%E5%BC%A0%E4%B8%89%E6%85%A7_%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AD%A6/%E7%AC%AC4%E7%89%88/"
+    },
+    {
+      "from": "教材/张三慧_大学物理学/第4版/README.md",
+      "target": "教材/张三慧_大学物理学/第4版/大学物理学（第4版）学习辅导与习题解答.pdf",
+      "cloud": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E6%95%99%E6%9D%90/%E5%BC%A0%E4%B8%89%E6%85%A7_%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AD%A6/%E7%AC%AC4%E7%89%88/"
+    },
+    {
+      "from": "教材/张三慧_大学物理学/第4版/README.md",
+      "target": "教材/张三慧_大学物理学/第4版/大学物理学（第4版）电磁学、光学、量子物理.pdf",
+      "cloud": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E6%95%99%E6%9D%90/%E5%BC%A0%E4%B8%89%E6%85%A7_%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AD%A6/%E7%AC%AC4%E7%89%88/"
+    },
+    {
+      "from": "教材/张三慧_大学物理学/第4版/力学热学_勘误/README.md",
+      "target": "教材/张三慧_大学物理学/第4版/力学热学_勘误/大学物理学. 力学、热学（第4版）勘误表20220219-第四版.pdf",
+      "cloud": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E6%95%99%E6%9D%90/%E5%BC%A0%E4%B8%89%E6%85%A7_%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AD%A6/%E7%AC%AC4%E7%89%88/%E5%8A%9B%E5%AD%A6%E7%83%AD%E5%AD%A6_%E5%8B%98%E8%AF%AF/"
+    },
+    {
+      "from": "教材/张三慧_大学物理学/第4版/力学热学_勘误/README.md",
+      "target": "教材/张三慧_大学物理学/第4版/力学热学_勘误/大学物理学. 力学、热学（第4版）_错误已标出.pdf",
+      "cloud": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E6%95%99%E6%9D%90/%E5%BC%A0%E4%B8%89%E6%85%A7_%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AD%A6/%E7%AC%AC4%E7%89%88/%E5%8A%9B%E5%AD%A6%E7%83%AD%E5%AD%A6_%E5%8B%98%E8%AF%AF/"
+    },
+    {
+      "from": "教材/张三慧_大学物理学/第4版/力学热学_勘误/README.md",
+      "target": "教材/张三慧_大学物理学/第4版/力学热学_勘误/readme.txt",
+      "cloud": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E6%95%99%E6%9D%90/%E5%BC%A0%E4%B8%89%E6%85%A7_%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AD%A6/%E7%AC%AC4%E7%89%88/%E5%8A%9B%E5%AD%A6%E7%83%AD%E5%AD%A6_%E5%8B%98%E8%AF%AF/"
+    }
+  ]
+}
