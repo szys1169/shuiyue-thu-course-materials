@@ -72,3 +72,7 @@
 ### 后续增量：第 18 批
 
 [拓扑学](数学类/拓扑学/)：36 份资料文件、29 份来源/目录说明；192 条未同步记录保留云盘路径及哈希。同步清单见 [.sync/organized-20261018-batch18-manifest.json](.sync/organized-20261018-batch18-manifest.json)。同样不新增压缩包、讲义课件或录屏。
+
+### 后续增量：第 20 批
+
+[泛函分析](数学类/泛函分析/)：48 份资料文件、52 份来源/目录说明；85 条未同步记录保留云盘路径及哈希。同步清单见 [.sync/organized-20261018-batch20-manifest.json](.sync/organized-20261018-batch20-manifest.json)。同样不新增压缩包、讲义课件或录屏。

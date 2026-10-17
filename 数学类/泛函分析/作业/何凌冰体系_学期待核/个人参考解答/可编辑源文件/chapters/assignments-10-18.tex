@@ -1,0 +1,1429 @@
+\section{第十次作业}
+
+\subsection*{10.1　带状区域上的 Poincar\'e 不等式与迹算子}
+
+\begin{problem}
+考虑开集
+\[
+ \Omega=\{(x_1,x_2)\in\mathbb R^2:|x_1|<1, x_2\in\mathbb R\},
+ \qquad \Gamma=\{(-1,x_2):x_2\in\mathbb R\}.
+\]
+\begin{enumerate}
+ \item 证明存在常数 $C>0$，使
+ \[
+  \|f\|_{L^2(\Omega)}\le C\|\nabla f\|_{L^2(\Omega)},
+  \qquad
+  f\in\{g\in H^1(\Omega)\cap C^1(\overline\Omega):g|_\Gamma=0\}.
+ \]
+ \item 证明存在常数 $C>0$，使对任意 $f\in H^1(\Omega)\cap C^1(\overline\Omega)$，
+ \[
+  \|f\|_{L^2(\partial\Omega)}
+  :=\|f(-1,\cdot)\|_{L^2(\mathbb R)}+\|f(1,\cdot)\|_{L^2(\mathbb R)}
+  \le C\|f\|_{H^1(\Omega)}.
+ \]
+ \item 假设 $H^1(\Omega)\cap C^1(\overline\Omega)$ 在 $H^1(\Omega)$ 中稠密，证明存在
+ 唯一线性映射
+ \[
+  \operatorname{Tr}:H^1(\Omega)\to L^2(\partial\Omega)
+ \]
+ 使 $\operatorname{Tr}f=f|_{\partial\Omega}$ 对
+ $f\in H^1(\Omega)\cap C^1(\overline\Omega)$ 成立，并且
+ $\|\operatorname{Tr}f\|_{L^2(\partial\Omega)}\le C\|f\|_{H^1(\Omega)}$。
+ \item Poincar\'e 不等式能否延伸到
+ $f\in\{g\in H^1(\Omega):\operatorname{Tr}(g)|_\Gamma=0\}$？
+\end{enumerate}
+\end{problem}
+
+记 $\Omega=(-1,1)\times\mathbb R$，$\Gamma=\{-1\}\times\mathbb R$。
+
+\textbf{(1)} 先设 $f\in H^1(\Omega)\cap C^1(\overline\Omega)$ 且 $f|_\Gamma=0$。固定 $x_2$，由微积分基本定理，
+\[
+ f(x_1,x_2)=\int_{-1}^{x_1}\partial_1f(t,x_2)\,dt .
+\]
+故由 Cauchy--Schwarz 不等式，
+\[
+ |f(x_1,x_2)|^2
+ \le (x_1+1)\int_{-1}^{x_1}|\partial_1f(t,x_2)|^2dt
+ \le 2\int_{-1}^{1}|\partial_1f(t,x_2)|^2dt .
+\]
+再依次对 $x_1\in(-1,1)$、$x_2\in\mathbb R$ 积分，得到
+\[
+ \|f\|_{L^2(\Omega)}^2\le4\|\partial_1f\|_{L^2(\Omega)}^2
+ \le4\|\nabla f\|_{L^2(\Omega)}^2.
+\]
+因而可取 $C=2$。
+
+\textbf{(2)} 对固定的 $x_2$ 和任意 $x_1\in[-1,1]$，
+\[
+ |f(-1,x_2)|\le |f(x_1,x_2)|+
+ \int_{-1}^{1}|\partial_1f(t,x_2)|dt.
+\]
+利用 $(a+b)^2\le2a^2+2b^2$ 以及 Cauchy--Schwarz 不等式，
+\[
+ |f(-1,x_2)|^2
+ \le2|f(x_1,x_2)|^2+4\int_{-1}^{1}|\partial_1f(t,x_2)|^2dt.
+\]
+对 $x_1$ 取平均，再对 $x_2$ 积分，得
+\[
+ \|f(-1,\cdot)\|_2^2\le \|f\|_2^2+4\|\partial_1f\|_2^2
+ \le4\|f\|_{H^1(\Omega)}^2.
+\]
+对 $x_1=1$ 同理。因此
+\[
+ \|f\|_{L^2(\partial\Omega)}
+ =\|f(-1,\cdot)\|_2+\|f(1,\cdot)\|_2
+ \le4\|f\|_{H^1(\Omega)}.
+\]
+
+\textbf{(3)} 令 $D=H^1(\Omega)\cap C^1(\overline\Omega)$。由题设，$D$ 在 $H^1(\Omega)$ 中稠密。
+上一步说明限制映射
+\[
+ R:D\longrightarrow L^2(\partial\Omega),\qquad Rf=f|_{\partial\Omega}
+\]
+有界。给定 $f\in H^1(\Omega)$，取 $f_n\in D$ 使 $f_n\to f$ 于 $H^1$。则
+\[
+ \|Rf_n-Rf_m\|_{L^2(\partial\Omega)}\le C\|f_n-f_m\|_{H^1}\to0.
+\]
+由于 $L^2(\partial\Omega)$ 完备，$Rf_n$ 有极限。定义
+\[
+ \operatorname{Tr}f:=\lim_{n\to\infty}Rf_n.
+\]
+若换用另一逼近列，以上估计表明所得极限相同。因此 $\operatorname{Tr}$ 定义良好、线性且
+\[
+ \|\operatorname{Tr}f\|_{L^2(\partial\Omega)}\le C\|f\|_{H^1(\Omega)}.
+\]
+唯一性来自 $D$ 的稠密性。
+
+\textbf{(4)} 可以延伸。Sobolev 函数沿几乎每一条平行于 $x_1$ 轴的直线都有绝对连续代表，并且其经典端点值等于迹。若 $\operatorname{Tr}f|_\Gamma=0$，则对几乎处处的 $x_2$，
+\[
+ f(x_1,x_2)=\int_{-1}^{x_1}\partial_1f(t,x_2)dt.
+\]
+重复 (1) 的估计即得
+\[
+ \|f\|_{L^2(\Omega)}\le2\|\nabla f\|_{L^2(\Omega)}.
+\]
+
+\subsection*{10.2　一个混合边值问题}
+
+\begin{problem}
+考虑方程
+\[
+ -u''+\alpha u=f\quad (0<x<1),\qquad
+ u(0)=0,quad u'(1)=b,quad f\in L^2(0,1),\quad \alpha\ge0.
+\]
+其弱形式为：求 $u\in H:=\{g\in H^1(0,1):g(0)=0\}$，使对任意 $v\in H$，
+\[
+ \int_0^1u'v'\,dx+\alpha\int_0^1uv\,dx
+ =\int_0^1fv\,dx+bv(1).
+\]
+利用 Lax--Milgram 定理说明该弱问题存在唯一解。
+\end{problem}
+
+在
+\[
+ H=\{v\in H^1(0,1):v(0)=0\}
+\]
+上定义
+\[
+ a(u,v)=\int_0^1u'v'\,dx+\alpha\int_0^1uv\,dx,
+ \qquad L(v)=\int_0^1fv\,dx+bv(1).
+\]
+显然 $a$ 是连续双线性型。又因 $v(0)=0$，
+\[
+ |v(x)|=\left|\int_0^xv'(t)dt\right|\le\|v'\|_2,
+ \qquad \|v\|_2\le\|v'\|_2.
+\]
+从而
+\[
+ a(v,v)=\|v'\|_2^2+\alpha\|v\|_2^2
+ \ge\|v'\|_2^2\ge\frac12\|v\|_{H^1}^2.
+\]
+所以 $a$ 强制。另一方面，
+\[
+ |L(v)|\le\|f\|_2\|v\|_2+|b|\,|v(1)|
+ \le(\|f\|_2+|b|)\|v'\|_2
+ \le(\|f\|_2+|b|)\|v\|_{H^1}.
+\]
+故 $L\in H^*$。由 Lax--Milgram 定理，存在唯一 $u\in H$ 使
+$a(u,v)=L(v)$ 对所有 $v\in H$ 成立，这正是所给弱问题的唯一解。
+
+\subsection*{10.3　由数值下界推出可逆性}
+
+\begin{problem}
+设 $H$ 是 Hilbert 空间，$A\in\mathcal L(H)$，并且存在 $m>0$ 使
+\[
+ |\langle Ax,x\rangle|\ge m\|x\|^2,\qquad x\in H.
+\]
+证明 $A$ 存在有界逆算子 $A^{-1}\in\mathcal L(H)$。
+\end{problem}
+
+记数值域 $W(A)=\{\langle Ax,x\rangle:\|x\|=1\}$。题设说明
+$\operatorname{dist}(0,W(A))\ge m$。数值域的闭包是凸集，因此存在模为 $1$ 的标量
+$\omega$，使得（实情形只需取 $\omega=1$ 或 $-1$）
+\[
+ \operatorname{Re}\langle \omega Ax,x\rangle\ge m\|x\|^2,
+ \qquad x\in H.
+\]
+这里可由凸集分离定理得到：用过原点且垂直于离原点最近方向的直线分离
+$0$ 与 $\overline{W(A)}$。
+
+令 $a(x,y)=\langle\omega Ax,y\rangle$。它是有界的强制 sesquilinear 型。对任意
+$z\in H$，泛函 $y\mapsto\langle z,y\rangle$ 有界，故 Lax--Milgram 定理给出唯一
+$x\in H$ 使
+\[
+ \langle\omega Ax,y\rangle=\langle z,y\rangle,\qquad y\in H.
+\]
+于是 $\omega Ax=z$，说明 $A$ 满射；强制性同时给出单射。并且
+\[
+ m\|x\|^2\le|\langle Ax,x\rangle|\le\|Ax\|\|x\|,
+\]
+所以 $\|x\|\le m^{-1}\|Ax\|$。令 $x=A^{-1}y$，得
+$\|A^{-1}y\|\le m^{-1}\|y\|$，故 $A^{-1}\in\mathcal L(H)$。
+
+\subsection*{10.4　次线性泛函}
+
+\begin{problem}
+设 $p$ 是实线性空间 $X$ 上的次线性泛函。证明：
+\begin{enumerate}
+ \item $p(0)=0$；
+ \item $p(-x)\ge-p(x)$；
+ \item 给定 $x_0\in X$，存在实线性泛函 $f:X\to\mathbb R$，满足
+ $f(x_0)=p(x_0)$ 且 $f(x)\le p(x)$ 对所有 $x\in X$ 成立。
+\end{enumerate}
+\end{problem}
+
+由次可加性，$p(0)=p(0+0)\le2p(0)$，而正齐次性给出
+$p(0)=p(0x)=0p(x)=0$，故 (1) 成立。再由
+\[
+ 0=p(0)=p(x-x)\le p(x)+p(-x)
+\]
+得到 $p(-x)\ge-p(x)$。
+
+在一维子空间 $M=\mathbb Rx_0$ 上定义
+\[
+ f_0(tx_0)=t\,p(x_0).
+\]
+若 $t\ge0$，则 $f_0(tx_0)=p(tx_0)$；若 $t<0$，由上一结论
+\[
+ f_0(tx_0)=(-t)(-p(x_0))\le(-t)p(-x_0)=p(tx_0).
+\]
+因此 $f_0\le p$ 于 $M$。Hahn--Banach 定理给出线性延拓 $f:X\to\mathbb R$，满足
+$f\le p$ 于 $X$，并且 $f(x_0)=p(x_0)$。
+
+\subsection*{10.5　上极限泛函}
+
+\begin{problem}
+设 $X$ 是由实数列 $x=(a_n)$ 组成的实线性空间，坐标逐项定义相等与线性运算。令
+\[
+ p(x)=\limsup_{n\to\infty}a_n.
+\]
+证明 $p$ 是 $X$ 上的次线性泛函。
+\end{problem}
+
+题面若把 $X$ 解释为“所有实数列”，则命题按字面并不成立：例如 $a_n=n$ 时
+$\limsup a_n=+\infty$，$p$ 不是实值泛函。以下按通常且使题目成立的表述，将
+$X$ 理解为所有上极限有限的序列（特别地可取 $X=\ell^\infty$）。
+
+对 $x=(a_n),y=(b_n)$，有
+\[
+ \limsup(a_n+b_n)\le\limsup a_n+\limsup b_n,
+\]
+因为对每个 $N$，
+\[
+ \sup_{n\ge N}(a_n+b_n)
+ \le\sup_{n\ge N}a_n+\sup_{n\ge N}b_n,
+\]
+再令 $N\to\infty$ 即可。若 $\lambda\ge0$，则
+\[
+ p(\lambda x)=\limsup(\lambda a_n)=\lambda\limsup a_n=\lambda p(x).
+\]
+所以 $p$ 满足次可加性和非负齐次性，是次线性泛函。
+
+\section{第十一次作业}
+
+\subsection*{11.1　有限个线性无关向量的对偶坐标}
+
+\begin{problem}
+给定赋范线性空间 $X$ 中 $n$ 个线性无关元素 $x_1,\dots,x_n$，证明存在
+$f_1,\dots,f_n\in X^*$，使
+\[
+ \langle f_i,x_j\rangle=\delta_{ij},\qquad 1\le i,j\le n.
+\]
+\end{problem}
+
+令 $E=\operatorname{span}\{x_1,\dots,x_n\}$。在线性无关基
+$x_1,\dots,x_n$ 下定义坐标泛函
+\[
+ g_i\!\left(\sum_{j=1}^na_jx_j\right)=a_i.
+\]
+有限维空间上的线性泛函自动连续，故 $g_i\in E^*$。由 Hahn--Banach 定理，存在
+$f_i\in X^*$ 延拓 $g_i$ 且 $\|f_i\|=\|g_i\|$。于是
+\[
+ \langle f_i,x_j\rangle=g_i(x_j)=\delta_{ij}.
+\]
+
+\subsection*{11.2　Banach 极限}
+
+\begin{problem}
+令 $\ell^\infty$ 为实有界序列组成的 Banach 空间，定义移位算子
+$T:\ell^\infty\to\ell^\infty$ 为
+\[
+ Tx=(x_{n+1})_{n\ge1},\qquad x=(x_n)_{n\ge1},
+\]
+并令
+\[
+ Y=\operatorname{Im}(I-T)=\{x-Tx:x\in\ell^\infty\}.
+\]
+\begin{enumerate}
+ \item 记 $c_0\subset\ell^\infty$ 为收敛到 $0$ 的序列空间，证明 $c_0\subset Y$。
+ \item 记 $\mathbf1=(1,1,\dots)$。证明
+ \[
+  \sup_n|1+x_{n+1}-x_n|\ge1,\qquad x\in\ell^\infty,
+ \]
+ 并推出
+ \[
+  d(\mathbf1,Y)=\inf_{y\in Y}\|\mathbf1-y\|_\infty=1.
+ \]
+ \item 由 Hahn--Banach 定理可取 $\Lambda\in(\ell^\infty)^*$，满足
+ \[
+  \Lambda(\mathbf1)=1,\qquad \|\Lambda\|=1,\qquad
+  \Lambda(x-Tx)=0\quad(x\in\ell^\infty).
+ \]
+ 证明任意这样的 $\Lambda$ 满足：
+ \begin{enumerate}
+  \item $\Lambda(Tx)=\Lambda(x)$；
+  \item 若 $x_n\ge0$，则 $\Lambda(x)\ge0$；
+  \item $\liminf_{n\to\infty}x_n\le\Lambda(x)\le\limsup_{n\to\infty}x_n$；
+  \item 若 $x_n$ 收敛，则 $\Lambda(x)=\lim_{n\to\infty}x_n$。
+ \end{enumerate}
+ \item 找出 $x,y\in\ell^\infty$，使
+ $\Lambda(xy)\ne\Lambda(x)\Lambda(y)$。提示：考虑 $x_n=(-1)^n$ 并证明
+ $\Lambda(x)=0$。
+ \item 证明不存在 $y=(y_n)\in\ell^1$ 使
+ \[
+  \Lambda(x)=\sum_{n=1}^\infty x_ny_n,\qquad x\in\ell^\infty.
+ \]
+ 提示：由正性可推出 $y_n\ge0$ 且 $\sum y_n=1$，再与收敛序列上的性质矛盾。
+\end{enumerate}
+\end{problem}
+
+\textbf{(1)} 题面写成 $c_0\subset Y$ 时结论不成立。取 $a_n=1/n\in c_0$；若
+$a=x-Tx$，则
+\[
+ x_{N+1}=x_1-\sum_{n=1}^N\frac1n,
+\]
+与 $x\in\ell^\infty$ 矛盾。正确且在后续论证中足够的结论是
+\[
+ c_{00}\subset Y,\qquad c_0\subset\overline Y.
+\]
+事实上，若 $a_n=0$ 对 $n>N$，取
+$x_n=\sum_{k=n}^Na_k$（$n\le N$）且 $x_n=0$（$n>N$），则
+$x-Tx=a$。再利用 $c_{00}$ 在 $c_0$ 中稠密即可。
+
+\textbf{(2)} 对任意 $x\in\ell^\infty$，若
+$\sup_n|1+x_{n+1}-x_n|<1$，则存在 $\varepsilon>0$ 使
+$1+x_{n+1}-x_n\ge\varepsilon$，即
+$x_{n+1}-x_n\ge-1+\varepsilon$；这本身还不足以矛盾。更直接地，对前 $N$ 项取平均：
+\[
+ \sup_n|1+x_{n+1}-x_n|
+ \ge\left|\frac1N\sum_{n=1}^N(1+x_{n+1}-x_n)\right|
+ =\left|1+\frac{x_{N+1}-x_1}{N}\right|.
+\]
+令 $N\to\infty$，右端趋于 $1$，故上确界至少为 $1$。于是对
+$y=x-Tx\in Y$，$\|\mathbf1-y\|_\infty\ge1$。取 $y=0$ 又给出反向不等式，故
+$d(\mathbf1,Y)=1$。
+
+\textbf{(3)} 在 $\overline Y+\mathbb R\mathbf1$ 上定义
+$L(y+c\mathbf1)=c$。由上一问，$L$ 定义良好且范数为 $1$。Hahn--Banach 延拓给出
+$\Lambda\in(\ell^\infty)^*$，满足 $\Lambda(\mathbf1)=1$、$\|\Lambda\|=1$ 且
+$\Lambda|_Y=0$。
+
+(a) 因 $x-Tx\in Y$，
+\[
+ \Lambda(x)-\Lambda(Tx)=\Lambda(x-Tx)=0.
+\]
+
+(b) 若 $x\ge0$，令 $M=\|x\|_\infty$。$M=0$ 时显然。$M>0$ 时
+$\|\mathbf1-x/M\|_\infty\le1$，故
+\[
+ \Lambda(x)=M\{1-\Lambda(\mathbf1-x/M)\}
+ \ge M(1-|\Lambda(\mathbf1-x/M)|)\ge0.
+\]
+
+(c) 记 $\alpha_N=\inf_{n\ge N}x_n$、$\beta_N=\sup_{n\ge N}x_n$。
+由 (a)，$\Lambda(x)=\Lambda(T^{N-1}x)$；由正性，
+\[
+ \alpha_N=\Lambda(\alpha_N\mathbf1)\le\Lambda(T^{N-1}x)\le
+ \Lambda(\beta_N\mathbf1)=\beta_N.
+\]
+令 $N\to\infty$，即得
+\[
+ \liminf x_n\le\Lambda(x)\le\limsup x_n.
+\]
+
+(d) 若 $x_n\to a$，上下极限均为 $a$，由 (c) 得 $\Lambda(x)=a$。
+
+\textbf{(4)} 取 $x_n=(-1)^n$。因为 $Tx=-x$，移位不变性给出
+$\Lambda(x)=\Lambda(Tx)=-\Lambda(x)$，所以 $\Lambda(x)=0$。令 $y=x$，则
+$xy=\mathbf1$，从而
+\[
+ \Lambda(xy)=1\ne0=\Lambda(x)\Lambda(y).
+\]
+
+\textbf{(5)} 假设存在 $y\in\ell^1$ 使
+$\Lambda(x)=\sum x_ny_n$。取标准基 $e_n\in c_0\subset\overline Y$，有
+$y_n=\Lambda(e_n)=0$。这对每个 $n$ 都成立，于是 $y=0$，但这将导致
+$1=\Lambda(\mathbf1)=0$，矛盾。因此不存在这样的 $y$。
+
+\subsection*{11.3　Hahn--Banach 延拓的不唯一性}
+
+\begin{problem}
+定义
+\[
+ C=\{x=(x_n)\in\ell^\infty:\lim_{n\to\infty}x_n\text{ 存在}\},
+\]
+\[
+ S=\{x=(x_n)\in\ell^\infty:\lim_{n\to\infty}x_{2n}
+ \text{ 与 }\lim_{n\to\infty}x_{2n+1}\text{ 均存在}\}.
+\]
+令
+\[
+ f(x)=\lim_nx_n\quad(x\in C),\qquad
+ f_1(x)=\lim_nx_{2n},\quad f_2(x)=\lim_nx_{2n+1}\quad(x\in S).
+\]
+证明：
+\begin{enumerate}
+ \item $S,C$ 是 $\ell^\infty$ 的闭子空间；
+ \item $f\in C^*$、$f_1,f_2\in S^*$，且
+ $\|f\|=\|f_1\|=\|f_2\|=1$，并有 $f_1|_C=f_2|_C$；
+ \item 构造例子说明 Hahn--Banach 延拓有无穷多种方式。
+\end{enumerate}
+\end{problem}
+
+$C$ 和 $S$ 都是线性子空间。若 $x^{(k)}\in C$ 且
+$x^{(k)}\to x$ 于 $\ell^\infty$，给定 $\varepsilon>0$，先取 $k$ 使
+$\|x^{(k)}-x\|_\infty<\varepsilon/3$，再利用 $x^{(k)}$ 收敛验证 $x$ 是 Cauchy
+序列，故 $x\in C$。对偶数、奇数子列分别作同样论证，得到 $S$ 也闭。
+
+显然
+\[
+ |f(x)|,|f_1(x)|,|f_2(x)|\le\|x\|_\infty,
+\]
+故三者范数不超过 $1$；代入 $\mathbf1$ 得三者范数恰为 $1$。若 $x\in C$，偶、奇
+子列极限都等于 $\lim x_n$，所以 $f_1|_C=f_2|_C=f$。
+
+对每个 $t\in[0,1]$ 定义
+\[
+ F_t=t f_1+(1-t)f_2\in S^*.
+\]
+则 $F_t|_C=f$，且由正系数组合 $\|F_t\|\le1$，代入 $\mathbf1$ 又知
+$\|F_t\|=1$。取交错序列 $u=(0,1,0,1,\dots)$，不同的 $t$ 给出不同的
+$F_t(u)$。故至少在子空间 $S$ 上已有不可数多个保范延拓；再分别用 Hahn--Banach
+延拓到 $\ell^\infty$，便得到 $f$ 的无穷多种延拓。
+
+\section{第十二次作业}
+
+\subsection*{12.1　吸收集、代数内点与 Minkowski 泛函}
+
+\begin{problem}
+设 $K$ 是实线性空间 $X$ 的子集，$P_K$ 表示 $K$ 的 Minkowski 泛函。证明：
+\begin{enumerate}
+ \item $K$ 是吸收集，当且仅当 $0$ 是 $K$ 的代数内点；
+ \item 若 $K$ 是凸集，则 $K$ 是吸收集，当且仅当
+ $P_K(x)<\infty$ 对所有 $x\in X$ 成立；
+ \item 若 $K$ 是平衡凸吸收集，令
+ \[
+  V=\{x\in X:P_K(x)<1\},\qquad W=\{x\in X:P_K(x)\le1\}.
+ \]
+ 则 $V\subset K\subset W$；$V,W$ 也是平衡凸吸收集；$V$ 是 $K$ 的全部代数
+ 内点所成的集合；并且 $P_K=P_V=P_W$。
+\end{enumerate}
+\end{problem}
+
+称 $0$ 是 $K$ 的代数内点，是指对每个 $x\in X$，存在 $\varepsilon>0$，使
+$tx\in K$ 对所有 $|t|<\varepsilon$ 成立。
+
+\textbf{(1)} 按吸收集的定义，对每个 $x$ 都存在 $\varepsilon_x>0$，使
+$tx\in K$ 对所有 $|t|<\varepsilon_x$ 成立；这恰好说明 $0$ 是 $K$ 的代数内点。
+反之，若 $0$ 是代数
+内点，给定 $x$ 可取 $t>0$ 使 $tx\in K$，于是 $x\in t^{-1}K$，故 $K$ 吸收。
+
+\textbf{(2)} 设 $K$ 凸且含 $0$。若 $K$ 吸收，则对每个 $x$ 存在 $\lambda>0$
+使 $x\in\lambda K$，故
+\[
+ P_K(x)=\inf\{t>0:x\in tK\}<\infty.
+\]
+反之，若 $P_K(x)<\infty$，则定义上存在某个 $t<\infty$ 使 $x\in tK$，所以
+$K$ 吸收。
+
+\textbf{(3)} 设 $K$ 平衡、凸且吸收。若 $P_K(x)<1$，取
+$P_K(x)<t<1$ 且 $x\in tK$；由平衡性 $tK\subset K$，所以 $x\in K$。
+若 $x\in K$，则 $P_K(x)\le1$。因此
+\[
+ V:=\{P_K<1\}\subset K\subset W:=\{P_K\le1\}.
+\]
+$P_K$ 是半范数：正齐次性直接来自定义；若 $x\in rK,y\in sK$，则
+\[
+ \frac{x+y}{r+s}=\frac r{r+s}\frac xr+\frac s{r+s}\frac ys\in K,
+\]
+故 $P_K(x+y)\le r+s$，令 $r\downarrow P_K(x),s\downarrow P_K(y)$ 得次可加性。
+由此立即验证 $V,W$ 平衡、凸且吸收。
+
+若 $x\in V$，取 $P_K(x)<a<1$。对任意方向 $y$，当
+$|t|<(1-a)/P_K(y)$ 时，
+\[
+ P_K(x+ty)\le P_K(x)+|t|P_K(y)<1,
+\]
+所以 $x$ 是 $K$ 的代数内点。反之，若 $x$ 是代数内点，沿方向 $x$ 可取
+$\varepsilon>0$ 使 $(1+\varepsilon)x\in K$，故
+$P_K(x)\le(1+\varepsilon)^{-1}<1$。所以 $V$ 正好是代数内点集合。
+
+由 $V\subset K\subset W$ 得 $P_W\le P_K\le P_V$。而
+$x\in tV$ 当且仅当 $P_K(x)<t$，取下确界可得 $P_V=P_K$；同理
+$P_W=P_K$。
+
+\subsection*{12.2　Minkowski 泛函的连续性}
+
+\begin{problem}
+设 $X$ 为实赋范线性空间，$0\in C\subset X$ 为凸集，定义 Minkowski 泛函
+\[
+ p(x)=\inf\{\lambda>0:\lambda^{-1}x\in C\},\qquad x\in X.
+\]
+证明 $p$ 连续当且仅当 $0\in\operatorname{int}C$；此时
+\[
+ \operatorname{int}C=p^{-1}([0,1)),\qquad
+ \overline C=p^{-1}([0,1]).
+\]
+\end{problem}
+
+题面最后应理解为
+\[
+ \operatorname{int}C=p^{-1}([0,1)),\qquad
+ \overline C=p^{-1}([0,1]);
+\]
+若没有假设 $C$ 闭，不能把第二个集合写成 $C$（开单位球就是反例）。
+
+先设 $0\in\operatorname{int}C$。存在 $r>0$ 使 $rB_X\subset C$，因此
+$p(x)\le r^{-1}\|x\|$。由次线性，
+\[
+ |p(x)-p(y)|\le\max\{p(x-y),p(y-x)\}\le r^{-1}\|x-y\|,
+\]
+所以 $p$ 连续。反之，若 $p$ 在 $0$ 连续，则存在 $r>0$ 使 $\|x\|<r$
+时 $p(x)<1$。由 $\{p<1\}\subset C$，有 $rB_X\subset C$，故
+$0\in\operatorname{int}C$。
+
+连续时，$\{p<1\}$ 是开集且包含于 $C$；反向包含由沿射线稍微放大内点得到，故
+$\operatorname{int}C=\{p<1\}$。又 $C\subset\{p\le1\}$ 给出
+$\overline C\subset\{p\le1\}$。若 $p(x)\le1$，则 $0<t<1$ 时
+$p(tx)<1$，故 $tx\in C$，而 $tx\to x$，于是 $x\in\overline C$。所以
+$\overline C=\{p\le1\}$。
+
+\subsection*{12.3　平衡集上的线性泛函估计}
+
+\begin{problem}
+设 $X$ 是赋范线性空间，$E\subset X$ 是非空平衡凸集，$f$ 是 $X$ 上的线性泛函。
+证明
+\[
+ |f(x)|\le\sup_{y\in E}\operatorname{Re}f(y),\qquad x\in E.
+\]
+\end{problem}
+
+实数情形，由平衡性 $-x\in E$，所以
+\[
+ |f(x)|=\max\{f(x),f(-x)\}\le\sup_{y\in E}f(y).
+\]
+复数情形，若 $f(x)\ne0$，取 $|\lambda|=1$ 使
+$\lambda f(x)=|f(x)|$。因 $\lambda x\in E$，故
+\[
+ |f(x)|=\operatorname{Re}f(\lambda x)
+ \le\sup_{y\in E}\operatorname{Re}f(y).
+\]
+$f(x)=0$ 时结论显然。
+
+\subsection*{12.4　点与平衡闭凸集的严格分离}
+
+\begin{problem}
+设 $X$ 是实赋范线性空间，$E\subset X$ 是非空平衡闭凸集。证明对每个
+$x_0\in X\setminus E$，存在 $f\in X^*$ 与 $a>0$，使
+\[
+ |f(x)|<a<|f(x_0)|,\qquad x\in E.
+\]
+\end{problem}
+
+因 $E$ 闭且 $x_0\notin E$，有 $d=\operatorname{dist}(x_0,E)>0$。开凸集
+$G=E+B(0,d/2)$ 与点 $x_0$ 不交。严格分离定理给出非零 $f\in X^*$，使
+\[
+ \sup_{z\in G}f(z)<f(x_0).
+\]
+由于 $E$ 平衡，$\sup_E|f|=\sup_Ef$。把 $f$ 换成 $-f$（如有必要），可令
+$f(x_0)>0$。取
+\[
+ \sup_{x\in E}|f(x)|<a<|f(x_0)|,
+\]
+便得到结论。
+
+\subsection*{12.5　开平衡凸集与不交凸集的分离}
+
+\begin{problem}
+设 $E,F$ 是实赋范线性空间 $X$ 中两个互不相交的非空凸集，并且 $E$ 是开集且平衡。
+证明存在 $f\in X^*$，使
+\[
+ |f(x)|<\inf_{y\in F}|f(y)|,\qquad x\in E.
+\]
+\end{problem}
+
+由一个集合开时的凸集分离定理，存在非零 $f\in X^*$ 和 $c\in\mathbb R$，使
+\[
+ f(x)<c\le f(y),\qquad x\in E, y\in F.
+\]
+因为 $E$ 平衡，$0\in E$ 且 $x\in E\Rightarrow -x\in E$，所以
+$|f(x)|<c$，特别地 $c>0$。对 $y\in F$ 有 $|f(y)|\ge f(y)\ge c$。于是
+\[
+ |f(x)|<c\le\inf_{y\in F}|f(y)|,\qquad x\in E.
+\]
+
+\subsection*{12.6　不能严格分离的两个闭凸集}
+
+\begin{problem}
+在 $\ell^2$ 中定义
+\[
+ A=\{x=(x_i):x_i=0\text{ 对所有 }i>1\},
+\]
+以及
+\[
+ B=\{x=(x_i)_{i=1}^\infty\in\mathbb R^{\mathbb N}:
+ |ix_i-i^{1/3}|\le x_1\text{ 对所有 }i>1\}\cap\ell^2.
+\]
+证明 $A,B$ 是 $\ell^2$ 中互不相交的非空闭凸集，且 $A-B$ 在 $\ell^2$ 中稠密，
+并由此推出 $A,B$ 不能被仿射超平面分离。
+\end{problem}
+
+写
+\[
+ A=\{(a,0,0,\dots):a\in\mathbb R\},
+\quad B=\{x\in\ell^2:|ix_i-i^{1/3}|\le x_1, i>1\}.
+\]
+$A$ 显然非空、闭、凸。$B$ 非空，因为
+$b=(0,2^{-2/3},3^{-2/3},\dots)\in\ell^2$ 且等号成立。每个条件等价于两个闭
+半空间条件，故 $B$ 是闭凸集。若 $x\in A\cap B$，则 $x_i=0$（$i>1$），从而
+$i^{1/3}\le x_1$ 对所有 $i>1$，不可能，故两集不交。
+
+给定 $z\in\ell^2$ 和 $\varepsilon>0$，取 $N$ 足够大，使
+\[
+ \sum_{i>N}|z_i|^2<\varepsilon^2/4,
+ \qquad \sum_{i>N}i^{-4/3}<\varepsilon^2/4.
+\]
+定义 $b_i=-z_i$（$2\le i\le N$），$b_i=i^{-2/3}$（$i>N$），并取
+\[
+ b_1\ge\max_{2\le i\le N}|ib_i-i^{1/3}|.
+\]
+则 $b\in B$。令 $a=(z_1+b_1,0,0,\dots)\in A$。此时
+\[
+ \|(a-b)-z\|_2^2
+ \le2\sum_{i>N}i^{-4/3}+2\sum_{i>N}|z_i|^2<\varepsilon^2.
+\]
+故 $A-B$ 稠密。若仿射超平面分离 $A,B$，适当改变方向后存在非零
+$f\in(\ell^2)^*$ 和 $c$，使 $f(a)\le c\le f(b)$ 对所有 $a\in A,b\in B$
+成立。因此 $f(a-b)\le0$ 于稠密集 $A-B$ 上成立。由连续性，$f(x)\le0$ 对所有
+$x\in\ell^2$ 成立；再以 $-x$ 代入便得 $f=0$，矛盾。因此两集不能被仿射超平面
+分离。
+
+\section{第十三次作业}
+
+\subsection*{13.1　凸集边界点沿射线外推}
+
+\begin{problem}
+设 $C$ 是实赋范线性空间 $X$ 中的凸集，$x_0\in\operatorname{int}C$、
+$x_1\in\partial C$，并令
+\[
+ x_2=m(x_1-x_0)+x_0,\qquad m>1.
+\]
+证明 $x_2\notin C$。
+\end{problem}
+
+若 $u\in\operatorname{int}C$、$v\in C$ 且 $0\le t<1$，则
+$(1-t)u+tv\in\operatorname{int}C$。事实上，取 $r>0$ 使 $B(u,r)\subset C$，则
+\[
+ B((1-t)u+tv,(1-t)r)=(1-t)B(u,r)+tv\subset C.
+\]
+若反设 $x_2\in C$，则
+\[
+ x_1=\left(1-\frac1m\right)x_0+\frac1m x_2,\qquad 0<\frac1m<1.
+\]
+由上述事实 $x_1\in\operatorname{int}C$，与 $x_1\in\partial C$ 矛盾。因此
+$x_2\notin C$。
+
+\subsection*{13.2　闭半空间表示}
+
+\begin{problem}
+设 $X$ 为实赋范线性空间，$A\subset X$ 为非空凸集。证明 $\overline A$ 是所有
+包含 $A$ 的闭半空间之交。
+\end{problem}
+
+所有包含 $A$ 的闭半空间之交记为 $D$。显然 $\overline A\subset D$。反过来，若
+$x_0\notin\overline A$，由严格分离定理，存在 $f\in X^*$ 和 $c\in\mathbb R$ 使
+\[
+ f(a)\le c<f(x_0),\qquad a\in\overline A.
+\]
+于是闭半空间 $H=\{x:f(x)\le c\}$ 包含 $A$ 却不包含 $x_0$，故
+$x_0\notin D$。这说明 $D=\overline A$。
+
+\subsection*{13.3　双线性映射与张量积}
+
+\begin{problem}
+设 $X,Y$ 为实赋范线性空间。证明：
+\begin{enumerate}
+ \item 对任意赋范线性空间 $Z$，在所有有界双线性映射
+ $B:X\times Y\to Z$ 构成的空间 $\mathcal B(X,Y;Z)$ 上可定义范数
+ \[
+  \|B\|=\sup_{x,y\ne0}\frac{\|B(x,y)\|_Z}{\|x\|_X\|y\|_Y}.
+ \]
+ \item 映射
+ \[
+  \mathcal B(X,Y;Z)\longrightarrow\mathcal L(X,\mathcal L(Y,Z)),\qquad
+  B\longmapsto(x\mapsto B(x,\cdot))
+ \]
+ 是等距同构。
+ \item 对 $(x,y)\in X\times Y$ 定义
+ $x\otimes y\in\mathcal B(X,Y;\mathbb R)^*$ 为
+ \[
+  \langle x\otimes y,B\rangle=B(x,y),\qquad
+  B\in\mathcal B(X,Y;\mathbb R).
+ \]
+ 证明 $\|x\otimes y\|=\|x\|_X\|y\|_Y$。提示：用 Hahn--Banach 定理取适当的
+ $x^*\in X^*,y^*\in Y^*$，并考虑 $B(u,v)=x^*(u)y^*(v)$。
+ \item 令 $X\widehat\otimes Y\subset\mathcal B(X,Y;\mathbb R)^*$ 为包含所有
+ $x\otimes y$ 的最小闭线性子空间。证明对任意赋范线性空间 $Z$，映射
+ \[
+  \mathcal L(X\widehat\otimes Y,Z)\longrightarrow\mathcal B(X,Y;Z),
+  \qquad A\longmapsto B_A,quad B_A(x,y)=A(x\otimes y),
+ \]
+ 是等距同构。
+\end{enumerate}
+\end{problem}
+
+\textbf{(1)} 定义
+\[
+ \|B\|=\sup_{x,y\ne0}\frac{\|B(x,y)\|}{\|x\|\|y\|}
+ =\sup_{\|x\|\le1,\|y\|\le1}\|B(x,y)\|.
+\]
+非负性与齐次性显然，三角不等式来自逐点三角不等式。若 $\|B\|=0$，则
+$B(x,y)=0$ 对所有 $x,y$ 成立，所以这是范数。
+
+\textbf{(2)}（题面中的目标空间应为 $\mathcal L(X,\mathcal L(Y,Z))$。）定义
+\[
+ \Phi(B)(x)(y)=B(x,y).
+\]
+则
+\[
+ \|\Phi(B)\|=\sup_{\|x\|\le1}\sup_{\|y\|\le1}\|B(x,y)\|=\|B\|.
+\]
+反之，给定 $T\in\mathcal L(X,\mathcal L(Y,Z))$，令 $B_T(x,y)=(Tx)(y)$，则
+$B_T$ 有界双线性且 $\Phi(B_T)=T$，故 $\Phi$ 是等距同构。
+
+\textbf{(3)} 泛函 $x\otimes y$ 满足
+\[
+ |\langle x\otimes y,B\rangle|=|B(x,y)|
+ \le\|B\|\|x\|\|y\|,
+\]
+故 $\|x\otimes y\|\le\|x\|\|y\|$。若 $x,y\ne0$，由 Hahn--Banach
+定理取 $x^*\in X^*,y^*\in Y^*$，使
+\[
+ \|x^*\|=\|y^*\|=1,quad x^*(x)=\|x\|,quad y^*(y)=\|y\|.
+\]
+令 $B_0(u,v)=x^*(u)y^*(v)$，则 $\|B_0\|=1$ 且
+\[
+ \|x\otimes y\|\ge|B_0(x,y)|=\|x\|\|y\|.
+\]
+故等号成立。
+
+\textbf{(4)} 把题面所定义的闭线性包记为 $X\widehat\otimes_\pi Y$。给定
+$A\in\mathcal L(X\widehat\otimes_\pi Y,Z)$，令 $B_A(x,y)=A(x\otimes y)$。由 (3)，
+\[
+ \|B_A(x,y)\|\le\|A\|\|x\|\|y\|,
+\]
+故 $\|B_A\|\le\|A\|$。简单张量的线性组合稠密，而 $A$ 在它们上的值完全由
+$B_A$ 决定；按投射张量范数的定义，反向不等式也成立。
+
+给定 $B\in\mathcal B(X,Y;Z)$，先定义
+\[
+ A_B\left(\sum_{j=1}^nx_j\otimes y_j\right)=\sum_{j=1}^nB(x_j,y_j).
+\]
+张量关系保证定义与表示无关，且
+\[
+ \left\|A_B\left(\sum_jx_j\otimes y_j\right)\right\|
+ \le\|B\|\sum_j\|x_j\|\|y_j\|.
+\]
+对所有表示取下确界，得到 $\|A_Bu\|\le\|B\|\|u\|_\pi$，故唯一连续延拓
+到完备化。显然 $B_{A_B}=B$ 且 $A_{B_A}=A$，所以映射为等距同构。
+
+\subsection*{13.4　自反性的三空间性质}
+
+\begin{problem}
+设 $X$ 是 Banach 空间，$Y\subset X$ 是闭子空间。若 $Y$ 和商空间 $X/Y$ 都是
+自反空间，证明 $X$ 也是自反空间。
+\end{problem}
+
+记商映射 $q:X\to X/Y$，规范嵌入为 $J_X$。给定 $F\in X^{**}$。限制
+$F|_{Y^\perp}$ 可视为 $(X/Y)^{**}$ 中元素，因为
+$q^*:(X/Y)^*\to Y^\perp$ 是等距同构。由 $X/Y$ 自反，存在
+$\dot x\in X/Y$，使
+\[
+ F(q^*\varphi)=\varphi(\dot x),\qquad \varphi\in(X/Y)^*.
+\]
+取 $x_0\in X$ 使 $q(x_0)=\dot x$，令 $G=F-J_Xx_0$，则
+$G|_{Y^\perp}=0$。
+
+限制映射 $r:X^*\to Y^*$ 由 Hahn--Banach 定理满射，且核为 $Y^\perp$。
+因此 $G$ 经商空间 $X^*/Y^\perp\cong Y^*$ 给出 $Y^{**}$ 中元素。因 $Y$
+自反，存在 $y_0\in Y$ 使
+\[
+ G(x^*)=x^*(y_0),\qquad x^*\in X^*.
+\]
+于是 $F=J_X(x_0+y_0)$。任意 $F$ 都在 $J_X$ 的像中，故 $X$ 自反。
+
+\subsection*{13.5　$\ell^p$ 的自反性}
+
+\begin{problem}
+设 $1<p<\infty$。证明 $\ell^p$ 是自反 Banach 空间。
+\end{problem}
+
+设 $1<p<\infty$，$q=p/(p-1)$。由 H\"older 不等式与 $\ell^p$ 对偶定理，
+\[
+ (\ell^p)^*\cong\ell^q,\qquad
+ L_y(x)=\sum_{n=1}^\infty x_ny_n,\qquad \|L_y\|=\|y\|_q.
+\]
+同理 $(\ell^q)^*\cong\ell^p$。在这些识别下，规范嵌入
+$J:\ell^p\to(\ell^p)^{**}$ 正是
+\[
+ x\longmapsto\bigl(y\mapsto\sum x_ny_n\bigr),
+\]
+它穷尽 $(\ell^q)^*$，故 $J$ 满射，$\ell^p$ 自反。
+
+\section{第十四次作业}
+
+\subsection*{14.1　James 空间}
+
+\begin{problem}
+关于 James 空间，证明 $(J,\|\cdot\|_J)$ 是完备空间，并且 $\ell^2$ 在 James 空间
+$J$ 中稠密。
+\end{problem}
+
+\textbf{依赖未提供讲义，按用户要求跳过。}题面没有给出 James 空间 $J$ 及其范数
+$\|\cdot\|_J$ 的定义，无法从题面唯一还原具体命题。
+
+\subsection*{14.2　Schauder 基的部分和投影}
+
+\begin{problem}
+设 $X$ 是可分实 Banach 空间，$(e_i)_{i\ge1}$ 是 $X$ 的 Schauder 基，即对任意
+$x\in X$，存在唯一数列 $(x_i)$ 使
+\[
+ \lim_{n\to\infty}\left\|x-\sum_{i=1}^nx_ie_i\right\|=0.
+\]
+定义
+\[
+ \Pi_n(x)=\sum_{i=1}^nx_ie_i.
+\]
+证明：
+\begin{enumerate}
+ \item $\Pi_n$ 是 $X$ 上的线性投影算子；若 $n\ge m\ge1$，则
+ $\Pi_n\Pi_m=\Pi_m\Pi_n=\Pi_m$。
+ \item 定义
+ \[
+  |||x|||=\sup_{n\ge1}\|\Pi_nx\|.
+ \]
+ 则 $\|x\|\le|||x|||$，并且 $(X,|||\cdot|||)$ 是 Banach 空间。
+ \item 存在常数 $c>0$，使
+ \[
+  \sup_{n\ge1}\|\Pi_nx\|\le c\|x\|,\qquad x\in X.
+ \]
+\end{enumerate}
+\end{problem}
+
+\textbf{(1)} 由 Schauder 展开的唯一性，坐标逐项线性，故 $\Pi_n$ 线性；且
+\[
+ \Pi_n^2=\Pi_n,\qquad
+ \Pi_n\Pi_m=\Pi_m\Pi_n=\Pi_m\quad(n\ge m).
+\]
+令 $E_n=\operatorname{span}\{e_1,\dots,e_n\}$，
+$F_n=\overline{\operatorname{span}\{e_{n+1},e_{n+2},\dots\}}$。Schauder 展开说明
+$X=E_n\oplus F_n$。若 $x_k\to x$ 且 $\Pi_nx_k\to y$，则 $y\in E_n$，且
+$x_k-\Pi_nx_k\to x-y\in F_n$，所以直和分解的唯一性给出 $y=\Pi_nx$。
+故 $\Pi_n$ 的图闭；闭图定理说明 $\Pi_n\in\mathcal L(X)$。
+
+\textbf{(2)} 对每个 $x$，$\Pi_nx\to x$，所以
+\[
+ |||x|||:=\sup_n\|\Pi_nx\|<\infty,\qquad \|x\|\le|||x|||.
+\]
+这显然是范数。若 $(x_k)$ 关于新范数为 Cauchy 列，则它关于原范数也为 Cauchy，
+故 $x_k\to x\in X$。固定 $n$，由 $\Pi_n$ 连续，
+$\Pi_nx_k\to\Pi_nx$。给定 $\varepsilon>0$，取 $K$ 使 $k,l\ge K$ 时
+$|||x_k-x_l|||<\varepsilon$。固定 $k\ge K$ 并令 $l\to\infty$，对每个 $n$ 有
+\[
+ \|\Pi_n(x_k-x)\|=\lim_l\|\Pi_n(x_k-x_l)\|\le\varepsilon.
+\]
+取上确界得 $|||x_k-x|||\le\varepsilon$，所以新范数完备。
+
+\textbf{(3)} 恒等映射
+$I:(X,|||\cdot|||)\to(X,\|\cdot\|)$ 连续、双射。两边都是 Banach 空间，
+故开映射定理说明逆映射连续。因此存在 $c>0$ 使
+\[
+ \sup_n\|\Pi_nx\|=|||x|||\le c\|x\|.
+\]
+
+\section{第十五次作业}
+
+\subsection*{15.1　拓扑向量空间中的 Minkowski 泛函}
+
+\begin{problem}
+设 $X$ 为实拓扑向量空间，$K\subset X$ 是平衡凸吸收集，$P_K$ 是其 Minkowski
+泛函。证明：
+\begin{enumerate}
+ \item
+ \[
+  \operatorname{Int}K\subset\{x:P_K(x)<1\}\subset K
+  \subset\{x:P_K(x)\le1\}\subset\overline K.
+ \]
+ \item $P_K$ 连续当且仅当 $K$ 包含一个含零点的开集。此时
+ \[
+  \operatorname{Int}K=\{x:P_K(x)<1\},
+  \qquad \overline K=\{x:P_K(x)\le1\}.
+ \]
+\end{enumerate}
+\end{problem}
+
+一般有 $\{P_K<1\}\subset K\subset\{P_K\le1\}$。若
+$x\in\operatorname{Int}K$，连续映射 $t\mapsto tx$ 在 $t=1$ 附近仍落在 $K$，
+故存在 $t>1$ 使 $tx\in K$，于是 $P_K(x)<1$。若 $P_K(x)\le1$，则
+$0<t<1$ 时 $P_K(tx)<1$，故 $tx\in K$；令 $t\uparrow1$ 得 $x\in\overline K$。
+所以
+\[
+ \operatorname{Int}K\subset\{P_K<1\}\subset K
+ \subset\{P_K\le1\}\subset\overline K.
+\]
+
+若 $K$ 包含零点开邻域 $U$，则 $P_K\le1$ 于 $U$。给定 $\varepsilon>0$，
+$x\in\varepsilon U$ 时 $P_K(x)\le\varepsilon$，故 $P_K$ 在 $0$ 连续，进而处处
+连续。反之，若 $P_K$ 连续，则 $\{P_K<1\}$ 是含零开集并包含于 $K$。
+此时包含链给出
+\[
+ \operatorname{Int}K=\{P_K<1\},\qquad
+ \overline K=\{P_K\le1\}.
+\]
+
+\subsection*{15.2　由半范族生成的局部凸拓扑}
+
+\begin{problem}
+设 $X$ 是实线性空间，$\mathcal P=\{p_\beta\}_{\beta\in\Lambda}$ 是 $X$ 上的一族
+半范。定义
+\[
+ U(x;\varepsilon;p_1,\dots,p_n)
+ =\{y\in X:p_k(y-x)<\varepsilon, 1\le k\le n\},
+\]
+并令 $\mathcal U_{\mathcal P}(x)$ 为所有这类集合组成的族，
+$\mathcal U_{\mathcal P}=\bigcup_{x\in X}\mathcal U_{\mathcal P}(x)$，
+$\mathcal T_X=\mathcal T(\mathcal U_{\mathcal P})$。证明：
+\begin{enumerate}
+ \item $(X,\mathcal T_X)$ 是拓扑空间，且 $\mathcal U_{\mathcal P}$ 是
+ $\mathcal T_X$ 的一组基；
+ \item $(X,\mathcal T_X)$ 是局部凸空间；
+ \item 每个 $p_\beta$ 都是 $(X,\mathcal T_X)$ 上的连续函数；
+ \item 若 $p_\beta(x)=0$ 对所有 $\beta\in\Lambda$ 成立时必有 $x=0$，则
+ $(X,\mathcal T_X)$ 是 Hausdorff 空间。
+\end{enumerate}
+\end{problem}
+
+\textbf{(1)} 任意两个含 $x$ 的基本集合之交仍包含同型基本集合：合并两组半范并
+取较小的 $\varepsilon$ 即可。若
+$y\in U(x;\varepsilon;p_1,\dots,p_n)$，令
+\[
+ \delta=\min_k\{\varepsilon-p_k(y-x)\}>0.
+\]
+则 $U(y;\delta;p_1,\dots,p_n)$ 包含于原集合，因为
+$p_k(z-x)\le p_k(z-y)+p_k(y-x)<\varepsilon$。故这些集合构成拓扑基。
+
+\textbf{(2)} 每个零点基本邻域都是平衡凸集，所以该拓扑局部凸。并且
+\[
+ U(0;\varepsilon/2;p_1,\dots,p_n)+U(0;\varepsilon/2;p_1,\dots,p_n)
+ \subset U(0;\varepsilon;p_1,\dots,p_n),
+\]
+结合半范的齐次性可验证加法、数乘连续，因此这是局部凸拓扑向量空间。
+
+\textbf{(3)} 由反三角不等式，
+\[
+ |p_\beta(y)-p_\beta(x)|\le p_\beta(y-x),
+\]
+所以每个 $p_\beta$ 连续。
+
+\textbf{(4)} 若 $x\ne y$，取 $p_\beta$ 使 $p_\beta(x-y)>0$，并令
+$\varepsilon<p_\beta(x-y)/2$。则
+$U(x;\varepsilon;p_\beta)$ 与 $U(y;\varepsilon;p_\beta)$ 不交；否则三角不等式会给出
+$p_\beta(x-y)<2\varepsilon$。因此该拓扑是 Hausdorff 的。
+
+\section{第十六次作业}
+
+\subsection*{16.1　Hilbert 空间中弱拓扑的非序列现象}
+
+\begin{problem}
+设 $H$ 为无穷维可分实 Hilbert 空间，$(e_n)_{n\in\mathbb N}$ 是一组标准正交基。
+证明：
+\begin{enumerate}
+ \item $e_n\rightharpoonup0$；
+ \item 集合 $A=\{\sqrt n\,e_n:n\in\mathbb N\}$ 是序列弱闭的，但其弱闭包包含
+ $0$。提示：若 $U$ 是 $0$ 的弱开邻域，则存在 $\varepsilon>0$ 和
+ $y_1,\dots,y_m\in H$，使
+ \[
+  V=\{x\in H:\max_{1\le i\le m}|\langle x,y_i\rangle|<\varepsilon\}\subset U.
+ \]
+ 证明 $z_n:=\max_i|\langle e_n,y_i\rangle|$ 平方可加，并推出 $V\cap A\ne\varnothing$。
+ \item $A$ 中的任何子列都不弱收敛到 $0$。
+\end{enumerate}
+\end{problem}
+
+\textbf{(1)} 对任意 $y\in H$，Bessel 不等式给出
+\[
+ \sum_{n=1}^\infty|\langle e_n,y\rangle|^2\le\|y\|^2.
+\]
+故 $\langle e_n,y\rangle\to0$。这正是 $e_n\rightharpoonup0$。
+
+\textbf{(2)} 先证 $A=\{\sqrt n,e_n:n\in\mathbb N\}$ 序列弱闭。若
+$\sqrt{n_k}e_{n_k}$ 弱收敛，则弱收敛序列必范数有界，因此 $(\sqrt{n_k})$ 有界，
+即整数列 $(n_k)$ 只取有限多个值。一个取值于有限集的收敛序列最终必须停留在一个点，
+其极限仍属于 $A$。
+
+再证 $0\in\overline A^{,w}$。给定 $0$ 的弱邻域 $U$，可取
+$y_1,\dots,y_m\in H$ 及 $\varepsilon>0$，使
+\[
+ V=\{x:\max_{1\le i\le m}|\langle x,y_i\rangle|<\varepsilon\}\subset U.
+\]
+令 $z_n=\max_i|\langle e_n,y_i\rangle|$。则
+\[
+ \sum_nz_n^2\le\sum_{i=1}^m\sum_n|\langle e_n,y_i\rangle|^2
+ \le\sum_{i=1}^m\|y_i\|^2<\infty.
+\]
+必存在无穷多个 $n$ 使 $\sqrt n,z_n<\varepsilon$；否则最终
+$z_n^2\ge\varepsilon^2/n$，与平方可加矛盾。对这样的 $n$，
+$\sqrt n,e_n\in V\cap A\subset U\cap A$。故每个弱邻域都与 $A$ 相交。
+
+\textbf{(3)} 取 $A$ 中任意由互异指标组成的子列
+$\sqrt{n_k}e_{n_k}$。可再取子列使 $n_{k_j}\ge2^j$。定义
+\[
+ y=\sum_{j=1}^\infty n_{k_j}^{-1/2}e_{n_{k_j}}.
+\]
+因为 $\sum_jn_{k_j}^{-1}\le\sum_j2^{-j}<\infty$，故 $y\in H$。但
+\[
+ \langle\sqrt{n_{k_j}}e_{n_{k_j}},y\rangle=1,
+\]
+所以原子列不可能弱收敛到 $0$。若允许重复指标的子列，则恒定子列显然也不弱收敛到
+$0$。
+
+\subsection*{16.2　$\ell^1$ 的 Schur 性质}
+
+\begin{problem}
+\begin{enumerate}
+ \item 证明 $\ell^1$ 中的标准基 $e_n=(\delta_{in})_{i\ge1}$ 不弱收敛到 $0$；
+ \item 把 $\ell^1$ 看成 $c_0$ 的对偶空间，证明 $e_n$ 弱星收敛到 $0$；
+ \item 证明 Schur 定理：$\ell^1$ 中的序列弱收敛到 $0$，当且仅当它按范数收敛到
+ $0$。提示：使用滑动驼峰技巧。
+\end{enumerate}
+\end{problem}
+
+\textbf{(1)} 把 $\ell^\infty$ 识别为 $(\ell^1)^*$。取
+$\mathbf1=(1,1,\dots)\in\ell^\infty$，则
+\[
+ \langle e_n,\mathbf1\rangle=1
+\]
+不趋于 $0$，故 $e_n$ 不弱收敛到 $0$。
+
+\textbf{(2)} 把 $\ell^1$ 视为 $c_0^*$。对任意 $x=(x_i)\in c_0$，
+\[
+ \langle e_n,x\rangle=x_n\to0.
+\]
+因此 $e_n\overset{w^*}\longrightarrow0$。
+
+\textbf{(3)} 范数收敛当然推出弱收敛。下面证明反向。设
+$x^{(j)}\rightharpoonup0$ 于 $\ell^1$，但不按范数收敛。取子列（仍记为
+$x^{(j)}$）及 $\eta>0$，使 $\|x^{(j)}\|_1\ge\eta$。
+弱收敛蕴含逐坐标收敛，因此可以递归选取
+\[
+ 0=N_0<N_1<N_2<\cdots,\qquad j_1<j_2<\cdots,
+\]
+满足
+\[
+ \sum_{i\le N_{k-1}}|x_i^{(j_k)}|<\eta/8,\qquad
+ \sum_{i>N_k}|x_i^{(j_k)}|<\eta/8.
+\]
+第一式靠先选充分大的 $j_k$，第二式靠随后选充分大的 $N_k$。于是第 $k$ 个块
+$I_k=(N_{k-1},N_k]$ 上有
+\[
+ \sum_{i\in I_k}|x_i^{(j_k)}|\ge3\eta/4.
+\]
+定义 $a=(a_i)\in\ell^\infty$：在 $I_k$ 上令
+$a_i=\operatorname{sgn}(x_i^{(j_k)})$。则 $\|a\|_\infty\le1$，并且
+\[
+ \langle x^{(j_k)},a\rangle
+ \ge\sum_{i\in I_k}|x_i^{(j_k)}|
+ -\sum_{i\notin I_k}|x_i^{(j_k)}|
+ \ge\frac\eta2.
+\]
+这与 $x^{(j)}\rightharpoonup0$ 矛盾。故弱收敛必推出范数收敛。一般弱收敛到
+$x$ 的情形应用于 $x^{(j)}-x$ 即可。
+
+\subsection*{16.3　讲义第 101 页定理 4}
+
+\begin{problem}
+证明讲义第 101 页定理 4 的结论 (3)、(4)。
+\end{problem}
+
+\textbf{依赖未提供讲义，按用户要求跳过。}题面未给出定理 4 的陈述及结论 (3)、(4)。
+
+\section{第十七次作业}
+
+\subsection*{17.1　对偶单位球上弱星拓扑的可度量化}
+
+\begin{problem}
+设 $X$ 是可分赋范线性空间，$(x_n)_{n\in\mathbb N}$ 是 $X$ 的闭单位球中的稠密
+序列。在 $X^*$ 的闭单位球 $B^*$ 上定义
+\[
+ d(x^*,y^*)=\sum_{n=1}^\infty2^{-n}
+ |\langle x^*-y^*,x_n\rangle|.
+\]
+证明 $d$ 是 $B^*$ 上的距离，并证明该距离诱导的拓扑就是 $B^*$ 上的弱星拓扑。
+\end{problem}
+
+对 $x^*,y^*\in B^*$，级数
+\[
+ d(x^*,y^*)=\sum_{n=1}^\infty2^{-n}|\langle x^*-y^*,x_n\rangle|
+\]
+绝对收敛，因为每项绝对值不超过 $2$。非负性、对称性、三角不等式逐项成立。
+若 $d(x^*,y^*)=0$，则二者在稠密集 $\{x_n\}$ 上取值相同。对任意单位球中的
+$x$，取 $x_{n_k}\to x$，由 $\|x^*-y^*\|\le2$，
+\[
+ |\langle x^*-y^*,x\rangle|
+ \le2\|x-x_{n_k}\|+|\langle x^*-y^*,x_{n_k}\rangle|\to0.
+\]
+再用齐次性推广到所有 $x\in X$，得 $x^*=y^*$。故 $d$ 是距离。
+
+若 $x_\alpha^*\overset{w^*}\to x^*$ 于 $B^*$，给定 $\varepsilon>0$，先取 $N$
+使 $2\sum_{n>N}2^{-n}<\varepsilon/2$，再由前 $N$ 个坐标收敛使
+\[
+ \sum_{n=1}^N2^{-n}|\langle x_\alpha^*-x^*,x_n\rangle|<\varepsilon/2.
+\]
+故 $d(x_\alpha^*,x^*)<\varepsilon$。
+
+反过来，若 $d(x_\alpha^*,x^*)\to0$，则对固定 $n$，
+\[
+ |\langle x_\alpha^*-x^*,x_n\rangle|\le2^n d(x_\alpha^*,x^*)\to0.
+\]
+给定 $x\in B_X$，选 $x_n$ 使 $\|x-x_n\|<\varepsilon/4$，则
+\[
+ |\langle x_\alpha^*-x^*,x\rangle|
+ \le2\|x-x_n\|+|\langle x_\alpha^*-x^*,x_n\rangle|<\varepsilon
+\]
+最终成立。故在每个 $x$ 上点态收敛，即弱星收敛。两种拓扑一致。
+
+\subsection*{17.2　$C_0(M)$、点质量与弱星闭包}
+
+\begin{problem}
+设 $M$ 为局部紧 Hausdorff 空间。称连续实值函数 $f:M\to\mathbb R$ 在无穷远处
+消失，如果对任意 $\varepsilon>0$，存在紧集 $K\subset M$，使
+$\sup_{x\in M\setminus K}|f(x)|<\varepsilon$。记所有这类函数组成的空间为
+$C_0(M)$。
+\begin{enumerate}
+ \item 证明 $C_0(M)$ 在上确界范数下是 Banach 空间。
+ \item 根据 Riesz 表示定理，$C_0(M)^*$ 与符号 Radon 测度空间对应；这里符号
+ Radon 测度满足：对每个 Borel 集 $B\subset M$ 和 $\varepsilon>0$，存在紧集
+ $K\subset B$，使对任意 Borel 集 $A\subset B$，
+ $|\mu(A)-\mu(A\cap K)|<\varepsilon$。
+
+ 定义
+ \[
+  \delta:M\to C_0(M)^*,\qquad \delta(x)=\delta_x,quad
+  \delta_x(f)=f(x).
+ \]
+ 在 $C_0(M)^*$ 上装备弱星拓扑。证明
+ $\delta:M\to\delta(M)$ 是同胚。点质量集合包含于 Radon 概率测度集
+ \[
+  P(M)=\{\mu:\mu\ge0, \|\mu\|=\mu(M)=1\}.
+ \]
+ 求 $\delta(M)=\{\delta_x:x\in M\}$ 在 $P(M)$ 中的弱星闭包。
+\end{enumerate}
+\end{problem}
+
+\textbf{(1)} 设 $f_n$ 是 $C_0(M)$ 中的一致 Cauchy 列。它在有界连续函数空间中
+一致收敛到某个连续函数 $f$。给定 $\varepsilon>0$，取 $n$ 使
+$\|f-f_n\|_\infty<\varepsilon/2$；再取紧集 $K$ 使
+$|f_n(x)|<\varepsilon/2$ 于 $M\setminus K$。于是 $|f(x)|<\varepsilon$ 于
+$M\setminus K$，故 $f\in C_0(M)$。所以 $C_0(M)$ 完备。
+
+\textbf{(2)} 对每个 $x$，$\delta_x$ 是正泛函且 $\|\delta_x\|=1$，所以对应于
+Radon 概率测度（仍记为 $\delta_x$）。若 $x_\alpha\to x$ 于 $M$，则对每个
+$f\in C_0(M)$，
+\[
+ \delta_{x_\alpha}(f)=f(x_\alpha)\to f(x)=\delta_x(f),
+\]
+故 $\delta$ 连续。
+
+局部紧 Hausdorff 空间有如下分离性质：给定 $x\in U$（$U$ 开），存在
+$f\in C_c(M)$ 使 $0\le f\le1$、$f(x)=1$ 且 $\operatorname{supp}f\subset U$。
+若 $\delta_{x_\alpha}\overset{w^*}\to\delta_x$，取这样的 $f$，则最终
+$f(x_\alpha)>1/2$，从而 $x_\alpha\in U$。故 $x_\alpha\to x$，说明逆映射连续，
+$\delta:M\to\delta(M)$ 是同胚。
+
+下面求闭包。若 $\delta_{x_\alpha}\overset{w^*}\to\mu\in P(M)$，则对每个实值
+$f\in C_0(M)$，
+\[
+ \int f^2d\mu=\lim_\alpha f(x_\alpha)^2
+ =\left(\lim_\alpha f(x_\alpha)\right)^2
+ =\left(\int f,d\mu\right)^2.
+\]
+因此每个 $f$ 关于概率测度 $\mu$ 的方差均为零，即 $f$ 在 $\mu$ 几乎处处为常数。
+若 $\mu$ 的支集含两个不同点，可用 $C_c(M)$ 函数把它们分开，并在两个正测度邻域上
+取不同值，方差便为正，矛盾。故 $\mu$ 的支集是单点，$\mu=\delta_x$。所以
+\[
+ \overline{\delta(M)}^{,w^*}\cap P(M)=\delta(M).
+\]
+若在整个 $C_0(M)^*$ 中取闭包，则 $M$ 非紧时还有 $0$：取逃离每个紧集的网
+$x_K$，便有 $f(x_K)\to0$ 对所有 $f\in C_0(M)$。同样的平方恒等式说明不会出现
+别的极限。因此整个对偶中的闭包在 $M$ 紧时为 $\delta(M)$，在 $M$ 非紧时为
+$\delta(M)\cup\{0\}$。
+
+\subsection*{17.3　可分对偶下弱闭包中的序列逼近}
+
+\begin{problem}
+设 $X$ 是 Banach 空间且 $X^*$ 可分，$S\subset X$ 是有界集，
+$x\in\overline S^{,w}$。证明存在序列 $(x_n)\subset S$，使
+$x_n\rightharpoonup x$。
+\end{problem}
+
+设 $S\subset X$ 有界，取 $M>0$ 使 $\|s\|\le M$ 对所有 $s\in S$ 成立。
+弱闭包仍包含于 $MB_X$，故 $\|x\|\le M$。因为 $X^*$ 可分，可在其单位球中取
+稠密序列 $(f_k)$。对每个 $n$，集合
+\[
+ U_n=\{y\in X:|f_k(y-x)|<1/n, 1\le k\le n\}
+\]
+是 $x$ 的弱邻域。由 $x\in\overline S^{,w}$，可取 $x_n\in S\cap U_n$。
+
+固定 $f\in X^*$ 和 $\varepsilon>0$。若 $f=0$ 无须证明；否则选 $k$ 使
+$\|f/\|f\|-f_k\|<\varepsilon/(4M\|f\|)$（把常数作显然调整亦可）。当
+$n\ge k$ 时，
+\[
+ |f(x_n-x)|
+ \le \|f\|\,|f_k(x_n-x)|
+ +\|f-\|f\|f_k\|\,\|x_n-x\|.
+\]
+第一项随 $n\to\infty$ 趋于 $0$，第二项由 $\|x_n-x\|\le2M$ 控制并可任意小。
+所以 $f(x_n)\to f(x)$。这对所有 $f\in X^*$ 成立，即 $x_n\rightharpoonup x$。
+
+\section{第十八次作业}
+
+\subsection*{18.1　紧开拓扑与 Arzel\`a--Ascoli 定理}
+
+\begin{problem}
+设 $X$ 为拓扑空间，$Y$ 为度量空间，$C(X,Y)$ 为从 $X$ 到 $Y$ 的连续映射空间。
+紧开拓扑（记为 $\mathcal T_{\mathrm{co}}$）是以
+\[
+ L(K,V)=\{f\in C(X,Y):f(K)\subset V\}
+\]
+为子基的最小拓扑，其中 $K\subset X$ 紧、$V\subset Y$ 开。
+
+首先证明：$U\subset C(X,Y)$ 在紧开拓扑中为开集，当且仅当对每个 $f\in U$，
+存在有限多个紧集 $K_1,\dots,K_m\subset X$ 和开集 $V_1,\dots,V_m\subset Y$，使
+\[
+ f\in\bigcap_{i=1}^mL(K_i,V_i)\subset U.
+\]
+进而证明：
+\begin{enumerate}
+ \item 若 $X$ 紧，则紧开拓扑与度量
+ \[
+  d(f,g)=\sup_{x\in X}d_Y(f(x),g(x))
+ \]
+ 诱导的拓扑一致。
+
+ 提示一：若 $f(K_i)\subset V_i$，证明存在 $\varepsilon>0$，使
+ $B_\varepsilon(f(x))\subset V_i$ 对所有 $x\in K_i$、$1\le i\le m$ 成立，
+ 从而 $d(f,g)<\varepsilon$ 蕴含 $g(K_i)\subset V_i$。
+
+ 提示二：给定 $f\in C(X,Y)$ 与 $\varepsilon>0$，取有限多个
+ $x_1,\dots,x_m\in X$，使
+ \[
+  X=\bigcup_{i=1}^mK_i,\qquad
+  K_i=\{x\in X:d_Y(f(x_i),f(x))\le\varepsilon/4\}.
+ \]
+ 令 $V_i=B_{\varepsilon/2}(f(x_i))$、
+ $U=\{g:g(K_i)\subset V_i, 1\le i\le m\}$，证明
+ $f\in U$ 且 $d(f,g)<\varepsilon$ 对 $g\in U$ 成立。
+
+ \item 对每个紧集 $K\subset X$ 定义
+ \[
+  p_K(f)=\sup_{x\in K}|f(x)|,\qquad f\in C(X,\mathbb R).
+ \]
+ 证明这些半范数生成紧开拓扑，即紧开拓扑是使每个 $p_K$ 连续的最小拓扑。
+ \item 证明 $(C(X,\mathbb R),\mathcal T_{\mathrm{co}})$ 是局部凸拓扑
+ 向量空间。
+ \item 证明 $F\subset C(X,Y)$ 在紧开拓扑中预紧，当且仅当对每个紧集
+ $K\subset X$，限制族
+ \[
+  F_K=\{f|_K:f\in F\}\subset C(K,Y)
+ \]
+ 预紧。提示：令 $\mathcal K$ 为 $X$ 的紧子集全体，证明映射
+ \[
+  C(X,Y)\to\prod_{K\in\mathcal K}C(K,Y),\qquad
+  f\mapsto(f|_K)_{K\in\mathcal K}
+ \]
+ 是到其像的同胚，并应用 Tychonoff 定理。
+ \item 证明如下 Arzel\`a--Ascoli 定理的变形：$F\subset C(X,Y)$ 在紧开拓扑中
+ 预紧，当且仅当 $F$ 逐点预紧，并且对任意紧集 $K\subset X$，$F_K$ 等度连续。
+\end{enumerate}
+\end{problem}
+
+先说明紧开拓扑的基。按定义，集合 $L(K,V)$ 构成一个子基，所以它们的有限交
+\[
+ \bigcap_{i=1}^mL(K_i,V_i)
+\]
+构成一个基。因此 $U$ 开当且仅当对每个 $f\in U$，存在有限多个 $K_i,V_i$，使
+\[
+ f\in\bigcap_{i=1}^mL(K_i,V_i)\subset U.
+\]
+这正是题面所述条件。
+
+\textbf{(1)} 设 $X$ 紧。先证每个紧开基本邻域包含一个一致度量球。若
+$f(K_i)\subset V_i$，则 $f(K_i)$ 是紧集且含于开集 $V_i$。函数
+$z\mapsto d_Y(z,Y\setminus V_i)$ 在 $f(K_i)$ 上取得正的最小值 $\eta_i$；若
+$Y\setminus V_i=\varnothing$，该项可忽略。取
+$0<\varepsilon<\min_i\eta_i$。若 $d(f,g)<\varepsilon$，则对 $x\in K_i$，
+$g(x)\in V_i$，故
+\[
+ B_d(f,\varepsilon)\subset\bigcap_iL(K_i,V_i).
+\]
+所以紧开拓扑不强于一致拓扑。
+
+反过来，给定 $f$ 和 $\varepsilon>0$。紧集 $f(X)$ 可由有限多个
+$B_{\varepsilon/4}(f(x_i))$ 覆盖。令
+\[
+ K_i=\{x\in X:d_Y(f(x),f(x_i))\le\varepsilon/4\}.
+\]
+它们是紧集并覆盖 $X$。置
+\[
+ V_i=B_{\varepsilon/2}(f(x_i)),\qquad
+ U=\bigcap_{i=1}^mL(K_i,V_i).
+\]
+则 $f\in U$。若 $g\in U$ 且 $x\in K_i$，则
+\[
+ d_Y(f(x),g(x))
+ \le d_Y(f(x),f(x_i))+d_Y(f(x_i),g(x))
+ <\varepsilon/4+\varepsilon/2<\varepsilon.
+\]
+故 $U\subset B_d(f,\varepsilon)$。两种拓扑一致。
+
+\textbf{(2)} 现在取 $Y=\mathbb R$。半范族
+\[
+ p_K(f)=\sup_{x\in K}|f(x)|
+\]
+生成的基本邻域是有限交
+\[
+ \{g:p_{K_i}(g-f)<\varepsilon_i, 1\le i\le m\}.
+\]
+在每个紧集 $K_i$ 上，(1) 的证明说明一致拓扑恰为紧开拓扑；把有限多个条件取交，
+即知这些半范邻域与紧开基本邻域互相包含。因此半范族生成的拓扑就是紧开拓扑。
+
+也可直接验证连续性的最小性：若某拓扑使所有 $p_K$ 连续，则上述半范球均开，因而
+它至少与紧开拓扑一样强；反之，(1) 应用于每个紧子空间 $K$ 表明每个 $p_K$ 在紧开
+拓扑下连续。
+
+\textbf{(3)} 每个 $p_K$ 是半范。由半范族生成的拓扑自动有平衡凸的零点邻域基。
+加法连续性来自
+\[
+ p_K((f_1+g_1)-(f_2+g_2))
+ \le p_K(f_1-f_2)+p_K(g_1-g_2),
+\]
+数乘连续性来自
+\[
+ p_K(af-bg)\le |a|p_K(f-g)+|a-b|p_K(g).
+\]
+故 $C(X,\mathbb R)$ 是局部凸拓扑向量空间。
+
+\textbf{(4)} 这里“预紧”按相应一致结构中的全有界性理解。令 $\mathcal K$ 为 $X$
+中所有紧子集，考虑限制映射
+\[
+ R:C(X,Y)\longrightarrow\prod_{K\in\mathcal K}C(K,Y),\qquad
+ R(f)=(f|_K)_{K\in\mathcal K}.
+\]
+它是单射。产品中的有限多个坐标邻域拉回后恰为紧开邻域，故 $R$ 是到其像的同胚，
+并保持相应的一致结构。
+
+若 $F$ 预紧，则每个连续坐标投影把 $F$ 映为预紧集，所以每个 $F_K$ 预紧。
+反之，若所有 $F_K$ 预紧，则其完备化中的闭包 $\overline{F_K}$ 紧。由 Tychonoff
+定理，$\prod_K\overline{F_K}$ 紧，故产品中的 $R(F)$ 预紧；拉回即知 $F$ 在紧开
+一致结构中预紧。
+
+\textbf{(5)} 先假设 $F$ 在紧开拓扑中预紧。对单点紧集 $\{x\}$，(4) 给出
+$\{f(x):f\in F\}$ 预紧，故 $F$ 逐点预紧。对任意紧集 $K$，$F_K$ 在一致度量下
+预紧。给定 $\varepsilon>0$，可取有限个 $g_1,\dots,g_N\in C(K,Y)$，使每个
+$f|_K$ 与某个 $g_j$ 的一致距离小于 $\varepsilon/3$。有限族连续函数
+$g_1,\dots,g_N$ 等度连续：对每个 $x\in K$，存在邻域 $U_x$ 使对所有 $j$ 和
+$y\in U_x\cap K$，
+$d_Y(g_j(x),g_j(y))<\varepsilon/3$。于是对相应的 $f$，
+\[
+ d_Y(f(x),f(y))
+ \le d_Y(f(x),g_j(x))+d_Y(g_j(x),g_j(y))+d_Y(g_j(y),f(y))
+ <\varepsilon.
+\]
+故 $F_K$ 等度连续。
+
+反之，假设 $F$ 逐点预紧，且每个 $F_K$ 等度连续。固定紧集 $K$ 和
+$\varepsilon>0$。由等度连续性，对每个 $x\in K$ 可取邻域 $U_x$，使
+\[
+ d_Y(f(x),f(y))<\varepsilon/3
+ \quad(f\in F, y\in U_x\cap K).
+\]
+紧性给出有限覆盖 $U_{x_1},\dots,U_{x_m}$。每个点值集
+$\{f(x_i):f\in F\}$ 预紧，故有有限 $\varepsilon/3$ 网。把一个函数 $f$ 按它在
+$x_1,\dots,x_m$ 处所落入的有限网格分类，只有有限种类型。同一类型的两个函数
+$f,g$，对 $y\in U_{x_i}$ 有
+\[
+ d_Y(f(y),g(y))
+ \le d_Y(f(y),f(x_i))+d_Y(f(x_i),g(x_i))+d_Y(g(x_i),g(y))<\varepsilon.
+\]
+每个非空类型选一个代表，便得到 $F_K$ 的有限 $\varepsilon$ 网。所以 $F_K$ 预紧。
+由 (4)，$F$ 在紧开拓扑中预紧。
+
+\subsection*{18.2　由 Arzel\`a--Ascoli 推出 Banach--Alaoglu}
+
+\begin{problem}
+设 $X$ 是赋范线性空间。利用 18.1 中的 Arzel\`a--Ascoli 定理变形推出
+Banach--Alaoglu 定理。
+
+提示：把 $X^*$ 的闭单位球视为 $C(X,\mathbb R)$ 的子集，它是等度连续的；证明
+$X^*$ 上的紧开拓扑强于弱星拓扑，即每个弱星开集在紧开拓扑中仍为开集。
+\end{problem}
+
+把对偶闭单位球
+\[
+ B^*=\{x^*\in X^*:\|x^*\|\le1\}
+\]
+视为 $C(X,\mathbb R)$ 的子集。它逐点预紧，因为对固定 $x\in X$，
+\[
+ \{x^*(x):x^*\in B^*\}\subset[-\|x\|,\|x\|].
+\]
+它还是等度连续的：对所有 $x^*\in B^*$，
+\[
+ |x^*(x)-x^*(y)|\le\|x-y\|.
+\]
+因而在每个紧集上的限制族都等度连续。由 18.1(5)，$B^*$ 在紧开拓扑中预紧。
+
+$B^*$ 在紧开拓扑中是闭的。事实上，若一个网 $x_\alpha^*\in B^*$ 在每个紧集上一致
+收敛到 $f$，特别地它逐点收敛；逐点极限保持线性，且
+\[
+ |f(x)|=\lim_\alpha|x_\alpha^*(x)|\le\|x\|,
+\]
+故 $f\in B^*$。于是 $B^*$ 在紧开拓扑下紧。
+
+弱星拓扑是点态收敛拓扑；每个弱星子基本开集只涉及有限多个点，而有限集是紧集，
+所以弱星拓扑弱于紧开拓扑。恒等映射
+\[
+ (B^*,\mathcal T_{\mathrm{co}})
+ \longrightarrow(B^*,w^*)
+\]
+连续。紧空间的连续像紧，因此 $B^*$ 在弱星拓扑下紧。这就是 Banach--Alaoglu
+定理（实数情形；复数情形对实部、虚部分别处理完全相同）。

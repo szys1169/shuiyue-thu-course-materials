@@ -1,0 +1,198 @@
+\documentclass{article}
+\usepackage[UTF8]{ctex}
+\usepackage{sectsty}
+\usepackage{amssymb,amsmath,amsthm,mathrsfs,graphicx}
+\usepackage{tikz}
+\usepackage{needspace}
+\setlength{\parindent}{2\ccwd}
+\setlength{\emergencystretch}{2em}
+\clubpenalty=10000\widowpenalty=10000
+\title{泛函分析作业第五周}
+\author{张溢致 2024011936}
+\date{}
+\begin{document}
+\raggedbottom
+\maketitle
+
+\par\medskip\Needspace{5\baselineskip}\noindent 1. 设 $(X,\mathcal A)$ 是一个可测空间。设 $M(X)$ 是 $X$ 上所有的有限符号测度全体。任取 $\mu\in M(X)$，定义
+\[
+\|\mu\|:=\mu^+(X)+\mu^-(X),
+\]
+其中 $\mu=\mu^+-\mu^-$ 是 $\mu$ 的 Jordan 分解。
+
+1) 证明：$\|\cdot\|$ 是 $M(X)$ 上的一个范数，且 $(M(X),\|\cdot\|)$ 是一个 Banach 空间。
+
+2) 考虑 $([0,1],\mathcal B_{[0,1]})$。证明 $M([0,1])$ 不可分。
+
+
+\par\nopagebreak[4]\noindent\textbf{解：}
+
+
+% 第1题解答填写于此。
+
+\par\medskip
+
+\par\medskip\Needspace{5\baselineskip}\noindent 2. 设 $(X,\mathcal A,\mu)$ 是一个测度空间且 $\mu$ 为 $\sigma$-有限。设 $L^p(X,\mu)$ 可分。证明：存在 $\{A_n:n\in\mathbb N\}\subset\mathcal A$ 使得对任意的 $A\in\mathcal A$，$\mu(A)<\infty$ 以及任意的 $\varepsilon>0$，存在 $n$ 使得 $\mu(A\triangle A_n)<\varepsilon$。
+
+
+\par\nopagebreak[4]\noindent\textbf{解：}
+
+
+% 第2题解答填写于此。
+
+\par\medskip
+
+\par\medskip\Needspace{5\baselineskip}\noindent 3. 设 $(X,\mathcal A,\mu)$ 是一个测度空间。
+
+1) 证明 $\mathcal L^\infty(X,\mu)$ 是一个线性空间，且 $\widetilde{\|\cdot\|}_\infty$ 是 $\mathcal L^\infty(X,\mu)$ 上的半范数。
+
+2) 证明 $\|\cdot\|_\infty$ 是 $L^\infty(X,\mu)$ 上的范数，且 $(L^\infty(X,\mu),\|\cdot\|_\infty)$ 为 Banach 空间。
+
+3) 证明：若存在 $\{A_n:n\in\mathbb N\}\subset\mathcal A$ 满足 $\mu(A_n)>0$ 且当 $n\ne m$ 时 $A_n\cap A_m=\varnothing$，则 $L^\infty(X,\mu)$ 不可分。
+
+
+\par\nopagebreak[4]\noindent\textbf{解：}
+
+
+% 第3题解答填写于此。
+
+\par\medskip
+
+\par\medskip\Needspace{5\baselineskip}\noindent 4. 设 $A$ 为非空集合，$f:A\to\mathbb R_+$ 为函数。
+
+1) 证明：若 $\sum_{x\in A}f(x)<\infty$，则 $\operatorname{supp}(f):=\{x\in A:f(x)>0\}$ 为至多可数集。
+
+2) 证明：$\int_A f(x)\,dm(x)=\sum_{x\in A}f(x)$，这里 $m$ 为 $A$ 上的计数测度。
+
+3) 设 $1\le p<\infty$。证明 $\ell^p(A)$ 可分当且仅当 $A$ 为可数集。
+
+
+\par\nopagebreak[4]\noindent\textbf{解：}
+
+
+% 第4题解答填写于此。
+
+\par\medskip
+
+\par\medskip\Needspace{5\baselineskip}\noindent 5. 设 $m\in\mathbb N$，$\alpha\in(0,1)$。在 $C^{m,\alpha}[0,1]$ 上定义
+\[
+\|f\|_{C^{m,\alpha}}:=\max\{\|f\|_\infty,\|f'\|_\infty,\ldots,\|f^{(m)}\|_\infty,C_{f^{(m)}}\}.
+\]
+证明 $\|\cdot\|_{C^{m,\alpha}}$ 是 $C^{m,\alpha}[0,1]$ 上的范数，且在此范数下 $C^{m,\alpha}[0,1]$ 为 Banach 空间。
+
+
+\par\nopagebreak[4]\noindent\textbf{解：}
+
+
+% 第5题解答填写于此。
+
+\par\medskip
+
+\par\medskip\Needspace{5\baselineskip}\noindent 6. 设 $(V,\|\cdot\|_V)$ 是一个 n.l.s.。证明存在 Banach 空间 $(W,\|\cdot\|_W)$ 和嵌入映射 $i:V\to W$ 使得以下成立：
+
+1) 等距嵌入：$\|i(x)\|_W=\|x\|_V$。
+
+2) $i(V)$ 在 $W$ 内稠密。
+
+进一步，若还有 Banach 空间 $(\widehat W,\|\cdot\|_{\widehat W})$ 和嵌入映射 $\widehat i:V\to\widehat W$ 使得 $\widehat i$ 为等距嵌入且 $\widehat i(V)$ 在 $\widehat W$ 内稠密，则 $(W,\|\cdot\|_W)$ 与 $(\widehat W,\|\cdot\|_{\widehat W})$ 等距同构，即存在线性同构 $\varphi:W\to\widehat W$ 使得对任意的 $x\in W$ 有 $\|x\|_W=\|\varphi(x)\|_{\widehat W}$。
+
+
+\par\nopagebreak[4]\noindent\textbf{解：}
+
+
+% 第6题解答填写于此。
+
+\par\medskip
+
+\par\medskip\Needspace{5\baselineskip}\noindent 7. 设 $X,Y$ 均为赋范线性空间。任取 $1\le p\le\infty$，在 $X\times Y$ 上定义
+\[
+\|(x,y)\|_p:=\bigl(\|x\|_X^p+\|y\|_Y^p\bigr)^{1/p}.
+\]
+1) 证明 $\|\cdot\|_p$ 是 $X\times Y$ 上的一个范数。
+
+2) 证明 $(X\times Y,\|\cdot\|_p)$ 为 Banach 空间当且仅当 $X,Y$ 均为 Banach 空间。
+
+
+\par\nopagebreak[4]\noindent\textbf{解：}
+
+
+% 第7题解答填写于此。
+
+\par\medskip
+
+\par\medskip\Needspace{5\baselineskip}\noindent 8. 设 $X$ 为赋范线性空间，$Y$ 为 $X$ 的闭线性子空间。
+
+1) 证明：若 $X$ 为 Banach 空间，则 $X/Y$ 在商范数下也为 Banach 空间。
+
+2) 证明：若 $Y$ 与 $X/Y$ 均为 Banach 空间，则 $X$ 也为 Banach 空间。
+
+
+\par\nopagebreak[4]\noindent\textbf{解：}
+
+
+% 第8题解答填写于此。
+
+\par\medskip
+
+\par\medskip\Needspace{5\baselineskip}\noindent 9. 设 $\#A\ge2$，证明 $\ell^1(A)$ 与 $\ell^\infty(A)$ 均不是一致凸赋范线性空间。
+
+
+\par\nopagebreak[4]\noindent\textbf{解：}
+
+
+% 第9题解答填写于此。
+
+\par\medskip
+
+\par\medskip\Needspace{5\baselineskip}\noindent 10. 证明 $(C[a,b],\|\cdot\|_\infty)$ 不是一致凸赋范线性空间。
+
+
+\par\nopagebreak[4]\noindent\textbf{解：}
+
+
+% 第10题解答填写于此。
+
+\par\medskip
+
+\par\medskip\Needspace{5\baselineskip}\noindent 11. 在 $V=C([-1,1])$ 上赋予 $\|\cdot\|_\infty$ 范数。定义 $V$ 的子空间 $W$ 如下
+\[
+W=\left\{f\in V:\int_{-1}^0 f(x)\,dx=\int_0^1 f(x)\,dx=0\right\}.
+\]
+1) 证明 $W$ 是 $V$ 的闭线性子空间。
+
+2) 设 $g\in V$ 满足
+\[
+\int_{-1}^0 g(x)\,dx=1;\qquad \int_0^1 g(x)\,dx=-1.
+\]
+证明 $d(g,W)=1$，但是对任意的 $f\in W$ 均有 $d(g,f)>1$。
+
+
+\par\nopagebreak[4]\noindent\textbf{解：}
+
+
+% 第11题解答填写于此。
+
+\par\medskip
+
+\par\medskip\Needspace{5\baselineskip}\noindent 12. 设 $V=\{u\in C([0,1];\mathbb R):u(0)=0\}$。设其上的范数为 $\|\cdot\|_\infty$。定义
+\[
+M:=\left\{f\in V:\int_0^1 f(t)\,dt=0\right\}.
+\]
+1) 证明 $M$ 是闭子空间，且对任意的 $u\in V$，
+\[
+d(u,M):=\inf_{v\in M}\|u-v\|_\infty=\left|\int_0^1u(t)\,dt\right|.
+\]
+2) 证明对任意的 $u\in V\setminus M$，不存在 $v\in M$ 使得
+\[
+\|u-v\|_\infty=d(u,M).
+\]
+
+
+\par\nopagebreak[4]\noindent\textbf{解：}
+
+
+% 第12题解答填写于此。
+
+\par\medskip
+
+\end{document}

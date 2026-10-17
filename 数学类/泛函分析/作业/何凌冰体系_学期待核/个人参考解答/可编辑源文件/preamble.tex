@@ -1,0 +1,34 @@
+\usepackage[a4paper,margin=2.2cm,headheight=15pt]{geometry}
+\usepackage{amsmath,amssymb,mathtools,amsthm,bm}
+\usepackage{enumitem}
+\usepackage{xcolor}
+\usepackage{fancyhdr}
+\usepackage[hidelinks,unicode]{hyperref}
+\usepackage[nameinlink,noabbrev]{cleveref}
+\allowdisplaybreaks[2]
+\definecolor{answerblue}{HTML}{1F4E79}
+\definecolor{skipgray}{HTML}{666666}
+\setlength{\parindent}{2em}
+\setlength{\parskip}{0.25em}
+\setlist{itemsep=0.25em,topsep=0.35em}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{泛函分析作业完整解答}
+\fancyhead[R]{\nouppercase{\rightmark}}
+\fancyfoot[C]{\thepage}
+\newtheoremstyle{problemstyle}{0.8em}{0.5em}{\normalfont}{}{\bfseries\color{answerblue}}{.}{0.5em}{}
+\theoremstyle{problemstyle}
+\newtheorem*{problem}{题干}
+\newenvironment{solution}{\par\smallskip\noindent\textbf{解答.}\ }{\hfill$\square$\par\medskip}
+\newenvironment{skipped}{\par\smallskip\noindent\color{skipgray}\textbf{本题跳过.}\ }{\par\medskip\color{black}}
+\newcommand{\R}{\mathbb R}
+\newcommand{\C}{\mathbb C}
+\newcommand{\N}{\mathbb N}
+\newcommand{\F}{\mathbb F}
+\newcommand{\cL}{\mathcal L}
+\newcommand{\ol}[1]{\overline{#1}}
+\DeclareMathOperator{\Ker}{Ker}
+\DeclareMathOperator{\Ran}{Ran}
+\DeclareMathOperator{\Span}{span}
+\DeclareMathOperator{\dist}{dist}
+\DeclareMathOperator*{\esssup}{ess\,sup}

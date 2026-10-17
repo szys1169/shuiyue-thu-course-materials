@@ -1,0 +1,715 @@
+{
+  "date": "2026-10-18",
+  "course": "数学类/泛函分析",
+  "summary": {
+    "batch": 20,
+    "course": "泛函分析",
+    "selected_files": 100,
+    "source_files": 48,
+    "provenance": 52,
+    "excluded_files": 85,
+    "legacy_paths_merged": 0
+  },
+  "files": [
+    {
+      "path": "数学类/泛函分析/README.md",
+      "sha256": "e62deb911cf3d60be57c12751d0f79795ca2d869d3d47aff603662916605eb7f",
+      "original_sha256": "2ca8b4963683cc72f63945f94a8fa32af43d926e3add6e77e171719568802c7a",
+      "bytes": 2092,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/泛函分析/作业/瞿燕辉/README.md",
+      "sha256": "6be3958f3ffb2469c00eeed0c5f4ce0d90f837162cd265a0a337b996aa93e4a9",
+      "original_sha256": "572b0c36671fb8bb975d94b8412322e0a4c9329439a37edd17e9d15955f2ec65",
+      "bytes": 2089,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/泛函分析/作业/瞿燕辉/2026-2027秋季学期/第四周作业/作业附件/homework-week-four.pdf",
+      "sha256": "cc08ff7725e6049663b1c79c593dfca5aaf09693e074668b2695b1123958287c",
+      "original_sha256": "cc08ff7725e6049663b1c79c593dfca5aaf09693e074668b2695b1123958287c",
+      "bytes": 283853,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/泛函分析/作业/瞿燕辉/2026-2027秋季学期/第四周作业/作业附件/README.md",
+      "sha256": "8e1f4092e76589eed4ed6957ce15b17baad576ff13a15c4e3dc859af1c526026",
+      "original_sha256": "d1b77632d5e078c5aa738ca350cf42ff14ad043f573fc3279aa46db01d450fa7",
+      "bytes": 2266,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/泛函分析/作业/瞿燕辉/2026-2027秋季学期/第四周作业/作业说明.md",
+      "sha256": "57a81ed8b04138550afe2667ff97677b1446b6b4cf1b7e5e8e87da8b10e65ab6",
+      "original_sha256": "be7d8ef9449511ffb76899f2512545febebf2fa335d0fa66bcf5db91826d421b",
+      "bytes": 583,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/泛函分析/作业/瞿燕辉/2026-2027秋季学期/第四周作业/个人源文件/第四周作业_详细答案.tex",
+      "sha256": "04bf72bcba8bbc50d22f38b7e2dc2cfc8649cecb00f67e3b52d6f217de5dac06",
+      "original_sha256": "04bf72bcba8bbc50d22f38b7e2dc2cfc8649cecb00f67e3b52d6f217de5dac06",
+      "bytes": 14948,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/泛函分析/作业/瞿燕辉/2026-2027秋季学期/第四周作业/个人源文件/第四周作业_待完成.tex",
+      "sha256": "7482250ccb258ffdf41a4fcc40176de9b12f88c18330fde26eac547c6d9e0a89",
+      "original_sha256": "7482250ccb258ffdf41a4fcc40176de9b12f88c18330fde26eac547c6d9e0a89",
+      "bytes": 14556,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/泛函分析/作业/瞿燕辉/2026-2027秋季学期/第四周作业/个人源文件/README.md",
+      "sha256": "ed9e44596737db4002f4fcd793116f66e0f4bb141ccac7e0d58f81022effc4d7",
+      "original_sha256": "02edcdcccd553df500a51befcf848873dee935da0983e2a85d6fb80e8d3472fd",
+      "bytes": 2515,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/泛函分析/作业/瞿燕辉/2026-2027秋季学期/第四周作业/个人参考解答/第四周作业_详细答案.pdf",
+      "sha256": "f42619161ebd6f2bdd896f9b6921a448aceb3c37cab815ab0aa879d54a159716",
+      "original_sha256": "f42619161ebd6f2bdd896f9b6921a448aceb3c37cab815ab0aa879d54a159716",
+      "bytes": 107236,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/泛函分析/作业/瞿燕辉/2026-2027秋季学期/第四周作业/个人参考解答/README.md",
+      "sha256": "bd7a7463e299dd02adebd196df7e9255505e6ad8cff4bfda8e43b5e81848372e",
+      "original_sha256": "745a62f737747af1807791a740b81bb4bf243055389b06c391e90f33a39358ea",
+      "bytes": 2322,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/泛函分析/作业/瞿燕辉/2026-2027秋季学期/第四周作业/上交作业附件/第四周作业.pdf",
+      "sha256": "94add1d0b7f8dbb502b3ef4ef9f13b7a7ab15f289ce36a70c4a06256a3027167",
+      "original_sha256": "94add1d0b7f8dbb502b3ef4ef9f13b7a7ab15f289ce36a70c4a06256a3027167",
+      "bytes": 103433,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/泛函分析/作业/瞿燕辉/2026-2027秋季学期/第四周作业/上交作业附件/README.md",
+      "sha256": "2d90fef75c0cbebc95e6a6afcaf208b5dde0b457b2716c5cbdf0b688519521b4",
+      "original_sha256": "97de2eac71a64624ceddb77f85cde8b88537c1ad13c7151bddf33d9991d021b1",
+      "bytes": 2269,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/泛函分析/作业/瞿燕辉/2026-2027秋季学期/第四周作业/README.md",
+      "sha256": "d57f3b3b3273862378deba5f1402d7efc08aa6f41c38f1626478b63afe3215dc",
+      "original_sha256": "aadb04ee847441c8422a10460c1b00b0719e3c54b034f8b01658cd84baa9c00b",
+      "bytes": 2247,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/泛函分析/作业/瞿燕辉/2026-2027秋季学期/第五周作业/既有个人源文件/第五周作业_详细答案.tex",
+      "sha256": "00ef42dedb2ffb0850a6e151bb6d923178e4fd8ee7e7c4be0b57f8792b4c7ec0",
+      "original_sha256": "00ef42dedb2ffb0850a6e151bb6d923178e4fd8ee7e7c4be0b57f8792b4c7ec0",
+      "bytes": 21510,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/泛函分析/作业/瞿燕辉/2026-2027秋季学期/第五周作业/既有个人源文件/第五周作业_待完成.tex",
+      "sha256": "56f442a32ed06fedae0fa5aff887264443f086a46a212de1133f3f531d314774",
+      "original_sha256": "56f442a32ed06fedae0fa5aff887264443f086a46a212de1133f3f531d314774",
+      "bytes": 6279,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/泛函分析/作业/瞿燕辉/2026-2027秋季学期/第五周作业/既有个人源文件/README.md",
+      "sha256": "1051579fe9202ed0cc2835b774d822161c698e6f6f66639e41823d00bceefb70",
+      "original_sha256": "02166ebe84c2bc348e04afcc536f5b4da3d75663dc1b83a4a07dae8b2fde1032",
+      "bytes": 2521,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/泛函分析/作业/瞿燕辉/2026-2027秋季学期/第五周作业/既有个人参考解答/第五周作业_详细答案.pdf",
+      "sha256": "7c7aba5dca94f43f728ed2ae827f9f30c714628e4d367883e147f634eb436ecb",
+      "original_sha256": "7c7aba5dca94f43f728ed2ae827f9f30c714628e4d367883e147f634eb436ecb",
+      "bytes": 127877,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/泛函分析/作业/瞿燕辉/2026-2027秋季学期/第五周作业/既有个人参考解答/README.md",
+      "sha256": "f055d114ef08bc9142e424dc3e27b9e95bff919bdfb4d6649f8e9dec9ea02517",
+      "original_sha256": "c6ca4ae0f2493476d7b854a90766d3f32a7c100677fd3307c8c24121867b0a71",
+      "bytes": 2328,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/泛函分析/作业/瞿燕辉/2026-2027秋季学期/第五周作业/待完成稿/第五周作业_待完成.pdf",
+      "sha256": "fbe3c9935302ce71fff0b73b8b2d89edaaa85d0715343dc151bfc44169896bd6",
+      "original_sha256": "fbe3c9935302ce71fff0b73b8b2d89edaaa85d0715343dc151bfc44169896bd6",
+      "bytes": 59509,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/泛函分析/作业/瞿燕辉/2026-2027秋季学期/第五周作业/待完成稿/README.md",
+      "sha256": "c930263fc3c4b65051b3f7be9848aa31a8227bbcb00b64a2caa5a95d19c53597",
+      "original_sha256": "73099f7dfe98afb6606d8b80ac562f84cbae2ac3cf003f180bda07a0599cad74",
+      "bytes": 2310,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/泛函分析/作业/瞿燕辉/2026-2027秋季学期/第五周作业/作业附件/homework-week-five.pdf",
+      "sha256": "0a8bf3986990a0e51eda610a32eff6675b9710b8b910709d15ba2f099d33cfb1",
+      "original_sha256": "0a8bf3986990a0e51eda610a32eff6675b9710b8b910709d15ba2f099d33cfb1",
+      "bytes": 306853,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/泛函分析/作业/瞿燕辉/2026-2027秋季学期/第五周作业/作业附件/README.md",
+      "sha256": "a83ef8be21413c4cfd04d5615c7f3278beba1e7ad6dc74d2c8aae7e41ee2fee6",
+      "original_sha256": "06dd37dd6a08a5f3d692fa825631d092552905052cc4b3c00c2e496e4240a70e",
+      "bytes": 2266,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/泛函分析/作业/瞿燕辉/2026-2027秋季学期/第五周作业/作业说明.md",
+      "sha256": "f7555dccf251ca680302fdcb22f77fe3d6690f320ac6d51e8786a339e4724196",
+      "original_sha256": "38aa802ce07f5b0d5081db34934c9cab7e8a767811254d5bbebcb7e8f759ae28",
+      "bytes": 638,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/泛函分析/作业/瞿燕辉/2026-2027秋季学期/第五周作业/README.md",
+      "sha256": "77dede1e24dea79ca7c7b197a87ff653f90b28b380633415a7f99ef638bada4e",
+      "original_sha256": "793ac27ce03a362bc6cc2eb2c2212fc8c4ba0bfd0a1dca42ee388591b771ba37",
+      "bytes": 2247,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/泛函分析/作业/瞿燕辉/2026-2027秋季学期/第二周作业/评语附件/第二次作业.pdf",
+      "sha256": "ef3659d24b04c6e02ca3dd9971f650e2751fcf23c12686d7d1fed27658ead48d",
+      "original_sha256": "ef3659d24b04c6e02ca3dd9971f650e2751fcf23c12686d7d1fed27658ead48d",
+      "bytes": 103617,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/泛函分析/作业/瞿燕辉/2026-2027秋季学期/第二周作业/评语附件/README.md",
+      "sha256": "74db9cbaeacb28a2f16df53fa39265eeb9f0abe99e761119ffd8b9d6ef585ca7",
+      "original_sha256": "a0c02580912bf1d19b5c68ecb735b81997713e120d06cfb5d360b1c72506d787",
+      "bytes": 2263,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/泛函分析/作业/瞿燕辉/2026-2027秋季学期/第二周作业/作业附件/homework-week-two.pdf",
+      "sha256": "007dcd82296380a4b10c08f7bd6c1513717c80a59bd4408d038cc852646c8a29",
+      "original_sha256": "007dcd82296380a4b10c08f7bd6c1513717c80a59bd4408d038cc852646c8a29",
+      "bytes": 391628,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/泛函分析/作业/瞿燕辉/2026-2027秋季学期/第二周作业/作业附件/README.md",
+      "sha256": "9450ef92cb8ba1a7962b09ebde4c6713922b0c3c97a8fdbcc40c96adb0ac8414",
+      "original_sha256": "6ca0b5067e20390ef45230ea7ee767404f1586ccf011c23be526d62af98c743c",
+      "bytes": 2265,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/泛函分析/作业/瞿燕辉/2026-2027秋季学期/第二周作业/作业说明.md",
+      "sha256": "d0e019cbb24b055268de8fe2b10743460385318e37f0b93732ef757da68f573a",
+      "original_sha256": "67c20760e9af957abf8bfb5d3225119c694cd6bf6a39586831adac7b911c8db7",
+      "bytes": 566,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/泛函分析/作业/瞿燕辉/2026-2027秋季学期/第二周作业/个人源文件/第二次作业_详细答案.tex",
+      "sha256": "bf77bf0308fa26d0364adb93c347c3d10a95c615f97f4cf5e0e7cf46ab04e063",
+      "original_sha256": "bf77bf0308fa26d0364adb93c347c3d10a95c615f97f4cf5e0e7cf46ab04e063",
+      "bytes": 12464,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/泛函分析/作业/瞿燕辉/2026-2027秋季学期/第二周作业/个人源文件/第二次作业_待完成.tex",
+      "sha256": "e8670f48c245996b2a15d980213ec7a4083fe8b41ec98441fb1320c57959de7c",
+      "original_sha256": "e8670f48c245996b2a15d980213ec7a4083fe8b41ec98441fb1320c57959de7c",
+      "bytes": 12071,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/泛函分析/作业/瞿燕辉/2026-2027秋季学期/第二周作业/个人源文件/README.md",
+      "sha256": "a496ecd979dbae4d3f11efee9f99627e22893ee789b17eb4e65815a2bdcdfe3a",
+      "original_sha256": "ad216c2b185e5c880c7de37f4a9fd641cda99e8fe9c537ec208421b1b1b0bbb1",
+      "bytes": 2515,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/泛函分析/作业/瞿燕辉/2026-2027秋季学期/第二周作业/个人参考解答/第二次作业_详细答案.pdf",
+      "sha256": "8c15bb94ed9cc27737856c5f57d03306dc00f1255d65d0f4dc59321f4b2e72f5",
+      "original_sha256": "8c15bb94ed9cc27737856c5f57d03306dc00f1255d65d0f4dc59321f4b2e72f5",
+      "bytes": 103550,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/泛函分析/作业/瞿燕辉/2026-2027秋季学期/第二周作业/个人参考解答/README.md",
+      "sha256": "b8b3cafb93e2bff8c4faba03d96d09cdebe49a7f0bb2751abdfdd89c29c49cf6",
+      "original_sha256": "1e82580adf4f6f1e107bce9583c8c2fac312166fd3bc92d497a7773523b82264",
+      "bytes": 2322,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/泛函分析/作业/瞿燕辉/2026-2027秋季学期/第二周作业/上交作业附件/第二次作业.pdf",
+      "sha256": "30c56f2dae10ab8bf5cdea68c11169edcec1cc2df116776bbb67376199cfb936",
+      "original_sha256": "30c56f2dae10ab8bf5cdea68c11169edcec1cc2df116776bbb67376199cfb936",
+      "bytes": 102195,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/泛函分析/作业/瞿燕辉/2026-2027秋季学期/第二周作业/上交作业附件/README.md",
+      "sha256": "f9f857423d37a658cd047047e7764b98a3118f8fe34794a1e83daecf0d8237be",
+      "original_sha256": "69a1da124d9439080ab99d43755622ff347bc53c1a75491891c05081b027ce10",
+      "bytes": 2269,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/泛函分析/作业/瞿燕辉/2026-2027秋季学期/第二周作业/README.md",
+      "sha256": "bc988323715fcaba4e50ea4e2e8dfb70c4b169a028114aaadba50387d1f42169",
+      "original_sha256": "69b5d91c32611e7c24d24579150d3b16fc28506b7425f1f839183f850700b539",
+      "bytes": 2247,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/泛函分析/作业/瞿燕辉/2026-2027秋季学期/第一周作业/评语附件/第一周作业.pdf",
+      "sha256": "4d709701f079c61227f2266b58f7225ceca736ed0a9c06050e742896d66a6472",
+      "original_sha256": "4d709701f079c61227f2266b58f7225ceca736ed0a9c06050e742896d66a6472",
+      "bytes": 125297,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/泛函分析/作业/瞿燕辉/2026-2027秋季学期/第一周作业/评语附件/README.md",
+      "sha256": "5c9226a307bce3d594fb44e7066e4de1e2f993e68cd6db7187bfb58d709bf06a",
+      "original_sha256": "8646912caf171e2187cb98368b154c6e696ac4c57ae7c8a9bec61af700a63640",
+      "bytes": 2263,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/泛函分析/作业/瞿燕辉/2026-2027秋季学期/第一周作业/作业附件/homework-week-one.pdf",
+      "sha256": "5f1020166747a25342a82b87cea7652fc11aaadd4a155e8749d8153ea06e0dd3",
+      "original_sha256": "5f1020166747a25342a82b87cea7652fc11aaadd4a155e8749d8153ea06e0dd3",
+      "bytes": 452975,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/泛函分析/作业/瞿燕辉/2026-2027秋季学期/第一周作业/作业附件/README.md",
+      "sha256": "7b2258730613125f342e8c143c143983b14b74ca201fe56c994e2e2929488fd4",
+      "original_sha256": "dba3461ebd933c9f858305506f6068401b01c0b1f3f457e1f2bca421111182ac",
+      "bytes": 2265,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/泛函分析/作业/瞿燕辉/2026-2027秋季学期/第一周作业/作业说明.md",
+      "sha256": "3d281c2b674aec134bc9171518bcf6cfe1ce0073f41b1fda436b8706f238d291",
+      "original_sha256": "b6cff393c8a068e7594a31e97fa00e6c962d4b1aacb1f1cc7a810a7612dbef74",
+      "bytes": 566,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/泛函分析/作业/瞿燕辉/2026-2027秋季学期/第一周作业/个人源文件/第一周作业_详细答案.tex",
+      "sha256": "9f3cb90d3e9921b9af4d1feef88b49d8bd22578601365f6a4ea0a97c1886ef3b",
+      "original_sha256": "9f3cb90d3e9921b9af4d1feef88b49d8bd22578601365f6a4ea0a97c1886ef3b",
+      "bytes": 16741,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/泛函分析/作业/瞿燕辉/2026-2027秋季学期/第一周作业/个人源文件/README.md",
+      "sha256": "ea78a0e8fa0fdf181488a599b8940149cd02aa048fb3e6e8642e5d567a0472ca",
+      "original_sha256": "e955d8454c8314076a26898d8567419f845fee9397c35bf0224f4f3ff423bc26",
+      "bytes": 2309,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/泛函分析/作业/瞿燕辉/2026-2027秋季学期/第一周作业/上交作业附件/第一周作业.pdf",
+      "sha256": "45b772df4984db9f7853606a25d317923bceb220bb619f65541227b44be60c1f",
+      "original_sha256": "45b772df4984db9f7853606a25d317923bceb220bb619f65541227b44be60c1f",
+      "bytes": 123673,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/泛函分析/作业/瞿燕辉/2026-2027秋季学期/第一周作业/上交作业附件/README.md",
+      "sha256": "fd41f1b2bdec3005442a81d164fb464026c6a8be2e7a75faeeb67a780e0871d1",
+      "original_sha256": "19ace15b63d1e4da11a5d49800fb46aad9e5ff1dfd9e6a44a5c5be32d800315a",
+      "bytes": 2269,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/泛函分析/作业/瞿燕辉/2026-2027秋季学期/第一周作业/README.md",
+      "sha256": "056fda59cf159592e66b7df1959547382ceec99a37420f29b44deb895dd2f802",
+      "original_sha256": "047a69c53dcfb87c122fbe4ad51fee068dea22946e65af0887c0657847e07214",
+      "bytes": 2247,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/泛函分析/作业/瞿燕辉/2026-2027秋季学期/README.md",
+      "sha256": "ad44feda3ed1caee1c6a04a57f6afe160d5c8781d9f29f292e91cf36c00a8803",
+      "original_sha256": "6ab636543fa30be871af8c012e338aca48fa0b2d603aa799bcb0de1b44639d5a",
+      "bytes": 2101,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/泛函分析/作业/李宇翔体系/源资料包标记2025-2026秋/题目/homework2025.pdf",
+      "sha256": "d5d13b284bafeedcdbe0bdb082a844ac959a4330a04eaab398ea60f4c947d56c",
+      "original_sha256": "d5d13b284bafeedcdbe0bdb082a844ac959a4330a04eaab398ea60f4c947d56c",
+      "bytes": 127726,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/泛函分析/作业/李宇翔体系/源资料包标记2025-2026秋/题目/README.md",
+      "sha256": "10cb7290bda00ef2e0725da21b27ffdbb5e8fa09a475d3d0f1ce9969f4e0d01b",
+      "original_sha256": "158e93abb23b3b17975bf36e659bba4699c3dc70bc1c84d6b6f1cd957960dceb",
+      "bytes": 2244,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/泛函分析/作业/李宇翔体系/源资料包标记2025-2026秋/他人参考解答/泛函分析作业.pdf",
+      "sha256": "9b90789688fe6ff498b14d1bb31dfae3233389571a61e8a453067a4006e1cd01",
+      "original_sha256": "9b90789688fe6ff498b14d1bb31dfae3233389571a61e8a453067a4006e1cd01",
+      "bytes": 1589687,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/泛函分析/作业/李宇翔体系/源资料包标记2025-2026秋/他人参考解答/README.md",
+      "sha256": "3454789cc16859729c75e4289246c4393ae83069f5c4a1b0aba71e17ec2d5ebd",
+      "original_sha256": "9ad6504afa81e8ccafa4f3b0dc5bc020c84df062fc6588519d92e0ee8e437504",
+      "bytes": 2268,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/泛函分析/作业/李宇翔体系/源资料包标记2025-2026秋/README.md",
+      "sha256": "d6286cb0e50efb00cb37c1c49cb5065c0eb008f52edd6006787569effb615065",
+      "original_sha256": "b6c6fb9bbcbdaddc199513bd2d92ce03c0f4bb7c13c35ac0305417d77539491f",
+      "bytes": 2110,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/泛函分析/作业/李宇翔体系/README.md",
+      "sha256": "0b1af8ec9d41ca436eea6255b1d3e33eda0ee08f48ce199d7eadfede684b96b9",
+      "original_sha256": "e03c03e28ec61a4824179ad0e3a4e357997706bbbcca2a98820d5b9c79b47ed5",
+      "bytes": 2095,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/泛函分析/作业/何凌冰体系_学期待核/全学期题目/泛函分析-作业.pdf",
+      "sha256": "7f0cc59c151c090a63de2219c446db66835a9d0e333e172c9bfe5c8a2791d6f5",
+      "original_sha256": "7f0cc59c151c090a63de2219c446db66835a9d0e333e172c9bfe5c8a2791d6f5",
+      "bytes": 230905,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/泛函分析/作业/何凌冰体系_学期待核/全学期题目/README.md",
+      "sha256": "203298ca5897dbd8675ba53d86a67ab6d4ff15e34905855c8b4f4bf96a13226d",
+      "original_sha256": "73ee880c333c7c395a20416b3b2fa298ddf424a097810f8253694f951a0e3191",
+      "bytes": 2284,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/泛函分析/作业/何凌冰体系_学期待核/个人参考解答/泛函分析作业完整解答.pdf",
+      "sha256": "8bf591defd7550900b867d93194344149672b36ae5b17e1e1ae9cca3cd501e77",
+      "original_sha256": "8bf591defd7550900b867d93194344149672b36ae5b17e1e1ae9cca3cd501e77",
+      "bytes": 449049,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/泛函分析/作业/何凌冰体系_学期待核/个人参考解答/可编辑源文件/原项目说明.md",
+      "sha256": "735d87dee25d902d356a4615d30df83d6b1b5d0328d1258edc7f03272623bc21",
+      "original_sha256": "8af7af20dcb73607788bb0b39a107f9bbb7241d0a9c5bbbff734a86270e4a92d",
+      "bytes": 775,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/泛函分析/作业/何凌冰体系_学期待核/个人参考解答/可编辑源文件/preamble.tex",
+      "sha256": "4329a8658d2d625624fa10aba2b3e8fd9d52f4e4751c5b2f81396c343a50a2d1",
+      "original_sha256": "4329a8658d2d625624fa10aba2b3e8fd9d52f4e4751c5b2f81396c343a50a2d1",
+      "bytes": 1310,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/泛函分析/作业/何凌冰体系_学期待核/个人参考解答/可编辑源文件/main.tex",
+      "sha256": "6031527ae447cb3c5cc11a04b7b9ccf984f1b4fc33f1c6f392ce0d0d4979e03e",
+      "original_sha256": "6031527ae447cb3c5cc11a04b7b9ccf984f1b4fc33f1c6f392ce0d0d4979e03e",
+      "bytes": 1024,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/泛函分析/作业/何凌冰体系_学期待核/个人参考解答/可编辑源文件/chapters/assignments-19-27.tex",
+      "sha256": "7dd815cb911c064b5d2379aaae35f200e2784247a7ce8882fc43dc7f6701b681",
+      "original_sha256": "7dd815cb911c064b5d2379aaae35f200e2784247a7ce8882fc43dc7f6701b681",
+      "bytes": 44184,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/泛函分析/作业/何凌冰体系_学期待核/个人参考解答/可编辑源文件/chapters/assignments-10-18.tex",
+      "sha256": "37bfaf01291b8802dc825c8b9ee66cfa05ade08bca0eddc6dd583818dc498ab3",
+      "original_sha256": "37bfaf01291b8802dc825c8b9ee66cfa05ade08bca0eddc6dd583818dc498ab3",
+      "bytes": 51545,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/泛函分析/作业/何凌冰体系_学期待核/个人参考解答/可编辑源文件/chapters/assignments-01-09.tex",
+      "sha256": "294d81cc6841ea25210018ca4bfeb3d8dace21532cc7d908d36435bf2d95691b",
+      "original_sha256": "294d81cc6841ea25210018ca4bfeb3d8dace21532cc7d908d36435bf2d95691b",
+      "bytes": 54078,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/泛函分析/作业/何凌冰体系_学期待核/个人参考解答/可编辑源文件/chapters/README.md",
+      "sha256": "0f2a78a5b7d0f24cfc3e9204549afefd578b09915515be6c58d613453601bef3",
+      "original_sha256": "303bdb1107dcd5ff84e28912e2ab9666a7c264dc805bd98901649c72df54e668",
+      "bytes": 2518,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/泛函分析/作业/何凌冰体系_学期待核/个人参考解答/可编辑源文件/README.md",
+      "sha256": "9c1a6b1ba6e5f1592a10dbeae3454d7e0ca42abc6628c0c31a287495f227773d",
+      "original_sha256": "d4eccc8586d56126a3ce8d2ac08012f6a06df24656ce940c7c1ac215c406a701",
+      "bytes": 2548,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/泛函分析/作业/何凌冰体系_学期待核/个人参考解答/README.md",
+      "sha256": "888386bf2fe8e53c75752880fd3b93b790b40db75c057c4a63e9aa19136d6e22",
+      "original_sha256": "88ae3544a52c5d5471a779bf11107b88820b6d97dd41a51a5aff013d83a117b8",
+      "bytes": 2319,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/泛函分析/作业/何凌冰体系_学期待核/README.md",
+      "sha256": "6d66cd74f8249fcc9b45fb844201ec22d20b695f2fc0dcbdb3ca4471538fbffb",
+      "original_sha256": "2173549162d08004cb7abfe44b2bdff839d5837259b2fed38eac88cc43e6c1e9",
+      "bytes": 2108,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/泛函分析/作业/README.md",
+      "sha256": "e3c39d17763203972bc66c8aa5f0311141885ffd9166f4b5e1a269b823c694a0",
+      "original_sha256": "ecca52d95cb479874ce5729335b2b5f541e7498a9aa0969cbd603ac8087d2e4a",
+      "bytes": 2086,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/泛函分析/往年题/邹文明/卷面2008春_回忆/README.md",
+      "sha256": "1724b6701261fb2276bda1ee16a7f1a50e1d03c4ccc21c13429bea97a5dce3ec",
+      "original_sha256": "aac2aff68ee465099981a7ed1a3c91751aadd19dc152c5fa900529ccce44a7e0",
+      "bytes": 2267,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/泛函分析/往年题/邹文明/卷面2008春_回忆/2007春泛函.pdf",
+      "sha256": "774554ac6d35bb07fe652240c217dcbb2e8b7e27ae4e3e81c00b49b83325616e",
+      "original_sha256": "774554ac6d35bb07fe652240c217dcbb2e8b7e27ae4e3e81c00b49b83325616e",
+      "bytes": 137004,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/泛函分析/往年题/邹文明/README.md",
+      "sha256": "fe6f599cfe9b899069fb962da04a6b8bcd33dfeb31fed2c0515b07985799d61a",
+      "original_sha256": "4862691f5ec53327257ae5914474c74acd45cf9634dd79eae806f4bbf4e38afc",
+      "bytes": 2089,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/泛函分析/往年题/来源标记瞿燕辉/源标记2022春_课程序号待核/README.md",
+      "sha256": "28dab5eb5cfb77825154c03cb362870d57cc530c5f295451c8d44bc71e6e9fde",
+      "original_sha256": "8b0665f0f5ad90d321126b9bfa7341be70ff73d36ea2fbb37b63289dc96f54bc",
+      "bytes": 2666,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/泛函分析/往年题/来源标记瞿燕辉/源标记2022春_课程序号待核/2022瞿燕辉泛函春期末.pdf",
+      "sha256": "474d78fc1bec88e62161bb19afa99456656baae283a863b2bc844687138bff78",
+      "original_sha256": "474d78fc1bec88e62161bb19afa99456656baae283a863b2bc844687138bff78",
+      "bytes": 494329,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/泛函分析/往年题/来源标记瞿燕辉/源标记2022春_课程序号待核/2022瞿燕辉泛函春期中.pdf",
+      "sha256": "50828af9a875c1b548cf190751643db5e74a2bc2506336c75fca8c2341244734",
+      "original_sha256": "50828af9a875c1b548cf190751643db5e74a2bc2506336c75fca8c2341244734",
+      "bytes": 1132123,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/泛函分析/往年题/来源标记瞿燕辉/源标记2022春_课程序号待核/2022泛函期中-春季-解答.pdf",
+      "sha256": "b8f5a75b631f47724ef323af114e0777ec6c9334c157e44ce1ed890a06fd8009",
+      "original_sha256": "b8f5a75b631f47724ef323af114e0777ec6c9334c157e44ce1ed890a06fd8009",
+      "bytes": 613584,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/泛函分析/往年题/来源标记瞿燕辉/源标记2021_题目及解答/README.md",
+      "sha256": "d71258ae9897025e69cf8a0480275c78dcac52c48d3403c4e290e4e0e58ef906",
+      "original_sha256": "170fb76c9cb3480892662393f9f30ec19fe1d50b5f97cf8cb289064490d85271",
+      "bytes": 2312,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/泛函分析/往年题/来源标记瞿燕辉/源标记2021_题目及解答/2021瞿燕辉泛函分析期中.pdf",
+      "sha256": "4ef1bbb0dc539c7cfc77055a299bd1b60803ceceba17e4983c65a20cc7e26e07",
+      "original_sha256": "4ef1bbb0dc539c7cfc77055a299bd1b60803ceceba17e4983c65a20cc7e26e07",
+      "bytes": 521915,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/泛函分析/往年题/来源标记瞿燕辉/README.md",
+      "sha256": "8b82d58f822f1ae3b9cf463829dc8182c55d3677c486e0d9881a353825bcae1f",
+      "original_sha256": "002ae199a11f3b7a05eb338a903866dbfd801c3a6dff50149c1381c77ea0db3e",
+      "bytes": 2101,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/泛函分析/往年题/来源标记瞿燕辉/2021-2022秋_题目及答案/README.md",
+      "sha256": "91f08ffff2db03ff5c902b55f9f94d90f1262ec2031ccbc81fdd67cc21dd43c4",
+      "original_sha256": "5cc4af14f6f981d7de5311f1f59c068c6fb026b2395f122936f4ba862518931a",
+      "bytes": 2299,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/泛函分析/往年题/来源标记瞿燕辉/2021-2022秋_题目及答案/2021瞿燕辉泛函期末.pdf",
+      "sha256": "b7f8ef28cd00e6a17de812ab3635df85bf14b06a13fb6314387c89c5f8c87d63",
+      "original_sha256": "b7f8ef28cd00e6a17de812ab3635df85bf14b06a13fb6314387c89c5f8c87d63",
+      "bytes": 603991,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/泛函分析/往年题/来源标记兰洋/题目/README.md",
+      "sha256": "8c0139f85e2bdce5a5ea7503495d909d6231d66023a0bc7635715155cbd1e7cb",
+      "original_sha256": "b7f2537810259a4f04ac93655466f2fabd4ee69d576b3f70283e213dc6f1958f",
+      "bytes": 2470,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/泛函分析/往年题/来源标记兰洋/题目/2021泛函分析期末兰洋期末.pdf",
+      "sha256": "7a5d4f18e2d575a105e50a137187ed7d063b7337b1c7685b5997fa4abc36b8be",
+      "original_sha256": "7a5d4f18e2d575a105e50a137187ed7d063b7337b1c7685b5997fa4abc36b8be",
+      "bytes": 986621,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/泛函分析/往年题/来源标记兰洋/题目/2021兰洋泛函分析期中.pdf",
+      "sha256": "10feb6ecff8fe78b541eaa142f72c611375f85ea5d2fdc868a24eb964b679835",
+      "original_sha256": "10feb6ecff8fe78b541eaa142f72c611375f85ea5d2fdc868a24eb964b679835",
+      "bytes": 1437596,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/泛函分析/往年题/来源标记兰洋/参考解答/README.md",
+      "sha256": "b6baab8d77e80d87b2481c67ac09f5c6e4f7ed65eb6cadc2e900fb83db9b43b7",
+      "original_sha256": "43a75ebc1cc2c67b3de0bec17f36e0ed55adba6e97cb8fc1d42ef2cf090a00fa",
+      "bytes": 2325,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/泛函分析/往年题/来源标记兰洋/参考解答/2021泛函分析期末兰洋期末参考答案.pdf",
+      "sha256": "344232da9c5605aaed96a50723e958ff2e710abbeb68676998c3941fde1d3ad0",
+      "original_sha256": "344232da9c5605aaed96a50723e958ff2e710abbeb68676998c3941fde1d3ad0",
+      "bytes": 2057148,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/泛函分析/往年题/来源标记兰洋/README.md",
+      "sha256": "c10916bc484444574aa3277e10c1e276d6b8e04c79b18ee8e68fac543e09585a",
+      "original_sha256": "7979434643decd7d78011510f122675187f82fd9a4fe3516c9e3f72d619d6343",
+      "bytes": 2098,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/泛函分析/往年题/李宇翔体系/回忆版/泛函分析期末25-26秋lyx.pdf",
+      "sha256": "f8c04785ae21bdc0f3f10acd27cf48219d682e643da9a80bec28095f790ef3c8",
+      "original_sha256": "f8c04785ae21bdc0f3f10acd27cf48219d682e643da9a80bec28095f790ef3c8",
+      "bytes": 128151,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/泛函分析/往年题/李宇翔体系/回忆版/泛函分析期末24-25秋lyx.pdf",
+      "sha256": "809b98accf3f199c6b8dc5f6492b91e7a7eec835a4dd39cc054108f353a0cc0d",
+      "original_sha256": "809b98accf3f199c6b8dc5f6492b91e7a7eec835a4dd39cc054108f353a0cc0d",
+      "bytes": 81083,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/泛函分析/往年题/李宇翔体系/回忆版/README.md",
+      "sha256": "b3e32a933eee5a528908f10e0a3971e3eaf3a203a72a7440ace6109ef574b80a",
+      "original_sha256": "8bff3e12afdaa1e0bf021dcc98f029cdd2bca8d1d6c53b15773eee8b1dbedc18",
+      "bytes": 2465,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/泛函分析/往年题/李宇翔体系/README.md",
+      "sha256": "0b1af8ec9d41ca436eea6255b1d3e33eda0ee08f48ce199d7eadfede684b96b9",
+      "original_sha256": "e03c03e28ec61a4824179ad0e3a4e357997706bbbcca2a98820d5b9c79b47ed5",
+      "bytes": 2095,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/泛函分析/往年题/何凌冰/卷面2020秋/README.md",
+      "sha256": "4c9880e5fa9d06f19dfe64eb559fcab3c659e0a960f0366cf896d29ed826744f",
+      "original_sha256": "ec673a0fe476481d12ba0549beb54632d232d047baca8901b6853658fcc10c7d",
+      "bytes": 2296,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/泛函分析/往年题/何凌冰/卷面2020秋/2020何凌冰泛函分析期中.pdf",
+      "sha256": "899b1cfd4311690f994ac1e94cd4ad8d2ec9a8aa4f5b1cb61e0fd5e3bf58c296",
+      "original_sha256": "899b1cfd4311690f994ac1e94cd4ad8d2ec9a8aa4f5b1cb61e0fd5e3bf58c296",
+      "bytes": 593139,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/泛函分析/往年题/何凌冰/README.md",
+      "sha256": "3ef722898ba759593ba4ed976435618e56bc01d41cb0cef700c5b369c4949edd",
+      "original_sha256": "13f84a4dc2bcd9794276b5705af262a31d585a2eec9a7e9169b46d122ca7864c",
+      "bytes": 2089,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/泛函分析/往年题/README.md",
+      "sha256": "366ddfee840ac0b102afd692a2786aa168866f7d23cb0c6c4a864bf04568ee58",
+      "original_sha256": "922f3402dae28534e583ce1fdebac9cb93bcbdd68c1e28b6ddb1097d5f857e84",
+      "bytes": 2089,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/泛函分析/往年题/2019秋_泛函分析I/题目及解答/README.md",
+      "sha256": "82c63aa6a684c12b1c9d2929789338f4214fd21ee4999324b858beb1b122e877",
+      "original_sha256": "9f6623a0d4270c517f7a9b0b292792fa8952892518110621f257fc76c3a31b12",
+      "bytes": 2296,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/泛函分析/往年题/2019秋_泛函分析I/题目及解答/2019泛函期中-秋季-解答.pdf",
+      "sha256": "7f025909fc7f38e2e5c6864a23f718eca222d507d68b6a432d89722e2438d628",
+      "original_sha256": "7f025909fc7f38e2e5c6864a23f718eca222d507d68b6a432d89722e2438d628",
+      "bytes": 175846,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/泛函分析/往年题/2019秋_泛函分析I/README.md",
+      "sha256": "40eabaecaf501135c636346470f6efbf3cb7ad9371e44caf72f79b2a2fe3d666",
+      "original_sha256": "844fcf088fcc87a7c9669c49587ffebd318a2f271f4fa650df048a7aad7c192c",
+      "bytes": 2101,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/泛函分析/课程说明/README.md",
+      "sha256": "b62454487e1b6cfe315ab2a097edc997842f7c38eb372db4295ee8134b631506",
+      "original_sha256": "f4024498c85489362fdfae17c82121281e7587be81ed617ddd8fda2a604b676f",
+      "bytes": 2092,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/泛函分析/课程说明/2026-2027秋季学期/课程信息-2026秋.docx",
+      "sha256": "d58d460bd7caf7934a506420089087c7aebfcca0f30248d3003f6b4f61317052",
+      "original_sha256": "d58d460bd7caf7934a506420089087c7aebfcca0f30248d3003f6b4f61317052",
+      "bytes": 22105,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/泛函分析/课程说明/2026-2027秋季学期/README.md",
+      "sha256": "2427da9d634120e4b547a5b27ef22ad08e181e5a9ffb172be81acc9d9f485683",
+      "original_sha256": "d230fad587e6d9f2328b3be6e8dc4525cff8fbb68c41acb312e44fbb2e363f12",
+      "bytes": 2297,
+      "kind": "provenance"
+    }
+  ]
+}

@@ -1,0 +1,464 @@
+\documentclass{article}
+\usepackage[UTF8]{ctex}
+\usepackage{sectsty}
+\usepackage{amssymb,amsmath,amsthm,mathrsfs,graphicx}
+\usepackage{tikz}
+\usepackage{needspace}
+\setlength{\emergencystretch}{2em}
+\clubpenalty=10000\widowpenalty=10000
+\title{泛函分析作业第五周}
+\author{张溢致 2024011936}
+\date{}
+\begin{document}
+\maketitle
+
+\par\medskip\Needspace{5\baselineskip}\noindent 1. 设 $(X,\mathcal A)$ 是一个可测空间。设 $M(X)$ 是 $X$ 上所有的有限符号测度全体。任取 $\mu\in M(X)$，定义
+\[
+\|\mu\|:=\mu^+(X)+\mu^-(X),
+\]
+其中 $\mu=\mu^+-\mu^-$ 是 $\mu$ 的 Jordan 分解。
+
+1) 证明：$\|\cdot\|$ 是 $M(X)$ 上的一个范数，且 $(M(X),\|\cdot\|)$ 是一个 Banach 空间。
+
+2) 考虑 $([0,1],\mathcal B_{[0,1]})$。证明 $M([0,1])$ 不可分。
+
+
+\par\Needspace{4\baselineskip}\noindent\textbf{解：}\par\nopagebreak[4]
+
+
+
+1) 记 $|\mu|=\mu^++\mu^-$ 为总变差测度。对任意有限可测分割 $\{E_j\}_{j=1}^N$，有
+\[
+\sum_{j=1}^N|\mu(E_j)|\le\sum_{j=1}^N|\mu|(E_j)=|\mu|(X).
+\]
+取 $\mu$ 的 Hahn 分解 $X=P\sqcup N$，则 $|\mu(P)|+|\mu(N)|=\mu^+(X)+\mu^-(X)$，所以
+\[
+\|\mu\|=\sup_{\{E_j\}\text{ 为有限可测分割}}\sum_j|\mu(E_j)|.
+\]
+由此公式，$\|a\mu\|=|a|\|\mu\|$，且
+\[
+\|\mu+\nu\|\le\|\mu\|+\|\nu\|.
+\]
+若 $\|\mu\|=0$，则对任意 $E\in\mathcal A$，$|\mu(E)|\le\|\mu\|=0$，故 $\mu=0$；反向显然。于是它是范数。
+
+为证明完备性，使用绝对收敛级数判定。设 $(\nu_n)\subset M(X)$ 且 $\sum_n\|\nu_n\|<\infty$。对 $E\in\mathcal A$ 定义
+\[
+\nu(E)=\sum_{n=1}^\infty\nu_n(E).
+\]
+因为 $\sum_n|\nu_n(E)|\le\sum_n\|\nu_n\|<\infty$，定义有意义。若 $E_k$ 两两不交，则
+\[
+\sum_n\sum_k|\nu_n(E_k)|\le\sum_n|\nu_n|(X)<\infty.
+\]
+因此可以交换双重级数求和顺序，得到
+\[
+\nu\left(\bigcup_kE_k\right)=\sum_n\sum_k\nu_n(E_k)=\sum_k\nu(E_k),
+\]
+故 $\nu$ 可数可加。又对任意有限可测分割，
+\[
+\sum_j|\nu(E_j)|\le\sum_n\sum_j|\nu_n(E_j)|\le\sum_n\|\nu_n\|,
+\]
+所以 $\nu$ 是有限总变差的符号测度。对尾和应用相同估计，得到
+\[
+\left\|\nu-\sum_{n=1}^N\nu_n\right\|\le\sum_{n>N}\|\nu_n\|\longrightarrow0.
+\]
+故每个绝对收敛级数在 $M(X)$ 中收敛，因而 $M(X)$ 完备。
+
+2) 对 $t\in[0,1]$，令 $\delta_t$ 为 $t$ 处的 Dirac 测度。当 $s\ne t$ 时，$\delta_s-\delta_t$ 的正、负部分分别为 $\delta_s,\delta_t$，故
+\[
+\|\delta_s-\delta_t\|=2.
+\]
+于是 $\{\delta_t:t\in[0,1]\}$ 是不可数个两两距离为 $2$ 的点。若空间可分，则每个两两不交的开球 $B(\delta_t,1/2)$ 中都可选取可数稠密集中的一个不同点，推出球的个数至多可数，矛盾。所以 $M([0,1])$ 不可分。
+
+
+\par\medskip\Needspace{5\baselineskip}\noindent 2. 设 $(X,\mathcal A,\mu)$ 是一个测度空间且 $\mu$ 为 $\sigma$-有限。设 $L^p(X,\mu)$ 可分。证明：存在 $\{A_n:n\in\mathbb N\}\subset\mathcal A$ 使得对任意的 $A\in\mathcal A$，$\mu(A)<\infty$ 以及任意的 $\varepsilon>0$，存在 $n$ 使得 $\mu(A\triangle A_n)<\varepsilon$。
+
+
+\par\Needspace{4\baselineskip}\noindent\textbf{解：}\par\nopagebreak[4]
+
+
+
+先设 $1\le p<\infty$。取 $L^p(X,\mu)$ 的可数稠密集 $\{f_n:n\in\mathbb N\}$，为每个等价类固定一个可测代表，并定义
+\[
+A_n=\{x:\operatorname{Re}f_n(x)>1/2\}.
+\]
+实值情形直接用 $f_n$ 代替 $\operatorname{Re}f_n$。由于 $|f_n|>1/2$ 在 $A_n$ 上成立，还有 $\mu(A_n)\le2^p\|f_n\|_p^p<\infty$。
+
+任取 $A\in\mathcal A$ 且 $\mu(A)<\infty$，则 $\mathbf1_A\in L^p$。在 $A\triangle A_n$ 上均有 $|\mathbf1_A-f_n|\ge1/2$，从而
+\[
+\mu(A\triangle A_n)\le2^p\int_X|\mathbf1_A-f_n|^p\,d\mu=2^p\|\mathbf1_A-f_n\|_p^p.
+\]
+给定 $\varepsilon>0$，由稠密性可取 $n$ 使 $\|\mathbf1_A-f_n\|_p<\varepsilon^{1/p}/2$，即得所需结论。
+
+若题目也包含 $p=\infty$，取 $L^\infty$ 的可数稠密集并同样定义 $A_n$。选择 $n$ 使 $\|\mathbf1_A-f_n\|_\infty<1/2$，则几乎处处有 $\operatorname{Re}f_n>1/2$ 当且仅当 $x\in A$，故 $\mu(A\triangle A_n)=0<\varepsilon$。因此该情形也成立。
+
+
+\par\medskip\Needspace{5\baselineskip}\noindent 3. 设 $(X,\mathcal A,\mu)$ 是一个测度空间。
+
+1) 证明 $\mathcal L^\infty(X,\mu)$ 是一个线性空间，且 $\widetilde{\|\cdot\|}_\infty$ 是 $\mathcal L^\infty(X,\mu)$ 上的半范数。
+
+2) 证明 $\|\cdot\|_\infty$ 是 $L^\infty(X,\mu)$ 上的范数，且 $(L^\infty(X,\mu),\|\cdot\|_\infty)$ 为 Banach 空间。
+
+3) 证明：若存在 $\{A_n:n\in\mathbb N\}\subset\mathcal A$ 满足 $\mu(A_n)>0$ 且当 $n\ne m$ 时 $A_n\cap A_m=\varnothing$，则 $L^\infty(X,\mu)$ 不可分。
+
+
+\par\Needspace{4\baselineskip}\noindent\textbf{解：}\par\nopagebreak[4]
+
+
+
+1) 这里 $\mathcal L^\infty$ 表示尚未按几乎处处相等取商的本性有界可测函数空间，并记
+\[
+\widetilde{\|f\|}_\infty=\inf\{M\ge0:|f|\le M\text{ 几乎处处}\}.
+\]
+若 $f,g$ 本性有界，则 $af+bg$ 可测，且在某个零测集之外有 $|af+bg|\le|a|M_f+|b|M_g$，故仍本性有界。因此它是线性空间。绝对齐次性由定义直接成立；任取 $M_f>\widetilde{\|f\|}_\infty$ 和 $M_g>\widetilde{\|g\|}_\infty$，有
+\[
+|f+g|\le M_f+M_g\quad\text{几乎处处}.
+\]
+令两常数分别下降到相应本性上确界，得到三角不等式。因此它是半范数。
+
+2) $\widetilde{\|f\|}_\infty=0$ 等价于 $f=0$ 几乎处处；几乎处处相等的函数有相同半范数。因而在按此关系取商后的 $L^\infty$ 上，它成为范数。
+
+设 $(f_n)$ 是 $L^\infty$ 中的 Cauchy 列，为各项固定可测代表。其范数有统一上界 $M$。由本性上确界的定义，在删去一个可测零测集后，可以同时保证对所有 $n,m$ 有
+\[
+|f_n(x)|\le M,\qquad |f_n(x)-f_m(x)|\le\|f_n-f_m\|_\infty.
+\]
+这里仅使用了可数多个函数和可数多个函数对，故所有例外集的并仍是零测集，记为 $N$。在 $X\setminus N$ 上定义 $f(x)=\lim_n f_n(x)$，在 $N$ 上定义 $f=0$。逐点极限可测且 $|f|\le M$，故 $f\in L^\infty$。任给 $\varepsilon>0$，取 $K$ 使 $n,m\ge K$ 时 $\|f_n-f_m\|_\infty<\varepsilon/2$。在 $X\setminus N$ 上令 $m\to\infty$，得 $|f_n-f|\le\varepsilon/2$，所以 $\|f_n-f\|_\infty\le\varepsilon/2$。由此得到完备性。
+
+3) 对每个 $S\subset\mathbb N$，令 $f_S=\mathbf1_{\bigcup_{n\in S}A_n}$。若 $S\ne T$，选 $j\in S\triangle T$，则 $|f_S-f_T|=1$ 在正测度集合 $A_j$ 上成立；同时处处不超过 $1$。所以
+\[
+\|f_S-f_T\|_\infty=1.
+\]
+这给出不可数个两两距离为 $1$ 的元素。可分度量空间不可能含有这样的集合，因此 $L^\infty$ 不可分。
+
+
+\par\medskip\Needspace{5\baselineskip}\noindent 4. 设 $A$ 为非空集合，$f:A\to\mathbb R_+$ 为函数。
+
+1) 证明：若 $\sum_{x\in A}f(x)<\infty$，则 $\operatorname{supp}(f):=\{x\in A:f(x)>0\}$ 为至多可数集。
+
+2) 证明：$\int_A f(x)\,dm(x)=\sum_{x\in A}f(x)$，这里 $m$ 为 $A$ 上的计数测度。
+
+3) 设 $1\le p<\infty$。证明 $\ell^p(A)$ 可分当且仅当 $A$ 为可数集。
+
+
+\par\Needspace{4\baselineskip}\noindent\textbf{解：}\par\nopagebreak[4]
+
+
+
+对非负函数，任意指标求和定义为
+\[
+\sum_{x\in A}f(x)=\sup_{F\subset A,\ F\text{ 有限}}\sum_{x\in F}f(x).
+\]
+1) 记该和为 $S<\infty$，令 $E_k=\{x:f(x)\ge1/k\}$。若 $E_k$ 无限，则可从中取任意多个点，得到任意大的有限部分和，与 $S<\infty$ 矛盾。故每个 $E_k$ 有限。由于
+\[
+\operatorname{supp}(f)=\bigcup_{k=1}^\infty E_k,
+\]
+其至多可数。
+
+2) 对每个有限 $F\subset A$，有 $f\ge\sum_{x\in F}f(x)\mathbf1_{\{x\}}$，因此
+\[
+\int_Af\,dm\ge\sum_{x\in F}f(x).
+\]
+取上确界可得积分不小于任意指标和。如果此和为 $\infty$，等式已经成立。若此和有限，则由 1) 知正支撑至多可数，枚举为 $\{x_j\}$。有限支撑情形相同。由单调收敛定理，
+\[
+\int_Af\,dm=\lim_{N\to\infty}\int_A\sum_{j=1}^Nf(x_j)\mathbf1_{\{x_j\}}\,dm
+=\sum_jf(x_j)=\sum_{x\in A}f(x).
+\]
+
+3) 若 $A$ 可数，取所有有限支撑且各坐标为有理数的向量构成 $D$；复数域下使用 $\mathbb Q+i\mathbb Q$。集合 $D$ 可数。给定 $u\in\ell^p(A)$ 和 $\varepsilon>0$，先取有限 $F\subset A$ 使
+\[
+\sum_{x\notin F}|u(x)|^p<(\varepsilon/2)^p,
+\]
+再在 $F$ 上逐项作有理近似，使有限维 $p$-范数误差小于 $\varepsilon/2$，即可找到 $v\in D$ 满足 $\|u-v\|_p<\varepsilon$。所以该空间可分。
+
+若 $A$ 不可数，对 $a\in A$ 定义 $e_a=\mathbf1_{\{a\}}$，则 $\|e_a-e_b\|_p=2^{1/p}$（$a\ne b$）。故存在不可数个两两一致分离的元素，空间不可分。
+
+
+\par\medskip\Needspace{5\baselineskip}\noindent 5. 设 $m\in\mathbb N$，$\alpha\in(0,1)$。在 $C^{m,\alpha}[0,1]$ 上定义
+\[
+\|f\|_{C^{m,\alpha}}:=\max\{\|f\|_\infty,\|f'\|_\infty,\ldots,\|f^{(m)}\|_\infty,C_{f^{(m)}}\}.
+\]
+证明 $\|\cdot\|_{C^{m,\alpha}}$ 是 $C^{m,\alpha}[0,1]$ 上的范数，且在此范数下 $C^{m,\alpha}[0,1]$ 为 Banach 空间。
+
+
+\par\Needspace{4\baselineskip}\noindent\textbf{解：}\par\nopagebreak[4]
+
+
+
+记 $C_g=[g]_\alpha:=\sup_{x\ne y}|g(x)-g(y)|/|x-y|^\alpha$，则 $C^{m,\alpha}[0,1]$ 由 $C^m$ 函数中满足 $[f^{(m)}]_\alpha<\infty$ 的函数构成。各项上确界范数及 Hölder 半范数均绝对齐次，且各自满足三角不等式，所以它们的最大值也满足绝对齐次性和三角不等式。若 $\|f\|_{C^{m,\alpha}}=0$，其中 $\|f\|_\infty=0$ 给出 $f=0$，故这是范数。
+
+设 $(f_n)$ 为此范数下的 Cauchy 列。对每个 $0\le j\le m$，$(f_n^{(j)})$ 在一致范数下是 Cauchy 列，故存在 $g_j\in C[0,1]$ 使 $f_n^{(j)}\to g_j$ 一致收敛。对 $0\le j<m$，由
+\[
+f_n^{(j)}(x)-f_n^{(j)}(0)=\int_0^x f_n^{(j+1)}(t)\,dt
+\]
+取极限，得 $g_j(x)-g_j(0)=\int_0^x g_{j+1}(t)\,dt$。所以令 $f=g_0$，则 $f\in C^m$ 且 $f^{(j)}=g_j$。
+
+由于 Cauchy 列有界，存在 $K$ 使 $[f_n^{(m)}]_\alpha\le K$ 对所有 $n$ 成立。固定 $x\ne y$ 并取极限，得到
+\[
+|g_m(x)-g_m(y)|\le K|x-y|^\alpha,
+\]
+故 $f\in C^{m,\alpha}$。还需证明 Hölder 半范数意义的收敛。任给 $\varepsilon>0$，取 $N$ 使 $n,k\ge N$ 时 $[f_n^{(m)}-f_k^{(m)}]_\alpha<\varepsilon$。固定 $n\ge N$ 和 $x\ne y$，令 $k\to\infty$，得到
+\[
+|(f_n^{(m)}-g_m)(x)-(f_n^{(m)}-g_m)(y)|\le\varepsilon|x-y|^\alpha.
+\]
+取上确界得 $[f_n^{(m)}-f^{(m)}]_\alpha\le\varepsilon$。结合所有阶导数的一致收敛，得到 $\|f_n-f\|_{C^{m,\alpha}}\to0$，故该空间完备。
+
+
+\par\medskip\Needspace{5\baselineskip}\noindent 6. 设 $(V,\|\cdot\|_V)$ 是一个 n.l.s.。证明存在 Banach 空间 $(W,\|\cdot\|_W)$ 和嵌入映射 $i:V\to W$ 使得以下成立：
+
+1) 等距嵌入：$\|i(x)\|_W=\|x\|_V$。
+
+2) $i(V)$ 在 $W$ 内稠密。
+
+进一步，若还有 Banach 空间 $(\widehat W,\|\cdot\|_{\widehat W})$ 和嵌入映射 $\widehat i:V\to\widehat W$ 使得 $\widehat i$ 为等距嵌入且 $\widehat i(V)$ 在 $\widehat W$ 内稠密，则 $(W,\|\cdot\|_W)$ 与 $(\widehat W,\|\cdot\|_{\widehat W})$ 等距同构，即存在线性同构 $\varphi:W\to\widehat W$ 使得对任意的 $x\in W$ 有 $\|x\|_W=\|\varphi(x)\|_{\widehat W}$。
+
+
+\par\Needspace{4\baselineskip}\noindent\textbf{解：}\par\nopagebreak[4]
+
+
+
+令 $\mathcal C$ 为 $V$ 中所有 Cauchy 列构成的集合，按逐项运算成为线性空间。在其上定义
+\[
+(x_n)\sim(y_n)\iff\|x_n-y_n\|_V\to0.
+\]
+由三角不等式容易验证这是等价关系，且与加法、数乘相容。令 $W=\mathcal C/{\sim}$，定义
+\[
+\|[(x_n)]\|_W=\lim_n\|x_n\|_V.
+\]
+由 $|\|x_n\|_V-\|x_m\|_V|\le\|x_n-x_m\|_V$ 知右端极限存在；等价代表给出相同极限。该函数绝对齐次、满足三角不等式，而且范数为零恰好表示 $(x_n)\sim(0)$。因此它是 $W$ 上的范数。
+
+定义 $i(x)=[(x,x,\ldots)]$，则 $i$ 线性且 $\|i(x)\|_W=\|x\|_V$，特别地 $i$ 单射。对 $w=[(x_n)]\in W$，
+\[
+\|i(x_n)-w\|_W=\lim_{m\to\infty}\|x_n-x_m\|_V\longrightarrow0,
+\]
+故 $i(V)$ 在 $W$ 中稠密。
+
+设 $(w_j)$ 是 $W$ 中的 Cauchy 列。由稠密性，为每个 $j$ 选 $v_j\in V$ 使 $\|i(v_j)-w_j\|_W<2^{-j}$，则
+\[
+\|v_j-v_k\|_V\le2^{-j}+\|w_j-w_k\|_W+2^{-k}\longrightarrow0.
+\]
+所以 $(v_j)\in\mathcal C$。令 $w=[(v_j)]$，由上式的稠密性计算知 $i(v_j)\to w$，再由 $\|w_j-i(v_j)\|_W<2^{-j}$ 知 $w_j\to w$。因此 $W$ 完备。
+
+对另一个完备化 $\widehat W$，将嵌入按赋范空间的线性等距嵌入理解。任取 $w\in W$，选 $x_n\in V$ 使 $i(x_n)\to w$，定义
+\[
+\varphi(w)=\lim_n\widehat i(x_n).
+\]
+由于 $\|\widehat i(x_n)-\widehat i(x_m)\|=\|x_n-x_m\|_V$，该极限存在。若另选 $y_n$ 逼近同一个 $w$，则 $\|x_n-y_n\|_V\to0$，所以定义无关选择。逐项运算并取极限可知 $\varphi$ 线性，且
+\[
+\|\varphi(w)\|_{\widehat W}=\lim_n\|x_n\|_V=\|w\|_W.
+\]
+任给 $\widehat w\in\widehat W$，由 $\widehat i(V)$ 稠密，选 $x_n$ 使 $\widehat i(x_n)\to\widehat w$。于是 $(i(x_n))$ 在完备的 $W$ 中收敛到某个 $w$，且 $\varphi(w)=\widehat w$。故 $\varphi$ 是等距线性同构。
+
+
+\par\medskip\Needspace{5\baselineskip}\noindent 7. 设 $X,Y$ 均为赋范线性空间。任取 $1\le p\le\infty$，在 $X\times Y$ 上定义
+\[
+\|(x,y)\|_p:=\bigl(\|x\|_X^p+\|y\|_Y^p\bigr)^{1/p}.
+\]
+1) 证明 $\|\cdot\|_p$ 是 $X\times Y$ 上的一个范数。
+
+2) 证明 $(X\times Y,\|\cdot\|_p)$ 为 Banach 空间当且仅当 $X,Y$ 均为 Banach 空间。
+
+
+\par\Needspace{4\baselineskip}\noindent\textbf{解：}\par\nopagebreak[4]
+
+
+
+1) 当 $1\le p<\infty$ 时，非负性、正定性和绝对齐次性直接成立。对 $(x_1,y_1),(x_2,y_2)\in X\times Y$，由两个空间中的三角不等式及二维 Minkowski 不等式，
+\[
+\begin{aligned}
+\|(x_1+x_2,y_1+y_2)\|_p
+&\le\bigl((\|x_1\|_X+\|x_2\|_X)^p+(\|y_1\|_Y+\|y_2\|_Y)^p\bigr)^{1/p}\\
+&\le\|(x_1,y_1)\|_p+\|(x_2,y_2)\|_p.
+\end{aligned}
+\]
+所以它是范数。题目在 $p=\infty$ 时应按通常约定解释为
+\[
+\|(x,y)\|_\infty=\max\{\|x\|_X,\|y\|_Y\};
+\]
+此时范数公理也直接成立，不能将 $\infty$ 直接代入有限 $p$ 的幂次公式。
+
+2) 对有限 $p$，有
+\[
+\max\{\|x\|_X,\|y\|_Y\}\le\|(x,y)\|_p
+\le2^{1/p}\max\{\|x\|_X,\|y\|_Y\}.
+\]
+因此乘积中的序列为 Cauchy 列当且仅当两个坐标序列分别为 Cauchy 列，收敛也等价于两个坐标分别收敛；$p=\infty$ 时结论相同。若 $X,Y$ 完备，则坐标分别存在极限，故乘积完备。
+
+反之，若乘积完备，对 $X$ 中任一 Cauchy 列 $(x_n)$，$(x_n,0)$ 在乘积中收敛到某个 $(x,y)$。坐标收敛给出 $y=0$ 和 $x_n\to x$，故 $X$ 完备。同理 $Y$ 完备。
+
+
+\par\medskip\Needspace{5\baselineskip}\noindent 8. 设 $X$ 为赋范线性空间，$Y$ 为 $X$ 的闭线性子空间。
+
+1) 证明：若 $X$ 为 Banach 空间，则 $X/Y$ 在商范数下也为 Banach 空间。
+
+2) 证明：若 $Y$ 与 $X/Y$ 均为 Banach 空间，则 $X$ 也为 Banach 空间。
+
+
+\par\Needspace{4\baselineskip}\noindent\textbf{解：}\par\nopagebreak[4]
+
+
+
+商范数记为 $\|[x]\|_{X/Y}=\inf_{y\in Y}\|x-y\|_X$。由于 $Y$ 闭，它确为范数，并且 $\|[x]\|_{X/Y}\le\|x\|_X$。
+
+1) 设 $X$ 完备，且 $\sum_n\|[x_n]\|_{X/Y}<\infty$。由下确界定义，可选 $y_n\in Y$ 使
+\[
+\|x_n-y_n\|_X\le\|[x_n]\|_{X/Y}+2^{-n}.
+\]
+因此 $\sum_n(x_n-y_n)$ 在 Banach 空间 $X$ 中绝对收敛，记其和为 $x$。由
+\[
+\left\|\sum_{n=1}^N[x_n]-[x]\right\|_{X/Y}
+\le\left\|\sum_{n=1}^N(x_n-y_n)-x\right\|_X\longrightarrow0,
+\]
+知商空间中的每个绝对收敛级数都收敛，故 $X/Y$ 完备。
+
+2) 设 $Y$ 和 $X/Y$ 均完备，取 $X$ 中的 Cauchy 列 $(x_n)$。因为
+\[
+\|[x_n]-[x_m]\|_{X/Y}\le\|x_n-x_m\|_X,
+\]
+所以存在 $[x]\in X/Y$ 使 $[x_n]\to[x]$。为每个 $n$ 选 $y_n\in Y$，使
+\[
+\|x_n-x-y_n\|_X\le\|[x_n]-[x]\|_{X/Y}+1/n\longrightarrow0.
+\]
+记 $r_n=x_n-x-y_n$，则 $r_n\to0$，且
+\[
+\|y_n-y_m\|_X\le\|x_n-x_m\|_X+\|r_n\|_X+\|r_m\|_X\longrightarrow0.
+\]
+由 $Y$ 完备，存在 $y\in Y$ 使 $y_n\to y$。于是 $x_n=x+y_n+r_n\to x+y\in X$，所以 $X$ 完备。
+
+
+\par\medskip\Needspace{5\baselineskip}\noindent 9. 设 $\#A\ge2$，证明 $\ell^1(A)$ 与 $\ell^\infty(A)$ 均不是一致凸赋范线性空间。
+
+
+\par\Needspace{4\baselineskip}\noindent\textbf{解：}\par\nopagebreak[4]
+
+
+
+取互异的 $a,b\in A$，记相应坐标单位向量为 $e_a,e_b$。在 $\ell^1(A)$ 中令 $u=e_a,v=e_b$，则
+\[
+\|u\|_1=\|v\|_1=1,\quad\|u-v\|_1=2,\quad
+\left\|\frac{u+v}{2}\right\|_1=1.
+\]
+在 $\ell^\infty(A)$ 中令 $u=e_a+e_b,v=e_a-e_b$，其余坐标均为零，则
+\[
+\|u\|_\infty=\|v\|_\infty=1,\quad\|u-v\|_\infty=2,\quad
+\left\|\frac{u+v}{2}\right\|_\infty=\|e_a\|_\infty=1.
+\]
+分别在一致凸的定义中取 $\varepsilon=1$，无论 $\delta>0$ 如何选取，这些向量的中点范数都不可能小于等于 $1-\delta$。故两个空间均非一致凸。
+
+
+\par\medskip\Needspace{5\baselineskip}\noindent 10. 证明 $(C[a,b],\|\cdot\|_\infty)$ 不是一致凸赋范线性空间。
+
+
+\par\Needspace{4\baselineskip}\noindent\textbf{解：}\par\nopagebreak[4]
+
+
+
+按通常约定设 $a<b$。取
+\[
+u(t)=1,\qquad v(t)=1-2\frac{t-a}{b-a}.
+\]
+则 $u,v\in C[a,b]$，并且
+\[
+\|u\|_\infty=\|v\|_\infty=1,\qquad\|u-v\|_\infty=2.
+\]
+但 $\bigl((u+v)/2\bigr)(a)=1$，且由三角不等式其中点范数不超过 $1$，所以
+\[
+\left\|\frac{u+v}{2}\right\|_\infty=1.
+\]
+这与一致凸定义中 $\varepsilon=1$ 对应的任意 $\delta>0$ 均矛盾。因此该空间不一致凸。
+
+
+\par\medskip\Needspace{5\baselineskip}\noindent 11. 在 $V=C([-1,1])$ 上赋予 $\|\cdot\|_\infty$ 范数。定义 $V$ 的子空间 $W$ 如下
+\[
+W=\left\{f\in V:\int_{-1}^0 f(x)\,dx=\int_0^1 f(x)\,dx=0\right\}.
+\]
+1) 证明 $W$ 是 $V$ 的闭线性子空间。
+
+2) 设 $g\in V$ 满足
+\[
+\int_{-1}^0 g(x)\,dx=1;\qquad \int_0^1 g(x)\,dx=-1.
+\]
+证明 $d(g,W)=1$，但是对任意的 $f\in W$ 均有 $d(g,f)>1$。
+
+
+\par\Needspace{4\baselineskip}\noindent\textbf{解：}\par\nopagebreak[4]
+
+
+
+1) 两个积分条件均为线性条件，故 $W$ 是线性子空间。若 $f_n\in W$ 且 $f_n\to f$ 一致收敛，则
+\[
+\left|\int_{-1}^0(f_n-f)\,dx\right|\le\|f_n-f\|_\infty\to0,
+\]
+右半区间上也有相同估计。因此 $f$ 的两个积分都为零，$f\in W$，故 $W$ 闭。
+
+2) 对任意 $f\in W$，令 $h=g-f$，则
+\[
+\int_{-1}^0h(x)\,dx=1,\qquad\int_0^1h(x)\,dx=-1.
+\]
+所以 $\|h\|_\infty\ge1$，得到 $d(g,W)\ge1$。若某个 $f\in W$ 使 $\|h\|_\infty=1$，则 $\operatorname{Re}h\le1$ 在左半区间成立，而且其积分为 $1$。连续非负函数 $1-\operatorname{Re}h$ 的积分为零，故它处处为零，于是 $\operatorname{Re}h=1$ 在 $[-1,0]$ 上成立。同理在 $[0,1]$ 上有 $\operatorname{Re}h=-1$，这在 $0$ 点矛盾。实值情形可直接去掉实部符号。因此每个 $f\in W$ 都满足 $\|g-f\|_\infty>1$。
+
+为证明下确界仍为 $1$，对 $0<\delta<1$，令 $c_\delta=(1-\delta/2)^{-1}$，并定义连续函数
+\[
+h_\delta(t)=
+\begin{cases}
+c_\delta,&-1\le t\le-\delta,\\
+-c_\delta t/\delta,&-\delta\le t\le\delta,\\
+-c_\delta,&\delta\le t\le1.
+\end{cases}
+\]
+直接积分得
+\[
+\int_{-1}^0h_\delta=c_\delta(1-\delta/2)=1,\qquad
+\int_0^1h_\delta=-1.
+\]
+所以 $f_\delta=g-h_\delta\in W$，且
+\[
+\|g-f_\delta\|_\infty=\|h_\delta\|_\infty=c_\delta\longrightarrow1.
+\]
+从而 $d(g,W)\le1$，结合下界得到 $d(g,W)=1$，但此距离不能达到。
+
+
+\par\medskip\Needspace{5\baselineskip}\noindent 12. 设 $V=\{u\in C([0,1];\mathbb R):u(0)=0\}$。设其上的范数为 $\|\cdot\|_\infty$。定义
+\[
+M:=\left\{f\in V:\int_0^1 f(t)\,dt=0\right\}.
+\]
+1) 证明 $M$ 是闭子空间，且对任意的 $u\in V$，
+\[
+d(u,M):=\inf_{v\in M}\|u-v\|_\infty=\left|\int_0^1u(t)\,dt\right|.
+\]
+2) 证明对任意的 $u\in V\setminus M$，不存在 $v\in M$ 使得
+\[
+\|u-v\|_\infty=d(u,M).
+\]
+
+
+\par\Needspace{4\baselineskip}\noindent\textbf{解：}\par\nopagebreak[4]
+
+
+
+1) $M$ 的积分条件是线性的，故 $M$ 是 $V$ 的线性子空间。若 $f_n\in M$ 且 $f_n\to f$ 于 $V$ 的一致范数，则
+\[
+\left|\int_0^1f(t)\,dt\right|=\left|\int_0^1(f-f_n)(t)\,dt\right|\le\|f-f_n\|_\infty\to0,
+\]
+故 $f\in M$，所以 $M$ 闭。
+
+固定 $u\in V$，记 $a=\int_0^1u(t)\,dt$。对任意 $v\in M$，
+\[
+|a|=\left|\int_0^1(u-v)(t)\,dt\right|\le\|u-v\|_\infty,
+\]
+故 $d(u,M)\ge|a|$。若 $a=0$，则 $u\in M$，等式成立。对一般的 $a$，令
+\[
+k_\delta(t)=\frac{\min\{t/\delta,1\}}{1-\delta/2},\qquad0<\delta<1.
+\]
+则 $k_\delta\in V$，$\int_0^1k_\delta=1$，且 $\|k_\delta\|_\infty=(1-\delta/2)^{-1}$。于是 $v_\delta=u-ak_\delta\in M$，并且
+\[
+\|u-v_\delta\|_\infty=\frac{|a|}{1-\delta/2}\longrightarrow|a|.
+\]
+所以 $d(u,M)\le|a|$，得所需等式。
+
+2) 若 $u\notin M$，则 $a\ne0$。任取 $v\in M$，记 $h=u-v$ 和 $H=\|h\|_\infty$。由 $\int h=a\ne0$ 知 $H>0$，而 $h(0)=0$。由连续性，存在 $\eta\in(0,1)$，使 $|h(t)|\le H/2$ 对 $0\le t\le\eta$ 成立。因此
+\[
+|a|\le\int_0^1|h(t)|\,dt\le\frac{H\eta}{2}+H(1-\eta)<H.
+\]
+即 $\|u-v\|_\infty>|a|=d(u,M)$，所以没有达到距离的 $v\in M$。
+
+
+\end{document}

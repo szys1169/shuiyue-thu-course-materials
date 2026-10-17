@@ -1,0 +1,983 @@
+本章中，除非特别说明，标量域为 $\mathbb R$ 或 $\mathbb C$。所有由原题中“讲义第某页”才能确定、而题面没有给出具体陈述的题，均按要求保留题号并跳过。
+
+\section{第一次作业}
+
+\subsection*{1.1 完备子空间与闭子空间}
+\begin{problem}
+设 $(X,d_X)$ 为度量空间，$Y\subset X$，并用 $d_Y=d_X|_{Y\times Y}$ 表示 $Y$ 上的诱导距离。证明：
+\begin{enumerate}[label=(\arabic*)]
+\item 若 $(Y,d_Y)$ 完备，则 $Y$ 是 $X$ 的闭子集；
+\item 若 $(X,d_X)$ 完备且 $Y$ 是 $X$ 的闭子集，则 $(Y,d_Y)$ 完备。
+\end{enumerate}
+\end{problem}
+设 $d_Y=d_X|_{Y\times Y}$。
+
+（1）设 $(Y,d_Y)$ 完备。取 $x\in\overline Y$，则存在序列 $y_n\in Y$ 使 $d_X(y_n,x)\to0$。收敛序列必为 Cauchy 序列，故 $(y_n)$ 在 $Y$ 中是 Cauchy 序列。由 $Y$ 完备，存在 $y\in Y$ 使 $d_Y(y_n,y)\to0$。另一方面 $d_X(y_n,x)\to0$，而度量空间中极限唯一，所以 $x=y\in Y$。因此 $\overline Y\subset Y$，故 $Y$ 闭。
+
+（2）设 $X$ 完备且 $Y$ 闭。任取 $Y$ 中的 Cauchy 序列 $(y_n)$。因 $d_Y$ 是限制度量，它也是 $X$ 中的 Cauchy 序列，故存在 $x\in X$ 使 $y_n\to x$。由于 $Y$ 闭且 $y_n\in Y$，有 $x\in Y$。于是 $(y_n)$ 在 $Y$ 中收敛，故 $Y$ 完备。
+
+\subsection*{1.2 度量空间的完备化}
+\begin{problem}
+设 $(X,d)$ 为度量空间。称三元组 $(\widehat X,\widehat d,\iota)$ 为 $(X,d)$ 的完备化，如果 $(\widehat X,\widehat d)$ 完备，且 $\iota:X\to\widehat X$ 是具有稠密像的等距嵌入。证明：
+\begin{enumerate}[label=(\arabic*)]
+\item 若 $Y$ 完备、$\phi:X\to Y$ 为 $1$-Lipschitz 映射，则存在唯一的 $1$-Lipschitz 映射 $\widehat\phi:\widehat X\to Y$ 使 $\phi=\widehat\phi\circ\iota$；
+\item 任意两个完备化之间存在唯一的、与嵌入相容的等距映射；
+\item 完备化存在。提示：固定 $x_0\in X$，在 Banach 空间 $C_b(X)$ 中令
+$f_x(y)=d(y,x)-d(y,x_0)$，证明 $x\mapsto f_x$ 是等距嵌入，并取其像的闭包；
+\item 若 $\widehat X$ 完备，$\iota:X\to\widehat X$ 为 $1$-Lipschitz 映射且满足第 (1) 问的范性质，则 $(\widehat X,\widehat d,\iota)$ 是 $(X,d)$ 的完备化。
+\end{enumerate}
+\end{problem}
+为避免符号混淆，把完备化记为 $(\widehat X,\widehat d,\iota)$。
+
+（1）给定 $1$-Lipschitz 映射 $\phi:X\to Y$，其中 $Y$ 完备。对 $\widehat x\in\widehat X$，由 $\iota(X)$ 稠密，可取 $x_n\in X$ 使 $\iota(x_n)\to\widehat x$。由于
+\[
+d_Y(\phi(x_n),\phi(x_m))\le d(x_n,x_m)=\widehat d(\iota x_n,\iota x_m),
+\]
+$(\phi(x_n))$ 是 $Y$ 中的 Cauchy 序列。定义
+\[
+\widehat\phi(\widehat x):=\lim_{n\to\infty}\phi(x_n).
+\]
+若另有 $\iota(x_n')\to\widehat x$，则
+\[
+d_Y(\phi(x_n),\phi(x_n'))\le \widehat d(\iota x_n,\iota x_n')\to0,
+\]
+故定义与逼近序列无关。若 $\widehat x,\widehat z\in\widehat X$，分别以 $\iota x_n,\iota z_n$ 逼近，则
+\[
+d_Y(\widehat\phi(\widehat x),\widehat\phi(\widehat z))
+=\lim_n d_Y(\phi(x_n),\phi(z_n))
+\le\lim_n d(x_n,z_n)=\widehat d(\widehat x,\widehat z).
+\]
+所以 $\widehat\phi$ 为 $1$-Lipschitz，且显然 $\widehat\phi\circ\iota=\phi$。若 $\psi$ 也是这样的延拓，则 $\psi$ 与 $\widehat\phi$ 在稠密集 $\iota(X)$ 上相等；二者连续，故在 $\widehat X$ 上处处相等。
+
+（2）对 $\iota_2:X\to\widehat X_2$ 应用（1），得到唯一的 $1$-Lipschitz 映射 $\psi:\widehat X_1\to\widehat X_2$，满足 $\psi\iota_1=\iota_2$。交换下标得到 $\chi:\widehat X_2\to\widehat X_1$。于是 $\chi\psi$ 与 $\operatorname{id}_{\widehat X_1}$ 都延拓 $\iota_1$，由唯一性 $\chi\psi=\operatorname{id}$；同理 $\psi\chi=\operatorname{id}$。因为 $\psi,\chi$ 均为 $1$-Lipschitz，
+\[
+\widehat d_1(u,v)=\widehat d_1(\chi\psi u,\chi\psi v)
+\le\widehat d_2(\psi u,\psi v)\le\widehat d_1(u,v),
+\]
+故每个不等号都是等号，$\psi$ 是唯一的满射等距映射。
+
+（3）固定 $x_0\in X$，定义 $f_x(y)=d(y,x)-d(y,x_0)$。反三角不等式给出 $|f_x(y)|\le d(x,x_0)$，故 $f_x$ 有界；距离函数连续，故 $f_x\in C_b(X)$。又
+\[
+\|f_x-f_z\|_\infty
+=\sup_y|d(y,x)-d(y,z)|\le d(x,z).
+\]
+取 $y=x$，等号右侧在绝对值中达到：$|d(x,x)-d(x,z)|=d(x,z)$，所以
+\[
+\|f_x-f_z\|_\infty=d(x,z).
+\]
+故 $\iota:x\mapsto f_x$ 等距。$C_b(X)$ 在上确界范数下完备，因而闭子空间 $\overline{\iota(X)}$ 完备，而 $\iota(X)$ 在其中稠密。这便给出一个完备化。
+
+（4）题面中的同名空间改记为 $\widehat X$。取 $Y=\overline{\iota(X)}\subset\widehat X$。它是完备空间 $\widehat X$ 的闭子空间，故完备。由范性质，把映射 $\iota:X\to Y$ 延拓为 $1$-Lipschitz 映射 $r:\widehat X\to Y$，满足 $r\iota=\iota$。设 $j:Y\hookrightarrow\widehat X$ 为包含映射。则 $jr$ 与 $\operatorname{id}_{\widehat X}$ 均为 $\iota:X\to\widehat X$ 的 $1$-Lipschitz 延拓，由唯一性 $jr=\operatorname{id}_{\widehat X}$。因此每个 $\widehat x\in\widehat X$ 都属于 $j(Y)=Y$，即 $\iota(X)$ 稠密。故 $(\widehat X,\widehat d,\iota)$ 确为完备化。
+
+\subsection*{1.3 赋范空间的完备化仍是线性空间}
+\begin{problem}
+证明：赋范向量空间的完备化能够自然地赋予向量空间结构和范数，并在此结构下成为 Banach 空间。
+\end{problem}
+设 $X$ 的度量完备化由 Cauchy 序列等价类构成，等价关系为 $(x_n)\sim(y_n)$ 当且仅当 $\|x_n-y_n\|\to0$。定义
+\[
+[x_n]+[y_n]=[x_n+y_n],\qquad \lambda[x_n]=[\lambda x_n],
+\qquad \|[x_n]\|:=\lim_n\|x_n\|.
+\]
+若换取等价代表，三角不等式表明上述结果不变。例如
+$|\|x_n\|-\|y_n\||\le\|x_n-y_n\|\to0$，故范数定义良好。线性空间公理由逐项运算直接继承；正定性、齐次性、三角不等式由取极限得到。常值序列给出等距线性嵌入 $X\hookrightarrow\widehat X$，其像稠密。度量完备化本身完备，且该度量正是新范数诱导的度量，所以 $\widehat X$ 是 Banach 空间。
+
+\subsection*{1.4}
+\begin{problem}
+说明讲义第 8 页注 3 中的赋范线性空间 $X$ 不是完备的，并写出它的完备化空间。
+\end{problem}
+\textbf{依赖未提供讲义，按用户要求跳过。}题目所称“第 8 页注 3”中的空间 $X$ 未在题面给出，无法唯一确定其完备化。
+
+\subsection*{1.5 复测度的全变差}
+\begin{problem}
+设 $(X,\mathcal M,\mu)$ 为复测度空间。对 $E\in\mathcal M$ 定义
+\[
+|\mu|(E)=\sup\left\{\sum_{j\ge1}|\mu(E_j)|:
+E=\bigsqcup_{j\ge1}E_j, E_j\in\mathcal M\right\}.
+\]
+证明：
+\begin{enumerate}[label=(\alph*)]
+\item $|\mu|$ 是有限正测度；
+\item 令 $\mathcal C_m$ 为 $(X,\mathcal M)$ 上所有复测度组成的空间，并定义
+$\|\mu\|=|\mu|(X)$，则 $(\mathcal C_m,\|\cdot\|)$ 是 Banach 空间。
+\end{enumerate}
+\end{problem}
+记
+\[
+|\mu|(E)=\sup\left\{\sum_j|\mu(E_j)|:E=\bigsqcup_jE_j\right\}.
+\]
+（a）先证可列可加性。若 $E=\bigsqcup_n A_n$，对 $E$ 的任意分割 $E=\bigsqcup_jE_j$，令 $E_{jn}=E_j\cap A_n$，则
+\[
+\sum_j|\mu(E_j)|=\sum_j\left|\sum_n\mu(E_{jn})\right|
+\le\sum_n\sum_j|\mu(E_{jn})|\le\sum_n|\mu|(A_n).
+\]
+取上确界得 $|\mu|(E)\le\sum_n|\mu|(A_n)$。反之，给定 $\varepsilon>0$，对每个 $n$ 取 $A_n$ 的分割使其变差和大于 $|\mu|(A_n)-\varepsilon2^{-n}$；合并所有分割即得 $E$ 的分割，于是
+$|\mu|(E)\ge\sum_n|\mu|(A_n)-\varepsilon$。令 $\varepsilon\downarrow0$，得到等号。因此 $|\mu|$ 是正测度。
+
+还需证明其有限。复测度 $\mu$ 的实部、虚部都是有限的符号测度。由 Hahn 分解，$X$ 可分成有限个集合，使 $\operatorname{Re}\mu$ 与 $\operatorname{Im}\mu$ 在每块上各自符号固定（两次二分共至多四块）。记这些块为 $A_1,\dots,A_4$。对任意分割 $(E_j)$，在固定 $A_k$ 上，
+\[
+\sum_j|\mu(E_j\cap A_k)|
+\le\sum_j\bigl(|\operatorname{Re}\mu(E_j\cap A_k)|+|\operatorname{Im}\mu(E_j\cap A_k)|\bigr)
+\]
+而由于两部分符号固定，右端等于
+$|\operatorname{Re}\mu(A_k)|+|\operatorname{Im}\mu(A_k)|$。对 $k$ 求和得到一个与分割无关的有限上界，故 $|\mu|(X)<\infty$。
+
+（b）范数公理中只有完备性需详证。设 $(\mu_n)$ 在全变差范数下为 Cauchy。对每个 $E\in\mathcal M$，
+\[
+|\mu_n(E)-\mu_m(E)|\le |\mu_n-\mu_m|(E)\le\|\mu_n-\mu_m\|,
+\]
+故 $\mu(E):=\lim_n\mu_n(E)$ 存在。若 $E=\bigsqcup_jE_j$，给定 $\varepsilon>0$，取 $n$ 使 $\|\mu-\mu_n\|$ 尚未定义的问题通过下述一致估计处理：先由 Cauchy 性取 $N$，使 $m,n\ge N$ 时 $|\mu_m-\mu_n|(X)<\varepsilon$；令 $m\to\infty$，对任何有限分割有
+\[
+\sum_{j=1}^r|\mu(E_j)-\mu_n(E_j)|\le\varepsilon.
+\]
+再取这些有限分割的上确界，得 $|\mu-\mu_n|(X)\le\varepsilon$。这同时说明 $\mu-\mu_n$ 有有限全变差。用 $\mu_n$ 的可列可加性及尾项的全变差控制，即得 $\mu$ 可列可加。故 $\mu$ 是复测度，且 $\|\mu_n-\mu\|\to0$，所以该空间完备。
+
+\section{第二次作业}
+
+\subsection*{2.1 泛函范数不一定达到}
+\begin{problem}
+在 $C([-1,1])$ 上取上确界范数，并定义
+\[
+\Lambda(f)=\int_0^1f(t)\,dt-\int_{-1}^0f(t)\,dt.
+\]
+证明 $\|\Lambda\|=2$，但不存在 $\|f\|_\infty=1$ 的连续函数使 $|\Lambda(f)|=2$。
+\end{problem}
+对 $\|f\|_\infty\le1$，
+\[
+|\Lambda f|\le\int_0^1|f|+\int_{-1}^0|f|\le2,
+\]
+故 $\|\Lambda\|\le2$。令 $f_n$ 在 $[-1,-1/n]$ 上等于 $-1$，在 $[1/n,1]$ 上等于 $1$，并在 $[-1/n,1/n]$ 上线性连接，则 $\|f_n\|_\infty=1$ 且
+$\Lambda(f_n)=2-1/n\to2$，故 $\|\Lambda\|=2$。
+
+若某连续 $f$ 满足 $\|f\|_\infty=1$ 且 $|\Lambda f|=2$，更换 $f$ 的符号后可设 $\Lambda f=2$。上述两个三角不等式均须取等，因而 $f=1$ 在 $[0,1]$ 上几乎处处成立、$f=-1$ 在 $[-1,0]$ 上几乎处处成立。连续性把“几乎处处”提升为处处，特别得到 $f(0)=1$ 与 $f(0)=-1$，矛盾。
+
+\subsection*{2.2 $C(0,1]$ 与 $\ell^\infty$}
+\begin{problem}
+设 $C(0,1]$ 为 $(0,1]$ 上所有有界连续函数组成的空间，并令
+$\|f\|=\sup_{0<x\le1}|f(x)|$。证明：
+\begin{enumerate}[label=(\arabic*)]
+\item $\|\cdot\|$ 是 $C(0,1]$ 上的范数；
+\item $\ell^\infty$ 与 $C(0,1]$ 的某个子空间等距同构。
+\end{enumerate}
+\end{problem}
+（1）上确界范数的非负性、齐次性和三角不等式逐点成立后取上确界即得；若 $\|f\|=0$，则每点 $|f(x)|=0$，故 $f=0$。
+
+（2）取两两不交、在 $(0,1]$ 内仅向 $0$ 聚集的闭区间 $I_n$，例如以 $1/n$ 为中心取足够小的区间。取连续函数 $\varphi_n$，满足 $0\le\varphi_n\le1$、支集含于 $I_n$，且某点取值 $1$。定义
+\[
+T(a)(x)=\sum_{n=1}^\infty a_n\varphi_n(x),\qquad a=(a_n)\in\ell^\infty.
+\]
+因支集互不相交，每个 $x$ 至多有一项非零，故函数在 $(0,1]$ 上连续，且
+$\|T(a)\|_\infty=\sup_n|a_n|$。所以 $T$ 是从 $\ell^\infty$ 到 $C(0,1]$ 的线性等距嵌入，其像即所求子空间。
+
+\subsection*{2.3 $C^1[a,b]$ 上的 Sobolev 型范数}
+\begin{problem}
+在 $C^1[a,b]$ 上定义
+\[
+\|f\|_1=\left(\int_a^b(|f|^2+|f'|^2)\,dx\right)^{1/2}.
+\]
+证明它是范数，并判断 $(C^1[a,b],\|\cdot\|_1)$ 是否完备。
+\end{problem}
+（1）把 $J(f)=(f,f')$ 看成到 Hilbert 空间 $L^2[a,b]\oplus L^2[a,b]$ 的线性映射，则题设量就是 $\|J(f)\|$。齐次性和三角不等式随即成立。若其为零，则 $f=0$ 几乎处处；由连续性 $f\equiv0$，故它是范数。
+
+（2）不完备。取一个属于 $H^1[a,b]$ 但不属于 $C^1[a,b]$ 的函数，例如区间内部取 $c$，令 $f(x)=|x-c|$。用光滑函数 $f_n(x)=\sqrt{(x-c)^2+n^{-2}}$，则 $f_n\to f$ 于 $L^2$，且
+\[
+f_n'(x)=\frac{x-c}{\sqrt{(x-c)^2+n^{-2}}}\to \operatorname{sgn}(x-c)
+\]
+几乎处处并由 $1$ 控制，故导数也在 $L^2$ 中收敛。因此 $(f_n)$ 在题设范数下是 Cauchy 序列。若它在 $C^1$ 中收敛到 $g$，则 $g=f$ 几乎处处，连续性给出 $g=f$ 处处，但 $f$ 在 $c$ 不可微，矛盾。
+
+\subsection*{2.4 两个加权 $L^2$ 范数}
+\begin{problem}
+在 $C[0,1]$ 上定义
+\[
+\|f\|_1=\left(\int_0^1|f(x)|^2dx\right)^{1/2},\qquad
+\|f\|_2=\left(\int_0^1(1+x)|f(x)|^2dx\right)^{1/2}.
+\]
+证明这两个范数等价。
+\end{problem}
+因为 $1\le1+x\le2$，
+\[
+\|f\|_1^2\le\|f\|_2^2\le2\|f\|_1^2,
+\]
+故 $\|f\|_1\le\|f\|_2\le\sqrt2\|f\|_1$。两者都是由正权内积诱导的范数，因而等价。
+
+\subsection*{2.5 指数权范数}
+\begin{problem}
+设 $BC[0,\infty)$ 为 $[0,\infty)$ 上的有界连续函数空间。对 $a>0$ 定义
+\[
+\|f\|_a=\left(\int_0^\infty e^{-ax}|f(x)|^2dx\right)^{1/2}.
+\]
+证明它是范数；并证明当 $a,b>0$ 且 $a\ne b$ 时，$\|\cdot\|_a$ 与 $\|\cdot\|_b$ 不等价。
+\end{problem}
+（1）$e^{-ax}>0$，故积分平方根满足正定性；其余范数公理由加权 $L^2$ 范数得到。
+
+（2）设 $a<b$。总有 $\|f\|_b\le\|f\|_a$。若反向也等价，则存在 $C$ 使 $\|f\|_a\le C\|f\|_b$。取固定非零 $\varphi\in C_c[0,1]$，令 $f_n(x)=\varphi(x-n)$。换元 $u=x-n$ 得
+\[
+\frac{\|f_n\|_a^2}{\|f_n\|_b^2}
+=e^{(b-a)n}\frac{\int_0^1e^{-au}|\varphi(u)|^2du}{\int_0^1e^{-bu}|\varphi(u)|^2du}\to\infty,
+\]
+矛盾。$a>b$ 时交换二者即可。
+
+\subsection*{2.6 绝对收敛级数判别完备性}
+\begin{problem}
+设 $(X,\|\cdot\|)$ 为赋范空间。证明：$X$ 是 Banach 空间，当且仅当对任意 $(u_i)\subset X$，只要
+$\sum_{i\ge1}\|u_i\|<\infty$，就存在 $u\in X$ 使 $u=\sum_{i\ge1}u_i$。
+\end{problem}
+若 $X$ 完备且 $\sum\|u_i\|<\infty$，部分和 $s_n=\sum_{i=1}^nu_i$ 满足
+$\|s_m-s_n\|\le\sum_{i=n+1}^m\|u_i\|\to0$，故收敛。
+
+反之，设每个绝对收敛级数都收敛。给定 Cauchy 序列 $(x_n)$，选子列 $(x_{n_k})$ 使
+$\|x_{n_{k+1}}-x_{n_k}\|<2^{-k}$。于是
+\[
+x_{n_1}+\sum_{k=1}^\infty(x_{n_{k+1}}-x_{n_k})
+\]
+收敛，即子列 $x_{n_k}$ 收敛到某 $x$。原序列为 Cauchy，故也收敛到 $x$。因此 $X$ 完备。
+
+\section{第三次作业}
+
+\subsection*{3.1 上确界范数不是内积范数}
+\begin{problem}
+证明：在 $C[a,b]$ 上不可能定义内积 $(\cdot,\cdot)$，使
+$(f,f)^{1/2}=\max_{a\le x\le b}|f(x)|$ 对所有 $f\in C[a,b]$ 成立。
+\end{problem}
+内积诱导的范数必须满足平行四边形恒等式。取 $f(x)=1$，并取非恒定连续函数 $g$ 满足 $\|g\|_\infty=1$ 且值域含 $-1,1$（例如 $g$ 为区间的仿射标准化）。则
+$\|f\|=\|g\|=1$，而 $\|f+g\|=\|f-g\|=2$。于是左边为 $8$，右边 $2\|f\|^2+2\|g\|^2=4$，矛盾。
+
+\subsection*{3.2 $L^2$ 泛函的最大值}
+\begin{problem}
+在 $L^2[0,T]$ 的单位球面上求泛函
+\[
+f\longmapsto\int_0^T e^{-(T-t)}f(t)\,dt
+\]
+的最大值，并求达到最大值的函数 $f$。
+\end{problem}
+令 $h(t)=e^{-(T-t)}$。由 Cauchy--Schwarz，单位球面上
+\[
+\left|\int_0^Th(t)f(t)dt\right|\le\|h\|_2
+=\left(\int_0^Te^{-2(T-t)}dt\right)^{1/2}
+=\sqrt{\frac{1-e^{-2T}}2}.
+\]
+等号当且仅当 $f$ 与 $h$ 成比例。若求泛函本身的最大值，取
+\[
+f(t)=\frac{e^{-(T-t)}}{\sqrt{(1-e^{-2T})/2}}.
+\]
+其 $L^2$ 范数为 $1$，且达到上述正值；负号给出最小值。
+
+\subsection*{3.3 $L^\infty$ 不可分}
+\begin{problem}
+证明 $L^\infty$ 空间不是可分度量空间。
+\end{problem}
+在 $[0,1]$ 上，对每个二进制序列 $a=(a_n)$，令
+$E_a=\bigcup_{a_n=1}(2^{-n},2^{-n+1}]$，并令 $f_a=\mathbf1_{E_a}$。若 $a\ne b$，某个区间的示性值不同，故
+$\|f_a-f_b\|_\infty=1$。这样得到不可数个两两距离为 $1$ 的点。若空间可分，取可数稠密集，则半径 $1/3$ 的球必须覆盖空间，但每个球至多包含一个 $f_a$，不可能覆盖不可数族。因此不可分。一般非原子测度空间或含无限个不交正测集的情形同理。
+
+\subsection*{3.4 Hanner 不等式与一致凸性}
+\begin{problem}
+证明讲义第 23 页的 Hanner 不等式，并由此说明：当 $1<p<\infty$ 时，$L^p$ 空间一致凸。
+\end{problem}
+Hanner 不等式为：当 $1\le p\le2$ 时
+\[
+\|x+y\|_p^p+\|x-y\|_p^p
+\ge(\|x\|_p+\|y\|_p)^p+|\|x\|_p-\|y\|_p|^p,
+\]
+当 $2\le p<\infty$ 时不等号反向。其核心是一维 Hanner 引理：利用齐次性令 $a=1$、$0\le b\le1$，把两边之差记为 $G(b)$；对 $b$ 求导后，$G'(b)$ 的符号由 $t\mapsto t^{p-1}$ 的凸性（$p\ge2$）或凹性（$p\le2$）确定，再由端点 $G(1)=0$ 得所需方向。将该标量结论逐点应用，积分后用 Minkowski 不等式，便得到上述函数空间版本；复数情形将复数视作二维实向量即可。
+
+下面详细说明它如何推出一致凸。设 $\|x\|_p=\|y\|_p=1$ 且 $\|x-y\|_p\ge\varepsilon$。若 $p\ge2$，由 Hanner 不等式
+\[
+\|x+y\|_p^p+\|x-y\|_p^p\le2^p,
+\]
+故
+\[
+\left\|\frac{x+y}{2}\right\|_p
+\le\left(1-(\varepsilon/2)^p\right)^{1/p}<1.
+\]
+若 $1<p<2$，令 $q=p/(p-1)$。由 Hanner 不等式等价得到 Clarkson 估计
+\[
+\left\|\frac{x+y}{2}\right\|_p^q+
+\left\|\frac{x-y}{2}\right\|_p^q
+\le\left(\frac{\|x\|_p^p+\|y\|_p^p}{2}\right)^{q/p}=1.
+\]
+所以 $\|(x+y)/2\|_p\le(1-(\varepsilon/2)^q)^{1/q}<1$。两种情形都给出只依赖于 $p,\varepsilon$ 的严格缺口，故 $L^p$ 一致凸。
+
+\subsection*{3.5 $\sigma$-有限完备测度是可局部化的}
+\begin{problem}
+证明：若 $(X,\mathcal M,\mu)$ 是完备的 $\sigma$-有限测度空间，则 $\mu$ 是可局部化的。
+\end{problem}
+采用常用定义：若 $\mathcal E\subset\mathcal M$，则存在 $H\in\mathcal M$，使每个 $E\in\mathcal E$ 都满足 $E\setminus H$ 为零测集，且任何具有此性质的 $G$ 都满足 $H\setminus G$ 为零测集。
+
+由 $\sigma$-有限性，取 $X=\bigcup_nX_n$ 且 $\mu(X_n)<\infty$，并可令 $X_n$ 两两不交。固定 $n$，令
+\[
+s_n=\sup\{\mu(E\cap X_n):E\in\mathcal E\}.
+\]
+取 $E_{n,k}\in\mathcal E$ 使 $\mu(E_{n,k}\cap X_n)\to s_n$，置
+$H_n=X_n\cap\bigcup_kE_{n,k}$，$H=\bigcup_nH_n$。对任意 $E\in\mathcal E$，若
+$\mu((E\cap X_n)\setminus H_n)>0$，则把它加入某个近极大集合会使测度超过 $s_n$，矛盾；故 $E\setminus H$ 为零测集。若 $G$ 也是上界，则每个 $E_{n,k}\setminus G$ 为零集；可列并仍是零集，所以 $H\setminus G$ 是零集。完备性保证所出现零集的子集仍可测，故得到可局部化性。
+
+\subsection*{3.6}
+\begin{problem}
+证明讲义第 18 页中的结论 (i)、(ii)。
+\end{problem}
+\textbf{依赖未提供讲义，按用户要求跳过。}题面仅称“第 18 页中的 (i)(ii)”，没有给出结论。
+
+\section{第四次作业}
+
+\subsection*{4.1 Riemann 和作为网收敛}
+\begin{problem}
+查阅资料写出网（net）及网收敛的定义，并说明区间 $[a,b]$ 上 Riemann 可积可以表述为一族 Riemann 和的网收敛。
+\end{problem}
+有向集 $(A,\preceq)$ 是满足任意两元素都有共同上界的预序集。网是映射 $A\to X$，记作 $(x_\alpha)$；若对 $x$ 的每个邻域 $U$，存在 $\alpha_0$ 使 $\alpha\succeq\alpha_0$ 时 $x_\alpha\in U$，则称网收敛于 $x$。
+
+令 $A$ 为 $[a,b]$ 的所有带标记分割 $(P,\xi)$。规定 $(P',\xi')\succeq(P,\xi)$ 当 $P'$ 细分 $P$；也可用“网格直径更小”的预序。对应网为 Riemann 和
+\[
+S(P,\xi;f)=\sum_i f(\xi_i)(x_i-x_{i-1}).
+\]
+$f$ Riemann 可积且积分为 $I$，正是说对每个 $\varepsilon>0$，存在 $\delta>0$，使所有网格小于 $\delta$ 的带标记分割都满足 $|S-I|<\varepsilon$；这恰是上述 Riemann 和网收敛于 $I$。
+
+\subsection*{4.2 两个距离问题}
+\begin{problem}
+在装备上确界范数的 $C[0,1]$ 中令
+\[
+N=\left\{f:\int_0^1f(x)dx=0\right\},\quad
+X=\{f:f(0)=0\},\quad M=N\cap X.
+\]
+证明：
+\begin{enumerate}[label=(\arabic*)]
+\item 对任意 $u\in C[0,1]$，若 $\bar u=\int_0^1u(x)dx$，则
+$d(u,N)=|\bar u|$，且下确界在 $n=u-\bar u$ 处达到；
+\item 对 $u(x)=x\in X$，有 $d(x,M)=1/2$，但该下确界不在任何 $m\in M$ 处达到。
+\end{enumerate}
+\end{problem}
+（1）令 $\bar u=\int_0^1u(x)dx$。对任意 $n\in N$，
+\[
+|\bar u|=\left|\int_0^1(u-n)\right|\le\|u-n\|_\infty,
+\]
+故 $d(u,N)\ge|\bar u|$。另一方面 $n_0=u-\bar u\in N$，且
+$\|u-n_0\|_\infty=|\bar u|$，故等号成立且下确界达到。
+
+（2）对 $m\in M$，令 $h=x-m$。则 $h(0)=0$ 且 $\int_0^1h=1/2$，所以
+$1/2=|\int h|\le\|h\|_\infty$，得到下界。构造趋近者：给定 $\varepsilon>0$，取连续 $h_\varepsilon$，满足 $h_\varepsilon(0)=0$，在 $[\varepsilon,1]$ 上接近常数 $c_\varepsilon$，并调节 $c_\varepsilon$ 使 $\int h_\varepsilon=1/2$；例如令
+\[
+h_\varepsilon(x)=c_\varepsilon\min(x/\varepsilon,1),\qquad
+c_\varepsilon=\frac1{2(1-\varepsilon/2)}.
+\]
+则 $\|h_\varepsilon\|_\infty=c_\varepsilon\downarrow1/2$，而 $m_\varepsilon=x-h_\varepsilon\in M$，故距离为 $1/2$。若某 $m$ 达到下界，则 $h=x-m$ 连续、$h(0)=0$、$\|h\|_\infty=1/2$ 且 $\int h=1/2$。积分达到上界迫使 $h(x)=1/2$ 处处，与 $h(0)=0$ 矛盾，故不达到。
+
+\subsection*{4.3 正交补}
+\begin{problem}
+若 $A$ 是 Hilbert 空间的任意子集，证明 $A^\perp=(\overline A)^\perp$。若 $M$ 是 Hilbert 空间的线性子空间，证明 $M^{\perp\perp}=\overline M$。
+\end{problem}
+若 $x\in A^\perp$，则内积函数 $y\mapsto\langle x,y\rangle$ 连续，故它在 $\overline A$ 上仍为零，因而 $x\in(\overline A)^\perp$；反向包含显然，所以 $A^\perp=(\overline A)^\perp$。
+
+对线性子空间 $M$，显然 $\overline M\subset M^{\perp\perp}$。反之，若 $x\notin\overline M$，由 Hilbert 投影定理，$x=P_{\overline M}x+z$，其中 $z\ne0$ 且 $z\in M^\perp$。于是 $\langle x,z\rangle=\|z\|^2\ne0$，故 $x\notin M^{\perp\perp}$。因此 $M^{\perp\perp}=\overline M$。
+
+\subsection*{4.4 Hilbert 直和}
+\begin{problem}
+设 $H_1,H_2$ 为 Hilbert 空间。在
+$H_1\oplus H_2=\{(x_1,x_2):x_i\in H_i\}$ 上定义
+\[
+\langle(x_1,x_2),(y_1,y_2)\rangle
+=\langle x_1,y_1\rangle_{H_1}+\langle x_2,y_2\rangle_{H_2}.
+\]
+证明 $H_1\oplus H_2$ 是 Hilbert 空间，并求子空间 $\{(x_1,0):x_1\in H_1\}$ 的正交补。
+\end{problem}
+若 $(x_1^{(n)},x_2^{(n)})$ 为 Cauchy 序列，则
+$\|x_i^{(n)}-x_i^{(m)}\|\le\|(x_1^{(n)},x_2^{(n)})-(x_1^{(m)},x_2^{(m)})\|$，故两个坐标各自 Cauchy，并分别收敛到 $x_i\in H_i$。平方范数相加表明原序列收敛到 $(x_1,x_2)$，故直和完备。
+
+若 $(y_1,y_2)$ 与所有 $(x_1,0)$ 正交，则 $\langle y_1,x_1\rangle=0$ 对所有 $x_1$ 成立，取 $x_1=y_1$ 得 $y_1=0$。所以正交补恰为 $\{(0,y_2):y_2\in H_2\}$。
+
+\subsection*{4.5 可数正交直和}
+\begin{problem}
+设 $(H_n)_{n\ge1}$ 是 Hilbert 空间 $H$ 中两两正交的闭子空间，并定义
+\[
+\bigoplus_{n=1}^\infty H_n
+=\left\{\sum_{n=1}^\infty x_n:x_n\in H_n, 
+\sum_{n=1}^\infty\|x_n\|^2<\infty\right\}.
+\]
+证明 $\bigoplus_{n=1}^\infty H_n$ 是 $H$ 的闭线性子空间。
+\end{problem}
+令 $M$ 为所有可写成 $\sum_nx_n$、$x_n\in H_n$ 且 $\sum_n\|x_n\|^2<\infty$ 的元素。正交性给出勾股恒等式
+\[
+\left\|\sum_{n=1}^Nx_n\right\|^2=\sum_{n=1}^N\|x_n\|^2,
+\]
+所以级数收敛，且 $M$ 对加法、数乘封闭。
+
+若 $z_k=\sum_nx_n^{(k)}\in M$ 且 $z_k\to z$，则闭子空间 $H_n$ 的正交投影 $P_n$ 连续，故
+$x_n^{(k)}=P_nz_k\to P_nz=:x_n$。对每个 $N$，
+\[
+\sum_{n=1}^N\|x_n\|^2=\left\|\sum_{n=1}^NP_nz\right\|^2\le\|z\|^2.
+\]
+令 $N\to\infty$ 得平方可和。又 $s_N=\sum_{n=1}^Nx_n$ 收敛到某 $s\in M$。对每个 $n$，$P_n(z-s)=0$；而 $z_k\in M$ 且 $z_k\to z$ 可进一步用
+$\|z-s_N\|\le\|z-z_k\|+\|z_k-\sum_{n\le N}x_n^{(k)}\|+\sum_{n\le N}\|x_n^{(k)}-x_n\|$
+先选 $k$、再选 $N$ 得到 $s_N\to z$。故 $z=s\in M$，所以 $M$ 闭。
+
+\subsection*{4.6 $L^p$ 的凸投影定理}
+\begin{problem}
+写出并证明 $L^p$ 空间版本的凸投影定理：当 $1<p<\infty$ 时，对 $L^p$ 中每个非空闭凸集 $C$ 及每个 $f\in L^p$，存在唯一的 $g\in C$ 使 $\|f-g\|_p=d(f,C)$。
+\end{problem}
+设 $1<p<\infty$，$C\subset L^p$ 非空、闭、凸。则对每个 $f\in L^p$，存在唯一 $g\in C$ 使
+$\|f-g\|_p=d(f,C)$。
+
+取极小化序列 $g_n\in C$。$L^p$ 一致凸。设 $r=d(f,C)$；若 $r=0$，闭性立即给出 $f\in C$。若 $r>0$ 而 $(g_n)$ 非 Cauchy，则存在 $\varepsilon>0$ 及子列使 $\|g_n-g_m\|\ge\varepsilon$。归一化 $u_n=(f-g_n)/\|f-g_n\|$，当 $n,m$ 足够大时，二者范数为 $1$ 且相距有统一正下界。一致凸性给
+\[
+\left\|f-\frac{g_n+g_m}{2}\right\|
+\le(1-\delta)\frac{\|f-g_n\|+\|f-g_m\|}{2}<r,
+\]
+与中点属于 $C$ 及 $r$ 的定义矛盾。故 $g_n$ Cauchy，完备性与闭性给极限 $g\in C$。唯一性同样由一致凸性：两个不同极小点的中点会更近。
+
+\subsection*{4.7 无条件收敛但不绝对收敛}
+\begin{problem}
+设 $(x_n)$ 为 Hilbert 空间中的标准正交基。证明级数
+$\sum_{n=1}^\infty x_n/n$ 无条件收敛，但不绝对收敛。
+\end{problem}
+设 $(x_n)$ 为标准正交基。对任意有限集 $F$，
+\[
+\left\|\sum_{n\in F}\frac{x_n}{n}\right\|^2=\sum_{n\in F}\frac1{n^2}.
+\]
+因此按任意排列的尾和都由 $\sum1/n^2$ 的尾项控制，级数无条件收敛。但
+$\sum\|x_n/n\|=\sum1/n=\infty$，故不绝对收敛。
+
+\subsection*{4.8 可分性与可数正交基}
+\begin{problem}
+证明：Hilbert 空间作为度量空间可分，当且仅当它具有可数标准正交基。
+\end{problem}
+若有可数标准正交基 $(e_n)$，则所有有限有理（复数情形取有理实部虚部）线性组合构成可数稠密集，故 $H$ 可分。
+
+反之，设 $H$ 可分。取可数稠密集 $(x_n)$，依次删去落在此前线性张成闭包中的点，并对余下序列作 Gram--Schmidt，得到可数正交规范族 $(e_n)$。其闭线性张成包含每个 $x_n$，故等于 $H$；所以它是可数标准正交基。
+
+\subsection*{4.9 稠密子空间中的正交基}
+\begin{problem}
+若 $M$ 是可分 Hilbert 空间 $H$ 的稠密线性子空间，证明 $H$ 有一组完全由 $M$ 中元素组成的标准正交基。若 $M$ 仅为 $H$ 的任意稠密子集，结论是否仍成立？
+\end{problem}
+取 $M$ 中可数稠密集并按上一题作 Gram--Schmidt。因为 $M$ 是线性子空间，每次有限线性组合仍在 $M$，故所得正交基各元素都属于 $M$。
+
+若 $M$ 只是假定为任意稠密子集，结论不成立。在 $\mathbb R^2$ 中令
+\[
+D=\{(\cos(2\pi q\sqrt2),\sin(2\pi q\sqrt2)):q\in\mathbb Q\},\quad
+M=\{rd:r\in\mathbb Q_{>0},d\in D\}.
+\]
+$D$ 在单位圆上稠密，故 $M$ 在 $\mathbb R^2$ 稠密。若 $D$ 中两方向正交，则
+$2\pi(q-r)\sqrt2=\pi/2+k\pi$，从而 $(q-r)\sqrt2=1/4+k/2$；左边为零或无理数，右边是非零有理数，矛盾。因此 $M$ 不含正交基。
+
+\section{第五次作业}
+
+\subsection*{5.1}
+\begin{problem}
+证明讲义第 29 页中的命题 9。
+\end{problem}
+\textbf{依赖未提供讲义，按用户要求跳过。}题面没有给出“第 29 页命题 9”的陈述。
+
+\subsection*{5.2A Gram--Schmidt 与正交多项式}
+\begin{problem}
+设 $H$ 为 Hilbert 空间且所有多项式均属于 $H$。称 $(P_n)_{n\ge0}$ 为正交多项式系，如果
+$\mathcal P=\operatorname{span}\{1,x,x^2,\ldots\}\subset H$、$\deg P_n=n$，且
+$(P_m,P_n)=0$（$m\ne n$）。证明：
+\begin{enumerate}[label=(\arabic*)]
+\item 正交多项式系存在；
+\item 若 $(P_n)$ 与 $(\widetilde P_n)$ 是两个正交多项式系，则对每个 $n$ 存在非零标量 $c_n$ 使 $P_n=c_n\widetilde P_n$。
+\end{enumerate}
+\end{problem}
+对 $1,x,x^2,\ldots$ 作 Gram--Schmidt：
+\[
+P_0=1,\qquad P_n=x^n-\sum_{k<n}\frac{(x^n,P_k)}{(P_k,P_k)}P_k.
+\]
+减去项次数均小于 $n$，所以 $\deg P_n=n$，构造式又保证两两正交，正交多项式存在。若 $(P_n)$ 与 $(\widetilde P_n)$ 是两族，则二者的前 $n$ 项都张成 $\mathcal P_{n-1}$，而 $P_n,\widetilde P_n$ 都属于一维空间 $\mathcal P_n\cap\mathcal P_{n-1}^{\perp}$，故 $P_n=c_n\widetilde P_n$，$c_n\ne0$。
+
+\subsection*{5.2B Rodrigues 公式}
+\begin{problem}
+考虑 Sturm--Liouville 方程
+\[
+p(x)y''+q(x)y'+\lambda y=0,\qquad
+p(x)=\alpha x^2+\beta x+\gamma,quad q(x)=\mu x+\nu.
+\]
+证明：
+\begin{enumerate}[label=(\arabic*)]
+\item 若 $y_n=\sum_{j=0}^ng_jx^j$ 是方程的 $n$ 次多项式解，则
+$[n(n-1)\alpha+n\mu+\lambda]g_n=0$；
+\item 若 $w$ 满足 $(wp)'=wq$，则方程可写成
+$(wpy')'+\lambda wy=0$；
+\item Rodrigues 公式
+\[
+y_n(x)=\frac1{w(x)}\frac{d^n}{dx^n}\bigl(w(x)p(x)^n\bigr)
+\]
+在 $\lambda=-\frac{n(n-1)}2p''-nq'$ 时给出方程的解；
+\item 验证三种经典正交多项式的 Rodrigues 公式。
+\end{enumerate}
+\end{problem}
+若 $y_n=g_nx^n+$低次项，比较 $py''+qy'+\lambda y=0$ 的 $x^n$ 系数，得
+$[n(n-1)\alpha+n\mu+\lambda]g_n=0$。若 $(wp)'=wq$，乘 $w$ 即得
+$(wpy')'+\lambda wy=0$。令 $v=wp^n$、$y=w^{-1}v^{(n)}$，用 $p'''=q''=0$ 和 Leibniz 公式整理得
+\[
+(wpy')'+\lambda wy=
+\left(\lambda+nq'+\frac{n(n-1)}2p''\right)v^{(n)}.
+\]
+故题设 $\lambda$ 下它为解。三种典型选取
+\[
+(p,q,w)=(1-x^2,-2x,1),\quad(x,1-x,e^{-x}),\quad(1,-2x,e^{-x^2})
+\]
+分别给出 Legendre、Laguerre、Hermite 的 Rodrigues 公式。
+
+\subsection*{5.3 勒让德多项式}
+\begin{problem}
+定义 Legendre 多项式
+\[
+P_n(x)=\frac1{2^nn!}\frac{d^n}{dx^n}(x^2-1)^n.
+\]
+证明：
+\begin{enumerate}[label=(\arabic*)]
+\item $(P_n)$ 在 $L^2[-1,1]$ 中两两正交，且可由 $1,x,x^2,\ldots$ 作 Gram--Schmidt 得到；
+\item $\int_{-1}^1P_n(x)^2dx=2/(2n+1)$；
+\item $(P_n)$ 是 $L^2[-1,1]$ 的正交基；对 $f\in L^2[-1,1]$ 求
+$f=\sum_{n\ge0}c_nP_n$ 的 $c_n$，并说明收敛意义；
+\item $P_n$ 是算子 $L=-\frac d{dx}(1-x^2)\frac d{dx}$ 的特征函数，特征值为 $n(n+1)$。
+\end{enumerate}
+\end{problem}
+若 $m<n$，Rodrigues 公式分部积分 $n$ 次得
+\[
+\int_{-1}^1x^mP_n(x)dx=0.
+\]
+边界项消失，因为 $(x^2-1)^n$ 在端点连同前 $n-1$ 阶导数均为零，且 $D^nx^m=0$。故 $P_n$ 正交于一切低次多项式，亦即是 Gram--Schmidt 的结果（差归一化）。
+
+为计算范数，再把一个 $P_n$ 用 Rodrigues 公式表示并分部积分 $n$ 次。其首项系数及最高阶导数分别为
+\[
+\frac{(2n)!}{2^n(n!)^2},\qquad P_n^{(n)}=\frac{(2n)!}{2^nn!}.
+\]
+于是
+\[
+\int_{-1}^1P_n^2
+=\frac{(2n)!}{2^{2n}(n!)^2}\int_{-1}^1(1-x^2)^n dx.
+\]
+而 Beta 积分给出
+$\int_{-1}^1(1-x^2)^n dx=2^{2n+1}(n!)^2/(2n+1)!$，所以
+\[
+\int_{-1}^1P_n^2=\frac2{2n+1}.
+\]
+多项式在 $L^2[-1,1]$ 稠密，且 $P_0,\ldots,P_n$ 张成 $\mathcal P_n$，故它们是正交基，并且
+\[
+f=\sum_{n\ge0}c_nP_n,\qquad c_n=\frac{2n+1}{2}\int_{-1}^1fP_n,
+\]
+在 $L^2$ 范数意义下收敛。Legendre 方程的自伴随形式为
+$-D((1-x^2)P_n')=n(n+1)P_n$，故特征值为 $n(n+1)$。
+
+\subsection*{5.4 切比雪夫多项式}
+\begin{problem}
+在加权 Hilbert 空间
+\[
+H=\left\{f:[-1,1]\to\mathbb C:
+\int_{-1}^1\frac{|f(x)|^2}{\sqrt{1-x^2}}dx<\infty\right\}
+\]
+中取自然内积。定义 Chebyshev 多项式
+$T_n(x)=\cos(n\theta)$，其中 $x=\cos\theta$、$0\le\theta\le\pi$。证明 $(T_n)_{n\ge0}$ 是 $H$ 的正交基，并且
+$\|T_0\|=\sqrt\pi$、$\|T_n\|=\sqrt{\pi/2}$（$n\ge1$）。
+\end{problem}
+令 $x=\cos\theta$，则
+\[
+\langle T_m,T_n\rangle=\int_0^\pi\cos(m\theta)\cos(n\theta)d\theta.
+\]
+所以不同下标正交，$\|T_0\|=\sqrt\pi$，$\|T_n\|=\sqrt{\pi/2}$（$n\ge1$）。若 $f$ 与全部 $T_n$ 正交，则 $f(\cos\theta)$ 的偶延拓与所有 Fourier 指数正交，故为零；所以它们完备。
+
+\subsection*{5.5 Hermite 系统}
+\begin{problem}
+定义 Hermite 多项式
+\[
+H_n(x)=(-1)^ne^{x^2}\frac{d^n}{dx^n}e^{-x^2},\qquad
+\phi_n(x)=e^{-x^2/2}H_n(x).
+\]
+证明：
+\begin{enumerate}[label=(\arabic*)]
+\item $(\phi_n)_{n\ge0}$ 是 $L^2(\mathbb R)$ 的正交基；
+\item $\phi_n$ 是 $-d^2/dx^2+x^2$ 的特征函数，特征值为 $2n+1$；提示：使用 $A=d/dx+x$ 与 $A^*=-d/dx+x$；
+\item 生成函数满足
+\[
+G(x,t):=\sum_{n=0}^\infty H_n(x)\frac{t^n}{n!}
+=e^{x^2-(x-t)^2}=e^{2xt-t^2};
+\]
+\item 对酉 Fourier 变换
+$\mathcal F(f)(k)=(2\pi)^{-1/2}\int_{\mathbb R}f(x)e^{-ixk}dx$，证明
+$\mathcal F(\phi_n)=(-i)^n\phi_n$。
+\end{enumerate}
+\end{problem}
+Rodrigues 公式分部积分说明 $\phi_n=e^{-x^2/2}H_n$ 两两正交。若 $\varphi\perp\phi_n$，则
+$\int\varphi x^ne^{-x^2/2}=0$。整函数
+$F(z)=\int\varphi(x)e^{-x^2/2}e^{-izx}dx$ 的所有导数在 $0$ 为零，故 $F\equiv0$；Fourier 变换单射性给出 $\varphi=0$，所以系统完备。
+
+令 $A=D+x$、$A^*=-D+x$，则 $-D^2+x^2=A^*A+1$。由
+$A\phi_n=2n\phi_{n-1}$、$A^*\phi_{n-1}=\phi_n$ 得
+$(-D^2+x^2)\phi_n=(2n+1)\phi_n$。Taylor 展开给出
+\[
+G(x,t)=e^{x^2-(x-t)^2}=e^{2xt-t^2}=\sum_{n\ge0}H_n(x)t^n/n!.
+\]
+对 $e^{-x^2/2}G$ 作酉 Fourier 变换并比较 $t^n$ 系数，得到
+$\mathcal F\phi_n=(-i)^n\phi_n$。
+
+\section{第六次作业}
+
+\subsection*{6.1 $C^1(I)$ 的嵌入}
+\begin{problem}
+令 $I=[0,1]$，在 $C^1(I)$ 上定义
+$\|f\|_{C^1}=\sup_I|f|+\sup_I|f'|$。证明：
+\begin{enumerate}[label=(\arabic*)]
+\item $C^1(I)$ 在此范数下是 Banach 空间；
+\item 嵌入 $\iota:C^1(I)\to C(I)$ 是有界线性算子；
+\item 若 $B$ 是 $C^1(I)$ 的单位球，则 $\iota(B)$ 在 $C(I)$ 中的闭包紧；
+\item $\iota(B)$ 是否为 $C(I)$ 中的闭集？
+\item $\iota(C^1(I))$ 是否为 $C(I)$ 中的紧集？
+\end{enumerate}
+\end{problem}
+若 $(f_n)$ 在 $C^1$ 范数下 Cauchy，则 $f_n\to f$、$f_n'\to g$ 一致。由
+$f_n(t)-f_n(0)=\int_0^tf_n'$ 取极限，得 $f'=g$，故完备。又
+$\|\iota f\|_\infty\le\|f\|_{C^1}$，嵌入有界。单位球满足 $|f|\le1$ 及
+$|f(t)-f(s)|\le|t-s|$，故像族一致有界且等度连续，其闭包由 Arzelà--Ascoli 定理紧。
+
+单位球的像不是闭集：$|t-1/2|/2$ 可由适当缩放的光滑函数在单位球内一致逼近，却不属于 $C^1$。整个像也不紧，因为它包含任意大的常数函数，因而无界。
+
+\subsection*{6.2 连续核积分算子}
+\begin{problem}
+令 $K:I\times I\to\mathbb R$ 连续，并定义
+\[
+(T_Kf)(t)=\int_0^1K(t,s)f(s)ds.
+\]
+证明 $T_K:C(I)\to C(I)$ 连续；若 $B$ 是 $C(I)$ 的单位球，证明 $T_K(B)$ 的闭包紧。
+\end{problem}
+\[
+\|T_Kf\|_\infty\le\max|K|\,\|f\|_\infty,
+\quad |T_Kf(t)-T_Kf(t')|\le\sup_s|K(t,s)-K(t',s)|.
+\]
+第一式给连续性；第二式结合 $K$ 的一致连续性，说明单位球的像等度连续且一致有界，故闭包紧。
+
+\subsection*{6.3 严格压缩}
+\begin{problem}
+设 $(X,\rho)$ 为完备度量空间，$M\subset X$ 列紧，且 $f:X\to M$ 满足
+\[
+\rho(f(x_1),f(x_2))<\rho(x_1,x_2)\qquad(x_1\ne x_2).
+\]
+证明 $f$ 在 $X$ 中存在唯一不动点。
+\end{problem}
+令 $x_{n+1}=f(x_n)$，并记 $a_n=\rho(x_{n+1},x_n)$，则 $a_n$ 严格递减或已为零，故趋于 $a\ge0$。因 $x_n\in M$，取子列 $x_{n_k}\to p$，连续性给 $x_{n_k+1}\to f(p)$，故 $a=\rho(p,f(p))$。若 $p\ne f(p)$，再应用严格压缩得
+$\rho(f(p),f^2(p))<a$，与相邻距离均趋于 $a$ 矛盾。因此 $p$ 是不动点。两个不动点会直接违反严格压缩，故唯一。
+
+\subsection*{6.4 不定积分族}
+\begin{problem}
+设 $M$ 是 $C[a,b]$ 中的有界集。证明函数族
+\[
+\left\{F:F(x)=\int_a^xf(t)dt, f\in M\right\}
+\]
+是 $C[a,b]$ 中的预列紧集。
+\end{problem}
+若 $\|f\|_\infty\le C$，则 $|F(x)|\le C(b-a)$ 且
+$|F(x)-F(y)|\le C|x-y|$，故由 Arzelà--Ascoli 定理预列紧。
+
+\subsection*{6.5 正弦函数族}
+\begin{problem}
+证明 $E=\{\sin(nt):n\ge1\}$ 在 $C[0,\pi]$ 中不是列紧集。
+\end{problem}
+取 $s_n=\pi/(2n)$、$t_n=0$，距离趋零而函数值差恒为 $1$，所以任何频率趋于无穷的子列都不等度连续，因而无一致收敛子列。
+更具体地，假设存在一致收敛子列 $\sin(n_kt)$。一致收敛序列与其连续极限合在一起必等度连续：给定 $\varepsilon>0$，先用极限函数的一致连续性控制尾项，再逐个控制有限多个首项。可是令
+$s_k=\pi/(2n_k)$、$t_k=0$，则 $|s_k-t_k|\to0$，而
+\[
+|\sin(n_ks_k)-\sin(n_kt_k)|=|1-0|=1,
+\]
+与等度连续矛盾。因此原集合中序列 $(\sin nt)$ 没有一致收敛子列，$E$ 不是列紧集。
+
+\subsection*{6.6 完全有界与有界}
+\begin{problem}
+证明度量空间中的完全有界集一定有界；并以 $\ell^2$ 的标准基集合
+$E=\{e_k:k\ge1\}$ 说明有界集未必完全有界。
+\end{problem}
+用有限个单位球覆盖完全有界集，即得其有界。$\ell^2$ 标准基有界，而
+$\|e_j-e_k\|=\sqrt2$，故不能由有限个半径小于 $\sqrt2/2$ 的球覆盖，不完全有界。
+详细地说，若 $A\subset X$ 完全有界，取 $\varepsilon=1$，存在 $x_1,\ldots,x_N$ 使
+$A\subset\bigcup_{j=1}^NB(x_j,1)$。固定原点 $x_0$ 并令
+$R=1+\max_jd(x_j,x_0)$，则任意 $x\in A$ 均满足 $d(x,x_0)<R$，所以 $A$ 有界。
+另一方面，$\|e_k\|_2=1$，所以标准基集合有界。若它可由有限个半径 $1/2$ 的球覆盖，由抽屉原理某个球包含不同的 $e_j,e_k$，于是
+$\sqrt2=\|e_j-e_k\|_2\le\|e_j-c\|_2+\|e_k-c\|_2<1$，矛盾。因此它不完全有界。
+
+\subsection*{6.7 可分情形与依赖选择}
+\begin{problem}
+说明：对于可分的非空完备度量空间，Baire 纲定理的证明无需使用依赖选择公理。
+\end{problem}
+固定可数稠密集。嵌套球构造的每一步都按编号取第一个合适中心及第一个合适有理半径，便成为确定规则，不需依赖选择；完备性保证球心 Cauchy 序列收敛。
+
+\subsection*{6.8 超越数稠密}
+\begin{problem}
+利用 Baire 纲定理证明超越数在 $\mathbb R$ 中稠密。
+\end{problem}
+代数数可数，枚举为 $(a_n)$。每个 $\mathbb R\setminus\{a_n\}$ 开且稠密，故其交由 Baire 定理稠密；该交正是超越数集合。
+确切地，对任意非空开区间 $I$，把 $I$ 看成 $\mathbb R$ 的开子空间。集合
+$I\setminus\{a_n\}$ 在 $I$ 中开且稠密。Baire 定理给出
+\[
+I\cap\bigcap_{n=1}^\infty(\mathbb R\setminus\{a_n\})\ne\varnothing.
+\]
+所以每个开区间都含有超越数，这正说明超越数在 $\mathbb R$ 中稠密。
+
+\section{第七次作业}
+
+\subsection*{7.1 Baire 纲定理与依赖选择}
+\begin{problem}
+设 $X$ 为非空集合，映射 $A:X\to2^X$ 满足 $A(x)\ne\varnothing$。证明存在序列 $(x_n)\subset X$ 使 $x_{n+1}\in A(x_n)$。提示：在 $\mathcal X=X^{\mathbb N}$ 上定义
+\[
+d(\xi,\eta)=
+\begin{cases}
+0,&\xi=\eta,\\
+2^{-n},&n=\min\{k:x_k\ne y_k\},
+\end{cases}
+\]
+证明 $\mathcal X$ 完备；再令
+\[
+U_k=\{(x_n):\text{存在 }l>k\text{ 使 }x_l\in A(x_k)\},
+\]
+证明各 $U_k$ 开且稠密，并从 $\bigcap_kU_k$ 的元素构造所求序列。
+\end{problem}
+在 $\mathcal X=X^{\mathbb N}$ 上定义题设距离。三角不等式来自“两个序列第一次不同的位置不早于分别与第三个序列第一次不同位置的较小者”。若 $(\xi^r)$ 为 Cauchy 序列，则对每个 $k$，当 $r$ 足够大时其前 $k$ 项稳定；把各稳定坐标拼成 $\xi$，即有 $\xi^r\to\xi$，故 $\mathcal X$ 完备。
+
+$U_k$ 是开集，因为“某个 $l>k$ 满足 $x_l\in A(x_k)$”只依赖有限个坐标。它也稠密：给定任意基本柱集，即指定前 $N$ 个坐标，若 $k>N$ 可继续任意填写到第 $k$ 项，再在某个 $l>k$ 填入 $A(x_k)$ 的一个元素；若 $k\le N$，直接在 $N$ 后某个坐标填入 $A(x_k)$ 的元素。所得序列仍在原柱集中且属于 $U_k$。
+
+由 Baire 定理，取 $\xi=(x_j)\in\bigcap_kU_k$。递归取 $n_1=1$；已取 $n_r$ 后，由 $\xi\in U_{n_r}$，可取 $n_{r+1}>n_r$ 使
+$x_{n_{r+1}}\in A(x_{n_r})$。令 $y_r=x_{n_r}$，则 $y_{r+1}\in A(y_r)$，得到依赖选择所要求的序列。
+
+\subsection*{7.2 从离散射线收敛推出无穷远收敛}
+\begin{problem}
+设连续函数 $f:[0,\infty)\to\mathbb R$ 满足：对每个 $t>0$，
+$\lim_{n\to\infty}f(nt)=0$。证明 $\lim_{x\to\infty}f(x)=0$。提示：固定 $\varepsilon>0$，考虑
+\[
+A_n=\{t>0:|f(mt)|\le\varepsilon, \forall m\ge n\}.
+\]
+\end{problem}
+固定 $\varepsilon>0$，令
+\[
+A_n=\{t>0:|f(mt)|\le\varepsilon\text{ 对所有 }m\ge n\}.
+\]
+由假设 $\bigcup_nA_n=(0,\infty)$。每个 $A_n$ 是闭集，因为它是闭集
+$\{|f(mt)|\le\varepsilon\}$ 的可数交。$(0,\infty)$ 是 Baire 空间，故某个 $A_n$ 有非空内点；取闭区间 $[a,b]\subset A_n$。把 $n$ 增大而不改变包含关系，可设 $n(b-a)\ge a$。
+
+对任意 $x\ge na$，区间 $[x/b,x/a]$ 的长度足以包含一个整数 $m\ge n$；等价地可取 $m$ 使 $x/m\in[a,b]$。因 $x/m\in A_n$ 且 $m\ge n$，有
+$|f(x)|=|f(m(x/m))|\le\varepsilon$。所以 $f(x)\to0$。
+
+\subsection*{7.3 线性泛函连续性的判别}
+\begin{problem}
+设 $X$ 为无限维赋范空间，$\Lambda:X\to\mathbb R$ 为非零线性泛函。证明以下条件等价：
+\begin{enumerate}[label=(\arabic*)]
+\item $\Lambda$ 有界；
+\item $\ker\Lambda$ 是闭线性子空间；
+\item $\ker\Lambda$ 在 $X$ 中不稠密。
+\end{enumerate}
+\end{problem}
+若 $\Lambda$ 有界，则连续，故 $\ker\Lambda=\Lambda^{-1}(\{0\})$ 闭。若核闭且 $\Lambda\ne0$，取 $x_0$ 使 $\Lambda x_0=1$。到闭集的距离
+$d(x_0,\ker\Lambda)=c>0$。对任意 $x$，有 $x-\Lambda(x)x_0\in\ker\Lambda$，所以当 $\Lambda(x)\ne0$ 时
+\[
+c\le d(x_0,\ker\Lambda)\le\left\|x_0-\frac{x}{\Lambda(x)}\right\|
+=\frac{\|x-\Lambda(x)x_0\|}{|\Lambda(x)|},
+\]
+更直接地将 $x/\Lambda(x)$ 与 $x_0$ 的同陪集比较可得
+$|\Lambda(x)|\le c^{-1}\|x\|$，故有界。最后，闭的真线性子空间不稠密，所以闭核不稠密；反之，若核不闭，则其闭包仍是线性子空间。由于核为余维一，包含核的线性子空间只有核和全空间；核若非闭，其闭包只能是全空间，故稠密。三者等价。
+
+\subsection*{7.4 乘子判别 $\ell^1$}
+\begin{problem}
+设数列 $(x_n)$ 满足：对任意满足 $y_n\to0$ 的数列 $(y_n)$，级数
+$\sum_{n\ge1}x_ny_n$ 都收敛。证明 $\sum_{n\ge1}|x_n|<\infty$。
+\end{problem}
+对 $N\ge1$ 定义 $T_N:c_0\to\mathbb F$，
+$T_N(y)=\sum_{n=1}^Nx_ny_n$。题设说明对每个 $y\in c_0$，数列 $T_N(y)$ 收敛，故
+$\sup_N|T_N(y)|<\infty$。由一致有界原理，$\sup_N\|T_N\|<\infty$。而
+\[
+\|T_N\|=\sum_{n=1}^N|x_n|,
+\]
+因为上界由三角不等式得到，下界取有限支集序列 $y_n=\operatorname{sgn}(x_n)$（复数时取相位共轭）。故部分和有统一上界，$\sum|x_n|<\infty$。
+
+\subsection*{7.5}
+\begin{problem}
+令 $X$ 为 $(0,1)$ 上所有实系数多项式的空间，赋予 $L^1(0,1)$ 范数，并定义
+\[
+B(f,g)=\int_0^1f(t)g(t)dt,\qquad f,g\in X.
+\]
+证明：$B$ 满足讲义第 46 页共轭双线性定理中的性质 c，但 $B$ 不是有界双线性泛函。此题旨在说明该定理中“$X$ 为 Banach 空间”的条件不可删去。
+\end{problem}
+\textbf{依赖未提供讲义，按用户要求跳过。}题目要求验证“讲义第 46 页性质 c”，但题面没有陈述性质 c，无法确定应证结论。
+
+\section{第八次作业}
+
+\subsection*{8.1 Fourier 部分和不必一致收敛}
+\begin{problem}
+令 $C(\mathbb R/2\pi\mathbb Z,\mathbb C)$ 为装备上确界范数的 $2\pi$ 周期复连续函数空间。
+\begin{enumerate}[label=(\arabic*)]
+\item 定义 Dirichlet 核
+\[
+D_n(t)=\sum_{k=-n}^ne^{ikt}
+=\frac{\sin((n+\tfrac12)t)}{\sin(t/2)}.
+\]
+证明 $\|D_n\|_{L^1}\ge\frac8\pi\sum_{k=1}^n1/k$；
+\item 对 Fourier 部分和算子
+\[
+(F_nf)(x)=(D_n*f)(x)
+=\sum_{k=-n}^n\int_0^{2\pi}f(t)e^{ik(x-t)}dt
+\]
+证明 $\|F_n\|=\|D_n\|_{L^1}$（采用题目的卷积归一化）；
+\item 利用一致有界性原理证明存在连续周期函数 $f$，使 $F_n(f)$ 不一致收敛。
+\end{enumerate}
+\end{problem}
+（1）利用偶性及 $0<t\le\pi$ 时 $\sin(t/2)\le t/2$，令 $N=n+1/2$，则
+\[
+\|D_n\|_1
+=2\int_0^\pi\frac{|\sin Nt|}{\sin(t/2)}dt
+\ge4\int_0^{N\pi}\frac{|\sin u|}{u}du.
+\]
+对 $k=0,\ldots,n-1$，在 $[k\pi,(k+1)\pi]$ 上有 $u\le(k+1)\pi$，且该区间上 $|\sin u|$ 的积分为 $2$。逐段相加得到
+\[
+\|D_n\|_{L^1}\ge\frac8\pi\sum_{k=1}^n\frac1k.
+\]
+关键是调和和发散，故 $\|D_n\|_1\to\infty$。
+
+（2）卷积不等式给
+$\|F_nf\|_\infty\le\|D_n\|_1\|f\|_\infty$，故 $\|F_n\|\le\|D_n\|_1$。固定 $x_0$，连续逼近
+$t\mapsto\overline{D_n(x_0-t)}/|D_n(x_0-t)|$（在零点附近平滑处理），可使单位上确界范数函数的卷积值任意接近 $\int|D_n|$，故反向不等式成立。这里常数依题目采用的卷积归一化；按题设约定恰为上述等式。
+
+（3）由（1）（2），$\sup_n\|F_n\|=\infty$。一致有界性原理的逆否命题给出某个
+$f\in C(\mathbb T)$，使 $\sup_n\|F_nf\|_\infty=\infty$。若 $F_nf$ 一致收敛，则其范数必有界，矛盾。因此该连续函数的 Fourier 级数不一致收敛。
+
+\subsection*{8.2 Riemann--Lebesgue 引理与 Fourier 映射}
+\begin{problem}
+对 $f\in L^1([0,2\pi],\mathbb C)$ 定义
+$\widehat f(k)=\int_0^{2\pi}e^{-ikt}f(t)dt$。
+\begin{enumerate}[label=(\arabic*)]
+\item 证明 Riemann--Lebesgue 引理：$|\widehat f(k)|\to0$（$|k|\to\infty$）；
+\item 证明 Fourier 映射
+$F:L^1([0,2\pi],\mathbb C)\to c_0(\mathbb Z,\mathbb C)$ 有稠密像但不是满射。提示：使用上题 Dirichlet 核的 Fourier 系数。
+\end{enumerate}
+\end{problem}
+（1）先对阶梯函数或三角多项式直接计算，得 Fourier 系数在 $|k|\to\infty$ 时趋零。给定
+$f\in L^1$ 与 $\varepsilon>0$，取阶梯函数 $g$ 使 $\|f-g\|_1<\varepsilon$，则
+\[
+|\widehat f(k)-\widehat g(k)|\le\|f-g\|_1<\varepsilon.
+\]
+令 $|k|$ 足够大使 $|\widehat g(k)|<\varepsilon$，便有 $|\widehat f(k)|<2\varepsilon$。
+
+（2）由（1）及 $|\widehat f(k)|\le\|f\|_1$，$F:L^1\to c_0$ 有界。有限支集序列是三角多项式的 Fourier 系数，故包含于像中；它们在 $c_0$ 稠密，所以像稠密。
+
+若 $F$ 满射，由开映射定理，存在 $C$，使每个 $a\in c_0$ 都有原像 $f$ 满足
+$\|f\|_1\le C\|a\|_\infty$。取 $a^{(n)}$ 为 Dirichlet 核的 Fourier 系数，即在 $[-n,n]$ 为 $1$、其余为 $0$，则 $\|a^{(n)}\|_\infty=1$。Fourier 变换在 $L^1$ 上单射，所以其唯一原像为 $D_n$（按同一归一化），这迫使 $\|D_n\|_1\le C$，与 8.1 矛盾。因此不满射。
+
+\subsection*{8.3 三大定理需要完备性}
+\begin{problem}
+令 $X=\mathbb R^\infty$ 为所有有限支集实序列组成的线性空间，并定义
+$\|x\|_1=\sum_i|x_i|$、$\|x\|_\infty=\sup_i|x_i|$。证明：
+\begin{enumerate}[label=(\arabic*)]
+\item $\Lambda_n(x)=nx_n$ 对每个 $n$ 都有界，且对每个 $x$ 有
+$\sup_n|\Lambda_n(x)|<\infty$，但 $\sup_n\|\Lambda_n\|=\infty$；这对两种范数都成立；
+\item $\operatorname{id}:(X,\|\cdot\|_1)\to(X,\|\cdot\|_\infty)$ 有界，但其逆无界；
+\item $\operatorname{id}:(X,\|\cdot\|_\infty)\to(X,\|\cdot\|_1)$ 图像闭，但算子无界。
+\end{enumerate}
+\end{problem}
+（1）对两种范数，$\Lambda_n(x)=nx_n$ 都有界；固定有限支集 $x$，只有有限多个 $x_n$ 非零，故
+$\sup_n|nx_n|<\infty$。在 $\ell^1$ 范数下 $\|\Lambda_n\|=n$（取 $e_n$）；在上确界范数下也为 $n$，故算子范数无界。
+
+（2）因 $\|x\|_\infty\le\|x\|_1$，恒等映射
+$(X,\|\cdot\|_1)\to(X,\|\cdot\|_\infty)$ 有界。逆映射无界，因为对
+$x^{(N)}=(1,\ldots,1,0,\ldots)$，有 $\|x^{(N)}\|_\infty=1$、$\|x^{(N)}\|_1=N$。
+
+（3）反向恒等映射无界如上。其图像闭：若 $x^{(m)}\to x$ 于上确界范数且
+$x^{(m)}\to y$ 于 $\ell^1$ 范数，则后一收敛蕴含上确界收敛，所以 $x=y$，即极限点仍在恒等映射的图像中。
+
+\subsection*{8.4}
+\begin{problem}
+证明讲义第 50 页注 1 的结论。
+\end{problem}
+\textbf{依赖未提供讲义，按用户要求跳过。}题面未写出“第 50 页注 1”的结论。
+
+\subsection*{8.5 有下界的满射}
+\begin{problem}
+设 $X,Y$ 为 Banach 空间，$U\in\mathcal L(X,Y)$，且对每个 $y\in Y$ 方程 $Ux=y$ 有解。若存在 $m>0$ 使
+$\|Ux\|\ge m\|x\|$ 对所有 $x\in X$ 成立，证明 $U$ 有连续逆且
+$\|U^{-1}\|\le1/m$。
+\end{problem}
+$U$ 满射且 $\|Ux\|\ge m\|x\|$。若 $Ux=0$，则 $x=0$，故单射；于是逆映射在全体 $Y$ 上定义。对 $y=Ux$，
+\[
+\|U^{-1}y\|=\|x\|\le m^{-1}\|Ux\|=m^{-1}\|y\|.
+\]
+所以 $U^{-1}$ 连续且 $\|U^{-1}\|\le1/m$。
+
+\section{第九次作业}
+
+\subsection*{9.1 范数等价定理及 $L^1$ 范数下的 $C[0,1]$}
+\begin{problem}
+证明范数等价定理（讲义第 52 页推论 3），并利用它证明
+$(C[0,1],\|\cdot\|_{L^1})$ 不是 Banach 空间。
+\end{problem}
+范数等价定理的常用形式为：若同一线性空间 $X$ 在范数 $\|\cdot\|_1,\|\cdot\|_2$ 下都是 Banach 空间，且存在 $C$ 使
+$\|x\|_2\le C\|x\|_1$，则两范数等价。事实上恒等映射
+$I:(X,\|\cdot\|_1)\to(X,\|\cdot\|_2)$ 是连续双射，由开映射定理，其逆连续，故有反向估计。
+
+在 $C[0,1]$ 上，$\|f\|_{L^1}\le\|f\|_\infty$。若 $L^1$ 范数使它成为 Banach 空间，则上一定理会给出 $\|f\|_\infty\le C\|f\|_1$。取 $f_n(x)=x^n$，则
+$\|f_n\|_\infty=1$ 而 $\|f_n\|_1=1/(n+1)\to0$，矛盾。因此不完备。
+
+\subsection*{9.2 用闭图像定理推出逆算子和开映射定理}
+\begin{problem}
+利用闭图像定理证明逆算子定理，并进一步证明开映射定理。
+\end{problem}
+设 $T:X\to Y$ 是 Banach 空间间的有界双射。若 $y_n\to y$ 且 $T^{-1}y_n\to x$，则由 $T$ 连续，
+$y_n=T(T^{-1}y_n)\to Tx$，极限唯一给 $Tx=y$，即 $T^{-1}y=x$。所以 $T^{-1}$ 图像闭；闭图像定理给出 $T^{-1}$ 有界，这就是逆算子定理。
+
+若 $T:X\to Y$ 只是有界满射，商空间 $X/\ker T$ 是 Banach 空间，诱导映射
+$\widetilde T:X/\ker T\to Y$ 是有界双射。由逆算子定理，$\widetilde T^{-1}$ 连续，故 $\widetilde T$ 为开映射。商映射 $X\to X/\ker T$ 也开，因此 $T$ 开，这就是开映射定理。
+
+\subsection*{9.4}
+\begin{problem}
+完善判别可补充空间的充分条件，即讲义第 57 页中的引理。
+\end{problem}
+\textbf{依赖未提供讲义，按用户要求跳过。}题面没有写出“第 57 页中的引理”的陈述。
+
+\subsection*{9.5 闭算子的基本性质}
+\begin{problem}
+设 $X,Y$ 为赋范空间，$D\subset X$ 为线性子空间，$A:D\to Y$ 为线性映射。证明：
+\begin{enumerate}[label=(\arabic*)]
+\item 若 $A$ 连续且 $D$ 闭，则 $A$ 是闭算子；
+\item 若 $A$ 连续且为闭算子，则 $Y$ 完备蕴含 $D$ 闭；
+\item 若 $A$ 是单射闭算子，则 $A^{-1}$ 也是闭算子；
+\item 若 $X$ 完备，$A$ 是单射闭算子，$R(A)$ 在 $Y$ 中稠密且 $A^{-1}$ 连续，则 $R(A)=Y$。
+\end{enumerate}
+\end{problem}
+（1）设 $x_n\in D$、$x_n\to x$ 于 $X$、$Ax_n\to y$ 于 $Y$。$D$ 闭给 $x\in D$，而连续性给 $Ax_n\to Ax$，故 $y=Ax$，图像闭。
+
+（2）假设 $A$ 连续且图像闭，$Y$ 完备。若 $x_n\in D$ 且 $x_n\to x$，则 $(x_n)$ Cauchy；连续性使 $(Ax_n)$ 在 $Y$ 中 Cauchy，故收敛到某 $y$。闭图像性给 $x\in D$ 且 $Ax=y$，所以 $D$ 闭。
+
+（3）若 $A$ 单射，则
+\[
+\operatorname{Graph}(A^{-1})=\{(Ax,x):x\in D\}
+\]
+是 $\operatorname{Graph}(A)$ 交换两个坐标后的像。坐标交换是 $X\times Y$ 与 $Y\times X$ 间的同胚，故前者闭。
+
+（4）$A^{-1}:R(A)\to X$ 连续。若 $y_n=Ax_n\in R(A)$ 且 $y_n\to y$，则
+$x_n=A^{-1}y_n$ 为 Cauchy；$X$ 完备，故 $x_n\to x$。闭图像性给 $x\in D$ 且 $Ax=y$，所以 $y\in R(A)$。故 $R(A)$ 闭；它又稠密，只能等于 $Y$。
+
+\subsection*{9.6 弱导数与 $H^1$}
+\begin{problem}
+令 $T=\partial/\partial x$，初始定义域为 $C^1[a,b]\subset L^2[a,b]$。
+\begin{enumerate}[label=(\arabic*)]
+\item 证明 $T$ 可闭；提示：使用
+$f(x)-f(a)=\int_a^xf'(t)dt$；
+\item 若
+\[
+\operatorname{Graph}(\overline T)=
+\{(f,g):\exists f_n\in C^1[a,b], f_n\to f, f_n'\to g\text{ 于 }L^2\},
+\]
+证明它等于 $\{(f,f'):f\in H^1[a,b]\}$，其中
+$H^1[a,b]=\{f\in AC[a,b]:f'\in L^2[a,b]\}$；
+\item 在范数 $\|f\|_{H^1}^2=\|f\|_{L^2}^2+\|f'\|_{L^2}^2$ 下，若
+$H_0^1[a,b]$ 是 $C_c^\infty(a,b)$ 的闭包，说明 $H_0^1[a,b]$ 与 $H^1[a,b]$ 的差别。
+\end{enumerate}
+\end{problem}
+（1）把 $T$ 看成从 $L^2[a,b]$ 到 $L^2[a,b]$、定义域为 $C^1[a,b]$ 的算子。若
+$f_n\to0$、$f_n'\to g$ 于 $L^2$，则对任意 $\varphi\in C_c^\infty(a,b)$，
+\[
+\int g\varphi=\lim_n\int f_n'\varphi=-\lim_n\int f_n\varphi'=0.
+\]
+故 $g=0$，所以 $T$ 可闭。
+
+（2）若 $f_n\to f$、$f_n'\to g$ 于 $L^2$，同样分部积分得
+$\int f\varphi'=-\int g\varphi$，故 $g$ 是 $f$ 的弱导数。区间上一维 Sobolev 定理说明 $f$ 有绝对连续代表且经典导数为 $g\in L^2$，所以 $f\in H^1$。反之，对 $H^1$ 函数作延拓后用光滑核卷积，得到 $C^1$（甚至光滑）函数同时在函数和导数的 $L^2$ 范数下逼近它。因此闭包图像恰为
+$\{(f,f'):f\in H^1[a,b]\}$。
+
+（3）迹映射 $\operatorname{Tr}:H^1[a,b]\to\mathbb F^2$，$f\mapsto(f(a),f(b))$ 连续。每个
+$C_c^\infty(a,b)$ 的两个迹都为零，故
+$H_0^1\subset\{f\in H^1:f(a)=f(b)=0\}$。反之，零边界值的 $H^1$ 函数先在端点外作零延拓，再卷积并截断，可由 $C_c^\infty(a,b)$ 在 $H^1$ 中逼近。因此
+\[
+H_0^1[a,b]=\{f\in H^1[a,b]:f(a)=f(b)=0\}.
+\]
+所以 $H_0^1$ 比 $H^1$ 多了两个齐次边界条件，是后者的闭子空间；例如常数函数 $1$ 属于 $H^1$ 但不属于 $H_0^1$。
+

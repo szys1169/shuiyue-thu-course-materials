@@ -1,0 +1,337 @@
+\documentclass{article}
+\usepackage[UTF8]{ctex}
+\usepackage{sectsty}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{mathrsfs}
+\usepackage{graphicx}
+
+\title{泛函分析作业（第一周）}
+\author{张溢致 2024011936}
+
+\begin{document}
+\maketitle
+
+\textbf{1.} 设 $A\in M_{m\times n}(\mathbb R)$，定义映射 $T:\mathbb R^n\to\mathbb R^m$ 为 $T(x)=Ax$。
+
+(1) 在 $\mathbb R^k$ 上取欧式度量。证明 $T$ 为 Lipschitz 连续并求最佳 Lipschitz 常数。
+
+(2) 在 $\mathbb R^k$ 上取度量 $d(x,y)=\sum_{j=1}^k|x_j-y_j|$。证明 $T$ 为 Lipschitz 连续并求最佳 Lipschitz 常数。
+
+\textbf{解：}
+
+记 $A=(a_{ij})\in M_{m\times n}(\mathbb R)$，并令 $T(x)=Ax$。
+
+(1) 对 $x,y\in\mathbb R^n$，由矩阵诱导的欧氏算子范数定义
+\[
+\|A\|_{2\to2}=\sup_{\|z\|_2=1}\|Az\|_2
+\]
+可得
+\[
+d(Tx,Ty)=\|A(x-y)\|_2\leq \|A\|_{2\to2}\|x-y\|_2.
+\]
+因此 $T$ 是 Lipschitz 映射。若 $A\ne0$，单位球面是紧集，故上确界可在某个单位向量 $z_0$ 处取到；对任意 $L$ 满足
+\(\|Ax-Ay\|_2\leq L\|x-y\|_2\)，取 $x=z_0,y=0$ 得
+\(\|A\|_{2\to2}=\|Az_0\|_2\leq L\)。故最小 Lipschitz 常数恰为 $\|A\|_{2\to2}$。若 $A=0$，最小常数为 $0$。又
+\[
+\|A\|_{2\to2}=\sqrt{\lambda_{\max}(A^{\mathsf T}A)},
+\]
+其中 $\lambda_{\max}$ 是对称半正定矩阵 $A^{\mathsf T}A$ 的最大特征值。
+
+(2) 在定义域 $\mathbb R^n$ 和陪域 $\mathbb R^m$ 上均取 $\ell^1$ 度量。设 $z=x-y$，则
+\[
+\|Az\|_1=\sum_{i=1}^m\left|\sum_{j=1}^n a_{ij}z_j\right|
+\leq\sum_{j=1}^n\left(\sum_{i=1}^m|a_{ij}|\right)|z_j|
+\leq\left(\max_{1\leq j\leq n}\sum_{i=1}^m|a_{ij}|\right)\|z\|_1.
+\]
+令 $j_0$ 是列绝对值和最大的列，取 $z=e_{j_0}$，则
+\(\|Az\|_1=\sum_i|a_{ij_0}|\)，而 $\|z\|_1=1$。所以最小 Lipschitz 常数是
+\[
+\|A\|_{1\to1}=\max_{1\leq j\leq n}\sum_{i=1}^m|a_{ij}|.
+\]
+
+\textbf{2.} 设 $k\in\mathbb N$。在 $C^k[0,1]$ 上定义
+\[
+d(f,g)=\sum_{j=0}^k\|f^{(j)}-g^{(j)}\|_\infty,\qquad
+\rho(f,g)=\max\{\|f^{(j)}-g^{(j)}\|_\infty:0\leq j\leq k\}.
+\]
+(1) 证明 $d$ 与 $\rho$ 均为 $C^k[0,1]$ 上的度量且等价，即存在 $C\geq1$ 使 $d(f,g)/C\leq\rho(f,g)\leq Cd(f,g)$。
+
+(2) 证明度量空间 $(C^k[0,1],d)$ 完备。
+
+\textbf{解：}
+
+（1）对任意 $f,g\in C^k[0,1]$，逐项有
+\[
+\rho(f,g)\leq d(f,g)\leq (k+1)\rho(f,g),
+\]
+因为最大项不大于各项之和，而 $d$ 中一共恰有 $k+1$ 项。因此
+\[
+\frac{1}{k+1}d(f,g)\leq\rho(f,g)\leq d(f,g).
+\]
+取 $C=k+1$ 即满足题目要求，且这两个度量诱导相同的收敛和柯西列。
+
+（2）设 $(f_n)$ 是 $d$-柯西列。由
+\(\|f_n^{(j)}-f_m^{(j)}\|_\infty\leq d(f_n,f_m)\)，对每个 $j=0,1,\ldots,k$，序列 $(f_n^{(j)})$ 都是 $C[0,1]$ 中的一致柯西列。由于一致范数下 $C[0,1]$ 完备，存在 $g_j\in C[0,1]$ 使 $f_n^{(j)}\to g_j$ 一致。
+
+对 $j=0,\ldots,k-1$，由微积分基本定理
+\[
+f_n^{(j)}(x)-f_n^{(j)}(0)=\int_0^x f_n^{(j+1)}(t)\,dt.
+\]
+令 $n\to\infty$。一致收敛保证等式两边分别收敛，且
+\[
+g_j(x)-g_j(0)=\int_0^x g_{j+1}(t)\,dt.
+\]
+因 $g_{j+1}$ 连续，故 $g_j$ 可微且 $g_j'=g_{j+1}$。逐次应用可知 $g_0\in C^k[0,1]$ 且 $g_0^{(j)}=g_j$。于是
+\[
+d(f_n,g_0)=\sum_{j=0}^k\|f_n^{(j)}-g_j\|_\infty\longrightarrow0,
+\]
+这证明该空间完备。
+
+\textbf{3.} 令 $\mathcal C=\{E\subset\mathbb R:E\text{ 为紧集}\}$。定义
+\[
+\rho(E,F)=\inf\{\delta>0:E\subset F(\delta),\ F\subset E(\delta)\},
+\qquad A(\delta)=\{y\in\mathbb R:d(y,A)<\delta\}.
+\]
+证明 $\rho$ 是 $\mathcal C$ 上的度量（称为 Hausdorff 度量）。
+
+\textbf{解：}
+
+令 $\mathcal C$ 表示所有\emph{非空}紧子集。对集合 $E$，记
+\(d(x,E)=\inf_{e\in E}|x-e|\)。题目中的 $E(\delta)$ 正是满足 $d(x,E)<\delta$ 的点集。
+
+由定义，对非空紧集 $E,F$，有
+\[
+\rho(E,F)=\max\left\{\sup_{x\in E}d(x,F),\ \sup_{y\in F}d(y,E)\right\}.
+\tag{1}
+\]
+$E\subset F(\delta)$ 等价于 $\sup_{x\in E}d(x,F)<\delta$。对两个包含关系同时取下确界，得到式 (1)。两项上确界均有限，因为紧集有界。
+
+非负性由定义直接得到，且式 (1) 对调 $E,F$ 不变，故 $\rho(E,F)=\rho(F,E)$。此外，$\rho(E,F)=0$ 当且仅当每个 $x\in E$ 到 $F$ 的距离为零且每个 $y\in F$ 到 $E$ 的距离为零。紧集是闭集，因而 $d(x,F)=0$ 蕴含 $x\in F$；于是 $E\subset F$ 且 $F\subset E$，即 $E=F$。反过来 $E=F$ 时显然 $\rho(E,F)=0$。
+
+设 $E,F,G\in\mathcal C$。对任意 $x\in E$ 及 $y\in F$，由距离的三角不等式，
+\[
+d(x,G)\leq |x-y|+d(y,G).
+\]
+对 $y$ 取下确界得到
+\(d(x,G)\leq d(x,F)+\sup_{y\in F}d(y,G)\leq\rho(E,F)+\rho(F,G)\)。对 $x\in E$ 取上确界，再同理交换 $E,G$，结合式 (1) 得
+\[
+\rho(E,G)\leq\rho(E,F)+\rho(F,G).
+\]
+因此 $\rho$ 是 $\mathcal C$ 上的度量。
+
+\textbf{4.} 设 $X$ 是非空集合，$\rho$ 是 $X$ 上的半度量，满足对称性和三角不等式。定义 $x\sim y\iff\rho(x,y)=0$。
+
+(1) 证明 $\sim$ 是等价关系。
+
+(2) 设 $\widetilde X$ 为所有等价类组成的集合，定义 $\widetilde\rho(\widetilde x,\widetilde y)=\rho(x,y)$（$x\in\widetilde x,y\in\widetilde y$）。证明其良定义且为 $\widetilde X$ 上的度量。
+
+(3) 定义 $L^1(\mathbb R)=\{f:f\text{ 在 }\mathbb R\text{ 上 Lebesgue 可积}\}$，并令 $\rho(f,g)=\int_{\mathbb R}|f(x)-g(x)|\,dx$。证明 $\rho$ 是 $L^1(\mathbb R)$ 上的半度量。
+
+\textbf{解：}
+
+(1) 半度量满足 $\rho(x,x)=0$、对称性和三角不等式。分别验证 $\sim$ 的自反性、对称性和传递性。
+
+自反性：对任意 $x\in X$，有 $\rho(x,x)=0$，故 $x\sim x$。
+
+对称性：若 $x\sim y$，则 $\rho(x,y)=0$。由 $\rho$ 的对称性，$\rho(y,x)=\rho(x,y)=0$，所以 $y\sim x$。
+
+传递性：若 $x\sim y$ 且 $y\sim z$，则 $\rho(x,y)=\rho(y,z)=0$。由三角不等式和非负性，
+\[
+0\leq\rho(x,z)\leq\rho(x,y)+\rho(y,z)=0,
+\]
+可得 $\rho(x,z)=0$，即 $x\sim z$。因此 $\sim$ 同时满足自反性、对称性和传递性，故为等价关系。
+
+(2) 设 $\widetilde X=X/{\sim}$，定义
+\(\widetilde\rho([x],[y])=\rho(x,y)\)。先证定义与代表元无关。若 $x\sim x'$、$y\sim y'$，则由三角不等式
+\[
+\rho(x,y)\leq\rho(x,x')+\rho(x',y')+\rho(y',y)=\rho(x',y'),
+\]
+反向同理，故两者相等。非负性、对称性和三角不等式由 $\rho$ 的相应性质直接继承。若 $\widetilde\rho([x],[y])=0$，则 $\rho(x,y)=0$，于是 $x\sim y$、$[x]=[y]$；反之同一等价类的距离为零。因此 $\widetilde\rho$ 是商集上的度量。
+
+(3) 对 $f,g\in L^1(\mathbb R)$，令
+\[
+\rho(f,g)=\int_{\mathbb R}|f-g|\,dx.
+\]
+该积分有限、非负且对称。由实数绝对值的三角不等式，逐点有
+\(|f-h|\leq|f-g|+|g-h|\)，积分后得
+\[
+\rho(f,h)\leq\rho(f,g)+\rho(g,h).
+\]
+此外 $\rho(f,f)=0$。因此它是半度量；其距离为零恰好表示 $f=g$ 几乎处处。
+
+\textbf{5.} 令 $\mathcal B=\{E\subset\mathbb R:E\text{ 为有界集}\}$，定义
+\[
+\rho(E,F)=\inf\{\delta>0:E\subset F(\delta),\ F\subset E(\delta)\}.
+\]
+(1) 证明 $\rho$ 是 $\mathcal B$ 上的半度量但不是度量。
+
+(2) 按第 3 题的方式定义 $\sim$ 以及 $\widetilde\rho$，得到度量空间 $(\mathcal B/{\sim},\widetilde\rho)$。问该度量空间与第 3 题中的度量空间有何联系？
+
+\textbf{解：}
+
+(1) 设 $\mathcal B$ 为 $\mathbb R$ 的非空有界子集。对非空有界集，同样有
+\[
+\rho(E,F)=\max\left\{\sup_{x\in E}d(x,F),\ \sup_{y\in F}d(y,E)\right\}.
+\tag{2}
+\]
+它有限、非负且对称。对于 $x\in E$，由三角不等式对任意 $y\in F$ 有 $d(x,G)\leq|x-y|+d(y,G)$；对 $y$ 取下确界、再对 $x$ 取上确界，并交换 $E,G$，可得
+\(\rho(E,G)\leq\rho(E,F)+\rho(F,G)\)。另外 $\rho(E,E)=0$。因此这是半度量。
+
+它不一定是度量。例如 $E=(0,1)$、$F=[0,1]$ 是不同的有界集，但每个集合都包含在另一个集合的任意正邻域中，故 $\rho(E,F)=0$。所以分离性失败。
+
+(2) 定义 $E\sim F$ 当且仅当 $\rho(E,F)=0$。令 $\overline E$ 表示 $E$ 的闭包。由式 (2) 和距离函数的连续性可知
+\[
+\rho(E,F)=\rho(\overline E,\overline F).
+\tag{3}
+\]
+由于 $d(\cdot,F)$ 连续，它在 $E$ 与 $\overline E$ 上的上确界相同；另一项同理。每个非空有界集的闭包都是非空紧集，且式 (3) 表明映射
+\[
+\Phi:\mathcal B/{\sim}\longrightarrow\mathcal C,\qquad [E]\longmapsto\overline E
+\]
+良定义并保持距离，其中 $\mathcal C$ 是非空紧集构成的 Hausdorff 度量空间。它是满射，因为任一非空紧集 $K$ 可取 $E=K$。它是单射，因为若 $\overline E=\overline F$，式 (3) 给出 $\rho(E,F)=0$，从而 $[E]=[F]$。因此 $\Phi$ 是等距双射，商度量空间与第 3 题的度量空间等距。
+
+\textbf{6.} 在 $\mathbb R$ 上定义
+\[
+\rho_1(x,y)=|x-y|,\qquad \rho_2(x,y)=\sqrt{|x-y|},\qquad
+\rho_3(x,y)=\arctan|x-y|.
+\]
+证明它们均为 $\mathbb R$ 上的度量，且诱导相同的拓扑。
+
+\textbf{解：}
+
+令 $a=|x-y|$、$b=|y-z|$。第一种距离的度量性质是实数绝对值的性质。第二种情形，非负数满足
+\[
+\sqrt{|x-z|}\leq\sqrt{|x-y|+|y-z|}\leq\sqrt{|x-y|}+\sqrt{|y-z|},
+\]
+故三角不等式成立；其余度量公理显然。
+
+第三种情形，$\arctan t$ 在 $t\geq0$ 上严格递增且仅在 $t=0$ 时为零，所以非负性、对称性及分离性成立。还需验证三角不等式。对 $a,b\geq0$，有
+\[
+\arctan(a+b)\leq\arctan a+\arctan b.
+\]
+若右侧不小于 $\pi/2$，此式因左侧小于 $\pi/2$ 立即成立；若右侧小于 $\pi/2$，利用正切函数在 $[0,\pi/2)$ 上递增以及
+\(\tan(\arctan a+\arctan b)=(a+b)/(1-ab)\geq a+b\)，可得该不等式。因此
+\[
+\rho_3(x,z)=\arctan|x-z|\leq\arctan(a+b)\leq\rho_3(x,y)+\rho_3(y,z).
+\]
+三者都是度量。
+
+再证诱导相同拓扑。以 $x$ 为中心，三种开球分别为
+\[
+B_1(x,r)=(x-r,x+r),\quad
+B_2(x,r)=(x-r^2,x+r^2),\quad
+B_3(x,r)=(x-\tan r,x+\tan r)\quad(0<r<\pi/2).
+\]
+給定 $\rho_1$ 半径 $\varepsilon>0$，取 $\rho_2$ 半径 $\varepsilon^2$、$\rho_3$ 半径 $\arctan\varepsilon$，得到相同的球；反向分别用 $r=\sqrt\varepsilon$ 与 $r=\tan\varepsilon$（第三个式子对任意 $\varepsilon>0$ 取 $\rho_1$ 半径 $\tan\varepsilon$）。因此每种度量在每一点的邻域都包含另一种度量的某个球，三种度量诱导同一拓扑。
+
+\textbf{7.} 设 $(X,\rho)$ 是度量空间。
+
+(1) 证明存在完备度量空间 $(Y,d)$ 和嵌入映射 $i:X\to Y$，使得 $d(i(x),i(x'))=\rho(x,x')$，且 $i(X)$ 在 $Y$ 中稠密。
+
+(2) 若另有完备度量空间 $(\widetilde Y,\widetilde d)$ 和嵌入映射 $\widetilde i:X\to\widetilde Y$ 满足上述两条性质，证明存在唯一双射 $g:Y\to\widetilde Y$，使 $g\circ i=\widetilde i$ 且 $\widetilde d(g(y),g(y'))=d(y,y')$。
+
+\textbf{解：}
+
+(1) 记 $\mathscr C$ 为 $X$ 中所有柯西列组成的集合。定义
+\[
+(x_n)\sim(y_n)\quad\Longleftrightarrow\quad\rho(x_n,y_n)\longrightarrow0.
+\]
+这是等价关系。令 $Y=\mathscr C/{\sim}$，并定义
+\[
+d([(x_n)],[(y_n)])=\lim_{n\to\infty}\rho(x_n,y_n).
+\tag{4}
+\]
+先说明极限存在：由三角不等式，
+\[
+|\rho(x_n,y_n)-\rho(x_m,y_m)|\leq\rho(x_n,x_m)+\rho(y_n,y_m),
+\]
+右侧在 $m,n\to\infty$ 时趋于零，所以实数列 $\rho(x_n,y_n)$ 是柯西列，极限存在。若换成等价代表列，类似估计表明极限不变，故式 (4) 良定义。非负性、对称性和三角不等式由逐项相应性质取极限得到；并且 $d([(x_n)],[(y_n)])=0$ 当且仅当两列等价，所以 $d$ 是度量。
+
+定义 $i:X\to Y$ 为 $i(x)=[(x,x,\ldots)]$。对 $x,y\in X$，式 (4) 给出 $d(i(x),i(y))=\rho(x,y)$，故 $i$ 保距且为单射。若 $[(x_n)]\in Y$，则 $i(x_n)=[(x_n,x_n,\ldots)]$，且
+\[
+d(i(x_n),[(x_j)])=\lim_{j\to\infty}\rho(x_n,x_j)\longrightarrow0\quad(n\to\infty),
+\]
+因为 $(x_n)$ 是柯西列。因此 $i(X)$ 在 $Y$ 中稠密。
+
+证明 $Y$ 完备。设 $([u^{(r)}])_{r\geq1}$ 是 $Y$ 中的柯西列，其中每个 $u^{(r)}=(u^{(r)}_n)_{n\geq1}$ 是 $X$ 中的柯西列。由稠密性，递归选取 $z_r\in X$，使
+\[
+d(i(z_r),[u^{(r)}])<2^{-r}.
+\]
+则 $(z_r)$ 是 $X$ 中的柯西列：由三角不等式，$\rho(z_r,z_s)=d(i(z_r),i(z_s))$ 不超过
+\(2^{-r}+d([u^{(r)}],[u^{(s)}])+2^{-s}\)，当 $r,s\to\infty$ 时趋于零。于是 $z=[(z_r)]\in Y$。又因 $[u^{(r)}]$ 是柯西列且 $d(i(z_r),[u^{(r)}])\to0$，可得 $i(z_r)\to z$ 并进而 $[u^{(r)}]\to z$。所以 $Y$ 完备。
+
+(2) 设另一个完备度量空间 $\widetilde Y$ 与保距稠密嵌入 $\tilde i:X\to\widetilde Y$ 满足题设条件。对 $y\in Y$，取 $x_n\in X$ 使 $i(x_n)\to y$，定义
+\[
+g(y)=\lim_{n\to\infty}\tilde i(x_n).
+\]
+由于 $\tilde i$ 保距，$(\tilde i(x_n))$ 是柯西列；$\widetilde Y$ 完备保证极限存在。若另取 $x'_n$ 也满足 $i(x'_n)\to y$，则
+\(\rho(x_n,x'_n)=d(i(x_n),i(x'_n))\to0\)，所以 $\tilde i(x_n)$ 与 $\tilde i(x'_n)$ 有相同极限。故 $g$ 良定义。
+
+若 $y,z\in Y$，取 $i(x_n)\to y$、$i(w_n)\to z$，则
+\[
+\tilde d(g(y),g(z))=\lim_n\tilde d(\tilde i(x_n),\tilde i(w_n))
+=\lim_n\rho(x_n,w_n)=d(y,z).
+\]
+故 $g$ 保距，从而单射，并且由定义 $g(i(x))=\tilde i(x)$。其像在 $\widetilde Y$ 中包含稠密集 $\tilde i(X)$；又保距映射从完备空间 $Y$ 出发，其像是完备子空间，因而在 $\widetilde Y$ 中闭。闭且稠密说明其像为整个 $\widetilde Y$，所以 $g$ 是满射。若 $h$ 也是满足条件的保距映射，则对任意 $y$ 取 $i(x_n)\to y$，由连续性
+\(h(y)=\lim_n h(i(x_n))=\lim_n\tilde i(x_n)=g(y)\)，所以 $h=g$。唯一性得证。
+
+\textbf{8.} 在 $C[0,1]$ 上定义
+\[
+\|f\|_1=\int_0^1|f(x)|\,dx,\qquad d_1(f,g)=\|f-g\|_1.
+\]
+(1) 证明 $(C[0,1],d_1)$ 是度量空间但不完备。
+
+(2) 证明将 $C[0,1]$ 完备化得到的空间即为 $L^1[0,1]$。
+
+(3) 定义 $I:C[0,1]\to\mathbb R$，$I(f)=\int_0^1f(x)\,dx$。证明 $I$ 可以唯一延拓成 $\widehat I:L^1[0,1]\to\mathbb R$。
+
+(4) 证明 $\widehat I(f)$ 即为 $f$ 的 Lebesgue 积分。
+
+\textbf{解：}
+
+(1) 对 $f,g\in C[0,1]$，$d_1(f,g)=\int_0^1|f-g|$ 非负且对称，并由逐点三角不等式满足三角不等式。若该积分为零，则连续非负函数 $|f-g|$ 的积分为零，必处处为零：若某点取正值，由连续性会在一段正长度区间上保持正值，导致积分为正。因此 $f=g$，$d_1$ 是度量。
+
+它不完备。令 $f$ 为阶跃函数
+\[
+f(x)=\begin{cases}0,&0\leq x\leq\tfrac12,\\1,&\tfrac12<x\leq1.\end{cases}
+\]
+对 $n\geq2$ 定义连续函数
+\[
+f_n(x)=\begin{cases}
+0,&0\leq x\leq\tfrac12-\tfrac1n,\\
+\dfrac n2\left(x-\tfrac12+\tfrac1n\right),&\tfrac12-\tfrac1n<x<\tfrac12+\tfrac1n,\\
+1,&\tfrac12+\tfrac1n\leq x\leq1.
+\end{cases}
+\]
+在区间 $[0,1]$ 上，$f_n$ 与 $f$ 只在长度 $2/n$ 的过渡区间可能不同，且差的绝对值不超过 $1$，所以 $\|f_n-f\|_1\leq2/n\to0$。故 $(f_n)$ 在 $d_1$ 下是柯西列。
+
+但它在 $C[0,1]$ 中没有极限。若某个连续 $g$ 满足 $\|f_n-g\|_1\to0$，则由 $\|f_n-f\|_1\to0$ 及三角不等式可得 $\|g-f\|_1=0$，即 $g=f$ 几乎处处。在 $(0,1/2)$ 上，连续函数 $g$ 几乎处处为 $0$，从而处处为 $0$；同理在 $(1/2,1)$ 上处处为 $1$。这与 $g$ 在 $1/2$ 处连续矛盾。因此 $(C[0,1],d_1)$ 不完备。
+
+(2) 它的完备化是 Lebesgue 空间 $L^1([0,1])$，其中函数按几乎处处相等取等价类，度量为
+\(\|f-g\|_1=\int_0^1|f-g|\)。$L^1([0,1])$ 完备，且 $C[0,1]$ 在 $L^1$ 中稠密。为证稠密性，先以简单函数逼近任意可积函数。对简单函数中出现的可测集 $E$，由 Lebesgue 测度的正则性，任给 $\varepsilon>0$，可取紧集 $K\subset E$ 和开集 $U\supset E$，使 $m(U\setminus K)<\varepsilon$。存在连续函数 $\varphi$ 满足 $0\leq\varphi\leq1$，且在 $K$ 上为 $1$、在 $[0,1]\setminus U$ 上为 $0$，从而 $\varphi$ 在 $L^1$ 中逼近 $\mathbf 1_E$。对简单函数作有限线性组合，即得连续函数在 $L^1$ 中稠密。因此 $L^1([0,1])$ 是 $C[0,1]$ 的完备化。
+
+(3) 定义 $I:C[0,1]\to\mathbb R$，$I(f)=\int_0^1f(x)\,dx$。由
+\[
+|I(f)-I(g)|=\left|\int_0^1(f-g)\,dx\right|
+\leq\int_0^1|f-g|\,dx=\|f-g\|_1
+\]
+知 $I$ 是 Lipschitz 连续的。对任意 $L^1$ 等价类 $[f]$，取连续函数列 $f_n\to f$ 于 $L^1$，令
+\[
+\overline I([f])=\lim_{n\to\infty}I(f_n).
+\]
+上面的估计保证极限存在且与逼近序列无关，故这给出唯一的连续延拓 $\overline I:L^1([0,1])\to\mathbb R$。
+
+(4) 由 Lebesgue 积分的 $L^1$ 连续性，若 $f_n\to f$ 于 $L^1$，则
+\[
+\left|\int_0^1f_n(x)\,dx-\int_0^1f(x)\,dx\right|
+\leq\int_0^1|f_n-f|\,dx\longrightarrow0.
+\]
+所以
+\[
+\overline I([f])=\int_0^1f(x)\,dx,
+\]
+即延拓正是 Lebesgue 积分。
+
+\end{document}

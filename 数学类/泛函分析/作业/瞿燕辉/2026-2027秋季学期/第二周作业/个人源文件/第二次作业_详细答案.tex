@@ -1,0 +1,304 @@
+\documentclass{article}
+\usepackage[UTF8]{ctex}
+\usepackage{sectsty}
+\usepackage{amssymb,amsmath,amsthm,mathrsfs,graphicx}
+\title{泛函分析作业（第二周）详细答案}
+\author{张溢致 2024011936}
+\date{}
+\begin{document}
+\maketitle
+
+设 $X$ 是一个非空集合，定义
+\[
+B(X):=\{f:X\to\mathbb R\text{ 为有界函数}\}.
+\]
+则 $B(X)$ 在通常的加法和数乘下成为一个实线性空间。设 $V\subset B(X)$ 是一个线性子空间。称 $\ell:V\to\mathbb R$ 是一个正线性泛函，若 $\ell$ 是线性泛函，且对任意的 $f\in V$，$f\ge0$ 有 $\ell(f)\ge0$。
+
+\medskip
+\noindent 1. 设 $B(X)$ 定义如上，$V\subset B(X)$ 是一个线性子空间。设 $\ell:V\to\mathbb R$ 是一个正线性泛函。若存在 $f\in V$ 使得 $f(x)\ge1$，$(\forall x\in X)$。证明 $\ell$ 可以延拓成 $B(X)$ 上的正线性泛函。
+
+\textbf{解：}
+
+将题设中满足 $f\ge1$ 的函数记为 $f_0$。由 $\ell$ 的正性，若 $u,v\in V$ 且 $u\le v$，则 $\ell(u)\le\ell(v)$。
+
+对 $g\in B(X)$，定义
+\[
+q(g)=\inf\{\ell(v):v\in V,\ v\ge g\}.
+\]
+令 $M=\|g\|_\infty$，则 $-Mf_0\le g\le Mf_0$。因此 $Mf_0$ 是上述集合中可选的函数；而任意 $v\in V$ 若满足 $v\ge g$，都有 $\ell(v)\ge-M\ell(f_0)$。故
+\[
+-M\ell(f_0)\le q(g)\le M\ell(f_0),
+\]
+所以 $q(g)$ 为有限实数。对 $u\in V$，一方面取 $v=u$ 得 $q(u)\le\ell(u)$；另一方面，由 $v\ge u$ 推出 $\ell(v)\ge\ell(u)$，故 $q(u)\ge\ell(u)$。于是 $q|_V=\ell$，特别地 $q(0)=0$。
+
+下面验证 $q$ 次线性。对 $t>0$，以 $v=tw$ 换元，得
+\[
+q(tg)=\inf_{w\in V,\,w\ge g}\ell(tw)=tq(g).
+\]
+当 $t=0$ 时等式也成立。任取 $g,h\in B(X)$ 和 $\varepsilon>0$，可选 $v,w\in V$，使得
+\[
+v\ge g,\quad w\ge h,\quad
+\ell(v)<q(g)+\varepsilon,\quad\ell(w)<q(h)+\varepsilon.
+\]
+因为 $v+w\ge g+h$，所以
+\[
+q(g+h)\le\ell(v+w)<q(g)+q(h)+2\varepsilon.
+\]
+令 $\varepsilon\downarrow0$，得 $q(g+h)\le q(g)+q(h)$。因此 $q$ 是 $B(X)$ 上的次线性泛函。
+
+由实 Hahn--Banach 定理，存在实线性泛函 $L:B(X)\to\mathbb R$，满足
+\[
+L|_V=\ell,\qquad L(g)\le q(g)\quad(g\in B(X)).
+\]
+若 $g\ge0$，则 $0\in V$ 且 $0\ge-g$，从而 $q(-g)\le\ell(0)=0$。于是
+\[
+-L(g)=L(-g)\le q(-g)\le0,
+\]
+即 $L(g)\ge0$。故 $L$ 是所求的正线性延拓。
+
+
+\medskip
+\noindent 2. 证明存在单位圆周 $S=\{z\in\mathbb C:|z|=1\}$ 上旋转不变的有限可加概率测度。即存在集函数 $p:\mathcal P(S)\to[0,1]$ 满足：
+
+1) $p(S)=1$；
+
+2) 任给 $A,B\in\mathcal P(S)$ 且 $A\cap B=\varnothing$ 有 $p(A\cup B)=p(A)+p(B)$；
+
+3) 任给 $A\in\mathcal P(S)$ 以及 $\rho\in S$，$p(\rho A)=p(A)$，这里 $\rho A=\{\rho z:z\in A\}$。
+
+\textbf{解：}
+
+对 $\rho\in S$，定义 $(R_\rho f)(z)=f(\rho z)$。将形如
+\[
+Af=\frac1n\sum_{j=1}^n R_{\rho_j}f
+\qquad(n\ge1,\ \rho_j\in S)
+\]
+的算子称为旋转平均，记所有这样的算子组成的集合为 $\mathcal A$。旋转允许重复。每个 $A\in\mathcal A$ 保持常函数和逐点大小关系，且
+\[
+\sup_{z\in S}(Af)(z)\le\sup_{z\in S}f(z).
+\]
+由于圆周旋转交换，若 $A,B\in\mathcal A$，则 $AB=BA\in\mathcal A$：若二者分别平均 $n$ 和 $m$ 个旋转，其复合就是对 $nm$ 个乘积旋转取平均。
+
+对 $f\in B(S)$，定义
+\[
+q(f)=\inf_{A\in\mathcal A}\sup_{z\in S}(Af)(z).
+\]
+因为 $-\|f\|_\infty\le Af\le\|f\|_\infty$，故 $q(f)$ 是有限实数。对常函数有 $q(c\mathbf1)=c$，其中 $\mathbf1(z)=1$。非负齐次性 $q(tf)=tq(f)$，$t\ge0$，直接由定义成立。
+
+任取 $f,g\in B(S)$ 和 $\varepsilon>0$，可选 $A,B\in\mathcal A$，使得
+\[
+\sup_S Af<q(f)+\varepsilon,\qquad
+\sup_S Bg<q(g)+\varepsilon.
+\]
+由 $AB=BA$ 和平均不增大上确界，得到
+\[
+\begin{aligned}
+q(f+g)&\le\sup_S AB(f+g)\\
+&\le\sup_S B(Af)+\sup_S A(Bg)\\
+&\le\sup_S Af+\sup_S Bg\\
+&<q(f)+q(g)+2\varepsilon.
+\end{aligned}
+\]
+令 $\varepsilon\downarrow0$，得 $q(f+g)\le q(f)+q(g)$。所以 $q$ 是次线性泛函。
+
+在常函数子空间 $\mathbb R\mathbf1$ 上定义 $\ell(c\mathbf1)=c$，则 $\ell=q$ 在该子空间上成立。由实 Hahn--Banach 定理，存在实线性泛函 $L:B(S)\to\mathbb R$，满足
+\[
+L(\mathbf1)=1,\qquad L(f)\le q(f)\quad(f\in B(S)).
+\]
+若 $f\ge0$，则每个旋转平均都满足 $A(-f)\le0$，从而 $q(-f)\le0$。因此
+\[
+-L(f)=L(-f)\le q(-f)\le0,
+\]
+即 $L(f)\ge0$，故 $L$ 是正线性泛函。
+
+固定 $\rho\in S$ 和 $f\in B(S)$，令 $h=f-R_\rho f$。取
+\[
+A_N=\frac1N\sum_{k=0}^{N-1}R_\rho^{,k}\in\mathcal A,
+\]
+望远镜求和给出
+\[
+A_Nh=\frac{f-R_\rho^{,N}f}{N},\qquad
+\|A_Nh\|_\infty\le\frac{2\|f\|_\infty}{N}.
+\]
+因此 $q(h)\le2\|f\|_\infty/N$，对 $-h$ 也有相同估计。令 $N\to\infty$，得 $q(h),q(-h)\le0$，于是
+\[
+L(h)\le0,\qquad -L(h)=L(-h)\le0.
+\]
+故 $L(h)=0$，也就是 $L(R_\rho f)=L(f)$。
+
+对任意 $A\subset S$，定义 $p(A)=L(\mathbf1_A)$。由 $0\le\mathbf1_A\le\mathbf1$ 和 $L$ 的正性，得 $0\le p(A)\le1$，且 $p(S)=L(\mathbf1)=1$。若 $A\cap B=\varnothing$，则
+\[
+\mathbf1_{A\cup B}=\mathbf1_A+\mathbf1_B,
+\]
+由线性性得 $p(A\cup B)=p(A)+p(B)$。最后，$\mathbf1_{\rho A}=R_{\rho^{-1}}\mathbf1_A$，由旋转不变性得
+\[
+p(\rho A)=L(R_{\rho^{-1}}\mathbf1_A)=L(\mathbf1_A)=p(A).
+\]
+所以 $p$ 是所求的旋转不变的有限可加概率测度。
+
+
+\medskip
+\noindent 3. 定义空间
+\[
+\ell^2(\mathbb N):=\left\{x=(x_n)_{n\in\mathbb N}:x_n\in\mathbb R,\ \sum_{n=1}^{\infty}x_n^2<\infty\right\}.
+\]
+1) 证明若 $x,y\in\ell^2(\mathbb N)$，$\lambda\in\mathbb R$，则 $x+y,\lambda x\in\ell^2(\mathbb N)$，这里
+\[
+x+y:=(x_n+y_n)_{n\in\mathbb N};\qquad
+\lambda x:=(\lambda x_n)_{n\in\mathbb N}.
+\]
+（即 $\ell^2(\mathbb N)$ 是一个线性空间。）
+
+2) 定义 $\|\cdot\|:\ell^2(\mathbb N)\to\mathbb R$ 为
+\[
+\|x\|:=\left(\sum_{n=1}^{\infty}x_n^2\right)^{1/2}.
+\]
+定义 $\rho(x,y):=\|x-y\|$。证明 $\rho$ 是 $\ell^2(\mathbb N)$ 上的度量。以下我们总固定该度量。
+
+3) 定义两个集合
+\[
+\begin{aligned}
+A&:=\{x\in\ell^2(\mathbb N):\exists n_x\in\mathbb N\text{ s.t. }\
+&\quad x_i>0\ (\forall i<n_x);\quad x_i=0\ (\forall i\ge n_x)\},\\
+B&:=\{x\in\ell^2(\mathbb N):\exists n_x\in\mathbb N\text{ s.t. }\
+&\quad x_i=0\ (\forall i<n_x);\quad x_i>0\ (\forall i\ge n_x)\}.
+\end{aligned}
+\]
+证明：$A,B$ 为非空凸集且不交。
+
+4) 证明 $A,B$ 都无内点，且 $\overline A=\overline B$。
+
+5) 设 $\ell:\ell^2(\mathbb N)\to\mathbb R$ 是线性泛函且连续，并且存在 $c\in\mathbb R$ 使得
+\[
+\ell(x)\le c\quad(\forall x\in A);\qquad
+\ell(y)\ge c\quad(\forall y\in B).
+\]
+则必有 $\ell\equiv0$ 以及 $c=0$。
+
+6) 若仅仅假设 $\ell:\ell^2(\mathbb N)\to\mathbb R$ 是线性泛函，但不要求其连续，上面的断言还成立吗？为什么？
+
+\textbf{解：}
+
+
+1) 由 $(a+b)^2\le2a^2+2b^2$，有
+\[
+\sum_{n=1}^{\infty}(x_n+y_n)^2
+\le2\sum_{n=1}^{\infty}x_n^2+2\sum_{n=1}^{\infty}y_n^2<\infty.
+\]
+又有 $\sum_{n=1}^{\infty}(\lambda x_n)^2=\lambda^2\sum_{n=1}^{\infty}x_n^2<\infty$，故 $x+y,\lambda x\in\ell^2(\mathbb N)$。零序列属于此空间，加法和数乘逐项满足向量空间公理，因此它是实线性空间。
+
+2) 显然 $\|x\|\ge0$，且 $\|x\|=0$ 当且仅当每个 $x_n=0$；同时 $\|\lambda x\|=|\lambda|\|x\|$。下面验证三角不等式。
+对任意 $N$，有限维 Cauchy--Schwarz 不等式给出
+\[
+\sum_{n=1}^N|x_ny_n|
+\le\left(\sum_{n=1}^Nx_n^2\right)^{1/2}
+\left(\sum_{n=1}^Ny_n^2\right)^{1/2}
+\le\|x\|\|y\|.
+\]
+令 $N\to\infty$，得 $\sum|x_ny_n|\le\|x\|\|y\|$。因此
+\[
+\begin{aligned}
+\|x+y\|^2
+&=\sum_{n=1}^{\infty}x_n^2+2\sum_{n=1}^{\infty}x_ny_n+\sum_{n=1}^{\infty}y_n^2\\
+&\le\|x\|^2+2\|x\|\|y\|+\|y\|^2=(\|x\|+\|y\|)^2.
+\end{aligned}
+\]
+两边开方即得范数的三角不等式。于是
+\[
+\rho(x,y)\ge0,\quad \rho(x,y)=0\iff x=y,\quad
+\rho(x,y)=\rho(y,x),
+\]
+并且 $\rho(x,z)\le\rho(x,y)+\rho(y,z)$。故 $\rho$ 是度量。
+
+3) 记 $e_j$ 为第 $j$ 个坐标等于 $1$、其余等于 $0$ 的序列。取 $n_x=2$，可知 $e_1\in A$。令 $b=(2^{-i})_{i\ge1}$，则 $\sum4^{-i}<\infty$，取 $n_b=1$ 得 $b\in B$。故两集合非空。此外，取 $n_x=1$ 可知 $0\in A$。
+
+设 $x,y\in A$ 的截断位置分别为 $n_x,n_y$。对 $0<t<1$，令 $n=\max(n_x,n_y)$。当 $i<n$ 时，$x_i,y_i$ 至少一个严格为正，另一个非负；当 $i\ge n$ 时二者都为零。所以 $tx+(1-t)y\in A$，端点 $t=0,1$ 也成立。故 $A$ 凸。
+
+设 $x,y\in B$，令 $n=\min(n_x,n_y)$。当 $i<n$ 时二者都为零；当 $i\ge n$ 时至少一个严格为正，另一个非负。因此 $tx+(1-t)y\in B$，故 $B$ 凸。
+
+$A$ 中每个序列只有有限个非零项，而 $B$ 中每个序列从某项起全部严格为正，有无限个非零项。因此 $A\cap B=\varnothing$。
+
+4) 定义非负锥
+\[
+C:=\{x\in\ell^2(\mathbb N):x_i\ge0\ (\forall i)\}.
+\]
+若 $x^{(k)}\to x$，则 $|x_i^{(k)}-x_i|\le\|x^{(k)}-x\|\to0$。所以非负序列的范数极限仍逐项非负，$C$ 是闭集。因为 $A,B\subset C$，有 $\overline A,\overline B\subset C$。
+
+任取 $x\in C$，令
+\[
+a_i^{(N)}=\begin{cases}x_i+N^{-1},&i\le N,\\0,&i>N.\end{cases}
+\]
+则 $a^{(N)}\in A$，且
+\[
+\|a^{(N)}-x\|^2=\frac1N+\sum_{i>N}x_i^2\longrightarrow0.
+\]
+因此 $x\in\overline A$。另一方面，$x+N^{-1}b$ 每个坐标都严格为正，属于 $B$，且
+\[
+\|x+N^{-1}b-x\|=N^{-1}\|b\|\longrightarrow0.
+\]
+所以 $x\in\overline B$。综上，$\overline A=\overline B=C$。
+
+为证明没有内点，任取 $x\in C$ 和 $r>0$。由于 $\sum x_i^2<\infty$，有 $x_i\to0$，可选 $j$ 使得 $x_j<r/4$。令
+\[
+y=x-(x_j+r/2)e_j.
+\]
+则 $y_j=-r/2<0$，故 $y\notin C$，而 $\|y-x\|=x_j+r/2<3r/4<r$。因此 $C$ 中任一点的任意开球都不包含于 $C$，$C$ 无内点。由 $A,B\subset C$，知 $A,B$ 也都无内点。
+
+5) 任取 $z\in C$。由第 4 问，可取 $a^{(n)}\in A$、$b^{(n)}\in B$，使二者均收敛到 $z$。利用 $\ell$ 连续和题设不等式，得到
+\[
+\ell(z)=\lim_n\ell(a^{(n)})\le c,
+\qquad \ell(z)=\lim_n\ell(b^{(n)})\ge c.
+\]
+故 $\ell(z)=c$ 对所有 $z\in C$ 成立。取 $z=0$ 得 $c=0$，从而 $\ell|_C=0$。
+对任意 $x\in\ell^2(\mathbb N)$，定义
+\[
+x_i^+=\max(x_i,0),\qquad x_i^-=\max(-x_i,0).
+\]
+由于 $0\le x_i^\pm\le|x_i|$，有 $x^+,x^-\in C$，且 $x=x^+-x^-$。于是
+\[
+\ell(x)=\ell(x^+)-\ell(x^-)=0.
+\]
+故 $\ell\equiv0$ 且 $c=0$。
+
+6) 断言仍然成立。下面的证明不预先假设 $\ell$ 连续。
+
+首先 $0\in A$，故 $c\ge0$。固定 $b=(2^{-i})_{i\ge1}\in B$，则任意 $t>0$ 都有 $tb\in B$，从而
+\[
+t\ell(b)\ge c.
+\]
+令实数 $t\downarrow0$，得 $c\le0$，所以 $c=0$。
+
+任取 $u\in C$，对于任意 $\varepsilon>0$，$u+\varepsilon b\in B$，于是
+\[
+\ell(u)+\varepsilon\ell(b)\ge0.
+\]
+令 $\varepsilon\downarrow0$，得 $\ell(u)\ge0$。因此 $\ell$ 对逐项非负序列为正；特别地，若 $v\ge u$，则 $\ell(v)\ge\ell(u)$。
+
+对任意 $j$，$s_j:=e_1+\cdots+e_j\in A\cap C$。由题设和正性，$\ell(s_j)\le0$ 且 $\ell(s_j)\ge0$，故 $\ell(s_j)=0$。取差可知 $\ell(e_j)=0$ 对每个 $j$ 成立，所以 $\ell$ 在所有有限支撑序列上为零。
+
+现在证明 $\ell$ 在 $C$ 上也为零。反设存在 $u\in C$ 使得 $a:=\ell(u)>0$。因 $u\in\ell^2$，可为每个 $k\ge1$ 选取 $N_k$，使尾序列
+\[
+u^{(k)}=(\underbrace{0,\ldots,0}_{N_k\text{ 项}},u_{N_k+1},u_{N_k+2},\ldots)
+\]
+满足 $\|u^{(k)}\|\le2^{-k}$。由于 $u-u^{(k)}$ 有限支撑，有 $\ell(u^{(k)})=a$。
+
+逐项定义 $z_i:=\sum_{k=1}^{\infty}u_i^{(k)}$。由 $0\le u_i^{(k)}\le\|u^{(k)}\|\le2^{-k}$，每个 $z_i$ 为有限实数。记 $z^{(m)}=\sum_{k=1}^{m}u^{(k)}$，三角不等式给出
+\[
+\|z^{(m)}\|\le\sum_{k=1}^{m}2^{-k}\le1.
+\]
+固定 $J$，令 $m\to\infty$ 得
+\[
+\sum_{i=1}^{J}z_i^2
+=\lim_{m\to\infty}\sum_{i=1}^{J}(z_i^{(m)})^2\le1.
+\]
+再令 $J\to\infty$，得 $\sum_i z_i^2\le1$，所以 $z\in C$。逐项有 $z\ge z^{(m)}$，由正性及线性得
+\[
+\ell(z)\ge\ell(z^{(m)})=\sum_{k=1}^{m}\ell(u^{(k)})=ma
+\qquad(m\ge1).
+\]
+左边是固定的实数，右边趋于正无穷，矛盾。因此 $\ell|_C=0$。最后将任意 $x$ 写成 $x=x^+-x^-$，得 $\ell(x)=0$。
+
+故即使取消连续性假设，仍有 $\ell\equiv0$ 及 $c=0$。
+
+
+\end{document}

@@ -1,0 +1,1122 @@
+\section{第十九次作业}
+
+\subsection*{19.1}
+\begin{problem}
+若 $X$ 是自反的 Banach 空间，则规范嵌入映射 $\iota$ 满足
+$\iota:(X,\mathcal U_w)\to(X^{**},\mathcal U_w)$ 是同胚映射。
+\end{problem}
+
+设规范嵌入
+\[
+ \iota:X\longrightarrow X^{**},\qquad \iota(x)(x^*)=x^*(x)
+\]
+关于两边的弱拓扑是同胚。
+
+\begin{proof}
+由于 $X$ 自反，$\iota$ 是从 $X$ 到 $X^{**}$ 的等距双射。先证明其弱连续性。若网
+$x_\alpha\rightharpoonup x$ 于 $X$，则对每个 $x^*\in X^*$，
+\[
+ \iota(x_\alpha)(x^*)=x^*(x_\alpha)\longrightarrow x^*(x)=\iota(x)(x^*).
+\]
+这正是 $\iota(x_\alpha)\rightharpoonup\iota(x)$ 于 $X^{**}$。
+
+反过来，若 $\iota(x_\alpha)\rightharpoonup\iota(x)$ 于 $X^{**}$，则弱收敛的定义要求对每个
+$F\in X^{***}$ 有 $F(\iota(x_\alpha))\to F(\iota(x))$。特别取规范嵌入
+$\iota_{X^*}(x^*)\in X^{***}$，便有
+\[
+ x^*(x_\alpha)=\iota_{X^*}(x^*)(\iota(x_\alpha))
+ \longrightarrow \iota_{X^*}(x^*)(\iota(x))=x^*(x).
+\]
+故 $x_\alpha\rightharpoonup x$。所以 $\iota$ 与 $\iota^{-1}$ 都连续，结论成立。
+\end{proof}
+
+\subsection*{19.2（Milman--Pettis 定理）}
+\begin{problem}
+证明 Milman--Pettis 定理：一致凸 Banach 空间是自反的。使用网的概念，按以下步骤证明：
+
+有向集是非空集合 $A$，装备一个自反且传递的关系 $\preceq$，并且对任意
+$\alpha,\beta\in A$，都存在 $\gamma\in A$ 使
+$\alpha\preceq\gamma$、$\beta\preceq\gamma$。关系不要求反对称。例如，拓扑空间中一点
+$x_0$ 的开邻域全体在关系 $U\preceq V\Longleftrightarrow V\subset U$ 下构成有向集。
+
+空间 $X$ 中的网是映射 $A\to X$，记作 $(x_\alpha)_{\alpha\in A}$。称该网在拓扑空间
+$X$ 中收敛于 $x$，若对 $x$ 的每个开邻域 $U$，都存在 $\alpha_0\in A$，使
+$\alpha_0\preceq\alpha$ 时 $x_\alpha\in U$。映射 $f:X\to Y$ 连续，当且仅当它把每个收敛于
+$x$ 的网送到收敛于 $f(x)$ 的网。
+
+网 $(x_\alpha)_{\alpha\in A}$ 的子网是形如
+$(x_{h(\beta)})_{\beta\in B}$ 的网，其中 $h:B\to A$ 是单调最终映射：单调是指
+$\beta_1\preceq\beta_2$ 蕴含 $h(\beta_1)\preceq h(\beta_2)$；最终是指对每个
+$\alpha\in A$，都存在 $\beta\in B$ 使 $\alpha\preceq h(\beta)$。拓扑空间紧，当且仅当其中
+每个网都有收敛子网。
+
+赋范空间中的网 $(x_\alpha)$ 称为 Cauchy 网，如果
+$(\|x_\alpha-x_\beta\|)_{(\alpha,\beta)\in A\times A}$ 收敛于 $0$，其中 $A\times A$ 取乘积序。
+若 $X$ 是 Banach 空间，则 $X$ 中每个 Cauchy 网都收敛。
+
+（1）设 $X$ 为一致凸赋范线性空间，$(x_\alpha)_{\alpha\in A}$ 为 $X$ 单位球中的网，且
+网 $(\|x_\alpha+x_\beta\|)_{(\alpha,\beta)\in A\times A}$ 收敛于 $2$，证明
+$(x_\alpha)_{\alpha\in A}$ 是 Cauchy 网；
+
+（2）设 $X$ 为赋范线性空间，$x^{**}\in X^{**}$ 且 $\|x^{**}\|=1$，证明存在 $X$ 单位球中的网
+$(x_\alpha)_{\alpha\in A}$，使 $(\iota(x_\alpha))_{\alpha\in A}$ 在 $X^{**}$ 中按弱星拓扑收敛于
+$x^{**}$；
+
+（3）设 $(x_\alpha)_{\alpha\in A}$ 为 $X$ 单位球中的网，且
+$\iota(x_\alpha)\overset{w^*}{\longrightarrow}x^{**}$、$\|x^{**}\|=1$。证明
+$(\iota(x_\alpha+x_\beta))_{(\alpha,\beta)\in A\times A}$ 按弱星拓扑收敛于 $2x^{**}$；若
+$X$ 一致凸，利用（1）证明 $(x_\alpha)$ 是 Cauchy 网；
+
+（4）设 $X$ 是一致凸 Banach 空间，$x^{**}\in X^{**}$ 且 $\|x^{**}\|=1$。按（2）取网
+$(x_\alpha)$，由（3）知它收敛于某个 $x\in X$，从而推出 $\iota(x)=x^{**}$。
+\end{problem}
+
+\begin{proof}
+记 $B_X=\{x:\|x\|\leq1\}$。
+
+\textbf{(1)} 给定 $\varepsilon>0$。一致凸性说明存在 $\delta>0$，使得 $u,v\in B_X$ 且
+$\|u-v\|\geq\varepsilon$ 时
+\[
+ \left\|\frac{u+v}{2}\right\|\leq1-\delta,
+ \quad\text{即}\quad \|u+v\|\leq2(1-\delta).
+\]
+已知 $\|x_\alpha+x_\beta\|\to2$，故存在 $\alpha_0$，当
+$\alpha,\beta\succeq\alpha_0$ 时
+$\|x_\alpha+x_\beta\|>2(1-\delta)$。由上述命题的逆否命题，
+$\|x_\alpha-x_\beta\|<\varepsilon$。所以 $(x_\alpha)$ 是 Cauchy 网。
+
+\textbf{(2)} 由 Goldstine 定理，$\iota(B_X)$ 在 $B_{X^{**}}$ 中关于弱星拓扑稠密。
+为把稠密性明确写成网，令
+\[
+ \mathcal A=\{(U,x):U\text{ 是 }x^{**}\text{ 的弱星邻域},\ x\in B_X,
+ \ \iota(x)\in U\}.
+\]
+以邻域反向包含为主序：$(U,x)\preceq(V,y)$ 当 $V\subset U$。任意两个指标都有共同上界，
+故 $\mathcal A$ 是有向集。令 $x_{(U,x)}=x$。对任意弱星邻域 $U_0$，从指标中取一个
+$U\subset U_0$ 后，所有更大的指标所对应的像都落在 $U_0$ 中。因此
+$\iota(x_\alpha)\overset{w^*}{\longrightarrow}x^{**}$。
+
+\textbf{(3)} 对任意 $x^*\in X^*$，
+\[
+ \iota(x_\alpha+x_\beta)(x^*)=x^*(x_\alpha)+x^*(x_\beta)
+ \longrightarrow2x^{**}(x^*),
+\]
+所以双指标网 $\iota(x_\alpha+x_\beta)\overset{w^*}{\longrightarrow}2x^{**}$。
+范数关于弱星拓扑下半连续，因而
+\[
+ 2=\|2x^{**}\|\leq\liminf_{(\alpha,\beta)}\|x_\alpha+x_\beta\|.
+\]
+另一方面 $x_\alpha,x_\beta\in B_X$，故这些范数不超过 $2$。于是
+$\|x_\alpha+x_\beta\|\to2$。由 (1)，$(x_\alpha)$ 是 Cauchy 网。
+
+\textbf{(4)} 因 $X$ 完备，存在 $x\in X$ 使 $x_\alpha\to x$（范数收敛）。于是
+$\iota(x_\alpha)\to\iota(x)$ 也范数收敛，从而弱星收敛。弱星拓扑是 Hausdorff 的，而同一网
+已经弱星收敛到 $x^{**}$，故 $\iota(x)=x^{**}$。
+
+上面处理了 $\|x^{**}\|=1$ 的情形。零元显然在 $\iota(X)$ 中；对任意非零 $x^{**}$，把
+$x^{**}/\|x^{**}\|$ 应用上述结论后再乘 $\|x^{**}\|$，可知 $x^{**}\in\iota(X)$。
+因此 $\iota$ 满射，$X$ 自反。
+\end{proof}
+
+\section{第二十次作业}
+
+\subsection*{20.1}
+\begin{problem}
+设 $X,Y$ 为 Banach 空间，在 $\mathcal L(X,Y)$ 上考虑算子范数。证明：
+（1）所有满射构成的集合是开集；
+（2）所有单射构成的集合不一定是开集；
+（3）所有具有闭像的单射构成的集合是开集。
+\end{problem}
+
+\begin{proof}
+\textbf{(1) 满射算子组成开集。}设 $T:X\to Y$ 满射。由开映射定理，存在 $c>0$，使每个
+$y\in Y$ 都能找到 $x\in X$ 满足
+\[
+ Tx=y,\qquad \|x\|\leq c\|y\|.
+\]
+取 $S$ 满足 $\|S-T\|<1/c$。给定 $y$，令 $r_0=y$；递归选择 $x_n$ 使
+$Tx_n=r_n$ 且 $\|x_n\|\leq c\|r_n\|$，再令 $r_{n+1}=(T-S)x_n$。若
+$q=c\|T-S\|<1$，则
+\[
+ \|r_{n+1}\|\leq q\|r_n\|,\qquad \|x_n\|\leq c q^n\|y\|.
+\]
+故 $x=\sum_{n\geq0}x_n$ 在 $X$ 中收敛，而且
+\[
+ S\sum_{n=0}^N x_n=\sum_{n=0}^N(Tx_n-r_{n+1})=y-r_{N+1}\to y.
+\]
+于是 $Sx=y$，所以 $S$ 满射。
+
+\textbf{(2) 单射算子组成的集合未必开。}在 $\ell^2$ 上令
+$T(x_n)=(x_n/n)$。$T$ 单射。对每个 $N$ 定义
+\[
+ T_N(x_1,x_2,\ldots)=(x_1,x_2/2,\ldots,x_{N-1}/(N-1),0,x_{N+1}/(N+1),\ldots).
+\]
+则 $T_Ne_N=0$，故 $T_N$ 非单射；而 $\|T_N-T\|=1/N\to0$。
+
+\textbf{(3) 闭像单射组成开集。}若 $T$ 单射且 $\operatorname{Ran}T$ 闭，则
+$T:X\to\operatorname{Ran}T$ 是 Banach 空间间的有界双射。由有界逆定理，存在 $m>0$ 使
+$\|Tx\|\geq m\|x\|$。若 $\|S-T\|<m$，则
+\[
+ \|Sx\|\geq\|Tx\|-\|(S-T)x\|\geq(m-\|S-T\|)\|x\|.
+\]
+因此 $S$ 单射且有正下界。若 $Sx_n\to y$，上式使 $(x_n)$ 为 Cauchy 列；其极限 $x$ 满足
+$Sx=y$，故 $\operatorname{Ran}S$ 闭。
+\end{proof}
+
+\subsection*{20.2}
+\begin{problem}
+设 $X,Y$ 为 Banach 空间，$T,S\in\mathcal L(X,Y)$。证明：
+（1）$(T+S)^*=T^*+S^*$，且 $(aT)^*=aT^*$；
+（2）若 $T^{-1}\in\mathcal L(Y,X)$，则 $(T^*)^{-1}$ 存在，并且
+$(T^*)^{-1}=(T^{-1})^*$。
+\end{problem}
+
+\begin{proof}
+对 $y^*\in Y^*$ 和 $x\in X$，
+\[
+ ((T+S)^*y^*)(x)=y^*((T+S)x)=T^*y^*(x)+S^*y^*(x),
+\]
+故 $(T+S)^*=T^*+S^*$。同理
+$((aT)^*y^*)(x)=a(T^*y^*)(x)$，所以 $(aT)^*=aT^*$（复数域采用线性泛函约定；若内积
+约定导致伴随共轭线性，则相应写作 $\bar aT^*$）。
+
+若 $T^{-1}\in\mathcal L(Y,X)$，利用 $(AB)^*=B^*A^*$ 得
+\[
+ T^*(T^{-1})^*=(T^{-1}T)^*=I_{X^*},\qquad
+ (T^{-1})^*T^*=(TT^{-1})^*=I_{Y^*}.
+\]
+所以 $(T^*)^{-1}=(T^{-1})^*$。
+\end{proof}
+
+\subsection*{20.3}
+\begin{problem}
+设 $L_A:\mathbb R^n\to\mathbb R^m$ 满足 $L_Ax=Ax$，其中
+$A\in M_{m,n}(\mathbb R)$、$x\in\mathbb R^n$。求 $(L_A)^*$。
+\end{problem}
+
+在欧氏内积下，对 $x\in\mathbb R^n,y\in\mathbb R^m$，
+\[
+ \langle L_Ax,y\rangle_{\mathbb R^m}=\langle Ax,y\rangle
+ =x^{\mathsf T}A^{\mathsf T}y
+ =\langle x,A^{\mathsf T}y\rangle_{\mathbb R^n}.
+\]
+故 $(L_A)^*=L_{A^{\mathsf T}}$。
+
+\subsection*{20.4}
+\begin{problem}
+设 $X$ 是 Banach 空间，$Y$ 是 $X$ 的闭子空间，$\pi:X\to X/Y$ 为商映射
+$\pi(x)=[x]$，$\ell:Y\to X$ 为包含映射 $\ell(y)=y$。证明：
+
+（1）$\pi^*:(X/Y)^*\to Y^\perp$ 是等距同构；
+
+（2）$\ell^*$ 是满射且 $\ker\ell^*=Y^\perp$，从而诱导映射
+$\ell^*:X^*/Y^\perp\to Y^*$ 是等距同构。
+\end{problem}
+
+\begin{proof}
+\textbf{(1)} 对 $\varphi\in(X/Y)^*$，$\pi^*\varphi=\varphi\circ\pi$ 在 $Y$ 上为零，故像落在
+$Y^\perp$。又因 $\pi(B_X)$ 在 $B_{X/Y}$ 中稠密，
+\[
+ \|\pi^*\varphi\|=\sup_{\|x\|\leq1}|\varphi([x])|=\|\varphi\|.
+\]
+所以 $\pi^*$ 是等距单射。给定 $f\in Y^\perp$，定义
+$\widetilde f([x])=f(x)$。若 $[x]=[x']$，则 $x-x'\in Y$，故定义良好；并且
+$|f(x)|\leq\|f\|\|[x]\|$（对 $x+y$ 取下确界），所以 $\widetilde f\in(X/Y)^*$ 且
+$\pi^*\widetilde f=f$。因此 $\pi^*$ 是到 $Y^\perp$ 的等距同构。
+
+\textbf{(2)} $\ell^*f=f|_Y$。Hahn--Banach 定理说明每个 $g\in Y^*$ 都有保持范数的延拓
+$f\in X^*$，故 $\ell^*$ 满射。显然
+$\ker\ell^*=\{f:f|_Y=0\}=Y^\perp$。由商空间上的第一同构定理，诱导映射
+\[
+ X^*/Y^\perp\longrightarrow Y^*,\qquad[f]\longmapsto f|_Y
+\]
+是线性双射。其等距性来自 Hahn--Banach：一方面
+$\|f|_Y\|\leq\inf_{h\in Y^\perp}\|f+h\|$；另一方面 $f|_Y$ 有保持范数的延拓 $F$，且
+$F-f\in Y^\perp$，于是反向不等式成立。
+\end{proof}
+
+\section{第二十一次作业}
+
+\subsection*{21.1}
+\begin{problem}
+设 $T:\ell^2\to\ell^2$ 满足
+$T((x_i)_{i\geq1})=(i^{-1}x_i)_{i\geq1}$。证明 $\operatorname{Ran}T$ 不是
+$\ell^2$ 的闭子空间。
+\end{problem}
+
+令 $T(x_i)=(x_i/i)$。取 $y=(1/i)_{i\geq1}$，则 $y\in\ell^2$。若 $y=Tx$，必有
+$x_i=iy_i=1$，这不属于 $\ell^2$，所以 $y\notin\operatorname{Ran}T$。另一方面令
+$x^{(N)}=(1,\ldots,1,0,\ldots)$（前 $N$ 项为 $1$），则 $x^{(N)}\in\ell^2$，并且
+$Tx^{(N)}=(1,1/2,\ldots,1/N,0,\ldots)\to y$ 于 $\ell^2$。所以像不是闭集。
+
+\subsection*{21.2}
+\begin{problem}
+设 $X,Y$ 是 Banach 空间，$T\in\mathcal L(X,Y)$ 是单射，$N$ 是 $Y$ 的闭子空间，且
+$Y=\operatorname{Ran}T\oplus N$。证明 $\operatorname{Ran}T$ 是闭子空间。
+\end{problem}
+
+设 $Q:Y\to Y/N$ 是商映射。因 $Y=\operatorname{Ran}T\oplus N$，$QT:X\to Y/N$ 是双射；
+它有界，且 $X,Y/N$ 都是 Banach 空间，故由有界逆定理存在 $c>0$ 使
+$\|x\|\leq c\|QTx\|\leq c\|Tx\|$。若 $Tx_n\to y$，则
+$\|x_n-x_m\|\leq c\|Tx_n-Tx_m\|$，故 $x_n\to x$，进而 $y=Tx$。所以
+$\operatorname{Ran}T$ 闭。
+
+\subsection*{21.3}
+\begin{problem}
+设 $X,Y$ 是 Banach 空间，$S,T\in\mathcal L(X,Y)$。若存在 $c>0$ 使
+$\|Sx\|\leq c\|Tx\|$ 对所有 $x\in X$ 成立，且 $\ker T=\ker S$，证明：若
+$\operatorname{Ran}S$ 闭，则 $\operatorname{Ran}T$ 闭。
+\end{problem}
+
+因 $\operatorname{Ran}S$ 闭，诱导算子
+\[
+ \widetilde S:X/\ker S\to\operatorname{Ran}S,\qquad[x]\mapsto Sx
+\]
+是 Banach 空间间的有界双射。因此存在 $C>0$ 使
+\[
+ \operatorname{dist}(x,\ker S)\leq C\|Sx\|.
+\]
+由 $\ker S=\ker T$ 及 $\|Sx\|\leq c\|Tx\|$，得
+$\operatorname{dist}(x,\ker T)\leq Cc\|Tx\|$。这说明
+$\widetilde T:X/\ker T\to\operatorname{Ran}T$ 的逆有界，因而像完备，作为 $Y$ 的线性子空间必闭。
+
+\subsection*{21.4}
+\begin{problem}
+设 $X,Y$ 是 Hilbert 空间，$S,T\in\mathcal L(X,Y)$。若存在 $c>0$ 使
+$\|Sx\|\leq c\|Tx\|$ 对所有 $x\in X$ 成立，且
+$T(\ker S)\subset T((\ker S)^\perp)$，证明：若 $\operatorname{Ran}S$ 闭，则
+$\operatorname{Ran}T$ 闭。
+\end{problem}
+
+设 $M=(\ker S)^\perp$。因 $\operatorname{Ran}S$ 闭，$S|_M:M\to\operatorname{Ran}S$
+是有界双射，故存在 $C>0$ 使
+\[
+ \|z\|\leq C\|Sz\|\leq Cc\|Tz\|\qquad(z\in M). \tag{21.1}
+\]
+先说明 $\operatorname{Ran}T=T(M)$。给定 $x=u+v$，其中 $u\in\ker S,v\in M$。按假设，
+存在 $w\in M$ 使 $Tu=Tw$，所以 $Tx=T(v+w)\in T(M)$；反向包含显然。
+若 $Tx_n\to y$，把每个 $Tx_n$ 写成 $Tz_n$（$z_n\in M$）。由 (21.1)，
+\[
+ \|z_n-z_m\|\leq Cc\|Tz_n-Tz_m\|,
+\]
+故 $z_n\to z\in M$，于是 $y=Tz$。所以 $\operatorname{Ran}T$ 闭。
+
+\section{第二十二次作业}
+
+\subsection*{22.1}
+\begin{problem}
+设 $X,Y$ 为 Banach 空间，$K:X\to Y$ 为紧算子。证明：
+（1）若 $\operatorname{Im}K$ 是闭集，则 $\dim\operatorname{Im}K<\infty$；
+（2）$\operatorname{Im}K\subset Y$ 是可分子空间；
+（3）若 $Y$ 可分，则存在 Banach 空间 $X$ 和具有稠密像的紧算子 $K:X\to Y$。
+\end{problem}
+
+\begin{proof}
+\textbf{(1)} 设 $M=\operatorname{Ran}K$ 闭，则 $M$ 是 Banach 空间。把 $K$ 看作到 $M$ 的满射，
+由开映射定理存在 $c>0$ 使 $B_M\subset K(cB_X)$。因 $K$ 紧，$K(cB_X)$ 相对紧，从而
+$B_M$ 相对紧。Riesz 引理说明无限维赋范空间的单位球不可能相对紧，故 $\dim M<\infty$。
+
+\textbf{(2)} 对每个 $n$，相对紧集 $K(nB_X)$ 是可分的；取其可数稠密集 $D_n$。因为
+\[
+ \operatorname{Ran}K=\bigcup_{n=1}^\infty K(nB_X),
+\]
+$D=\bigcup_nD_n$ 可数且在 $\operatorname{Ran}K$ 中稠密，所以像可分。
+
+\textbf{(3)} 取 $Y$ 中稠密序列 $(y_n)$，不妨令 $y_n\neq0$。定义
+\[
+ K:\ell^1\to Y,\qquad K(a)=\sum_{n=1}^\infty a_n\frac{y_n}{2^n\|y_n\|}.
+\]
+该级数绝对收敛，$K$ 有界。令 $K_N$ 为前 $N$ 项截断，则 $K_N$ 有限秩，且
+$\|K-K_N\|\leq2^{-N}$，故 $K$ 是紧算子。又
+$y_n=2^n\|y_n\|K(e_n)$，所以所有 $y_n$ 都在像中，像因而稠密。
+\end{proof}
+
+\subsection*{22.2}
+\begin{problem}
+设 $X$ 为 Banach 空间，$C\subset X$ 为闭子集。证明以下结论等价：
+
+（1）$C$ 是紧集；
+
+（2）存在序列 $(x_n)\subset C$，使 $\|x_n\|\to0$，且
+$C\subset\overline{\operatorname{conv}}\{x_n:n\in\mathbb N\}$。
+
+提示 1：若 $\|x_n\|\to0$，则
+\[
+ \overline{\operatorname{conv}}\{x_n:n\in\mathbb N\}
+ =\left\{\sum_{n=1}^{\infty}\lambda_nx_n:
+ \lambda_n\geq0,\ \sum_{n=1}^{\infty}\lambda_n\leq1\right\}.
+\]
+
+提示 2：为证明（1）推出（2），选取紧集 $C_k\subset X$ 及有限集 $A_k\subset C_k$，使
+$C_1=C$，并且对每个 $k\in\mathbb N$ 有
+\[
+ 2C_k\subset\bigcup_{x\in A_k}B_{4^{-k}}(x),\qquad
+ C_{k+1}:=\bigcup_{x\in A_k}\bigl((2C_k\cap B_{4^{-k}}(x))-x\bigr).
+\]
+证明对每个 $c\in C$，存在 $x_k\in A_k$ 使
+$c=\sum_{k=1}^{\infty}2^{-k}x_k$；并注意当 $x\in A_{k+1}$ 时
+$\|x\|\leq4^{-k}$。
+\end{problem}
+
+\textbf{题面校正。}题面若确实要求 $x_n\in C$，命题对一般紧集是假的，例如
+$C=\{x\}$ 且 $x\neq0$。标准结论应为：存在 $x_n\in X$，$\|x_n\|\to0$，且
+$C\subset\overline{\operatorname{conv}}\{x_n:n\in\mathbb N\}$。以下证明这一标准版本。
+
+\begin{proof}
+先证“存在零列”推出紧性。设 $D=\{x_n:n\geq1\}\cup\{0\}$。因 $x_n\to0$，$D$ 紧。
+更直接地，对任意 $\varepsilon>0$ 取 $N$ 使 $\|x_n\|<\varepsilon/2$（$n>N$）。任意
+$z\in\overline{\operatorname{conv}}D$ 可写成极限形式
+$z\approx\sum_n\lambda_nx_n$，其中 $\lambda_n\geq0,\sum_n\lambda_n\leq1$。尾项范数至多
+$\varepsilon/2$；前 $N$ 项所在集合
+\[
+ \Bigl\{\sum_{n=1}^N\lambda_nx_n:\lambda_n\geq0,\ \sum_{n=1}^N\lambda_n\leq1\Bigr\}
+\]
+是有限维紧集，故有有限 $\varepsilon/2$-网。于是 $\overline{\operatorname{conv}}D$ 全有界；它闭且
+$X$ 完备，故紧。闭子集 $C$ 因而紧。
+
+反之设 $C$ 紧。按提示递归构造紧集 $C_k$ 和有限集 $A_k\subset C_k$：令 $C_1=C$；由
+$2C_k$ 紧，取有限 $4^{-k}$-网 $A_k$，并置
+\[
+ C_{k+1}=\bigcup_{a\in A_k}\bigl((2C_k\cap B_{4^{-k}}(a))-a\bigr).
+\]
+有限并保持紧性，且 $C_{k+1}\subset B_{4^{-k}}(0)$。给定 $c_1=c\in C_1$，依次选
+$a_k\in A_k$ 使 $\|2c_k-a_k\|<4^{-k}$，并令 $c_{k+1}=2c_k-a_k\in C_{k+1}$。递推得
+\[
+ c=\sum_{k=1}^N2^{-k}a_k+2^{-N}c_{N+1}.
+\]
+而 $\|c_{N+1}\|\leq4^{-N}$，故余项趋于 $0$，于是
+$c=\sum_{k\geq1}2^{-k}a_k$。把各有限集 $A_k$ 的元素依次列成一个序列 $(x_n)$；因
+$\sup_{a\in A_k}\|a\|\to0$（$A_k\subset C_k\subset B_{4^{-(k-1)}}$，首项有限不影响），
+有 $x_n\to0$。上述展开的系数总和 $\sum2^{-k}=1$，故
+$c\in\overline{\operatorname{conv}}\{x_n\}$。任意 $c\in C$ 均如此，结论成立。
+\end{proof}
+
+\subsection*{22.3（Pitt 定理）}
+\begin{problem}
+设 $1\leq p<q<\infty$，按照以下步骤证明所有有界线性算子
+$A:\ell^q\to\ell^p$ 都是紧算子：
+
+（1）固定 $A:\ell^q\to\ell^p$、$\|A\|=1$，以及在 $\ell^q$ 中弱收敛于 $0$ 的序列
+$(x_n)$，说明只需证明 $\|Ax_n\|_p\to0$；
+
+（2）若 $(y_n)$ 在 $\ell^p$ 中弱收敛于 $0$，证明对每个 $y\in\ell^p$，
+\[
+ \limsup_{n\to\infty}\|y+y_n\|_p^p
+ =\|y\|_p^p+\limsup_{n\to\infty}\|y_n\|_p^p;
+\]
+
+（3）固定 $\varepsilon>0$，选取 $x\in\ell^q$ 使
+$\|x\|_q=1$ 且 $1-\varepsilon<\|Ax\|_p<1$。证明对任意 $\lambda>0$，
+\[
+ \bigl(\|Ax\|_p^p+\lambda^p\limsup_n\|Ax_n\|_p^p\bigr)^{1/p}
+ \leq
+ \bigl(\|x\|_q^q+\lambda^q\limsup_n\|x_n\|_q^q\bigr)^{1/q}.
+\]
+提示：令 $y_n=\lambda Ax_n$，使用（2）以及
+$\|Ax+\lambda Ax_n\|_p\leq\|x+\lambda x_n\|_q$；
+
+（4）证明存在 $C>0$，使对任意 $\lambda,\varepsilon>0$，
+\[
+ \lambda^p\limsup_n\|Ax_n\|_p^p
+ \leq(1+\lambda^qC^q)^{p/q}-(1-\varepsilon)^p.
+\]
+提示：取 $C\geq\sup_n\|x_n\|_q$；
+
+（5）在（4）中令 $\lambda=C^{-1}\varepsilon^{1/q}$，得到
+\[
+ \limsup_n\|Ax_n\|_p^p
+ \leq C^p\varepsilon^{1-p/q}
+ \left(\frac{(1+\varepsilon)^{p/q}-1}{\varepsilon}
+ +\frac{1-(1-\varepsilon)^p}{\varepsilon}\right),
+\]
+再令 $\varepsilon\to0$，证明 $\|Ax_n\|_p\to0$。
+\end{problem}
+
+\begin{proof}
+设 $A:\ell^q\to\ell^p$ 有界。缩放后可设 $\|A\|=1$。因 $1<q<\infty$ 时 $\ell^q$
+自反，证明 $A$ 把弱收敛到 $0$ 的序列送到范数收敛到 $0$ 的序列，即可由序列判别得到紧性。
+
+先证题目中的等式。若 $y_n\rightharpoonup0$ 于 $\ell^p$，则每一坐标 $y_n(j)\to0$。
+固定 $N$，前 $N$ 个坐标逐项取极限；尾部用
+$|a+b|^p\leq(1+\eta)|a|^p+C_\eta|b|^p$ 控制，再令 $N\to\infty$、$\eta\downarrow0$，得到
+\[
+ \limsup_n\|y+y_n\|_p^p=\|y\|_p^p+\limsup_n\|y_n\|_p^p. \tag{22.1}
+\]
+
+现设 $x_n\rightharpoonup0$ 于 $\ell^q$，并令 $C\geq\sup_n\|x_n\|_q$。给定 $\varepsilon>0$，
+由 $\|A\|=1$ 可取 $\|x\|_q=1$ 且 $1-\varepsilon<\|Ax\|_p\leq1$。对任意 $\lambda>0$，
+由 (22.1)（分别用于 $p$ 和 $q$）以及 $\|A(x+\lambda x_n)\|_p\leq\|x+\lambda x_n\|_q$，有
+\[
+ \bigl(\|Ax\|_p^p+\lambda^pL\bigr)^{1/p}
+ \leq\bigl(1+\lambda^qM\bigr)^{1/q},
+\]
+其中 $L=\limsup\|Ax_n\|_p^p$，$M=\limsup\|x_n\|_q^q\leq C^q$。因此
+\[
+ \lambda^pL\leq(1+\lambda^qC^q)^{p/q}-(1-\varepsilon)^p.
+\]
+令 $\lambda=C^{-1}\varepsilon^{1/q}$（$C=0$ 时结论显然），得
+\[
+ L\leq C^p\varepsilon^{1-p/q}
+ \left(\frac{(1+\varepsilon)^{p/q}-1}{\varepsilon}
+       +\frac{1-(1-\varepsilon)^p}{\varepsilon}\right).
+\]
+括号在 $\varepsilon\downarrow0$ 时有界，而 $1-p/q>0$，故 $L=0$，即
+$\|Ax_n\|_p\to0$。于是 $A$ 紧。
+\end{proof}
+
+\section{第二十三次作业}
+
+\subsection*{23.1}
+\begin{problem}
+设 $X,Y$ 为 Banach 空间，并且存在从 $X$ 到 $Y$ 的 Fredholm 算子。证明：
+（1）$X$ 自反当且仅当 $Y$ 自反；
+（2）$X$ 可分当且仅当 $Y$ 可分。
+\end{problem}
+
+设 $T:X\to Y$ 为 Fredholm 算子。取闭补空间
+$X=\ker T\oplus X_0$，以及有限维补空间
+$Y=\operatorname{Ran}T\oplus Y_0$。则 $T|_{X_0}:X_0\to\operatorname{Ran}T$ 是有界双射，故
+$X_0\cong\operatorname{Ran}T$。
+
+自反性对闭子空间、有限维扩张和有限直和保持。因此
+\[
+ X\text{ 自反}\iff X_0\text{ 自反}
+ \iff\operatorname{Ran}T\text{ 自反}\iff Y\text{ 自反}.
+\]
+同理，可分性对闭子空间、连续像及有限维扩张保持，所以
+$X$ 可分当且仅当 $X_0$ 可分，当且仅当 $\operatorname{Ran}T$ 可分，当且仅当 $Y$ 可分。
+
+\subsection*{23.2}
+\begin{problem}
+设 $X$ 为实 Banach 空间。证明：任意两个 $X$ 的余维数为 $1$ 的闭子空间同构。
+
+提示：考虑两个子空间 $Y,Z$ 以及 $(Y\cap Z)\times\mathbb R$。
+\end{problem}
+
+设 $Y,Z\subset X$ 都是余维 $1$ 的闭子空间。若 $Y=Z$ 无须证明。否则 $Y\not\subset Z$ 且
+$Z\not\subset Y$，故 $Y\cap Z$ 在 $Y$、$Z$ 中都余维 $1$。取
+$y_0\in Y\setminus Z,z_0\in Z\setminus Y$，则
+\[
+ Y=(Y\cap Z)\oplus\mathbb Ry_0,\qquad
+ Z=(Y\cap Z)\oplus\mathbb Rz_0.
+\]
+这些有限维补空间上的投影有界（也可用定义 $Y=\ker f,Z=\ker g$ 后显式写投影）。映射
+$u+ty_0\mapsto u+tz_0$ 是有界线性双射，其逆同样有界，因此 $Y\cong Z$。
+
+\subsection*{23.3}
+\begin{problem}
+设 $X$ 为无限维实 Banach 空间。证明以下命题等价：
+
+（1）$X$ 与 $X\times\mathbb R$ 同构；
+
+（2）存在 $X$ 的一个余维数为 $1$ 的子空间与 $X$ 同构；
+
+（3）$X$ 的所有余维数为 $1$ 的闭子空间都与 $X$ 同构；
+
+（4）存在指数为 $1$ 的 Fredholm 算子 $A:X\to X$。
+\end{problem}
+
+\begin{proof}
+$(1)\Rightarrow(2)$：在 $X\times\mathbb R$ 中，$X\times\{0\}$ 余维 $1$ 且同构于 $X$；经
+$X\cong X\times\mathbb R$ 拉回即得。
+
+$(2)\Rightarrow(3)$：由 23.2，任意两个余维 $1$ 闭子空间同构。
+
+$(3)\Rightarrow(1)$：取任意非零 $f\in X^*$ 和 $x_0$ 使 $f(x_0)=1$，则
+$X=\ker f\oplus\mathbb Rx_0\cong\ker f\times\mathbb R$。由 (3)，$\ker f\cong X$，所以
+$X\cong X\times\mathbb R$。
+
+$(1)\Rightarrow(4)$：取同构 $J:X\to X\times\mathbb R$，再取投影
+$P:X\times\mathbb R\to X$。则 $A=PJ$ 满射，且 $\ker A=J^{-1}(\{0\}\times\mathbb R)$
+一维，故 $A$ 是指数 $1$ 的 Fredholm 算子。
+
+$(4)\Rightarrow(1)$：设 $k=\dim\ker A$，$c=\operatorname{codim}\operatorname{Ran}A$，则
+$k-c=1$。取闭补空间 $X=X_0\oplus\ker A$ 及
+$X=\operatorname{Ran}A\oplus\mathbb R^c$。因 $X_0\cong\operatorname{Ran}A$，
+\[
+ X\cong X_0\oplus\mathbb R^k
+   \cong(X_0\oplus\mathbb R^c)\oplus\mathbb R
+   \cong X\oplus\mathbb R.
+\]
+故四个命题等价。
+\end{proof}
+
+\subsection*{23.4}
+\begin{problem}
+记 $I=[0,1]$，固定 $p\geq1$，定义
+\[
+ W^{1,p}(I)=\left\{f:I\to\mathbb R: f\text{ 绝对连续且 }
+ \int_0^1|f'(t)|^pdt<\infty\right\},
+\]
+并赋予范数
+\[
+ \|f\|_{W^{1,p}}=\left(\int_0^1(|f(t)|^p+|f'(t)|^p)dt\right)^{1/p}.
+\]
+证明：
+
+（1）$W^{1,p}(I)$ 在该范数下是 Banach 空间；
+
+（2）从 $W^{1,p}(I)$ 到带上确界范数的 $C(I)$ 的包含映射是有界线性算子；
+
+（3）上述包含映射在 $p>1$ 时是紧算子，而在 $p=1$ 时不是。
+
+提示：当 $p>1$ 时证明单位球等度连续并应用 Arzelà--Ascoli 定理；当 $p=1$ 时考虑
+$f_n(t)=t^n$。
+\end{problem}
+
+\begin{proof}
+\textbf{(1)} 定义 $J:W^{1,p}(I)\to L^p(I)\times L^p(I)$ 为 $Jf=(f,f')$，其范数恰为题设范数。
+若 $(f_n,f_n')\to(g,h)$ 于 $L^p\times L^p$，则取子列使 $f_n\to g,f_n'\to h$ 几乎处处；且
+\[
+ f_n(t)=f_n(0)+\int_0^t f_n'(s)\,ds.
+\]
+由下面 (2) 的估计，$(f_n(0))$ 为 Cauchy 列，设极限为 $a$。Hölder 不等式给出
+$\int_0^t f_n'\to\int_0^t h$，故 $g$ 几乎处处等于绝对连续函数
+$a+\int_0^t h$，其导数为 $h$。所以 $J$ 的像闭，$W^{1,p}$ 完备。
+
+\textbf{(2)} 存在 $s\in[0,1]$ 使 $|f(s)|\leq\|f\|_p$；否则积分将大于 $\|f\|_p^p$。于是
+\[
+ |f(t)|\leq |f(s)|+\int_0^1|f'(u)|\,du
+ \leq\|f\|_p+\|f'\|_p\leq2^{1-1/p}\|f\|_{W^{1,p}}.
+\]
+故嵌入到 $C(I)$ 有界。
+
+\textbf{(3)} 若 $p>1$，令 $p'=p/(p-1)$。单位球中任意 $f$ 满足一致有界性，且
+\[
+ |f(t)-f(s)|\leq\int_s^t|f'(u)|du
+ \leq\|f'\|_p|t-s|^{1/p'}\leq|t-s|^{1/p'}.
+\]
+故单位球等度连续。Arzelà--Ascoli 定理说明其在 $C(I)$ 中相对紧，嵌入为紧算子。
+
+当 $p=1$，取 $f_n(t)=t^n$。有
+$\|f_n\|_{W^{1,1}}=\int_0^1t^n dt+\int_0^1nt^{n-1}dt=1+1/(n+1)$，故序列有界。
+若存在一致收敛子列，其极限必连续；但逐点极限在 $[0,1)$ 为 $0$，在 $1$ 为 $1$，不连续，矛盾。
+故嵌入不紧。
+\end{proof}
+
+\section{第二十四次作业}
+
+\subsection*{24.1}
+\begin{problem}
+记 $X=(X,\|\cdot\|;\mathbb C)$，并把同一赋范空间视为实赋范空间
+$X_{\mathbb R}=(X,\|\cdot\|;\mathbb R)$。若
+$\Lambda\in\mathcal L_{\mathbb C}(X;\mathbb C)$，证明：
+
+（1）$\operatorname{Re}\Lambda\in\mathcal L(X_{\mathbb R};\mathbb R)$；
+
+（2）映射
+\[
+ \Phi:\mathcal L_{\mathbb C}(X;\mathbb C)
+ \longrightarrow\mathcal L(X_{\mathbb R};\mathbb R),
+ \qquad \Phi(\Lambda)=\operatorname{Re}\Lambda
+\]
+是等距同构。
+\end{problem}
+
+设 $X_{\mathbb R}$ 表示忘掉复数乘法后的实空间。
+\begin{proof}
+若 $\Lambda\in X^*$ 为复线性，则 $\operatorname{Re}\Lambda$ 显然实线性，且
+$|\operatorname{Re}\Lambda(x)|\leq|\Lambda(x)|\leq\|\Lambda\|\|x\|$。
+反过来，给定 $u\in(X_{\mathbb R})^*$，定义
+\[
+ \Lambda_u(x)=u(x)-iu(ix).
+\]
+直接计算得 $\Lambda_u(ix)=i\Lambda_u(x)$，故它复线性，且 $\operatorname{Re}\Lambda_u=u$；唯一性来自
+$\Lambda(x)=\operatorname{Re}\Lambda(x)-i\operatorname{Re}\Lambda(ix)$。最后，对每个 $x$ 取
+$\theta$ 使 $e^{i\theta}\Lambda(x)=|\Lambda(x)|$，则
+\[
+ |\Lambda(x)|=|\operatorname{Re}\Lambda(e^{i\theta}x)|\leq\|\operatorname{Re}\Lambda\|\|x\|.
+\]
+结合反向显然不等式，$\|\Lambda\|=\|\operatorname{Re}\Lambda\|$。故 $\Phi$ 是等距同构。
+\end{proof}
+
+\subsection*{24.2}
+\begin{problem}
+设 $X=(X,\|\cdot\|;\mathbb R)$，对 $z\in X^c$ 定义
+\[
+ \|z\|_{X^c}:=\sup_{\theta\in\mathbb R}
+ \left(\|\operatorname{Re}(e^{i\theta}z)\|_X^2+
+       \|\operatorname{Im}(e^{i\theta}z)\|_X^2\right)^{1/2}.
+\]
+证明：
+
+（1）$(X^c,\|\cdot\|_{X^c})$ 是复赋范空间；若 $X$ 是 Banach 空间，则 $X^c$ 也是
+Banach 空间；
+
+（2）设 $A:X\to Y$ 为实线性算子，并定义
+$A^c:X^c\to Y^c$，
+\[
+ A^c(x+iy)=Ax+iAy\qquad(x,y\in X).
+\]
+若 $A\in\mathcal L(X,Y)$，证明 $A^c\in\mathcal L_{\mathbb C}(X^c,Y^c)$ 且
+$\|A^c\|=\|A\|$。
+\end{problem}
+
+写 $z=x+iy$，并令
+\[
+ \|z\|_{X^c}=\sup_{\theta\in\mathbb R}
+ \bigl(\|\operatorname{Re}(e^{i\theta}z)\|_X^2+
+       \|\operatorname{Im}(e^{i\theta}z)\|_X^2\bigr)^{1/2}.
+\]
+每个固定 $\theta$ 对应的表达式是 $X\times X$ 的积范数；取上确界保持三角不等式。
+若范数为零，取 $\theta=0$ 得 $x=y=0$。对 $a=re^{i\phi}$，变量替换
+$\theta\mapsto\theta+\phi$ 给出 $\|az\|=r\|z\|$，故这是复范数。
+并且取 $\theta=0$ 及使用三角不等式可得
+\[
+ \max(\|x\|,\|y\|)\leq\|x+iy\|_{X^c}
+ \leq\sqrt2(\|x\|+\|y\|).
+\]
+所以它与积空间范数等价；若 $X$ 完备，则 $X^c$ 完备。
+
+若 $A\in\mathcal L(X,Y)$，则 $A^c(x+iy)=Ax+iAy$ 复线性，且对每个 $\theta$，
+\[
+ \|\operatorname{Re}(e^{i\theta}A^cz)\|^2+
+ \|\operatorname{Im}(e^{i\theta}A^cz)\|^2
+ \leq\|A\|^2\bigl(\|\operatorname{Re}(e^{i\theta}z)\|^2+
+ \|\operatorname{Im}(e^{i\theta}z)\|^2\bigr).
+\]
+故 $\|A^c\|\leq\|A\|$。在实向量 $z=x$ 上有
+$\|A^cx\|=\|Ax\|$、$\|x\|_{X^c}=\|x\|$，取上确界得反向不等式。因此
+$\|A^c\|=\|A\|$。
+
+\subsection*{24.3}
+\begin{problem}
+设 $\Lambda_1,\Lambda_2\in\mathcal L(X;\mathbb R)$，对 $x,y\in X$ 定义
+\[
+ \Lambda^c(x+iy)=\Lambda_1(x)-\Lambda_2(y)
+ +i\bigl(\Lambda_2(x)+\Lambda_1(y)\bigr).
+\]
+证明：
+
+（1）映射
+\[
+ \Phi:(\mathcal L(X;\mathbb R))^c\longrightarrow
+ \mathcal L_{\mathbb C}(X^c;\mathbb C),
+ \qquad \Phi(\Lambda_1+i\Lambda_2)=\Lambda^c
+\]
+是同构；
+
+（2）若 $X$ 是 Hilbert 空间，则 $\Phi$ 还是等距的。
+\end{problem}
+
+给定 $\Lambda_1,\Lambda_2\in X^*$，题设公式直接验证 $\Lambda^c$ 对 $x+iy$ 复线性且有界。
+若 $F\in(X^c)^*$，令
+$\Lambda_1(x)=\operatorname{Re}F(x)$、$\Lambda_2(x)=\operatorname{Im}F(x)$；由复线性
+$F(x+iy)=F(x)+iF(y)$，恰好恢复题设公式。因此 $\Phi$ 为双射；由前述等价范数估计，它和逆都
+有界，故为同构。
+
+若 $X$ 为实 Hilbert 空间，复化内积取
+\[
+ \langle x+iy,u+iv\rangle_c
+ =\langle x,u\rangle+\langle y,v\rangle
+ +i(\langle y,u\rangle-\langle x,v\rangle).
+\]
+由 Riesz 表示，$\Lambda_1(x)=\langle x,u\rangle$、
+$\Lambda_2(x)=\langle x,v\rangle$，且 $\Lambda^c$ 由向量 $u+iv$ 表示。实对偶复化范数和复
+Hilbert 对偶范数都等于 $(\|u\|^2+\|v\|^2)^{1/2}$，故 $\Phi$ 等距。
+
+\section{第二十五次作业}
+
+\subsection*{25.1}
+\begin{problem}
+设右移算子 $R:\ell^2\to\ell^2$ 为
+\[
+ R((x_i)_{i\geq1})=(0,x_1,x_2,\ldots).
+\]
+证明其连续谱和剩余谱分别为
+\[
+ \sigma_c(R)=\{\lambda\in\mathbb C:|\lambda|=1\},\qquad
+ \sigma_r(R)=\{\lambda\in\mathbb C:|\lambda|<1\},
+\]
+从而点谱 $\sigma_p(R)$ 为空。
+
+提示：连续谱部分可参考讲义中的例子；剩余谱的关键是证明当 $|\lambda|<1$ 时
+\[
+ \operatorname{Ran}(\lambda I-R)
+ =\{(\bar\lambda^i)_{i\geq0}\}^{\perp}.
+\]
+\end{problem}
+
+令 $R(x_1,x_2,\ldots)=(0,x_1,x_2,\ldots)$。
+\begin{proof}
+若 $|\lambda|>1=\|R\|$，则
+$\lambda I-R=\lambda(I-R/\lambda)$ 可由 Neumann 级数求逆，故在预解集。
+
+若 $|\lambda|<1$，方程 $(\lambda I-R)x=0$ 逐坐标给出 $\lambda x_1=0$、
+$\lambda x_{n+1}-x_n=0$；无论 $\lambda=0$ 与否都推出 $x=0$，故算子单射。其伴随为左移
+$R^*(y_1,y_2,\ldots)=(y_2,y_3,\ldots)$。向量
+$v_\lambda=(1,\bar\lambda,\bar\lambda^2,\ldots)\in\ell^2$ 满足
+$(\bar\lambda I-R^*)v_\lambda=0$。因此
+\[
+ \overline{\operatorname{Ran}(\lambda I-R)}
+ =\ker(\bar\lambda I-R^*)^\perp=v_\lambda^\perp\neq\ell^2.
+\]
+所以 $|\lambda|<1$ 属于剩余谱。
+
+若 $|\lambda|=1$，同样的递推说明 $\lambda I-R$ 单射；此时上述形式的特征向量不在 $\ell^2$，
+且直接递推可知 $\ker(\bar\lambda I-R^*)=\{0\}$，所以像稠密。另一方面取
+\[
+ x^{(N)}=N^{-1/2}(1,\lambda^{-1},\ldots,\lambda^{-(N-1)},0,\ldots),
+\]
+则 $\|x^{(N)}\|=1$ 且 $\|(\lambda I-R)x^{(N)}\|=\sqrt{2/N}\to0$。若算子有有界逆便不可能
+发生此事，故它不满射。于是 $|\lambda|=1$ 属于连续谱，点谱为空。
+\end{proof}
+
+\subsection*{25.2}
+\begin{problem}
+设 $X$ 为复 Banach 空间，$A\in\mathcal L_{\mathbb C}(X)$ 是双射。设实数
+$\varepsilon,r$ 满足
+\[
+ 0<\varepsilon<\|A^{-1}\|^{-1}\leq\|A\|<r.
+\]
+证明
+$\sigma(A)\subset\{\lambda\in\mathbb C:\varepsilon<|\lambda|<r\}$。
+\end{problem}
+
+若 $|\lambda|>\|A\|$，则
+$\lambda I-A=\lambda(I-A/\lambda)$ 可逆。若
+$|\lambda|<\|A^{-1}\|^{-1}$，则
+\[
+ \lambda I-A=-A(I-\lambda A^{-1})
+\]
+也由 Neumann 级数可逆。因此谱只可能满足
+$\|A^{-1}\|^{-1}\leq|\lambda|\leq\|A\|$。结合题设严格不等式即
+$\sigma(A)\subset\{\varepsilon<|\lambda|<r\}$。
+
+\subsection*{25.3}
+\begin{problem}
+设 $X$ 为复 Banach 空间，$\Omega\subset\mathbb C$ 为开集，
+$f:\Omega\to X$ 为全纯函数。证明：
+
+（1）导数 $f':\Omega\to X$ 也是全纯函数；
+
+（2）$f$ 是光滑函数；
+
+（3）取 $z_0\in\Omega$、$r>0$ 使 $\overline{B_r(z_0)}\subset\Omega$，定义
+$\gamma(t)=z_0+re^{2\pi it}$。证明对 $w\in B_r(z_0)$，
+\[
+ f^{(n)}(w)=\frac{n!}{2\pi i}
+ \int_\gamma\frac{f(z)}{(z-w)^{n+1}}\,dz.
+\]
+\end{problem}
+
+取闭圆盘 $\overline{B_r(z_0)}\subset\Omega$。Banach 值 Cauchy 公式为
+\[
+ f(w)=\frac1{2\pi i}\int_\gamma\frac{f(z)}{z-w}\,dz.
+\]
+它可通过对两边施加任意 $x^*\in X^*$、使用标量 Cauchy 公式，再由 Hahn--Banach 分离点得到。
+对 $w$ 在更小的闭圆盘内，核函数关于 $w$ 的各阶导数一致有界，所以可在 Bochner 积分号下
+逐次求导，得到
+\[
+ f^{(n)}(w)=\frac{n!}{2\pi i}\int_\gamma\frac{f(z)}{(z-w)^{n+1}}\,dz. \tag{25.1}
+\]
+右端作为 $w$ 的函数连续，且再次求导仍合法。因此 $f'$ 全纯，归纳得所有阶导数存在且连续，
+$f$ 是光滑函数；(25.1) 也正是第 (3) 问公式。
+
+\subsection*{25.4}
+\begin{problem}
+设 $X$ 为复 Banach 空间，$(a_n)_{n\in\mathbb N}$ 为 $X$ 中的序列，且
+\[
+ \rho:=\frac{1}{\limsup_{n\to\infty}\|a_n\|^{1/n}}>0.
+\]
+证明幂级数
+$f(z)=\sum_{n=0}^{\infty}a_nz^n$ 对每个 $|z|<\rho$ 收敛，并且
+$f:B_\rho(0)\to X$ 是全纯函数。取 $0<r<\rho$，定义
+$\gamma(t)=re^{2\pi it}$，证明
+\[
+ a_n=\frac{f^{(n)}(0)}{n!}
+ =\frac1{2\pi i}\int_\gamma\frac{f(z)}{z^{n+1}}\,dz.
+\]
+\end{problem}
+
+固定 $|z|<r<\rho$。由根值判别，存在 $N$ 与 $c<1/r$，使 $n\geq N$ 时
+$\|a_n\|^{1/n}\leq c$，故
+$\|a_nz^n\|\leq(c|z|)^n$，级数绝对收敛。并且在每个闭圆盘 $|z|\leq r<\rho$ 上一致收敛。
+逐项求导级数也由同样的根值判别一致收敛，所以
+\[
+ f'(z)=\sum_{n\geq1}na_nz^{n-1},
+\]
+$f$ 全纯。对圆周 $\gamma(t)=re^{2\pi it}$ 逐项积分（由一致收敛），
+\[
+ \frac1{2\pi i}\int_\gamma\frac{f(z)}{z^{n+1}}dz
+ =\sum_{k\geq0}a_k\frac1{2\pi i}\int_\gamma z^{k-n-1}dz=a_n.
+\]
+又逐项求导在 $0$ 给出 $f^{(n)}(0)=n!a_n$，故题设两式成立。
+
+\subsection*{25.5}
+\begin{problem}
+设 $X$ 为复 Banach 空间，$A:X\to X$ 为有界复线性算子，
+$p(z)=\sum_{k=0}^na_kz^k$ 为复系数多项式。直接证明
+\[
+ \sigma(p(A))=p(\sigma(A)),
+ \qquad p(A)=\sum_{k=0}^na_kA^k.
+\]
+
+提示：为证 $p(\sigma(A))\subset\sigma(p(A))$，固定 $\lambda\in\sigma(A)$，写
+$p(z)-p(\lambda)=(z-\lambda)q(z)$。为证反向包含，不妨设 $a_n\neq0$；固定
+$\mu\in\sigma(p(A))$，并把 $p(z)-\mu$ 分解为
+$a_n\prod_{i=1}^n(z-\lambda_i)$，证明至少有一个 $A-\lambda_iI$ 不是双射。
+\end{problem}
+
+若 $\lambda\in\sigma(A)$，则
+$p(z)-p(\lambda)=(z-\lambda)q(z)$，故
+\[
+ p(A)-p(\lambda)I=(A-\lambda I)q(A).
+\]
+若左端可逆，则其两个可交换因子都可逆（例如
+$(A-\lambda I)^{-1}=q(A)[p(A)-p(\lambda)I]^{-1}$），与
+$\lambda\in\sigma(A)$ 矛盾。因此 $p(\lambda)\in\sigma(p(A))$。
+
+反之若 $\mu\in\sigma(p(A))$，在复数域分解
+$p(z)-\mu=a\prod_{j=1}^n(z-\lambda_j)$。若每个
+$A-\lambda_jI$ 都可逆，则它们彼此交换，乘积
+$p(A)-\mu I$ 也可逆，矛盾。因此某个 $\lambda_j\in\sigma(A)$，并且
+$\mu=p(\lambda_j)$。故 $\sigma(p(A))=p(\sigma(A))$。
+
+\section{第二十六次作业}
+
+\subsection*{26.1}
+\begin{problem}
+在 25.2 的条件下，证明
+\[
+ A^{-1}=
+ \frac1{2\pi i}\int_{|z|=r}\frac{R(z,A)}{z}\,dz
+ -\frac1{2\pi i}\int_{|z|=\varepsilon}\frac{R(z,A)}{z}\,dz.
+\]
+\end{problem}
+
+取正向边界 $\Gamma=\{|z|=r\}-\{|z|=\varepsilon\}$。由 25.2，谱位于环域
+$\varepsilon<|z|<r$。对在谱邻域全纯的函数 $g(z)=1/z$，全纯函数演算给出
+\[
+ g(A)=\frac1{2\pi i}\int_\Gamma g(z)R(z,A)\,dz.
+\]
+又 $g(A)=A^{-1}$，而内边界在 $\Gamma$ 中取负向，故
+\[
+ A^{-1}=\frac1{2\pi i}\int_{|z|=r}\frac{R(z,A)}z,dz
+ -\frac1{2\pi i}\int_{|z|=\varepsilon}\frac{R(z,A)}z,dz.
+\]
+
+\subsection*{26.2}
+\begin{problem}
+设 $H$ 是复 Hilbert 空间，$A\in\mathcal L_{\mathbb C}(H)$，$E\subset H$ 为闭复线性子空间。
+称 $E$ 在 $A$ 下不变，是指 $x\in E$ 蕴含 $Ax\in E$。证明：
+$E$ 在 $A$ 下不变，当且仅当 $E^\perp$ 在 $A^*$ 下不变。
+\end{problem}
+
+若 $E$ 在 $A$ 下不变，取 $y\in E^\perp,x\in E$，则
+\[
+ \langle x,A^*y\rangle=\langle Ax,y\rangle=0,
+\]
+故 $A^*y\in E^\perp$。反之若 $E^\perp$ 在 $A^*$ 下不变，则对
+$x\in E,y\in E^\perp$，仍有
+$\langle Ax,y\rangle=\langle x,A^*y\rangle=0$。因此
+$Ax\in(E^\perp)^\perp=E$，其中最后一步使用了 $E$ 闭。
+
+\subsection*{26.3}
+\begin{problem}
+若 $A\in\mathcal L_{\mathbb C}(X)$ 满足
+\[
+ \ker((\lambda I-A)^m)=\ker((\lambda I-A)^{m+1}),
+\]
+证明对每个 $k\geq1$，
+\[
+ \ker((\lambda I-A)^m)=\ker((\lambda I-A)^{m+k}).
+\]
+\end{problem}
+
+令 $B=\lambda I-A$。已知 $\ker B^m=\ker B^{m+1}$。先证相邻项以后保持相等：若
+$x\in\ker B^{m+2}$，则 $Bx\in\ker B^{m+1}=\ker B^m$，所以
+$B^{m+1}x=0$，即 $x\in\ker B^{m+1}$。反向包含显然，故
+$\ker B^{m+2}=\ker B^{m+1}$。归纳即得
+$\ker B^{m+k}=\ker B^m$ 对所有 $k\geq1$ 成立。
+
+\subsection*{26.4}
+\begin{problem}
+设 $A\in\mathcal L_{\mathbb C}(X)$ 是紧算子，
+$\lambda\in\sigma(A)\setminus\{0\}$。取 $\varepsilon>0$ 使
+$\{z:|z-\lambda|\leq\varepsilon\}\setminus\{\lambda\}\subset\rho(A)$，定义
+\[
+ P_\lambda=\frac1{2\pi i}\int_{|z-\lambda|=\varepsilon}R(z,A)\,dz,
+ \qquad Y=\operatorname{Ran}P_\lambda.
+\]
+证明对每个 $m\geq1$，
+\[
+ \ker((\lambda I-A)^m)=\ker((\lambda I-A|_Y)^m).
+\]
+\end{problem}
+
+Riesz 投影 $P_\lambda$ 与 $A$ 交换，故 $Y=\operatorname{Ran}P_\lambda$ 在 $A$ 下不变。
+显然
+\[
+ \ker((\lambda I-A|_Y)^m)\subset\ker((\lambda I-A)^m).
+\]
+反过来，若 $(\lambda I-A)^mx=0$，在 $X=Y\oplus\ker P_\lambda$ 的谱分解中写
+$x=y+z$。限制算子 $A|_{\ker P_\lambda}$ 的谱不含 $\lambda$，故
+$\lambda I-A$ 在 $\ker P_\lambda$ 上可逆。由
+$(\lambda I-A)^my+(\lambda I-A)^mz=0$，两项分别属于互补的不变子空间，因此
+$(\lambda I-A)^mz=0$；可逆性推出 $z=0$。所以 $x=y\in Y$，得到反向包含。
+
+\subsection*{26.5}
+\begin{problem}
+补充证明讲义第 187 页例 3 的证明过程。
+\end{problem}
+
+\textbf{依赖未提供讲义，按用户要求跳过。}题面只写“补充证明讲义第 187 页例 3”，未给出例题
+陈述，无法唯一还原待证结论。
+
+\subsection*{26.6}
+\begin{problem}
+设 $A\in\mathcal L_{\mathbb C}(X)$，$r>\|A\|$，并定义
+$e^A=\sum_{k=0}^{\infty}A^k/k!$。证明：
+
+（1）
+\[
+ e^A=\frac1{2\pi i}\int_{|z|=r}e^zR(z,A)\,dz;
+\]
+
+（2）$\sigma(e^A)=\{e^\lambda:\lambda\in\sigma(A)\}$；
+
+（3）对任意 $s,t\in\mathbb R$，$e^{(s+t)A}=e^{sA}e^{tA}$。
+\end{problem}
+
+\begin{proof}
+\textbf{(1)} 在 $|z|=r>\|A\|$ 上有一致收敛的 Neumann 展开
+$R(z,A)=\sum_{n\geq0}A^nz^{-n-1}$，而
+$e^z=\sum_{k\geq0}z^k/k!$。逐项积分并用
+$\frac1{2\pi i}\int_{|z|=r}z^{k-n-1}dz=\delta_{kn}$，得
+\[
+ \frac1{2\pi i}\int_{|z|=r}e^zR(z,A)dz
+ =\sum_{n=0}^\infty\frac{A^n}{n!}=e^A.
+\]
+
+\textbf{(2)} 全纯谱映射定理给出
+$\sigma(e^A)=e^{\sigma(A)}$。为说明其适用性：若
+$\mu\notin e^{\sigma(A)}$，则 $e^z-\mu$ 在谱的邻域无零点，故
+$1/(e^z-\mu)$ 在该邻域全纯；函数演算给出它在 $A$ 处的值，并成为
+$e^A-\mu I$ 的逆。反之若 $\mu=e^\lambda$、$\lambda\in\sigma(A)$ 而
+$e^A-\mu I$ 可逆，把 $e^z-e^\lambda=(z-\lambda)h(z)$ 代入函数演算，将导致
+$A-\lambda I$ 可逆，矛盾。
+
+\textbf{(3)} 两个幂级数绝对收敛，可按总次数重排：
+\begin{align*}
+ e^{sA}e^{tA}
+ &=\sum_{m,n\geq0}\frac{s^mt^nA^{m+n}}{m!n!}\\
+ &=\sum_{k\geq0}\frac{A^k}{k!}\sum_{m=0}^k\binom{k}{m}s^mt^{k-m}\\
+ &=\sum_{k\geq0}\frac{(s+t)^kA^k}{k!}=e^{(s+t)A}.
+\end{align*}
+\end{proof}
+
+\section{第二十七次作业}
+
+\subsection*{27.1}
+\begin{problem}
+证明讲义第 188 页所列的 Hilbert 空间上伴随算子的性质 1--9。
+\end{problem}
+
+\textbf{依赖未提供讲义，按用户要求跳过。}题面只引用“讲义第 188 页性质 1--9”，没有列出九条
+性质，无法确定需要证明的具体命题及所采用的内积约定。
+
+\subsection*{27.2}
+\begin{problem}
+设 $H$ 是非零复 Hilbert 空间，$A:H\to H$ 为正规算子。
+
+（1）证明
+\[
+ \operatorname{Re}\lambda\geq0\quad(\lambda\in\sigma(A))
+ \quad\Longleftrightarrow\quad
+ \operatorname{Re}\langle x,Ax\rangle\geq0\quad(x\in H).
+\]
+提示：从右向左时，若 $\operatorname{Re}\lambda<0$，对
+$\operatorname{Re}\langle x,Ax-\lambda x\rangle$ 使用 Cauchy--Schwarz 不等式；从左向右时，
+证明 $\|e^{-tA}\|\leq1$（$t\geq0$），并对 $t\mapsto\|e^{-tA}x\|^2$ 求导。
+
+（2）证明
+\[
+ \sup_{\|x\|=1}\operatorname{Re}\langle x,Ax\rangle
+ =\sup_{\lambda\in\sigma(A)}\operatorname{Re}\lambda,
+ \qquad
+ \inf_{\|x\|=1}\operatorname{Re}\langle x,Ax\rangle
+ =\inf_{\lambda\in\sigma(A)}\operatorname{Re}\lambda.
+\]
+
+（3）证明
+\[
+ \sigma(A)\cap i\mathbb R=\varnothing
+ \quad\Longleftrightarrow\quad A+A^*\text{ 是双射}.
+\]
+
+（4）证明
+\[
+ \sigma(A+A^*)=\{\lambda+\bar\lambda:\lambda\in\sigma(A)\}.
+\]
+提示：对 $A-\mu I$（$\mu\in\mathbb R$）使用（3）的结论。
+
+（5）证明（1）--（4）中“$A$ 是正规算子”的假设不能去掉。
+提示：找出 $A\in\mathbb R^{2\times2}$ 以及 $x\in\mathbb R^2$，使
+$\sigma(A)=\{0\}$ 且 $\langle x,Ax\rangle>0$。
+\end{problem}
+
+以下记
+\[
+ B=\operatorname{Re}A:=\frac{A+A^*}{2}.
+\]
+若 $A$ 正规，则连续函数演算说明 $B$ 自伴，并且
+\[
+ \sigma(B)=\{\operatorname{Re}\lambda:\lambda\in\sigma(A)\}. \tag{27.1}
+\]
+
+\begin{proof}
+\textbf{(1)} 因 $\operatorname{Re}\langle x,Ax\rangle=\langle x,Bx\rangle$，由自伴算子的谱定理，
+$\langle x,Bx\rangle\geq0$ 对所有 $x$ 成立，当且仅当
+$\sigma(B)\subset[0,\infty)$。结合 (27.1)，这又当且仅当
+$\operatorname{Re}\lambda\geq0$ 对所有 $\lambda\in\sigma(A)$ 成立。
+
+也可核对题目提示的一个方向：若数值实部非负而 $\operatorname{Re}\lambda<0$，则
+\[
+ \|(A-\lambda I)x\|\|x\|
+ \geq\operatorname{Re}\langle x,(A-\lambda I)x\rangle
+ \geq-\operatorname{Re}\lambda\,\|x\|^2,
+\]
+故 $A-\lambda I$ 有正下界；对正规算子，$A-\lambda I$ 亦正规，正下界同时作用于其伴随，
+从而像稠密且闭，即满射，与 $\lambda\in\sigma(A)$ 矛盾。
+
+\textbf{(2)} 自伴算子 $B$ 的 Rayleigh 商满足
+\[
+ \sup_{\|x\|=1}\langle x,Bx\rangle=\max\sigma(B),\qquad
+ \inf_{\|x\|=1}\langle x,Bx\rangle=\min\sigma(B).
+\]
+这是谱定理的直接结果：上界由谱测度积分得到；取谱靠近最大（最小）值的非零谱投影中的单位
+向量可任意逼近该端点。再用 (27.1) 和
+$\langle x,Bx\rangle=\operatorname{Re}\langle x,Ax\rangle$，即得题设两个等式。
+
+\textbf{(3)} $A+A^*=2B$。由 (27.1)，
+\begin{align*}
+ 0\notin\sigma(A+A^*)
+ &\iff0\notin\sigma(B)\\
+ &\iff0\notin\{\operatorname{Re}\lambda:\lambda\in\sigma(A)\}\\
+ &\iff\sigma(A)\cap i\mathbb R=\varnothing.
+\end{align*}
+有界算子双射等价于 $0$ 不在其谱中，故结论成立。
+
+\textbf{(4)} 由 $A+A^*=2B$ 和 (27.1)，
+\[
+ \sigma(A+A^*)=2\sigma(B)
+ =\{2\operatorname{Re}\lambda:\lambda\in\sigma(A)\}
+ =\{\lambda+\bar\lambda:\lambda\in\sigma(A)\}.
+\]
+
+\textbf{(5)} 正规性不能删去。取
+\[
+ A=\begin{pmatrix}0&1\\0&0\end{pmatrix}.
+\]
+则 $A^2=0$，所以 $\sigma(A)=\{0\}$，但 $A$ 不是正规算子。取
+$x=(1,-1)^{\mathsf T}/\sqrt2$，有
+$\operatorname{Re}\langle x,Ax\rangle=-1/2<0$，故 (1) 失败；同时数值实部的上确界为
+$1/2$、下确界为 $-1/2$，而谱实部上下确界均为 $0$，故 (2) 失败。
+又 $\sigma(A)\cap i\mathbb R=\{0\}\neq\varnothing$，但
+\[
+ A+A^*=\begin{pmatrix}0&1\\1&0\end{pmatrix}
+\]
+可逆，故 (3) 失败；其谱为 $\{-1,1\}$，而
+$\{\lambda+\bar\lambda:\lambda\in\sigma(A)\}=\{0\}$，故 (4) 失败。
+\end{proof}
