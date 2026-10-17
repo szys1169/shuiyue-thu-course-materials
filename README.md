@@ -102,3 +102,7 @@
 ### 后续增量：第 26 批
 
 [软件工程](计算机类/软件工程/)：16 份资料文件、10 份来源/目录说明；10 条未同步记录保留云盘路径及哈希。同步清单见 [.sync/organized-20261018-batch26-manifest.json](.sync/organized-20261018-batch26-manifest.json)。同样不新增压缩包、讲义课件或录屏。
+
+### 后续增量：第 25 批
+
+[分析力学](物理类/分析力学/)：12 份资料文件、15 份来源/目录说明；52 条未同步记录保留云盘路径及哈希。同步清单见 [.sync/organized-20261018-batch25-manifest.json](.sync/organized-20261018-batch25-manifest.json)。同样不新增压缩包、讲义课件或录屏。

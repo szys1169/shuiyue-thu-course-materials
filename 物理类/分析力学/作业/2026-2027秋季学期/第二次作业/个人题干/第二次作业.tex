@@ -1,0 +1,308 @@
+\documentclass[11pt,a4paper]{ctexart}
+\usepackage[margin=2.5cm]{geometry}
+\usepackage{amsmath,amssymb,bm}
+\usepackage{tikz}
+\title{分析力学第二次作业}
+\author{张溢致\quad 致理数41\quad 2024011936}
+\date{}
+\begin{document}
+\maketitle
+\noindent\textbf{1.} 利用拉格朗日方程做1.5题。
+
+\smallskip
+\noindent 1.5题：质量为 $M$，倾角为 $\theta$ 的光滑斜面的底面放在光滑的水平面上，有一质量为 $m$ 的小块从顶端沿此斜面滑下。给出小块相对斜面的加速度。
+\begin{center}
+\begin{tikzpicture}[scale=.8]
+\draw (0,0)--(5,0)--(0,2.8)--cycle;
+\draw (-.5,-.12)--(5.5,-.12);
+\node at (1.2,.7){$M$};\node[draw,rotate=-29] at (2.1,1.77){$m$};
+\draw (4,0) arc (180:151:.7);\node at (3.85,.27){$\theta$};
+\end{tikzpicture}
+\end{center}
+\noindent\textbf{解：}
+
+取斜面水平位移 $X$ 和小块沿斜面向下的位移 $s$ 为广义坐标。
+小块的坐标可以写成
+\[
+x=X+s\cos\theta,\qquad y=h-s\sin\theta.
+\]
+因此
+\[
+T=\frac12M\dot X^2+\frac12m\bigl[(\dot X+\dot s\cos\theta)^2+\dot s^2\sin^2\theta\bigr],
+\qquad V=mg(h-s\sin\theta).
+\]
+略去常量 $-mgh$，得到
+\[
+L=\frac12(M+m)\dot X^2+m\dot X\dot s\cos\theta+\frac12m\dot s^2+mgs\sin\theta.
+\]
+$X$ 是循环坐标，两个拉格朗日方程分别为
+\[
+(M+m)\ddot X+m\ddot s\cos\theta=0,
+\qquad \ddot s+\ddot X\cos\theta=g\sin\theta.
+\]
+由第一式消去 $\ddot X$，可得
+\[
+\ddot s=\frac{(M+m)g\sin\theta}{M+m\sin^2\theta}
+\]
+方向沿斜面向下。
+
+
+\noindent\textbf{2.} 两质点质量分别为 $m_1$ 和 $m_2$，坐标为 $\bm r_1$ 和 $\bm r_2$，它们之间的相互作用势能为 $V(x_1-x_2,y_1-y_2,z_1-z_2)$。
+
+(1) 以两质点的质心坐标和相对坐标作为广义坐标，给出拉格朗日量，并找到循环坐标和循环积分；
+
+(2) 给出罗斯函数，并导出运动微分方程。
+
+\noindent\textbf{解：}
+记总质量和约化质量为
+\[
+M=m_1+m_2,\qquad \mu=\frac{m_1m_2}{M},
+\]
+选择
+\[
+\bm R=\frac{m_1\bm r_1+m_2\bm r_2}{M},\qquad \bm r=\bm r_1-\bm r_2.
+\]
+解为
+\[
+\bm r_1=\bm R+\frac{m_2}{M}\bm r,\qquad
+\bm r_2=\bm R-\frac{m_1}{M}\bm r.
+\]
+代入动能后交叉项抵消，所以
+\[
+{L=\frac M2\dot{\bm R}^{,2}+\frac\mu2\dot{\bm r}^{,2}-V(\bm r)}.
+\]
+质心的三个分量均为循环坐标，相应的循环积分是总动量
+\[
+{\bm P=\frac{\partial L}{\partial\dot{\bm R}}=M\dot{\bm R}=\text{常矢量}}.
+\]
+
+
+将 $\dot{\bm R}=\bm P/M$ 代回，得到
+\[
+{\mathcal R(\bm r,\dot{\bm r};\bm P)=\frac\mu2\dot{\bm r}^{,2}-V(\bm r)-\frac{\bm P^2}{2M}}.
+\]
+应用拉格朗日型方程，有
+\[
+\frac{\mathrm d}{\mathrm dt}\frac{\partial\mathcal R}{\partial\dot r_i}-\frac{\partial\mathcal R}{\partial r_i}=0,
+\qquad{\mu\ddot{\bm r}=-\nabla_{\bm r}V}.
+\]
+质心运动由循环积分还原为
+\[
+{\bm R(t)=\bm R(0)+\frac{\bm P}{M}t}.
+\]
+
+\noindent\textbf{3.} 有一质点质量为 $m$，在中心力场 $V(r)$ 中运动，柱坐标为 $(\rho,\varphi,z)$，其拉格朗日量为
+\[
+L=\frac m2(\dot\rho^2+\rho^2\dot\varphi^2+\dot z^2)-V(\sqrt{\rho^2+z^2});
+\]
+另有一个转动坐标系，绕 $z$ 轴以角速度 $\omega$ 转动。若 $t=0$ 时两个坐标系重合，转动坐标系质点坐标为 $(\rho',\varphi',z')$。
+
+(1) 给出转动坐标系坐标表示的拉格朗日量和循环积分；
+
+(2) 给出拉格朗日方程；
+
+(3) 考查此时的“虚拟力”的形式。
+
+\noindent\textbf{解：}
+取 $\omega$ 为常量，则
+\[
+\rho=\rho',\qquad z=z',\qquad\varphi=\varphi'+\omega t.
+\]
+记 $r=\sqrt{\rho'^2+z'^2}$，有
+\[
+{L'=\frac m2\bigl[\dot\rho'^2+\rho'^2(\dot\varphi'+\omega)^2+\dot z'^2\bigr]-V(r)}.
+\]
+$\varphi'$ 是循环坐标，因此
+\[
+{p_{\varphi'}=m\rho'^2(\dot\varphi'+\omega)=J_z=\text{常量}}.
+\]
+由于 $L'$ 不显含时间，还存在广义能量积分
+\[
+\mathcal E'=\frac m2(\dot\rho'^2+\rho'^2\dot\varphi'^2+\dot z'^2)+V(r)-\frac m2\omega^2\rho'^2
+=E-\omega J_z.
+\]
+其中 $E$ 为惯性系中的机械能。
+
+分别对三个坐标列方程，得到
+\[
+{\begin{aligned}
+m\ddot\rho'-m\rho'(\dot\varphi'+\omega)^2&=-V'(r)\frac{\rho'}r,\\
+\frac{\mathrm d}{\mathrm dt}\bigl[m\rho'^2(\dot\varphi'+\omega)\bigr]&=0,\\
+m\ddot z'&=-V'(r)\frac{z'}r.
+\end{aligned}}
+\]
+整理，得
+\[
+\begin{aligned}
+m(\ddot\rho'-\rho'\dot\varphi'^2)&=-V'(r)\frac{\rho'}r+2m\omega\rho'\dot\varphi'+m\omega^2\rho',\\
+m(\rho'\ddot\varphi'+2\dot\rho'\dot\varphi')&=-2m\omega\dot\rho'.
+\end{aligned}
+\]
+令 $\bm\Omega=\omega\bm e_z$，上述额外项是
+\[
+{\bm F_{\rm C}=-2m\bm\Omega\times\bm v',\qquad
+\bm F_{\rm cf}=-m\bm\Omega\times(\bm\Omega\times\bm r')}.
+\]
+前者为科里奥利力，后者为离心力，径向与方位向分量分别为
+\[
+F_\rho^{\rm fict}=2m\omega\rho'\dot\varphi'+m\omega^2\rho',\qquad
+F_\varphi^{\rm fict}=-2m\omega\dot\rho',\qquad F_z^{\rm fict}=0.
+\]
+
+\noindent\textbf{4.} 利用泛函变分极值方法证明，在给定球面上，两点之间的最短距离是沿着大圆（半径与球体一致的圆）的一段弧线。
+
+\noindent\textbf{解：}设球半径为 $R$，曲线以弧长 $s$ 参数化，位置矢量为 $\bm r(s)$。引入乘子，考虑
+\[
+\mathcal I=\int\left[|\dot{\bm r}|+\frac{\lambda}2(\bm r^2-R^2)\right]\mathrm du.
+\]
+固定端点的欧拉方程是
+\[
+\frac{\mathrm d}{\mathrm du}\left(\frac{\dot{\bm r}}{|\dot{\bm r}|}\right)=\lambda\bm r.
+\]
+在该方程中改用弧长参数，乘子相应重定义，得到
+\[
+\bm r''(s)=\lambda(s)\bm r(s),\qquad |\bm r'(s)|=1.
+\]
+由 $\bm r^2=R^2$ 两次求导，有 $\bm r\cdot\bm r'=0$ 和 $\bm r\cdot\bm r''=-1$，故
+\[
+\lambda=-\frac1{R^2},\qquad \bm r''+\frac1{R^2}\bm r=0.
+\]
+所以曲线具有形式
+\[
+\bm r(s)=\bm a\cos(s/R)+\bm b\sin(s/R),
+\quad |\bm a|=|\bm b|=R,\quad \bm a\cdot\bm b=0.
+\]
+曲线位于过球心、由 $\bm a,\bm b$ 张成的平面内，因此必为大圆的一段。
+
+\noindent\textbf{5.} 地球表面大气由于重力导致密度不均，也因此造成光的折射率随高度变化。若气体分子数密度可以用 $n(y)$ 来表示，$y$ 是距地面的垂直高度，则 $n(y)=n_0e^{-\alpha y}$，$n_0$ 是地面上气体分子数密度，而折射率为 $\sqrt{1+\beta n(y)}$。为简化问题，可以假设 $\alpha$、$\beta$ 都是常量。由于大气厚度相比地球半径小很多，可以忽略地面弧度，只考虑高度变化。当太阳光线以某个入射角 $\theta$ 进入大气层后，光线通过大气到达地面的轨迹可以通过光程极小来确定，也就是使得积分值
+\[
+\int_{\infty}^{0}\sqrt{1+\beta n(y)}\,\mathrm ds
+\]
+极小，这里 $\mathrm ds$ 是光线的长度。试利用泛函变分极值方法给出光线轨迹方程。
+
+\noindent\textbf{解：}将分子数密度与折射率区别记为
+\[
+a=\beta n_0,\qquad N(y)=\sqrt{1+ae^{-\alpha y}}.
+\]
+
+在光线所在的竖直平面内，将轨迹写成 $x=x(y)$，有限段的正光程为
+\[
+\mathcal J[x]=\int_0^H N(y)\sqrt{1+x'^2}\,\mathrm dy.
+\]
+被积函数不含 $x$，欧拉方程给出
+\[
+\frac{N(y)x'}{\sqrt{1+x'^2}}=C.
+\]
+选择水平轴使反向追迹（从地面向上）时 $x'\ge0$。无穷高处 $N\to1$、$x'\to\tan\theta$，从而 $C=\sin\theta$。于是
+\[
+{\frac{\mathrm dx}{\mathrm dy}=\frac{\sin\theta}{\sqrt{\cos^2\theta+ae^{-\alpha y}}}}.
+\]
+若地面交点为 $(x_g,0)$，轨迹可直接写成
+\[
+{x(y)=x_g+\sin\theta\int_0^y\frac{\mathrm d\eta}{\sqrt{\cos^2\theta+ae^{-\alpha\eta}}}}.
+\]
+
+当 $a>0$、$0<\theta<\pi/2$ 时，记 $c=\cos\theta$，令 $u=\sqrt{c^2+ae^{-\alpha y}}$，则
+\[
+\frac{\mathrm dy}{u}=-\frac2\alpha\frac{\mathrm du}{u^2-c^2}.
+\]
+积分得到显式轨迹
+\[
+{x(y)=x_g+\frac{2\tan\theta}{\alpha}
+\left[\operatorname{artanh}\frac{c}{\sqrt{c^2+ae^{-\alpha y}}}
+-\operatorname{artanh}\frac{c}{\sqrt{c^2+a}}\right]}.
+\]
+沿途与竖直方向的夹角 $i(y)$ 满足
+\[
+{N(y)\sin i(y)=\sin\theta},\qquad
+\sin i(0)=\frac{\sin\theta}{\sqrt{1+a}}.
+\]
+因折射率向地面增大，光线逐渐向竖直法线偏折。
+
+$\theta=0$ 时为竖直直线，$a=0$ 时为 $x=x_g+y\tan\theta$。
+
+
+\noindent\textbf{6.} 质量为 $m$ 的粒子的势能，
+在一半径为 $R$ 的球形区域内为 $-|U_0|$，球外为零。
+该粒子以初速度 $v_0$ 从球面某处射入球内，之后离开球。
+根据哈密顿原理给出粒子的运动轨迹。
+
+
+\begin{center}
+\begin{tikzpicture}[scale=.75]
+\draw (0,0) circle (1.5);\fill (0,0) circle (.04);\node[below] at (0,0){$O$};
+\draw[->] (-3,.85)--(-1.8,.85) node[midway,above]{$v_0$};
+\draw[dashed] (-1.5,0)--(-3,0);\draw[<->] (-2.7,0)--(-2.7,.85) node[midway,left]{$b$};
+\draw (0,0)--(.9,-1.2) node[midway,right]{$R$};
+\end{tikzpicture}
+\end{center}
+\noindent\textbf{解：}
+
+记 $U=|U_0|>0$。球内外势能分别为常量，故粒子在各区域都作匀速直线运动。能量守恒给出
+\[
+E=\frac12mv_0^2,\qquad
+v_1=\sqrt{v_0^2+\frac{2U}{m}},\qquad
+q=\frac{v_0}{v_1}<1.
+\]
+由哈密顿原理，对分段轨迹的穿越时刻及穿越点作变分，作用量边界项为
+\[
+\delta S=(\bm p_- -\bm p_+)\cdot\delta\bm r
+-(H_- -H_+)\delta t.
+\]
+其中 $\delta\bm r$ 沿球面切向任意，$\delta t$ 也任意。因此界面两侧的切向动量相等、能量相等：
+\[
+\bm p_{-,\parallel}=\bm p_{+,\parallel},\qquad H_-=H_+.
+\]
+设入射角 $i$ 和球内折射角 $r$ 都从入射点指向球心的法线量起，则
+\[
+{v_0\sin i=v_1\sin r},\qquad
+{\sin r=q\sin i}.
+\]
+因此进入球内时向法线偏折。
+
+设入射直线对球心的瞄准距离为 $b\in[0,R)$，则
+\[
+\sin i=\frac bR,\qquad
+\sin r=\frac{qb}{R}.
+\]
+角动量守恒使运动始终位于入射方向与球心共同确定的平面内。球内直线到球心的距离为 $qb$，弦长为
+\[
+\ell=2R\cos r=2\sqrt{R^2-q^2b^2}.
+\]
+弦与两个端点的半径夹角相等，所以球内到达出射点的入射角仍为 $r$。出射时
+\[
+v_1\sin r=v_0\sin i_{\rm out},
+\qquad i_{\rm out}=i.
+\]
+粒子恢复速率 $v_0$，背离出射法线偏折。由于该轨迹的 $\sin r=qb/R<q$，它能正常出射。
+
+若取入射方向沿 $+x$，入射直线为 $y=b$，令进入球面时 $t=0$，定义
+\[
+i=\arcsin(b/R),\quad r=\arcsin(qb/R),\quad\delta=i-r,
+\]
+则入射点和球内单位方向为
+\[
+\bm A=(-R\cos i,R\sin i),\qquad
+\bm u=(\cos\delta,-\sin\delta).
+\]
+出射点与出射时刻为
+\[
+\bm B=\bm A+2R\cos r\,\bm u,\qquad
+\tau=\frac{2R\cos r}{v_1}.
+\]
+完整轨迹是三段直线：
+\[
+{\bm x(t)=\begin{cases}
+\bm A+v_0t(1,0),&t\le0,\\
+\bm A+v_1t\bm u,&0\le t\le\tau,\\
+\bm B+v_0(t-\tau)(\cos2\delta,-\sin2\delta),&t\ge\tau.
+\end{cases}}
+\]
+入射与出射方向的偏转角大小为
+\[
+{\chi=2(i-r)=2\left[\arcsin\frac bR-
+\arcsin\left(\frac{v_0b}{Rv_1}\right)\right]}.
+\]
+方向朝球心一侧。$b=0$ 时沿直径直进直出；$U\to0$ 时 $q\to1$、$\chi\to0$，回到一条直线。
+
+\end{document}

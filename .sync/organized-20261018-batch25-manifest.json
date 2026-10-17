@@ -1,0 +1,204 @@
+{
+  "date": "2026-10-18",
+  "course": "物理类/分析力学",
+  "summary": {
+    "batch": 25,
+    "course": "分析力学",
+    "selected_files": 27,
+    "source_files": 12,
+    "provenance": 15,
+    "excluded_files": 52,
+    "legacy_paths_merged": 1
+  },
+  "files": [
+    {
+      "path": "物理类/分析力学/README.md",
+      "sha256": "112fe76b2e1b8cd27d1778d7b3d84fec736ae0d815b02dc26938184f20b09608",
+      "original_sha256": "0a0282445f64e90e1dbac228b3435054484c1822e81deabbfe3dc0d8263a4e2d",
+      "bytes": 2611,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/分析力学/作业/README.md",
+      "sha256": "f5be21d88e4b28a13f136e6b9c0d1fe1275fc6c0530b3f9008198ebfaa49fe09",
+      "original_sha256": "1b5a824d228ce83e1fccb56d662b2f3189bc05b78728186bb9a8189542a1e3c3",
+      "bytes": 2464,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/分析力学/作业/2026-2027秋季学期/第二次作业/正式提交/第二次作业.pdf",
+      "sha256": "d15947e19f74c8d00b40d8f4819a11e98563c0162624cb9047045bc8268f2509",
+      "original_sha256": "d15947e19f74c8d00b40d8f4819a11e98563c0162624cb9047045bc8268f2509",
+      "bytes": 109817,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/分析力学/作业/2026-2027秋季学期/第二次作业/正式提交/README.md",
+      "sha256": "51e5353171253fbcf896b74b69921fdba8ccfa3bdf985f5f8bde4d0dd2561ec9",
+      "original_sha256": "9a6534c03d4dbcf6ec59f56de0b5f7da002fde0466c121a32f479e94c60c398e",
+      "bytes": 2565,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/分析力学/作业/2026-2027秋季学期/第二次作业/个人题干/第二次作业.tex",
+      "sha256": "bfa89982281fd87df9eea9249148eec136e57bc518507dcc24d07c133c3ff254",
+      "original_sha256": "bfa89982281fd87df9eea9249148eec136e57bc518507dcc24d07c133c3ff254",
+      "bytes": 10976,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/分析力学/作业/2026-2027秋季学期/第二次作业/个人题干/README.md",
+      "sha256": "bf08523b98b0f0fe85bbc27bc34a65b89f9a22f0a5a72c3881d6dfa8fbd420b0",
+      "original_sha256": "48099ca47dc32f1044f4aaed8ccdcf3bd510ea5e3c32778d8e93067b99c88b95",
+      "bytes": 2687,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/分析力学/作业/2026-2027秋季学期/第二次作业/个人解答/第二次作业答案.tex",
+      "sha256": "d9c3327ae0ee09f4f4e4fa37a7b7bbf94c2370c04fde63097c7cd15e7c77c79c",
+      "original_sha256": "d9c3327ae0ee09f4f4e4fa37a7b7bbf94c2370c04fde63097c7cd15e7c77c79c",
+      "bytes": 13215,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/分析力学/作业/2026-2027秋季学期/第二次作业/个人解答/第二次作业答案.pdf",
+      "sha256": "5d027441daaffce804027ac8e7d01dfe896fc8b56d5b5beeb9357d446a3dde21",
+      "original_sha256": "5d027441daaffce804027ac8e7d01dfe896fc8b56d5b5beeb9357d446a3dde21",
+      "bytes": 120529,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/分析力学/作业/2026-2027秋季学期/第二次作业/个人解答/README.md",
+      "sha256": "95a37e04580a3404620c870069f178f6d405dfe81c3bcbaa02aa0165e0a3d935",
+      "original_sha256": "d6748cd773270ce612944ec20f8f7649d27532cba1a491dc00fabc13a7e21402",
+      "bytes": 2686,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/分析力学/作业/2026-2027秋季学期/第二次作业/README.md",
+      "sha256": "eb936c2997919c44d4c3644202af200dc0fef68a0ed2c5fb4df316032ee825e4",
+      "original_sha256": "2cb419f6ff57879f0e34010833e110884fb9c18bf945925cf6e365e68e1150e3",
+      "bytes": 2473,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/分析力学/作业/2026-2027秋季学期/第一次作业/正式提交/第一次作业.pdf",
+      "sha256": "956cfd50d42e37d14810079712a6dca1711767985393b75a597e367dacbbd94a",
+      "original_sha256": "956cfd50d42e37d14810079712a6dca1711767985393b75a597e367dacbbd94a",
+      "bytes": 87457,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/分析力学/作业/2026-2027秋季学期/第一次作业/正式提交/README.md",
+      "sha256": "ea0664f1a8d34d0487ac7916766e7c70173085a9cee206c926a849ea6f26a733",
+      "original_sha256": "cd6a0af7db7c4a1bdba4e647da2766e2cfb6ab2591531e97cec50711f77d5bba",
+      "bytes": 2565,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/分析力学/作业/2026-2027秋季学期/第一次作业/个人整理/第一次作业_修复版.pdf",
+      "sha256": "8b4ee5558c96ecb1eb22c5bde644a4919257251cf8faecc322031b3e31054709",
+      "original_sha256": "8b4ee5558c96ecb1eb22c5bde644a4919257251cf8faecc322031b3e31054709",
+      "bytes": 129512,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/分析力学/作业/2026-2027秋季学期/第一次作业/个人整理/第一次作业.tex",
+      "sha256": "372285941356bcfaece62cc29201ca4e3ba4b3e9257e8bdb2e462bd9a76779f8",
+      "original_sha256": "372285941356bcfaece62cc29201ca4e3ba4b3e9257e8bdb2e462bd9a76779f8",
+      "bytes": 5448,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/分析力学/作业/2026-2027秋季学期/第一次作业/个人整理/第一次作业.pdf",
+      "sha256": "867c9ecbda4c78a94a4ea93353ab5fc083648c605ba56cb13655af70de9ef105",
+      "original_sha256": "867c9ecbda4c78a94a4ea93353ab5fc083648c605ba56cb13655af70de9ef105",
+      "bytes": 153795,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/分析力学/作业/2026-2027秋季学期/第一次作业/个人整理/figures/fig1-8.png",
+      "sha256": "838d63123b7012aed7313f0f0029cb89439d331b41e5fede2ec7428825aaec16",
+      "original_sha256": "838d63123b7012aed7313f0f0029cb89439d331b41e5fede2ec7428825aaec16",
+      "bytes": 32220,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/分析力学/作业/2026-2027秋季学期/第一次作业/个人整理/figures/fig1-6.png",
+      "sha256": "d81615fc2943ca962b3bd2383661e845aaf12cf705168cf00996e2178d4a7e1c",
+      "original_sha256": "d81615fc2943ca962b3bd2383661e845aaf12cf705168cf00996e2178d4a7e1c",
+      "bytes": 37295,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/分析力学/作业/2026-2027秋季学期/第一次作业/个人整理/figures/README.md",
+      "sha256": "3227464f327bd04e410d0ae4dd89fb494682c22de1eebb25c393c89354891e11",
+      "original_sha256": "b7c84c309098adf0f08b0d83e64d7b0b65b87faad252c99069a1f3b7a290251c",
+      "bytes": 2591,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/分析力学/作业/2026-2027秋季学期/第一次作业/个人整理/README.md",
+      "sha256": "8e505b15bf842d42f29144c88d5bf534e0510b7c378fad7b64316ea2756611bb",
+      "original_sha256": "1eebd31455528825db5faef12c4d25b34349aa5c416b63c5253b6e947576e709",
+      "bytes": 2813,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/分析力学/作业/2026-2027秋季学期/第一次作业/README.md",
+      "sha256": "711d7e9e193df8389a788adb8be92e39cf78c6c3677ae816bfe872663567b8b1",
+      "original_sha256": "529c26537b597fa607b52ff57da11640a8fd0bd5579921e4f6a906df06780b9d",
+      "bytes": 2473,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/分析力学/作业/2026-2027秋季学期/README.md",
+      "sha256": "0047b0155c6ce4460abb53763ae782e1071e8e389f156fea37a5e818a6fd11f7",
+      "original_sha256": "446345e591a18793c7444b34793a5eae9d2142ff8f53aba0986b4d1f3afa820e",
+      "bytes": 2479,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/分析力学/往年题/README.md",
+      "sha256": "9209a3b98f276a9df82386df23d629fc8f0084ba35737c90e1e0a0b302c95c91",
+      "original_sha256": "8f5fd276d03c781de7d341ab9ed7849258ca1770aaf147933c225546d4d51748",
+      "bytes": 1579,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/分析力学/往年题/2019-2020春季学期/分析力学试卷.pdf",
+      "sha256": "e9e566b30445d2b9965df029ea220fb4afaaed8efaab08495b196937ef4b3467",
+      "original_sha256": "e9e566b30445d2b9965df029ea220fb4afaaed8efaab08495b196937ef4b3467",
+      "bytes": 265913,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/分析力学/往年题/2019-2020春季学期/README.md",
+      "sha256": "0d8fa7caf6f5d6f29364ceba07ebecc4ab2d77a310d67ac8154f7fb34e986482",
+      "original_sha256": "3d3b0fe70a5fde78dce0242544980f17a61a46c2f83cfd78868af0d18041b65c",
+      "bytes": 1702,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/分析力学/课程说明/README.md",
+      "sha256": "28621e3edbd979350e536d0d8f8699730ee25cadfb04340d6523ba6d844bb8ee",
+      "original_sha256": "a9b61a5931403180c130f3e1d503bc387d821029479996625e6943a884cc9d15",
+      "bytes": 1582,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/分析力学/课程说明/2026-2027秋季学期/教学日历.doc",
+      "sha256": "e4ac1e44acb8f5f49f9dadf5bdf0a40e358519790e88a582a47af860f2c3bd1a",
+      "original_sha256": "e4ac1e44acb8f5f49f9dadf5bdf0a40e358519790e88a582a47af860f2c3bd1a",
+      "bytes": 37888,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/分析力学/课程说明/2026-2027秋季学期/README.md",
+      "sha256": "9d457ba9eb576928557ec3b6b002679f18c3d22d197f56b60acebdf0036b501e",
+      "original_sha256": "3cb8d58d91b395952c71ff266fbb913c0526d37339cf50e5f203de0087005bfb",
+      "bytes": 1717,
+      "kind": "provenance"
+    }
+  ]
+}
