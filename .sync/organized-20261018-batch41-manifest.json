@@ -1,0 +1,86 @@
+{
+  "summary": {
+    "source_files": 2,
+    "provenance": 8,
+    "selected_files": 10,
+    "omitted_raw_files": 12,
+    "local_links_verified": 0,
+    "cloud_links_adapted": 0,
+    "legacy_identical_solution_merged": 1,
+    "restricted_old_paths_removed": 0,
+    "only_whitelist_used": true
+  },
+  "files": [
+    {
+      "path": "物理类/数学物理方法/教材/数学物理与特殊函数/README.md",
+      "sha256": "fc7e972d25ddc087d36146696e1520644f1f0460f566d5e335d06b939276271e",
+      "original_sha256": "fc7e972d25ddc087d36146696e1520644f1f0460f566d5e335d06b939276271e",
+      "bytes": 2202,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/数学物理方法/教材/配套参考阅读/README.md",
+      "sha256": "9eb0e3421aaa446885f71330d58f9f06c81166121be2d173723dfd18ef25c777",
+      "original_sha256": "9eb0e3421aaa446885f71330d58f9f06c81166121be2d173723dfd18ef25c777",
+      "bytes": 1163,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/数学物理方法/讲义/李岩松_2021-04-18/README.md",
+      "sha256": "1046e1cd63dc685bd6d73cde32a8a9f58affe0c92e1a2c1c0b55215254ed2d0b",
+      "original_sha256": "946b050cb487eabfe08eebd11707621e025593ad3aede3b8c239b443fba9c158",
+      "bytes": 1169,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/数学物理方法/讲义/应用数学方法_年份未核/README.md",
+      "sha256": "a8243f3d76622df21dad827aac49ba534d5eb1c7fb485b39633a8486a9f1363d",
+      "original_sha256": "a8243f3d76622df21dad827aac49ba534d5eb1c7fb485b39633a8486a9f1363d",
+      "bytes": 1113,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/数学物理方法/习题与解答/吴崇试教材/README.md",
+      "sha256": "be200b6ef56624f3d03cd9b9ed7f4e91c1b799e69a20cd08befa8937be52d1a9",
+      "original_sha256": "be200b6ef56624f3d03cd9b9ed7f4e91c1b799e69a20cd08befa8937be52d1a9",
+      "bytes": 1451,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/数学物理方法/习题与解答/吴崇试教材/曾焰_2019-08-31_v0.1.4/README.md",
+      "sha256": "712a2df3068db3fac57aae68ee7f2d5cb4aebf7a00cf7f6e8d96815d969cadf3",
+      "original_sha256": "712a2df3068db3fac57aae68ee7f2d5cb4aebf7a00cf7f6e8d96815d969cadf3",
+      "bytes": 1135,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/数学物理方法/习题与解答/吴崇试教材/匿名题解_版本未核/README.md",
+      "sha256": "17f3edd43238eabffd8f49b31c92ce73fc855ad3d657930456a3d05f1cf2dff6",
+      "original_sha256": "17f3edd43238eabffd8f49b31c92ce73fc855ad3d657930456a3d05f1cf2dff6",
+      "bytes": 1011,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/数学物理方法/README_数学物理方法资料_第41批.md",
+      "sha256": "b3fbd64e81842d3e4621ccea5610a47bcbf9b2acad565114e31c40fca5d43698",
+      "original_sha256": "f5ebf1caef7e14bb6d542927762b2ec2516dfa01571f405dfc412771b52f7258",
+      "bytes": 3215,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/数学物理方法/习题与解答/吴崇试教材/曾焰_2019-08-31_v0.1.4/吴崇试2_ans.pdf",
+      "sha256": "5a41dc5baf952583c956512e08248cfb140b222e726ebcdd3c4ff2088a8aabe9",
+      "original_sha256": "5a41dc5baf952583c956512e08248cfb140b222e726ebcdd3c4ff2088a8aabe9",
+      "bytes": 818382,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/数学物理方法/习题与解答/吴崇试教材/匿名题解_版本未核/数学物理方法+吴崇试+习题解答.pdf",
+      "sha256": "28fed62f07d7f43cd38011fb2c4ac2c5772855b24c218ad45e48588fccafcbc5",
+      "original_sha256": "28fed62f07d7f43cd38011fb2c4ac2c5772855b24c218ad45e48588fccafcbc5",
+      "bytes": 6853406,
+      "kind": "source"
+    }
+  ],
+  "link_adaptations": []
+}
