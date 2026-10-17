@@ -1,0 +1,253 @@
+{
+  "summary": {
+    "source_files": 0,
+    "provenance": 5,
+    "metadata_only_lectures": 11,
+    "exact_old_paths_verified_not_tracked": 11,
+    "local_links_verified": 5,
+    "cloud_links_adapted": 11,
+    "quantum_root_unchanged": true,
+    "only_whitelist_used": true
+  },
+  "files": [
+    {
+      "path": "物理类/量子计算机的原理和架构/README.md",
+      "sha256": "3fc8671c7abe8bfe283aff3fa45e28bbe16ef7569d7142bde75967b76fb83a4e",
+      "original_sha256": "d3d46523b1954f6cd32a08c6f69dfcc5a6c92416e9ddf7e07d5dce4c26642d0d",
+      "bytes": 1729,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/量子计算机的原理和架构/讲义/README.md",
+      "sha256": "84673a69864d90381c135d96d53dfb7ce44948ea73fc3c5e83b74473b0416b32",
+      "original_sha256": "84673a69864d90381c135d96d53dfb7ce44948ea73fc3c5e83b74473b0416b32",
+      "bytes": 916,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/量子计算机的原理和架构/讲义/2023_刘东_按封面日期/README.md",
+      "sha256": "a4b01a8b80dc3f7bb6bf578f725f26f9e904ddf77f8d314ed2260f81c9829245",
+      "original_sha256": "7deddd8aa321608aed6e4c84bdaddff243a2a4a1f56992450f2a742572a7d494",
+      "bytes": 1671,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/量子计算机的原理和架构/讲义/2024_刘东_按封面日期/README.md",
+      "sha256": "1007c69a58b732fba9cd259863a9c89bb4510d76a7a7b0c5a6cdf39ea5d69e2f",
+      "original_sha256": "70a86cfe0d5051f0211ec6ef8a7faf4c8ff42b9cbf467c256f19b2f4c882ca40",
+      "bytes": 4413,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/量子力学/量子计算机的原理和架构_刘东/README.md",
+      "sha256": "0cf7d3f892ab8a7b7a50c5fb7ba2ff03b71e455ec829cf45e1fd09136a88517c",
+      "original_sha256": "0cf7d3f892ab8a7b7a50c5fb7ba2ff03b71e455ec829cf45e1fd09136a88517c",
+      "bytes": 886,
+      "kind": "provenance"
+    }
+  ],
+  "link_adaptations": [
+    {
+      "from": "物理类/量子计算机的原理和架构/讲义/2023_刘东_按封面日期/README.md",
+      "target": "物理类/量子计算机的原理和架构/讲义/2023_刘东_按封面日期/4.量子算法2.pdf",
+      "cloud_folder": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9A%84%E5%8E%9F%E7%90%86%E5%92%8C%E6%9E%B6%E6%9E%84/%E8%AE%B2%E4%B9%89/2023_%E5%88%98%E4%B8%9C_%E6%8C%89%E5%B0%81%E9%9D%A2%E6%97%A5%E6%9C%9F/"
+    },
+    {
+      "from": "物理类/量子计算机的原理和架构/讲义/2023_刘东_按封面日期/README.md",
+      "target": "物理类/量子计算机的原理和架构/讲义/2023_刘东_按封面日期/10.TopologicaI QC-I.pdf",
+      "cloud_folder": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9A%84%E5%8E%9F%E7%90%86%E5%92%8C%E6%9E%B6%E6%9E%84/%E8%AE%B2%E4%B9%89/2023_%E5%88%98%E4%B8%9C_%E6%8C%89%E5%B0%81%E9%9D%A2%E6%97%A5%E6%9C%9F/"
+    },
+    {
+      "from": "物理类/量子计算机的原理和架构/讲义/2024_刘东_按封面日期/README.md",
+      "target": "物理类/量子计算机的原理和架构/讲义/2024_刘东_按封面日期/1.容错量子计算-引言.pdf",
+      "cloud_folder": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9A%84%E5%8E%9F%E7%90%86%E5%92%8C%E6%9E%B6%E6%9E%84/%E8%AE%B2%E4%B9%89/2024_%E5%88%98%E4%B8%9C_%E6%8C%89%E5%B0%81%E9%9D%A2%E6%97%A5%E6%9C%9F/"
+    },
+    {
+      "from": "物理类/量子计算机的原理和架构/讲义/2024_刘东_按封面日期/README.md",
+      "target": "物理类/量子计算机的原理和架构/讲义/2024_刘东_按封面日期/2.量子线路.pdf",
+      "cloud_folder": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9A%84%E5%8E%9F%E7%90%86%E5%92%8C%E6%9E%B6%E6%9E%84/%E8%AE%B2%E4%B9%89/2024_%E5%88%98%E4%B8%9C_%E6%8C%89%E5%B0%81%E9%9D%A2%E6%97%A5%E6%9C%9F/"
+    },
+    {
+      "from": "物理类/量子计算机的原理和架构/讲义/2024_刘东_按封面日期/README.md",
+      "target": "物理类/量子计算机的原理和架构/讲义/2024_刘东_按封面日期/3.量子算法1.pdf",
+      "cloud_folder": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9A%84%E5%8E%9F%E7%90%86%E5%92%8C%E6%9E%B6%E6%9E%84/%E8%AE%B2%E4%B9%89/2024_%E5%88%98%E4%B8%9C_%E6%8C%89%E5%B0%81%E9%9D%A2%E6%97%A5%E6%9C%9F/"
+    },
+    {
+      "from": "物理类/量子计算机的原理和架构/讲义/2024_刘东_按封面日期/README.md",
+      "target": "物理类/量子计算机的原理和架构/讲义/2024_刘东_按封面日期/5.开放量子系统.pdf",
+      "cloud_folder": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9A%84%E5%8E%9F%E7%90%86%E5%92%8C%E6%9E%B6%E6%9E%84/%E8%AE%B2%E4%B9%89/2024_%E5%88%98%E4%B8%9C_%E6%8C%89%E5%B0%81%E9%9D%A2%E6%97%A5%E6%9C%9F/"
+    },
+    {
+      "from": "物理类/量子计算机的原理和架构/讲义/2024_刘东_按封面日期/README.md",
+      "target": "物理类/量子计算机的原理和架构/讲义/2024_刘东_按封面日期/6.Theory of QEC.pdf",
+      "cloud_folder": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9A%84%E5%8E%9F%E7%90%86%E5%92%8C%E6%9E%B6%E6%9E%84/%E8%AE%B2%E4%B9%89/2024_%E5%88%98%E4%B8%9C_%E6%8C%89%E5%B0%81%E9%9D%A2%E6%97%A5%E6%9C%9F/"
+    },
+    {
+      "from": "物理类/量子计算机的原理和架构/讲义/2024_刘东_按封面日期/README.md",
+      "target": "物理类/量子计算机的原理和架构/讲义/2024_刘东_按封面日期/7.CSS Code& Stabilizer Formalism.pdf",
+      "cloud_folder": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9A%84%E5%8E%9F%E7%90%86%E5%92%8C%E6%9E%B6%E6%9E%84/%E8%AE%B2%E4%B9%89/2024_%E5%88%98%E4%B8%9C_%E6%8C%89%E5%B0%81%E9%9D%A2%E6%97%A5%E6%9C%9F/"
+    },
+    {
+      "from": "物理类/量子计算机的原理和架构/讲义/2024_刘东_按封面日期/README.md",
+      "target": "物理类/量子计算机的原理和架构/讲义/2024_刘东_按封面日期/8.Fault Tolerant QC.pdf",
+      "cloud_folder": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9A%84%E5%8E%9F%E7%90%86%E5%92%8C%E6%9E%B6%E6%9E%84/%E8%AE%B2%E4%B9%89/2024_%E5%88%98%E4%B8%9C_%E6%8C%89%E5%B0%81%E9%9D%A2%E6%97%A5%E6%9C%9F/"
+    },
+    {
+      "from": "物理类/量子计算机的原理和架构/讲义/2024_刘东_按封面日期/README.md",
+      "target": "物理类/量子计算机的原理和架构/讲义/2024_刘东_按封面日期/9.Fault Tolerant QC-II-2.pdf",
+      "cloud_folder": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9A%84%E5%8E%9F%E7%90%86%E5%92%8C%E6%9E%B6%E6%9E%84/%E8%AE%B2%E4%B9%89/2024_%E5%88%98%E4%B8%9C_%E6%8C%89%E5%B0%81%E9%9D%A2%E6%97%A5%E6%9C%9F/"
+    },
+    {
+      "from": "物理类/量子计算机的原理和架构/讲义/2024_刘东_按封面日期/README.md",
+      "target": "物理类/量子计算机的原理和架构/讲义/2024_刘东_按封面日期/11.TopologicaI QC-II.pdf",
+      "cloud_folder": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9A%84%E5%8E%9F%E7%90%86%E5%92%8C%E6%9E%B6%E6%9E%84/%E8%AE%B2%E4%B9%89/2024_%E5%88%98%E4%B8%9C_%E6%8C%89%E5%B0%81%E9%9D%A2%E6%97%A5%E6%9C%9F/"
+    }
+  ],
+  "original_metadata": [
+    {
+      "path": "物理类/量子计算机的原理和架构/讲义/2023_刘东_按封面日期/10.TopologicaI QC-I.pdf",
+      "cloudRelativePath": "/物理类/量子计算机的原理和架构/讲义/2023_刘东_按封面日期/10.TopologicaI QC-I.pdf",
+      "reason": "整套课程讲义沿用资料仓库现行范围：公开来源、路径和哈希；原文保留本人云盘及本地",
+      "sha256": "34e918213c51d7ab5cc55cb28c2eb1173f99f4774cf9a03d9652ee8096c77062",
+      "bytes": 11588248
+    },
+    {
+      "path": "物理类/量子计算机的原理和架构/讲义/2023_刘东_按封面日期/4.量子算法2.pdf",
+      "cloudRelativePath": "/物理类/量子计算机的原理和架构/讲义/2023_刘东_按封面日期/4.量子算法2.pdf",
+      "reason": "整套课程讲义沿用资料仓库现行范围：公开来源、路径和哈希；原文保留本人云盘及本地",
+      "sha256": "202abf3f19b4c43b467a103ce166b5430b0ee4bb3c25f75e803ea8c1b3182c9e",
+      "bytes": 6238014
+    },
+    {
+      "path": "物理类/量子计算机的原理和架构/讲义/2024_刘东_按封面日期/1.容错量子计算-引言.pdf",
+      "cloudRelativePath": "/物理类/量子计算机的原理和架构/讲义/2024_刘东_按封面日期/1.容错量子计算-引言.pdf",
+      "reason": "整套课程讲义沿用资料仓库现行范围：公开来源、路径和哈希；原文保留本人云盘及本地",
+      "sha256": "b586c4d060472730b0eb0abbff0e455f57744744f819fff37d8117883010a067",
+      "bytes": 13673726
+    },
+    {
+      "path": "物理类/量子计算机的原理和架构/讲义/2024_刘东_按封面日期/11.TopologicaI QC-II.pdf",
+      "cloudRelativePath": "/物理类/量子计算机的原理和架构/讲义/2024_刘东_按封面日期/11.TopologicaI QC-II.pdf",
+      "reason": "整套课程讲义沿用资料仓库现行范围：公开来源、路径和哈希；原文保留本人云盘及本地",
+      "sha256": "87bd1d60edf120dd27a2d8f482fc1c774d0370f71695da0151f7517771d2dea7",
+      "bytes": 10762081
+    },
+    {
+      "path": "物理类/量子计算机的原理和架构/讲义/2024_刘东_按封面日期/2.量子线路.pdf",
+      "cloudRelativePath": "/物理类/量子计算机的原理和架构/讲义/2024_刘东_按封面日期/2.量子线路.pdf",
+      "reason": "整套课程讲义沿用资料仓库现行范围：公开来源、路径和哈希；原文保留本人云盘及本地",
+      "sha256": "4cc5273a3c48e708d287f11f200b6d0b557c71d01d7cf2e45c6274307dd30126",
+      "bytes": 5701133
+    },
+    {
+      "path": "物理类/量子计算机的原理和架构/讲义/2024_刘东_按封面日期/3.量子算法1.pdf",
+      "cloudRelativePath": "/物理类/量子计算机的原理和架构/讲义/2024_刘东_按封面日期/3.量子算法1.pdf",
+      "reason": "整套课程讲义沿用资料仓库现行范围：公开来源、路径和哈希；原文保留本人云盘及本地",
+      "sha256": "b4655e30ff954c3e12ec24b7ea44025f65a8e8fff1789bd004d10f7c40eecc3e",
+      "bytes": 5229883
+    },
+    {
+      "path": "物理类/量子计算机的原理和架构/讲义/2024_刘东_按封面日期/5.开放量子系统.pdf",
+      "cloudRelativePath": "/物理类/量子计算机的原理和架构/讲义/2024_刘东_按封面日期/5.开放量子系统.pdf",
+      "reason": "整套课程讲义沿用资料仓库现行范围：公开来源、路径和哈希；原文保留本人云盘及本地",
+      "sha256": "15543d2bc7e3c98e406e3c0f89cc037ec8bf44d672c175a97aebb06a952ef7ca",
+      "bytes": 5479589
+    },
+    {
+      "path": "物理类/量子计算机的原理和架构/讲义/2024_刘东_按封面日期/6.Theory of QEC.pdf",
+      "cloudRelativePath": "/物理类/量子计算机的原理和架构/讲义/2024_刘东_按封面日期/6.Theory of QEC.pdf",
+      "reason": "整套课程讲义沿用资料仓库现行范围：公开来源、路径和哈希；原文保留本人云盘及本地",
+      "sha256": "b1be8a543d5067d36471cf56c32e7f62548c797a85921b7160b2eee357adb642",
+      "bytes": 3866750
+    },
+    {
+      "path": "物理类/量子计算机的原理和架构/讲义/2024_刘东_按封面日期/7.CSS Code& Stabilizer Formalism.pdf",
+      "cloudRelativePath": "/物理类/量子计算机的原理和架构/讲义/2024_刘东_按封面日期/7.CSS Code& Stabilizer Formalism.pdf",
+      "reason": "整套课程讲义沿用资料仓库现行范围：公开来源、路径和哈希；原文保留本人云盘及本地",
+      "sha256": "83fc6336ff13123b016002e9ce9e59d72601153e293fc5f4b301c4d009e7cd41",
+      "bytes": 1874201
+    },
+    {
+      "path": "物理类/量子计算机的原理和架构/讲义/2024_刘东_按封面日期/8.Fault Tolerant QC.pdf",
+      "cloudRelativePath": "/物理类/量子计算机的原理和架构/讲义/2024_刘东_按封面日期/8.Fault Tolerant QC.pdf",
+      "reason": "整套课程讲义沿用资料仓库现行范围：公开来源、路径和哈希；原文保留本人云盘及本地",
+      "sha256": "1fdac48eecdd8b8f8fab31d014dc1fcd212dd8654eb0d4121c3ee721cb6e1ba3",
+      "bytes": 4523542
+    },
+    {
+      "path": "物理类/量子计算机的原理和架构/讲义/2024_刘东_按封面日期/9.Fault Tolerant QC-II-2.pdf",
+      "cloudRelativePath": "/物理类/量子计算机的原理和架构/讲义/2024_刘东_按封面日期/9.Fault Tolerant QC-II-2.pdf",
+      "reason": "整套课程讲义沿用资料仓库现行范围：公开来源、路径和哈希；原文保留本人云盘及本地",
+      "sha256": "205897f83c995d31873c717b73b55e34ee4885a9dfc58a0bba67aa392361f577",
+      "bytes": 4643847
+    }
+  ],
+  "old_new_mapping": [
+    {
+      "old": "物理类/量子力学/量子计算机的原理和架构_刘东/1.容错量子计算-引言.pdf",
+      "new": "物理类/量子计算机的原理和架构/讲义/2024_刘东_按封面日期/1.容错量子计算-引言.pdf",
+      "sha256": "b586c4d060472730b0eb0abbff0e455f57744744f819fff37d8117883010a067",
+      "bytes": 13673726
+    },
+    {
+      "old": "物理类/量子力学/量子计算机的原理和架构_刘东/10.TopologicaI QC-I.pdf",
+      "new": "物理类/量子计算机的原理和架构/讲义/2023_刘东_按封面日期/10.TopologicaI QC-I.pdf",
+      "sha256": "34e918213c51d7ab5cc55cb28c2eb1173f99f4774cf9a03d9652ee8096c77062",
+      "bytes": 11588248
+    },
+    {
+      "old": "物理类/量子力学/量子计算机的原理和架构_刘东/11.TopologicaI QC-II.pdf",
+      "new": "物理类/量子计算机的原理和架构/讲义/2024_刘东_按封面日期/11.TopologicaI QC-II.pdf",
+      "sha256": "87bd1d60edf120dd27a2d8f482fc1c774d0370f71695da0151f7517771d2dea7",
+      "bytes": 10762081
+    },
+    {
+      "old": "物理类/量子力学/量子计算机的原理和架构_刘东/2.量子线路.pdf",
+      "new": "物理类/量子计算机的原理和架构/讲义/2024_刘东_按封面日期/2.量子线路.pdf",
+      "sha256": "4cc5273a3c48e708d287f11f200b6d0b557c71d01d7cf2e45c6274307dd30126",
+      "bytes": 5701133
+    },
+    {
+      "old": "物理类/量子力学/量子计算机的原理和架构_刘东/3.量子算法1.pdf",
+      "new": "物理类/量子计算机的原理和架构/讲义/2024_刘东_按封面日期/3.量子算法1.pdf",
+      "sha256": "b4655e30ff954c3e12ec24b7ea44025f65a8e8fff1789bd004d10f7c40eecc3e",
+      "bytes": 5229883
+    },
+    {
+      "old": "物理类/量子力学/量子计算机的原理和架构_刘东/4.量子算法2.pdf",
+      "new": "物理类/量子计算机的原理和架构/讲义/2023_刘东_按封面日期/4.量子算法2.pdf",
+      "sha256": "202abf3f19b4c43b467a103ce166b5430b0ee4bb3c25f75e803ea8c1b3182c9e",
+      "bytes": 6238014
+    },
+    {
+      "old": "物理类/量子力学/量子计算机的原理和架构_刘东/5.开放量子系统.pdf",
+      "new": "物理类/量子计算机的原理和架构/讲义/2024_刘东_按封面日期/5.开放量子系统.pdf",
+      "sha256": "15543d2bc7e3c98e406e3c0f89cc037ec8bf44d672c175a97aebb06a952ef7ca",
+      "bytes": 5479589
+    },
+    {
+      "old": "物理类/量子力学/量子计算机的原理和架构_刘东/6.Theory of QEC.pdf",
+      "new": "物理类/量子计算机的原理和架构/讲义/2024_刘东_按封面日期/6.Theory of QEC.pdf",
+      "sha256": "b1be8a543d5067d36471cf56c32e7f62548c797a85921b7160b2eee357adb642",
+      "bytes": 3866750
+    },
+    {
+      "old": "物理类/量子力学/量子计算机的原理和架构_刘东/7.CSS Code& Stabilizer Formalism.pdf",
+      "new": "物理类/量子计算机的原理和架构/讲义/2024_刘东_按封面日期/7.CSS Code& Stabilizer Formalism.pdf",
+      "sha256": "83fc6336ff13123b016002e9ce9e59d72601153e293fc5f4b301c4d009e7cd41",
+      "bytes": 1874201
+    },
+    {
+      "old": "物理类/量子力学/量子计算机的原理和架构_刘东/8.Fault Tolerant QC.pdf",
+      "new": "物理类/量子计算机的原理和架构/讲义/2024_刘东_按封面日期/8.Fault Tolerant QC.pdf",
+      "sha256": "1fdac48eecdd8b8f8fab31d014dc1fcd212dd8654eb0d4121c3ee721cb6e1ba3",
+      "bytes": 4523542
+    },
+    {
+      "old": "物理类/量子力学/量子计算机的原理和架构_刘东/9.Fault Tolerant QC-II-2.pdf",
+      "new": "物理类/量子计算机的原理和架构/讲义/2024_刘东_按封面日期/9.Fault Tolerant QC-II-2.pdf",
+      "sha256": "205897f83c995d31873c717b73b55e34ee4885a9dfc58a0bba67aa392361f577",
+      "bytes": 4643847
+    }
+  ]
+}
