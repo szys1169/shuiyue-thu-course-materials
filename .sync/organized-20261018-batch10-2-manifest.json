@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-18",
+  "course": "数学类/概率论（2）",
+  "summary": {
+    "batch": 10,
+    "course": "概率论（2）",
+    "selected_files": 5,
+    "source_files": 2,
+    "provenance": 3,
+    "excluded_files": 0,
+    "legacy_paths_merged": 0
+  },
+  "files": [
+    {
+      "path": "数学类/概率论（2）/README.md",
+      "sha256": "e5208fb2319f67ebaee8f8b20bac1da645c6da65898e41537720cbccb53c3f56",
+      "original_sha256": "465481f80fa323ee485487c3af671bae1dbece8d1a8ad227c24a7240a4a088e6",
+      "bytes": 991,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（2）/往年题/回忆资料_学期待核/README.md",
+      "sha256": "ce4438308c02dbca5bea05a5da3537f49ea266e6b8e60511bc4b56a1aa9162ad",
+      "original_sha256": "8720805f08fc445cfd2f8ec44a351dc72320962b364dcbd1a03294f1f7c79385",
+      "bytes": 1255,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（2）/往年题/回忆资料_学期待核/2009秋概率论二.docx",
+      "sha256": "3679024b8e4d2f6bdf7593887bfc6a3d723d9dc09dc8661932eab6f1e9e12218",
+      "original_sha256": "3679024b8e4d2f6bdf7593887bfc6a3d723d9dc09dc8661932eab6f1e9e12218",
+      "bytes": 12534,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（2）/往年题/回忆资料_学期待核/2008秋概率论二.docx",
+      "sha256": "43920f1f17570f1a566282d916d57bf29fdb0f728b54e7fa1df9fd1a4ec0ebc5",
+      "original_sha256": "43920f1f17570f1a566282d916d57bf29fdb0f728b54e7fa1df9fd1a4ec0ebc5",
+      "bytes": 12608,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（2）/往年题/README.md",
+      "sha256": "442c99e6cfff8b7e7573c7e68f5e0decf6d8365c53c0c59d2544bb769c1ae823",
+      "original_sha256": "9383b96e628f5c95a647d348bb815f07e600b5ae7f6c537d81ffe70cf20e6a41",
+      "bytes": 984,
+      "kind": "provenance"
+    }
+  ]
+}

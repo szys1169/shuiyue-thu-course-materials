@@ -1,0 +1,960 @@
+{
+  "date": "2026-10-18",
+  "course": "数学类/概率论（1）",
+  "summary": {
+    "batch": 10,
+    "course": "概率论（1）",
+    "selected_files": 135,
+    "source_files": 63,
+    "provenance": 72,
+    "excluded_files": 94,
+    "legacy_paths_merged": 64
+  },
+  "files": [
+    {
+      "path": "数学类/概率论（1）/README.md",
+      "sha256": "b04d4c1396ae181414feb837f6faa72fcc4796cec70c413b73af46c801c43d60",
+      "original_sha256": "a23e575c6060e943bb4d052f080f4dbc85baa865aba9255ff5ca304568949460",
+      "bytes": 1283,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/作业/README.md",
+      "sha256": "36ca6d2b45cc2f9fb672d2a1101bcd77a25bbbb5e32180a60c6dc0a5cfc03f42",
+      "original_sha256": "dac15343df61900b1c81dccd86e83672c701c8979603d8fcf3019aee14b46f32",
+      "bytes": 746,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/作业/2025-2026春季学期/第四次作业/上交作业附件/概率论第五周作业.pdf",
+      "sha256": "da9a42487fe4bd7a4014d79042f1d70e5f91a57b7a2b181382d96164e7efddb5",
+      "original_sha256": "da9a42487fe4bd7a4014d79042f1d70e5f91a57b7a2b181382d96164e7efddb5",
+      "bytes": 128919,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/作业/2025-2026春季学期/第四次作业/上交作业附件/README.md",
+      "sha256": "b61881ad136cd411985ab87de25ed39f691f489cb3bab523256e9266131a24ee",
+      "original_sha256": "4f43fb4dedd873c1161c336706d7fd42ed99ebbaa8624d64ede94038d890742f",
+      "bytes": 887,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/作业/2025-2026春季学期/第四次作业/README.md",
+      "sha256": "36ea6fa5651e1c68468cc0b81fcc689ce7bc1a2302f79421dfb982e412556138",
+      "original_sha256": "46f42b37c0fa760b79524937779c6ae3098140b8fe9a9915332c3e2733cb6c3d",
+      "bytes": 1278,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/作业/2025-2026春季学期/第十次作业/上交作业附件/概率论第十二周作业.pdf",
+      "sha256": "510932b104e4b3a85306b3f1b6f4dc9f78a9f21d165be83fc36af6e6af6d45bb",
+      "original_sha256": "510932b104e4b3a85306b3f1b6f4dc9f78a9f21d165be83fc36af6e6af6d45bb",
+      "bytes": 170846,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/作业/2025-2026春季学期/第十次作业/上交作业附件/README.md",
+      "sha256": "a4188e0751da449a25002994ca58443834e89a741cfd9026e7a12c07841d824b",
+      "original_sha256": "f69bd3e481ab4c83d69b18a2ea000cee268c3fa2b9db765a2ba057c4539c2331",
+      "bytes": 885,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/作业/2025-2026春季学期/第十次作业/README.md",
+      "sha256": "ccc49996e2ae049a12140881915a66795744bb05da375abcac8a76c9709894e5",
+      "original_sha256": "c36efe2dfafd87c3666a310eaa5904bde4e9acf8d6b74bc92904dd8eb2fe82c0",
+      "bytes": 1139,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/作业/2025-2026春季学期/第十二次作业/上交作业附件/概率论第十四周作业.pdf",
+      "sha256": "cb8c84010e16ddf1a579637a43b3935a5866d9ecce181c6003ae21564482bf34",
+      "original_sha256": "cb8c84010e16ddf1a579637a43b3935a5866d9ecce181c6003ae21564482bf34",
+      "bytes": 228450,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/作业/2025-2026春季学期/第十二次作业/上交作业附件/README.md",
+      "sha256": "f3171ad513a06cc05e83e03c59adedc5b7c0e86761fb78bf1c252975c1221734",
+      "original_sha256": "f729bedbe8e38fcaf96638189c410cdbd74b535549740b24c01232329c1e6e56",
+      "bytes": 885,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/作业/2025-2026春季学期/第十二次作业/README.md",
+      "sha256": "14e553b91c818d40987ab4a804db2349fe8513a28535211a3b8ba8bed4275337",
+      "original_sha256": "4b3f3acbe611fb399fe6f924385407fe16b5900c1ad9199c6187e2cf2734f020",
+      "bytes": 1114,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/作业/2025-2026春季学期/第十三次作业/上交作业附件/概率论第十五周作业.pdf",
+      "sha256": "0829822bab4f5fa4c1058ccdb85919b41244d18f1dbd3f6625b6f6a4f5da3655",
+      "original_sha256": "0829822bab4f5fa4c1058ccdb85919b41244d18f1dbd3f6625b6f6a4f5da3655",
+      "bytes": 178329,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/作业/2025-2026春季学期/第十三次作业/上交作业附件/README.md",
+      "sha256": "bf0f5ff0360ca770051f0b56a3f0c235336b2c3739b53622486c1ada01add1e1",
+      "original_sha256": "8ae7823502a0c5a00e29b850425172cad844215a0e2a7c850917e3ec041bfa52",
+      "bytes": 885,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/作业/2025-2026春季学期/第十三次作业/README.md",
+      "sha256": "31f6f3c1288d6dbc6e475b9387887eadfdc69a60e427c92053ac302c500a5cfb",
+      "original_sha256": "fe1fb45bd32221352a97dfba6d94426c196e78f1b4ef04441e0f4648b45ebc4f",
+      "bytes": 1097,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/作业/2025-2026春季学期/第十一次作业/上交作业附件/概率论第十三周作业.pdf",
+      "sha256": "b13609c0e93dd42e6f6a42f16049a9748a0843c675f90d8be40361160aec0916",
+      "original_sha256": "b13609c0e93dd42e6f6a42f16049a9748a0843c675f90d8be40361160aec0916",
+      "bytes": 188469,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/作业/2025-2026春季学期/第十一次作业/上交作业附件/README.md",
+      "sha256": "fda0dc4ee0fbbf1e978937379c3351a715cb8188d7d131bcc74e19f43fbbe1ab",
+      "original_sha256": "e6f16d41e3bf5afe91cf41d17fef5f3ef86b4850818406b0b914788afa41667c",
+      "bytes": 885,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/作业/2025-2026春季学期/第十一次作业/README.md",
+      "sha256": "f776e6971413673b011756173b0c1e3076b63146e4d03192456f5f22a7d57999",
+      "original_sha256": "4dd1c30d3be2a79dd89b1d5f0eb81fad0376e8f9cd346f0c7c94c8f8fde45e3c",
+      "bytes": 1160,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/作业/2025-2026春季学期/第六次作业/上交作业附件/概率论第八周作业.pdf",
+      "sha256": "32732746c091c939aa4bc06272201716a8d5c11603389e723657fe23df478c48",
+      "original_sha256": "32732746c091c939aa4bc06272201716a8d5c11603389e723657fe23df478c48",
+      "bytes": 241059,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/作业/2025-2026春季学期/第六次作业/上交作业附件/README.md",
+      "sha256": "ec2bef5b51c9edd4c4bccf61ac761707fcaf6686c241db23f1ed651268a1f0ec",
+      "original_sha256": "e10ac8d4825e518a504d2b30f8766a0dbee736a0447b24f22b24ed4a1c97cbf6",
+      "bytes": 882,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/作业/2025-2026春季学期/第六次作业/README.md",
+      "sha256": "6a878d825ed45f67fdfca23a348323b28565a6b4c20912fc3e46e3b0dd82f085",
+      "original_sha256": "e892b28133deaecfad27eaa7d8dc5a6af1319249cbedf9119b76f0efe26dd61f",
+      "bytes": 1112,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/作业/2025-2026春季学期/第八次作业/上交作业附件/概率论第十周作业.pdf",
+      "sha256": "423a5e9c9f9fc0ce568e95be4896d289c745aff0dc587bf6a7aa94c0133d9f2c",
+      "original_sha256": "423a5e9c9f9fc0ce568e95be4896d289c745aff0dc587bf6a7aa94c0133d9f2c",
+      "bytes": 133039,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/作业/2025-2026春季学期/第八次作业/上交作业附件/README.md",
+      "sha256": "803095ab6a2b14ed814dcc7495ce7fd83c8681377354bbdcc8cd111a9b1f732c",
+      "original_sha256": "ad1d2598d7ea93b1e168649a59157ae92835a4a1a0afad20ffe0f15a0873f9ea",
+      "bytes": 882,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/作业/2025-2026春季学期/第八次作业/README.md",
+      "sha256": "ba67647cd64d5f638eca160aca75e1dfe853775369a1a9604bef265b965b1a5b",
+      "original_sha256": "1f31056e98916cc20d67eb5f68183345952ed3929ae1b76b9c49bfb967cd7983",
+      "bytes": 1121,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/作业/2025-2026春季学期/第五次作业/上交作业附件/概率论第七周作业.pdf",
+      "sha256": "26faa9d960e007c83bc6f83523c6e9b46bea8a331219e28f178e1904f7691a4e",
+      "original_sha256": "26faa9d960e007c83bc6f83523c6e9b46bea8a331219e28f178e1904f7691a4e",
+      "bytes": 134147,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/作业/2025-2026春季学期/第五次作业/上交作业附件/README.md",
+      "sha256": "954b4016afac1695d173c4106321424e692b9bca0674d70af8adbb2728b67c3c",
+      "original_sha256": "632520d3493a38ed99aac4c2e943ca45c48c3f89957db5061a92e4659e3b9bf2",
+      "bytes": 882,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/作业/2025-2026春季学期/第五次作业/README.md",
+      "sha256": "df69f5bfad5be8983449aa7a62593744a959e73a8f0c100a8627d6b0d948c354",
+      "original_sha256": "4ab4f3e6d1fdb23bb1b2380747540100420472b3e442a6f5899ab2f906ef28c2",
+      "bytes": 1312,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/作业/2025-2026春季学期/第二次作业/上交作业附件/概率论第三周作业.pdf",
+      "sha256": "828f9e1721e75d296ec5831acf31ca6b22974da521e2f71a89737bce561515df",
+      "original_sha256": "828f9e1721e75d296ec5831acf31ca6b22974da521e2f71a89737bce561515df",
+      "bytes": 157695,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/作业/2025-2026春季学期/第二次作业/上交作业附件/README.md",
+      "sha256": "11b8226408a9f176b7a19ebc8a70be9f19e73a2290f57a49e13398cc13ce8567",
+      "original_sha256": "3abcc86a9c9bce6692fe4987e9efa6dac52f74f9cdfc308f43129e7e6c962912",
+      "bytes": 882,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/作业/2025-2026春季学期/第二次作业/README.md",
+      "sha256": "de4154eaf18b3b9958cd6fac52afa4befca6f409889036440f7877358e3f9422",
+      "original_sha256": "4b2d6504e05cc81e391be1a843b9b9da48666efd52dfaf35830db6bf0ec15b2f",
+      "bytes": 1142,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/作业/2025-2026春季学期/第九次作业/作业附件/第九次作业题.pdf",
+      "sha256": "f192cfda2b3bbd89107c1a41e8bcc092bff36bc12126ca93ca1572a7b37decfa",
+      "original_sha256": "f192cfda2b3bbd89107c1a41e8bcc092bff36bc12126ca93ca1572a7b37decfa",
+      "bytes": 426970,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/作业/2025-2026春季学期/第九次作业/作业附件/README.md",
+      "sha256": "2e1207c01ee8532b5e94fc0d37ec86711b6b143a01b31830a587def421f37837",
+      "original_sha256": "a8203b0dce4b4639bc1fdbed9246fe4c440d5a99b1f2ae3dfd620248b0dbb1d6",
+      "bytes": 869,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/作业/2025-2026春季学期/第九次作业/上交作业附件/概率论第十一周作业.pdf",
+      "sha256": "ef04d75cd76cf4b3a26ec1195e9b399b8001d568694b83d8c215832d2d5ceef3",
+      "original_sha256": "ef04d75cd76cf4b3a26ec1195e9b399b8001d568694b83d8c215832d2d5ceef3",
+      "bytes": 187463,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/作业/2025-2026春季学期/第九次作业/上交作业附件/README.md",
+      "sha256": "d36775d7968119dd3efea5770987bdc7596efa8f9e18a9d6d3a7b81ed67e2c41",
+      "original_sha256": "9d8ff69554d90ba56b794e19a82f013939cea33c365b7fd2c8634de13b3c890b",
+      "bytes": 885,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/作业/2025-2026春季学期/第九次作业/README.md",
+      "sha256": "c92a19ab825bf48399903d75b53b18f1d03b2eec650c40109e20d2cf56d14c89",
+      "original_sha256": "a4d031de12f700ae374ad334c6885bfc26bfffc4289ce785b9a04da79d7821c0",
+      "bytes": 1076,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/作业/2025-2026春季学期/第三次作业/上交作业附件/概率论第四周作业.pdf",
+      "sha256": "f87a1dc5d928fa0db420aa38dd2cbcc82e1c7f140f6aedab8c657395f85a8e1d",
+      "original_sha256": "f87a1dc5d928fa0db420aa38dd2cbcc82e1c7f140f6aedab8c657395f85a8e1d",
+      "bytes": 142750,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/作业/2025-2026春季学期/第三次作业/上交作业附件/README.md",
+      "sha256": "9b1daec040a2c7bf8a2feb8d08757cfa42305ce33453cc3c598aee50a752abfc",
+      "original_sha256": "3f0723981bc023f678beaecb67cd294dd13f4cc9a5aa901b1bd431224589d114",
+      "bytes": 882,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/作业/2025-2026春季学期/第三次作业/README.md",
+      "sha256": "bc38b071785ae057c9f5cdc8067125a9de9d86c8df81853f8055e5d7fc853145",
+      "original_sha256": "de6bf683e8d06ad20de20a7751c94fdbbe147d3c961dd708a4d1989270afdf21",
+      "bytes": 1147,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/作业/2025-2026春季学期/第七次作业/评语附件/概率论第九周作业.pdf",
+      "sha256": "7730c3d3537df9f994645bea12d66891b7edb8c7439889c788b0c172f38a35d6",
+      "original_sha256": "7730c3d3537df9f994645bea12d66891b7edb8c7439889c788b0c172f38a35d6",
+      "bytes": 138396,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/作业/2025-2026春季学期/第七次作业/评语附件/README.md",
+      "sha256": "ca043a03acfaf21a622750b661aa20a20c5041db746b48c5287346101589ac3d",
+      "original_sha256": "0d9adeca6c9bdfc95e0270ba026686a57716f32ec375e65f4a2b2d764e44ac57",
+      "bytes": 875,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/作业/2025-2026春季学期/第七次作业/上交作业附件/概率论第九周作业.pdf",
+      "sha256": "5a8a24f3445dd2066f3d61639bdd7146604d7796ad137d1258ddab0f95875232",
+      "original_sha256": "5a8a24f3445dd2066f3d61639bdd7146604d7796ad137d1258ddab0f95875232",
+      "bytes": 137113,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/作业/2025-2026春季学期/第七次作业/上交作业附件/README.md",
+      "sha256": "8436f38d78e6554943977a1d3b4c44cb1a0a3d74133aa742f95fd687babe89af",
+      "original_sha256": "78ca50732b32d3837b9af1205eae8647f49a263ff4a44d85d792b1f866bef874",
+      "bytes": 882,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/作业/2025-2026春季学期/第七次作业/README.md",
+      "sha256": "81c1237deebd643dd3779b482b880a5ccb6ced87e01907113299cef75fe4d695",
+      "original_sha256": "cd105b7ef509f61417aaec1829d0766c44b22ecf5dd8782b870a92afb59983bd",
+      "bytes": 1136,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/作业/2025-2026春季学期/第一次作业/上交作业附件/概率论第一次作业.pdf",
+      "sha256": "fedb61f18df02a56a8f221ad69f69c6ec8e5238d0484b4158b659289372e9ca4",
+      "original_sha256": "fedb61f18df02a56a8f221ad69f69c6ec8e5238d0484b4158b659289372e9ca4",
+      "bytes": 538522,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/作业/2025-2026春季学期/第一次作业/上交作业附件/README.md",
+      "sha256": "47591fb0f6485713660c9eec3254681f8a8605d64d21f7698fde5762a64d8d5d",
+      "original_sha256": "88f41d57e8017370368e97dbf7ea6482daaca727f7a0678fe66caed06b771ccc",
+      "bytes": 882,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/作业/2025-2026春季学期/第一次作业/README.md",
+      "sha256": "c73d14c5d3825c9b7198589366b8c94c1bb80e7270c1b08c3d1a67ab2166ddc7",
+      "original_sha256": "963f1dbec6750cf5ae79348d6570b7ff3913f0f0230492b1415c9acea5a27cb2",
+      "bytes": 1225,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/作业/2025-2026春季学期/README.md",
+      "sha256": "8399de587012a0b62b41d0d3a8ecd7ba4e984b17471f8f77847a957aa046adac",
+      "original_sha256": "22721794e1b36e2a3683a9242ded026a9103126b601bead9a093ea6a99b34f1f",
+      "bytes": 761,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/作业/2024-2025春_源梁宗霞体系/自学作业/题目/README.md",
+      "sha256": "09ad6278f8afa206a936dc46e080cc941cf30d24eb0534bd44219caee5fb10a9",
+      "original_sha256": "7e70bf0a39678f021a937b80cef0d773f804e09aa7004319b3f99849c00cd511",
+      "bytes": 884,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/作业/2024-2025春_源梁宗霞体系/自学作业/题目/2025第一次自学作业（7分））.pdf",
+      "sha256": "ae5046134f3322fb11742ecdb7be9100832e8b206e48dc2909d46ef6c30767de",
+      "original_sha256": "ae5046134f3322fb11742ecdb7be9100832e8b206e48dc2909d46ef6c30767de",
+      "bytes": 778483,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/作业/2024-2025春_源梁宗霞体系/自学作业/参考解答/第一次自学作业.pdf",
+      "sha256": "c91a1d8f1749d78d69b4a069aec5d32ce23b737b4a8a25f6ca45b20d6ad38548",
+      "original_sha256": "c91a1d8f1749d78d69b4a069aec5d32ce23b737b4a8a25f6ca45b20d6ad38548",
+      "bytes": 105222,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/作业/2024-2025春_源梁宗霞体系/自学作业/参考解答/README.md",
+      "sha256": "5bae871788966ed5aecbda6f37dba2737e68653aedc4093a47cad7e95154c872",
+      "original_sha256": "762171e5a159eb68a425ab8cf7b7ea9f47583803ec1cd1d508ed0233709088bd",
+      "bytes": 873,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/作业/2024-2025春_源梁宗霞体系/自学作业/README.md",
+      "sha256": "1f9511cb389b47e8c0f0ea0ebc171dfb173b821ccc205ef02de7f6fa6e32c154",
+      "original_sha256": "bf24f5e0c8ca43e5b577e65eb93c39a94dbc1e8e71465ee75ed6f338e2fee568",
+      "bytes": 752,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/作业/2024-2025春_源梁宗霞体系/他人参考解答/概率论作业.pdf",
+      "sha256": "2138f529e6d4dabdc7dfae053047b2bb9bfe2099e92ff687ff008e36dad4d3d6",
+      "original_sha256": "2138f529e6d4dabdc7dfae053047b2bb9bfe2099e92ff687ff008e36dad4d3d6",
+      "bytes": 1079298,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/作业/2024-2025春_源梁宗霞体系/他人参考解答/README.md",
+      "sha256": "4799f4678e2d8b01803cd98958d1997f5bc3914d63e89743ab3ca81c5e27f9ba",
+      "original_sha256": "d360dd4ce482b3188d5afcffc07f150def0b94078beb2d1fe34d17f5cc0ce4a5",
+      "bytes": 873,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/作业/2024-2025春_源梁宗霞体系/README.md",
+      "sha256": "ea1f6a2e50cd367581477086be6aa77333c966efcf1b41366d527bb8b7c04694",
+      "original_sha256": "4f552e53f701aedce4b50dc0ba0d268c2d80597a163ae10eb0448d201f881007",
+      "bytes": 771,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/习题课/README.md",
+      "sha256": "7b694a3053b8e1e61b797ee8bacebc2ed00c2bea44a76ba2387d54c3957902f3",
+      "original_sha256": "1f09f615a07629546a900173d2c34400cede901cd8358d067d8f1df90c4c03a1",
+      "bytes": 749,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/习题课/2025-2026春季学期/第四次习题课/作业附件/第4次习题课题目.pdf",
+      "sha256": "de47d23a6631fa18ddadce640ec91e986389b3775dbe17a35f4333b567f7e470",
+      "original_sha256": "de47d23a6631fa18ddadce640ec91e986389b3775dbe17a35f4333b567f7e470",
+      "bytes": 281239,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/习题课/2025-2026春季学期/第四次习题课/作业附件/README.md",
+      "sha256": "c68223e3b1978bd80214dcee17792afa7babdc15860a42c10ddc156054af86ae",
+      "original_sha256": "2781e550a331e6df60c14b88668c9ea749d59f925e77d574797812624c97daaa",
+      "bytes": 873,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/习题课/2025-2026春季学期/第四次习题课/上交作业附件/概率论第四次习题课.pdf",
+      "sha256": "afc782bb8ffb3ed312b27a2fa841fec009c358a7de1e0b215f26976fb8ab8241",
+      "original_sha256": "afc782bb8ffb3ed312b27a2fa841fec009c358a7de1e0b215f26976fb8ab8241",
+      "bytes": 144890,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/习题课/2025-2026春季学期/第四次习题课/上交作业附件/README.md",
+      "sha256": "eebb44d515f1fe7845b6dcbc1dda6cb29f8844fc1f01a0387bb06852fe6605ec",
+      "original_sha256": "54d7b6ff35665c3900b023a84fdd4e70e17b3f9324e8c29cd8b64a012982108d",
+      "bytes": 885,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/习题课/2025-2026春季学期/第四次习题课/README.md",
+      "sha256": "926bc7a5d78f00fa9894838c61d0cb73178021acffd534e810a5ea3c7a8c29c8",
+      "original_sha256": "48c2a420878e2dd3974b2f94f73103aeed4bdb189324e92a46dd992ebb0ea49a",
+      "bytes": 995,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/习题课/2025-2026春季学期/第六次习题课/作业附件/第六次习题课题目.pdf",
+      "sha256": "4f0453103f9cefe72a16be36cadc0ad83e24997829e9b4511a52ebcf5a544567",
+      "original_sha256": "4f0453103f9cefe72a16be36cadc0ad83e24997829e9b4511a52ebcf5a544567",
+      "bytes": 55808,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/习题课/2025-2026春季学期/第六次习题课/作业附件/README.md",
+      "sha256": "801f45c985c06d6eb12fc859738dedccf5efe5d2823cf95ab4d34ce828476eda",
+      "original_sha256": "fc9eca765f43d6aff25bff1db5383a63146e2172d60f5581e8144f4e127cd957",
+      "bytes": 875,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/习题课/2025-2026春季学期/第六次习题课/上交作业附件/概率论第6次习题课.pdf",
+      "sha256": "b0b124962a66f12026fc8e776a64f05f043361268b2d13c1e3a5a079c293aa55",
+      "original_sha256": "b0b124962a66f12026fc8e776a64f05f043361268b2d13c1e3a5a079c293aa55",
+      "bytes": 172208,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/习题课/2025-2026春季学期/第六次习题课/上交作业附件/README.md",
+      "sha256": "375938f5fd2e5ac5d1676908af01bf291121f526b459f11870b2273687f0d36a",
+      "original_sha256": "7104fb5dbd0056bcc5e8e0cb3ed9866f44923dfc7a5b96a3ea0a74cbe0224e19",
+      "bytes": 883,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/习题课/2025-2026春季学期/第六次习题课/README.md",
+      "sha256": "fd0896ccaa766d5acf94d6aec9262371a54eb42dcba3e2b655a110f6300a5953",
+      "original_sha256": "1d2e2c6586e7ba65e6da5f87ab7f40c427aed8fc2262b8d2713ebb602b7b77e8",
+      "bytes": 995,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/习题课/2025-2026春季学期/第五次习题课/作业附件/第五次习题课题目.pdf",
+      "sha256": "041947270330996a685312b673d16c82ec7bc27e157dc323681047bd4a520b71",
+      "original_sha256": "041947270330996a685312b673d16c82ec7bc27e157dc323681047bd4a520b71",
+      "bytes": 49162,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/习题课/2025-2026春季学期/第五次习题课/作业附件/README.md",
+      "sha256": "3e1203e4a50faf5aaef4614a674325cbdf345a41387c431fb2d91842b06c39ab",
+      "original_sha256": "b9330f6203622fa06d25396e39f0b1f69792b1f7ade082509a77829a046507b8",
+      "bytes": 875,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/习题课/2025-2026春季学期/第五次习题课/上交作业附件/概率论第5次习题课.pdf",
+      "sha256": "62cccd4c9af98b9ac5152ece62fbc59afff12f4930d4db41deb8a46513901514",
+      "original_sha256": "62cccd4c9af98b9ac5152ece62fbc59afff12f4930d4db41deb8a46513901514",
+      "bytes": 165167,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/习题课/2025-2026春季学期/第五次习题课/上交作业附件/README.md",
+      "sha256": "025714bb49ca7929d88e8ae37b4343e93c3aecf6c8f328344265271504c5c844",
+      "original_sha256": "bc46d0e5c53e081b37a6e43c28852835288bc722b6dd08fc79024325dc5bdaef",
+      "bytes": 883,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/习题课/2025-2026春季学期/第五次习题课/README.md",
+      "sha256": "975776f3f373049da291aaed6f32786b211f3ae5d068cb0849ecdb6fdaa40232",
+      "original_sha256": "a5729b290f18c7f6cb25a36efa65824e08813da89701272d200ab81b8d8d5278",
+      "bytes": 995,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/习题课/2025-2026春季学期/第二次习题课/答案附件/概率论第二次习题课参考答案.pdf",
+      "sha256": "3938379fd5871ca77952b0914b60c81c54b5ceb52c3940d9595b7740fd7cfe86",
+      "original_sha256": "3938379fd5871ca77952b0914b60c81c54b5ceb52c3940d9595b7740fd7cfe86",
+      "bytes": 165881,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/习题课/2025-2026春季学期/第二次习题课/答案附件/README.md",
+      "sha256": "2c603623de9551b92db78480361ae75ae618004799f3de49663e3b686ffeeabd",
+      "original_sha256": "f0ef3be71289e1eaef663068166ffa774c59a32d6181ee89aeeca23b762b25f8",
+      "bytes": 890,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/习题课/2025-2026春季学期/第二次习题课/作业附件/概率论第二次习题课题目.pdf",
+      "sha256": "7af0f76df4ca5149cc1903d8daa11105aeac390ee649f58e49d093809112c15a",
+      "original_sha256": "7af0f76df4ca5149cc1903d8daa11105aeac390ee649f58e49d093809112c15a",
+      "bytes": 51932,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/习题课/2025-2026春季学期/第二次习题课/作业附件/README.md",
+      "sha256": "1e13a1cd58716ae74275db65a129a0c65db9c7fc6d56385bd200901de42ece11",
+      "original_sha256": "359d696adb591b5bafd5d14abf8147966055f0a643a02d9eaabb19f083fd0663",
+      "bytes": 884,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/习题课/2025-2026春季学期/第二次习题课/上交作业附件/概率论第2次习题课.pdf",
+      "sha256": "f94cbdeff2ad9e0de1875d93616c7c41ae46f03bdaf7adc7ac77b1b62eab39be",
+      "original_sha256": "f94cbdeff2ad9e0de1875d93616c7c41ae46f03bdaf7adc7ac77b1b62eab39be",
+      "bytes": 196807,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/习题课/2025-2026春季学期/第二次习题课/上交作业附件/README.md",
+      "sha256": "b36c83c70d0d8cb61383c996b8403e0cd5c1d6e75fa2ec1ecff37cd96e3ea7fc",
+      "original_sha256": "c0f0890f09c65d9c27d8381d2a12695f336701285892a1d13323b33745c17a8a",
+      "bytes": 883,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/习题课/2025-2026春季学期/第二次习题课/README.md",
+      "sha256": "6041c072f207edeedca0f8d9d54ed921103c4c37302374387607c7c6c39e9932",
+      "original_sha256": "938e392d3e0da102153120382e7f075b2ab5dc06c13eb6052299eb4064b4e033",
+      "bytes": 1236,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/习题课/2025-2026春季学期/第三次习题课/答案附件/概率论第三次习题课参考答案 (1).pdf",
+      "sha256": "a68a6dd93e7b750b04c7692f62f4803029578a6a51e1f6b5f5cd7d17641c1038",
+      "original_sha256": "a68a6dd93e7b750b04c7692f62f4803029578a6a51e1f6b5f5cd7d17641c1038",
+      "bytes": 189423,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/习题课/2025-2026春季学期/第三次习题课/答案附件/README.md",
+      "sha256": "a3ff4f6c94c0f26e7104ad9303494a98e5225af6fac9ddd2adc8051263ad8f49",
+      "original_sha256": "78f40e7678b410fd748956458fb3e0c076f72e8e60fe4b82723fcafdfa83ed00",
+      "bytes": 894,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/习题课/2025-2026春季学期/第三次习题课/作业附件/概率论第三次习题课.pdf",
+      "sha256": "4e29070ad5f766c4578e05a8abed355bd5c30616ec028119c437b4413a3cdac5",
+      "original_sha256": "4e29070ad5f766c4578e05a8abed355bd5c30616ec028119c437b4413a3cdac5",
+      "bytes": 56707,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/习题课/2025-2026春季学期/第三次习题课/作业附件/README.md",
+      "sha256": "9e939d7ae6a4a7ed80f08c0d7347d8be7d62cce06d95ef331c18f39264243f8a",
+      "original_sha256": "d0c575e64ddfcc7ab240d06fc5a82296819a3d8a25819bc0522926dcb68aebd9",
+      "bytes": 878,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/习题课/2025-2026春季学期/第三次习题课/上交作业附件/概率论第3次习题课.pdf",
+      "sha256": "cd6b20a096d3443fbe7daf47eb1a4976b2d9bda6540ae6a5f06fa0938b12e03e",
+      "original_sha256": "cd6b20a096d3443fbe7daf47eb1a4976b2d9bda6540ae6a5f06fa0938b12e03e",
+      "bytes": 154187,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/习题课/2025-2026春季学期/第三次习题课/上交作业附件/README.md",
+      "sha256": "fa0de22dc73d5e8509edd98d6ed341c5168fe1a4dfdd4e18d3b594f013d496d6",
+      "original_sha256": "ac92bf20a51c0b34e99fcec6064182dcfdf0204094e6e68ec3570d602d55ed7f",
+      "bytes": 883,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/习题课/2025-2026春季学期/第三次习题课/README.md",
+      "sha256": "0f8d4fb2f62f81d1be20c7c0cfecac5073380dc53777e3f82e6f4ad4ac425758",
+      "original_sha256": "dc13365fdec052623d1ed7bc5672b2e37ad1907c8ca87c78f2673b45a599f669",
+      "bytes": 1140,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/习题课/2025-2026春季学期/第一次习题课习题/答案附件/概率论第一次习题课参考答案.pdf",
+      "sha256": "c58933ee5b30dc836eea8e1efc98747b77e915faa291c6f400fe0c0cf723c0e2",
+      "original_sha256": "c58933ee5b30dc836eea8e1efc98747b77e915faa291c6f400fe0c0cf723c0e2",
+      "bytes": 176836,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/习题课/2025-2026春季学期/第一次习题课习题/答案附件/README.md",
+      "sha256": "c44813c6dc953928b58c2ea9c2fbc76a4c4dfaef6d1a1a09c69d236a1f836246",
+      "original_sha256": "21688106327487683c78f96e193c176ae762d9f53894e4ce3896dd6d3ca674dd",
+      "bytes": 890,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/习题课/2025-2026春季学期/第一次习题课习题/作业附件/概率论第一次习题课.pdf",
+      "sha256": "f68acb908c25765e139588b7f879463063a3f7086503b9eb2095433e660fb55a",
+      "original_sha256": "f68acb908c25765e139588b7f879463063a3f7086503b9eb2095433e660fb55a",
+      "bytes": 81670,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/习题课/2025-2026春季学期/第一次习题课习题/作业附件/README.md",
+      "sha256": "1cb70f69dd02f85f51a28bf48b8f578d4ed7ab68f8981f2881ca921e0a2740cf",
+      "original_sha256": "3e8d4827f0879f17983173d11c441dc2c13773de6000e2e1ccb58a83ba4dcc64",
+      "bytes": 878,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/习题课/2025-2026春季学期/第一次习题课习题/个人补充解答/概率论第1次习题课.pdf",
+      "sha256": "1e4269a2f6725c26beae1025212bb7dd19c74780fa84454f3237d2c1d9cb3775",
+      "original_sha256": "1e4269a2f6725c26beae1025212bb7dd19c74780fa84454f3237d2c1d9cb3775",
+      "bytes": 211570,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/习题课/2025-2026春季学期/第一次习题课习题/个人补充解答/README.md",
+      "sha256": "f309f8e9fb3a875268adfcd427bd7c6e9ad353e72752edd33c266ef4abfb5d42",
+      "original_sha256": "7d8c8d16a2a5c187ac65efef135926e216d1e67e788dbc09cb3447c6c4b9c1b2",
+      "bytes": 883,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/习题课/2025-2026春季学期/第一次习题课习题/上交作业附件/概率论第一次作业.pdf",
+      "sha256": "fedb61f18df02a56a8f221ad69f69c6ec8e5238d0484b4158b659289372e9ca4",
+      "original_sha256": "fedb61f18df02a56a8f221ad69f69c6ec8e5238d0484b4158b659289372e9ca4",
+      "bytes": 538522,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/习题课/2025-2026春季学期/第一次习题课习题/上交作业附件/README.md",
+      "sha256": "305c70e45dd7629fdadf4d6bc3fe89e8d025e65c9b35111eda06a65f3f094eb6",
+      "original_sha256": "04a2ca5ae236884458f26482ff4f964107474c017ccd31c346977b8a76f61ebc",
+      "bytes": 887,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/习题课/2025-2026春季学期/第一次习题课习题/README.md",
+      "sha256": "17a3f5cd4a8dfb004460dfe82d55e048cb24ff3e59e415448eb515ca3a503ebd",
+      "original_sha256": "c19782023d9cacb22bb429202ed09ef7d93cf00794723a511dc262950d3cf8b2",
+      "bytes": 1548,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/习题课/2025-2026春季学期/README.md",
+      "sha256": "8399de587012a0b62b41d0d3a8ecd7ba4e984b17471f8f77847a957aa046adac",
+      "original_sha256": "22721794e1b36e2a3683a9242ded026a9103126b601bead9a093ea6a99b34f1f",
+      "bytes": 761,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/往年题/陈金文/README.md",
+      "sha256": "fc1aa24f1a1a36d84f1e7a43197e03f1b600dc25481b92263bd21f29067b904d",
+      "original_sha256": "f72f83d1d736e46358fe9b1b880e3b81da59aaa1548d9fe770be04e12405bb7c",
+      "bytes": 900,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/往年题/陈金文/2007-2008春季概率论1期末_陈金文.pdf",
+      "sha256": "c4172107a0df8397b0ce58f70aa5b997eb029eea25435a3923457fed26779fdc",
+      "original_sha256": "c4172107a0df8397b0ce58f70aa5b997eb029eea25435a3923457fed26779fdc",
+      "bytes": 159476,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/往年题/荆文甲/README.md",
+      "sha256": "f7b8410e3d03c2c52c2aa3ebb217149035e2e64da6f353087149648ada99a009",
+      "original_sha256": "b9918a8e0c6e06be70c138eda5eb00208613c90d01139b44ac674153e221c0f3",
+      "bytes": 1021,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/往年题/荆文甲/22春 概率论(1) 荆文甲 期末.pdf",
+      "sha256": "5185429636c01a4ed37074ac149ff3e2cb69983cccfb62d91410f05292425822",
+      "original_sha256": "5185429636c01a4ed37074ac149ff3e2cb69983cccfb62d91410f05292425822",
+      "bytes": 112481,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/往年题/荆文甲/22春 概率论(1) 荆文甲 期中 答案.pdf",
+      "sha256": "08b1ff9b2636a7ae11bf24f65963d4577783c83fbcdeb5c473120449d243a4e4",
+      "original_sha256": "08b1ff9b2636a7ae11bf24f65963d4577783c83fbcdeb5c473120449d243a4e4",
+      "bytes": 522776,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/往年题/王小群/个人参考解答/概率论2024期中-自制答案.pdf",
+      "sha256": "11f7dc0e0f4d89a6eb91a0aa27b3c04dcd8d6c265de4914d1e7946aff28ce65c",
+      "original_sha256": "11f7dc0e0f4d89a6eb91a0aa27b3c04dcd8d6c265de4914d1e7946aff28ce65c",
+      "bytes": 162325,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/往年题/王小群/个人参考解答/README.md",
+      "sha256": "2a0559b963c028d33574076304ec4e510b8c9b3774caedfd9bacf4acc9008809",
+      "original_sha256": "385f6c799a81e9c3e55cb2569ac7fa49a8debb69f06cc803fa66548e05da9845",
+      "bytes": 890,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/往年题/王小群/README.md",
+      "sha256": "5027fe3c39a6d45ac909ca792df3a5f7f35736945a883e7646e7950e02417e26",
+      "original_sha256": "893781e8f37c594726ff3e3061fcfd28b2e0aa784f901a948149d701b312d83c",
+      "bytes": 1112,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/往年题/王小群/26王小群期末.pdf",
+      "sha256": "414353038ebb63f3b6833c99086592b34fbe1b64c16301eb7c8d0f4cbf0dce64",
+      "original_sha256": "414353038ebb63f3b6833c99086592b34fbe1b64c16301eb7c8d0f4cbf0dce64",
+      "bytes": 106078,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/往年题/王小群/2026王小群概率论期中.pdf",
+      "sha256": "fe783f7659db4a2fc6ef5381c29d0e76dddeafdf934d707f726b5124479eb138",
+      "original_sha256": "fe783f7659db4a2fc6ef5381c29d0e76dddeafdf934d707f726b5124479eb138",
+      "bytes": 103130,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/往年题/王小群/2024王小群概率论期中.pdf",
+      "sha256": "66979d47de2f974e79d5c2ccd325b8899c6ca214721b789c4b30d5c7eb9cf7fb",
+      "original_sha256": "66979d47de2f974e79d5c2ccd325b8899c6ca214721b789c4b30d5c7eb9cf7fb",
+      "bytes": 1056697,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/往年题/梁宗霞概率论往年题/README.md",
+      "sha256": "683890ca553ad6d8006be40db595d3a6b0469a3e71103291fb2d0ecc31c896ac",
+      "original_sha256": "4771cfa5788c4ce2bc9ec685716d0ff691a628c42bd23cfc2e7a68fbeb5ea598",
+      "bytes": 2647,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/往年题/梁宗霞概率论往年题/2025春季学期lzx概率论期末考试.pdf",
+      "sha256": "53e78bc8e2f216e2fb3f1a6d729470763d528144733e5a1c5578c4dbbfc04a6e",
+      "original_sha256": "53e78bc8e2f216e2fb3f1a6d729470763d528144733e5a1c5578c4dbbfc04a6e",
+      "bytes": 81176,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/往年题/梁宗霞概率论往年题/2024期中.pdf",
+      "sha256": "3e5073f730e9f31ba26cf8945b6358bbfecac542f5843481398179b240377637",
+      "original_sha256": "3e5073f730e9f31ba26cf8945b6358bbfecac542f5843481398179b240377637",
+      "bytes": 243287,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/往年题/梁宗霞概率论往年题/2023期末.pdf",
+      "sha256": "818537fec91e7f9dd70d1d35f6aa6de9df730a0aad6cde6d1828028111529a6d",
+      "original_sha256": "818537fec91e7f9dd70d1d35f6aa6de9df730a0aad6cde6d1828028111529a6d",
+      "bytes": 269027,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/往年题/梁宗霞概率论往年题/2023年春期中概率论(I)试题(1).pdf",
+      "sha256": "a32b05af944d555c0c4629ca60730342c7a3ec955b75f3064aeb764f2444bcd7",
+      "original_sha256": "a32b05af944d555c0c4629ca60730342c7a3ec955b75f3064aeb764f2444bcd7",
+      "bytes": 223856,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/往年题/梁宗霞概率论往年题/2022年春概率论(I)试题A.pdf",
+      "sha256": "54f6829782867b43548f745aca4901423b4cc3b39ccb139f1e4b6c5bc5b96c75",
+      "original_sha256": "54f6829782867b43548f745aca4901423b4cc3b39ccb139f1e4b6c5bc5b96c75",
+      "bytes": 264824,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/往年题/梁宗霞概率论往年题/2021期末.pdf",
+      "sha256": "d1b1ae3a8b862ec02dee7c0c1a0a1dc3b10990974447d86df3316db5f857e736",
+      "original_sha256": "d1b1ae3a8b862ec02dee7c0c1a0a1dc3b10990974447d86df3316db5f857e736",
+      "bytes": 215774,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/往年题/梁宗霞概率论往年题/2020期末.pdf",
+      "sha256": "84fc169ad287b7778bca89da6b06fba0334705c2d603901b098be30a8be4ce3c",
+      "original_sha256": "84fc169ad287b7778bca89da6b06fba0334705c2d603901b098be30a8be4ce3c",
+      "bytes": 101786,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/往年题/梁宗霞概率论往年题/2019期末.pdf",
+      "sha256": "c7517383a2372d9379295fa42bbba52cb8003fa68de2c2df6deee3ba5bcec6fc",
+      "original_sha256": "c7517383a2372d9379295fa42bbba52cb8003fa68de2c2df6deee3ba5bcec6fc",
+      "bytes": 88305,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/往年题/梁宗霞概率论往年题/2019期末-答案.pdf",
+      "sha256": "7c213cc4dabd1ba4b4c56bf64058b69ea27876aa0cd502d5493590f9271cb539",
+      "original_sha256": "7c213cc4dabd1ba4b4c56bf64058b69ea27876aa0cd502d5493590f9271cb539",
+      "bytes": 6603878,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/往年题/梁宗霞概率论往年题/2018期末.pdf",
+      "sha256": "3574f1008eb285b336511b957da95f93b5f4c2e8a51113127d99bb61da2a9f8e",
+      "original_sha256": "3574f1008eb285b336511b957da95f93b5f4c2e8a51113127d99bb61da2a9f8e",
+      "bytes": 92152,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/往年题/梁宗霞概率论往年题/2018期末-答案.pdf",
+      "sha256": "aef96bfc4c7d47d774d5e3679115ceff9824f77d287956d75509f61fdfa69504",
+      "original_sha256": "aef96bfc4c7d47d774d5e3679115ceff9824f77d287956d75509f61fdfa69504",
+      "bytes": 5635902,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/往年题/梁宗霞概率论往年题/2017期末.pdf",
+      "sha256": "f9202901ecfdeef457ab1d690ed8a7a7f71e742c62b036b857518765c8d9f5cd",
+      "original_sha256": "f9202901ecfdeef457ab1d690ed8a7a7f71e742c62b036b857518765c8d9f5cd",
+      "bytes": 91068,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/往年题/梁宗霞概率论往年题/2015期末.pdf",
+      "sha256": "bc16109b8538e89a321014f17f626fff5ea529cace5dea16c409e956eb95aec7",
+      "original_sha256": "bc16109b8538e89a321014f17f626fff5ea529cace5dea16c409e956eb95aec7",
+      "bytes": 227208,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/往年题/梁宗霞概率论往年题/2014期末.pdf",
+      "sha256": "1c4ec9ef45ba630a32042cadc886661b1b7e89018e83d0b9315e845ebd8025fc",
+      "original_sha256": "1c4ec9ef45ba630a32042cadc886661b1b7e89018e83d0b9315e845ebd8025fc",
+      "bytes": 250173,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/往年题/梁宗霞概率论往年题/2013期末.pdf",
+      "sha256": "aef1472e5c3d141c58219dd6714720eeca21b1f305ecea44d7617fc201f45b27",
+      "original_sha256": "aef1472e5c3d141c58219dd6714720eeca21b1f305ecea44d7617fc201f45b27",
+      "bytes": 77512,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/往年题/梁宗霞概率论往年题/2012期末.pdf",
+      "sha256": "90318fe231b9568664d2ff12ea39c5be032651fb672ca936586819963cece8fa",
+      "original_sha256": "90318fe231b9568664d2ff12ea39c5be032651fb672ca936586819963cece8fa",
+      "bytes": 78526,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/往年题/梁宗霞概率论往年题/2011期末.pdf",
+      "sha256": "679c96a5fde3addd21cdb37ef66691cba73158b5d0689538572ebedc4019f490",
+      "original_sha256": "679c96a5fde3addd21cdb37ef66691cba73158b5d0689538572ebedc4019f490",
+      "bytes": 186227,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/往年题/吴昊/概率论-2019年期中-吴昊.pdf",
+      "sha256": "5bf96db6383aa616df4e285cf528a37fe67e1d302c8cda1237d9638a04f6d9d5",
+      "original_sha256": "5bf96db6383aa616df4e285cf528a37fe67e1d302c8cda1237d9638a04f6d9d5",
+      "bytes": 128326,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/往年题/吴昊/README.md",
+      "sha256": "618e5f0f580745d7e99e85bdbc2b5c266f07b7ed381e297ef6dda44da2741e0d",
+      "original_sha256": "3dd2be1a74248016ff82fdd3d0e541c3c50ce9ce7d73108a67a96414cb5c4b26",
+      "bytes": 886,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/往年题/README.md",
+      "sha256": "5759260fe8f70d37031cb44db7ab3d8d1c8d90718f8b5e6779df35d39f4c2ef1",
+      "original_sha256": "7bef6d8ae4505e3355a79d392da931f14d73bce07c0a8da0199271389e3dbe45",
+      "bytes": 749,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/复习/来源原名标记2023春/README.md",
+      "sha256": "25e9045931ec47e81b69673cfabbb84a57398c3946e76316eea208afb717657c",
+      "original_sha256": "3753c2cbbf5141ea18156448ee5e5f3b5ad51db6ccc5020c1f0905c6d3d4ac57",
+      "bytes": 1053,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/复习/来源原名标记2023春/Probability-Theory-I-Final-2023-Spring.pdf",
+      "sha256": "f63759bc6dec82a9540b91095e284c39f453e19bf333795bf9d9cfda269b8a52",
+      "original_sha256": "f63759bc6dec82a9540b91095e284c39f453e19bf333795bf9d9cfda269b8a52",
+      "bytes": 1584711,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/复习/README.md",
+      "sha256": "a41f6f29cc0e82c3306f74728535833970d5e814ca178b827023dd2413c949d0",
+      "original_sha256": "ec256215f6a76d64fc5a53dbbd68edebcbab2ec3181353a666952de688fd8486",
+      "bytes": 746,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/复习/2025-2026春季学期/个人笔记/概率论期末复习.pdf",
+      "sha256": "dd56cf3d7969bdc3d81ad8b0b6a46ff46502d4a3a11de63ce87ee46243f6020e",
+      "original_sha256": "dd56cf3d7969bdc3d81ad8b0b6a46ff46502d4a3a11de63ce87ee46243f6020e",
+      "bytes": 236317,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/复习/2025-2026春季学期/个人笔记/概率论期中复习.pdf",
+      "sha256": "964c7d7f509774008aeb69fb1838e881a72d0fb0d3b798970333ed8a1e94451c",
+      "original_sha256": "964c7d7f509774008aeb69fb1838e881a72d0fb0d3b798970333ed8a1e94451c",
+      "bytes": 126706,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/复习/2025-2026春季学期/个人笔记/README.md",
+      "sha256": "a55b91c899fa4541a04b728d6759be746e0a13c827f16398d8db3a32b1c9b4c0",
+      "original_sha256": "14e0e21b9824151b223652b74e40adbb59b5585daa12e6e85bbe913f470ff965",
+      "bytes": 989,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/复习/2025-2026春季学期/README.md",
+      "sha256": "8399de587012a0b62b41d0d3a8ecd7ba4e984b17471f8f77847a957aa046adac",
+      "original_sha256": "22721794e1b36e2a3683a9242ded026a9103126b601bead9a093ea6a99b34f1f",
+      "bytes": 761,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论（1）/复习/2024-2025春_源梁宗霞体系/概率论期末复习.pdf",
+      "sha256": "bd59cfa5ce04c93aa92c3249984f6059a17167254d8369023792ab40eb3fa74e",
+      "original_sha256": "bd59cfa5ce04c93aa92c3249984f6059a17167254d8369023792ab40eb3fa74e",
+      "bytes": 358470,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论（1）/复习/2024-2025春_源梁宗霞体系/README.md",
+      "sha256": "538c501fb02eed783413a5dd4bae7a30c6ec0d5c51af5e7a2de71713d2e17416",
+      "original_sha256": "87cb9bd67cc15a66f7ec46a0d473b3e5ce1ac9e7fc28e5930eeb9a50f8d589f7",
+      "bytes": 892,
+      "kind": "provenance"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "date": "2026-10-18",
+  "course": "数学类/概率论与数理统计",
+  "summary": {
+    "batch": 10,
+    "course": "概率论与数理统计",
+    "selected_files": 13,
+    "source_files": 10,
+    "provenance": 3,
+    "excluded_files": 0,
+    "legacy_paths_merged": 18
+  },
+  "files": [
+    {
+      "path": "数学类/概率论与数理统计/README.md",
+      "sha256": "341cf55d7107ccadf2546c8c92547c7968d35ccb418d261b173c1262094818bb",
+      "original_sha256": "fb017c92abb1135f98c92bd7e507274a6f0e8396c3d46fd300531c2d161130f6",
+      "bytes": 977,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论与数理统计/往年题/历史资料/概率2007ko.pdf",
+      "sha256": "375d1d58de04cc2ffd3da1c4aa7bc1ab597962c94969bd8fb5b32c33a59c5074",
+      "original_sha256": "375d1d58de04cc2ffd3da1c4aa7bc1ab597962c94969bd8fb5b32c33a59c5074",
+      "bytes": 450433,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论与数理统计/往年题/历史资料/README.md",
+      "sha256": "5e100a5760977e6ece790351d6919cfff9c2be3ef9553366d5e1e7b709105a68",
+      "original_sha256": "7489cf064419f1c451792cadb575a8a81f5ac74cae3ff00954b085a980de6009",
+      "bytes": 2153,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/概率论与数理统计/往年题/历史资料/2010年1月18日概率试题.pdf",
+      "sha256": "619bee2426a791bd3ce426690ce7110f2650831d422a7709dc36378d049c31ac",
+      "original_sha256": "619bee2426a791bd3ce426690ce7110f2650831d422a7709dc36378d049c31ac",
+      "bytes": 794795,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论与数理统计/往年题/历史资料/2009-2010秋季学期概率统计参考答案_671208387.pdf",
+      "sha256": "175c0927e197b4911991e8b21b7427a8ff22d656a290e4ed4086f1551f82df7f",
+      "original_sha256": "175c0927e197b4911991e8b21b7427a8ff22d656a290e4ed4086f1551f82df7f",
+      "bytes": 243418,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论与数理统计/往年题/历史资料/1001概率期末_698001423.pdf",
+      "sha256": "9adefad1e5edce55dc93b0bf666f1cfb9a6280ba081a3585f24043ba0141dd7c",
+      "original_sha256": "9adefad1e5edce55dc93b0bf666f1cfb9a6280ba081a3585f24043ba0141dd7c",
+      "bytes": 298014,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论与数理统计/往年题/历史资料/0706葛余博.pdf",
+      "sha256": "2d73b5ff4430a29b62453d4c7916d91b53da03a88f48c5524c4ce4b9c2c79fd9",
+      "original_sha256": "2d73b5ff4430a29b62453d4c7916d91b53da03a88f48c5524c4ce4b9c2c79fd9",
+      "bytes": 464619,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论与数理统计/往年题/历史资料/0606林元烈期末（2）.pdf",
+      "sha256": "09150d8d587a97d12826aa6a9b6cfe06867525e3533b49397ed0d4101dad014a",
+      "original_sha256": "09150d8d587a97d12826aa6a9b6cfe06867525e3533b49397ed0d4101dad014a",
+      "bytes": 80610,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论与数理统计/往年题/历史资料/0606林元烈期末（1）.pdf",
+      "sha256": "6d5286b77d5b7446881dba40066a9e1f17e5ac5160df6e1c4e6f63aed472c3cb",
+      "original_sha256": "6d5286b77d5b7446881dba40066a9e1f17e5ac5160df6e1c4e6f63aed472c3cb",
+      "bytes": 78006,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论与数理统计/往年题/历史资料/0501葛余博.pdf",
+      "sha256": "3b8a1634fe8953e97442f4bce902b28355a868bf1a9f582f73ea4363cbbaf97d",
+      "original_sha256": "3b8a1634fe8953e97442f4bce902b28355a868bf1a9f582f73ea4363cbbaf97d",
+      "bytes": 562338,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论与数理统计/往年题/历史资料/0406葛余博.pdf",
+      "sha256": "659a6fc718e1e78082b536fa90bcedc034eb5bc90a37624c68746a75208da552",
+      "original_sha256": "659a6fc718e1e78082b536fa90bcedc034eb5bc90a37624c68746a75208da552",
+      "bytes": 556019,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论与数理统计/往年题/历史资料/0312葛余博 _整理.pdf",
+      "sha256": "c8a4149e075035b8d1fa54bb520d22d58c680fd3a4d3c9084f5c2240bc11b6c1",
+      "original_sha256": "c8a4149e075035b8d1fa54bb520d22d58c680fd3a4d3c9084f5c2240bc11b6c1",
+      "bytes": 471407,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/概率论与数理统计/往年题/README.md",
+      "sha256": "97d8c4ff362616ec1bd26b9c1781311cb7717d0f3e1b0b0e8dea7d52a1866626",
+      "original_sha256": "860eea1da33d4f191928eca6d37dc81cf23ced17f22791207e249d82ceb7405c",
+      "bytes": 962,
+      "kind": "provenance"
+    }
+  ]
+}
