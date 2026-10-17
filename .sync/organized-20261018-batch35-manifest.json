@@ -1,0 +1,180 @@
+{
+  "summary": {
+    "source_files": 15,
+    "provenance": 7,
+    "selected_files": 22,
+    "excluded_files": 38,
+    "local_links_verified": 6,
+    "cloud_links_adapted": 2,
+    "legacy_exact_paths_merged": 9,
+    "only_accepted_mapping_used": true
+  },
+  "files": [
+    {
+      "path": "物理类/大学物理/复习/周树云来源_匿名总结/总结/力学-质点运动学.pdf",
+      "sha256": "e40ac7885fc91cd51f66538bfdfc2b35f20f79055d33922d0dfc7bb8cb31a34b",
+      "original_sha256": "e40ac7885fc91cd51f66538bfdfc2b35f20f79055d33922d0dfc7bb8cb31a34b",
+      "bytes": 40224,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/复习/周树云来源_匿名总结/总结/第三章 动量与角动量.pdf",
+      "sha256": "8e86335e910ea3196547dd58c4e2b952a8f020399e84497899e758445ce5c03e",
+      "original_sha256": "8e86335e910ea3196547dd58c4e2b952a8f020399e84497899e758445ce5c03e",
+      "bytes": 42176,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/复习/周树云来源_匿名总结/总结/第九章 温度和气体动理论.pdf",
+      "sha256": "655ce9688d68357dc713e8275ff653491a472575359fbc3aca73223881c94f93",
+      "original_sha256": "655ce9688d68357dc713e8275ff653491a472575359fbc3aca73223881c94f93",
+      "bytes": 378886,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/复习/周树云来源_匿名总结/总结/第二章 运动与力.pdf",
+      "sha256": "b29358fae830d5c3e506beb8b7b9114b402e41ec6c9d083d406e21d3895faa4d",
+      "original_sha256": "b29358fae830d5c3e506beb8b7b9114b402e41ec6c9d083d406e21d3895faa4d",
+      "bytes": 39931,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/复习/周树云来源_匿名总结/总结/第六、七章 振动&波.pdf",
+      "sha256": "44736ecfaac4854b78ddf58230d77717a924b71ddbb300ed7950a9aece548eff",
+      "original_sha256": "44736ecfaac4854b78ddf58230d77717a924b71ddbb300ed7950a9aece548eff",
+      "bytes": 61599,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/复习/周树云来源_匿名总结/总结/第十一章 热力学第二定律.pdf",
+      "sha256": "76ff3f50ace965e280480fdcf070adee2ba527cb74b6244e1b5eb8018edc6053",
+      "original_sha256": "76ff3f50ace965e280480fdcf070adee2ba527cb74b6244e1b5eb8018edc6053",
+      "bytes": 101795,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/复习/周树云来源_匿名总结/总结/第十章.pdf",
+      "sha256": "e1d32c5f70ab107a98757c48ac913390edb3fc0c65c59bcce01981ba727d1203",
+      "original_sha256": "e1d32c5f70ab107a98757c48ac913390edb3fc0c65c59bcce01981ba727d1203",
+      "bytes": 1349620,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/复习/周树云来源_匿名总结/总结/第四章 功与能.pdf",
+      "sha256": "80b219d4963ada917dd6cf4185f49d29cffa3e461e1ba71dfea9e043673f82d8",
+      "original_sha256": "80b219d4963ada917dd6cf4185f49d29cffa3e461e1ba71dfea9e043673f82d8",
+      "bytes": 66145,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/往年题/周树云来源/2020春_年份据源名/期中/2020春季学期期中试卷.pdf",
+      "sha256": "bd9118f6ba9cd4a6543af68c7e19a82bbfd680169e37ce0d8a2aa5723d9ecce2",
+      "original_sha256": "bd9118f6ba9cd4a6543af68c7e19a82bbfd680169e37ce0d8a2aa5723d9ecce2",
+      "bytes": 196755,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/往年题/周树云来源/2020春_年份据源名/期末/大学物理2020春期末考试-加密_00.jpg",
+      "sha256": "5b9535290986187e1c34e902f5067fed22e51d0a48c3ba8504ccf4af7fb747e9",
+      "original_sha256": "5b9535290986187e1c34e902f5067fed22e51d0a48c3ba8504ccf4af7fb747e9",
+      "bytes": 101310,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/往年题/周树云来源/2020春_年份据源名/期末/大学物理2020春期末考试-加密_01.jpg",
+      "sha256": "9a8adbb3ff0c56c4bdeec3fe02534f5043c8270416327ebf843200ae5e8bd63e",
+      "original_sha256": "9a8adbb3ff0c56c4bdeec3fe02534f5043c8270416327ebf843200ae5e8bd63e",
+      "bytes": 102382,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/往年题/周树云来源/2020春_年份据源名/期末/大学物理2020春期末考试-加密_02.jpg",
+      "sha256": "2b0c2904f368c7bafb63a5b3cb443c22b4a3e7f64926715370c9346eda660446",
+      "original_sha256": "2b0c2904f368c7bafb63a5b3cb443c22b4a3e7f64926715370c9346eda660446",
+      "bytes": 95156,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/往年题/周树云来源/2020春_年份据源名/期末/大学物理2020春期末考试-加密_03.jpg",
+      "sha256": "2f4533c11402df9e1604564b5c52f5b8876d457a2498d8964aede56b909fb0b0",
+      "original_sha256": "2f4533c11402df9e1604564b5c52f5b8876d457a2498d8964aede56b909fb0b0",
+      "bytes": 104142,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/往年题/周树云来源/2020春_年份据源名/期末/大学物理2020春期末考试-加密_04.jpg",
+      "sha256": "a2ea1311e4e502bdc4b35535e245bfab2f7fadd434a0fb7c6bb884cb48ad49c9",
+      "original_sha256": "a2ea1311e4e502bdc4b35535e245bfab2f7fadd434a0fb7c6bb884cb48ad49c9",
+      "bytes": 102046,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/往年题/周树云来源/2020春_年份据源名/期末/大学物理2020春期末考试-加密_05.jpg",
+      "sha256": "1502cf0aaeeb39755a52d6419f5fd2f22e24352c34dea91435cc5d87fb79252a",
+      "original_sha256": "1502cf0aaeeb39755a52d6419f5fd2f22e24352c34dea91435cc5d87fb79252a",
+      "bytes": 55812,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/复习/周树云来源_匿名总结/README.md",
+      "sha256": "6550b481401c9f9b4ec09eb265f738035dc16d564a57d8676879f95b8d880b02",
+      "original_sha256": "6550b481401c9f9b4ec09eb265f738035dc16d564a57d8676879f95b8d880b02",
+      "bytes": 909,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/往年题/周树云来源/README.md",
+      "sha256": "054f70653524f2a7ba24bccca9e390346a689977c2c962d76fc58629f7a9ae88",
+      "original_sha256": "054f70653524f2a7ba24bccca9e390346a689977c2c962d76fc58629f7a9ae88",
+      "bytes": 605,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/往年题/周树云来源/2020春_年份据源名/README.md",
+      "sha256": "d65847f7b2c98ba518ea617929673454db6a633bd6602957404aae220251bea3",
+      "original_sha256": "d65847f7b2c98ba518ea617929673454db6a633bd6602957404aae220251bea3",
+      "bytes": 602,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/往年题/周树云来源/2020春_年份据源名/期中/README.md",
+      "sha256": "1a5ea0ee0d264ac2f3f712b40bf12a2216a3284ef852019b099197a373097863",
+      "original_sha256": "1a5ea0ee0d264ac2f3f712b40bf12a2216a3284ef852019b099197a373097863",
+      "bytes": 530,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/往年题/周树云来源/2020春_年份据源名/期末/README.md",
+      "sha256": "d42cdfae946e0e1f98858d26042e08bd8747137c4456de4105b724d445aea124",
+      "original_sha256": "d42cdfae946e0e1f98858d26042e08bd8747137c4456de4105b724d445aea124",
+      "bytes": 727,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/周树云/README_迁移说明.md",
+      "sha256": "68a0bfccc08c6b44d5f2dd10eebf2e34986cbdc84a133adf9bcd1a8e398562a0",
+      "original_sha256": "264428efc00b0c042b29e583f51b2d1001658302e2473852e0919b515663b1a7",
+      "bytes": 1255,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/README_周树云资料_第35批.md",
+      "sha256": "bd2c0aeed8f1a0ee4888afa6b9440fa2dee4750d4c0478e18d804a7aadce0003",
+      "original_sha256": "bd2c0aeed8f1a0ee4888afa6b9440fa2dee4750d4c0478e18d804a7aadce0003",
+      "bytes": 2533,
+      "kind": "provenance"
+    }
+  ],
+  "link_adaptations": [
+    {
+      "from": "周树云/README_迁移说明.md",
+      "target": "_过程材料/周树云来源/原始压缩包",
+      "cloud": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/_%E8%BF%87%E7%A8%8B%E6%9D%90%E6%96%99/%E5%91%A8%E6%A0%91%E4%BA%91%E6%9D%A5%E6%BA%90/%E5%8E%9F%E5%A7%8B%E5%8E%8B%E7%BC%A9%E5%8C%85/"
+    },
+    {
+      "from": "周树云/README_迁移说明.md",
+      "target": "讲义/周树云来源_学期未核",
+      "cloud": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E8%AE%B2%E4%B9%89/%E5%91%A8%E6%A0%91%E4%BA%91%E6%9D%A5%E6%BA%90_%E5%AD%A6%E6%9C%9F%E6%9C%AA%E6%A0%B8/"
+    }
+  ]
+}
