@@ -1,0 +1,388 @@
+{
+  "summary": {
+    "source_files": 47,
+    "provenance": 5,
+    "selected_files": 52,
+    "local_links_verified": 51,
+    "legacy_exact_paths_merged": 47,
+    "restricted_body_newly_added": false,
+    "restricted_previous_current_path_removed": 1,
+    "restricted_body_read": false,
+    "only_whitelist_used": true
+  },
+  "files": [
+    {
+      "path": "物理类/大学物理/习题与解答/大学物理B章节题库_来源年份未核/质点力学综合练习2答案.doc",
+      "sha256": "027903100c2c5451f78ca25ed6a01e7472a4f8f1d44e4d8821b5a65613a64912",
+      "original_sha256": "027903100c2c5451f78ca25ed6a01e7472a4f8f1d44e4d8821b5a65613a64912",
+      "bytes": 1146880,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/大学物理B章节题库_来源年份未核/质点力学综合练习2.doc",
+      "sha256": "2f4150c951bf4314c42ac3b469e6c0628a10b367ea598999473ef9997fa3e5f7",
+      "original_sha256": "2f4150c951bf4314c42ac3b469e6c0628a10b367ea598999473ef9997fa3e5f7",
+      "bytes": 993280,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/大学物理B章节题库_来源年份未核/质点力学综合练习1答案.doc",
+      "sha256": "7ba6aa5bb6bb8c6a5b719cb48ecb7a98caab87c5deaecd10368d65db9251651d",
+      "original_sha256": "7ba6aa5bb6bb8c6a5b719cb48ecb7a98caab87c5deaecd10368d65db9251651d",
+      "bytes": 102400,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/大学物理B章节题库_来源年份未核/质点力学综合练习1.doc",
+      "sha256": "810a83b4da5a9d3c7244c76bfd4729102ae9894f3315dc6f6866926560232d68",
+      "original_sha256": "810a83b4da5a9d3c7244c76bfd4729102ae9894f3315dc6f6866926560232d68",
+      "bytes": 807936,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/大学物理B章节题库_来源年份未核/README.md",
+      "sha256": "b73fef72e7aab9c8a106159f31f1fc0b9797e6c24ac9117223fb52ea3e91c38d",
+      "original_sha256": "b73fef72e7aab9c8a106159f31f1fc0b9797e6c24ac9117223fb52ea3e91c38d",
+      "bytes": 5439,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/大学物理B章节题库_来源年份未核/23跨章综合答案.doc",
+      "sha256": "9bfed033a3799485797d717dd38d0127e981a738f0d53599ea6f2e8dde6eb089",
+      "original_sha256": "9bfed033a3799485797d717dd38d0127e981a738f0d53599ea6f2e8dde6eb089",
+      "bytes": 544768,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/大学物理B章节题库_来源年份未核/23跨章综合.doc",
+      "sha256": "03c92e276caf85c4850cc88fc212d7cda1140e45dd3adc18ecf1fcb13e6469fe",
+      "original_sha256": "03c92e276caf85c4850cc88fc212d7cda1140e45dd3adc18ecf1fcb13e6469fe",
+      "bytes": 391680,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/大学物理B章节题库_来源年份未核/22固体物理与激光答案.doc",
+      "sha256": "fa444b4fc150f1b51e65f25c6cab02fbf92722cfc350b44d992932b7b6aff77e",
+      "original_sha256": "fa444b4fc150f1b51e65f25c6cab02fbf92722cfc350b44d992932b7b6aff77e",
+      "bytes": 71168,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/大学物理B章节题库_来源年份未核/22固体物理与激光.doc",
+      "sha256": "c970e2fdc3964dbdf69c79500f44486d69b4989037d0118bf62eff86e8e47cc8",
+      "original_sha256": "c970e2fdc3964dbdf69c79500f44486d69b4989037d0118bf62eff86e8e47cc8",
+      "bytes": 112128,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/大学物理B章节题库_来源年份未核/21量子物理基础答案.doc",
+      "sha256": "5e77df18d3a400492e087b89b32b9cea40fe9d5e8ff92622f66d61a5d6fd2004",
+      "original_sha256": "5e77df18d3a400492e087b89b32b9cea40fe9d5e8ff92622f66d61a5d6fd2004",
+      "bytes": 1011200,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/大学物理B章节题库_来源年份未核/21量子物理基础.doc",
+      "sha256": "42c34022e4d9c639a2d27b944bf611ff3774903b53bba12cbd34d3157b2cdf72",
+      "original_sha256": "42c34022e4d9c639a2d27b944bf611ff3774903b53bba12cbd34d3157b2cdf72",
+      "bytes": 724480,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/大学物理B章节题库_来源年份未核/19光的偏振答案.doc",
+      "sha256": "139a5a7e830e5d8a90a784e53b7cc975faae29f9d22b17621cf49f8ed7493c64",
+      "original_sha256": "139a5a7e830e5d8a90a784e53b7cc975faae29f9d22b17621cf49f8ed7493c64",
+      "bytes": 557056,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/大学物理B章节题库_来源年份未核/19光的偏振.doc",
+      "sha256": "43cae1eaabf6ba4f33c9cae2738829e70013e0ec2b181c624943381012cc6ae6",
+      "original_sha256": "43cae1eaabf6ba4f33c9cae2738829e70013e0ec2b181c624943381012cc6ae6",
+      "bytes": 609792,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/大学物理B章节题库_来源年份未核/18光的衍射答案.doc",
+      "sha256": "9e617a7cb3f5ea84cfad72a852c96d067505af72205918cabff00b3204f74933",
+      "original_sha256": "9e617a7cb3f5ea84cfad72a852c96d067505af72205918cabff00b3204f74933",
+      "bytes": 355840,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/大学物理B章节题库_来源年份未核/18光的衍射.doc",
+      "sha256": "840c3c56f3d739b298d680ad884040c100729f40866d789f50e388ca2fb8db35",
+      "original_sha256": "840c3c56f3d739b298d680ad884040c100729f40866d789f50e388ca2fb8db35",
+      "bytes": 373248,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/大学物理B章节题库_来源年份未核/17光的干涉答案.doc",
+      "sha256": "8ca111acc3eeb57437a1e1aa56b25795f089544926f354060c122a1a96c7d1b3",
+      "original_sha256": "8ca111acc3eeb57437a1e1aa56b25795f089544926f354060c122a1a96c7d1b3",
+      "bytes": 594944,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/大学物理B章节题库_来源年份未核/17光的干涉.doc",
+      "sha256": "9b14392d341772e645ee0ee7a4d8c4acbfd517e9858e5e5ec7aa68f91eb71d82",
+      "original_sha256": "9b14392d341772e645ee0ee7a4d8c4acbfd517e9858e5e5ec7aa68f91eb71d82",
+      "bytes": 1207296,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/大学物理B章节题库_来源年份未核/16波动答案.doc",
+      "sha256": "35f39829f5b530083334a6819e75aa0a7bf54d0c56eb53ea5641d9644eae7620",
+      "original_sha256": "35f39829f5b530083334a6819e75aa0a7bf54d0c56eb53ea5641d9644eae7620",
+      "bytes": 1437696,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/大学物理B章节题库_来源年份未核/16波动.doc",
+      "sha256": "7b9f1c4c007aa93ffeec7bfd3a5f178b618bf5a0d3cd898328c6b2cc8ba7afd3",
+      "original_sha256": "7b9f1c4c007aa93ffeec7bfd3a5f178b618bf5a0d3cd898328c6b2cc8ba7afd3",
+      "bytes": 2851840,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/大学物理B章节题库_来源年份未核/15振动答案.doc",
+      "sha256": "803a8c055e906aeff08b3e5f9f83a5b3902d1982c19d76095767dc9522ca1a08",
+      "original_sha256": "803a8c055e906aeff08b3e5f9f83a5b3902d1982c19d76095767dc9522ca1a08",
+      "bytes": 996352,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/大学物理B章节题库_来源年份未核/15振动.doc",
+      "sha256": "7e59cabab79e11979bfed8da9e89d1a302c5f556e67b37b09d65d82e0b11efbd",
+      "original_sha256": "7e59cabab79e11979bfed8da9e89d1a302c5f556e67b37b09d65d82e0b11efbd",
+      "bytes": 1418752,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/大学物理B章节题库_来源年份未核/13电磁感应答案.doc",
+      "sha256": "adccd9cc4f30f4de095af8b5ed1218bf091403c5bfd62762f923fea7c5ea48cb",
+      "original_sha256": "adccd9cc4f30f4de095af8b5ed1218bf091403c5bfd62762f923fea7c5ea48cb",
+      "bytes": 1568256,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/大学物理B章节题库_来源年份未核/13电磁感应.doc",
+      "sha256": "9b190d6612b32b0b89d65e70643359b712ba32162310945a33f152605f95baa9",
+      "original_sha256": "9b190d6612b32b0b89d65e70643359b712ba32162310945a33f152605f95baa9",
+      "bytes": 3088896,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/大学物理B章节题库_来源年份未核/12有介质的稳恒磁场答案.doc",
+      "sha256": "0fc7a6a631a83d0e44cb14815df754e60840c2d7d1b03b174a40ede5789de8de",
+      "original_sha256": "0fc7a6a631a83d0e44cb14815df754e60840c2d7d1b03b174a40ede5789de8de",
+      "bytes": 53248,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/大学物理B章节题库_来源年份未核/12有介质的稳恒磁场.doc",
+      "sha256": "d9e16b42e9e2ee630e63cf1a56aaf6bcfe33d42a5c6f1509494368b78caec4c0",
+      "original_sha256": "d9e16b42e9e2ee630e63cf1a56aaf6bcfe33d42a5c6f1509494368b78caec4c0",
+      "bytes": 158720,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/大学物理B章节题库_来源年份未核/11真空中的稳恒磁场答案.doc",
+      "sha256": "d92f5d10a6299542ab607742b338865f1256f6a9ff3c3603e15fb4e1bc52b3cd",
+      "original_sha256": "d92f5d10a6299542ab607742b338865f1256f6a9ff3c3603e15fb4e1bc52b3cd",
+      "bytes": 3502592,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/大学物理B章节题库_来源年份未核/11真空中的稳恒磁场.doc",
+      "sha256": "250d71afdb01a4575363dc4b03857fb1a85517d7ec43feb8288d78280374ae4a",
+      "original_sha256": "250d71afdb01a4575363dc4b03857fb1a85517d7ec43feb8288d78280374ae4a",
+      "bytes": 5687296,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/大学物理B章节题库_来源年份未核/10导体、介质中的静电答案.doc",
+      "sha256": "d4d08aa60f5c42388036fa49729edd9e8a6b852cd9df85649eee1c86dcf337e5",
+      "original_sha256": "d4d08aa60f5c42388036fa49729edd9e8a6b852cd9df85649eee1c86dcf337e5",
+      "bytes": 510464,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/大学物理B章节题库_来源年份未核/10导体、介质中的静电.doc",
+      "sha256": "7d4a0a66f868207288fbb7c296b65cc44945824ceb37741d8423d3e711972ca1",
+      "original_sha256": "7d4a0a66f868207288fbb7c296b65cc44945824ceb37741d8423d3e711972ca1",
+      "bytes": 1425920,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/大学物理B章节题库_来源年份未核/09真空中的静电场答案.doc",
+      "sha256": "ad746fed56bff433b6a632b0c0d411b8f05a35d6903f8bba8670b9dfb895a73f",
+      "original_sha256": "ad746fed56bff433b6a632b0c0d411b8f05a35d6903f8bba8670b9dfb895a73f",
+      "bytes": 3024384,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/大学物理B章节题库_来源年份未核/09真空中的静电场.doc",
+      "sha256": "b2bfe5e540f136de6a31cd2fa6f68f5ff470f6f9553662f345a02563546cc2fe",
+      "original_sha256": "b2bfe5e540f136de6a31cd2fa6f68f5ff470f6f9553662f345a02563546cc2fe",
+      "bytes": 5811712,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/大学物理B章节题库_来源年份未核/08热力学答案.doc",
+      "sha256": "c58263a3c97ffc52c4ce4017d01bda172e544ba0fa4ddf5a8274a160fef2743b",
+      "original_sha256": "c58263a3c97ffc52c4ce4017d01bda172e544ba0fa4ddf5a8274a160fef2743b",
+      "bytes": 1324544,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/大学物理B章节题库_来源年份未核/08热力学.doc",
+      "sha256": "ac7cdb327a12b519bfec7eb0daffff43ad2b67888727961c8b870d64c865ccb1",
+      "original_sha256": "ac7cdb327a12b519bfec7eb0daffff43ad2b67888727961c8b870d64c865ccb1",
+      "bytes": 2200064,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/大学物理B章节题库_来源年份未核/07气动理论答案.doc",
+      "sha256": "ba0f85a559b7975fb1302cd4f5d80e39c518537ee92747e7c75355a35cd60f46",
+      "original_sha256": "ba0f85a559b7975fb1302cd4f5d80e39c518537ee92747e7c75355a35cd60f46",
+      "bytes": 438784,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/大学物理B章节题库_来源年份未核/07气动理论.doc",
+      "sha256": "3ce01262045c8222e92fcdafcc8cb1b40e3f10c4cc6d64f672ba43cda4e093c8",
+      "original_sha256": "3ce01262045c8222e92fcdafcc8cb1b40e3f10c4cc6d64f672ba43cda4e093c8",
+      "bytes": 913920,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/大学物理B章节题库_来源年份未核/06刚体力学答案.doc",
+      "sha256": "b266b47e282cb16fb8785f13c1f92feee2b7c496da19243835aae47acfc6a0cd",
+      "original_sha256": "b266b47e282cb16fb8785f13c1f92feee2b7c496da19243835aae47acfc6a0cd",
+      "bytes": 1186304,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/大学物理B章节题库_来源年份未核/06刚体力学.doc",
+      "sha256": "69be37f42f4d719498711ad17ea7281c67834fe44560be8ed2f860bf8b37841e",
+      "original_sha256": "69be37f42f4d719498711ad17ea7281c67834fe44560be8ed2f860bf8b37841e",
+      "bytes": 1723904,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/大学物理B章节题库_来源年份未核/05质点力学综合练习2答案.doc",
+      "sha256": "d0d586e402433b0f7818a29ccd5069b797f90957f1c2c0ce3c663fca07873726",
+      "original_sha256": "d0d586e402433b0f7818a29ccd5069b797f90957f1c2c0ce3c663fca07873726",
+      "bytes": 1570816,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/大学物理B章节题库_来源年份未核/05质点力学综合练习2.doc",
+      "sha256": "287f87fbdfa33dc2033714fe78b31eb051b20a1e581fbe5253a25c4702883ef4",
+      "original_sha256": "287f87fbdfa33dc2033714fe78b31eb051b20a1e581fbe5253a25c4702883ef4",
+      "bytes": 1365504,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/大学物理B章节题库_来源年份未核/04功和能答案.doc",
+      "sha256": "20d4780387aaa3e5f160e1b4e81588ed6d214aef8681d7fe01d728dbe802beca",
+      "original_sha256": "20d4780387aaa3e5f160e1b4e81588ed6d214aef8681d7fe01d728dbe802beca",
+      "bytes": 518656,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/大学物理B章节题库_来源年份未核/04功和能.doc",
+      "sha256": "c48d3966291a196d3ec624429ea4aecca9bd5c6c6ef22aa5dbbaff2c3454d266",
+      "original_sha256": "c48d3966291a196d3ec624429ea4aecca9bd5c6c6ef22aa5dbbaff2c3454d266",
+      "bytes": 1103360,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/大学物理B章节题库_来源年份未核/03动量与角动量答案.doc",
+      "sha256": "d1e41c1ea3472ff77e42f1abe5757cfa97c891a262452487b70560218e6e9e07",
+      "original_sha256": "d1e41c1ea3472ff77e42f1abe5757cfa97c891a262452487b70560218e6e9e07",
+      "bytes": 495104,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/大学物理B章节题库_来源年份未核/03动量与角动量(1).doc",
+      "sha256": "4a67e4e8deac7b6d5b6106ac87ca009ef5a936fe75c8d5b87f53ec0b1b8f4752",
+      "original_sha256": "4a67e4e8deac7b6d5b6106ac87ca009ef5a936fe75c8d5b87f53ec0b1b8f4752",
+      "bytes": 934912,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/大学物理B章节题库_来源年份未核/02牛顿力学.doc",
+      "sha256": "0f81f44e3634b3fd4117835ccf94631e614bedd7ba57d9197b9c1f4bb6242760",
+      "original_sha256": "0f81f44e3634b3fd4117835ccf94631e614bedd7ba57d9197b9c1f4bb6242760",
+      "bytes": 1253888,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/大学物理B章节题库_来源年份未核/01质点力学答案.doc",
+      "sha256": "56d2c7c1860b8237089432317fb6ef040266cca7ea4fbfd7bea971fcbb31539f",
+      "original_sha256": "56d2c7c1860b8237089432317fb6ef040266cca7ea4fbfd7bea971fcbb31539f",
+      "bytes": 813056,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/大学物理B章节题库_来源年份未核/01质点力学.doc",
+      "sha256": "14ac3b1435216deb4d69169d7ab93b4bde2397041f89bc6ced871719568b4f79",
+      "original_sha256": "14ac3b1435216deb4d69169d7ab93b4bde2397041f89bc6ced871719568b4f79",
+      "bytes": 816128,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/复习/大学物理B_热学提要_年份未核/期中考试A4.pdf",
+      "sha256": "f62de67e55b412bab8b28b32d3db7d099e496db5f26d7f9ceb1bfcf3c22a7e49",
+      "original_sha256": "f62de67e55b412bab8b28b32d3db7d099e496db5f26d7f9ceb1bfcf3c22a7e49",
+      "bytes": 411314,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/复习/大学物理B_热学提要_年份未核/README.md",
+      "sha256": "2b90b61e6232a0d11a7dfa019e788d4b18edf604af1837a8fae545974be48a2c",
+      "original_sha256": "2b90b61e6232a0d11a7dfa019e788d4b18edf604af1837a8fae545974be48a2c",
+      "bytes": 846,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/往年题/大学物理B/2009-04-20_期中/大学物理B1期中试题和答案_323501466.pdf",
+      "sha256": "9909767df236594644cf6ca985fc04cfada63354dadd9aa14821d79d5955db95",
+      "original_sha256": "9909767df236594644cf6ca985fc04cfada63354dadd9aa14821d79d5955db95",
+      "bytes": 213912,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/往年题/大学物理B/2009-04-20_期中/README.md",
+      "sha256": "1cddfa36768552bed9573679ba49cafb31cc85556d64cd9fbf71dbf259e1d36a",
+      "original_sha256": "1cddfa36768552bed9573679ba49cafb31cc85556d64cd9fbf71dbf259e1d36a",
+      "bytes": 978,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/往年题/大学物理B/2008-04-28_期中_文字回忆/README.md",
+      "sha256": "5c3128cfbae55facf69a58837270c67c105ef179746039e8f11fceeae3cd2c38",
+      "original_sha256": "5c3128cfbae55facf69a58837270c67c105ef179746039e8f11fceeae3cd2c38",
+      "bytes": 1244,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/README_大学物理B章节题库_第32批.md",
+      "sha256": "55091263d5fa70c104e618dd30002768e3847227f104ebdf7dc9d6e7de62c9ae",
+      "original_sha256": "55091263d5fa70c104e618dd30002768e3847227f104ebdf7dc9d6e7de62c9ae",
+      "bytes": 1360,
+      "kind": "provenance"
+    }
+  ],
+  "restricted_metadata": [
+    {
+      "path": "往年题/大学物理B/2008-04-28_期中_文字回忆/大学物理B(1) 期中 2008.4.28.txt",
+      "sha256": "d84cc2cce3f0e2ef03153dfc804231c212f3808ffe40bce59a2d232956f956b4",
+      "source": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E5%A4%A7%E7%89%A9B/%E5%A4%A7%E7%89%A9B%E9%A2%98%E5%BA%93/%E5%A4%A7%E7%89%A9B%E9%A2%98%E5%BA%93",
+      "public_content_allowed": false,
+      "reason": "本批明确限定仅原有云盘与本地归档，公共Git仅元信息"
+    }
+  ]
+}

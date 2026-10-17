@@ -130,3 +130,7 @@
 ### 第31批：大学物理李桂琴来源题目
 
 同步19份题目汇编、参考解答、匿名复习及2008—2009第二学期期中DOC，10份来源说明。课件与习题课PPT/PPTX依现有规则留云盘；年份/教师/官方答案身份未核者继续明确标识。见 [.sync/organized-20261018-batch31-manifest.json](.sync/organized-20261018-batch31-manifest.json)。
+
+### 第32批：大学物理B章节题库
+
+同步47份章节题目/答案、热学提要及2009期中原件和5份来源说明。来源年份未核者不冒作正式卷期；受限2008文字回忆只保留来源/云盘位置/SHA256，不发布正文。见 [.sync/organized-20261018-batch32-manifest.json](.sync/organized-20261018-batch32-manifest.json)。
