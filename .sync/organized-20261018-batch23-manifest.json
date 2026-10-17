@@ -1,0 +1,212 @@
+{
+  "date": "2026-10-18",
+  "course": "数学类/代数学前沿基础",
+  "summary": {
+    "batch": 23,
+    "course": "代数学前沿基础",
+    "selected_files": 28,
+    "source_files": 17,
+    "provenance": 11,
+    "excluded_files": 97,
+    "legacy_paths_merged": 2
+  },
+  "files": [
+    {
+      "path": "数学类/代数学前沿基础/笔记/2025-2026春季学期/交换代数笔记.pdf",
+      "sha256": "c86a406de704cb600a23b2b96e27da94af8dd04e53e65211a16140ab8c12f162",
+      "original_sha256": "c86a406de704cb600a23b2b96e27da94af8dd04e53e65211a16140ab8c12f162",
+      "bytes": 63119,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/代数学前沿基础/作业/2025-2026春季学期/个人解答/第一次作业.pdf",
+      "sha256": "c609bc0544a05f6c726a58e7e462109815f4674a2c04986decd10b5b13aed8e7",
+      "original_sha256": "c609bc0544a05f6c726a58e7e462109815f4674a2c04986decd10b5b13aed8e7",
+      "bytes": 202003,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/代数学前沿基础/作业/2025-2026春季学期/题目/Problem Set 1.pdf",
+      "sha256": "0086fe68b543e9a40e4f78c3188c5fa05160fd02ddd28e4edd791c7924a2c4a7",
+      "original_sha256": "0086fe68b543e9a40e4f78c3188c5fa05160fd02ddd28e4edd791c7924a2c4a7",
+      "bytes": 170436,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/代数学前沿基础/作业/2025-2026春季学期/题目/Problem Set 10.pdf",
+      "sha256": "8a51c8ab1ab4ef3251aaf3329b436bdb70b9d04839293dab8eddbb504b4a66b4",
+      "original_sha256": "8a51c8ab1ab4ef3251aaf3329b436bdb70b9d04839293dab8eddbb504b4a66b4",
+      "bytes": 200098,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/代数学前沿基础/作业/2025-2026春季学期/题目/Problem Set 11.pdf",
+      "sha256": "4586a20c566a9e88445a35b4c96f17b2d0e9dc040518f469c1cf4a429a1c498f",
+      "original_sha256": "4586a20c566a9e88445a35b4c96f17b2d0e9dc040518f469c1cf4a429a1c498f",
+      "bytes": 94394,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/代数学前沿基础/作业/2025-2026春季学期/题目/Problem Set 2.pdf",
+      "sha256": "1fb9f43a400e9e8de11ec593434193a24bf888a280d850937cb9ea05824c2b8b",
+      "original_sha256": "1fb9f43a400e9e8de11ec593434193a24bf888a280d850937cb9ea05824c2b8b",
+      "bytes": 193883,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/代数学前沿基础/作业/2025-2026春季学期/题目/Problem Set 3.pdf",
+      "sha256": "fd00f1fc72d3e00637701a122c6cf52ddd47423b80d54513a03fbf1a8e6a8821",
+      "original_sha256": "fd00f1fc72d3e00637701a122c6cf52ddd47423b80d54513a03fbf1a8e6a8821",
+      "bytes": 98088,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/代数学前沿基础/作业/2025-2026春季学期/题目/Problem Set 4.pdf",
+      "sha256": "761fb34f5abd53eb44963450357f0adff211b5ac2db3395ba8287793ee41500b",
+      "original_sha256": "761fb34f5abd53eb44963450357f0adff211b5ac2db3395ba8287793ee41500b",
+      "bytes": 97516,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/代数学前沿基础/作业/2025-2026春季学期/题目/Problem Set 5.pdf",
+      "sha256": "074093bf21c7397af3f5bdeff88e0f92b57e31f1d25eb8af01e59146add23152",
+      "original_sha256": "074093bf21c7397af3f5bdeff88e0f92b57e31f1d25eb8af01e59146add23152",
+      "bytes": 125170,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/代数学前沿基础/作业/2025-2026春季学期/题目/Problem Set 6.pdf",
+      "sha256": "15181982d54a760e746c9fc9cba5f296681f023846b7b711ee576471bc0e5802",
+      "original_sha256": "15181982d54a760e746c9fc9cba5f296681f023846b7b711ee576471bc0e5802",
+      "bytes": 125370,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/代数学前沿基础/作业/2025-2026春季学期/题目/Problem Set 7.pdf",
+      "sha256": "8bf1ca63bd5cd4cda5d8552028d9218a3cb064700ca8964e8d8327952e397386",
+      "original_sha256": "8bf1ca63bd5cd4cda5d8552028d9218a3cb064700ca8964e8d8327952e397386",
+      "bytes": 149681,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/代数学前沿基础/作业/2025-2026春季学期/题目/Problem Set 8.pdf",
+      "sha256": "71b19aa438096b9c2b12ded63cf9e10246f8db2f81eae02ed2c16856f126d957",
+      "original_sha256": "71b19aa438096b9c2b12ded63cf9e10246f8db2f81eae02ed2c16856f126d957",
+      "bytes": 111781,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/代数学前沿基础/作业/2025-2026春季学期/题目/Problem Set 9.pdf",
+      "sha256": "6a31cf35e616044ed986f24f80908c772b081018f3d7640e9468d104e404982a",
+      "original_sha256": "6a31cf35e616044ed986f24f80908c772b081018f3d7640e9468d104e404982a",
+      "bytes": 103279,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/代数学前沿基础/笔记/往届个人笔记/2024春_代前基笔记_乔逸文.pdf",
+      "sha256": "5cf78c8059f109f50fe9607945fd0a5b94645723fe56506bce32a00546173858",
+      "original_sha256": "5cf78c8059f109f50fe9607945fd0a5b94645723fe56506bce32a00546173858",
+      "bytes": 7124488,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/代数学前沿基础/考试/2025春_Honors Algebra/2025midterm.pdf",
+      "sha256": "439f42c871eb5f387442c35bfafd9e8a531841d550e2a9f481bfb2ad4c21273f",
+      "original_sha256": "439f42c871eb5f387442c35bfafd9e8a531841d550e2a9f481bfb2ad4c21273f",
+      "bytes": 156367,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/代数学前沿基础/考试/2025春_Honors Algebra/Honors_Algebra_2025_Final.pdf",
+      "sha256": "cf1e55df539de4fbeb2661c497848b1ecfb27e05a98c4b3c65e0453de9760c0c",
+      "original_sha256": "cf1e55df539de4fbeb2661c497848b1ecfb27e05a98c4b3c65e0453de9760c0c",
+      "bytes": 120572,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/代数学前沿基础/README.md",
+      "sha256": "85c66af5b5fd6368100c339cfab03b56fc29558f780e2517d5be98a3652b0a07",
+      "original_sha256": "511688299cb2c7e1aff954fdc0e583ae4cff882363edf0ed71a613079b069b98",
+      "bytes": 1596,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/代数学前沿基础/作业/2025-2026春季学期/题目/README.md",
+      "sha256": "b86c8c31990ae969f8f77cf3208c401c8790f5e40c4cdb5ed9483e2407317feb",
+      "original_sha256": "b86c8c31990ae969f8f77cf3208c401c8790f5e40c4cdb5ed9483e2407317feb",
+      "bytes": 587,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/代数学前沿基础/作业/2025-2026春季学期/个人解答/README.md",
+      "sha256": "fba9a1e595b062cae771d695297c2a49d448b597698bfe77d781756fd464c0a4",
+      "original_sha256": "fba9a1e595b062cae771d695297c2a49d448b597698bfe77d781756fd464c0a4",
+      "bytes": 498,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/代数学前沿基础/笔记/2025-2026春季学期/README.md",
+      "sha256": "0a8efcd040f4573043f1037cb4a9cda203a3cc84bf630cfb1ed271156ff4523f",
+      "original_sha256": "0a8efcd040f4573043f1037cb4a9cda203a3cc84bf630cfb1ed271156ff4523f",
+      "bytes": 457,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/代数学前沿基础/笔记/往届个人笔记/README.md",
+      "sha256": "c2c66294b5960fe195d03f07df3ed15d245eb35280f15b933562a2607a7b7fab",
+      "original_sha256": "c2c66294b5960fe195d03f07df3ed15d245eb35280f15b933562a2607a7b7fab",
+      "bytes": 630,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/代数学前沿基础/考试/2025春_Honors Algebra/README.md",
+      "sha256": "568771dc8209586bfcc131ea3f626826a535ad9a11d4caaa6ea81d9127c22b1e",
+      "original_sha256": "568771dc8209586bfcc131ea3f626826a535ad9a11d4caaa6ea81d9127c22b1e",
+      "bytes": 531,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/代数学前沿基础/笔记/README.md",
+      "sha256": "633a10a5e3b4c67a4d8e582221a85161165fc2077050900ef4ce066b40c8a566",
+      "original_sha256": "633a10a5e3b4c67a4d8e582221a85161165fc2077050900ef4ce066b40c8a566",
+      "bytes": 371,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/代数学前沿基础/考试/README.md",
+      "sha256": "633a10a5e3b4c67a4d8e582221a85161165fc2077050900ef4ce066b40c8a566",
+      "original_sha256": "633a10a5e3b4c67a4d8e582221a85161165fc2077050900ef4ce066b40c8a566",
+      "bytes": 371,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/代数学前沿基础/作业/2025-2026春季学期/README.md",
+      "sha256": "633a10a5e3b4c67a4d8e582221a85161165fc2077050900ef4ce066b40c8a566",
+      "original_sha256": "633a10a5e3b4c67a4d8e582221a85161165fc2077050900ef4ce066b40c8a566",
+      "bytes": 371,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/代数学前沿基础/作业/README.md",
+      "sha256": "633a10a5e3b4c67a4d8e582221a85161165fc2077050900ef4ce066b40c8a566",
+      "original_sha256": "633a10a5e3b4c67a4d8e582221a85161165fc2077050900ef4ce066b40c8a566",
+      "bytes": 371,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/代数学前沿基础/作业/2025-2026春季学期/题目/异版/Problem Set 1_第13批早期稿_第9题未续完.pdf",
+      "sha256": "cb18b8cefea0ebe09585e2fad56ab5aea72a9b96e96cdb8efdb728c4ed1a127b",
+      "original_sha256": "cb18b8cefea0ebe09585e2fad56ab5aea72a9b96e96cdb8efdb728c4ed1a127b",
+      "bytes": 167412,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/代数学前沿基础/作业/2025-2026春季学期/题目/异版/README.md",
+      "sha256": "e26c4db5530584bfb33e624bc7c1036fa5d4d60f89a54f7b4e3644c388d82748",
+      "original_sha256": null,
+      "bytes": 550,
+      "kind": "provenance"
+    }
+  ],
+  "version_preservation": "Already published early PS1 retained unchanged in explicit variant folder; generated obsolete README paths removed through Git history."
+}
