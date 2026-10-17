@@ -1,0 +1,91 @@
+# 面向对象程序设计基础（30240532-3）2025春题目汇总
+
+共整理 44 道题。补交分组中与正式作业重复的题目未重复保存。
+
+## OOP测试
+
+- [选择题](习题/OOP%E6%B5%8B%E8%AF%95/00-%E9%80%89%E6%8B%A9%E9%A2%98.md)
+- [奶牛养殖场](习题/OOP%E6%B5%8B%E8%AF%95/01-%E5%A5%B6%E7%89%9B%E5%85%BB%E6%AE%96%E5%9C%BA/question.md)
+
+## 小教员选拔
+
+- [单选题](习题/%E5%B0%8F%E6%95%99%E5%91%98%E9%80%89%E6%8B%94/00-%E5%8D%95%E9%80%89%E9%A2%98.md)
+- [图书管理系统](习题/%E5%B0%8F%E6%95%99%E5%91%98%E9%80%89%E6%8B%94/01-%E5%9B%BE%E4%B9%A6%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/question.md)
+- [简化的文本编辑器](习题/%E5%B0%8F%E6%95%99%E5%91%98%E9%80%89%E6%8B%94/02-%E7%AE%80%E5%8C%96%E7%9A%84%E6%96%87%E6%9C%AC%E7%BC%96%E8%BE%91%E5%99%A8/question.md)
+- [计算图](习题/%E5%B0%8F%E6%95%99%E5%91%98%E9%80%89%E6%8B%94/03-%E8%AE%A1%E7%AE%97%E5%9B%BE/question.md)
+
+## 2025OOP期末考试（任老师班）补交
+
+- [简单的软件工程团队](考试/2025OOP%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%EF%BC%88%E4%BB%BB%E8%80%81%E5%B8%88%E7%8F%AD%EF%BC%89%E8%A1%A5%E4%BA%A4/00-%E7%AE%80%E5%8D%95%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%9B%A2%E9%98%9F/question.md)
+- [草莓巧克力](考试/2025OOP%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%EF%BC%88%E4%BB%BB%E8%80%81%E5%B8%88%E7%8F%AD%EF%BC%89%E8%A1%A5%E4%BA%A4/01-%E8%8D%89%E8%8E%93%E5%B7%A7%E5%85%8B%E5%8A%9B/question.md)
+- [高维数组](考试/2025OOP%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%EF%BC%88%E4%BB%BB%E8%80%81%E5%B8%88%E7%8F%AD%EF%BC%89%E8%A1%A5%E4%BA%A4/02-%E9%AB%98%E7%BB%B4%E6%95%B0%E7%BB%84/question.md)
+
+## 第一次作业
+
+- [2025第一次作业 选择题](作业/2025春/%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%9C%E4%B8%9A/00-2025%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%9C%E4%B8%9A%20%E9%80%89%E6%8B%A9%E9%A2%98.md)
+- [Makefile与四则运算](作业/2025春/%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%9C%E4%B8%9A/01-Makefile%E4%B8%8E%E5%9B%9B%E5%88%99%E8%BF%90%E7%AE%97/question.md)
+- [电子签到统计系统](作业/2025春/%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%9C%E4%B8%9A/02-%E7%94%B5%E5%AD%90%E7%AD%BE%E5%88%B0%E7%BB%9F%E8%AE%A1%E7%B3%BB%E7%BB%9F/question.md)
+- [聊天室](作业/2025春/%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%9C%E4%B8%9A/03-%E8%81%8A%E5%A4%A9%E5%AE%A4/question.md)
+
+## 第二次作业
+
+- [2025第二次作业 选择题](作业/2025春/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%BD%9C%E4%B8%9A/00-2025%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%BD%9C%E4%B8%9A%20%E9%80%89%E6%8B%A9%E9%A2%98.md)
+- [拷贝构造与移动构造](作业/2025春/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%BD%9C%E4%B8%9A/01-%E6%8B%B7%E8%B4%9D%E6%9E%84%E9%80%A0%E4%B8%8E%E7%A7%BB%E5%8A%A8%E6%9E%84%E9%80%A0/question.md)
+- [分数运算](作业/2025春/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%BD%9C%E4%B8%9A/02-%E5%88%86%E6%95%B0%E8%BF%90%E7%AE%97/question.md)
+- [释放法术](作业/2025春/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%BD%9C%E4%B8%9A/03-%E9%87%8A%E6%94%BE%E6%B3%95%E6%9C%AF/question.md)
+
+## 第三次作业
+
+- [2025第三次作业（选择题）](作业/2025春/%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%BD%9C%E4%B8%9A/00-2025%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%88%E9%80%89%E6%8B%A9%E9%A2%98%EF%BC%89.md)
+- [幻影忍者](作业/2025春/%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%BD%9C%E4%B8%9A/01-%E5%B9%BB%E5%BD%B1%E5%BF%8D%E8%80%85/question.md)
+- [数组](作业/2025春/%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%BD%9C%E4%B8%9A/02-%E6%95%B0%E7%BB%84/question.md)
+- [Severance](作业/2025春/%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%BD%9C%E4%B8%9A/03-Severance/question.md)
+
+## 第四次作业
+
+- [2025第四次作业（选择题）](作业/2025春/%E7%AC%AC%E5%9B%9B%E6%AC%A1%E4%BD%9C%E4%B8%9A/00-2025%E7%AC%AC%E5%9B%9B%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%88%E9%80%89%E6%8B%A9%E9%A2%98%EF%BC%89.md)
+- [机器人组装](作业/2025春/%E7%AC%AC%E5%9B%9B%E6%AC%A1%E4%BD%9C%E4%B8%9A/01-%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%BB%84%E8%A3%85/question.md)
+- [不一样的 switch](作业/2025春/%E7%AC%AC%E5%9B%9B%E6%AC%A1%E4%BD%9C%E4%B8%9A/02-%E4%B8%8D%E4%B8%80%E6%A0%B7%E7%9A%84%20switch/question.md)
+- [PyObject](作业/2025春/%E7%AC%AC%E5%9B%9B%E6%AC%A1%E4%BD%9C%E4%B8%9A/03-PyObject/question.md)
+
+## 第五次作业
+
+- [2025第五次作业（选择题）](作业/2025春/%E7%AC%AC%E4%BA%94%E6%AC%A1%E4%BD%9C%E4%B8%9A/00-2025%E7%AC%AC%E4%BA%94%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%88%E9%80%89%E6%8B%A9%E9%A2%98%EF%BC%89.md)
+- [简单的Map实现](作业/2025春/%E7%AC%AC%E4%BA%94%E6%AC%A1%E4%BD%9C%E4%B8%9A/01-%E7%AE%80%E5%8D%95%E7%9A%84Map%E5%AE%9E%E7%8E%B0/question.md)
+- [回文字符串](作业/2025春/%E7%AC%AC%E4%BA%94%E6%AC%A1%E4%BD%9C%E4%B8%9A/02-%E5%9B%9E%E6%96%87%E5%AD%97%E7%AC%A6%E4%B8%B2/question.md)
+- [军队集结](作业/2025春/%E7%AC%AC%E4%BA%94%E6%AC%A1%E4%BD%9C%E4%B8%9A/03-%E5%86%9B%E9%98%9F%E9%9B%86%E7%BB%93/question.md)
+
+## 2022OOP期末考试
+
+- [选择题](考试/2022OOP%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95/00-%E9%80%89%E6%8B%A9%E9%A2%98.md)
+- [动物模拟](考试/2022OOP%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95/01-%E5%8A%A8%E7%89%A9%E6%A8%A1%E6%8B%9F/question.md)
+- [小小军的作业](考试/2022OOP%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95/02-%E5%B0%8F%E5%B0%8F%E5%86%9B%E7%9A%84%E4%BD%9C%E4%B8%9A/question.md)
+- [小明的PVector](考试/2022OOP%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95/03-%E5%B0%8F%E6%98%8E%E7%9A%84PVector/question.md)
+
+## 2023OOP期末考试
+
+- [单选题](考试/2023OOP%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95/00-%E5%8D%95%E9%80%89%E9%A2%98.md)
+- [直线相交](考试/2023OOP%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95/01-%E7%9B%B4%E7%BA%BF%E7%9B%B8%E4%BA%A4/question.md)
+- [图形界面](考试/2023OOP%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95/02-%E5%9B%BE%E5%BD%A2%E7%95%8C%E9%9D%A2/question.md)
+- [多级字典](考试/2023OOP%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95/03-%E5%A4%9A%E7%BA%A7%E5%AD%97%E5%85%B8/question.md)
+
+## 2024OOP期末考试
+
+- [图书管理系统](考试/2024OOP%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95/00-%E5%9B%BE%E4%B9%A6%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/question.md)
+- [简化的文本编辑器](考试/2024OOP%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95/01-%E7%AE%80%E5%8C%96%E7%9A%84%E6%96%87%E6%9C%AC%E7%BC%96%E8%BE%91%E5%99%A8/question.md)
+- [计算图](考试/2024OOP%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95/02-%E8%AE%A1%E7%AE%97%E5%9B%BE/question.md)
+
+## 第六次作业
+
+- [2025第六次作业（选择题）](作业/2025春/%E7%AC%AC%E5%85%AD%E6%AC%A1%E4%BD%9C%E4%B8%9A/00-2025%E7%AC%AC%E5%85%AD%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%88%E9%80%89%E6%8B%A9%E9%A2%98%EF%BC%89.md)
+- [XOR](作业/2025春/%E7%AC%AC%E5%85%AD%E6%AC%A1%E4%BD%9C%E4%B8%9A/01-XOR/question.md)
+- [小明的list](作业/2025春/%E7%AC%AC%E5%85%AD%E6%AC%A1%E4%BD%9C%E4%B8%9A/02-%E5%B0%8F%E6%98%8E%E7%9A%84list/question.md)
+- [文本处理工具类实现](作业/2025春/%E7%AC%AC%E5%85%AD%E6%AC%A1%E4%BD%9C%E4%B8%9A/03-%E6%96%87%E6%9C%AC%E5%A4%84%E7%90%86%E5%B7%A5%E5%85%B7%E7%B1%BB%E5%AE%9E%E7%8E%B0/question.md)
+
+
+
+## 2026-10-18 附件展开归档（第19批）
+
+旧题库附件已展开为可直接浏览的原文件，题面中本地压缩包链接已改为对应展开目录 README。原 ZIP/RAR 仅在云盘内移动到课程 `_过程材料/原始压缩附件` 保留，本批没有上传压缩包。不同字节版本不合并，同 SHA256 的两份公共附件可通过 README 引用完整展开目录。修改前题面全文保存在课程 `_过程材料/旧版/附件链接修复_20261018`。保留头文件、Makefile 与样例数据的相对结构，未编译或执行源码。
+
+本次共处理26个旧包（24种独立内容），修复26份题面30处链接。

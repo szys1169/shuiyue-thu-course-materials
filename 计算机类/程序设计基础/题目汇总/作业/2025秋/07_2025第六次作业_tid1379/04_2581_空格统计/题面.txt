@@ -1,0 +1,47 @@
+空格统计
+时间限制： ms
+内存限制： MB
+
+题目描述
+输入一行空格分隔的英语单词串（只含空格与字母），不超过100个字符。要求统计行中空格个数，并从小到大依次输出空格的位置（从0开始编号）。要求编写函数，该函数返回值为一个结构体类型的值。结构体包含两个成员，分别为空格个数和空格位置。空格位置是一个指针，指针指向一个动态分配的数组，数组长度为空格个数，数组元素为空格位置。#include <iostream>
+#include <cstring>
+using namespace std;
+
+// 补充结构体类型定义
+// 结构体包含两个成员，分别为空格个数和空格位置。
+// 空格位置是一个指针，指针指向一个动态分配的数组，数组长度为空格个数，数组元素为空格位置。 
+
+
+// 补充函数头和函数体，返回值为结构体类型
+
+
+int main()
+{
+    char input_line[100];
+    cin.getline(input_line, 100);
+
+    SpaceInfo result = analyze_spaces(input_line);
+
+    cout << result.space_count << endl;
+    for (int i = 0; i < result.space_count; ++i)
+        cout << result.space_positions[i] << " ";
+
+    delete[] result.space_positions;
+    return 0;
+}
+
+输入描述
+输入一行空格分隔的英语单词串（只含空格与字母），不超过100个字符。
+
+输出描述
+输出英语单词串中空格个数，并从小到大依次输出空格的位置（从0开始编号）。
+
+样例输入
+ a  b   c
+
+样例输出
+6
+0 2 3 5 6 7
+
+注释
+根据main函数中的调用方式补充结构体定义，以及函数头和函数体。

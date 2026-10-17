@@ -1,0 +1,27 @@
+Color
+时间限制： ms
+内存限制： MB
+
+题目描述
+Alice, Bob and Yazid are good friends.Each of them has a color, red, green or blue. Everyone's color is different from the others'. They can describe their own colors in the format of "[name] is [color].", such as "Yazid is green.".Now they have made their descriptions in some order. After that, Yazid will do the following operations:1. Connect the 3 sentences to get the initial string.2. Remove all non-alphabetic characters.3. Change all uppercase letters to lowercase.For example, if the initial string is "Yazid is green.Alice is red.Bob is blue.", then after Yazid's all operations, it will be turned to "yazidisgreenaliceisredbobisblue".Finally, Alice and Bob will insert any lowercase letters into any positions in this string to get the final string.You are given the final string. Your task is to find the initial string. In particular:  1. If there are multiple solutions, please output the minimum one in lexical order.  2. If there is no solution, please output "No solution." instead.
+
+输入描述
+The first line contains one integer T (T <= 500), representing the number of test cases. For each case:1. One line of a string containing only lowercase letters, representing the final string.2. It is guaranteed that the length of the final string won't exceed 600.
+
+输出描述
+For each case:1. One line of a string, representing the initial string or `No solution.`.
+
+样例输入
+4
+aliceisredbobisblueyazidisgreen
+aliceisgreenbobisgreenyazidisgreen
+aliceisyellowbobisblueyazidisgreen
+xxyazidxxisxxgreenxxbobisblueaxlxixcxexixsxrxexdx
+
+样例输出
+Alice is red.Bob is blue.Yazid is green.
+No solution.
+No solution.
+Yazid is green.Bob is blue.Alice is red.
+
+注释

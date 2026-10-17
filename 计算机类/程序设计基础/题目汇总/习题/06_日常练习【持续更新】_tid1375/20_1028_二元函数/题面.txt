@@ -1,0 +1,31 @@
+二元函数
+时间限制： ms
+内存限制： MB
+
+题目描述
+令二元函数f(x,y)=ax+by，a和b为整数，求一个表达式S的值。
+只有满足以下要求的表达式才是合法的：
+1.任意整数x是一个合法的表达式；
+2.如果A和B都是合法的表达式，则f(A,B)也是一个合法的表达式。
+
+输入描述
+第一行两个数a和b；
+第二行一个字符串S表示要求的表达式。
+
+输出描述
+一行一个数表示表达式S的值。
+
+样例输入
+</span>
+<p style="margin-bottom:0pt; margin-top:0pt; text-align:justify; " class="p0"><span style="mso-spacerun:'yes'; font-size:10.5000pt; font-family:'宋体'; ">1&nbsp;2</span>
+<p style="margin-bottom:0pt; margin-top:0pt; text-align:justify; " class="p0"><span style="mso-spacerun:'yes'; font-size:10.5000pt; font-family:'宋体'; ">f(1,f(1,-1))</span>
+<p style="margin-bottom:0pt; margin-top:0pt; text-align:justify; " class="p0"><span style="mso-spacerun:'yes'; font-size:10.5000pt; font-family:'宋体'; ">
+
+样例输出
+</span>
+<p style="margin-bottom:0pt; margin-top:0pt; text-align:justify; " class="p0"><span style="mso-spacerun:'yes'; font-size:10.5000pt; font-family:'宋体'; ">-1</span>
+<p style="margin-bottom:0pt; margin-top:0pt; text-align:justify; " class="p0"><span style="mso-spacerun:'yes'; font-size:10.5000pt; font-family:'宋体'; ">
+
+注释
+数据规模和约定】
+S的长度不超过50，运算过程中所有变量不会超出int的范围。

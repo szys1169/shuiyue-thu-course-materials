@@ -1,0 +1,48 @@
+宝藏位置
+时间限制： ms
+内存限制： MB
+
+题目描述
+在文学探秘故事中，隐藏着一串数字线索，指向《莎士比亚选集》中的特定行和列，通过这些行和列可以找到特定的字符。这些字符按顺序组合起来，将揭示故事中的秘密信息。请编写一个程序，根据线索从《莎士比亚选集》中获取秘密信息。
+
+输入描述
+一个文本文件clues_and_plays.txt，其中前 N+1 行为数字。1.第一行一个正整数 N（1≤N≤10）。2.接下来的 N 行每行三个正整数 m, n, k（N+2≤m≤1000，1≤n≤100，1≤k≤10），代表在整个文件的第m行，从第n列开始的k个字符。3.第 N+2 行至文件末尾为文本《莎士比亚集》的内容。
+
+输出描述
+一个文本文件secret_message.txt，其中仅一行内容，由根据各个线索得到的字符使用空格符拼接所得（线索中不存在的字符用 '*' 替代作为结果）。
+
+样例输入
+输入文件的内容如下：
+6
+11 1 4
+9 6 3
+15 9 4
+20 11 2
+10 31 8
+8 29 3
+Why, who cries out on pride,
+That can therein tax any private party?
+Doth it not flow as hugely as the sea,
+Till that the weary very means do ebb?
+What woman in the city do I name,
+When that I say the city-woman bears
+The cost of princes on unworthy shoulders?
+Who can come in and say that I mean her,
+When such a one as she such is her neighbour?
+Or what is he of basest function,
+That says his bravery is not on my cost,—
+Thinking that I mean him,—but therein suits
+His folly to the mettle of my speech?
+There then; how then? what then? Let me see wherein
+My tongue hath wrong'd him: if it do him right,
+Then he hath wrong'd himself; if he be free,
+Why then, my taxing like a wild goose flies,
+Unclaim'd of any man. But who comes here?
+
+
+样例输出
+输出文件的内容如下：
+Till can come to the sea, ***
+
+注释
+提示：若文件超过1000行，仅读取文件前1000行即可。

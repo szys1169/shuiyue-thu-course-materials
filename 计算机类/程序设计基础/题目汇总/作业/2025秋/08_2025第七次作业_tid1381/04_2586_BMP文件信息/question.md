@@ -1,0 +1,68 @@
+# BMP文件信息
+
+> 本文件由同目录的 `题面.txt` 自动整理生成。原始文本和附件均未修改。
+
+| 限制 | 内容 |
+|---|---|
+| 时间限制 | 未注明 |
+| 内存限制 | 未注明 |
+
+## 题目描述
+
+读入BMP图片文件，根据BMP文件头和信息头的格式说明，输出图片的几个重要信息。判断文件 image.bmp 是否是标准BMP文件（即 BMP文件头中 signature 是否等于 0x4D42），若是，则输出其【图像尺寸（宽度×高度），数据大小（字节数），文件大小（字节数）】信息到文件 image_info.txt。BMP文件的数据按照从文件头开始的先后顺序分为四个部分：BMP文件头（BMP file header）：提供文件的格式、大小等信息BMP信息头（BMP information header）：提供图像数据的尺寸、位平面数、压缩方式、颜色索引等信息调色板（color palette）：可选，如使用索引来表示图像，调色板就是索引与其对应的颜色的映射表位图数据（BMP data）：图像数据本题要求输出的信息均在 BMP文件头 和 BMP信息头 中，二者结构体在下方注释中有声明。
+
+## 输入描述
+
+一个BMP图片文件 image.bmp（示例BMP图片，请点击下载）
+
+## 输出描述
+
+一个文本文件 image_info.txt，其中包括BMP图片的【图像尺寸（宽度×高度），数据大小（字节数），文件大小（字节数）】
+
+## 样例输入
+
+```text
+一个BMP图片文件（image.bmp）
+```
+
+## 样例输出
+
+```text
+一个文本文件（image_info.txt），内容为：
+image size 195 * 195 pixels
+data size 114660 bytes
+file size 114798 bytes
+```
+
+## 提示与说明
+
+为提供更多测试用例，示例图片的云盘链接还有 2.bmp 和 3.bmp，它们的输出信息分别为：输入：2.bmp输出：image_info.txtimage size 112 * 112 pixelsdata size 37632 bytesfile size 37770 bytes输入：3.bmp输出：image_info.txtimage size 650 * 489 pixelsdata size 954528 bytesfile size 954666 bytes（注意提交代码中的输入文件名为 "image.bmp"，输出文件名为 "image_info.txt"）BMP图片的文件头和信息头结构体：#include <cstdint>  // int32_t, uint32_t, uint16_t
+
+#pragma pack(push, 1)
+typedef struct {
+    uint16_t signature;      // "BM" (0x4D42)
+    uint32_t file_size;      // 文件总大小
+    uint16_t reserved1;      // 保留
+    uint16_t reserved2;      // 保留
+    uint32_t data_offset;    // 图像数据起始偏移
+} BMPFileHeader;
+#pragma pack(pop)
+
+typedef struct {
+    uint32_t biSize;         // 本结构大小(40字节)
+    int32_t biWidth;         // 图像宽度（像素）
+    int32_t biHeight;        // 图像高度（像素，正数表示倒序）
+    uint16_t biPlanes;       // 颜色平面数（必须为1）
+    uint16_t biBitCount;     // 每像素位数
+    uint32_t biCompression;  // 压缩类型
+    uint32_t biSizeImage;    // 图像数据大小（字节）
+    int32_t biXPelsPerMeter; // 水平分辨率（像素/米）
+    int32_t biYPelsPerMeter; // 垂直分辨率（像素/米）
+    uint32_t biClrUsed;      // 实际使用的颜色数
+    uint32_t biClrImportant; // 重要颜色数
+} BMPInfoHeader;
+
+## 附件
+
+- [OJ-BMP文件信息.zip](<%E9%99%84%E4%BB%B6/OJ-BMP%E6%96%87%E4%BB%B6%E4%BF%A1%E6%81%AF_%E5%B1%95%E5%BC%80/README.md>)
+

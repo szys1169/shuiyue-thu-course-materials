@@ -1,0 +1,21 @@
+四整数统计量
+时间限制： ms
+内存限制： MB
+
+题目描述
+补全代码，求四个整数的最大值、最小值、平均值：#include <iostream>#include <algorithm>#include <cstdio>using namespace std;// 计算四个整数参数a,b,c,d中的最大值、最小值、平均值// 计算结果分别用参数 max, min, avg返回void calc(int a, int b, int c, int d, int *max_val, int *min_val, double *avg){    // 填写代码}int main(){    int a, b, c, d, max, min;    double avg;       cin >> a >> b >> c >> d;       // 填写代码       printf("%d %d %6.4f", max, min, avg);       return 0;}
+
+输入描述
+四个整数，用空格隔开，代表待统计最大、最小、平均值的四个整数
+
+输出描述
+两个整数及一个保留四位小数的浮点数，依次为最大、最小、平均值，用空格隔开
+
+样例输入
+3 7 8 4
+
+样例输出
+8 3 5.5000
+
+注释
+除待填充部分外，其他代码系统已提供，点击“我要交代码”可以看到已有代码和填充区域。

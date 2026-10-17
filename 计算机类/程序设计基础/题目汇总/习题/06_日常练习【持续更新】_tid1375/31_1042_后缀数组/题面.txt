@@ -1,0 +1,43 @@
+后缀数组
+时间限制： ms
+内存限制： MB
+
+题目描述
+在模版串检索问题中，有一种非常有用的数据结构：后缀数组。对于一个串S=s[1]s[2]…s[n]（注意，下标从1开始），它的第i个后缀记为SF[i]=s[i]…s[n]，也就是从原串第i个字符开始到末尾的部分。比如串S=“liuyuchen”的后缀们为：
+       SF[1]=”liuyuchen”
+       SF[2]=”iuyuchen”
+       SF[3]=”uyuchen”
+       SF[4]=“yuchen”
+       SF[5]=“uchen”
+       SF[6]=“chen”
+       SF[7]=“hen”
+       SF[8]=“en”
+       SF[9]=“n”
+       后缀数组是指将所有后缀按字典序从小到大排序后得到的数组，例子S的后缀数组为：
+       {“chen”, “en”,”hen”, “iuyuchen”, “liuyuchen”, “n”,“uchen”, “uyuchen”, “yuchen”}
+       上述数组的元素依次为SF[6], SF[8], SF[7], SF[2], SF[1], SF[9], SF[5], SF[3], SF[4]。
+       一般来说，由于有了原串，不需要把每个后缀都完全存储。我们只需要记下后缀的起始位置，也就是SF[i]的下标i。于是之前例子的后缀数组就可以记录为各后缀的起始字符在原串S中的下标组成的序列：
+       {6, 8, 7, 2, 1, 9, 5, 3, 4}
+       请编程对输入的字符串，输出它的后缀数组对应的下标序列。
+       注意：下标从1开始计数。
+
+输入描述
+一行，一个字符串，只包含小写英文字母
+
+输出描述
+输出一行，为输入字符串的后缀数组的下标序列，两个下标之间用一个空格分隔。
+
+样例输入
+</span>
+<p class="MsoNormal"><span lang="EN-US">liuyuchen</span>
+<p class="MsoNormal"><span style="font-family: 宋体;">
+
+样例输出
+</span>
+<p class="MsoNormal"><span lang="EN-US">6 8 7 2 1 9 5 3 4</span>
+<p class="MsoNormal"><span lang="EN-US">&nbsp;</span>
+<p class="MsoNormal"><span style="font-family: 宋体;">
+
+注释
+数据范围】
+       对于100%的数据，L<=100

@@ -1,0 +1,33 @@
+小生物的逃逸
+时间限制： ms
+内存限制： MB
+
+题目描述
+空间中有n个球，这些球不相交也不相切。有m个可以视为质点的小生物，可能在某些球内，也可能在所有球之外，但不会在球面上。问这些生物从原来的地方逃逸到所有球外面的空间，至少要经过多少层球面。
+
+输入描述
+第一行两个数n、m：表示球的数量和小生物的数量；
+接下来n行每行四个整数Xi、Yi、Zi和Ri：表示一个球的三维坐标和半径；
+接下来m行每行三个整数Xi、Yi、Zi：表示一个生物的坐标。
+
+输出描述
+一行m个数：表示每个小生物逃逸时至少经过的球面数。
+
+样例输入
+</span>
+<p style="margin-bottom:0pt; margin-top:0pt; " class="p0"><span style="mso-spacerun:'yes'; font-size:10.5000pt; font-family:'宋体'; ">2&nbsp;2</span>
+<p style="margin-bottom:0pt; margin-top:0pt; " class="p0"><span style="mso-spacerun:'yes'; font-size:10.5000pt; font-family:'宋体'; ">0&nbsp;0&nbsp;0&nbsp;2</span>
+<p style="margin-bottom:0pt; margin-top:0pt; " class="p0"><span style="mso-spacerun:'yes'; font-size:10.5000pt; font-family:'宋体'; ">0&nbsp;0&nbsp;0&nbsp;4</span>
+<p style="margin-bottom:0pt; margin-top:0pt; " class="p0"><span style="mso-spacerun:'yes'; font-size:10.5000pt; font-family:'宋体'; ">0&nbsp;0&nbsp;1</span>
+<p style="margin-bottom:0pt; margin-top:0pt; " class="p0"><span style="mso-spacerun:'yes'; font-size:10.5000pt; font-family:'宋体'; ">0&nbsp;0&nbsp;3</span>
+<p style="margin-bottom:0pt; margin-top:0pt; " class="p0"><span style="mso-spacerun:'yes'; font-size:10.5000pt; font-family:'宋体'; ">
+
+样例输出
+</span>
+<p style="margin-bottom:0pt; margin-top:0pt; " class="p0"><span style="mso-spacerun:'yes'; font-size:10.5000pt; font-family:'宋体'; ">2&nbsp;1</span>
+<p style="margin-bottom:0pt; margin-top:0pt; " class="p0"><span style="mso-spacerun:'yes'; font-size:10.5000pt; font-family:'宋体'; ">
+
+注释
+数据规模和约定】
+1<=n、m<=100，|Xi|、|Yi|、|Zi|<=10000，1<=Ri<=10000；
+数据保证所有球严格不接触，小生物都不在球面上。

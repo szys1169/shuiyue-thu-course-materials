@@ -1,0 +1,47 @@
+保护花朵
+时间限制： ms
+内存限制： MB
+
+题目描述
+RJ出去砍木材去了，把N(2<=N<=100,000)头牛留在家中吃草，当他回来的时候，发现奶牛们都跑到花园里吃花去了，为了减少损失，RJ打算把牛移到牛棚中去。 
+　　每头牛的位置离牛棚需要Ti分钟(1<=Ti<=2,000,000)，而且在等待被移走的过程中，每分钟破坏Di(1<=Di<=100)朵花，无论多么努力RJ一次只能移动一只奶牛，移动一只奶牛到牛棚需要2×Ti分钟(来回各一次)。 
+　　写一个程序安排移动顺序使得损失的花最少。
+
+输入描述
+第1行输入一个整数N 
+　　第2到N+1行每行包含两个整数Ti和Di
+
+输出描述
+输出一个整数表示最少损失的花的数量
+
+样例输入
+
+<p class="MsoNormal"><span style="font-size:9.0pt;mso-bidi-font-size:12.0pt;
+font-family:宋体">　　<span lang="EN-US">6<o:p></o:p></span></span>
+<p class="MsoNormal"><span style="font-size:9.0pt;mso-bidi-font-size:12.0pt;
+font-family:宋体">　　<span lang="EN-US">3 1<o:p></o:p></span></span>
+<p class="MsoNormal"><span style="font-size:9.0pt;mso-bidi-font-size:12.0pt;
+font-family:宋体">　　<span lang="EN-US">2 5<o:p></o:p></span></span>
+<p class="MsoNormal"><span style="font-size:9.0pt;mso-bidi-font-size:12.0pt;
+font-family:宋体">　　<span lang="EN-US">2 3<o:p></o:p></span></span>
+<p class="MsoNormal"><span style="font-size:9.0pt;mso-bidi-font-size:12.0pt;
+font-family:宋体">　　<span lang="EN-US">3 2<o:p></o:p></span></span>
+<p class="MsoNormal"><span style="font-size:9.0pt;mso-bidi-font-size:12.0pt;
+font-family:宋体">　　<span lang="EN-US">4 1<o:p></o:p></span></span>
+<p class="MsoNormal"><span style="font-size:9.0pt;mso-bidi-font-size:12.0pt;
+font-family:宋体">　　<span lang="EN-US">1 6<o:p></o:p></span></span>
+
+
+样例输出
+
+
+&nbsp; &nbsp; &nbsp; &nbsp;<span lang="EN-US" style="font-size:9.0pt;mso-bidi-font-size:
+12.0pt;font-family:宋体;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-font-kerning:
+1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:
+AR-SA">86</span>
+
+
+
+注释
+样例说明】
+   RJ按照6、2、3、4、1、5的顺序移走奶牛

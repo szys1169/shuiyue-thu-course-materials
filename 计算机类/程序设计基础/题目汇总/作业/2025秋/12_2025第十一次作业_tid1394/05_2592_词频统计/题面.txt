@@ -1,0 +1,54 @@
+词频统计
+时间限制： ms
+内存限制： MB
+
+题目描述
+统计文件中所有单词的出现次数，并将其按次数从大到小的顺序输出。出现次数相同的单词，按字典序从小到大排列。单词定义为仅含英文字母的非空字符串（其子串不会被重复计算）。注意，任何非英文字符都会导致单词被分隔，包括标点符号、空格、换行符等。不区分大小写，输出时以小写形式输出。
+
+输入描述
+输入文件为"input.txt"，总单词种类不超过100个。
+
+输出描述
+输出文件为"output.txt"，每行一个字符串表示单词，一个整数表示出现次数，用空格分隔。
+
+样例输入
+Love is love, and love is all.
+Love makes the world go round and round.
+Without love, there is no hope.
+With love, everything is possible.
+
+Hope is hope, but hope needs love.
+Love gives hope. Hope gives love.
+Round and round, love never ends.
+Ends? No! Love never ends.
+
+All you need is love, love, love.
+Love is all, all is love.
+
+样例输出
+love 16
+is 8
+hope 6
+all 4
+round 4
+and 3
+ends 3
+gives 2
+never 2
+no 2
+but 1
+everything 1
+go 1
+makes 1
+need 1
+needs 1
+possible 1
+the 1
+there 1
+with 1
+without 1
+world 1
+you 1
+
+
+注释

@@ -1,0 +1,46 @@
+勇士和地雷阵
+时间限制： ms
+内存限制： MB
+
+题目描述
+勇士们不小心进入了敌人的地雷阵（用n行n列的矩阵表示，'*'表示某个位置埋有地雷，'-'表示某个位置是安全的），他们各自需要在规定的步数（一步代表走到和当前位置相邻的位置）内绕开地雷到达出口（第一行第一格，即坐标为（0,0）的位置）才能完成任务，告诉你每个勇士的位置（x，y）和规定的步数s，请你判断每个勇士能否顺利完成任务（1代表“能”，-1代表“不能”）。
+
+输入描述
+输入数据的第一行为一个整数n；第二行至第n+1行是n行n列地雷阵的矩阵表示（见输入样例）；第n+2行至最后一行每行是一个勇士的位置x、y和到达出口规定的最大步数s，三个整数间用空格隔开。
+
+输出描述
+按顺序输出对每个勇士是否能顺利完成任务的判断（1代表“能”，-1代表“不能”），对每个勇士的判断占一行。
+
+样例输入
+
+<p class="MsoNormal"><span lang="EN-US">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span lang="EN-US" style="font-size:14.0pt">5<o:p></o:p></span>
+<p class="MsoNormal" style="text-indent:21.0pt"><span lang="EN-US" style="font-size:14.0pt">-----<o:p></o:p></span>
+<p class="MsoNormal" style="margin-left:21.0pt"><span lang="EN-US" style="font-size:14.0pt">--*--<o:p></o:p></span>
+<p class="MsoNormal" style="text-indent:21.0pt"><span lang="EN-US" style="font-size:14.0pt">-**--<o:p></o:p></span>
+<p class="MsoNormal" style="text-indent:21.0pt"><span lang="EN-US" style="font-size:14.0pt">-**--<o:p></o:p></span>
+<p class="MsoNormal" style="text-indent:21.0pt"><span lang="EN-US" style="font-size:14.0pt">*-*--<o:p></o:p></span>
+<p class="MsoNormal" style="text-indent:21.0pt"><span lang="EN-US" style="font-size:14.0pt">0 1 1<o:p></o:p></span>
+<p class="MsoNormal" style="text-indent:21.0pt"><span lang="EN-US" style="font-size:14.0pt">0 4 3<o:p></o:p></span>
+<p class="MsoNormal" style="text-indent:21.0pt"><span lang="EN-US" style="font-size:14.0pt">1 1 3<o:p></o:p></span>
+<p class="MsoNormal" style="text-indent:21.0pt"><span lang="EN-US" style="font-size:14.0pt">1 4 2<o:p></o:p></span>
+<p class="MsoNormal" style="text-indent:21.0pt"><span lang="EN-US" style="font-size:14.0pt">2 0 3<o:p></o:p></span>
+<p class="MsoNormal" style="text-indent:21.0pt"><span lang="EN-US" style="font-size:14.0pt">3 0 4<o:p></o:p></span>
+<p class="MsoNormal" style="text-indent:21.0pt"><span lang="EN-US" style="font-size:14.0pt">3 3 2<o:p></o:p></span>
+<p class="MsoNormal" style="text-indent:21.0pt"><span lang="EN-US" style="font-size:14.0pt">4 1 3<o:p></o:p></span>
+
+
+样例输出
+
+<p class="MsoNormal"><span lang="EN-US" style="font-size:14.0pt">&nbsp; &nbsp; &nbsp;1<o:p></o:p></span>
+<p class="MsoNormal" style="text-indent:21.0pt"><span lang="EN-US" style="font-size:14.0pt">-1<o:p></o:p></span>
+<p class="MsoNormal" style="text-indent:21.0pt"><span lang="EN-US" style="font-size:14.0pt">1<o:p></o:p></span>
+<p class="MsoNormal" style="text-indent:21.0pt"><span lang="EN-US" style="font-size:14.0pt">-1<o:p></o:p></span>
+<p class="MsoNormal" style="text-indent:21.0pt"><span lang="EN-US" style="font-size:14.0pt">1<o:p></o:p></span>
+<p class="MsoNormal" style="text-indent:21.0pt"><span lang="EN-US" style="font-size:14.0pt">1<o:p></o:p></span>
+<p class="MsoNormal" style="text-indent:21.0pt"><span lang="EN-US" style="font-size:14.0pt">-1<o:p></o:p></span>
+<p class="MsoNormal" style="text-indent:21.0pt"><span lang="EN-US" style="font-size:14.0pt">-1</span><span lang="EN-US"><o:p></o:p></span>
+
+
+注释
+数据规模和约定】
+        1≤n≤500，0≤x≤n-1，0≤y≤n-1，1≤s≤500

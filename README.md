@@ -80,3 +80,7 @@
 ### 后续增量：第 22 批
 
 [交换代数](数学类/交换代数/)：4 份资料文件、4 份来源/目录说明；18 条未同步记录保留云盘路径及哈希。同步清单见 [.sync/organized-20261018-batch22-manifest.json](.sync/organized-20261018-batch22-manifest.json)。同样不新增压缩包、讲义课件或录屏。
+
+### 后续增量：第19批题库附件
+
+面向对象程序设计和程序设计基础的题库已完整同步展开后的源码、Makefile、样例、题图与修复题面。当前目录不新增压缩包；来源README中的历史原包链接指向云盘原件目录。程设原总目录两处仅有空目录的缺失题面用明确的缺失说明入口标注，没有补造题面。见 [.sync/organized-20261018-batch19-manifest.json](.sync/organized-20261018-batch19-manifest.json)。
