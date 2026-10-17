@@ -1,0 +1,95 @@
+{
+  "batch": 49,
+  "scope": "Cohen教材四原件",
+  "sourceOriginalBytes": 72857639,
+  "files": [
+    {
+      "originalName": "量子力学 by Claude Cohen-Tannoudji, Bernard Diu, Franck Laloë, 刘家谟(译), 陈星奎(译) (z-lib.org).pdf",
+      "targetPath": "教材/Cohen-Diu-Laloe_源物理库/中文版_第一卷_2014版2016印/量子力学 by Claude Cohen-Tannoudji, Bernard Diu, Franck Laloë, 刘家谟(译), 陈星奎(译) (z-lib.org).pdf",
+      "sourceDirectory": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/%E4%B9%A6%E7%B1%8D/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6%20by%20Cohen",
+      "sha256": "711316069b80301556f424afa18936112b73650f99110b47a9b871ad6af45bf0",
+      "bytes": 30247470,
+      "bibliography": {
+        "title": "量子力学（第一卷）",
+        "authors": [
+          "Claude Cohen-Tannoudji",
+          "Bernard Diu",
+          "Franck Laloë"
+        ],
+        "translators": [
+          "刘家谟",
+          "陈星奎"
+        ],
+        "publisher": "高等教育出版社",
+        "edition": "2014年7月第1版",
+        "printing": "2016年7月第2次印刷",
+        "ISBN": "978-7-04-039670-6",
+        "pdfPages": 936,
+        "evidence": "封面、扉页、版权页（PDF第1至3页）",
+        "original": "Mécanique Quantique I, ©1973 Hermann"
+      },
+      "role": "教材",
+      "cloudAction": "目标既有同SHA原件服务器移动，未重新上传",
+      "publicGit": "metadata_only"
+    },
+    {
+      "originalName": "量子力学 by Claude Cohen-Tannoudji, Bernard Diu, Franck Laloë, 陈星奎(译), 刘家谟(译) (z-lib.org).pdf",
+      "targetPath": "教材/Cohen-Diu-Laloe_源物理库/中文版_第二卷_2016版/量子力学 by Claude Cohen-Tannoudji, Bernard Diu, Franck Laloë, 陈星奎(译), 刘家谟(译) (z-lib.org).pdf",
+      "sourceDirectory": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/%E4%B9%A6%E7%B1%8D/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6%20by%20Cohen",
+      "sha256": "673e301860a060ee961defe526de028c4747692cca2cc38c43abbf28c43585d7",
+      "bytes": 26055363,
+      "bibliography": {
+        "title": "量子力学（第二卷）",
+        "authors": [
+          "Claude Cohen-Tannoudji",
+          "Bernard Diu",
+          "Franck Laloë"
+        ],
+        "translators": [
+          "陈星奎",
+          "刘家谟"
+        ],
+        "publisher": "高等教育出版社",
+        "edition": "2016年1月第1版",
+        "printing": "2016年1月第1次印刷",
+        "ISBN": "978-7-04-043991-5",
+        "pdfPages": 637,
+        "evidence": "封面、扉页、版权页（PDF第1至3页）",
+        "original": "Mécanique Quantique II, ©1973 Hermann"
+      },
+      "role": "教材",
+      "cloudAction": "目标既有同SHA原件服务器移动，未重新上传",
+      "publicGit": "metadata_only"
+    },
+    {
+      "originalName": "Quantum Mechanics, Vol.1（量子力学 第1卷）, Cohen-Tannoudji, Wiley, 1991.djvu",
+      "targetPath": "教材/Cohen-Diu-Laloe_源物理库/英文DJVU_卷次年份据源名_待核/Quantum Mechanics, Vol.1（量子力学 第1卷）, Cohen-Tannoudji, Wiley, 1991.djvu",
+      "sourceDirectory": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/%E4%B9%A6%E7%B1%8D",
+      "sha256": "58caa3cfebdbc519103b06a8cbab777c84de17e8278055c993b55c8ad3e7dbb6",
+      "bytes": 9517925,
+      "bibliography": {
+        "titleFromSourceName": "Quantum Mechanics, Vol.1（量子力学 第1卷）, Cohen-Tannoudji, Wiley, 1991.djvu",
+        "bodyVerified": false,
+        "limitation": "本机现有MuPDF无法打开DJVU，卷次、作者、Wiley与1991均仅据源文件名，未验证正文、语言、页数或版次；未确认与中文译本对应。"
+      },
+      "role": "教材",
+      "cloudAction": "目标既有同SHA原件服务器移动，未重新上传",
+      "publicGit": "metadata_only"
+    },
+    {
+      "originalName": "Quantum Mechanics, Vol.2（量子力学 第2卷）, Cohen-Tannoudji, Wiley, 1991.djvu",
+      "targetPath": "教材/Cohen-Diu-Laloe_源物理库/英文DJVU_卷次年份据源名_待核/Quantum Mechanics, Vol.2（量子力学 第2卷）, Cohen-Tannoudji, Wiley, 1991.djvu",
+      "sourceDirectory": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/%E4%B9%A6%E7%B1%8D",
+      "sha256": "ecb434a554073bcc675d916bbf50580672b0afbe0e8628f9a1295ffcd0ff3d32",
+      "bytes": 7036881,
+      "bibliography": {
+        "titleFromSourceName": "Quantum Mechanics, Vol.2（量子力学 第2卷）, Cohen-Tannoudji, Wiley, 1991.djvu",
+        "bodyVerified": false,
+        "limitation": "本机现有MuPDF无法打开DJVU，卷次、作者、Wiley与1991均仅据源文件名，未验证正文、语言、页数或版次；未确认与中文译本对应。"
+      },
+      "role": "教材",
+      "cloudAction": "目标既有同SHA原件服务器移动，未重新上传",
+      "publicGit": "metadata_only"
+    }
+  ]
+}
