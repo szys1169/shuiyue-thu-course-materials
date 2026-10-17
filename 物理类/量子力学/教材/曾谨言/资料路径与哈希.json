@@ -1,0 +1,34 @@
+[
+  {
+    "path": "第四版_2007/量子力学 曾谨言 卷一.pdf",
+    "size": 12889196,
+    "sha256": "6834f0ae053ca58d1523af0aa07729391b307394905edacee300d823e9c0d15c",
+    "pages": 568,
+    "title": "量子力学",
+    "author": "曾谨言",
+    "volume": "一",
+    "edition": 4,
+    "publisher": "科学出版社",
+    "editionDate": "2007-01",
+    "printing": "第十一次印刷",
+    "printingDate": "2007-01",
+    "isbn": "978-7-03-018139-8",
+    "publicOriginalIncluded": false
+  },
+  {
+    "path": "第四版_2007/量子力学 曾谨言 卷二.pdf",
+    "size": 13433142,
+    "sha256": "cb9366e8795cd4de277ce0ee19e268c545edd1a63a4965339c7f581b78a7c0f0",
+    "pages": 532,
+    "title": "量子力学",
+    "author": "曾谨言",
+    "volume": "二",
+    "edition": 4,
+    "publisher": "科学出版社",
+    "editionDate": "2007-08",
+    "printing": "第十一次印刷",
+    "printingDate": "2007-08",
+    "isbn": "978-7-03-019021-5",
+    "publicOriginalIncluded": false
+  }
+]
