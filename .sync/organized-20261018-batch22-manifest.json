@@ -1,0 +1,71 @@
+{
+  "date": "2026-10-18",
+  "course": "数学类/交换代数",
+  "summary": {
+    "batch": 22,
+    "course": "交换代数",
+    "selected_files": 8,
+    "source_files": 4,
+    "provenance": 4,
+    "excluded_files": 18,
+    "legacy_paths_merged": 0
+  },
+  "files": [
+    {
+      "path": "数学类/交换代数/习题参考/Atiyah-Macdonald/Carlson_习题解答草稿.pdf",
+      "sha256": "00f55f8a055932259fbcc8091986d267a290c5cb42289e22164980861cd093c8",
+      "original_sha256": "00f55f8a055932259fbcc8091986d267a290c5cb42289e22164980861cd093c8",
+      "bytes": 1473197,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/交换代数/习题参考/Atiyah-Macdonald/Gaillard_About Atiyah and MacDonalds Book_20210805.pdf",
+      "sha256": "d5086d12f01b1f2c871f94ee3d04dd20f685ce8224acccb433b221118f41a08e",
+      "original_sha256": "d5086d12f01b1f2c871f94ee3d04dd20f685ce8224acccb433b221118f41a08e",
+      "bytes": 1275245,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/交换代数/学习记录/学习指南_Atiyah-MacDonald_目录与重点.md",
+      "sha256": "32cf7599072ce2ba4aba9672943a47309b21d6085dd7204955fd1040dd9b8953",
+      "original_sha256": "32cf7599072ce2ba4aba9672943a47309b21d6085dd7204955fd1040dd9b8953",
+      "bytes": 11822,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/交换代数/学习记录/学习进度_原始记录.md",
+      "sha256": "61d9a2fcb923fa3465edae6816746eea2f560824974d91ad71e396ecac9a3bb0",
+      "original_sha256": "61d9a2fcb923fa3465edae6816746eea2f560824974d91ad71e396ecac9a3bb0",
+      "bytes": 1107,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/交换代数/README.md",
+      "sha256": "0ab99b98324377aed5d10e4bbbe6f127f8831eca36449608254d953135294e20",
+      "original_sha256": "3bbbc7d20a2bee2a95dd02eebd941cde465028b5e9e59bf5206fce0dde8f406a",
+      "bytes": 1248,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/交换代数/习题参考/README.md",
+      "sha256": "a27f751861725803382560c221d5a2c2f53478e6f156a490286c7f136a5ddf8f",
+      "original_sha256": "a27f751861725803382560c221d5a2c2f53478e6f156a490286c7f136a5ddf8f",
+      "bytes": 286,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/交换代数/学习记录/README.md",
+      "sha256": "ab6a96f181ca520a2ff51e0dfa59dec0d3bd934b62b00dfa24d05dbd0194e40e",
+      "original_sha256": "ab6a96f181ca520a2ff51e0dfa59dec0d3bd934b62b00dfa24d05dbd0194e40e",
+      "bytes": 561,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/交换代数/习题参考/Atiyah-Macdonald/README.md",
+      "sha256": "6c60d589a6d87bffcaa61cc338e3969b23ee60ca65e8d254e45662e8524258be",
+      "original_sha256": "6c60d589a6d87bffcaa61cc338e3969b23ee60ca65e8d254e45662e8524258be",
+      "bytes": 576,
+      "kind": "provenance"
+    }
+  ]
+}
