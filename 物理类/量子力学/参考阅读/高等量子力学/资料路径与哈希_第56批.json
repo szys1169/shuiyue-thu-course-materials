@@ -1,0 +1,110 @@
+[
+  {
+    "path": "量子力学/参考阅读/高等量子力学/J.J._Sakurai/Advanced_Quantum_Mechanics_版次未核_前言1967-05/Advanced Quantum Mechanics（高等量子力学）, J.J. Sakurai , Addison-Wesley, 1967.pdf",
+    "originalName": "Advanced Quantum Mechanics（高等量子力学）, J.J. Sakurai , Addison-Wesley, 1967.pdf",
+    "size": 13625858,
+    "sha256": "262aa1696b02a6afdf2e63ad2c2e0c48b8cfc731d6be87bb2f3df614802243d8",
+    "format": "PDF",
+    "pages": 344,
+    "authorSourceGroup": "J.J._Sakurai",
+    "versionGroup": "Advanced_Quantum_Mechanics_版次未核_前言1967-05",
+    "evidence": "PDF封面明确Advanced Quantum Mechanics、J.J. Sakurai，扫描第7页前言署May 1967及J.J.S.；所核前后信息未见可核版权，版次/出版年未核，1967-05仅前言日期。DJVU内部不可解码，书目与年份仅来源名，不将PDF信息推广成DJVU内部确证。",
+    "publicOriginalAllowed": false
+  },
+  {
+    "path": "量子力学/参考阅读/高等量子力学/J.J._Sakurai/Advanced_Quantum_Mechanics_版次未核_前言1967-05/Advanced Quantum Mechanics（高等量子力学）, J.J. Sakurai , Addison-Wesley, 1967.djvu",
+    "originalName": "Advanced Quantum Mechanics（高等量子力学）, J.J. Sakurai , Addison-Wesley, 1967.djvu",
+    "size": 3801948,
+    "sha256": "dc53cfe51e2898c63d5e9e84c002e562b7896ee99d06b8b9d036c81aa77e0316",
+    "format": "DJVU",
+    "pages": null,
+    "authorSourceGroup": "J.J._Sakurai",
+    "versionGroup": "Advanced_Quantum_Mechanics_版次未核_前言1967-05",
+    "evidence": "DJVU不可解码，内部题名/作者/版次/出版年均未核，仅保留来源名。",
+    "publicOriginalAllowed": false
+  },
+  {
+    "path": "量子力学/参考阅读/高等量子力学/Barry_R._Holstein/Topics_版次未核_版权1992/Topics in Advanced Quantum Mechanics（高等量子力学论题）, Barry R.Holstein, Addison-Wesley, 1992.pdf",
+    "originalName": "Topics in Advanced Quantum Mechanics（高等量子力学论题）, Barry R.Holstein, Addison-Wesley, 1992.pdf",
+    "size": 23721760,
+    "sha256": "0c0d9c49fdabda131af6a114b2b028e3fc13069655c1316ef48bc5ad9e7e6283",
+    "format": "PDF",
+    "pages": 448,
+    "authorSourceGroup": "Barry_R._Holstein",
+    "versionGroup": "Topics_版次未核_版权1992",
+    "evidence": "PDF封面署Barry R. Holstein、Topics in Advanced Quantum Mechanics；扫描第3页版权1992、Addison-Wesley Publishing Company、ISBN0-201-50820-6。版权年已核，编号版次未核。",
+    "publicOriginalAllowed": false
+  },
+  {
+    "path": "量子力学/参考阅读/高等量子力学/徐在新/第一版_1994-12/高等量子力学-徐在新-华东师范大学出版社-1994.pdf",
+    "originalName": "高等量子力学-徐在新-华东师范大学出版社-1994.pdf",
+    "size": 23764614,
+    "sha256": "35c837bf5d0316467789eafcc4999f77651830dca7ca71fbaaad91392344641f",
+    "format": "PDF",
+    "pages": 390,
+    "authorSourceGroup": "徐在新",
+    "versionGroup": "第一版_1994-12",
+    "evidence": "扫描版权页明确高等量子力学、徐在新、华东师范大学出版社，1994年12月第一版、同月第一次印刷。",
+    "publicOriginalAllowed": false
+  },
+  {
+    "path": "量子力学/参考阅读/高等量子力学/吴兆颜/第一版_2008-04/高等量子力学：理论原理-吴兆颜-吉林大学出版社-2008.pdf",
+    "originalName": "高等量子力学：理论原理-吴兆颜-吉林大学出版社-2008.pdf",
+    "size": 26454625,
+    "sha256": "bf0459de48acdfd0176e1d647f9c31b49b1bd810c3765b0ef247a9b52231944d",
+    "format": "PDF",
+    "pages": 330,
+    "authorSourceGroup": "吴兆颜",
+    "versionGroup": "第一版_2008-04",
+    "evidence": "封面/题名为高等量子力学（理论原理）、吴兆颜，吉林大学出版社；扫描第4页版权2008年4月第1版、同月第1次印刷，ISBN978-7-5601-3820-6。",
+    "publicOriginalAllowed": false
+  },
+  {
+    "path": "量子力学/参考阅读/高等量子力学/张永德来源/DJVU_版本出版年未核_原名2009/高等量子力学(下册)-张永德-科学出版社-2009.djvu",
+    "originalName": "高等量子力学(下册)-张永德-科学出版社-2009.djvu",
+    "size": 8052778,
+    "sha256": "5de24ec6caa40ae4e1020dea8446c7061653e41eb5e622404dc17a861aef0925",
+    "format": "DJVU",
+    "pages": null,
+    "authorSourceGroup": "张永德来源",
+    "versionGroup": "DJVU_版本出版年未核_原名2009",
+    "evidence": "DJVU不可解码，内部题名/作者/版次/出版年均未核，仅保留来源名。",
+    "publicOriginalAllowed": false
+  },
+  {
+    "path": "量子力学/参考阅读/高等量子力学/张永德来源/DJVU_版本出版年未核_原名2009/高等量子力学(上册)-张永德-科学出版社-2009.djvu",
+    "originalName": "高等量子力学(上册)-张永德-科学出版社-2009.djvu",
+    "size": 6258073,
+    "sha256": "55470de9715fd7b28f7a0b0e0e86bb0585d10c2ea6b20e254f9d23420093108c",
+    "format": "DJVU",
+    "pages": null,
+    "authorSourceGroup": "张永德来源",
+    "versionGroup": "DJVU_版本出版年未核_原名2009",
+    "evidence": "DJVU不可解码，内部题名/作者/版次/出版年均未核，仅保留来源名。",
+    "publicOriginalAllowed": false
+  },
+  {
+    "path": "量子力学/参考阅读/高等量子力学/王顺金/版本出版年未核_前言2004-08/高等量子论与量子多体理论-王顺金.pdf",
+    "originalName": "高等量子论与量子多体理论-王顺金.pdf",
+    "size": 5219135,
+    "sha256": "612ca71fe86ce3a8dafffdf6d1f3c0d74788acc5ddb8cc02478a87b0c0ceec56",
+    "format": "PDF",
+    "pages": 308,
+    "authorSourceGroup": "王顺金",
+    "versionGroup": "版本出版年未核_前言2004-08",
+    "evidence": "PDF从序/前言开始，扫描第5页前言末署王顺金、2004年8月；前言中提正式由四川大学出版社出版。本书版本及实际出版年月未见版权证据，未将前言日期当出版日期；前言含私人致谢，不复制到公开元信息。",
+    "publicOriginalAllowed": false
+  },
+  {
+    "path": "量子力学/参考阅读/高等量子力学/喀兴林/第二版_2001-08/研究生教学用书-高等量子力学(第2版)-喀兴林-高等教育出版社-2001.pdf",
+    "originalName": "研究生教学用书-高等量子力学(第2版)-喀兴林-高等教育出版社-2001.pdf",
+    "size": 19256468,
+    "sha256": "ad0966237f22a23fbf36fd965149bbbba5144d6109709cdba0736763687005f2",
+    "format": "PDF",
+    "pages": 525,
+    "authorSourceGroup": "喀兴林",
+    "versionGroup": "第二版_2001-08",
+    "evidence": "封面明确高等量子力学（第二版）、喀兴林、高等教育出版社；扫描第3页版权2001年8月第2版、第1次印刷，ISBN7-04-009925-X。",
+    "publicOriginalAllowed": false
+  }
+]

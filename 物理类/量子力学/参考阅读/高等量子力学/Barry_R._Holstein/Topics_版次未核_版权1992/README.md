@@ -1,0 +1,15 @@
+# Barry_R._Holstein：Topics_版次未核_版权1992
+
+|原文件名|格式/页数|
+|---|---|
+|`Topics in Advanced Quantum Mechanics（高等量子力学论题）, Barry R.Holstein, Addison-Wesley, 1992.pdf`|PDF：448页|
+
+PDF封面署Barry R. Holstein、Topics in Advanced Quantum Mechanics；扫描第3页版权1992、Addison-Wesley Publishing Company、ISBN0-201-50820-6。版权年已核，编号版次未核。
+
+同名不同格式分别保存，不视为字节重复，不宣称页码、正文或版次完全相同。未核DJVU不执行格式转换；PDF不OCR重写、压缩、修补或更名。日期按版权、前言或来源标签的角色分别说明，不编课程学期。
+
+[原路径、格式及SHA256目录](../../资料路径与哈希_第56批.json)。原件不进入公开Git，元信息不复制私人致谢内容或扫描页面。
+
+来源：自有物理资料库6f4b1cfc-208b-4b3f-b2ac-bac77f97246f，`物理类/量子力学/书籍`中第56批限定9原件。
+
+[原来源目录](https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/%E4%B9%A6%E7%B1%8D)。整理日期2026-10-18。双库原件逐SHA一致后在目标库服务器移动复用，源库未改，原名原字节保留。原教材仅私有云盘和本地，公开Git仅书目、来源与路径SHA元信息。
