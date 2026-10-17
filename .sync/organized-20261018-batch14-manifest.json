@@ -1,0 +1,372 @@
+{
+  "date": "2026-10-18",
+  "course": "计算机类/离散数学（1）",
+  "summary": {
+    "batch": 14,
+    "course": "离散数学（1）",
+    "selected_files": 51,
+    "source_files": 32,
+    "provenance": 19,
+    "excluded_files": 30,
+    "legacy_paths_merged": 3
+  },
+  "files": [
+    {
+      "path": "计算机类/离散数学（1）/往年题/2020/2020.md",
+      "sha256": "aa5250950c275f19b942f609b5e799071c871ff6d27de841d9137ec3d5f78010",
+      "original_sha256": "aa5250950c275f19b942f609b5e799071c871ff6d27de841d9137ec3d5f78010",
+      "bytes": 2231,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/离散数学（1）/往年题/2020/2020.pdf",
+      "sha256": "5a7ef1cb1f70416e3f6c43922cf5ba9b7e7f8d90f62786b837497e881b59378c",
+      "original_sha256": "5a7ef1cb1f70416e3f6c43922cf5ba9b7e7f8d90f62786b837497e881b59378c",
+      "bytes": 469086,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/离散数学（1）/往年题/2022-2023/2022-2023离散数学1期末考试.pdf",
+      "sha256": "ecd145dccdbcc7ddcf4d973011c7c0045f668d8fdbfe631a74af0536c4a3fc63",
+      "original_sha256": "ecd145dccdbcc7ddcf4d973011c7c0045f668d8fdbfe631a74af0536c4a3fc63",
+      "bytes": 163452,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/离散数学（1）/往年题/2024_回忆版/2024回忆版.md",
+      "sha256": "619d95ead6de8f068663b4e899f6c4496c1b394a2c066fa711a73e2715b3deb2",
+      "original_sha256": "619d95ead6de8f068663b4e899f6c4496c1b394a2c066fa711a73e2715b3deb2",
+      "bytes": 1716,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/离散数学（1）/往年题/2024_回忆版/2024回忆版.pdf",
+      "sha256": "2ecaa257c994885f9b2b9ff92e0d78be87702cb9b867f778260b86f681b8c371",
+      "original_sha256": "2ecaa257c994885f9b2b9ff92e0d78be87702cb9b867f778260b86f681b8c371",
+      "bytes": 343299,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/离散数学（1）/往年题/样卷/离散数学期末考试样卷.pdf",
+      "sha256": "0d4620b008c43e9b2287caad8fc624d059b75fecd5df0b8b54fd9c216a86dc3d",
+      "original_sha256": "0d4620b008c43e9b2287caad8fc624d059b75fecd5df0b8b54fd9c216a86dc3d",
+      "bytes": 493747,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/离散数学（1）/往年题/样卷/离散数学期末考试样卷_答案.pdf",
+      "sha256": "39fa158bad96dec59a3a2ea49b42c7bea1a6b21e4a8a33e13dc5f773b5de1853",
+      "original_sha256": "39fa158bad96dec59a3a2ea49b42c7bea1a6b21e4a8a33e13dc5f773b5de1853",
+      "bytes": 466739,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/离散数学（1）/复习/学长罗素资料/罗素.md",
+      "sha256": "4c9bec177860cbea35ccf6d6827118056bfd432927802801440cc63ed0d9ebc3",
+      "original_sha256": "4c9bec177860cbea35ccf6d6827118056bfd432927802801440cc63ed0d9ebc3",
+      "bytes": 5336,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/离散数学（1）/复习/学长罗素资料/罗素.pdf",
+      "sha256": "231804a17b27829e14caab201d76e9df327331bfa67655322903f05ac568a8ed",
+      "original_sha256": "231804a17b27829e14caab201d76e9df327331bfa67655322903f05ac568a8ed",
+      "bytes": 352565,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/离散数学（1）/复习/课程复习/复习.pdf",
+      "sha256": "f758c005070e2cc76a476f9da2dffb6ee93abf235565f0d01f02ff11034fda81",
+      "original_sha256": "f758c005070e2cc76a476f9da2dffb6ee93abf235565f0d01f02ff11034fda81",
+      "bytes": 4535390,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/离散数学（1）/复习/课程复习/前五章粗略总结.pdf",
+      "sha256": "0ebb13efd66526b2de03f8aa7c3d00ecf962b04c9de348ba2157acef05d13230",
+      "original_sha256": "0ebb13efd66526b2de03f8aa7c3d00ecf962b04c9de348ba2157acef05d13230",
+      "bytes": 2285620,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/离散数学（1）/作业/2025-2026秋季学期/作业参考解答/HW1.pdf",
+      "sha256": "b86a0b745dca2b68c59aea88f37905574787bec245f2e62c245d066442eaed11",
+      "original_sha256": "b86a0b745dca2b68c59aea88f37905574787bec245f2e62c245d066442eaed11",
+      "bytes": 295653,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/离散数学（1）/作业/2025-2026秋季学期/作业参考解答/HW10.pdf",
+      "sha256": "49fc91a6190e7001b45458d3155ac23b4d413ff7bd7f454ee59bb47e5d1e43b0",
+      "original_sha256": "49fc91a6190e7001b45458d3155ac23b4d413ff7bd7f454ee59bb47e5d1e43b0",
+      "bytes": 512096,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/离散数学（1）/作业/2025-2026秋季学期/作业参考解答/HW11.pdf",
+      "sha256": "83ebfc6594fe01616d31093cff31c5d97c67b4b8426682309ce2e2db3243fffb",
+      "original_sha256": "83ebfc6594fe01616d31093cff31c5d97c67b4b8426682309ce2e2db3243fffb",
+      "bytes": 520265,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/离散数学（1）/作业/2025-2026秋季学期/作业参考解答/HW12.pdf",
+      "sha256": "6da2e1ed4006b2c60f4e7697dac0364d1d01d85b2171c9dbf1e12662fbefa557",
+      "original_sha256": "6da2e1ed4006b2c60f4e7697dac0364d1d01d85b2171c9dbf1e12662fbefa557",
+      "bytes": 780948,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/离散数学（1）/作业/2025-2026秋季学期/作业参考解答/HW13.pdf",
+      "sha256": "e4f995de6f5903ab3af25817466a248379e317f89717da62b5a166a2ab9b7c97",
+      "original_sha256": "e4f995de6f5903ab3af25817466a248379e317f89717da62b5a166a2ab9b7c97",
+      "bytes": 598551,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/离散数学（1）/作业/2025-2026秋季学期/作业参考解答/HW14.pdf",
+      "sha256": "f8837eed1def8ab68ff8b146ef64f9678e8c1fe604a7fe92f1b820cb5ccd0f48",
+      "original_sha256": "f8837eed1def8ab68ff8b146ef64f9678e8c1fe604a7fe92f1b820cb5ccd0f48",
+      "bytes": 444093,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/离散数学（1）/作业/2025-2026秋季学期/作业参考解答/HW2.pdf",
+      "sha256": "c9ada0420594fd5dcd7b3bb3ddeaa4cd76d0d4dd62cb5033441d979c36d98ede",
+      "original_sha256": "c9ada0420594fd5dcd7b3bb3ddeaa4cd76d0d4dd62cb5033441d979c36d98ede",
+      "bytes": 954039,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/离散数学（1）/作业/2025-2026秋季学期/作业参考解答/HW3.pdf",
+      "sha256": "952e45a82b5a37f4a4234b709ee05bcc8e42521a1a588a3bca69e08661e6f7eb",
+      "original_sha256": "952e45a82b5a37f4a4234b709ee05bcc8e42521a1a588a3bca69e08661e6f7eb",
+      "bytes": 652514,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/离散数学（1）/作业/2025-2026秋季学期/作业参考解答/HW4.pdf",
+      "sha256": "84dceaaa5b62380921ff5fa7d7ae14e78344cadc329f6c4e5d8510b25921d94d",
+      "original_sha256": "84dceaaa5b62380921ff5fa7d7ae14e78344cadc329f6c4e5d8510b25921d94d",
+      "bytes": 412109,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/离散数学（1）/作业/2025-2026秋季学期/作业参考解答/HW5.pdf",
+      "sha256": "f5e020300e9c374e366b42f881de9dc930ad3beb776fc4316c7a5a36cc10489d",
+      "original_sha256": "f5e020300e9c374e366b42f881de9dc930ad3beb776fc4316c7a5a36cc10489d",
+      "bytes": 460797,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/离散数学（1）/作业/2025-2026秋季学期/作业参考解答/HW6.pdf",
+      "sha256": "482f268860dc500d718d0ef85082ae783053f73a937ed92bdefeade9a5750c78",
+      "original_sha256": "482f268860dc500d718d0ef85082ae783053f73a937ed92bdefeade9a5750c78",
+      "bytes": 1844308,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/离散数学（1）/作业/2025-2026秋季学期/作业参考解答/HW7.pdf",
+      "sha256": "2889bfef5a0f8f1af0a18bf4579e63764811939388cb882afb4401da5f014161",
+      "original_sha256": "2889bfef5a0f8f1af0a18bf4579e63764811939388cb882afb4401da5f014161",
+      "bytes": 625756,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/离散数学（1）/作业/2025-2026秋季学期/作业参考解答/HW8.pdf",
+      "sha256": "38e48668ca4f01491a2aa8981fdb828a9f5ab2e50a6bcacba17ca0f0bd6e0f8b",
+      "original_sha256": "38e48668ca4f01491a2aa8981fdb828a9f5ab2e50a6bcacba17ca0f0bd6e0f8b",
+      "bytes": 582613,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/离散数学（1）/作业/2025-2026秋季学期/作业参考解答/HW9.pdf",
+      "sha256": "71dccc4cf076e5d26686a60a618a69a447ca6ff2b7eb60ce666084511ab0cbd9",
+      "original_sha256": "71dccc4cf076e5d26686a60a618a69a447ca6ff2b7eb60ce666084511ab0cbd9",
+      "bytes": 865073,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/离散数学（1）/作业/2025-2026秋季学期/第一周作业/个人解答/第一次作业.md",
+      "sha256": "17a9535e17b43e056775901b2981cc35e0dfb36c29321b32746322c997c139d7",
+      "original_sha256": "17a9535e17b43e056775901b2981cc35e0dfb36c29321b32746322c997c139d7",
+      "bytes": 1583,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/离散数学（1）/作业/2025-2026秋季学期/第九周作业/作业说明.md",
+      "sha256": "3f98b8b791dd495e29467a1b60238926cfdd71479dd30f2b88d19edb7890df0f",
+      "original_sha256": "3f98b8b791dd495e29467a1b60238926cfdd71479dd30f2b88d19edb7890df0f",
+      "bytes": 690,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/离散数学（1）/作业/2025-2026秋季学期/第七周作业/作业说明.md",
+      "sha256": "a6e2de3d7c8d74b705e83a209406765a274f77790a7c8d9023db68ade41f664e",
+      "original_sha256": "a6e2de3d7c8d74b705e83a209406765a274f77790a7c8d9023db68ade41f664e",
+      "bytes": 690,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/离散数学（1）/作业/2025-2026秋季学期/第四周作业/作业说明.md",
+      "sha256": "13a41dee831cdfe8cb2b8d1ad4cfcdc235fa8adef1c2a324a5c0ec82002794b1",
+      "original_sha256": "13a41dee831cdfe8cb2b8d1ad4cfcdc235fa8adef1c2a324a5c0ec82002794b1",
+      "bytes": 690,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/离散数学（1）/作业/2025-2026秋季学期/第三周作业/作业说明.md",
+      "sha256": "0a40a268940fc11b3a5feada51c199e521c5add06b324b32e7d4b27b808982e9",
+      "original_sha256": "0a40a268940fc11b3a5feada51c199e521c5add06b324b32e7d4b27b808982e9",
+      "bytes": 690,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/离散数学（1）/作业/2025-2026秋季学期/第二周作业/作业说明.md",
+      "sha256": "b9a462145111ca35759cffe3080d876ec2ddad7ea994a016da95a81e5562fbed",
+      "original_sha256": "b9a462145111ca35759cffe3080d876ec2ddad7ea994a016da95a81e5562fbed",
+      "bytes": 690,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/离散数学（1）/作业/2025-2026秋季学期/第一周作业/作业说明.md",
+      "sha256": "dc3d13f53d39c8372d9c894fc0317a20772804f9f370390e898693183ab26464",
+      "original_sha256": "dc3d13f53d39c8372d9c894fc0317a20772804f9f370390e898693183ab26464",
+      "bytes": 476,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/离散数学（1）/README.md",
+      "sha256": "fb1f1401d566263c566a1fd5bdbfbbbd2721090b40e20ccc6b70c416f957f5cd",
+      "original_sha256": "79f4ee5765fd2fa143be512e1a517fa61bf1b03fe817169f601e8e6fc58e9bb2",
+      "bytes": 1408,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/离散数学（1）/作业/README.md",
+      "sha256": "a243837aed26c29c86d2d63b099fc344e3d8f09882fe865723c393eb0f558f28",
+      "original_sha256": "b1a695e9f2204889d9e2cc0c8e49a8e9a4fdb5036e8607f5cb2a842308193885",
+      "bytes": 1395,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/离散数学（1）/作业/2025-2026秋季学期/README.md",
+      "sha256": "51271b533555983becdcf3548a9c3c27d627400bd8069c2417254e74eaf6e024",
+      "original_sha256": "f39c52a84f2fec170d267fad9e4e2c79e3a960888873676cd9408a0ca03c6493",
+      "bytes": 1410,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/离散数学（1）/作业/2025-2026秋季学期/作业参考解答/README.md",
+      "sha256": "673e7db36803038c98bbad626abab20a4674f864a9b30d78e5c2dbc7df450a10",
+      "original_sha256": "eb3ecc7cdbf3b79e1608d204247e8ca4196317008b38ef3b47c00327c8c93b82",
+      "bytes": 2558,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/离散数学（1）/作业/2025-2026秋季学期/第一周作业/README.md",
+      "sha256": "5b77a938fea1f195b220cfab49e10d56a1c353d364c804fb081856ae311918dc",
+      "original_sha256": "4887c3312b5b31869f0668c1108e908e300e3416a2c12db417fe06a6b58e5e89",
+      "bytes": 1491,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/离散数学（1）/作业/2025-2026秋季学期/第一周作业/个人解答/README.md",
+      "sha256": "33d15b9bcd5a3171ca70f91d2a743b230502bb34fe975708c9da2754a015ba99",
+      "original_sha256": "9613884da60e1e66bd7c0d5ddc0e90c36dd2ded6405205976383ba7684892fc4",
+      "bytes": 1449,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/离散数学（1）/作业/2025-2026秋季学期/第七周作业/README.md",
+      "sha256": "a344aedf71c31d0e7e99e0e7fd4c9eeb1efa182cc8d13d6c3301012095e3222d",
+      "original_sha256": "a212bb8fbcd30f41867f55dd2acbeee15508aff76766b335811c16330d3aee02",
+      "bytes": 1491,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/离散数学（1）/作业/2025-2026秋季学期/第三周作业/README.md",
+      "sha256": "441a4231a67f9eea3f0675f63df23f20b1d9f68874d31f02b8eee102985f4ffe",
+      "original_sha256": "49648311dbbec42ff4c5014f2249aee2af1001488a7d9c763822cfcff4074fcf",
+      "bytes": 1491,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/离散数学（1）/作业/2025-2026秋季学期/第九周作业/README.md",
+      "sha256": "e8d9de90af43f2b4edacbcccffa046ff50c95803218cd11e7b79cc138e980ad3",
+      "original_sha256": "67aeb82eb8d824a1a562c8002d170b7f4378caf5a2451991c642cba0b3f11390",
+      "bytes": 1491,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/离散数学（1）/作业/2025-2026秋季学期/第二周作业/README.md",
+      "sha256": "d026a4879645877edcb6d69d44d163758e3735a45dcf085e9b4d27052d41b94c",
+      "original_sha256": "4bd58c5f8090987031c68c08d9347a6d89e5f47dc3ba762228617982a90bba43",
+      "bytes": 1491,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/离散数学（1）/作业/2025-2026秋季学期/第四周作业/README.md",
+      "sha256": "db3ec93fbc5463053cdbae3e95211ff771c9f88eaddc0812b444f2270df77f92",
+      "original_sha256": "782ebfff07f3c2c657cffca1b48090871792c11fe07dd231fdb1554ff2eaeca9",
+      "bytes": 1491,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/离散数学（1）/复习/README.md",
+      "sha256": "8c3269de41a229beda9cf5f2be9df2a9d436b8637defdfa7867959fb0e442dd3",
+      "original_sha256": "655f04b038581d19143a7e23b47c69e71b2292d455f013710bd2c0cf3b3b9975",
+      "bytes": 1395,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/离散数学（1）/复习/学长罗素资料/README.md",
+      "sha256": "efacf12e555ff5b169c75ab339753b62414c7ca7969aede752bcf8200df2cf12",
+      "original_sha256": "cc86e82b80b4571fd7432f72e031bc15130e74c3c48705b156594e301f13e7fb",
+      "bytes": 1550,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/离散数学（1）/复习/课程复习/README.md",
+      "sha256": "a7041e85f14769207058ab9287400fac7ddde1c6fccb040fed5e60106ece4e5b",
+      "original_sha256": "8e4b50c755e5b4a196d14e929b1405558319ee1a17b0530f32e1376e7d8e772e",
+      "bytes": 1575,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/离散数学（1）/往年题/README.md",
+      "sha256": "821f37deece7d3d9d614bac9ca4f1c11746eecb4fa771e13b65b0083f2bda9df",
+      "original_sha256": "9ee197b4efd2a65ce7a73d8ad3471e6ee4f4425170be4d33a5331cbbc5f95ab7",
+      "bytes": 1398,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/离散数学（1）/往年题/2020/README.md",
+      "sha256": "208c4c62d7162df8842e4d5b6981e6307984cecf21720196fb5548412e210463",
+      "original_sha256": "f9db2f836b906ed81dc0ea43576945534939931b82732b057a148c7570ac5c09",
+      "bytes": 1532,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/离散数学（1）/往年题/2022-2023/README.md",
+      "sha256": "c987d0dc4df4a0c510de0011757f066da2b7b0f1bb6cbb3189cfc75c92b2260d",
+      "original_sha256": "e08a3326e801eb9a91f5b0857462c875a2ae7a18bd3128bd69346c5181ac2bba",
+      "bytes": 1497,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/离散数学（1）/往年题/2024_回忆版/README.md",
+      "sha256": "07aa95255cc4c8ae9ce1d86015a88d8b378c98c8c53238491f3a4204d6769148",
+      "original_sha256": "ddfbf3ff61401fa7f4b81fca61e85e71aa8745e4103c0dd5f62dfdebd2ad6c29",
+      "bytes": 1560,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/离散数学（1）/往年题/样卷/README.md",
+      "sha256": "914df15c2d82f97090bfd9a989bb0f03e49b1d7beae51f51d719a69a18782d7f",
+      "original_sha256": "5843fc7c8fb34d77706dc40efe86031095864c636e430c9505d14dfee97f4fa8",
+      "bytes": 1594,
+      "kind": "provenance"
+    }
+  ]
+}
