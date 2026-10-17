@@ -1,0 +1,362 @@
+{
+  "summary": {
+    "source_files": 15,
+    "provenance": 24,
+    "selected_files": 39,
+    "excluded_files": 0,
+    "local_links_verified": 15,
+    "legacy_exact_paths_merged": 14,
+    "scope_only_batch28": true,
+    "by_course": {
+      "大学物理": 31,
+      "光学": 8
+    }
+  },
+  "files": [
+    {
+      "path": "物理类/大学物理/习题与解答/原大物B题目汇编_年份未核/1.doc",
+      "sha256": "5eb34f0f9be9112e10d32942c686d4daab93773e65b9de379ebafe5074cab5cc",
+      "original_sha256": "5eb34f0f9be9112e10d32942c686d4daab93773e65b9de379ebafe5074cab5cc",
+      "bytes": 3597824,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原大物B题目汇编_年份未核/2.doc",
+      "sha256": "717dc8bb1e6640d082710a725fe8dda8ddd7ae0fbb1386a2e644cb39b3daf320",
+      "original_sha256": "717dc8bb1e6640d082710a725fe8dda8ddd7ae0fbb1386a2e644cb39b3daf320",
+      "bytes": 3285504,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原大物B题目汇编_年份未核/3.doc",
+      "sha256": "e98bd468b778accb16cfce73f44764920dd66f6139e9a20b31ad81ab1c92b55c",
+      "original_sha256": "e98bd468b778accb16cfce73f44764920dd66f6139e9a20b31ad81ab1c92b55c",
+      "bytes": 3457536,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原大物B题目汇编_年份未核/4.doc",
+      "sha256": "ce3ad98a37196e30da0ba7d4ae179f0f9410d139897d448c51d4f2bc350dc999",
+      "original_sha256": "ce3ad98a37196e30da0ba7d4ae179f0f9410d139897d448c51d4f2bc350dc999",
+      "bytes": 285696,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原大物B题目汇编_年份未核/5.doc",
+      "sha256": "d4d078dc269e76cfc867e5f68659fcd6a2c7e27cb970a4c145c4a6a93fe5429d",
+      "original_sha256": "d4d078dc269e76cfc867e5f68659fcd6a2c7e27cb970a4c145c4a6a93fe5429d",
+      "bytes": 330752,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原大物B题目汇编_年份未核/6(量子).doc",
+      "sha256": "c4578c778a1fbeb82a8598cd1740f862809fb7ab38920ba8c4b67a50bfb34a89",
+      "original_sha256": "c4578c778a1fbeb82a8598cd1740f862809fb7ab38920ba8c4b67a50bfb34a89",
+      "bytes": 3115008,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原大物B题目汇编_年份未核/大学物理.docx",
+      "sha256": "889b533044cc0352f8e3b4b214a0f3d092b6daea7c70f015fa8c25fc844a1626",
+      "original_sha256": "889b533044cc0352f8e3b4b214a0f3d092b6daea7c70f015fa8c25fc844a1626",
+      "bytes": 18519,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原大物B题目汇编_年份未核/大物B(2）.pdf",
+      "sha256": "2f0c3464182e3d4cb4a00307a8629431a19a4b20ce6e7a27b34dd60634a6992d",
+      "original_sha256": "2f0c3464182e3d4cb4a00307a8629431a19a4b20ce6e7a27b34dd60634a6992d",
+      "bytes": 434364,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原大物B题目汇编_年份未核/清华大学_光学、量子力学试题.pdf",
+      "sha256": "6c5d686e38af418bb7c238744c51e4551b42a6a9dae52afcf3e81444bc71d806",
+      "original_sha256": "6c5d686e38af418bb7c238744c51e4551b42a6a9dae52afcf3e81444bc71d806",
+      "bytes": 523141,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/复习/样卷/大学物理B_来源年份未核/2022-2023大物B1期中考试.pdf",
+      "sha256": "3511163d242bff5d450f0ad693cb475067d67b1dcb15497a995968f5a022db6f",
+      "original_sha256": "3511163d242bff5d450f0ad693cb475067d67b1dcb15497a995968f5a022db6f",
+      "bytes": 7288953,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/复习/样卷/大学物理A_年份未核/4-大学物理样题（8页）电磁光.doc",
+      "sha256": "3b2a3eac52951168edb0d7b4c668aeb188cbaa000b2f1c41a9cf62286dc81ac1",
+      "original_sha256": "3b2a3eac52951168edb0d7b4c668aeb188cbaa000b2f1c41a9cf62286dc81ac1",
+      "bytes": 482816,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/参考试题/外校/中国矿业大学/2009-2010春季学期/大学物理B-09级试题B卷.doc",
+      "sha256": "12f7da82f6b95e79299c91ddfab5fb47ebe6fc27df038b9a4ac71be031c837ed",
+      "original_sha256": "12f7da82f6b95e79299c91ddfab5fb47ebe6fc27df038b9a4ac71be031c837ed",
+      "bytes": 316928,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/光学/往年题/学生回忆/2004-06-24_工程光学/物光.doc",
+      "sha256": "160c274028b85ddb7a50aad50505f07cc255dffd155e27414578c98a0be2a2dd",
+      "original_sha256": "160c274028b85ddb7a50aad50505f07cc255dffd155e27414578c98a0be2a2dd",
+      "bytes": 28160,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/光学/习题与解答/物理光学_年份未核/清华大学物理光学试题及参考答案.pdf",
+      "sha256": "20fca91a112f2c4a0933f6cdab1a7f11c07375c197e0a8c9508834e9453319a5",
+      "original_sha256": "20fca91a112f2c4a0933f6cdab1a7f11c07375c197e0a8c9508834e9453319a5",
+      "bytes": 96481,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/往年题/大学物理B/来源标2023_卷面年份未核/2023大物B2期中.pdf",
+      "sha256": "6450e14ca171cd62133fa77707d580eeed3a0e759f6c482ecb61cee021806306",
+      "original_sha256": "6450e14ca171cd62133fa77707d580eeed3a0e759f6c482ecb61cee021806306",
+      "bytes": 1117661,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/README.md",
+      "sha256": "0b96ed5e6b991a2913622a34058d60e1170e8ffdba24404018172cb32aad6572",
+      "original_sha256": "0b96ed5e6b991a2913622a34058d60e1170e8ffdba24404018172cb32aad6572",
+      "bytes": 977,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/README.md",
+      "sha256": "ad08ffb67efdba06f1003bd4af4d1665e8b9a050e3b0feb2c601b4c6663c32a5",
+      "original_sha256": "ad08ffb67efdba06f1003bd4af4d1665e8b9a050e3b0feb2c601b4c6663c32a5",
+      "bytes": 797,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原大物B题目汇编_年份未核/README.md",
+      "sha256": "f97a3a0a32e0af7f96b3665a5e0b1b36779b869f4002f93c5a9819d8736ed9a2",
+      "original_sha256": "f97a3a0a32e0af7f96b3665a5e0b1b36779b869f4002f93c5a9819d8736ed9a2",
+      "bytes": 2664,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/参考试题/README.md",
+      "sha256": "84e7c21e79bd8b27fc721776b9e8639823f18237bdd3f22876ab48caec4ec87f",
+      "original_sha256": "84e7c21e79bd8b27fc721776b9e8639823f18237bdd3f22876ab48caec4ec87f",
+      "bytes": 794,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/参考试题/外校/README.md",
+      "sha256": "43db91937cb09b095a83a0d6ff98ba333df614a69d2f0a6b9d9b8be291cd621b",
+      "original_sha256": "43db91937cb09b095a83a0d6ff98ba333df614a69d2f0a6b9d9b8be291cd621b",
+      "bytes": 788,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/参考试题/外校/中国矿业大学/README.md",
+      "sha256": "6d03beb36a5ffff52638ad64d13d238c64b88e3437df81c7c5ace38770c17e49",
+      "original_sha256": "6d03beb36a5ffff52638ad64d13d238c64b88e3437df81c7c5ace38770c17e49",
+      "bytes": 800,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/参考试题/外校/中国矿业大学/2009-2010春季学期/README.md",
+      "sha256": "b4f91f2ad32a614b8386e999cbfb3dc16c57177904c6801adbca522edece946c",
+      "original_sha256": "b4f91f2ad32a614b8386e999cbfb3dc16c57177904c6801adbca522edece946c",
+      "bytes": 999,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/复习/README.md",
+      "sha256": "d5ca1d6c2321331ab4cc8b32862f2f1f61f3417ea2742bfcc514dbcd421fa2db",
+      "original_sha256": "d5ca1d6c2321331ab4cc8b32862f2f1f61f3417ea2742bfcc514dbcd421fa2db",
+      "bytes": 788,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/复习/样卷/README.md",
+      "sha256": "a97ab73f6374ca4c23c1cffc7b680ae32251cc71e43c35dae5b5ace993d09cd0",
+      "original_sha256": "a97ab73f6374ca4c23c1cffc7b680ae32251cc71e43c35dae5b5ace993d09cd0",
+      "bytes": 788,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/复习/样卷/大学物理A_年份未核/README.md",
+      "sha256": "ca694e5e7d72551eeb6fe413b0d8c55d33c1e9e961d140081116eaf3a4255e6b",
+      "original_sha256": "ca694e5e7d72551eeb6fe413b0d8c55d33c1e9e961d140081116eaf3a4255e6b",
+      "bytes": 1025,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/复习/样卷/大学物理B_来源年份未核/README.md",
+      "sha256": "24f5ad69177721e7c685341ff358886f79b234a790264005204b48586e585b3e",
+      "original_sha256": "24f5ad69177721e7c685341ff358886f79b234a790264005204b48586e585b3e",
+      "bytes": 1052,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/大物B/README.md",
+      "sha256": "771d8bdc941573758937e3597261d75dd3aaefc36dee3eacb6a9f5df26cbbbc9",
+      "original_sha256": "771d8bdc941573758937e3597261d75dd3aaefc36dee3eacb6a9f5df26cbbbc9",
+      "bytes": 987,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/往年题/README.md",
+      "sha256": "415385bf24ec7f6b8f22aaba67479856fbc3882d4e94a7cfb273f89eb65f40a5",
+      "original_sha256": "415385bf24ec7f6b8f22aaba67479856fbc3882d4e94a7cfb273f89eb65f40a5",
+      "bytes": 791,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/往年题/大学物理B/README.md",
+      "sha256": "3b79f551b7f39b8fdc52010ee918ab9d1ec4ec5f8eec0cea3e0fa6b2aee1aa82",
+      "original_sha256": "3b79f551b7f39b8fdc52010ee918ab9d1ec4ec5f8eec0cea3e0fa6b2aee1aa82",
+      "bytes": 795,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/往年题/大学物理B/来源标2023_卷面年份未核/README.md",
+      "sha256": "1dc368f8f5814119f8aa4b96cb4cda9a394ce0dbb50050cd100debf6e4a8d988",
+      "original_sha256": "1dc368f8f5814119f8aa4b96cb4cda9a394ce0dbb50050cd100debf6e4a8d988",
+      "bytes": 1015,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/课程信息/README.md",
+      "sha256": "cdff5a2dfa2e3c01409ce0e6662436ca433f07151bbce63e5c5decf2bba82bed",
+      "original_sha256": "dff6a0c2fe0be3b8c77c576d67c064dbbbb592a4ea1183eab543e1915497b733",
+      "bytes": 1218,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/课程信息/2025-2026秋季学期/README.md",
+      "sha256": "a73893a1041b361f56a77f75d6e8b85822e5bb9164a7d3b191d7eded49f82821",
+      "original_sha256": "8327f8bfca846ac684e0dfc3766bb6c249e4488557787ed4006ae77a72eea8a4",
+      "bytes": 1227,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/课程信息/2025-2026秋季学期/安宇/README.md",
+      "sha256": "bb02f2803160928f15a8c0af1bbec092b1774cdafb311046ec1f43cb54fd76b2",
+      "original_sha256": "7b144ca992d522467a0b1d4a4ceaaad7bf0380fc8bfe50355c6be929d4163c33",
+      "bytes": 1212,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/光学/README.md",
+      "sha256": "e21a9b0455186d89646cfae28278e41db0c3c94e977c80fb1947439e50939230",
+      "original_sha256": "e21a9b0455186d89646cfae28278e41db0c3c94e977c80fb1947439e50939230",
+      "bytes": 641,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/光学/习题与解答/README.md",
+      "sha256": "a885b260e517d2a20f4be4fae9efeaf51360cb4dd0a447504df7f2d770110ca3",
+      "original_sha256": "a885b260e517d2a20f4be4fae9efeaf51360cb4dd0a447504df7f2d770110ca3",
+      "bytes": 467,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/光学/习题与解答/物理光学_年份未核/README.md",
+      "sha256": "f8ec027466fdeeb941eb6160204b2abf3874c1854bac4a3f0d9c0e41e12eb3c1",
+      "original_sha256": "f8ec027466fdeeb941eb6160204b2abf3874c1854bac4a3f0d9c0e41e12eb3c1",
+      "bytes": 739,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/光学/往年题/README.md",
+      "sha256": "89ea827dfb2fe8612ed18807a45034282b6b2f1c74d45aaefceb48c4b88fdeb1",
+      "original_sha256": "89ea827dfb2fe8612ed18807a45034282b6b2f1c74d45aaefceb48c4b88fdeb1",
+      "bytes": 461,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/光学/往年题/学生回忆/README.md",
+      "sha256": "1aba4599a94c825714200834a470c8496889898d27f48b4dbe549dcad9573118",
+      "original_sha256": "1aba4599a94c825714200834a470c8496889898d27f48b4dbe549dcad9573118",
+      "bytes": 464,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/光学/往年题/学生回忆/2004-06-24_工程光学/README.md",
+      "sha256": "d534d8c8e4e346163200b9eca30d81da6d18a60b45bb304b1dc76d648392179b",
+      "original_sha256": "d534d8c8e4e346163200b9eca30d81da6d18a60b45bb304b1dc76d648392179b",
+      "bytes": 657,
+      "kind": "provenance"
+    }
+  ],
+  "legacy_merges": [
+    {
+      "old": "物理类/大学物理/大物B/试题/1.doc",
+      "current": "物理类/大学物理/习题与解答/原大物B题目汇编_年份未核/1.doc",
+      "sha256": "5eb34f0f9be9112e10d32942c686d4daab93773e65b9de379ebafe5074cab5cc"
+    },
+    {
+      "old": "物理类/大学物理/大物B/试题/2.doc",
+      "current": "物理类/大学物理/习题与解答/原大物B题目汇编_年份未核/2.doc",
+      "sha256": "717dc8bb1e6640d082710a725fe8dda8ddd7ae0fbb1386a2e644cb39b3daf320"
+    },
+    {
+      "old": "物理类/大学物理/大物B/试题/3.doc",
+      "current": "物理类/大学物理/习题与解答/原大物B题目汇编_年份未核/3.doc",
+      "sha256": "e98bd468b778accb16cfce73f44764920dd66f6139e9a20b31ad81ab1c92b55c"
+    },
+    {
+      "old": "物理类/大学物理/大物B/试题/4.doc",
+      "current": "物理类/大学物理/习题与解答/原大物B题目汇编_年份未核/4.doc",
+      "sha256": "ce3ad98a37196e30da0ba7d4ae179f0f9410d139897d448c51d4f2bc350dc999"
+    },
+    {
+      "old": "物理类/大学物理/大物B/试题/5.doc",
+      "current": "物理类/大学物理/习题与解答/原大物B题目汇编_年份未核/5.doc",
+      "sha256": "d4d078dc269e76cfc867e5f68659fcd6a2c7e27cb970a4c145c4a6a93fe5429d"
+    },
+    {
+      "old": "物理类/大学物理/大物B/试题/6(量子).doc",
+      "current": "物理类/大学物理/习题与解答/原大物B题目汇编_年份未核/6(量子).doc",
+      "sha256": "c4578c778a1fbeb82a8598cd1740f862809fb7ab38920ba8c4b67a50bfb34a89"
+    },
+    {
+      "old": "物理类/大学物理/大物B/试题/大学物理.docx",
+      "current": "物理类/大学物理/习题与解答/原大物B题目汇编_年份未核/大学物理.docx",
+      "sha256": "889b533044cc0352f8e3b4b214a0f3d092b6daea7c70f015fa8c25fc844a1626"
+    },
+    {
+      "old": "物理类/大学物理/大物B/试题/大物B(2）.pdf",
+      "current": "物理类/大学物理/习题与解答/原大物B题目汇编_年份未核/大物B(2）.pdf",
+      "sha256": "2f0c3464182e3d4cb4a00307a8629431a19a4b20ce6e7a27b34dd60634a6992d"
+    },
+    {
+      "old": "物理类/大学物理/大物B/试题/清华大学_光学、量子力学试题.pdf",
+      "current": "物理类/大学物理/习题与解答/原大物B题目汇编_年份未核/清华大学_光学、量子力学试题.pdf",
+      "sha256": "6c5d686e38af418bb7c238744c51e4551b42a6a9dae52afcf3e81444bc71d806"
+    },
+    {
+      "old": "物理类/大学物理/大物B/试题/2022-2023大物B1期中考试.pdf",
+      "current": "物理类/大学物理/复习/样卷/大学物理B_来源年份未核/2022-2023大物B1期中考试.pdf",
+      "sha256": "3511163d242bff5d450f0ad693cb475067d67b1dcb15497a995968f5a022db6f"
+    },
+    {
+      "old": "物理类/大学物理/大物B/试题/4-大学物理样题（8页）电磁光.doc",
+      "current": "物理类/大学物理/复习/样卷/大学物理A_年份未核/4-大学物理样题（8页）电磁光.doc",
+      "sha256": "3b2a3eac52951168edb0d7b4c668aeb188cbaa000b2f1c41a9cf62286dc81ac1"
+    },
+    {
+      "old": "物理类/大学物理/大物B/试题/大学物理B-09级试题B卷.doc",
+      "current": "物理类/大学物理/参考试题/外校/中国矿业大学/2009-2010春季学期/大学物理B-09级试题B卷.doc",
+      "sha256": "12f7da82f6b95e79299c91ddfab5fb47ebe6fc27df038b9a4ac71be031c837ed"
+    },
+    {
+      "old": "物理类/大学物理/大物B/试题/物光.doc",
+      "current": "物理类/光学/往年题/学生回忆/2004-06-24_工程光学/物光.doc",
+      "sha256": "160c274028b85ddb7a50aad50505f07cc255dffd155e27414578c98a0be2a2dd"
+    },
+    {
+      "old": "物理类/大学物理/大物B/试题/清华大学物理光学试题及参考答案.pdf",
+      "current": "物理类/光学/习题与解答/物理光学_年份未核/清华大学物理光学试题及参考答案.pdf",
+      "sha256": "20fca91a112f2c4a0933f6cdab1a7f11c07375c197e0a8c9508834e9453319a5"
+    }
+  ]
+}
