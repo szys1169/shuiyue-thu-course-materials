@@ -1,0 +1,392 @@
+{
+  "summary": {
+    "source_files": 47,
+    "provenance": 4,
+    "selected_files": 51,
+    "excluded_files": 1,
+    "local_links_verified": 50,
+    "cloud_links": 2,
+    "legacy_exact_paths_merged": 47,
+    "only_batch33_whitelist_used": true,
+    "batch32_content_not_read": true
+  },
+  "files": [
+    {
+      "path": "物理类/大学物理/大物B/README_大物B题库对照_第33批.md",
+      "sha256": "c1e3d9cfa0045a142b1d20dce48d507e49b0e4a8a4a6a55fe0ae61a97d942c8c",
+      "original_sha256": "29e5c734d567e83be32c7404e8d70f6a2cecff2c2561611063d21527c31f9d41",
+      "bytes": 1997,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原大物B光学与量子题库_年份未核/README.md",
+      "sha256": "f2354846f3c0b560ec3887256f0045c83a01f9d8d3212310b7d7d3de425ecfa6",
+      "original_sha256": "f2354846f3c0b560ec3887256f0045c83a01f9d8d3212310b7d7d3de425ecfa6",
+      "bytes": 3851,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原大物B光学与量子题库_年份未核/偏振基外.pdf",
+      "sha256": "4282e04da7be8a9d8aea3724d401429b2111ee4a911a68292375a3561dfc2e96",
+      "original_sha256": "4282e04da7be8a9d8aea3724d401429b2111ee4a911a68292375a3561dfc2e96",
+      "bytes": 191066,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原大物B光学与量子题库_年份未核/偏振基外答案.pdf",
+      "sha256": "8ef084a172bfbf822f4a4079d3568d9349ca4c1570ad4f83088b3ce195a094cd",
+      "original_sha256": "8ef084a172bfbf822f4a4079d3568d9349ca4c1570ad4f83088b3ce195a094cd",
+      "bytes": 178099,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原大物B光学与量子题库_年份未核/光的干涉_基外.pdf",
+      "sha256": "c23cfc406fbc422df0acb336d5ad636103c4861c2a7eb07afc8e917d6cb81f98",
+      "original_sha256": "c23cfc406fbc422df0acb336d5ad636103c4861c2a7eb07afc8e917d6cb81f98",
+      "bytes": 156970,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原大物B光学与量子题库_年份未核/光的干涉_基外_答案.pdf",
+      "sha256": "5d3ea99a97931895fbe312ba541ad3bab65a5dfd2409394c68d20aa5cc9f19e2",
+      "original_sha256": "5d3ea99a97931895fbe312ba541ad3bab65a5dfd2409394c68d20aa5cc9f19e2",
+      "bytes": 163081,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原大物B光学与量子题库_年份未核/基外衍射.pdf",
+      "sha256": "9db8c44e39c5985aace13eb772b2865a0318b3dbaa4a210946b7fe4055d7b705",
+      "original_sha256": "9db8c44e39c5985aace13eb772b2865a0318b3dbaa4a210946b7fe4055d7b705",
+      "bytes": 169801,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原大物B光学与量子题库_年份未核/基外衍射_答案.pdf",
+      "sha256": "80e5dcb9ce30334cd0b29444b6f96e549b6ff8fcd1aa3dcc5565f9b8aac9aab2",
+      "original_sha256": "80e5dcb9ce30334cd0b29444b6f96e549b6ff8fcd1aa3dcc5565f9b8aac9aab2",
+      "bytes": 240292,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原大物B光学与量子题库_年份未核/波动光学偏振上.pdf",
+      "sha256": "fb24bb5542f6acab99adf84927f643f80fc302822fe0b88c95c7dca2656129a3",
+      "original_sha256": "fb24bb5542f6acab99adf84927f643f80fc302822fe0b88c95c7dca2656129a3",
+      "bytes": 170385,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原大物B光学与量子题库_年份未核/波动光学偏振上答案.pdf",
+      "sha256": "5eb5a85fc581d4ee408c2aa4e2a9640eaed6c056de0152f92aaf30e434feea2f",
+      "original_sha256": "5eb5a85fc581d4ee408c2aa4e2a9640eaed6c056de0152f92aaf30e434feea2f",
+      "bytes": 94006,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原大物B光学与量子题库_年份未核/波动光学偏振下.pdf",
+      "sha256": "c4cf95ccc9d349a9435d34e05bd5769a10036f923bf657b29a1b2bcb54c3bed0",
+      "original_sha256": "c4cf95ccc9d349a9435d34e05bd5769a10036f923bf657b29a1b2bcb54c3bed0",
+      "bytes": 172979,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原大物B光学与量子题库_年份未核/波动光学偏振下答案.pdf",
+      "sha256": "6cb943cceaaed3c04949c7965e488f5659a4278f06bb517a60cfbaea73838bc0",
+      "original_sha256": "6cb943cceaaed3c04949c7965e488f5659a4278f06bb517a60cfbaea73838bc0",
+      "bytes": 203963,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原大物B光学与量子题库_年份未核/波动光学干涉上.pdf",
+      "sha256": "434d1cd784505f2cc6fe861e6326f9df3fe781ed8e62188a06186db582d99b3e",
+      "original_sha256": "434d1cd784505f2cc6fe861e6326f9df3fe781ed8e62188a06186db582d99b3e",
+      "bytes": 172050,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原大物B光学与量子题库_年份未核/波动光学干涉上答案.pdf",
+      "sha256": "47bf491ad6d719d98021d0099bc94bc290265a3f16410b4392a6682db35549ff",
+      "original_sha256": "47bf491ad6d719d98021d0099bc94bc290265a3f16410b4392a6682db35549ff",
+      "bytes": 91983,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原大物B光学与量子题库_年份未核/波动光学干涉下.pdf",
+      "sha256": "da59b1cb195ad67a4478b7f720dab56b70fdbf837049cab187bf3c987b681f18",
+      "original_sha256": "da59b1cb195ad67a4478b7f720dab56b70fdbf837049cab187bf3c987b681f18",
+      "bytes": 205473,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原大物B光学与量子题库_年份未核/波动光学干涉下答案.pdf",
+      "sha256": "350e36dd0707ab709d42cbac858ba4eae60f6ad853bffcb754248c2eed000efe",
+      "original_sha256": "350e36dd0707ab709d42cbac858ba4eae60f6ad853bffcb754248c2eed000efe",
+      "bytes": 236043,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原大物B光学与量子题库_年份未核/波动光学衍射上.pdf",
+      "sha256": "7a7ff2dca4832db443a1b20b5d220d26cea93c2830506b086367dd287e3f02e3",
+      "original_sha256": "7a7ff2dca4832db443a1b20b5d220d26cea93c2830506b086367dd287e3f02e3",
+      "bytes": 157842,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原大物B光学与量子题库_年份未核/波动光学衍射上答案.pdf",
+      "sha256": "0ba7e9f489e4d19515a8c2ac571033de7364ec79124bd6a737aa04c6ade2027e",
+      "original_sha256": "0ba7e9f489e4d19515a8c2ac571033de7364ec79124bd6a737aa04c6ade2027e",
+      "bytes": 99352,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原大物B光学与量子题库_年份未核/波动光学衍射下.pdf",
+      "sha256": "5e102a83a31776af5e5b63cb67100310f8fca88734589c993431f3bde91a1004",
+      "original_sha256": "5e102a83a31776af5e5b63cb67100310f8fca88734589c993431f3bde91a1004",
+      "bytes": 164232,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原大物B光学与量子题库_年份未核/波动光学衍射下答案.pdf",
+      "sha256": "9d9a25106a7aa58b3969104c1fa14a87e34ade5fc3fc4e25c97ec0a01ef92b81",
+      "original_sha256": "9d9a25106a7aa58b3969104c1fa14a87e34ade5fc3fc4e25c97ec0a01ef92b81",
+      "bytes": 207261,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原大物B光学与量子题库_年份未核/激光.pdf",
+      "sha256": "c02b0715a3f1f22ce36cd0eb674d15da29bf373aaab2f047850eef8e33a289d9",
+      "original_sha256": "c02b0715a3f1f22ce36cd0eb674d15da29bf373aaab2f047850eef8e33a289d9",
+      "bytes": 80329,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原大物B光学与量子题库_年份未核/激光答案.pdf",
+      "sha256": "ad181bb3d9f21e95d48131c8792a2c55e38033a20863f7b39fabcf3c25fa1235",
+      "original_sha256": "ad181bb3d9f21e95d48131c8792a2c55e38033a20863f7b39fabcf3c25fa1235",
+      "bytes": 85051,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原大物B光学与量子题库_年份未核/量子1.pdf",
+      "sha256": "97edd76d84d194492fd50b0a692f1dac6475f4e1aaf6f07fb5c47afada38e6a2",
+      "original_sha256": "97edd76d84d194492fd50b0a692f1dac6475f4e1aaf6f07fb5c47afada38e6a2",
+      "bytes": 182571,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原大物B光学与量子题库_年份未核/量子1答案.pdf",
+      "sha256": "5a0941d5726ffc44b35e881a59a0b80eeb9b6b9e23a3e938d3c440d86c540494",
+      "original_sha256": "5a0941d5726ffc44b35e881a59a0b80eeb9b6b9e23a3e938d3c440d86c540494",
+      "bytes": 159610,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原大物B光学与量子题库_年份未核/量子2.pdf",
+      "sha256": "1ec50fcbe4a1e1b873e7c900dcbe7258bfa3fdde51848eec3dbbb5932c31423d",
+      "original_sha256": "1ec50fcbe4a1e1b873e7c900dcbe7258bfa3fdde51848eec3dbbb5932c31423d",
+      "bytes": 143243,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原大物B光学与量子题库_年份未核/量子2答案.pdf",
+      "sha256": "0c7ec5eed530edd4425c400085db5bb3aa846d9d003901e14d05b015a7046a6d",
+      "original_sha256": "0c7ec5eed530edd4425c400085db5bb3aa846d9d003901e14d05b015a7046a6d",
+      "bytes": 156734,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原大物B光学与量子题库_年份未核/量子3.pdf",
+      "sha256": "745ee397d74bde69af350dbf0663f852ff0d3735c4b3dcb019c27fc427162b1b",
+      "original_sha256": "745ee397d74bde69af350dbf0663f852ff0d3735c4b3dcb019c27fc427162b1b",
+      "bytes": 118585,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原大物B光学与量子题库_年份未核/量子3_答案2.pdf",
+      "sha256": "4cce0060757dd8552ffe26ca7fd18d6d763af69e87f7892f9fb323e6d4daffd9",
+      "original_sha256": "4cce0060757dd8552ffe26ca7fd18d6d763af69e87f7892f9fb323e6d4daffd9",
+      "bytes": 122647,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原大物B光学与量子题库_年份未核/量子3答案.pdf",
+      "sha256": "0ae0fda3471e16bfdcdbd3889634f397f63034bdd21eddb8574990be4b0b1075",
+      "original_sha256": "0ae0fda3471e16bfdcdbd3889634f397f63034bdd21eddb8574990be4b0b1075",
+      "bytes": 122638,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原大物B光学与量子题库_年份未核/量子4.pdf",
+      "sha256": "2c7a3e87743074218845adc321acbcc93c206cb72d582f742926bd2155d0afe9",
+      "original_sha256": "2c7a3e87743074218845adc321acbcc93c206cb72d582f742926bd2155d0afe9",
+      "bytes": 99362,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原大物B光学与量子题库_年份未核/量子4答案.pdf",
+      "sha256": "b498df6a0e53e34b5a8eaed9da9075276cfc62e4cd02c8292b5d0b8223e24430",
+      "original_sha256": "b498df6a0e53e34b5a8eaed9da9075276cfc62e4cd02c8292b5d0b8223e24430",
+      "bytes": 92059,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原大物B光学与量子题库_年份未核/量子5.pdf",
+      "sha256": "a871a3223eb0649abe092fa76c8cb6dc2c2bf30ac65b4a64fa370f2fd801cfc7",
+      "original_sha256": "a871a3223eb0649abe092fa76c8cb6dc2c2bf30ac65b4a64fa370f2fd801cfc7",
+      "bytes": 94590,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原大物B光学与量子题库_年份未核/量子5答案.pdf",
+      "sha256": "6f70ed1cc0f2751dc6d207a71c9edc357669a104611e944743dca160381dbf1c",
+      "original_sha256": "6f70ed1cc0f2751dc6d207a71c9edc357669a104611e944743dca160381dbf1c",
+      "bytes": 72689,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原大物B光学与量子题库_年份未核/量子6.pdf",
+      "sha256": "d5b4e317875eb289018870cae55549539a89e9f57b11519e5f9bebfdec8a8e84",
+      "original_sha256": "d5b4e317875eb289018870cae55549539a89e9f57b11519e5f9bebfdec8a8e84",
+      "bytes": 78521,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原大物B光学与量子题库_年份未核/量子6答案.pdf",
+      "sha256": "de485d8d9f1feef972821437883d200618d7c0e8343875194464a4e5799f54d1",
+      "original_sha256": "de485d8d9f1feef972821437883d200618d7c0e8343875194464a4e5799f54d1",
+      "bytes": 73950,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原大物B光学与量子题库_年份未核/量子7.pdf",
+      "sha256": "5ef8aff2238a0f209cc52e07369bc5e7ce69518222dce27fc9f877f8b12aa921",
+      "original_sha256": "5ef8aff2238a0f209cc52e07369bc5e7ce69518222dce27fc9f877f8b12aa921",
+      "bytes": 74024,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原大物B光学与量子题库_年份未核/量子7答案.pdf",
+      "sha256": "db631fe6f3142d06a6cfc0f1388142b28625a50f9ff85a97fabda9132d149d79",
+      "original_sha256": "db631fe6f3142d06a6cfc0f1388142b28625a50f9ff85a97fabda9132d149d79",
+      "bytes": 83322,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原大物B光学与量子题库_年份未核/量子基外.pdf",
+      "sha256": "8f1eddee6c3969f156154baf427e0c3c9aabdffe6a6f39fd39003e4533e5890e",
+      "original_sha256": "8f1eddee6c3969f156154baf427e0c3c9aabdffe6a6f39fd39003e4533e5890e",
+      "bytes": 238272,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原大物B光学与量子题库_年份未核/量子基外答案.pdf",
+      "sha256": "c4ea454ec37581ff89eff08e92f761467284e3b66679d34203cee0bd982da8c6",
+      "original_sha256": "c4ea454ec37581ff89eff08e92f761467284e3b66679d34203cee0bd982da8c6",
+      "bytes": 193489,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原大物B十专题题库_年份未核/README.md",
+      "sha256": "f2de81f67d0c9ee33e81181559064e2eadd13926f5af51ead04e99c5e612f0ae",
+      "original_sha256": "f2de81f67d0c9ee33e81181559064e2eadd13926f5af51ead04e99c5e612f0ae",
+      "bytes": 4013,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原大物B十专题题库_年份未核/清华大学《大学物理》习题库试题及答案__01_力学习题.docx",
+      "sha256": "bd8097a9d11024054c60b5046258bade54b41315d9c545f9a1aa7e268091cdd0",
+      "original_sha256": "bd8097a9d11024054c60b5046258bade54b41315d9c545f9a1aa7e268091cdd0",
+      "bytes": 374355,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原大物B十专题题库_年份未核/清华大学《大学物理》习题库试题及答案__02_刚体习题.docx",
+      "sha256": "c7c5edc0f172bef67443e79a2331866e7abc1470e815d8794d88898b5c200c2d",
+      "original_sha256": "c7c5edc0f172bef67443e79a2331866e7abc1470e815d8794d88898b5c200c2d",
+      "bytes": 74742,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原大物B十专题题库_年份未核/清华大学《大学物理》习题库试题及答案__03_相对论习题.docx",
+      "sha256": "55aae8a2a58f8b5c155cc7a739deecf55afa54b90f41ac0c9cafc973b0a2b1de",
+      "original_sha256": "55aae8a2a58f8b5c155cc7a739deecf55afa54b90f41ac0c9cafc973b0a2b1de",
+      "bytes": 51100,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原大物B十专题题库_年份未核/清华大学《大学物理》习题库试题及答案__04_机械振动习题.docx",
+      "sha256": "a48a640c647b3db18ec3fa1b872748ebb0755b7e5727908760edc740a9f9024b",
+      "original_sha256": "a48a640c647b3db18ec3fa1b872748ebb0755b7e5727908760edc740a9f9024b",
+      "bytes": 154159,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原大物B十专题题库_年份未核/清华大学《大学物理》习题库试题及答案__05_机械波习题.docx",
+      "sha256": "f59b05a88ef482f17ab76edfdb1b6b11bd751bcb4e9755b67713fdce2035b7f6",
+      "original_sha256": "f59b05a88ef482f17ab76edfdb1b6b11bd751bcb4e9755b67713fdce2035b7f6",
+      "bytes": 272170,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原大物B十专题题库_年份未核/清华大学《大学物理》习题库试题及答案__06_光学习题.pdf",
+      "sha256": "8984a53b1cd44f819f10a4ab6bfecc89d9e414efd896663caa2f5a2f59f8d2e1",
+      "original_sha256": "8984a53b1cd44f819f10a4ab6bfecc89d9e414efd896663caa2f5a2f59f8d2e1",
+      "bytes": 778634,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原大物B十专题题库_年份未核/清华大学《大学物理》习题库试题及答案__07_热学习题.docx",
+      "sha256": "870f49edb775b43be6bb9ac084941ddb025538c113ce87f432600690e548ce38",
+      "original_sha256": "870f49edb775b43be6bb9ac084941ddb025538c113ce87f432600690e548ce38",
+      "bytes": 180960,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原大物B十专题题库_年份未核/清华大学《大学物理》习题库试题及答案__08_电学习题答案.docx",
+      "sha256": "040cd206736311110a6f8c4abc336b5913f0f611e03cd46fcade9f0b7ed066a0",
+      "original_sha256": "040cd206736311110a6f8c4abc336b5913f0f611e03cd46fcade9f0b7ed066a0",
+      "bytes": 437280,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原大物B十专题题库_年份未核/清华大学《大学物理》习题库试题及答案__09_磁学习题.docx",
+      "sha256": "43e21efaa5699cd0cec5af7ebe1bbf758217d9755010aa2b5fb8225390c8138f",
+      "original_sha256": "43e21efaa5699cd0cec5af7ebe1bbf758217d9755010aa2b5fb8225390c8138f",
+      "bytes": 405511,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原大物B十专题题库_年份未核/清华大学《大学物理》习题库试题及答案__10_量子力学习题.docx",
+      "sha256": "122287d53ffeaae0e4d5efcb9f01ec1a05a74cf38ba01932cdfe2d4550fba4ef",
+      "original_sha256": "122287d53ffeaae0e4d5efcb9f01ec1a05a74cf38ba01932cdfe2d4550fba4ef",
+      "bytes": 182751,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原大物B题库_Argo排版_年份未核/README.md",
+      "sha256": "cec1fbecd1118b7405b64b675e8d78768c2603ba6fdc66da365055b41c6f8204",
+      "original_sha256": "fe92e11906ce31a4b1dcdaf00cf08728144b528b8e1adcd4c36904151ab80ab4",
+      "bytes": 1453,
+      "kind": "provenance"
+    }
+  ],
+  "omitted": [
+    {
+      "path": "习题与解答/原大物B题库_Argo排版_年份未核/清华大学大学物理题库（latex排版by Argo）.pdf",
+      "sha256": "4a7c7d42731c7803f6722c5dfd2ee1aabb68efec0bbadfe0374d0ffdace3350d",
+      "bytes": 15443140,
+      "reason": "单文件超过10MiB"
+    }
+  ],
+  "link_adaptations": [
+    {
+      "from": "大物B/README_大物B题库对照_第33批.md",
+      "original": "README_大学物理B章节题库_第32批.md",
+      "cloud": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/README_%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86B%E7%AB%A0%E8%8A%82%E9%A2%98%E5%BA%93_%E7%AC%AC32%E6%89%B9.md"
+    },
+    {
+      "from": "习题与解答/原大物B题库_Argo排版_年份未核/README.md",
+      "original": "习题与解答/原大物B题库_Argo排版_年份未核/清华大学大学物理题库（latex排版by Argo）.pdf",
+      "cloud": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E5%8E%9F%E5%A4%A7%E7%89%A9B%E9%A2%98%E5%BA%93_Argo%E6%8E%92%E7%89%88_%E5%B9%B4%E4%BB%BD%E6%9C%AA%E6%A0%B8/"
+    }
+  ]
+}
