@@ -1,0 +1,112 @@
+{
+  "summary": {
+    "source_files": 0,
+    "provenance": 5,
+    "selected_files": 5,
+    "excluded_textbooks": 10,
+    "old_root_readme_kept_in_git_history": true,
+    "protected_previous_files_unchanged": 7,
+    "local_links_verified": 9,
+    "cloud_links_adapted": 12,
+    "only_accepted_mapping_used": true
+  },
+  "files": [
+    {
+      "path": "物理类/光学/README.md",
+      "sha256": "a5a25173ce42e4693d07552f675605656988dfc271a90848d95217990da82aca",
+      "original_sha256": "f768661ad245f4268ba48d4d60b980e5c929087b5d727c0ee9c4f4fc73863766",
+      "bytes": 1621,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/光学/README_光学参考书_第40批.md",
+      "sha256": "afba6d71926c55c47ef872bcf22b1d025270b5af5a7e605318bbaf2ccd9a18fa",
+      "original_sha256": "0e0ba192d9ff393b35932c7ae935f43624f5f68cd873dcd142765834b384cd65",
+      "bytes": 1331,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/光学/教材/README.md",
+      "sha256": "8d3efa3f34c5f2ddca328c89739f000d19f4c27b14dee1221c4f50328827d0cc",
+      "original_sha256": "8d3efa3f34c5f2ddca328c89739f000d19f4c27b14dee1221c4f50328827d0cc",
+      "bytes": 943,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/光学/教材/激光与光子学/README.md",
+      "sha256": "759a3eab3e256c25bff31890d1ed7679715f79cbf5388d2dec0fa551721a7964",
+      "original_sha256": "a9e070dc318dbd8a964f82060bf502a63d632f4d8acf321f56267ba44238d20a",
+      "bytes": 3524,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/光学/教材/综合光学/README.md",
+      "sha256": "a02c35475c407c786d6955e1fd49ddedf787d267476b4760bdb9bfe55e2d0709",
+      "original_sha256": "1cf144d27e822ac2e0ae6883238a249556d314a569e373c169766188a57316b2",
+      "bytes": 2594,
+      "kind": "provenance"
+    }
+  ],
+  "link_adaptations": [
+    {
+      "from": "README.md",
+      "target": "_过程材料/旧版/README_第28批_20261018.md",
+      "cloud": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%89%E5%AD%A6/_%E8%BF%87%E7%A8%8B%E6%9D%90%E6%96%99/%E6%97%A7%E7%89%88/"
+    },
+    {
+      "from": "README_光学参考书_第40批.md",
+      "target": "_过程材料/旧版/README_第28批_20261018.md",
+      "cloud": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%89%E5%AD%A6/_%E8%BF%87%E7%A8%8B%E6%9D%90%E6%96%99/%E6%97%A7%E7%89%88/"
+    },
+    {
+      "from": "教材/激光与光子学/README.md",
+      "target": "教材/激光与光子学/激光原理 by 周炳琨, 高以智,陈倜嵘, 陈家骅 (z-lib.org).pdf",
+      "cloud": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%89%E5%AD%A6/%E6%95%99%E6%9D%90/%E6%BF%80%E5%85%89%E4%B8%8E%E5%85%89%E5%AD%90%E5%AD%A6/"
+    },
+    {
+      "from": "教材/激光与光子学/README.md",
+      "target": "教材/激光与光子学/Principles of Lasers by Orazio Svelto (z-lib.org).pdf",
+      "cloud": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%89%E5%AD%A6/%E6%95%99%E6%9D%90/%E6%BF%80%E5%85%89%E4%B8%8E%E5%85%89%E5%AD%90%E5%AD%A6/"
+    },
+    {
+      "from": "教材/激光与光子学/README.md",
+      "target": "教材/激光与光子学/Optics, Photonics and Laser Technology by Paulo A. Ribeiro, Maria Raposo (z-lib.org).pdf",
+      "cloud": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%89%E5%AD%A6/%E6%95%99%E6%9D%90/%E6%BF%80%E5%85%89%E4%B8%8E%E5%85%89%E5%AD%90%E5%AD%A6/"
+    },
+    {
+      "from": "教材/激光与光子学/README.md",
+      "target": "教材/激光与光子学/Lasers fundamentals and applications by K. Thyagarajan, Ajoy Ghatak (auth.) (z-lib.org).pdf",
+      "cloud": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%89%E5%AD%A6/%E6%95%99%E6%9D%90/%E6%BF%80%E5%85%89%E4%B8%8E%E5%85%89%E5%AD%90%E5%AD%A6/"
+    },
+    {
+      "from": "教材/激光与光子学/README.md",
+      "target": "教材/激光与光子学/Laser Physics by Milonni P.W., Eberly J.H. (z-lib.org).pdf",
+      "cloud": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%89%E5%AD%A6/%E6%95%99%E6%9D%90/%E6%BF%80%E5%85%89%E4%B8%8E%E5%85%89%E5%AD%90%E5%AD%A6/"
+    },
+    {
+      "from": "教材/激光与光子学/README.md",
+      "target": "教材/激光与光子学/Introduction to laser technology by C. Breck Hitz, James J. Ewing, Jeff Hecht (z-lib.org).pdf",
+      "cloud": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%89%E5%AD%A6/%E6%95%99%E6%9D%90/%E6%BF%80%E5%85%89%E4%B8%8E%E5%85%89%E5%AD%90%E5%AD%A6/"
+    },
+    {
+      "from": "教材/综合光学/README.md",
+      "target": "教材/综合光学/衍射、傅里叶光学及成像.pdf by 衍射、傅里叶光学及成像.pdf (z-lib.org).pdf",
+      "cloud": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%89%E5%AD%A6/%E6%95%99%E6%9D%90/%E7%BB%BC%E5%90%88%E5%85%89%E5%AD%A6/"
+    },
+    {
+      "from": "教材/综合光学/README.md",
+      "target": "教材/综合光学/光学原理：光的传播、干涉和衍射的电磁理论（第7版）清晰版.pdf",
+      "cloud": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%89%E5%AD%A6/%E6%95%99%E6%9D%90/%E7%BB%BC%E5%90%88%E5%85%89%E5%AD%A6/"
+    },
+    {
+      "from": "教材/综合光学/README.md",
+      "target": "教材/综合光学/光学原理  光的传播干涉和衍射的电磁理论_14066334.pdf",
+      "cloud": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%89%E5%AD%A6/%E6%95%99%E6%9D%90/%E7%BB%BC%E5%90%88%E5%85%89%E5%AD%A6/"
+    },
+    {
+      "from": "教材/综合光学/README.md",
+      "target": "教材/综合光学/光学_母国光 战元龄.pdf",
+      "cloud": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%89%E5%AD%A6/%E6%95%99%E6%9D%90/%E7%BB%BC%E5%90%88%E5%85%89%E5%AD%A6/"
+    }
+  ]
+}
