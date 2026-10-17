@@ -1,0 +1,169 @@
+{
+  "date": "2026-10-18",
+  "course": "数学类/几何与对称",
+  "summary": {
+    "batch": 24,
+    "course": "几何与对称",
+    "selected_files": 22,
+    "source_files": 7,
+    "provenance": 15,
+    "excluded_files": 20,
+    "legacy_paths_merged": 0
+  },
+  "files": [
+    {
+      "path": "数学类/几何与对称/作业/2024-2025秋季学期/作业 1/作业附件/几何与对称作业1.pdf",
+      "sha256": "dc7ea560460305c4f7f8c90817c8fa92e32926da5c86aacc023acb6176d1b605",
+      "original_sha256": "dc7ea560460305c4f7f8c90817c8fa92e32926da5c86aacc023acb6176d1b605",
+      "bytes": 56503,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/几何与对称/作业/2024-2025秋季学期/作业 2/作业附件/几何与对称作业2.pdf",
+      "sha256": "82a69f6bce98560abb46dbd306bd9af2ad1e9c83c55ca4921e6616f8ee765ef6",
+      "original_sha256": "82a69f6bce98560abb46dbd306bd9af2ad1e9c83c55ca4921e6616f8ee765ef6",
+      "bytes": 59653,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/几何与对称/作业/2024-2025秋季学期/作业 3/作业附件/几何与对称作业3.pdf",
+      "sha256": "22332971e32ed479f48a4aff5af7a70ec4ad47250417e4ccb2e613d3ce8e2c06",
+      "original_sha256": "22332971e32ed479f48a4aff5af7a70ec4ad47250417e4ccb2e613d3ce8e2c06",
+      "bytes": 74047,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/几何与对称/作业/2024-2025秋季学期/作业 4/作业附件/几何与对称作业4.pdf",
+      "sha256": "6777ad9627d8189f8f1799cdfd4dea97d41ff529341f5d9f4146e9e6dbef655c",
+      "original_sha256": "6777ad9627d8189f8f1799cdfd4dea97d41ff529341f5d9f4146e9e6dbef655c",
+      "bytes": 111768,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/几何与对称/复习/2024-2025秋季学期/自测题/几何与对称自测题.pdf",
+      "sha256": "63c7f7aad4ab083b4e6f5dcfba7582702983a4dd49f20c768e9ef0f5371fcda7",
+      "original_sha256": "63c7f7aad4ab083b4e6f5dcfba7582702983a4dd49f20c768e9ef0f5371fcda7",
+      "bytes": 54891,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/几何与对称/复习/2024-2025秋季学期/自测题/自测题答案v2.pdf",
+      "sha256": "907dd223ad0258e4cfc26b44346c482c0d0dfd5edb966c3f5d51f4b0a869dbc6",
+      "original_sha256": "907dd223ad0258e4cfc26b44346c482c0d0dfd5edb966c3f5d51f4b0a869dbc6",
+      "bytes": 994824,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/几何与对称/复习/2024-2025秋季学期/个人复习/几对复习.docx",
+      "sha256": "de279fc3c8b7166097d90c85f906aade57d785df50ac0e59a58211fb4dd1e388",
+      "original_sha256": "de279fc3c8b7166097d90c85f906aade57d785df50ac0e59a58211fb4dd1e388",
+      "bytes": 13557,
+      "kind": "source"
+    },
+    {
+      "path": "数学类/几何与对称/README.md",
+      "sha256": "3a4763817dd8627eecd3f2e2d527522393adeb4b32851340242a5cb1511e300c",
+      "original_sha256": "5f94b16f6c8662171f8591ca31d94dbf7a6d45445244fdb14872069785125bc7",
+      "bytes": 443,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/几何与对称/作业/README.md",
+      "sha256": "caa228ecdcec1190ea2ac4254a7e44d826d56de5e089a410e75060619f8edc7f",
+      "original_sha256": "eca7ffa8bd90ad9d1166c6675dcc133c3c9317e0016dc4910d21d621fdd2460f",
+      "bytes": 651,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/几何与对称/作业/2024-2025秋季学期/README.md",
+      "sha256": "05a662a35cf68da636dcfe6dfddf7ba06e226fe85a5dba01e2c1f60203a8cf71",
+      "original_sha256": "80d06ba92d5d012e5436e628aa6223448020e9a459a6fa01959939ffbc0dedfb",
+      "bytes": 666,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/几何与对称/作业/2024-2025秋季学期/作业 1/README.md",
+      "sha256": "1023bf03d8f842d30efd52e5ded2b0b3d5214af8d62d5f85cf92d6824027e48d",
+      "original_sha256": "a24deaf9e06d1ae1b8ccf03410333a7f1a0b61ee2f702d59e30ef7c79c54d6da",
+      "bytes": 653,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/几何与对称/作业/2024-2025秋季学期/作业 1/作业附件/README.md",
+      "sha256": "5989202f927c9b663f755e785bf0cfe7c061adc187cdbe75f40e42ce6f3c5366",
+      "original_sha256": "200155ec4844cf8b29102b2ce9ad8b9e7b10d6cf22c9d33720fdf391965cf998",
+      "bytes": 837,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/几何与对称/作业/2024-2025秋季学期/作业 2/README.md",
+      "sha256": "101833c75d58e7c899ae63cd74d1b164d776d420b82c19257bf3ef2f7925c180",
+      "original_sha256": "81c90e1295656e0fbff3dab6909d382d07dd34067e8bc30e9eb0201fa2cd9081",
+      "bytes": 653,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/几何与对称/作业/2024-2025秋季学期/作业 2/作业附件/README.md",
+      "sha256": "0ce6e6819d2fe6e51626b0c022c2ad15cf8b1ff64f94992e6b52e34308b81735",
+      "original_sha256": "d776edd2ab9e0915b5a4ba9c96ea03ea12934ff63bc6b1035617adc819738ef5",
+      "bytes": 837,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/几何与对称/作业/2024-2025秋季学期/作业 3/README.md",
+      "sha256": "26cec8384cb692ed9006982fe25f87db921d28d586bef0cca53a5879ab2b902f",
+      "original_sha256": "bec8e3ae1c09b93af9903a9076770947ba72bd96ebce5da5957f3be8ac237458",
+      "bytes": 653,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/几何与对称/作业/2024-2025秋季学期/作业 3/作业附件/README.md",
+      "sha256": "3f75764013baf27f0ed338a9087c907ae85bbec7ec18ff019b5ff0b1077c3b9a",
+      "original_sha256": "7581ed67ad65d25a7f4c3a3259137353721da620962fc5db9bad8c053c652b01",
+      "bytes": 837,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/几何与对称/作业/2024-2025秋季学期/作业 4/README.md",
+      "sha256": "bc2153dccfbcb0a862af255fb0de5b550d55f3211bdf82ddf9d267fd238aeff8",
+      "original_sha256": "2c7cc556e1ff38c0f2d83c05ec864c020c1d8f87daf742f7062941b1c9dbaa11",
+      "bytes": 653,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/几何与对称/作业/2024-2025秋季学期/作业 4/作业附件/README.md",
+      "sha256": "611f8d583e5c384b325b17086f3571aca682b55d4dcca851911be183d0e67414",
+      "original_sha256": "ed22b1ef2402942f68af8944a00363a15cba829f7f542d68eb202fb05659f937",
+      "bytes": 837,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/几何与对称/复习/README.md",
+      "sha256": "273ec042d7866cf8771a0ce84b0936a24cebf1f2de905ea2f038d411c544b22a",
+      "original_sha256": "e4b7c38d660fabbcd18e508121db30ce4a533fc870117659aa9de7553403e9e2",
+      "bytes": 212,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/几何与对称/复习/2024-2025秋季学期/README.md",
+      "sha256": "4d04566effd119b98745294313ae13d6e83d9089fcfff07bc820af7cb2f7068d",
+      "original_sha256": "036d14c6e3273bed35d4c66abbba3e4824eb3f35638c943da9e5de5d7c0a2045",
+      "bytes": 227,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/几何与对称/复习/2024-2025秋季学期/个人复习/README.md",
+      "sha256": "885506b2e69fdb77cdbe31af9502e45aac3402240015b52ef02169b7e64300c0",
+      "original_sha256": "f56b0c6a18fc074990e17c9469aec2c6ba4c517d60ea5a8f4e47afa23972eac9",
+      "bytes": 567,
+      "kind": "provenance"
+    },
+    {
+      "path": "数学类/几何与对称/复习/2024-2025秋季学期/自测题/README.md",
+      "sha256": "36e635800a8619687d07bbd990cbc37ed6453acba8fb48c69571523ed7182eb2",
+      "original_sha256": "d201bf7731a4a583ff10a0a158e6169a5074e55303bc5be39e1e8978a17284a0",
+      "bytes": 708,
+      "kind": "provenance"
+    }
+  ]
+}
