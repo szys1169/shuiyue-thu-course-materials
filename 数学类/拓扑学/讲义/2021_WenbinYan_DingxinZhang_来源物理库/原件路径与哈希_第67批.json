@@ -1,0 +1,36 @@
+{
+  "batch": 67,
+  "originals": [
+    {
+      "path": "数学类/拓扑学/讲义/2021_WenbinYan_DingxinZhang_来源物理库/main.pdf",
+      "bytes": 1452684,
+      "sha256": "fbd3344a62b1822f06fdfe164f8bde0a22755c8e675de4d28ec8928d9e91f65f",
+      "originalPath": "物理类/基础拓扑学/main.pdf",
+      "sourceDirectoryUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%9F%BA%E7%A1%80%E6%8B%93%E6%89%91%E5%AD%A6",
+      "cloudDirectoryUrl": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%8B%93%E6%89%91%E5%AD%A6/%E8%AE%B2%E4%B9%89/2021_WenbinYan_DingxinZhang_%E6%9D%A5%E6%BA%90%E7%89%A9%E7%90%86%E5%BA%93",
+      "pages": 72,
+      "gitRawAllowed": false
+    },
+    {
+      "path": "数学类/拓扑学/教材/补充参考/Charles_Nash_拓扑与物理史_1997v4/nash-topology.pdf",
+      "bytes": 642513,
+      "sha256": "4498e4047473a0b6820e4d81009416a7ed3231feefb3e6e0b403256695eba253",
+      "originalPath": "物理类/基础拓扑学/nash-topology.pdf",
+      "sourceDirectoryUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%9F%BA%E7%A1%80%E6%8B%93%E6%89%91%E5%AD%A6",
+      "cloudDirectoryUrl": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%8B%93%E6%89%91%E5%AD%A6/%E6%95%99%E6%9D%90/%E8%A1%A5%E5%85%85%E5%8F%82%E8%80%83/Charles_Nash_%E6%8B%93%E6%89%91%E4%B8%8E%E7%89%A9%E7%90%86%E5%8F%B2_1997v4",
+      "pages": 60,
+      "gitRawAllowed": false
+    },
+    {
+      "path": "数学类/拓扑学/讲义/2021_WenbinYan_DingxinZhang_来源物理库/拓扑学 讲义.pdf",
+      "bytes": 1440076,
+      "sha256": "bfb2d1bdf28c5c9943f3c1410448bff1bf7dddbffd5a329a2811ce5c03f84385",
+      "originalPath": "物理类/基础拓扑学/拓扑学 讲义.pdf",
+      "sourceDirectoryUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%9F%BA%E7%A1%80%E6%8B%93%E6%89%91%E5%AD%A6",
+      "cloudDirectoryUrl": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%8B%93%E6%89%91%E5%AD%A6/%E8%AE%B2%E4%B9%89/2021_WenbinYan_DingxinZhang_%E6%9D%A5%E6%BA%90%E7%89%A9%E7%90%86%E5%BA%93",
+      "pages": 72,
+      "gitRawAllowed": false
+    }
+  ],
+  "scope": "3 source/target SHA identical originals, server moved, original bytes/names preserved"
+}
