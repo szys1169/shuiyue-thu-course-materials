@@ -1,0 +1,1850 @@
+{
+  "batch": 59,
+  "source": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/%E4%B9%A6%E7%B1%8D",
+  "publicPolicy": "metadata only; all original and extracted textbook files private",
+  "originalCount": 6,
+  "originalBytes": 277568079,
+  "extractedCount": 199,
+  "extractedBytes": 35333677,
+  "files": [
+    {
+      "path": "参考阅读/高等量子力学/倪光炯_陈苏卿/第二版_2004-01/研究生教学用书-高等量子力学(第2版)-倪光炯＆陈苏卿-复旦大学出版社-2004.pdf",
+      "size": 183077344,
+      "sha256": "6a51dbc8de6ce2079a883f79d1644328f59aeb0c8a74234363a4feae10ea9bb0",
+      "oldPath": "书籍/研究生教学用书-高等量子力学(第2版)-倪光炯＆陈苏卿-复旦大学出版社-2004.pdf",
+      "operation": "serverMove",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/倪光炯_陈苏卿/第二版_2004-01/研究生教学用书-高等量子力学(第2版)-倪光炯＆陈苏卿-复旦大学出版社-2004.djvu",
+      "size": 14361494,
+      "sha256": "e964a13c5518ddc3cfd607e00d0964f94b5d2e8bc0a81c7da4a8521ad18332fb",
+      "oldPath": "书籍/研究生教学用书-高等量子力学(第2版)-倪光炯＆陈苏卿-复旦大学出版社-2004.djvu",
+      "operation": "serverMove",
+      "public": false
+    },
+    {
+      "path": "_过程材料/原始压缩包/第59批量子余项/现代原子核物理-高等量子力学-马中玉-哈尔滨工程大学出版社-2013.zip",
+      "size": 27124186,
+      "sha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "oldPath": "书籍/现代原子核物理-高等量子力学-马中玉-哈尔滨工程大学出版社-2013.zip",
+      "operation": "serverMove",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/现代原子核物理-高等量子力学-马中玉-哈尔滨工程大学出版社-2013.djvu",
+      "size": 35343334,
+      "sha256": "3d5c5e9948a2f2b96dfe84507583d810b55194324bb7044733b00280602464e2",
+      "oldPath": "书籍/现代原子核物理-高等量子力学-马中玉-哈尔滨工程大学出版社-2013.djvu",
+      "operation": "serverMove",
+      "public": false
+    },
+    {
+      "path": "教材/汪德新_来源名/DJVU_版本出版年未核_原名第3版2008/量子力学(第3版)-汪德新-科学出版社-2008.djvu",
+      "size": 7538091,
+      "sha256": "3b2df3f0bd8a856717e1eb294714935532558d69de3f7bc67e5b74ee427ecfe9",
+      "oldPath": "书籍/量子力学(第3版)-汪德新-科学出版社-2008.djvu",
+      "operation": "serverMove",
+      "public": false
+    },
+    {
+      "path": "教材/张永德_来源名/DJVU_版本出版年未核_原名第2版2008/量子力学(第2版)-张永德-科学出版社-2008.djvu",
+      "size": 10123630,
+      "sha256": "36c4050696882208ad09085bf84f364469139aba2a8cf0a3611cd52d1d36d4d7",
+      "oldPath": "书籍/量子力学(第2版)-张永德-科学出版社-2008.djvu",
+      "operation": "serverMove",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/!00001.pdg",
+      "size": 185605,
+      "sha256": "0d1927c639611f86854ae5d27697de33416778fe857327c312af039cba0b2fba",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "!00001.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/!00002.pdg",
+      "size": 227070,
+      "sha256": "a117314b73e35238b46d9500b48ecfbff039022e77fa4f9d0f0efa679cc3e64c",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "!00002.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000001.pdg",
+      "size": 316450,
+      "sha256": "6f83189bd54ef4a71bfe1e87c7f8355a357ed3a1ed3e9b5bedc1232b18aefd5d",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000001.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000002.pdg",
+      "size": 317998,
+      "sha256": "0c7316afb26261ed208e1f62ccce0776fd48afb85423a307012c1ecf4850ea63",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000002.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000003.pdg",
+      "size": 233507,
+      "sha256": "9a6ac395f991fbc89799e17d01f55d8cccbd12e6d8cc7ef7df72b60146cd63e7",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000003.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000004.pdg",
+      "size": 190456,
+      "sha256": "77ff3cc13899f04b4feb8f0b5f389ad662f5717594ba16a27f1efeed0cb8690f",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000004.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000005.pdg",
+      "size": 182225,
+      "sha256": "fdbb727a0c9ed837c24f1678c51255b7231d01fea8be5954e40bc325c4d4edac",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000005.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000006.pdg",
+      "size": 215785,
+      "sha256": "40d2ff346b1fc809404561a1a5709cfdf1ee4e5ddcdfc849ffb387e9218b1922",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000006.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000007.pdg",
+      "size": 247890,
+      "sha256": "4f945f0df4e1c660eb5f88991940b691d0ebeb8c2b7b1f799ea607e081ef7080",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000007.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000008.pdg",
+      "size": 194012,
+      "sha256": "9fb6aafc3bcc582b352fd5bfd14104a0a30e8a95a83814f2ef5ac92b0e3a2419",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000008.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000009.pdg",
+      "size": 180216,
+      "sha256": "6a6a63c248d9d8a919dbde3857dcc08a6cf23b9a962e26c09a0d25f07812ec76",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000009.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000010.pdg",
+      "size": 222708,
+      "sha256": "327522d8cf40047e5a1242e13115bd5285845ec7374005254069e4d27a1fe3a1",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000010.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000011.pdg",
+      "size": 161385,
+      "sha256": "30ba30460b8f4c652969740a4628002d404e2f2e1fcf0321206b353595062fb0",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000011.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000012.pdg",
+      "size": 192655,
+      "sha256": "64459329600261fa13327ccc2035e89f7c1d0fcc3e47fedb7fd55ea20dff9732",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000012.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000013.pdg",
+      "size": 196173,
+      "sha256": "ef5d995d36c9c3d629048d3eeb4f11eb81e235b2f11e1910208d276222c91172",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000013.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000014.pdg",
+      "size": 190569,
+      "sha256": "3821ffc7c39db812a2e6014b6ead78c6905d96ad44e507e6572e9c189350becd",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000014.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000015.pdg",
+      "size": 203147,
+      "sha256": "e8b8f7d165ac3928d20bd5caf04457ac4b68b1499d13e1abf8141afa6510f2d9",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000015.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000016.pdg",
+      "size": 182764,
+      "sha256": "f195e459963bbe8b1e3b46be670b9022962175adae065675236546ed81f9673c",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000016.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000017.pdg",
+      "size": 199461,
+      "sha256": "83236cdf14d6691757b5b197bf65ef117ebc14e3a79b99d50ecd257b4ef54b50",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000017.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000018.pdg",
+      "size": 165734,
+      "sha256": "942bb8194defe6520ae9128c4653a803747201a7828f9ba389b5af77db3658b3",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000018.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000019.pdg",
+      "size": 150010,
+      "sha256": "bbe30704600f0e50481ec56d88e33e6d497a76f2409aa0d89744de4897c8946a",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000019.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000020.pdg",
+      "size": 190504,
+      "sha256": "ff8e468f3cac1ee19783601baf26a7d3124d0793a43526abe75426a6a0e46ec8",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000020.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000021.pdg",
+      "size": 156927,
+      "sha256": "79d0b17704887808239071cea00d6b119feebdbd3274f95d41820feed79712a2",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000021.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000022.pdg",
+      "size": 102638,
+      "sha256": "34bcac8e09bdde0d52a2fd3ba0aebb419ca15e0da89690ca38d9636d0412bec3",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000022.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000023.pdg",
+      "size": 209886,
+      "sha256": "70db5af5c573c2e8ec121eb16b15d90e2499d891f395138b50755486a09e9586",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000023.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000024.pdg",
+      "size": 185660,
+      "sha256": "022508c84ba68390055054a35789408d7b877ee5c7cc9c17dbaf99b3d8722371",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000024.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000025.pdg",
+      "size": 191586,
+      "sha256": "92abc47ef20a93812ab5071fed9055ced86bb4586fd8146c92d52aa5f3027b7d",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000025.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000026.pdg",
+      "size": 211742,
+      "sha256": "c9f63ad9fc22d4cad57ef6e3e41c38caf30b640c4b5eee3fd756a9f025b082c8",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000026.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000027.pdg",
+      "size": 223786,
+      "sha256": "9a4a40a64fa920c45940cb4530643b50a4862a67ec933fcf3289f8f484051b3e",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000027.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000028.pdg",
+      "size": 209491,
+      "sha256": "ba1a44f9d4a5d186a54cbc47c9f9202eb989de82d3d14444e6cd569cfcdf65da",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000028.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000029.pdg",
+      "size": 154960,
+      "sha256": "18ae8f3aa7dd56c27a11d9a9fac203bc1e05d47470f65143be7e81df639c25b7",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000029.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000030.pdg",
+      "size": 174727,
+      "sha256": "ea172f7ede1b3a4a9cc5a3f75609bd7273001c08269b9026bf58875668cc973e",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000030.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000031.pdg",
+      "size": 166670,
+      "sha256": "88f5ef846c238a57652cb0b07cdf03a64d098dfb099414d62f08b529ce34241a",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000031.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000032.pdg",
+      "size": 167428,
+      "sha256": "94f8ae8da2e6d467d9b6f6bcebf0853fc2a19d9a3df648ed8237f5f31f38d865",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000032.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000033.pdg",
+      "size": 176912,
+      "sha256": "a8aa09bca28a73758f13df61d569d6960bc6138dcbe7c8d3496c89f50da6263d",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000033.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000034.pdg",
+      "size": 200464,
+      "sha256": "442cf718b6eddb19a2654bb7855aa5efd2acbd465e51441e3d58401b29da7722",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000034.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000035.pdg",
+      "size": 191494,
+      "sha256": "b97ff944ac436c99078850cb4bfddb09312c09863dd036877ee8e0fccde441af",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000035.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000036.pdg",
+      "size": 195453,
+      "sha256": "970bdc4066ac17c4d30cb0289db661732688d0373908eee5a58181dfab822d0b",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000036.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000037.pdg",
+      "size": 166826,
+      "sha256": "6775512ab3ffb1cf3b61490cf011282a16b89506d0ba78761dba9999ac9e3b43",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000037.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000038.pdg",
+      "size": 170764,
+      "sha256": "bfb34a6bf4513e19a306caf5ebef52befa2c90bebac57d3a1e17cbd26dfaea17",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000038.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000039.pdg",
+      "size": 176399,
+      "sha256": "1140c794807afd1c5add5ec9c7542bf5f6e575bba43cb80e91f1734679afdc52",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000039.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000040.pdg",
+      "size": 151294,
+      "sha256": "ce13a9f5f1dfc152d55ceb82585665ab552890a5faa35ed646ac9c00d7c61321",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000040.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000041.pdg",
+      "size": 240459,
+      "sha256": "c14c1d23c92e26968bba1b5218bcfae985bdb45995388bf65124211d4379d067",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000041.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000042.pdg",
+      "size": 200232,
+      "sha256": "1fed32f7c70ced2843ff6c3d6547bc42064045446bfe7a616f3954f95605ee5f",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000042.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000043.pdg",
+      "size": 233970,
+      "sha256": "a3902ba0eac27ffd49f688490e92984a3fa2c4b2a09e62d035f7e3a77611bdc0",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000043.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000044.pdg",
+      "size": 238260,
+      "sha256": "4d80d9eba8decf60ccf49f34de59a8717ed58191b357a8e397454dae73c72753",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000044.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000045.pdg",
+      "size": 199573,
+      "sha256": "db01e6d2a77ffa85a88b298aa069e880948b7308b55028bb32641154d43383fb",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000045.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000046.pdg",
+      "size": 175851,
+      "sha256": "95103b31cc1bb0703ae522f34091f636152ed3cf5b2ee0f6721dbb9b31a9d016",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000046.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000047.pdg",
+      "size": 178656,
+      "sha256": "3481950817fc68398861e2ac93ce06d8c7c515626d52f1cc84a694b52a3ad8fc",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000047.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000048.pdg",
+      "size": 159245,
+      "sha256": "a392411cbe8afc2aa8c3d0421976fe409ce81149efcf2989b910a723415b9f77",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000048.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000049.pdg",
+      "size": 212541,
+      "sha256": "2cbdaff501bb16c3ad391b3c12d556fcb96865a3a1554ed0c92a3807e6b114ba",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000049.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000050.pdg",
+      "size": 202385,
+      "sha256": "519def617ce46016955b6994f1f31d0d42dbcf816bfaab5c23a1dd2d70234c94",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000050.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000051.pdg",
+      "size": 207570,
+      "sha256": "eaa5127dd16d5f762c4650960c3e9bc60218d8f18b739b5db07b6a7f399d81d7",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000051.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000052.pdg",
+      "size": 177664,
+      "sha256": "64c96e98c663026517457675a37b7dcff976e81a361ef4fe65fa7482bb55b1c6",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000052.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000053.pdg",
+      "size": 208247,
+      "sha256": "e64a6ecbf3f8ddc7363bd3e487ae5033104c1a9d819afa52cd58a7f0c97b1dd3",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000053.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000054.pdg",
+      "size": 170600,
+      "sha256": "c0d69791a64ddf9987cb39ef538fb3a47b0d3a85068af1c8001362a2eed99184",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000054.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000055.pdg",
+      "size": 222529,
+      "sha256": "8b947ab1dcfc86378e468462f46b6ae513fd4d8586cddea801081b59a9b149f1",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000055.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000056.pdg",
+      "size": 163212,
+      "sha256": "9975f5ad79eb40629f6ef56f0016eccda245b41a7efe009f2d5a45f085138bf2",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000056.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000057.pdg",
+      "size": 170854,
+      "sha256": "8ea519198e8f5128cbdeac83ed509e973583a12199bb7ea115cc49976e5f2aef",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000057.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000058.pdg",
+      "size": 176300,
+      "sha256": "7e724e9a651b644d4952b93c2d1d56b2c841ffddf2a92d7f302b38f97b6532ba",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000058.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000059.pdg",
+      "size": 188002,
+      "sha256": "d0efc0fb0df955bfeccc8c85f2db83bb50b447e7caeaa88c6cfd61523930a561",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000059.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000060.pdg",
+      "size": 180641,
+      "sha256": "b208850a8f7da601c873bf909a12d7bc326fa637fb42611aaafba890acddeaf4",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000060.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000061.pdg",
+      "size": 167988,
+      "sha256": "6d16f238bd86d46cd382f6b277eb738e3cbcdedf56f5e5b0d7d2048753d8a69d",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000061.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000062.pdg",
+      "size": 186594,
+      "sha256": "cb2ecf825d7848c92a03a2caea4da054b22f694ec94a4b197657d810b8749ed3",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000062.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000063.pdg",
+      "size": 197185,
+      "sha256": "40eea0bf0daafa34449ecf345d8c2bdafa7efaa9c819a2651b40ee82070ea454",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000063.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000064.pdg",
+      "size": 193935,
+      "sha256": "8a8bf32fe5a99c577a2477e16f0de3fde6e955ed41acfefd12d6ef058a1b5c9f",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000064.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000065.pdg",
+      "size": 187145,
+      "sha256": "948daa04b57cec0a2facc9b909e23af6ee5a507e6db885ccc6819b4d8c15d290",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000065.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000066.pdg",
+      "size": 173980,
+      "sha256": "f2d1b573b8a52fa740a0fc4e426cfbfa9fb25180f2ead5aedb366df3280ba85f",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000066.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000067.pdg",
+      "size": 172711,
+      "sha256": "503b0ffba05a20c259d8b5daad800edd98ebd4994bd7eab17ab04a24be4c7166",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000067.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000068.pdg",
+      "size": 175119,
+      "sha256": "316981a59c428e5a037424bf534a3911798c4ecefaf456c8bf6009e13d964cf9",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000068.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000069.pdg",
+      "size": 162160,
+      "sha256": "1c9f4610620c39ada11002d7c5efc0f506a5ad973215211b436b66109aae6076",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000069.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000070.pdg",
+      "size": 209104,
+      "sha256": "24272e4ab2c0b24fb937a2a05283c4ddf639405bd271a960d2b837920643a4c3",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000070.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000071.pdg",
+      "size": 205932,
+      "sha256": "908ddfc35c75f6b4012be1d9d69f23a8eddcc08201193d724ad2c9f8d98c3dd6",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000071.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000072.pdg",
+      "size": 156380,
+      "sha256": "70b69a84b8221d015157b4e694abde64d90ad72ba2c4d246e91acdd2f41809c2",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000072.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000073.pdg",
+      "size": 213543,
+      "sha256": "703642979897a9a22f9dc16f1d64925a5ec6ab143a7de577c5925ceff59d94fa",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000073.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000074.pdg",
+      "size": 183162,
+      "sha256": "a97eadc7ffbc70b80c017a4e91e96153b22f9fad5775d79053c1a7cd3a6cee8c",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000074.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000075.pdg",
+      "size": 164114,
+      "sha256": "fae12b142f7683dc964d735fd2c354bce7dbd84d2f4870fadcafc4e4996ea427",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000075.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000076.pdg",
+      "size": 181391,
+      "sha256": "d800a15391a68bac92e1ec1b95b6bd1ad2394f8a5aad07b3f8f7ece87ca3d82b",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000076.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000077.pdg",
+      "size": 231019,
+      "sha256": "d43467c6ac63797c1bf09a13afff076a7f25630f75bf18cb2bb3e7c051854186",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000077.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000078.pdg",
+      "size": 154728,
+      "sha256": "8c2bca8348eef50c66662dd22fd718bb6b986a549fa7e78d7c02e06a1df92a28",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000078.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000079.pdg",
+      "size": 167140,
+      "sha256": "36ad874f117122a6f525e38293195c360cfe545c3db85b32780b3f16060787b5",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000079.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000080.pdg",
+      "size": 167062,
+      "sha256": "75a5ae13278b79fcb7a15dab6d6e8aaadcd9139202267efd5a6a94f227f5701b",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000080.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000081.pdg",
+      "size": 214755,
+      "sha256": "cc7522e811d469b599b05ad889ea354106d0c0dedcc7511d3f08b03c06692267",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000081.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000082.pdg",
+      "size": 142725,
+      "sha256": "b726a1d567d0d9ed9d6202de52d78a404950e3610eb4db0be7f2eaac149d9aa7",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000082.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000083.pdg",
+      "size": 204708,
+      "sha256": "0f75cdd43153aa0b55c93d481144d45600219e411f9194584dfcf15941073643",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000083.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000084.pdg",
+      "size": 170593,
+      "sha256": "d8702b5fa847b4b42481ac20df5fa4c2842d8b21856c162bfbdbe05632739e86",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000084.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000085.pdg",
+      "size": 179672,
+      "sha256": "dec3799daeb8adffc56a79698aab39dab988f55d16c1d2642d9db0a4b0d455b4",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000085.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000086.pdg",
+      "size": 171893,
+      "sha256": "1e10030a591256b84b9d9279f40e6554d0060e1236bdffece0c2a4ab7876adb7",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000086.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000087.pdg",
+      "size": 200142,
+      "sha256": "2931d297f9bc6da13b56d447388b70354d0ae39a043527875b4a73e5ff50d931",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000087.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000088.pdg",
+      "size": 180412,
+      "sha256": "5b4caded78fcfaca5767bfa714b922e7d2eee9bec765d2c2e2f57f21152eeb11",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000088.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000089.pdg",
+      "size": 173181,
+      "sha256": "15fbacab687d07b393656cd7a1a07a5f8ff37c8c3099ac996917b71709925e2b",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000089.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000090.pdg",
+      "size": 234117,
+      "sha256": "29d623873e6b8bc4fad2a27f577ff4fe201f0ec8b5060795e907591e02703de8",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000090.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000091.pdg",
+      "size": 156442,
+      "sha256": "40984dd234b0b12efde20a15f082080e22dcacf548df23419f88ae53a27b5a77",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000091.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000092.pdg",
+      "size": 169493,
+      "sha256": "b1750a0b09448f887584b465598b08e3a2ee0a986ad5ed2aff430aad9455602b",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000092.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000093.pdg",
+      "size": 151140,
+      "sha256": "6c3b66461ad6de2e2d15a0421f90043dc7fb11123f681cb6711abb6082948b77",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000093.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000094.pdg",
+      "size": 184017,
+      "sha256": "70dfa3baf6367c0882574fbfd5983501dff40ef940dc81d540e5c82200c5c789",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000094.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000095.pdg",
+      "size": 162714,
+      "sha256": "db275bbfbeaac8faec77bca1f22a776378934cee38e54bf9ed8d6688b9adda02",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000095.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000096.pdg",
+      "size": 165090,
+      "sha256": "8dd8436da82920c4ff0a4ac427e68518175a3acaad15cf699724165205cc0218",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000096.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000097.pdg",
+      "size": 159983,
+      "sha256": "6d8e71c6235829c14b8162d3e987d0495dfb849f5dff15f5187c9dddd65604f6",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000097.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000098.pdg",
+      "size": 179951,
+      "sha256": "636864a1049fe2a50c3246bbe5a370886213c48ef469bb8d7a1de08940888458",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000098.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000099.pdg",
+      "size": 177682,
+      "sha256": "c34a8ccca4518de1b6475193333945ecf272a417b0f62d72fbe7d565d60fffbb",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000099.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000100.pdg",
+      "size": 189652,
+      "sha256": "fd194f0c2a145a99e2873253bc88c0b6f38a8978b97800d8bb4a00e6d4d3cb5c",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000100.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000101.pdg",
+      "size": 183906,
+      "sha256": "6a14e0a36b34c6b960938cf3098c3877dd3a767256f1e2d4d89085895091bb53",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000101.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000102.pdg",
+      "size": 165216,
+      "sha256": "01ea5b16761725716cd967646964aa4d040dd6e16603b1503a53c2f846bf6d79",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000102.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000103.pdg",
+      "size": 172257,
+      "sha256": "41644fc545d680fd5ec7bfa9a550ef68389038e0369072abeba84fb9e31ed04d",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000103.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000104.pdg",
+      "size": 203504,
+      "sha256": "1552dbf8192f575d3b0f9a96c073fe596f0a9c5d1357a96828c1387ade4b22bd",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000104.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000105.pdg",
+      "size": 168327,
+      "sha256": "e84b32bfdcf09b93230fa2072911bb60f463328a31eb736d2df9c8646c195e53",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000105.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000106.pdg",
+      "size": 195458,
+      "sha256": "87a92680c25fb573f2ab37ae315396910c4fb2654a634504f7e8e57beda8ef1a",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000106.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000107.pdg",
+      "size": 165896,
+      "sha256": "5bfd73b001fb22fbdb62f1f078b18b20ec0add9b95c214fcb988503faff3423c",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000107.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000108.pdg",
+      "size": 215341,
+      "sha256": "4af0c1b55136704fdafe6d75b2c1df1df113dcee0b971936def3b0d20c081719",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000108.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000109.pdg",
+      "size": 200906,
+      "sha256": "8f8225704ec76cc2f567bc628eb755bc4305a7cc31dbc27d6f77fffa08b91146",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000109.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000110.pdg",
+      "size": 199661,
+      "sha256": "483b5777e9726dab188c2a7707f31d11a381af88549d3dd0c0e87e8d204c550b",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000110.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000111.pdg",
+      "size": 116588,
+      "sha256": "e1b15a96aa8003617d2cb68ba59031f6412d800469b5e233a426c897a2329341",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000111.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000112.pdg",
+      "size": 214809,
+      "sha256": "2927c7349ed73475692d853b5b9b7b9d6ddc3217225e8cbb96f66a06a36f1574",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000112.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000113.pdg",
+      "size": 160237,
+      "sha256": "2001d926a897d73c86f2fa36d95290e489e2967f2fe491ed5e90f645914470ca",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000113.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000114.pdg",
+      "size": 163227,
+      "sha256": "d76594601ded97880cb8e5a2a065ac7718e04bd9f9458531fc7b9917ff0f98cc",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000114.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000115.pdg",
+      "size": 175908,
+      "sha256": "a5b3616d9128388d424d9e7718886c961aa8df5dfe505aec5a7a87a2af630b39",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000115.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000116.pdg",
+      "size": 152406,
+      "sha256": "0582e4dd182f8470c20ac574bea281eb2d3ce7d95e5a5e59511e4985f08321fa",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000116.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000117.pdg",
+      "size": 206324,
+      "sha256": "af6ee49f3e41c18c2bcf9aa8e4980b0c731fcea97bb8e300816233ceb00978ab",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000117.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000118.pdg",
+      "size": 190915,
+      "sha256": "c0b2512064fadc700889c861435042f9e1e3544f9eaffe440e2a31b13d461473",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000118.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000119.pdg",
+      "size": 123803,
+      "sha256": "bf2c489311a023d113d298deb53d51add4e864ce15a3120f52edce9bfeef1901",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000119.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000120.pdg",
+      "size": 191291,
+      "sha256": "fd800a549eb5b7c944b2a7a12a7e43f27fc84888d322f5d695cdbe15e5003727",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000120.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000121.pdg",
+      "size": 186039,
+      "sha256": "fc0434e9d06740b93baeb9bbebcd0f7ec0340ec4e8596f06c3c0c4f3a0cbe010",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000121.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000122.pdg",
+      "size": 188407,
+      "sha256": "92ae0d6406b10e9c320f083b1430797c07b9f7182bafbf64014e6d9a534e2a2b",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000122.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000123.pdg",
+      "size": 176150,
+      "sha256": "cce739b118d35d20e79a4a02e5c08b58711e54239aa22355720fc68886b1058f",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000123.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000124.pdg",
+      "size": 193518,
+      "sha256": "c77503323ad088e7c5f8430aaabc6ad490383a8ee21053ea998c3975f4035814",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000124.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000125.pdg",
+      "size": 186970,
+      "sha256": "c055f301137c1f55210f8b1f93e60c34deffae17ed4333d480070b637d78795b",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000125.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000126.pdg",
+      "size": 169579,
+      "sha256": "329bd11fa66f4ec75fc8d06d933378abfc22b9f0444b13a41857fa948d8df6be",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000126.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000127.pdg",
+      "size": 172556,
+      "sha256": "0bb7966926435fba62895f077aca53e2381271ca1d2dbfc18cb56b97a37bd1ca",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000127.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000128.pdg",
+      "size": 144579,
+      "sha256": "4fc371b190ff3831c45a0fd2679c37c5f0c716a3da307a663e78fbafd14a3ad7",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000128.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000129.pdg",
+      "size": 108697,
+      "sha256": "31a44f236a970e460ea4b86faed8f159b0a9007828e0f3831f1a830c279ece73",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000129.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000130.pdg",
+      "size": 176608,
+      "sha256": "9ccb6f127e11d046c04c00e2de2b5e17342e811c82dbe7b02053919b0454ac9c",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000130.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000131.pdg",
+      "size": 226784,
+      "sha256": "235a4fe0bf430e040b71772f5a89903c4790c09fcfae02a87616e5dcfd70374c",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000131.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000132.pdg",
+      "size": 176561,
+      "sha256": "8e9e14171877d49901d4402521d1d64618183fda77369d8e92e31fc92bb08513",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000132.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000133.pdg",
+      "size": 179212,
+      "sha256": "3a0b029514438894bc03250282fc0c0b8f9503bea1bd529bfdca2573ed607799",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000133.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000134.pdg",
+      "size": 169183,
+      "sha256": "aa5cc7695fbc6deed1dadd1b6ce32c2cc2b6fa1df1970dc02fa93933a4a7c89f",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000134.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000135.pdg",
+      "size": 156720,
+      "sha256": "9298f86272f9a0a5c2da83191b59494407d4e5c4ff3f4c6af1bbf271087a02a1",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000135.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000136.pdg",
+      "size": 185937,
+      "sha256": "8a58837d1504c8a29a302a1823e9b45aae83c9e33887c3696905ff5a846e5ddc",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000136.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000137.pdg",
+      "size": 246663,
+      "sha256": "c5054a7b22f04e84fa802066d3127b91e93c49341477142b6c5efd6983b58577",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000137.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000138.pdg",
+      "size": 186629,
+      "sha256": "f409951b8f646f88b0d109a8717f3866ad50e8cd2c442967f03f93348774e61a",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000138.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000139.pdg",
+      "size": 190060,
+      "sha256": "4a195a965a9a2f8528bfe8ae1a419a7da6926eb2387538d4830131f5ba338a94",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000139.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000140.pdg",
+      "size": 159577,
+      "sha256": "5fcc07c754f65f52eefc6b635a37d6b9db58287b771e607aa4cef8ee2e4248f2",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000140.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000141.pdg",
+      "size": 158229,
+      "sha256": "4895ff40a2fd33eec999e36f7aa208ab05f1e55552d5c2f8914d6b88b394b331",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000141.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000142.pdg",
+      "size": 177963,
+      "sha256": "508e8a90e1d1ad4389d5f8fea66f37b06092952596ed0d56b27e474b2b53cdca",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000142.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000143.pdg",
+      "size": 161493,
+      "sha256": "c9879573e8a32e2e851714beb09bcf9ee12f8deefd6f9ce3428556e00e33151a",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000143.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000144.pdg",
+      "size": 160927,
+      "sha256": "620f49ba5f3daccb549ce890691d1a0d00f3bc950b6aa8443f770a191e217b4c",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000144.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000145.pdg",
+      "size": 179851,
+      "sha256": "416e8c4aa44b1748fa45e5da8a82cdbbca99c1c517a16d6969932d81d8a8e7cb",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000145.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000146.pdg",
+      "size": 153281,
+      "sha256": "12c2889d678ba5ad6a6a33a8a791e4b36fb65262d8f66fc29877be13475f2e94",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000146.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000147.pdg",
+      "size": 218004,
+      "sha256": "966232f75d83ff4cc7fda2fc84a50c67948d4545842d7ee3e5c38403f1f7f502",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000147.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000148.pdg",
+      "size": 192167,
+      "sha256": "e5ad37d0dccafc08507d3189a692a4d06494ab1d13958931a5c1006af4823449",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000148.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000149.pdg",
+      "size": 181655,
+      "sha256": "b4e2379d202ad1384e02c9bac12cb3591154c8a976094eeae80cdfff902a9b9e",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000149.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000150.pdg",
+      "size": 139291,
+      "sha256": "9750a2e91975eab02cc14b7a9069a737425c96ffee5f0b2dc588330242b01e9d",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000150.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000151.pdg",
+      "size": 140263,
+      "sha256": "de3a923753e9c69b3d8bb310cf8aab593233fc7c9af71dd4343413a20242694a",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000151.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000152.pdg",
+      "size": 164345,
+      "sha256": "5c6b0e521ea59416e89387c291d313eee9efa089733e8206446edbf06f290f86",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000152.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000153.pdg",
+      "size": 192095,
+      "sha256": "63f53d28befab2adbc046bd96e5e90f4e84b9bbd5412275bc6aea1df664bda80",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000153.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000154.pdg",
+      "size": 162767,
+      "sha256": "ad28afa1aad733b05ec60c44a0dc1b26cf26ff9b899c6196d0ac5db89fdf02fe",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000154.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000155.pdg",
+      "size": 164993,
+      "sha256": "be73f2c3346c472a1b40ec8e4c201838374e5dad8b7001fcbb9735ead32fe959",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000155.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000156.pdg",
+      "size": 157946,
+      "sha256": "48297b31eb3fec66409322d0fb93851883ec967402b67e673109911a598f2197",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000156.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000157.pdg",
+      "size": 134154,
+      "sha256": "af21859ef3e5334f07fa44da4b4193410852bcae8ba36a593cc8e4000775dcb0",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000157.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000158.pdg",
+      "size": 162598,
+      "sha256": "91eaf31e9adf1cfdaca04d5162f7eb63d31e306e0ab7278b722cc9942a3ca646",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000158.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000159.pdg",
+      "size": 167686,
+      "sha256": "8ba5ab08f74b9663a6bd8d8cb8bcfb604d24b17721c8a5bfed8ae461747474a5",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000159.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000160.pdg",
+      "size": 146656,
+      "sha256": "e8a1cd9789c40146f08368a8d7ee8244f87dac6090bbf4873ba02af87da7ee7f",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000160.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000161.pdg",
+      "size": 130118,
+      "sha256": "ffbe6d37de7e7f0adfd6e9e73054d95a6c1243f32dcc998a97957a6b4fe57f7e",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000161.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000162.pdg",
+      "size": 162187,
+      "sha256": "73506b4893adfbfff27ca32e29af3a4062e99fbdc8fcedd5226d2cb418300411",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000162.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000163.pdg",
+      "size": 133866,
+      "sha256": "e209ad00f9d5e183b5f0c20648e5906c08aa70b9f4c91d90556f4aefcf295cfa",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000163.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000164.pdg",
+      "size": 144488,
+      "sha256": "dfb27d5d4cdf74838c2287bea0647080ca4140692d331b07e731ae0c5195ed27",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000164.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000165.pdg",
+      "size": 154267,
+      "sha256": "0d780dce41559deb1fee0974a85d211e6b1176a0f6cc6b7906c0842dacc3df70",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000165.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000166.pdg",
+      "size": 188550,
+      "sha256": "2a95edfff153595e8190c4ed6fc056d71e600bca35bbdf23468f907f168bc2a7",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000166.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000167.pdg",
+      "size": 72977,
+      "sha256": "1c7361f2c4478f407fa804bf96339132fd17a3968f02db33bcbdbd340c4492f4",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000167.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000168.pdg",
+      "size": 143253,
+      "sha256": "16a6ee829251780e95854d0339d0781d28974a33a9251a24ec3b2618a90d97ac",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000168.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000169.pdg",
+      "size": 166837,
+      "sha256": "1478f40fa5154b34b58318404042ae8a7d5c7f34b702572808631cb5f1ed3a63",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000169.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000170.pdg",
+      "size": 172427,
+      "sha256": "151e19997a9cc3009939dc97cfc823d61cc6c271d3daf2773df17154537f5906",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000170.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000171.pdg",
+      "size": 118986,
+      "sha256": "482d4676966f5862c94b84e73d5cde4bf3f8c2ceb4b7747e87cd0e811457fbac",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000171.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000172.pdg",
+      "size": 178182,
+      "sha256": "e965b25697c6917582f9e1291c0cd049584b83833ab56ccde54bf662584e74b2",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000172.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000173.pdg",
+      "size": 178311,
+      "sha256": "160398da75ef6c2f230d844d404e07eaf4291979459cb3c294c31f9d83ad281b",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000173.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000174.pdg",
+      "size": 91309,
+      "sha256": "2a705478ed21a0564dcabca605c31ba04341d188d3b8be9d1fe4d3d0270a4a1d",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000174.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000175.pdg",
+      "size": 159957,
+      "sha256": "9295f0e97b2a14c18557d99d16207d807fc6bd1fe4164517c1ede3f690a9d215",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000175.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000176.pdg",
+      "size": 156866,
+      "sha256": "8bbee5cd54cf16502f032865e74d80aa11ac181986472c75b064bffe9638b76e",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000176.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000177.pdg",
+      "size": 147659,
+      "sha256": "fd733617e288173047034d362f587694eb632a3b5861eaeffff288b313376b79",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000177.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000178.pdg",
+      "size": 118298,
+      "sha256": "7418d7c6b3bfafa8493030c8ad004eadd776bf780865e60603991c8b292e69e8",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000178.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000179.pdg",
+      "size": 146080,
+      "sha256": "8ad5516882532533c5c8b74c2b70586e89bc3995e01fa8396d5cbda2c06526c8",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000179.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000180.pdg",
+      "size": 166164,
+      "sha256": "445f0fb1cbc5a875eeb0579e353924106084d489a27e64075032bbc43424e998",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000180.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000181.pdg",
+      "size": 192626,
+      "sha256": "472eb80037af316089dc83f16327e9b0dd8b5d798b8522dff8216dfd1f1e6448",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000181.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000182.pdg",
+      "size": 151672,
+      "sha256": "1069431ec04f2b1b43336de21d9da72fba221d7283f217d12fdba1553755a2f7",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000182.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000183.pdg",
+      "size": 165687,
+      "sha256": "b307a1dee1bfb264d02e2e57c2f534d4c19f9dbcda8ab8158dc4700fcd36d414",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000183.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000184.pdg",
+      "size": 160699,
+      "sha256": "544530a75350af1aebee39b6d24f57d5dbf02ec53b38afa36ef68da6fce13146",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000184.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000185.pdg",
+      "size": 152549,
+      "sha256": "e5f9190d785147cea3241a155174e3ae641a55afb2609c6b48a45976ca4185ab",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000185.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000186.pdg",
+      "size": 172314,
+      "sha256": "05692481516ff268c715799d7f979aedd4e37fac7d80f0fde4d4ae7dec18501f",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000186.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000187.pdg",
+      "size": 149210,
+      "sha256": "a8ab991607e35586b412bfe125aea976f092e873422fdc6fc3a8c85ce821d515",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000187.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000188.pdg",
+      "size": 140371,
+      "sha256": "d55f7bd4d58c8b4448d54de14448482104f05890db592baf7e80a7391ca64d2a",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000188.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/000189.pdg",
+      "size": 141250,
+      "sha256": "6cd7fbf47ab34e29b5a6558c6ad8af73696ac0625023ccb9efd67574f9167974",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "000189.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/bok001.pdg",
+      "size": 64235,
+      "sha256": "9064d4b5b0fa19fbad6e82c098f082e820c431b3bcc7359e0a6ed9f39a28e8f5",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "bok001.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/bookinfo.dat",
+      "size": 57,
+      "sha256": "d1a52585f4a465d19736a119e94b55449deacc526409be3121f11c69537b08c9",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "bookinfo.dat",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/cov001.pdg",
+      "size": 201506,
+      "sha256": "93b580177bd74d322b164e05d0debf87d7740c367cbaa1a43e8c87e474b9c612",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "cov001.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/cov002.pdg",
+      "size": 187037,
+      "sha256": "644374ce355a5f1d54d35128fe380d80548e286be443ae598df0ccb80613a35a",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "cov002.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/fow001.pdg",
+      "size": 269364,
+      "sha256": "c1b03ddd47b7b6dfd5f8a9c8fefad6dfc0a9e4cb6429e2acc5a6a9cdfa971ef2",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "fow001.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/fow002.pdg",
+      "size": 101106,
+      "sha256": "c576070dd93ea20334801ebf95d28e1bf024ecbce1191b6e85e6d0467538bb75",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "fow002.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/fow003.pdg",
+      "size": 300222,
+      "sha256": "26df5d9f0eb6d2d8dee35319f6170e630a3a06ead3662089a6b3206982114834",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "fow003.pdg",
+      "public": false
+    },
+    {
+      "path": "参考阅读/高等量子力学/马中玉_张竞上/第一版_2013-12/_过程材料/原始扫描页/leg001.pdg",
+      "size": 133241,
+      "sha256": "f33893af0a2ed5c6e8bbe2079fc54fe1de192605b864fc7cfe0ced9689a33fd0",
+      "operation": "uploadExtractedOriginal",
+      "sourcePackageSha256": "50b1fe898c753ef64a7b1cf31776e4f972046823e7ba79433f69a5ea8f9dc82b",
+      "member": "leg001.pdg",
+      "public": false
+    }
+  ]
+}
