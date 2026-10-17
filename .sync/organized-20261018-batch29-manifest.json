@@ -1,0 +1,54 @@
+{
+  "summary": {
+    "source_files": 1,
+    "provenance": 3,
+    "selected_files": 4,
+    "excluded_files": 28,
+    "local_links_verified": 2,
+    "lecture_links_redirected_to_cloud": 2,
+    "legacy_exact_paths_merged": 1,
+    "scope_only_batch29": true
+  },
+  "files": [
+    {
+      "path": "物理类/大学物理/复习/戴松涛来源_匿名手写_年份未核/大学物理 B1 知识点整理.pdf",
+      "sha256": "9109608ec039256e59c078a6e1b3d1c257ffbaa7f0234d83d639922a870258a8",
+      "original_sha256": "9109608ec039256e59c078a6e1b3d1c257ffbaa7f0234d83d639922a870258a8",
+      "bytes": 4698095,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/复习/戴松涛来源_匿名手写_年份未核/README.md",
+      "sha256": "aa7165770e8d310ae101d486fcec25976530a9442cbdc0be498de0ffa47e4d27",
+      "original_sha256": "aa7165770e8d310ae101d486fcec25976530a9442cbdc0be498de0ffa47e4d27",
+      "bytes": 1374,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/README_戴松涛资料_第29批.md",
+      "sha256": "8ed20215cbac3b08321068e853a70a6728c2f366f06c793a52c53031e8da36f3",
+      "original_sha256": "f2ed1089109c680e36fa16685fbb84f04a8e38b489d3593e051879ad8d57aea4",
+      "bytes": 1481,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/戴松涛/README_迁移说明.md",
+      "sha256": "26916c5c125c1f1cb5bdb43abaf946d138a5f2372a706eabbd4905a0d71d6b8b",
+      "original_sha256": "7e62dbffd0bec73f26cd8fdf6d0a933341e9647e139acc421de6da716dd2108f",
+      "bytes": 1498,
+      "kind": "provenance"
+    }
+  ],
+  "link_adaptations": [
+    {
+      "from": "README_戴松涛资料_第29批.md",
+      "target": "讲义/戴松涛_年份未核/README.md",
+      "cloud": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E8%AE%B2%E4%B9%89/%E6%88%B4%E6%9D%BE%E6%B6%9B_%E5%B9%B4%E4%BB%BD%E6%9C%AA%E6%A0%B8/"
+    },
+    {
+      "from": "戴松涛/README_迁移说明.md",
+      "target": "讲义/戴松涛_年份未核/README.md",
+      "cloud": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E8%AE%B2%E4%B9%89/%E6%88%B4%E6%9D%BE%E6%B6%9B_%E5%B9%B4%E4%BB%BD%E6%9C%AA%E6%A0%B8/"
+    }
+  ]
+}
