@@ -1,0 +1,84 @@
+{
+  "summary": {
+    "source_files": 0,
+    "provenance": 4,
+    "metadata_omissions": 8,
+    "private_current_images_removed": 6,
+    "local_links_verified": 3,
+    "cloud_folder_links_adapted": 8,
+    "original_images_not_decoded": true,
+    "only_handoff_scope_used": true
+  },
+  "files": [
+    {
+      "path": "物理类/量子力学/README.md",
+      "sha256": "07c555c2a057328f77506be8695aa96589e3523f6ad7f4c8f411ee3989ab57e7",
+      "original_sha256": "0e4287da3cdb45806344737c6de597a0861af77b0ea190b8829d027bb099442c",
+      "bytes": 1663,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/量子力学/讲义/陈童/2021-12_量子力学新讲/README.md",
+      "sha256": "369e1aab3d664b358c4702c18ccdab09d608be93a27b361cdeddbd2406996cf9",
+      "original_sha256": "bd26d5b1ba84cad89e561ead04ac8dd162319a5751a32ff0512e5faff3087b5d",
+      "bytes": 1046,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/量子力学/往年题/来源标2022春_徐湛期末_年份未核/README.md",
+      "sha256": "e0b51b38b5a6ccaad4774a7b239cefc0aa85cea2669c64020ad3434a1eb906a2",
+      "original_sha256": "3936a1efa0ea4474230abc615bafb48c8997fd45624d2770ecdc589631c1bffc",
+      "bytes": 3659,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/量子力学/参考阅读/群论与对称性_朱洪元/README.md",
+      "sha256": "e51fc45d8f517cc4728560c1d3b468fc9be195059732f29eac471a04153754d0",
+      "original_sha256": "f6a40877f401d5d656fd048474a471a23da38fd17d12c43e88f23ca414241ab9",
+      "bytes": 1102,
+      "kind": "provenance"
+    }
+  ],
+  "link_adaptations": [
+    {
+      "from": "物理类/量子力学/讲义/陈童/2021-12_量子力学新讲/README.md",
+      "target": "物理类/量子力学/讲义/陈童/2021-12_量子力学新讲/量子力学新讲_陈童.pdf",
+      "cloud_folder": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/%E8%AE%B2%E4%B9%89/%E9%99%88%E7%AB%A5/2021-12_%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6%E6%96%B0%E8%AE%B2/"
+    },
+    {
+      "from": "物理类/量子力学/往年题/来源标2022春_徐湛期末_年份未核/README.md",
+      "target": "物理类/量子力学/往年题/来源标2022春_徐湛期末_年份未核/1.png",
+      "cloud_folder": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/%E5%BE%80%E5%B9%B4%E9%A2%98/%E6%9D%A5%E6%BA%90%E6%A0%872022%E6%98%A5_%E5%BE%90%E6%B9%9B%E6%9C%9F%E6%9C%AB_%E5%B9%B4%E4%BB%BD%E6%9C%AA%E6%A0%B8/"
+    },
+    {
+      "from": "物理类/量子力学/往年题/来源标2022春_徐湛期末_年份未核/README.md",
+      "target": "物理类/量子力学/往年题/来源标2022春_徐湛期末_年份未核/2.png",
+      "cloud_folder": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/%E5%BE%80%E5%B9%B4%E9%A2%98/%E6%9D%A5%E6%BA%90%E6%A0%872022%E6%98%A5_%E5%BE%90%E6%B9%9B%E6%9C%9F%E6%9C%AB_%E5%B9%B4%E4%BB%BD%E6%9C%AA%E6%A0%B8/"
+    },
+    {
+      "from": "物理类/量子力学/往年题/来源标2022春_徐湛期末_年份未核/README.md",
+      "target": "物理类/量子力学/往年题/来源标2022春_徐湛期末_年份未核/3.png",
+      "cloud_folder": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/%E5%BE%80%E5%B9%B4%E9%A2%98/%E6%9D%A5%E6%BA%90%E6%A0%872022%E6%98%A5_%E5%BE%90%E6%B9%9B%E6%9C%9F%E6%9C%AB_%E5%B9%B4%E4%BB%BD%E6%9C%AA%E6%A0%B8/"
+    },
+    {
+      "from": "物理类/量子力学/往年题/来源标2022春_徐湛期末_年份未核/README.md",
+      "target": "物理类/量子力学/往年题/来源标2022春_徐湛期末_年份未核/4.png",
+      "cloud_folder": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/%E5%BE%80%E5%B9%B4%E9%A2%98/%E6%9D%A5%E6%BA%90%E6%A0%872022%E6%98%A5_%E5%BE%90%E6%B9%9B%E6%9C%9F%E6%9C%AB_%E5%B9%B4%E4%BB%BD%E6%9C%AA%E6%A0%B8/"
+    },
+    {
+      "from": "物理类/量子力学/往年题/来源标2022春_徐湛期末_年份未核/README.md",
+      "target": "物理类/量子力学/往年题/来源标2022春_徐湛期末_年份未核/5.png",
+      "cloud_folder": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/%E5%BE%80%E5%B9%B4%E9%A2%98/%E6%9D%A5%E6%BA%90%E6%A0%872022%E6%98%A5_%E5%BE%90%E6%B9%9B%E6%9C%9F%E6%9C%AB_%E5%B9%B4%E4%BB%BD%E6%9C%AA%E6%A0%B8/"
+    },
+    {
+      "from": "物理类/量子力学/往年题/来源标2022春_徐湛期末_年份未核/README.md",
+      "target": "物理类/量子力学/往年题/来源标2022春_徐湛期末_年份未核/6.png",
+      "cloud_folder": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/%E5%BE%80%E5%B9%B4%E9%A2%98/%E6%9D%A5%E6%BA%90%E6%A0%872022%E6%98%A5_%E5%BE%90%E6%B9%9B%E6%9C%9F%E6%9C%AB_%E5%B9%B4%E4%BB%BD%E6%9C%AA%E6%A0%B8/"
+    },
+    {
+      "from": "物理类/量子力学/参考阅读/群论与对称性_朱洪元/README.md",
+      "target": "物理类/量子力学/参考阅读/群论与对称性_朱洪元/【北京大学物理学丛书】群论和量子力学中的对称性 - 朱洪元.pdf",
+      "cloud_folder": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/%E5%8F%82%E8%80%83%E9%98%85%E8%AF%BB/%E7%BE%A4%E8%AE%BA%E4%B8%8E%E5%AF%B9%E7%A7%B0%E6%80%A7_%E6%9C%B1%E6%B4%AA%E5%85%83/"
+    }
+  ]
+}
