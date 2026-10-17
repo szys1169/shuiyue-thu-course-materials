@@ -1,0 +1,151 @@
+{
+  "summary": {
+    "source_files": 0,
+    "provenance": 6,
+    "metadata_only_pdfs": 7,
+    "exact_old_paths_verified_not_tracked": 7,
+    "local_links_verified": 9,
+    "cloud_links_adapted": 7,
+    "quantum_root_unchanged": true,
+    "only_whitelist_used": true
+  },
+  "files": [
+    {
+      "path": "物理类/量子力学/量子计算机科学 段路明/README.md",
+      "sha256": "e936bc901b6bce1a6d06fd73341d03080b4ead4fcf92acff7f0de2575ad4bacb",
+      "original_sha256": "e936bc901b6bce1a6d06fd73341d03080b4ead4fcf92acff7f0de2575ad4bacb",
+      "bytes": 1317,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/量子计算机科学/README.md",
+      "sha256": "ad0ff6a237865d39948b1242d3a58fc156c3b42bdada720fa6b95a7b80815f8f",
+      "original_sha256": "25a48b652dcf1ceca99e6b8aae075a76de041c941cbb96ec73e30b9a136b3491",
+      "bytes": 1963,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/量子计算机科学/讲义/README.md",
+      "sha256": "fd9972fc677dc67ac47b8822fcfda2dfc7efe668df55405807a9cff74783da42",
+      "original_sha256": "fd9972fc677dc67ac47b8822fcfda2dfc7efe668df55405807a9cff74783da42",
+      "bytes": 931,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/量子计算机科学/讲义/章节打字稿_来源学期未核/README.md",
+      "sha256": "b9764c0abde1325a4ca9040b93680de8a377d3a4216fee147b3d4b8fa637e714",
+      "original_sha256": "ccb5f48e2994a413c85f63e4d22b93e3dc35bfe150f2594892eda15e7cb6bf2d",
+      "bytes": 3689,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/量子计算机科学/课程说明/2024春/README.md",
+      "sha256": "a7252d7893c00dc2f0946253f2b79af44b4326b40320d1e8a1ca64a52d192fc1",
+      "original_sha256": "5740854a48797685744a9544dce42bc063c6bf8d28cc26eec02de83c4bb2ba31",
+      "bytes": 1143,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/量子计算机科学/课程说明/README.md",
+      "sha256": "048c217983b3fa0525e3da38ed26b9776db524bbd476eb2081217ff8655af9be",
+      "original_sha256": "048c217983b3fa0525e3da38ed26b9776db524bbd476eb2081217ff8655af9be",
+      "bytes": 700,
+      "kind": "provenance"
+    }
+  ],
+  "link_adaptations": [
+    {
+      "from": "物理类/量子计算机科学/讲义/章节打字稿_来源学期未核/README.md",
+      "target": "物理类/量子计算机科学/讲义/章节打字稿_来源学期未核/Chappter-1-typed.pdf",
+      "cloud_folder": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/%E8%AE%B2%E4%B9%89/%E7%AB%A0%E8%8A%82%E6%89%93%E5%AD%97%E7%A8%BF_%E6%9D%A5%E6%BA%90%E5%AD%A6%E6%9C%9F%E6%9C%AA%E6%A0%B8/"
+    },
+    {
+      "from": "物理类/量子计算机科学/讲义/章节打字稿_来源学期未核/README.md",
+      "target": "物理类/量子计算机科学/讲义/章节打字稿_来源学期未核/Chappter-2-typed.pdf",
+      "cloud_folder": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/%E8%AE%B2%E4%B9%89/%E7%AB%A0%E8%8A%82%E6%89%93%E5%AD%97%E7%A8%BF_%E6%9D%A5%E6%BA%90%E5%AD%A6%E6%9C%9F%E6%9C%AA%E6%A0%B8/"
+    },
+    {
+      "from": "物理类/量子计算机科学/讲义/章节打字稿_来源学期未核/README.md",
+      "target": "物理类/量子计算机科学/讲义/章节打字稿_来源学期未核/Chapter-3-typed.pdf",
+      "cloud_folder": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/%E8%AE%B2%E4%B9%89/%E7%AB%A0%E8%8A%82%E6%89%93%E5%AD%97%E7%A8%BF_%E6%9D%A5%E6%BA%90%E5%AD%A6%E6%9C%9F%E6%9C%AA%E6%A0%B8/"
+    },
+    {
+      "from": "物理类/量子计算机科学/讲义/章节打字稿_来源学期未核/README.md",
+      "target": "物理类/量子计算机科学/讲义/章节打字稿_来源学期未核/Chapter-4-typed.pdf",
+      "cloud_folder": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/%E8%AE%B2%E4%B9%89/%E7%AB%A0%E8%8A%82%E6%89%93%E5%AD%97%E7%A8%BF_%E6%9D%A5%E6%BA%90%E5%AD%A6%E6%9C%9F%E6%9C%AA%E6%A0%B8/"
+    },
+    {
+      "from": "物理类/量子计算机科学/讲义/章节打字稿_来源学期未核/README.md",
+      "target": "物理类/量子计算机科学/讲义/章节打字稿_来源学期未核/chapter-5-typed.pdf",
+      "cloud_folder": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/%E8%AE%B2%E4%B9%89/%E7%AB%A0%E8%8A%82%E6%89%93%E5%AD%97%E7%A8%BF_%E6%9D%A5%E6%BA%90%E5%AD%A6%E6%9C%9F%E6%9C%AA%E6%A0%B8/"
+    },
+    {
+      "from": "物理类/量子计算机科学/讲义/章节打字稿_来源学期未核/README.md",
+      "target": "物理类/量子计算机科学/讲义/章节打字稿_来源学期未核/chapter-6-typed.pdf",
+      "cloud_folder": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/%E8%AE%B2%E4%B9%89/%E7%AB%A0%E8%8A%82%E6%89%93%E5%AD%97%E7%A8%BF_%E6%9D%A5%E6%BA%90%E5%AD%A6%E6%9C%9F%E6%9C%AA%E6%A0%B8/"
+    },
+    {
+      "from": "物理类/量子计算机科学/课程说明/2024春/README.md",
+      "target": "物理类/量子计算机科学/课程说明/2024春/QCS-2024.pdf",
+      "cloud_folder": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/%E8%AF%BE%E7%A8%8B%E8%AF%B4%E6%98%8E/2024%E6%98%A5/"
+    }
+  ],
+  "old_to_current_mapping": [
+    {
+      "old": "物理类/量子力学/量子计算机科学 段路明/QCS-2024.pdf",
+      "current": "物理类/量子计算机科学/课程说明/2024春/QCS-2024.pdf",
+      "sha256": "31ee948b2af6ab7123acc112bfbbb4b0bce35b7a1eabf2a16b6bc9c78dd47bc6",
+      "cloudAction": "server-move",
+      "gitAction": "复用并迁移仓库原件；旧路径仅留README，避免重复",
+      "old_git_tracked": false
+    },
+    {
+      "old": "物理类/量子力学/量子计算机科学 段路明/Chapter-4-typed.pdf",
+      "current": "物理类/量子计算机科学/讲义/章节打字稿_来源学期未核/Chapter-4-typed.pdf",
+      "sha256": "1c287171e88908c44637caef74be60337ee46593afa6497e56e325a2185dc961",
+      "cloudAction": "server-move",
+      "gitAction": "复用并迁移仓库原件；旧路径仅留README，避免重复",
+      "old_git_tracked": false
+    },
+    {
+      "old": "物理类/量子力学/量子计算机科学 段路明/Chapter-3-typed.pdf",
+      "current": "物理类/量子计算机科学/讲义/章节打字稿_来源学期未核/Chapter-3-typed.pdf",
+      "sha256": "cb28af92d2684e723f32d63bee8e2391df91f9ef46480df8871b3b68ec4ed59e",
+      "cloudAction": "server-move",
+      "gitAction": "复用并迁移仓库原件；旧路径仅留README，避免重复",
+      "old_git_tracked": false
+    },
+    {
+      "old": "物理类/量子力学/量子计算机科学 段路明/Chappter-2-typed.pdf",
+      "current": "物理类/量子计算机科学/讲义/章节打字稿_来源学期未核/Chappter-2-typed.pdf",
+      "sha256": "142600502b12a4116cfac306274b6da1ad97fd68b1369fc89eebe86c961f20c5",
+      "cloudAction": "server-move",
+      "gitAction": "复用并迁移仓库原件；旧路径仅留README，避免重复",
+      "old_git_tracked": false
+    },
+    {
+      "old": "物理类/量子力学/量子计算机科学 段路明/Chappter-1-typed.pdf",
+      "current": "物理类/量子计算机科学/讲义/章节打字稿_来源学期未核/Chappter-1-typed.pdf",
+      "sha256": "fe52643ba0519b6934b939e5bc008ff37687d31f093410873e455d071a77bc62",
+      "cloudAction": "server-move",
+      "gitAction": "复用并迁移仓库原件；旧路径仅留README，避免重复",
+      "old_git_tracked": false
+    },
+    {
+      "old": "物理类/量子力学/量子计算机科学 段路明/chapter-6-typed.pdf",
+      "current": "物理类/量子计算机科学/讲义/章节打字稿_来源学期未核/chapter-6-typed.pdf",
+      "sha256": "6242306882c6d0749360bd70c8cbb8441b13789d0f174e32cbdc66dc4c27c95a",
+      "cloudAction": "server-move",
+      "gitAction": "复用并迁移仓库原件；旧路径仅留README，避免重复",
+      "old_git_tracked": false
+    },
+    {
+      "old": "物理类/量子力学/量子计算机科学 段路明/chapter-5-typed.pdf",
+      "current": "物理类/量子计算机科学/讲义/章节打字稿_来源学期未核/chapter-5-typed.pdf",
+      "sha256": "b79da4153ddeb1b84e42724dc5aa0e5d60390ecd069b6291862937588b4c45fb",
+      "cloudAction": "server-move",
+      "gitAction": "复用并迁移仓库原件；旧路径仅留README，避免重复",
+      "old_git_tracked": false
+    }
+  ]
+}
