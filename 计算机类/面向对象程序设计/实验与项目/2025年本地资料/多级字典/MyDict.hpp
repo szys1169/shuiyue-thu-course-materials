@@ -1,0 +1,42 @@
+#pragma once
+#include<iostream>
+#include<map>
+
+using namespace std;
+
+template<class Key, class Value>
+class MyDict
+{
+    map<Key,Value> data;
+    int hitcount=0;
+    int misscount=0;
+public:
+    Value& operator[](Key key)
+    {
+        auto it=data.find(key);
+        if(it!=data.end())
+        {
+            hitcount++;
+            return it->second;
+        }
+        else
+        {
+            misscount++;
+            return data[key]=Value();
+        }
+    }
+    HitStatsResult hitStats() const
+    {
+        return HitStatsResult(hitcount,misscount);
+    }
+    int size() const
+    {
+        return data.size();
+    }
+    void clear()
+    {
+        data.clear();
+        hitcount=0;
+        misscount=0;
+    }
+};

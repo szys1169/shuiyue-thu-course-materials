@@ -1,0 +1,723 @@
+#include "new(8).h"
+#include "cards.h"
+
+
+bool StatusEffect::update() {
+    if (!isPermanent && duration > 0) {
+        duration--;
+    }
+    if(duration==0)return true;
+    return false;
+}
+
+std::string StatusEffect::getInfo() const {
+    std::stringstream ss;
+    switch (type) {
+        case StatusType::FRAIL: ss << "Frail"; break;
+        case StatusType::WEAK: ss << "Weak"; break;
+        case StatusType::STRENGTH: ss << "Strength"; break;
+        case StatusType::VULNERABLE: ss << "Vulnerable"; break;
+        case StatusType::BLOCK: ss << "Block"; break;
+    }
+    ss << " (" << intensity << " points";
+    if(!isPermanent){
+        ss << ", " << duration << " turns remaining)";
+    }
+    else{
+        ss << ", permanent)";
+    }
+    return ss.str();
+}
+
+
+// 生物类实现
+void Creature::takeDamage(int amount) {
+    if (amount <= 0) return;
+    
+    // 先消耗格挡值
+    if (block > 0) {
+        int damageTaken = std::max(0, amount - block);
+        block = std::max(0, block - amount);
+        health -= damageTaken;
+    } else {
+        health -= amount;
+    }
+    
+    if (health <= 0) {
+        health = 0;
+        alive = false;
+    }
+}
+
+void Creature::heal(int amount) {
+    if (amount <= 0) return;
+    health = std::min(health + amount, maxHealth);
+}
+
+
+void Creature::printStatus() const {
+    std::cout << name << " - Health: " << health << "/" << maxHealth  
+              << " Block: " << block << std::endl;
+    
+    if (!statusEffects.empty()) {
+        std::cout << "Status effects: ";
+        for (const auto& effect : statusEffects) {
+            std::cout << effect->getInfo() << " ";
+        }
+        std::cout << std::endl;
+    }
+}
+
+void Creature::addStatusEffect(StatusType type, int intensity, int duration, bool isPermanent) {
+    switch (type) {
+        case StatusType::STRENGTH:
+            // 处理力量状态(可叠加)
+            statusEffects.push_back(std::make_unique<StatusEffect>(type, intensity, duration, isPermanent));
+            break;
+        default:
+            // 处理其他状态
+            for (auto& effect : statusEffects) {
+                if (effect->getType() == type) {
+                    if (effect->getIsPermanent()) return;
+                    if (isPermanent) {
+                        effect = std::make_unique<StatusEffect>(type, intensity, duration, isPermanent);
+                        return;
+                    }
+                    effect->setDuration(std::max(effect->getDuration(), duration));
+                    return;
+                }
+            }
+            // 添加新的状态效果
+            statusEffects.push_back(std::make_unique<StatusEffect>(type, intensity, duration, isPermanent));
+            break;
+    }
+}
+
+void Creature::updateStatusEffects() {
+    // 移除所有 update() 返回 true 的效果
+    statusEffects.erase(
+        // 第一步：将需要删除的元素移到容器末尾
+        std::remove_if(
+            statusEffects.begin(), 
+            statusEffects.end(),
+            //  lambda 表达式：判断是否需要删除
+            [](const std::unique_ptr<StatusEffect>& effect) {
+                // 如果 effect->update() 返回 true，就标记为待删除
+                return effect->update();
+            }
+        ),
+        // 第二步：删除从标记位置到末尾的所有元素
+        statusEffects.end()
+    );
+}
+
+
+// 卡牌类实现
+std::string Card::getInfo() const {
+    std::stringstream ss;
+    ss << name << " (" << energyCost << " energy) - " << description << " [";
+    
+    switch (rarity) {
+        case CardRarity::COMMON: ss << "Common"; break;
+        case CardRarity::UNCOMMON: ss << "Uncommon"; break;
+        case CardRarity::RARE: ss << "Rare"; break;
+    }
+    
+    ss << "]";
+    return ss.str();
+}
+
+// 获取怪物出招信息
+std::string Card::getInfoMonster() const{
+    std::stringstream ss;
+    ss <<  description;
+    return ss.str();
+}
+
+// 使用卡牌
+void Card::use(Creature* self, Creature* target) {
+    if (!self || !target || !target->isAlive()) return;
+
+    // 怪物无需消耗能量
+    if(type!=CardType::MONSTER){
+        // 检查能量是否足够
+        if (self->getEnergy() < getEnergyCost()) {
+            std::cout << "Not enough energy to use " << getName() << std::endl;
+            return;
+        }
+        // 消耗能量
+        self->spendEnergy(energyCost);
+    }
+
+    for(auto& effect : effects) {
+        Creature* affectedTarget = effect.getIsSelf() ? self : target;
+        float effectValue = effect.getIntensity();
+        float record = 1;
+        switch(effect.getType()) {
+            // 格挡
+            case StatusType::BLOCK:
+                for(auto& statusEffect : target->statusEffects) {
+                    if(statusEffect->getType()==StatusType::FRAIL)record *= statusEffect->getIntensity();
+                    if(statusEffect->getType()==StatusType::AGILE)effectValue += statusEffect->getIntensity();
+                }
+                effectValue *= record;
+                affectedTarget->gainBlock(effectValue);
+                std::cout << self->getName() << " used " << getName() 
+                          << ", applying" 
+                          << StatusEffect(effect.getType(), effectValue, effect.getDuration(), effect.getIsPermanent()).getInfo() << " to " << affectedTarget->getName() << std::endl;
+                break;
+            // 攻击
+            case StatusType::ATTACK:
+                for(auto& statusEffect : self->statusEffects) {
+                    if(statusEffect->getType()==StatusType::WEAK)record *= statusEffect->getIntensity();
+                    if(statusEffect->getType()==StatusType::STRENGTH)effectValue += statusEffect->getIntensity();
+                }
+                for(auto& statusEffect : target->statusEffects) {
+                    if(statusEffect->getType()==StatusType::VULNERABLE){
+                        record *= statusEffect->getIntensity();
+                        break;
+                    }
+                }
+                effectValue *= record;
+                affectedTarget->takeDamage(effectValue);
+                std::cout << self->getName() << " used " << getName() 
+                          << ", dealing " << effectValue << " damage to " << target->getName() << "!" << std::endl;
+                break;
+            // 状态
+            default:
+                affectedTarget->addStatusEffect(effect.getType(), effectValue, effect.getDuration(), effect.getIsPermanent());
+                std::cout << self->getName() << " used " << getName() 
+                          << ", applying" 
+                          << StatusEffect(effect.getType(), effectValue, effect.getDuration(), effect.getIsPermanent()).getInfo() << " to " << affectedTarget->getName() << std::endl;
+                break;
+        }
+    }
+
+}
+
+// 牌组类实现
+void Deck::addCard(std::unique_ptr<Card> card) {
+    if (card) {
+        cards.push_back(std::move(card));
+    }
+}
+
+bool Deck::removeCard(const std::string& cardName) {
+    for (auto it = cards.begin(); it != cards.end(); ++it) {
+        if ((*it)->getName() == cardName) {
+            cards.erase(it);
+            return true;
+        }
+    }
+    return false;
+}
+
+
+//洗牌，存疑
+void Deck::shuffle() {
+    static std::random_device rd;
+    static std::mt19937 g(rd());
+    std::shuffle(cards.begin(), cards.end(), g);
+}
+
+void Deck::viewAllCards() const {
+    std::cout << "Deck contains " << cards.size() << " cards:" << std::endl;
+    for (const auto& card : cards) {
+        std::cout << "- " << card->getInfo() << std::endl;
+    }
+}
+
+void Deck::moveAllCards(DrawPile& target) {
+    for (auto& card : cards) {
+        if (card) {
+            target.addCard(std::move(card));
+        }
+    }
+    cards.clear();
+}
+
+
+// 抽牌堆实现
+void DrawPile::addCard(std::unique_ptr<Card> card) {
+    if (card) {
+        cards.push_back(std::move(card));
+    }
+}
+
+void DrawPile::resetFromDiscard(std::vector<std::unique_ptr<Card>>& discardPile) {
+    cards.reserve(cards.size() + discardPile.size());
+    for (auto& card : discardPile) {
+        if (card) {
+            cards.push_back(std::move(card));
+        }
+    }
+    discardPile.clear(); // 清空弃牌堆
+    
+    // 洗牌
+    static std::random_device rd;
+    static std::mt19937 g(rd());
+    std::shuffle(cards.begin(), cards.end(), g);
+    
+    //std::cout << "抽牌堆已用尽，从弃牌堆重新补充并洗牌。" << std::endl;
+}
+
+std::unique_ptr<Card> DrawPile::drawCard() {
+    if (cards.empty()) {
+        return nullptr;
+    }
+    
+    auto card = std::move(cards.back());
+    cards.pop_back();
+    return card;
+}
+
+void DrawPile::moveAllCards(Deck& target) {
+    for (auto& card : cards) {
+        if (card) {
+            target.addCard(std::move(card));
+        }
+    }
+    cards.clear();
+}
+
+
+// 弃牌堆实现
+void DiscardPile::addDiscarded(std::unique_ptr<Card> card) {
+    if (card) {
+        discardedCards.push_back(std::move(card));
+    }
+}
+
+
+std::vector<std::unique_ptr<Card>> DiscardPile::clear() {
+    std::vector<std::unique_ptr<Card>> result;
+    result.swap(discardedCards);
+    return result;
+}
+
+void DiscardPile::moveAllCards(Deck& target) {
+    for (auto& card : discardedCards) {
+        if (card) {
+            target.addCard(std::move(card));
+        }
+    }
+    discardedCards.clear();
+}
+
+// 手牌实现
+bool Hand::drawFromDrawPile(DrawPile& drawPile, DiscardPile& discardPile) {
+    if (currentCards.size() >= maxSize) {
+        std::cout << "Hand is full, cannot draw more cards." << std::endl;
+        return false;
+    }
+    
+    // 尝试从抽牌堆抽牌
+    auto card = drawPile.drawCard();
+    
+    // 如果抽牌堆为空，从弃牌堆重置
+    if (!card) {
+        drawPile.resetFromDiscard(const_cast<std::vector<std::unique_ptr<Card>>&>(discardPile.getCards()));
+        discardPile.clear();
+        card = drawPile.drawCard();
+    }
+    
+    if (card) {
+        currentCards.push_back(std::move(card));
+        return true;
+    }
+    
+    return false;
+}
+
+bool Hand::playCard(int index, Player* player, Creature* target, DiscardPile& discardPile) {
+    if (index < 0 || index >= currentCards.size()) {
+        return false;
+    }
+    
+    // 使用卡牌
+    currentCards[index]->use(player, target);
+    
+    // 将卡牌移到弃牌堆
+    discardPile.addDiscarded(std::move(currentCards[index]));
+    currentCards.erase(currentCards.begin() + index);
+    
+    return true;
+}
+
+void Hand::discardAll(DiscardPile& discardPile) {
+    while (!currentCards.empty()) {
+        discardPile.addDiscarded(std::move(currentCards.back()));
+        currentCards.pop_back();
+    }
+}
+
+void Hand::showHand() const {
+    std::cout << "Current hand (" << currentCards.size() << "/" << maxSize << "):" << std::endl;
+    for (size_t i = 0; i < currentCards.size(); ++i) {
+        std::cout << i << ". " << currentCards[i]->getInfo() << std::endl;
+    }
+}
+
+void Hand::moveAllCards(Deck& target) {
+    for (auto& card : currentCards) {
+        if (card) {
+            target.addCard(std::move(card));
+        }
+    }
+    currentCards.clear();
+}
+
+
+// 玩家类实现
+void Player::initializeStartingDeck() {
+    // Add starting cards
+    for (int i = 0; i < 1; ++i) {
+        deck.addCard(std::make_unique<Card>(playerCards[0]));
+    }
+
+    for (int i = 0; i < 1; ++i) {
+        deck.addCard(std::make_unique<Card>(playerCards[1]));
+    }
+
+    for (int i = 0; i < 1; ++i) {
+        deck.addCard(std::make_unique<Card>(playerCards[2]));
+    }
+
+    for (int i = 0; i < 1; ++i) {
+        deck.addCard(std::make_unique<Card>(playerCards[3]));
+    }
+    
+    for (int i = 0; i < 1; ++i) {
+        deck.addCard(std::make_unique<Card>(playerCards[4]));
+    }
+
+        for (int i = 0; i < 1; ++i) {
+        deck.addCard(std::make_unique<Card>(playerCards[0]));
+    }
+
+    for (int i = 0; i < 1; ++i) {
+        deck.addCard(std::make_unique<Card>(playerCards[1]));
+    }
+
+    for (int i = 0; i < 1; ++i) {
+        deck.addCard(std::make_unique<Card>(playerCards[2]));
+    }
+
+    for (int i = 0; i < 1; ++i) {
+        deck.addCard(std::make_unique<Card>(playerCards[3]));
+    }
+    
+    for (int i = 0; i < 1; ++i) {
+        deck.addCard(std::make_unique<Card>(playerCards[4]));
+    }
+    
+    // Shuffle and populate draw pile
+    deck.shuffle();
+}
+
+
+void Player::resetTurn() {
+    energy = maxEnergy;
+    block = 0; // 格挡值每回合重置
+}
+
+
+void Player::startTurn() {
+    resetTurn();
+    std::cout << "\n===== " << getName() << "'s turn =====" << std::endl;
+    
+    // 抽5张牌
+    for (int i = 0; i < 5; ++i) {
+        if (!hand.drawFromDrawPile(drawPile, discardPile)) {
+            break;
+        }
+    }
+    
+    // 更新状态效果
+    updateStatusEffects();
+    printStatus();
+    hand.showHand();
+}
+
+
+void Player::endTurn() {
+    std::cout << "\n=====  End turn =====" << std::endl;
+    // 将手牌移到弃牌堆
+    hand.discardAll(discardPile);
+}
+
+void Player::addCardToDeck(std::unique_ptr<Card> card) {
+    if (card) {
+        discardPile.addDiscarded(std::move(card));
+        std::cout << "Obtained new card: " << card->getName() << std::endl;
+    }
+}
+
+void Player::printStatus() const{
+    std::cout << name << " - Health: " << health << "/" << maxHealth  
+              << " Block: " << block << " Energy: " << energy << "/" << maxEnergy << std::endl;
+
+    if (!statusEffects.empty()) {
+        std::cout << "Status Effects: ";
+        for (const auto& effect : statusEffects) {
+            std::cout << effect->getInfo() << " ";
+        }
+        std::cout << std::endl;
+    }
+}
+
+
+// 怪物类实现（需重写，考虑状态）
+void Monster::takeTurn(Player* player) {
+    if (!player || !player->isAlive()) return;
+    
+    std::cout << "\n===== " << getName() << "'s turn =====" << std::endl;
+    
+    // 执行攻击模式中的当前攻击
+    if (currentPatternIndex < attackPattern.size()) {
+        attackPattern[currentPatternIndex].use(this, player);
+        currentPatternIndex = (currentPatternIndex + 1) % attackPattern.size();
+    }
+
+    player->printStatus();
+
+    // 更新状态效果
+    updateStatusEffects();
+}
+void Monster::printStatus() const {
+    std::cout << name << " - Health: " << health << "/" << maxHealth  
+              << " Block: " << block << std::endl;
+    
+    if (!statusEffects.empty()) {
+        std::cout << "Status effects: ";
+        for (const auto& effect : statusEffects) {
+            std::cout << effect->getInfo() << " ";
+        }
+        std::cout << std::endl;
+    }
+}
+
+
+// CombatRoom implementation
+void CombatRoom::addMonster(std::unique_ptr<Monster> monster) {
+    if (monster) {
+        monsters.push_back(std::move(monster));
+    }
+}
+
+
+bool CombatRoom::enter(Player* player) {
+    std::cout << "\n===== Entering combat room: " << getName() << " =====" << std::endl;
+    std::cout << "Encountered enemies: ";
+    for (const auto& monster : monsters) {
+        std::cout << monster->getName() << " ";
+    }
+    std::cout << std::endl;
+    
+    // Reset monster status
+    for (auto& monster : monsters) {
+        monster->resetCombat();
+    }
+    
+    player->initializeDrawPile();
+
+    bool result;
+    bool combatActive = true;
+    while (combatActive) {
+        // Player's turn
+        player->startTurn();
+        
+        // Player actions (simplified)
+        bool turnActive = true;
+        while (turnActive && player->isAlive()) {
+            // Show hand
+            Hand& hand = player->getHand();
+            hand.showHand();
+            // Show player status
+            player->printStatus();
+            // Show monster status
+            for (auto& monster : monsters) {
+                monster->printStatus();
+            }
+            std::cout << "\nPlease choose an action:" << std::endl;
+            std::cout << "1. Use card" << std::endl;
+            std::cout << "2. End turn" << std::endl;
+            
+            int choice;
+            std::cin >> choice;
+            
+            if (choice == 1) {
+                std::cout << "Please enter the card index to use: ";
+                int cardIndex;
+                std::cin >> cardIndex;
+                
+                // Select target (simplified to first alive monster)
+                Creature* target = nullptr;
+                for (const auto& monster : monsters) {
+                    if (monster->isAlive()) {
+                        target = monster.get();
+                        break;
+                    }
+                }
+                
+                if (target && player->getHand().playCard(cardIndex, player, target, player->getDiscardPile())) {
+                    // Check if all monsters are defeated
+                    bool allDead = true;
+                    for (const auto& monster : monsters) {
+                        if (monster->isAlive()) {
+                            allDead = false;
+                            break;
+                        }
+                    }
+                    
+                    if (allDead) {
+                        result = true;
+                        break; // All monsters dead, end player turn
+                    }
+                }
+            } else if (choice == 2) {
+                turnActive = false;
+            }
+        }
+        
+        player->endTurn();
+        
+        // Check if player is dead
+        if (!player->isAlive()) {
+            combatActive = false;
+            result = false;
+            break;
+        }
+        
+        // Check if all monsters are defeated
+        bool allDead = true;
+        for (const auto& monster : monsters) {
+            if (monster->isAlive()) {
+                allDead = false;
+                break;
+            }
+        }
+        
+        if (allDead) {
+            result = true;
+            combatActive = false;
+            break;
+        }
+        
+        // Monsters' turn
+        for (auto& monster : monsters) {
+            if (monster->isAlive()) {
+                monster->takeTurn(player);
+                
+                // Check if player is dead
+                if (!player->isAlive()) {
+                    combatActive = false;
+                    result = false;
+                    break;
+                }
+            }
+        }
+    }
+    player->updatadeck();
+
+    if (result) {
+        std::cout << "Combat victory" << std::endl;
+        //后续填充奖励卡牌
+        return true;
+    } else {
+        std::cout << "Combat defeat" << std::endl;
+        return false;
+    }
+}
+
+// 楼层类实现
+void Floor::addRoom(std::unique_ptr<Room> room) {
+    if (room) {
+        rooms.push_back(std::move(room));
+    }
+}
+
+bool Floor::nextRoom(Player* player) {
+    if (currentRoomIndex >= rooms.size()) {
+        return false;
+    }
+    
+    rooms[currentRoomIndex]->enter(player);
+    currentRoomIndex++;
+    return true;
+}
+
+bool Floor::isFloorCompleted() const {
+    return currentRoomIndex >= rooms.size();
+}
+
+
+// 游戏类实现
+void Game::initialize(int numFloors) {
+    std::cout << "===== welcome to the game =====" << std::endl;
+    
+    // 生成楼层
+    for (int i = 0; i < numFloors; ++i) {
+        generateFloor(i + 1);
+    }
+}
+
+//后期需重写
+void Game::generateFloor(int floorNumber) {
+    auto floor = std::make_unique<Floor>(floorNumber);
+
+    // Add rooms to the floor (simplified version)
+    // 1. Add combat room
+    Monster monster(monsters[0]);
+
+    auto combatRoom = std::make_unique<CombatRoom>("Monster Nest");
+    combatRoom->addMonster(std::make_unique<Monster>(monster));
+
+
+    floor->addRoom(std::move(combatRoom));
+
+    // 2. Add another combat room
+    Monster monster2(monsters[1]);
+
+    auto combatRoom2 = std::make_unique<CombatRoom>("Dark Corridor");
+    combatRoom2->addMonster(std::make_unique<Monster>(monster2));
+    floor->addRoom(std::move(combatRoom2));
+
+    floors.push_back(std::move(floor));
+}
+
+void Game::run() {
+    while (isRunning && currentFloorIndex < floors.size()) {
+        Floor* currentFloor = floors[currentFloorIndex].get();
+        std::cout << "\n=====  " << currentFloor->getFloorNumber() << " floor =====" << std::endl;
+        
+        // 遍历当前楼层的所有房间
+        while (!currentFloor->isFloorCompleted()) {
+            if (!currentFloor->nextRoom(player.get())) {
+                break;
+            }
+            
+            // 检查玩家是否死亡
+            if (!player->isAlive()) {
+                gameOver(false);
+                return;
+            }
+        }
+        
+        currentFloorIndex++;
+    }
+    
+    // 如果所有楼层都完成了，游戏胜利
+    if (player->isAlive()) {
+        gameOver(true);
+    }
+}
+
+void Game::gameOver(bool victory) {
+    isRunning = false;
+    if (victory) {
+        std::cout << "\n===== Congratulations! You have successfully cleared all floors! =====" << std::endl;
+    } else {
+    std::cout << "\n===== Game over, your adventure has failed. =====" << std::endl;
+    }
+}

@@ -1,0 +1,62 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>ATTACK.png</file>
+        <file>background.png</file>
+        <file>DEFINE.png</file>
+        <file>Monster1.png</file>
+        <file>player.png</file>
+        <file>game.png</file>
+    </qresource>
+    <qresource prefix="/monsters">
+        <file>monsters/Cultist.png</file>
+        <file>monsters/Fungi_Beast.png</file>
+        <file>monsters/Gremlin_Nob.png</file>
+        <file>monsters/Gremlin.png</file>
+        <file>monsters/Hexaghost.png</file>
+        <file>monsters/Jaw_Worm.png</file>
+        <file>monsters/Louse.png</file>
+        <file>monsters/Sentry.png</file>
+        <file>monsters/Slaver.png</file>
+        <file>monsters/Slime_Boss.png</file>
+        <file>monsters/Slime.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>cards/bilei.png</file>
+        <file>cards/cansha.png</file>
+        <file>cards/daji.png</file>
+        <file>cards/emoxingtai.png</file>
+        <file>cards/fangxue.png</file>
+        <file>cards/fangyu.png</file>
+        <file>cards/feijianhuixuanbiao.png</file>
+        <file>cards/fennu.png</file>
+        <file>cards/huodongjirou.png</file>
+        <file>cards/jianbingdaji.png</file>
+        <file>cards/jiaoxie.png</file>
+        <file>cards/jingangbi.png</file>
+        <file>cards/jinshuhua.png</file>
+        <file>cards/kuangyedaji.png</file>
+        <file>cards/kuiranbudong.png</file>
+        <file>cards/lianxuquan.png</file>
+        <file>cards/nianye.png</file>
+        <file>cards/ranshao.png</file>
+        <file>cards/shanggouquan.png</file>
+        <file>cards/shangkou.png</file>
+        <file>cards/shengnu.png</file>
+        <file>cards/shuangchongdaji.png</file>
+        <file>cards/songjianwushi.png</file>
+        <file>cards/tiezhanbo.png</file>
+        <file>cards/tongji.png</file>
+        <file>cards/touchui.png</file>
+        <file>cards/wumouchongfeng.png</file>
+        <file>cards/youlingkaijia.png</file>
+        <file>cards/yunxuan.png</file>
+        <file>cards/yuxueshu.png</file>
+        <file>cards/zhongchui.png</file>
+        <file>cards/zhongren.png</file>
+        <file>cards/zhuoshang.png</file>
+        <file>cards/zhuoregongji.png</file>
+
+        <file>victory.png</file>
+        <file>defeat.png</file>
+    </qresource>
+</RCC>

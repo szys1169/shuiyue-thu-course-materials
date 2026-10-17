@@ -1,0 +1,3809 @@
+{
+  "date": "2026-10-18",
+  "course": "计算机类/面向对象程序设计",
+  "summary": {
+    "batch": 16,
+    "course": "面向对象程序设计",
+    "selected_files": 542,
+    "source_files": 482,
+    "provenance": 60,
+    "excluded_files": 356,
+    "legacy_paths_merged": 0
+  },
+  "files": [
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第一题：简单的软件工程团队/0.in",
+      "sha256": "644e32f782d202bccf7b02054f02d7723bb5eaa745225bb0ddbeac10e6d710f0",
+      "original_sha256": "644e32f782d202bccf7b02054f02d7723bb5eaa745225bb0ddbeac10e6d710f0",
+      "bytes": 178,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第一题：简单的软件工程团队/0.out",
+      "sha256": "a2142d03c53b9d00462dc786c3b7fd255045b8181390a2376d5a6d3c428516f5",
+      "original_sha256": "a2142d03c53b9d00462dc786c3b7fd255045b8181390a2376d5a6d3c428516f5",
+      "bytes": 160,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第一题：简单的软件工程团队/1.png",
+      "sha256": "642eebfe78a1ff22adb16f42839aabecec5bcb2616b6213c43aecaf7caf1af85",
+      "original_sha256": "642eebfe78a1ff22adb16f42839aabecec5bcb2616b6213c43aecaf7caf1af85",
+      "bytes": 475047,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第一题：简单的软件工程团队/2.png",
+      "sha256": "85ace63cea10c123e9beb168e8a600dcaf14fdfc7bc0ce1301c4c08fe14caf7b",
+      "original_sha256": "85ace63cea10c123e9beb168e8a600dcaf14fdfc7bc0ce1301c4c08fe14caf7b",
+      "bytes": 112179,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第三题：多维向量/1.png",
+      "sha256": "0d8f4d3589dd2ded9ddeceb17aa274816f9ca763207643ea2eee4f247434c4ce",
+      "original_sha256": "0d8f4d3589dd2ded9ddeceb17aa274816f9ca763207643ea2eee4f247434c4ce",
+      "bytes": 282102,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第三题：多维向量/2.png",
+      "sha256": "69b42f28e55ad3e1f2af64d218faa274ebe4e07786506250218b332c12d0bfeb",
+      "original_sha256": "69b42f28e55ad3e1f2af64d218faa274ebe4e07786506250218b332c12d0bfeb",
+      "bytes": 261808,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第三题：多维向量/3.png",
+      "sha256": "2bd61cb1863d572baa89217c63f3c6293d8010eb761f70acffd359dd24937b70",
+      "original_sha256": "2bd61cb1863d572baa89217c63f3c6293d8010eb761f70acffd359dd24937b70",
+      "bytes": 421024,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第三题：多维向量/4.png",
+      "sha256": "c35b06b9f0423d1fc0da7252776e0220aac68d8f0aadfc919c53519a272525db",
+      "original_sha256": "c35b06b9f0423d1fc0da7252776e0220aac68d8f0aadfc919c53519a272525db",
+      "bytes": 76639,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第二题：草莓巧克力王国/1.png",
+      "sha256": "2eec664ec1fb347a301f366ba34e46858183ca4594bf501d3cc529e9d6bd2a0b",
+      "original_sha256": "2eec664ec1fb347a301f366ba34e46858183ca4594bf501d3cc529e9d6bd2a0b",
+      "bytes": 263178,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第二题：草莓巧克力王国/2.png",
+      "sha256": "13fe181205c296de69c1a9b7e6241c698699e2d570356374cb5c4222a4785c1b",
+      "original_sha256": "13fe181205c296de69c1a9b7e6241c698699e2d570356374cb5c4222a4785c1b",
+      "bytes": 226947,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第二题：草莓巧克力王国/3.png",
+      "sha256": "7c4912f06477200dcff8e7b4dff2d284ad410dc3c95053b295751fcfc9289896",
+      "original_sha256": "7c4912f06477200dcff8e7b4dff2d284ad410dc3c95053b295751fcfc9289896",
+      "bytes": 127839,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第一题：简单的软件工程团队/个人解答/0.in",
+      "sha256": "644e32f782d202bccf7b02054f02d7723bb5eaa745225bb0ddbeac10e6d710f0",
+      "original_sha256": "644e32f782d202bccf7b02054f02d7723bb5eaa745225bb0ddbeac10e6d710f0",
+      "bytes": 178,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第一题：简单的软件工程团队/个人解答/0.out",
+      "sha256": "a2142d03c53b9d00462dc786c3b7fd255045b8181390a2376d5a6d3c428516f5",
+      "original_sha256": "a2142d03c53b9d00462dc786c3b7fd255045b8181390a2376d5a6d3c428516f5",
+      "bytes": 160,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第一题：简单的软件工程团队/个人解答/agent.cpp",
+      "sha256": "f5eef6bab450a123f582375155e7db70d12f6c228f20a1a92d8b030018ed05ad",
+      "original_sha256": "f5eef6bab450a123f582375155e7db70d12f6c228f20a1a92d8b030018ed05ad",
+      "bytes": 428,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第一题：简单的软件工程团队/个人解答/agent.h",
+      "sha256": "9c8a54e800d4bcedc3e549259cf3fb2dbcd7f1762489847ddad25b1c64f5dd51",
+      "original_sha256": "9c8a54e800d4bcedc3e549259cf3fb2dbcd7f1762489847ddad25b1c64f5dd51",
+      "bytes": 443,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第一题：简单的软件工程团队/个人解答/coder.h",
+      "sha256": "1f2b8ccf59a5ae28af83ea7ed5104ddf36ab29c1a1ac64c34a3ed6e94bf51ff5",
+      "original_sha256": "1f2b8ccf59a5ae28af83ea7ed5104ddf36ab29c1a1ac64c34a3ed6e94bf51ff5",
+      "bytes": 478,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第一题：简单的软件工程团队/个人解答/main.cpp",
+      "sha256": "8b1d8eb3b471be28c441a0b96d226d9423041822cae311d98a7c74ff96234ab0",
+      "original_sha256": "8b1d8eb3b471be28c441a0b96d226d9423041822cae311d98a7c74ff96234ab0",
+      "bytes": 734,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第一题：简单的软件工程团队/个人解答/Makefile",
+      "sha256": "91408c9a3400832b9ac5e1d31702ef1b0990f82c07ea7641b7de50e1a3a63577",
+      "original_sha256": "91408c9a3400832b9ac5e1d31702ef1b0990f82c07ea7641b7de50e1a3a63577",
+      "bytes": 121,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第一题：简单的软件工程团队/个人解答/tester.h",
+      "sha256": "3407851a001370fbff6b1c696e7b97a23ba5d575ac741e7727f6b7cbc2bd8e89",
+      "original_sha256": "3407851a001370fbff6b1c696e7b97a23ba5d575ac741e7727f6b7cbc2bd8e89",
+      "bytes": 625,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第三题：多维向量/题目框架与样例/array.h",
+      "sha256": "17b1f15d9c952794077b2948a05e68f7252ab095173f95d941330a78f2af80f8",
+      "original_sha256": "17b1f15d9c952794077b2948a05e68f7252ab095173f95d941330a78f2af80f8",
+      "bytes": 1143,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第三题：多维向量/题目框架与样例/1.out",
+      "sha256": "862c3afa0da8ae4e2ed58a321e3f95cd52d033fce4aa6d7972b8ade009ba3139",
+      "original_sha256": "862c3afa0da8ae4e2ed58a321e3f95cd52d033fce4aa6d7972b8ade009ba3139",
+      "bytes": 10,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第三题：多维向量/题目框架与样例/2.out",
+      "sha256": "f2be64f3f85c61b70ad394e624fde042f9220605c9bc7ac9fd3c5d49ca06d7c5",
+      "original_sha256": "f2be64f3f85c61b70ad394e624fde042f9220605c9bc7ac9fd3c5d49ca06d7c5",
+      "bytes": 1644,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第三题：多维向量/题目框架与样例/3.out",
+      "sha256": "395f6fcfcf0b7d77e2fb7213b883205672a363b67978c23307c44ddd747568c3",
+      "original_sha256": "395f6fcfcf0b7d77e2fb7213b883205672a363b67978c23307c44ddd747568c3",
+      "bytes": 206,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第三题：多维向量/题目框架与样例/4.out",
+      "sha256": "2a8bf13ac5bae0afa67b382cc26b135cfce27c15788b515c80dc4a98b547e788",
+      "original_sha256": "2a8bf13ac5bae0afa67b382cc26b135cfce27c15788b515c80dc4a98b547e788",
+      "bytes": 484,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第三题：多维向量/题目框架与样例/5.out",
+      "sha256": "101e1be403306884368d0c02c45ec34feb78fe355af3d87180d928e6a77a09c1",
+      "original_sha256": "101e1be403306884368d0c02c45ec34feb78fe355af3d87180d928e6a77a09c1",
+      "bytes": 2679,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第三题：多维向量/题目框架与样例/6.out",
+      "sha256": "42a56a56dc9b9ff73dc079ec90206a45ecbfb1315897e15838df8e7099d3e18c",
+      "original_sha256": "42a56a56dc9b9ff73dc079ec90206a45ecbfb1315897e15838df8e7099d3e18c",
+      "bytes": 2681,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第三题：多维向量/题目框架与样例/main1.cpp",
+      "sha256": "4602a6abbc1e28d155e3820464ef5e330c10b353d587cc81b3039255f3e64ed8",
+      "original_sha256": "4602a6abbc1e28d155e3820464ef5e330c10b353d587cc81b3039255f3e64ed8",
+      "bytes": 621,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第三题：多维向量/题目框架与样例/main2.cpp",
+      "sha256": "487718b468b5abf951ded2466c5afc25508bef7f89c8af35ae287f9a0a79b155",
+      "original_sha256": "487718b468b5abf951ded2466c5afc25508bef7f89c8af35ae287f9a0a79b155",
+      "bytes": 763,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第三题：多维向量/题目框架与样例/main3.cpp",
+      "sha256": "a4af2cb66ae2b37517dee863c10f3a4d8dcb4178f1d44f7fc4ecdf611168bcb2",
+      "original_sha256": "a4af2cb66ae2b37517dee863c10f3a4d8dcb4178f1d44f7fc4ecdf611168bcb2",
+      "bytes": 964,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第三题：多维向量/题目框架与样例/main4.cpp",
+      "sha256": "febeb832327f41484614ed8487b85a279b8b3e27ffa6698c98b2956d97f92b0d",
+      "original_sha256": "febeb832327f41484614ed8487b85a279b8b3e27ffa6698c98b2956d97f92b0d",
+      "bytes": 674,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第三题：多维向量/题目框架与样例/main5.cpp",
+      "sha256": "0fa25f22eec37b3e264ff9557bffae928bbabc256facaadc331194dcd1ec930a",
+      "original_sha256": "0fa25f22eec37b3e264ff9557bffae928bbabc256facaadc331194dcd1ec930a",
+      "bytes": 681,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第三题：多维向量/题目框架与样例/main6.cpp",
+      "sha256": "4c7a9e272b4ae0fe00c7479a2672b3f1b02a381a8ea6aee9cb14aeeee0f6dd01",
+      "original_sha256": "4c7a9e272b4ae0fe00c7479a2672b3f1b02a381a8ea6aee9cb14aeeee0f6dd01",
+      "bytes": 806,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第三题：多维向量/题目框架与样例/Makefile",
+      "sha256": "af80acca0f807e173c67d02943f79d9fdd8974324eb443f20b6a0ffe69ebdf3a",
+      "original_sha256": "af80acca0f807e173c67d02943f79d9fdd8974324eb443f20b6a0ffe69ebdf3a",
+      "bytes": 56,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第三题：多维向量/题目框架与样例/node.h",
+      "sha256": "922d8ef5eeeea6d4a1d8b0622a882713d6c1c249d9f3034c354d2ab1bd995bd6",
+      "original_sha256": "922d8ef5eeeea6d4a1d8b0622a882713d6c1c249d9f3034c354d2ab1bd995bd6",
+      "bytes": 1571,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第三题：多维向量/个人解答/1.out",
+      "sha256": "862c3afa0da8ae4e2ed58a321e3f95cd52d033fce4aa6d7972b8ade009ba3139",
+      "original_sha256": "862c3afa0da8ae4e2ed58a321e3f95cd52d033fce4aa6d7972b8ade009ba3139",
+      "bytes": 10,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第三题：多维向量/个人解答/2.out",
+      "sha256": "f2be64f3f85c61b70ad394e624fde042f9220605c9bc7ac9fd3c5d49ca06d7c5",
+      "original_sha256": "f2be64f3f85c61b70ad394e624fde042f9220605c9bc7ac9fd3c5d49ca06d7c5",
+      "bytes": 1644,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第三题：多维向量/个人解答/3.out",
+      "sha256": "395f6fcfcf0b7d77e2fb7213b883205672a363b67978c23307c44ddd747568c3",
+      "original_sha256": "395f6fcfcf0b7d77e2fb7213b883205672a363b67978c23307c44ddd747568c3",
+      "bytes": 206,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第三题：多维向量/个人解答/4.out",
+      "sha256": "2a8bf13ac5bae0afa67b382cc26b135cfce27c15788b515c80dc4a98b547e788",
+      "original_sha256": "2a8bf13ac5bae0afa67b382cc26b135cfce27c15788b515c80dc4a98b547e788",
+      "bytes": 484,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第三题：多维向量/个人解答/5.out",
+      "sha256": "101e1be403306884368d0c02c45ec34feb78fe355af3d87180d928e6a77a09c1",
+      "original_sha256": "101e1be403306884368d0c02c45ec34feb78fe355af3d87180d928e6a77a09c1",
+      "bytes": 2679,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第三题：多维向量/个人解答/6.out",
+      "sha256": "42a56a56dc9b9ff73dc079ec90206a45ecbfb1315897e15838df8e7099d3e18c",
+      "original_sha256": "42a56a56dc9b9ff73dc079ec90206a45ecbfb1315897e15838df8e7099d3e18c",
+      "bytes": 2681,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第三题：多维向量/个人解答/array.h",
+      "sha256": "b4c0ed48bebd83291c898769f6447123cadf335928c14134718abc8cbc4329b8",
+      "original_sha256": "b4c0ed48bebd83291c898769f6447123cadf335928c14134718abc8cbc4329b8",
+      "bytes": 2020,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第三题：多维向量/个人解答/main.cpp",
+      "sha256": "4602a6abbc1e28d155e3820464ef5e330c10b353d587cc81b3039255f3e64ed8",
+      "original_sha256": "4602a6abbc1e28d155e3820464ef5e330c10b353d587cc81b3039255f3e64ed8",
+      "bytes": 621,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第三题：多维向量/个人解答/main2.cpp",
+      "sha256": "487718b468b5abf951ded2466c5afc25508bef7f89c8af35ae287f9a0a79b155",
+      "original_sha256": "487718b468b5abf951ded2466c5afc25508bef7f89c8af35ae287f9a0a79b155",
+      "bytes": 763,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第三题：多维向量/个人解答/main3.cpp",
+      "sha256": "a4af2cb66ae2b37517dee863c10f3a4d8dcb4178f1d44f7fc4ecdf611168bcb2",
+      "original_sha256": "a4af2cb66ae2b37517dee863c10f3a4d8dcb4178f1d44f7fc4ecdf611168bcb2",
+      "bytes": 964,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第三题：多维向量/个人解答/main4.cpp",
+      "sha256": "febeb832327f41484614ed8487b85a279b8b3e27ffa6698c98b2956d97f92b0d",
+      "original_sha256": "febeb832327f41484614ed8487b85a279b8b3e27ffa6698c98b2956d97f92b0d",
+      "bytes": 674,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第三题：多维向量/个人解答/main5.cpp",
+      "sha256": "0fa25f22eec37b3e264ff9557bffae928bbabc256facaadc331194dcd1ec930a",
+      "original_sha256": "0fa25f22eec37b3e264ff9557bffae928bbabc256facaadc331194dcd1ec930a",
+      "bytes": 681,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第三题：多维向量/个人解答/main6.cpp",
+      "sha256": "4c7a9e272b4ae0fe00c7479a2672b3f1b02a381a8ea6aee9cb14aeeee0f6dd01",
+      "original_sha256": "4c7a9e272b4ae0fe00c7479a2672b3f1b02a381a8ea6aee9cb14aeeee0f6dd01",
+      "bytes": 806,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第三题：多维向量/个人解答/Makefile",
+      "sha256": "53023b0d84a347c367ab60fc15c14b1a2a66511d8c7221289df3244ab14291ae",
+      "original_sha256": "53023b0d84a347c367ab60fc15c14b1a2a66511d8c7221289df3244ab14291ae",
+      "bytes": 46,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第三题：多维向量/个人解答/node.h",
+      "sha256": "922d8ef5eeeea6d4a1d8b0622a882713d6c1c249d9f3034c354d2ab1bd995bd6",
+      "original_sha256": "922d8ef5eeeea6d4a1d8b0622a882713d6c1c249d9f3034c354d2ab1bd995bd6",
+      "bytes": 1571,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第二题：草莓巧克力王国/题目框架与样例/event.h",
+      "sha256": "2f4242014a6e6f4a7af93af2e0d64d0875b5716b3b1c9703acdad52161b4fa3c",
+      "original_sha256": "2f4242014a6e6f4a7af93af2e0d64d0875b5716b3b1c9703acdad52161b4fa3c",
+      "bytes": 364,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第二题：草莓巧克力王国/题目框架与样例/main.cpp",
+      "sha256": "3f258bc79d5e6a4ed6dee05a8f83e3ebe583e1856eda3295c610da5c5bbca6d9",
+      "original_sha256": "3f258bc79d5e6a4ed6dee05a8f83e3ebe583e1856eda3295c610da5c5bbca6d9",
+      "bytes": 982,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第二题：草莓巧克力王国/题目框架与样例/makefile",
+      "sha256": "7d2b2a435a72a2db7da8619c717507870e6cff9519a988a7d265b026eb8e1d4f",
+      "original_sha256": "7d2b2a435a72a2db7da8619c717507870e6cff9519a988a7d265b026eb8e1d4f",
+      "bytes": 98,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第二题：草莓巧克力王国/题目框架与样例/strawchoco.cpp",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "original_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第二题：草莓巧克力王国/题目框架与样例/strawchoco.h",
+      "sha256": "b3adf106d95b8934f690943f2921308b90be5b766c4c8ba250c792de56400201",
+      "original_sha256": "b3adf106d95b8934f690943f2921308b90be5b766c4c8ba250c792de56400201",
+      "bytes": 13,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第二题：草莓巧克力王国/个人解答/event.h",
+      "sha256": "2f4242014a6e6f4a7af93af2e0d64d0875b5716b3b1c9703acdad52161b4fa3c",
+      "original_sha256": "2f4242014a6e6f4a7af93af2e0d64d0875b5716b3b1c9703acdad52161b4fa3c",
+      "bytes": 364,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第二题：草莓巧克力王国/个人解答/main.cpp",
+      "sha256": "3f258bc79d5e6a4ed6dee05a8f83e3ebe583e1856eda3295c610da5c5bbca6d9",
+      "original_sha256": "3f258bc79d5e6a4ed6dee05a8f83e3ebe583e1856eda3295c610da5c5bbca6d9",
+      "bytes": 982,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第二题：草莓巧克力王国/个人解答/makefile",
+      "sha256": "7d2b2a435a72a2db7da8619c717507870e6cff9519a988a7d265b026eb8e1d4f",
+      "original_sha256": "7d2b2a435a72a2db7da8619c717507870e6cff9519a988a7d265b026eb8e1d4f",
+      "bytes": 98,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第二题：草莓巧克力王国/个人解答/strawchoco.cpp",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "original_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第二题：草莓巧克力王国/个人解答/strawchoco.h",
+      "sha256": "1e9734f8bf8a8e930b685f6dd68064537458bf0420563892887b5a8843d54c88",
+      "original_sha256": "1e9734f8bf8a8e930b685f6dd68064537458bf0420563892887b5a8843d54c88",
+      "bytes": 1326,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/PVector/Makefile",
+      "sha256": "fcb9ec79c8af6758b826908a426e5921d277d3ceb6d104ffe5052ce1444134c6",
+      "original_sha256": "fcb9ec79c8af6758b826908a426e5921d277d3ceb6d104ffe5052ce1444134c6",
+      "bytes": 1122,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/PVector/figure.png",
+      "sha256": "68854a043af29fbebe3f50713df9edbfb62532b2731135965eabc0180ade5c97",
+      "original_sha256": "68854a043af29fbebe3f50713df9edbfb62532b2731135965eabc0180ade5c97",
+      "bytes": 24979,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/PVector/main_int.cpp",
+      "sha256": "d656fddacf4f00d5e7cc3f532f720d9a351071c3e72a472246e257355996935a",
+      "original_sha256": "d656fddacf4f00d5e7cc3f532f720d9a351071c3e72a472246e257355996935a",
+      "bytes": 4130,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/PVector/main_int.out",
+      "sha256": "769b5a5ace12680985fb039cee7d2eab2319346359fc251696d92350fa42bac4",
+      "original_sha256": "769b5a5ace12680985fb039cee7d2eab2319346359fc251696d92350fa42bac4",
+      "bytes": 283,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/PVector/main_point.cpp",
+      "sha256": "c414ff43c49a453d23e3512f3a9782bfb01a8e9685b41bb01ee97078e71d60d8",
+      "original_sha256": "c414ff43c49a453d23e3512f3a9782bfb01a8e9685b41bb01ee97078e71d60d8",
+      "bytes": 2054,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/PVector/main_point.out",
+      "sha256": "2c75523c2ff64b5cce7474c9942ccc6734830264b03b89d3e89f0b4c546772c7",
+      "original_sha256": "2c75523c2ff64b5cce7474c9942ccc6734830264b03b89d3e89f0b4c546772c7",
+      "bytes": 1447,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/PVector/point.cpp",
+      "sha256": "f58039c42c98be7ebd9ad27981172e26a80f1cf666ae8c453d23268b54501900",
+      "original_sha256": "f58039c42c98be7ebd9ad27981172e26a80f1cf666ae8c453d23268b54501900",
+      "bytes": 422,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/PVector/point.h",
+      "sha256": "a91edb3e44cec7049058641130879b7650e9c76ed9f9c99bde00e2cc4fbff3bb",
+      "original_sha256": "a91edb3e44cec7049058641130879b7650e9c76ed9f9c99bde00e2cc4fbff3bb",
+      "bytes": 484,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/PVector/pvector.h",
+      "sha256": "32190329e05ad9e9207bfa591aa336ae2d05c02a5ff1ac0fadb41630dc5a294f",
+      "original_sha256": "32190329e05ad9e9207bfa591aa336ae2d05c02a5ff1ac0fadb41630dc5a294f",
+      "bytes": 6639,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/PVector/pvector1.h",
+      "sha256": "cd9be974a5e1d559466fbfcbc809164c2518030d11f3e3751c2818b6b3b3c044",
+      "original_sha256": "cd9be974a5e1d559466fbfcbc809164c2518030d11f3e3751c2818b6b3b3c044",
+      "bytes": 7268,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/PyObject.h",
+      "sha256": "22f7ed7c773c27b3b1616032d1e47b5108684b9e2e5ed8741436a1fd7553f2f1",
+      "original_sha256": "22f7ed7c773c27b3b1616032d1e47b5108684b9e2e5ed8741436a1fd7553f2f1",
+      "bytes": 638,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/Severance/Device.cpp",
+      "sha256": "d7790c64578a53e3c7dd0011a430616eb942d9a8108fbff4140c7d64fc39e28a",
+      "original_sha256": "d7790c64578a53e3c7dd0011a430616eb942d9a8108fbff4140c7d64fc39e28a",
+      "bytes": 1375,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/Severance/Device.h",
+      "sha256": "a695759cf90d77e393b1021aeb82a264ffcafe4378759c65369139728b6d067d",
+      "original_sha256": "a695759cf90d77e393b1021aeb82a264ffcafe4378759c65369139728b6d067d",
+      "bytes": 1106,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/Severance/Employee.cpp",
+      "sha256": "09375b1243061a22e00d1ec19e333a2f87d381bb372c6c113eb3c3235c558e4b",
+      "original_sha256": "09375b1243061a22e00d1ec19e333a2f87d381bb372c6c113eb3c3235c558e4b",
+      "bytes": 6490,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/Severance/Employee.h",
+      "sha256": "2a6ddfe852bfd82b0109c01a69bac5e55dff7607663c429160424f6dcf20a5f8",
+      "original_sha256": "2a6ddfe852bfd82b0109c01a69bac5e55dff7607663c429160424f6dcf20a5f8",
+      "bytes": 2411,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/Severance/Makefile",
+      "sha256": "5f61c5b520f1129ca3dae591c5f8198f45ee2c7d961e2b53782310b2a7090250",
+      "original_sha256": "5f61c5b520f1129ca3dae591c5f8198f45ee2c7d961e2b53782310b2a7090250",
+      "bytes": 453,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/Severance/_Device.h",
+      "sha256": "ce6f96e1d85936e2fbbd9567bab1d63620da2b50d22bf1f86d024938d2c7a5c5",
+      "original_sha256": "ce6f96e1d85936e2fbbd9567bab1d63620da2b50d22bf1f86d024938d2c7a5c5",
+      "bytes": 425,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/Severance/_Employee.h",
+      "sha256": "ba75988ceadb371b0709b1ef8f75a4235a08ddc29aa128d1b23e98e56fa14eeb",
+      "original_sha256": "ba75988ceadb371b0709b1ef8f75a4235a08ddc29aa128d1b23e98e56fa14eeb",
+      "bytes": 775,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/Severance/main.cpp",
+      "sha256": "269040ff3f636c0c3499ada2f79f48d75fbd55da3d6672e7a1d60bba6391d1c1",
+      "original_sha256": "269040ff3f636c0c3499ada2f79f48d75fbd55da3d6672e7a1d60bba6391d1c1",
+      "bytes": 2622,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/基础算术/divide.cpp",
+      "sha256": "0ced0384aeba47820163aecf0e4ceb9ea7b5904d8c56a73f6517063d7ee3f5ba",
+      "original_sha256": "0ced0384aeba47820163aecf0e4ceb9ea7b5904d8c56a73f6517063d7ee3f5ba",
+      "bytes": 195,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/基础算术/functions.h",
+      "sha256": "8ac309d8ca95e0c80f323e39fa614e30484fd863f1a7b076b74658ba30ef535f",
+      "original_sha256": "8ac309d8ca95e0c80f323e39fa614e30484fd863f1a7b076b74658ba30ef535f",
+      "bytes": 142,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/基础算术/main.cpp",
+      "sha256": "fac3b2dc7a9ae92b6b2c890c904c19fd41cbb41e595c54ef2544e815b818363d",
+      "original_sha256": "fac3b2dc7a9ae92b6b2c890c904c19fd41cbb41e595c54ef2544e815b818363d",
+      "bytes": 325,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/基础算术/makefile",
+      "sha256": "79bd0fce037defd29f08a1233d84cf4b104f663196ceaa7f33d18d7554dd4bd2",
+      "original_sha256": "79bd0fce037defd29f08a1233d84cf4b104f663196ceaa7f33d18d7554dd4bd2",
+      "bytes": 422,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/基础算术/minus.cpp",
+      "sha256": "d83070fe274e0761b249249c91e7c4bf95205f3d73dd74b0b3f58fb2b968f70e",
+      "original_sha256": "d83070fe274e0761b249249c91e7c4bf95205f3d73dd74b0b3f58fb2b968f70e",
+      "bytes": 193,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/基础算术/product.cpp",
+      "sha256": "dd65a811495ea1b595fe142a796450c2422e5e386f659cb40379203e6f192d68",
+      "original_sha256": "dd65a811495ea1b595fe142a796450c2422e5e386f659cb40379203e6f192d68",
+      "bytes": 197,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/基础算术/sum.cpp",
+      "sha256": "bb9716414b6627d19f9adcb813bc4ab7a766d483e0dc78c6a9cf3617161d395a",
+      "original_sha256": "bb9716414b6627d19f9adcb813bc4ab7a766d483e0dc78c6a9cf3617161d395a",
+      "bytes": 188,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/dyf/main.cpp",
+      "sha256": "cc0eb0858ceaf410bc998ad88f0f4bb9466b678d4b2764349c6a9761699d7dcb",
+      "original_sha256": "cc0eb0858ceaf410bc998ad88f0f4bb9466b678d4b2764349c6a9761699d7dcb",
+      "bytes": 213,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/dyf/makefile",
+      "sha256": "d4c5e7f2cb4ec6abcb20da4a7eb0f29fbd8e9938834cc2c752b59662af23796f",
+      "original_sha256": "d4c5e7f2cb4ec6abcb20da4a7eb0f29fbd8e9938834cc2c752b59662af23796f",
+      "bytes": 36,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/line/Line.cpp",
+      "sha256": "d1a19fb4422c2155c6aeff6fa580cc5c97236ee22d70517974159dcb9d9f292e",
+      "original_sha256": "d1a19fb4422c2155c6aeff6fa580cc5c97236ee22d70517974159dcb9d9f292e",
+      "bytes": 16,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/line/Line.h",
+      "sha256": "0a5f785fc988cd2b13588b84e35212c2b54e559ba4ca6aa2bd6a79ccc8764f72",
+      "original_sha256": "0a5f785fc988cd2b13588b84e35212c2b54e559ba4ca6aa2bd6a79ccc8764f72",
+      "bytes": 534,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/line/Point.cpp",
+      "sha256": "e4ef88e81b1b099753153f886430cfc8dc1b898a5da4d93def978b07c9d00153",
+      "original_sha256": "e4ef88e81b1b099753153f886430cfc8dc1b898a5da4d93def978b07c9d00153",
+      "bytes": 39,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/line/Point.h",
+      "sha256": "104027cf1f35e417a8cb0da57d24ba1c3d3bbcd2db0e17c051ad4e6caea30ec8",
+      "original_sha256": "104027cf1f35e417a8cb0da57d24ba1c3d3bbcd2db0e17c051ad4e6caea30ec8",
+      "bytes": 429,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/line/main.cpp",
+      "sha256": "033f109a08fd1abc2c7a593483b385dcdfffae10dc539eaee7610dd58f937023",
+      "original_sha256": "033f109a08fd1abc2c7a593483b385dcdfffae10dc539eaee7610dd58f937023",
+      "bytes": 581,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/map/Makefile",
+      "sha256": "8ed51df35e1e1b1c4d3ba62ef2c5bdfd55ec576373c1dfb7a2c414cc2d69b32b",
+      "original_sha256": "8ed51df35e1e1b1c4d3ba62ef2c5bdfd55ec576373c1dfb7a2c414cc2d69b32b",
+      "bytes": 77,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/map/Map.1.cpp",
+      "sha256": "54fd3714bc10c67a8711fecbceb0ca0a8509196b87c90194f7f4f77694c7aab1",
+      "original_sha256": "54fd3714bc10c67a8711fecbceb0ca0a8509196b87c90194f7f4f77694c7aab1",
+      "bytes": 699,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/map/Map.1.h",
+      "sha256": "c579f173d3f4158950ab81fa9c3b19c86860319e08ad1626c741f6ffa2a6318f",
+      "original_sha256": "c579f173d3f4158950ab81fa9c3b19c86860319e08ad1626c741f6ffa2a6318f",
+      "bytes": 250,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/map/Map.cpp",
+      "sha256": "9aefec7cb720d498889e11363c76688e6a6069927bf479f09e602e2d0952e5d9",
+      "original_sha256": "9aefec7cb720d498889e11363c76688e6a6069927bf479f09e602e2d0952e5d9",
+      "bytes": 894,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/map/Map.h",
+      "sha256": "19cbe8aee376495d8a11912d0f96e2fc0fa4fe9190c32566c9a83e57a8839870",
+      "original_sha256": "19cbe8aee376495d8a11912d0f96e2fc0fa4fe9190c32566c9a83e57a8839870",
+      "bytes": 255,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/map/Pair.cpp",
+      "sha256": "f7df0809dc0df3663f9411fc87be61998004c621f42d6cd6779fd0fd207aa0ff",
+      "original_sha256": "f7df0809dc0df3663f9411fc87be61998004c621f42d6cd6779fd0fd207aa0ff",
+      "bytes": 365,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/map/Pair.h",
+      "sha256": "be47162af28a87558ba3c8056b3eec0b1f3f90e320d9e8ea3b5fc9b724b0e015",
+      "original_sha256": "be47162af28a87558ba3c8056b3eec0b1f3f90e320d9e8ea3b5fc9b724b0e015",
+      "bytes": 257,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/map/main.cpp",
+      "sha256": "8c2bcceff3bb0d9fb6b256ee42c37c499058856f7c2b444da1511b0adc5cd741",
+      "original_sha256": "8c2bcceff3bb0d9fb6b256ee42c37c499058856f7c2b444da1511b0adc5cd741",
+      "bytes": 641,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/python/Makefile",
+      "sha256": "a55bfb075a32864d3d16c7015d77dba5fea9663fe5af53e2c101f6f267da6d5c",
+      "original_sha256": "a55bfb075a32864d3d16c7015d77dba5fea9663fe5af53e2c101f6f267da6d5c",
+      "bytes": 308,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/python/PyObject(2) copy.h",
+      "sha256": "f2f1883004d41c85b8bed198f303e6415ebf037a8ea2587c80c9f0a96d125f46",
+      "original_sha256": "f2f1883004d41c85b8bed198f303e6415ebf037a8ea2587c80c9f0a96d125f46",
+      "bytes": 3123,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/python/PyObject(2).h",
+      "sha256": "1407432f20bac79b30d5db5b210fd268c367445127a1eae786cfcfcd73febed6",
+      "original_sha256": "1407432f20bac79b30d5db5b210fd268c367445127a1eae786cfcfcd73febed6",
+      "bytes": 1181,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/python/PyObject(5).h",
+      "sha256": "4bc60549b74c795754c9bbb5ce66c2906740655f6e487796910c1b09d60a11c9",
+      "original_sha256": "4bc60549b74c795754c9bbb5ce66c2906740655f6e487796910c1b09d60a11c9",
+      "bytes": 2068,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/python/PyObject(7).h",
+      "sha256": "22f7ed7c773c27b3b1616032d1e47b5108684b9e2e5ed8741436a1fd7553f2f1",
+      "original_sha256": "22f7ed7c773c27b3b1616032d1e47b5108684b9e2e5ed8741436a1fd7553f2f1",
+      "bytes": 638,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/python/PyObject.h",
+      "sha256": "b9527f5c0e91b101eb449333de586ea3653f3895dd7c0ef6852fa7d769960d82",
+      "original_sha256": "b9527f5c0e91b101eb449333de586ea3653f3895dd7c0ef6852fa7d769960d82",
+      "bytes": 2023,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/python/main.cpp",
+      "sha256": "ea1e792a0701bdfe2a2a81d642df2f4d577c9303043f3999351b069b10da9f81",
+      "original_sha256": "ea1e792a0701bdfe2a2a81d642df2f4d577c9303043f3999351b069b10da9f81",
+      "bytes": 2535,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/cards.cpp",
+      "sha256": "6221707b6f4ee7b47f4db621f52ad3af0a21ab896e7c68d2654a7f685983bcae",
+      "original_sha256": "6221707b6f4ee7b47f4db621f52ad3af0a21ab896e7c68d2654a7f685983bcae",
+      "bytes": 19842,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/cards.h",
+      "sha256": "5770063888a713fbd14c65bf9c7da6b90405f0caae3f0c1e5cd83b6176ca8054",
+      "original_sha256": "5770063888a713fbd14c65bf9c7da6b90405f0caae3f0c1e5cd83b6176ca8054",
+      "bytes": 596,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/config.h",
+      "sha256": "4a2fde070b8d6098e4637dde4be3d5582283c26f2ace215ba72494bff8930a16",
+      "original_sha256": "4a2fde070b8d6098e4637dde4be3d5582283c26f2ace215ba72494bff8930a16",
+      "bytes": 148,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/game.cpp",
+      "sha256": "fb5997d4bb6e168fb6d371bdaccf7c495b52e4d24c4f31a5b96bfb317db5b170",
+      "original_sha256": "fb5997d4bb6e168fb6d371bdaccf7c495b52e4d24c4f31a5b96bfb317db5b170",
+      "bytes": 42218,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/game.h",
+      "sha256": "2b5b7f3535bbc16e898e4ca7c2ba450dbdc0f68ddf6929394b8ff722ca070077",
+      "original_sha256": "2b5b7f3535bbc16e898e4ca7c2ba450dbdc0f68ddf6929394b8ff722ca070077",
+      "bytes": 19782,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/gamethread.h",
+      "sha256": "cdbb217b36c1e9a702fdd5f42a2dcba63c710c7cb86ce9af878e3a6864a8a3b0",
+      "original_sha256": "cdbb217b36c1e9a702fdd5f42a2dcba63c710c7cb86ce9af878e3a6864a8a3b0",
+      "bytes": 485,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/ATTACK.png",
+      "sha256": "e88dfc6157e174cf26c4e9cc958bf2e1ba27943a1d005b31c2d611acb60e3a63",
+      "original_sha256": "e88dfc6157e174cf26c4e9cc958bf2e1ba27943a1d005b31c2d611acb60e3a63",
+      "bytes": 183033,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/DEFINE.png",
+      "sha256": "887e98b246c0f3ec7bebbba9010d0ba9635645aaa431cebca7694714c11f049a",
+      "original_sha256": "887e98b246c0f3ec7bebbba9010d0ba9635645aaa431cebca7694714c11f049a",
+      "bytes": 195502,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/Monster1.png",
+      "sha256": "0c428fa14d4c540f549942771dea34794d736281fe6bedc8f395736701f439de",
+      "original_sha256": "0c428fa14d4c540f549942771dea34794d736281fe6bedc8f395736701f439de",
+      "bytes": 47038,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/background.png",
+      "sha256": "7e263457f055481e72ee526c7a691de7db7a909955dc24c999182f2d3d0a60c8",
+      "original_sha256": "7e263457f055481e72ee526c7a691de7db7a909955dc24c999182f2d3d0a60c8",
+      "bytes": 563914,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/cards/bilei.png",
+      "sha256": "e79b7ab0f394bfcd575add807cfb12286564794728079fb3ce7d4dfc2e537ee1",
+      "original_sha256": "e79b7ab0f394bfcd575add807cfb12286564794728079fb3ce7d4dfc2e537ee1",
+      "bytes": 375916,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/cards/cansha.png",
+      "sha256": "37c88b5a78ff68a5a5c84182ff9ea8adc3c4a3902893db840d7e6040d3e29a23",
+      "original_sha256": "37c88b5a78ff68a5a5c84182ff9ea8adc3c4a3902893db840d7e6040d3e29a23",
+      "bytes": 292386,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/cards/daji.png",
+      "sha256": "1634f09983b2668f565b402939e55e3dda88606f8b25a7eefd63180ada546fd2",
+      "original_sha256": "1634f09983b2668f565b402939e55e3dda88606f8b25a7eefd63180ada546fd2",
+      "bytes": 223060,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/cards/emoxingtai.png",
+      "sha256": "4f3a948b8f174ee12482f77b25e382dd16e20036ed7e8cab9964bc6e3c908817",
+      "original_sha256": "4f3a948b8f174ee12482f77b25e382dd16e20036ed7e8cab9964bc6e3c908817",
+      "bytes": 291439,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/cards/fangxue.png",
+      "sha256": "fb3a6d55743177f11d08dcf6129718da74f2359cc0d424b550aebab63618832c",
+      "original_sha256": "fb3a6d55743177f11d08dcf6129718da74f2359cc0d424b550aebab63618832c",
+      "bytes": 279549,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/cards/fangyu.png",
+      "sha256": "f0067d7e8e3f9a2e13c5bedd2d812dc6b3d75780d6c3f902ebc0be02442319a4",
+      "original_sha256": "f0067d7e8e3f9a2e13c5bedd2d812dc6b3d75780d6c3f902ebc0be02442319a4",
+      "bytes": 188089,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/cards/feijianhuixuanbiao.png",
+      "sha256": "9dfc6847f6670ffd1a85718884468681efb27cbb107c3d16db1a89dd7de9b4f0",
+      "original_sha256": "9dfc6847f6670ffd1a85718884468681efb27cbb107c3d16db1a89dd7de9b4f0",
+      "bytes": 329898,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/cards/fennu.png",
+      "sha256": "981e30998fc34d465947127f566865858e1117f51b9c12c8935c74e93163310b",
+      "original_sha256": "981e30998fc34d465947127f566865858e1117f51b9c12c8935c74e93163310b",
+      "bytes": 253713,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/cards/fileNames.txt",
+      "sha256": "277224c0c6f0d7473ebcf7bb79fbdb075635e80feccf290feb4f8116f8f8019c",
+      "original_sha256": "277224c0c6f0d7473ebcf7bb79fbdb075635e80feccf290feb4f8116f8f8019c",
+      "bytes": 484,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/cards/huodongjirou.png",
+      "sha256": "45243eaaa3025acd56523db30e44efcbd9b331a577ac068ca13c207d15c2a5a4",
+      "original_sha256": "45243eaaa3025acd56523db30e44efcbd9b331a577ac068ca13c207d15c2a5a4",
+      "bytes": 272676,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/cards/jianbingdaji.png",
+      "sha256": "630b67ed0f60481a5a97337174e59e874a354e16097af5904034d4b0f32f58c6",
+      "original_sha256": "630b67ed0f60481a5a97337174e59e874a354e16097af5904034d4b0f32f58c6",
+      "bytes": 326675,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/cards/jiaoxie.png",
+      "sha256": "5a9548a984e4922018135da0fda457b14f9131c116f5799e9e3482b5f4d4eaa6",
+      "original_sha256": "5a9548a984e4922018135da0fda457b14f9131c116f5799e9e3482b5f4d4eaa6",
+      "bytes": 278511,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/cards/jingangbi.png",
+      "sha256": "346970e145de256394677c5e0530330c6d5e2523e76611571700f11674980d9c",
+      "original_sha256": "346970e145de256394677c5e0530330c6d5e2523e76611571700f11674980d9c",
+      "bytes": 308407,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/cards/jinshuhua.png",
+      "sha256": "f7e468bffe074a43e3c665e35ea854e379bef1295da47452783c34fa538e154c",
+      "original_sha256": "f7e468bffe074a43e3c665e35ea854e379bef1295da47452783c34fa538e154c",
+      "bytes": 314148,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/cards/kuangyedaji.png",
+      "sha256": "1e75286039c97fb2a2dd55650be2c8eded0b17e6ffb7fa4adeb1857cac7b9e7b",
+      "original_sha256": "1e75286039c97fb2a2dd55650be2c8eded0b17e6ffb7fa4adeb1857cac7b9e7b",
+      "bytes": 274915,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/cards/kuiranbudong.png",
+      "sha256": "3cf6fea0531df2f05402e77fbecd0df049b8608ed35f2e24e2d74ab5712dfbb3",
+      "original_sha256": "3cf6fea0531df2f05402e77fbecd0df049b8608ed35f2e24e2d74ab5712dfbb3",
+      "bytes": 276037,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/cards/lianxuquan.png",
+      "sha256": "6223706f9c4f63a36c25ec5893e35e07a4419b0e6f893a99e81bf944db6120e3",
+      "original_sha256": "6223706f9c4f63a36c25ec5893e35e07a4419b0e6f893a99e81bf944db6120e3",
+      "bytes": 195047,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/cards/nianye.png",
+      "sha256": "6de8606c3e69c3adab83a7362643b87170b1a17a3ebaa976432926e46447c042",
+      "original_sha256": "6de8606c3e69c3adab83a7362643b87170b1a17a3ebaa976432926e46447c042",
+      "bytes": 157082,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/cards/ranshao.png",
+      "sha256": "2c8e19849b04c4497fc3522d1ef9c1afefb6ccf8b295833d723de2df92068e07",
+      "original_sha256": "2c8e19849b04c4497fc3522d1ef9c1afefb6ccf8b295833d723de2df92068e07",
+      "bytes": 239936,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/cards/shanggouquan.png",
+      "sha256": "60ded6d345547a480559f60e39bee1f0e883f9811c6c95a5fc107a225b0979e6",
+      "original_sha256": "60ded6d345547a480559f60e39bee1f0e883f9811c6c95a5fc107a225b0979e6",
+      "bytes": 265851,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/cards/shangkou.png",
+      "sha256": "63f5e595d86dade77f467387cd2321ceaa7df19a2d505d985fc2a539b7345103",
+      "original_sha256": "63f5e595d86dade77f467387cd2321ceaa7df19a2d505d985fc2a539b7345103",
+      "bytes": 144947,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/cards/shengnu.png",
+      "sha256": "342e08991973e61c9e3a70d5222af74924a5083ca786dbb1c95b7612ca856757",
+      "original_sha256": "342e08991973e61c9e3a70d5222af74924a5083ca786dbb1c95b7612ca856757",
+      "bytes": 238168,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/cards/shuangchongdaji.png",
+      "sha256": "37d4078e1786686cd92b4e7b765e3cd99f71a6456d6fe054c9376d4fa3b985cf",
+      "original_sha256": "37d4078e1786686cd92b4e7b765e3cd99f71a6456d6fe054c9376d4fa3b985cf",
+      "bytes": 217522,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/cards/songjianwushi.png",
+      "sha256": "b54a5adb955f7c402568eff825388041ae2672d2e24390453957990a2dce3b1c",
+      "original_sha256": "b54a5adb955f7c402568eff825388041ae2672d2e24390453957990a2dce3b1c",
+      "bytes": 252975,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/cards/tiezhanbo.png",
+      "sha256": "b2f8cbf8a4e1f9a9680dcfa40c863ab05401dda437d8b981e63dfc890cbcf8d0",
+      "original_sha256": "b2f8cbf8a4e1f9a9680dcfa40c863ab05401dda437d8b981e63dfc890cbcf8d0",
+      "bytes": 231197,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/cards/tongji.png",
+      "sha256": "cf270daf1fc0724451fd418a565668ae156a1364cce19fdff692712698e6dcc7",
+      "original_sha256": "cf270daf1fc0724451fd418a565668ae156a1364cce19fdff692712698e6dcc7",
+      "bytes": 191614,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/cards/touchui.png",
+      "sha256": "86f1cf1d483301d05ea1f5e3d7260084a0fcc51a9b7172226c96c11a22d6a124",
+      "original_sha256": "86f1cf1d483301d05ea1f5e3d7260084a0fcc51a9b7172226c96c11a22d6a124",
+      "bytes": 285073,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/cards/wumouchongfeng.png",
+      "sha256": "f9da093b0fd4c0a6fff9c0bba49aacd704a90fb2bf659109cd57c5596622f2a0",
+      "original_sha256": "f9da093b0fd4c0a6fff9c0bba49aacd704a90fb2bf659109cd57c5596622f2a0",
+      "bytes": 300785,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/cards/youlingkaijia.png",
+      "sha256": "7fad86164a5a809e755d722817329953f9dd51b20720176b9c913072a4b80bba",
+      "original_sha256": "7fad86164a5a809e755d722817329953f9dd51b20720176b9c913072a4b80bba",
+      "bytes": 245446,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/cards/yunxuan.png",
+      "sha256": "4bf6a5b692fdb4b489665db5c76e52cd7a5c0fdc3b40d1c780285113559124b3",
+      "original_sha256": "4bf6a5b692fdb4b489665db5c76e52cd7a5c0fdc3b40d1c780285113559124b3",
+      "bytes": 190720,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/cards/yuxueshu.png",
+      "sha256": "05892c9421c82d98e99ef7a0d28e8fa19f9c54e4eba5921c34bdaea8b330565a",
+      "original_sha256": "05892c9421c82d98e99ef7a0d28e8fa19f9c54e4eba5921c34bdaea8b330565a",
+      "bytes": 282501,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/cards/zhongchui.png",
+      "sha256": "d8c98b01dd50e6e32354a0320515816e328cad2292bd7e230f34c6159f785c2a",
+      "original_sha256": "d8c98b01dd50e6e32354a0320515816e328cad2292bd7e230f34c6159f785c2a",
+      "bytes": 235880,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/cards/zhongren.png",
+      "sha256": "ef26b666d12d229d1f6f64c2d6c849b10013d75c989db6b0483ca75c5bd15967",
+      "original_sha256": "ef26b666d12d229d1f6f64c2d6c849b10013d75c989db6b0483ca75c5bd15967",
+      "bytes": 237790,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/cards/zhuoregongji.png",
+      "sha256": "ed389549a0b8fb75d8caec9f6269e0ddc54194322d02f039cdf867387a68ca8d",
+      "original_sha256": "ed389549a0b8fb75d8caec9f6269e0ddc54194322d02f039cdf867387a68ca8d",
+      "bytes": 270661,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/cards/zhuoshang.png",
+      "sha256": "5700e4c59ae71a1d3bf0bac134103836aa82505bcc6e938137f086cefc648c15",
+      "original_sha256": "5700e4c59ae71a1d3bf0bac134103836aa82505bcc6e938137f086cefc648c15",
+      "bytes": 179863,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/defeat.jpg",
+      "sha256": "402fcb0d582cf47dd87391f8b3401c0a1fba68b579299545bc75758e4a17dbb8",
+      "original_sha256": "402fcb0d582cf47dd87391f8b3401c0a1fba68b579299545bc75758e4a17dbb8",
+      "bytes": 91654,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/defeat.png",
+      "sha256": "4a1253eebedb0156d5af210f57f568f09289abca2ae92be95d8a0a97e4db6be6",
+      "original_sha256": "4a1253eebedb0156d5af210f57f568f09289abca2ae92be95d8a0a97e4db6be6",
+      "bytes": 796211,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/game.png",
+      "sha256": "48850211b5ed6595c55ca9beb2c8cc85e1ff5d69d2061775b74495e0ca85f26c",
+      "original_sha256": "48850211b5ed6595c55ca9beb2c8cc85e1ff5d69d2061775b74495e0ca85f26c",
+      "bytes": 2093779,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/monsters/Cultist.png",
+      "sha256": "c96ba27a93674f73ccb43096e0e178b9351953168ba33882dc9c1ed898f10096",
+      "original_sha256": "c96ba27a93674f73ccb43096e0e178b9351953168ba33882dc9c1ed898f10096",
+      "bytes": 513180,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/monsters/Fungi_Beast.png",
+      "sha256": "9722478aa53bdcd0c107a86666c8a6f6a5ba32089be0fbfce5b82f453ee02a60",
+      "original_sha256": "9722478aa53bdcd0c107a86666c8a6f6a5ba32089be0fbfce5b82f453ee02a60",
+      "bytes": 501798,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/monsters/Gremlin.png",
+      "sha256": "06c2b8b725b4583888bee0d3b454ade617ebe64ff42121ce044d2aa74cb05b6c",
+      "original_sha256": "06c2b8b725b4583888bee0d3b454ade617ebe64ff42121ce044d2aa74cb05b6c",
+      "bytes": 371103,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/monsters/Gremlin_Nob.png",
+      "sha256": "04208703f7c7075f4c5e1be02f244ac9e7e1f2c12d9560aae07ff65a7e9995c0",
+      "original_sha256": "04208703f7c7075f4c5e1be02f244ac9e7e1f2c12d9560aae07ff65a7e9995c0",
+      "bytes": 425992,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/monsters/Hexaghost.png",
+      "sha256": "9781fbf15712a28d06c861f92370179ff97d6dba2b7fc487866f270ab594f0fb",
+      "original_sha256": "9781fbf15712a28d06c861f92370179ff97d6dba2b7fc487866f270ab594f0fb",
+      "bytes": 477728,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/monsters/Jaw_Worm.png",
+      "sha256": "13e0205493430b41c37dd8cc9db3d4a28ca4a0ec2cdac5ad7065b0a266c05f0a",
+      "original_sha256": "13e0205493430b41c37dd8cc9db3d4a28ca4a0ec2cdac5ad7065b0a266c05f0a",
+      "bytes": 355132,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/monsters/Louse.png",
+      "sha256": "850472b01e148a609ccc4ff9ec15539ad50fca13a543a0e427b24d0d305f3c98",
+      "original_sha256": "850472b01e148a609ccc4ff9ec15539ad50fca13a543a0e427b24d0d305f3c98",
+      "bytes": 435774,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/monsters/Sentry.png",
+      "sha256": "109406582b0f84ba80f8fdd1f9b0606bf84cc3a4ad4e5564fe18a2fd77651477",
+      "original_sha256": "109406582b0f84ba80f8fdd1f9b0606bf84cc3a4ad4e5564fe18a2fd77651477",
+      "bytes": 257923,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/monsters/Slaver.png",
+      "sha256": "9d704067bccdd4098e1c9c47ea2d92f80c2ae950d519f91811c5d9b33229bb30",
+      "original_sha256": "9d704067bccdd4098e1c9c47ea2d92f80c2ae950d519f91811c5d9b33229bb30",
+      "bytes": 331578,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/monsters/Slime.png",
+      "sha256": "f773adc6821bc34d48f214f4d605bf84d4830f4f04b263bc4264573d1cfbe688",
+      "original_sha256": "f773adc6821bc34d48f214f4d605bf84d4830f4f04b263bc4264573d1cfbe688",
+      "bytes": 288788,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/monsters/Slime_Boss.png",
+      "sha256": "3c3978d149ba0079591d626f574412251686e946728f34ee174caa29d9082d01",
+      "original_sha256": "3c3978d149ba0079591d626f574412251686e946728f34ee174caa29d9082d01",
+      "bytes": 315542,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/pic.qrc",
+      "sha256": "2fd87806805c3502991216c7411780c324c1cc8d88627ed8fbe85f71e9528a5d",
+      "original_sha256": "2fd87806805c3502991216c7411780c324c1cc8d88627ed8fbe85f71e9528a5d",
+      "bytes": 2359,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/player.png",
+      "sha256": "fe8d6f38ceefce49ac431d9aa28763e8e0d8376ba67eaeaa1bdc5b1381980991",
+      "original_sha256": "fe8d6f38ceefce49ac431d9aa28763e8e0d8376ba67eaeaa1bdc5b1381980991",
+      "bytes": 68847,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/victory.png",
+      "sha256": "45c8b722129a3754f7b35137bfae976bb5abd6d375465a19b8e5db07c37d4702",
+      "original_sha256": "45c8b722129a3754f7b35137bfae976bb5abd6d375465a19b8e5db07c37d4702",
+      "bytes": 815088,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/备选项/Monster2.png",
+      "sha256": "b37d245e768ad750e5888c8d56af5ecf79e6ff1ff0da293b128b4b7940ad5b35",
+      "original_sha256": "b37d245e768ad750e5888c8d56af5ecf79e6ff1ff0da293b128b4b7940ad5b35",
+      "bytes": 528375,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/备选项/Monster3.png",
+      "sha256": "d2d89df049869e9088c3a6b4202a91aa4105b049af7057b5a2fe4106cf8812bb",
+      "original_sha256": "d2d89df049869e9088c3a6b4202a91aa4105b049af7057b5a2fe4106cf8812bb",
+      "bytes": 27159,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/备选项/background.jpg",
+      "sha256": "6c4455754a9e95f7dbaadf385b27ca27f7018ba836daeba6a7930e73eddee1f7",
+      "original_sha256": "6c4455754a9e95f7dbaadf385b27ca27f7018ba836daeba6a7930e73eddee1f7",
+      "bytes": 32228,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/备选项/background1.png",
+      "sha256": "5163b000b61e88f0d4ba2f489678b9b316bb19a889db02515c970f8b05be7f6e",
+      "original_sha256": "5163b000b61e88f0d4ba2f489678b9b316bb19a889db02515c970f8b05be7f6e",
+      "bytes": 110237,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/备选项/background2.png",
+      "sha256": "7e263457f055481e72ee526c7a691de7db7a909955dc24c999182f2d3d0a60c8",
+      "original_sha256": "7e263457f055481e72ee526c7a691de7db7a909955dc24c999182f2d3d0a60c8",
+      "bytes": 563914,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/备选项/background3.jpg",
+      "sha256": "0678d9b3ffd5e4b2394a07c4ff5e40e4db26d8032d05cabb53fc5039bdaf9bec",
+      "original_sha256": "0678d9b3ffd5e4b2394a07c4ff5e40e4db26d8032d05cabb53fc5039bdaf9bec",
+      "bytes": 700230,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/备选项/game0.png",
+      "sha256": "3b5caa035feaa06810d90a8cb98b8e8a34e85bd1bb2f93642a87924d998803ef",
+      "original_sha256": "3b5caa035feaa06810d90a8cb98b8e8a34e85bd1bb2f93642a87924d998803ef",
+      "bytes": 388502,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/备选项/game1.png",
+      "sha256": "ac9a9b6969e335662529d1629204be88aed6ff5e579275d308ae6dd882921623",
+      "original_sha256": "ac9a9b6969e335662529d1629204be88aed6ff5e579275d308ae6dd882921623",
+      "bytes": 1243788,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/备选项/game2.png",
+      "sha256": "e1ef8a343a6e3008fb10835517ab49271e5ed0073229a7be2305834d84fa9803",
+      "original_sha256": "e1ef8a343a6e3008fb10835517ab49271e5ed0073229a7be2305834d84fa9803",
+      "bytes": 976817,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/备选项/player2.png",
+      "sha256": "cae7bf3b15f513292032f68bcb976ed43fdd941fdd4d39fad773d1b4a9345007",
+      "original_sha256": "cae7bf3b15f513292032f68bcb976ed43fdd941fdd4d39fad773d1b4a9345007",
+      "bytes": 632644,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/备选项/player4.png",
+      "sha256": "d887a34eacd09b333b046dd5518d335e7b4301e717aeeee901ffb66224b0f872",
+      "original_sha256": "d887a34eacd09b333b046dd5518d335e7b4301e717aeeee901ffb66224b0f872",
+      "bytes": 656203,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/备选项/player5.png",
+      "sha256": "fe8d6f38ceefce49ac431d9aa28763e8e0d8376ba67eaeaa1bdc5b1381980991",
+      "original_sha256": "fe8d6f38ceefce49ac431d9aa28763e8e0d8376ba67eaeaa1bdc5b1381980991",
+      "bytes": 68847,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/游戏页面.png",
+      "sha256": "3b5caa035feaa06810d90a8cb98b8e8a34e85bd1bb2f93642a87924d998803ef",
+      "original_sha256": "3b5caa035feaa06810d90a8cb98b8e8a34e85bd1bb2f93642a87924d998803ef",
+      "bytes": 388502,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/00.png",
+      "sha256": "1700249daefe618343a076aa9132a87891a2b1927eaea9dcf8aec47dc749f75c",
+      "original_sha256": "1700249daefe618343a076aa9132a87891a2b1927eaea9dcf8aec47dc749f75c",
+      "bytes": 153394,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/0屏幕截图 2025-09-05 165410.png",
+      "sha256": "18dd5ea8cd883ae2342deb697b3394cb5624642ff6c49f206f6951f3e0dd2f19",
+      "original_sha256": "18dd5ea8cd883ae2342deb697b3394cb5624642ff6c49f206f6951f3e0dd2f19",
+      "bytes": 166826,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/0屏幕截图 2025-09-05 165707.png",
+      "sha256": "69b65e2bcb77fc4a452bb6ab322c5b44797800a37c37976e5d7630119b2c1db7",
+      "original_sha256": "69b65e2bcb77fc4a452bb6ab322c5b44797800a37c37976e5d7630119b2c1db7",
+      "bytes": 158412,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/0屏幕截图 2025-09-05 170448.png",
+      "sha256": "784e7255ac5d9f763b3b78196e4a867257696e97eaf93ab06459feb185535416",
+      "original_sha256": "784e7255ac5d9f763b3b78196e4a867257696e97eaf93ab06459feb185535416",
+      "bytes": 168586,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/0屏幕截图 2025-09-05 171225.png",
+      "sha256": "b4eb202bd65a1c583f81558aad2cb297ef3a08a85cbe8ab8b19dc764c69aa895",
+      "original_sha256": "b4eb202bd65a1c583f81558aad2cb297ef3a08a85cbe8ab8b19dc764c69aa895",
+      "bytes": 164760,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/0屏幕截图 2025-09-05 171249.png",
+      "sha256": "f67ad36b62bb824667600325669421c3ac88273332c6e27c36ae86d6a9f8e358",
+      "original_sha256": "f67ad36b62bb824667600325669421c3ac88273332c6e27c36ae86d6a9f8e358",
+      "bytes": 172762,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/0屏幕截图 2025-09-05 171312.png",
+      "sha256": "8f667cf66aa07f3034052a0961a8da88c216d6c2708ccceb79cbcf1b14817258",
+      "original_sha256": "8f667cf66aa07f3034052a0961a8da88c216d6c2708ccceb79cbcf1b14817258",
+      "bytes": 165473,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/0屏幕截图 2025-09-05 171329.png",
+      "sha256": "21dc2b3ae16bde6eeac6eff9eed9331582566dc6b42fc203a51e625bddd974e9",
+      "original_sha256": "21dc2b3ae16bde6eeac6eff9eed9331582566dc6b42fc203a51e625bddd974e9",
+      "bytes": 174910,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/0屏幕截图 2025-09-05 172322.png",
+      "sha256": "7bc50767e847e841683e6e10d019e0d6a6d73cf11dba62f73eaca0ed82c97505",
+      "original_sha256": "7bc50767e847e841683e6e10d019e0d6a6d73cf11dba62f73eaca0ed82c97505",
+      "bytes": 147832,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/0屏幕截图 2025-09-05 172902.png",
+      "sha256": "4876bdcb85dfb349ced3a19542a7c6d9a1bd4434a6a6827f2406f5cbc809dfd3",
+      "original_sha256": "4876bdcb85dfb349ced3a19542a7c6d9a1bd4434a6a6827f2406f5cbc809dfd3",
+      "bytes": 151467,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/0屏幕截图 2025-09-05 173804.png",
+      "sha256": "44423bff9037e07ac88a5e8252840a5e95b4a8792bd3e78146f1ed09ca5788da",
+      "original_sha256": "44423bff9037e07ac88a5e8252840a5e95b4a8792bd3e78146f1ed09ca5788da",
+      "bytes": 166306,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/0屏幕截图 2025-09-05 174524.png",
+      "sha256": "790f82f98b29406cdd30af78ad86e9721a1a57ce331578d674ebb3fc4b67c1bb",
+      "original_sha256": "790f82f98b29406cdd30af78ad86e9721a1a57ce331578d674ebb3fc4b67c1bb",
+      "bytes": 171150,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/1屏幕截图 2025-09-05 165726.png",
+      "sha256": "096eef48c6eca5320e1970de8e86ac0dc4fc3e64fd24f93eacc81564c15f82f6",
+      "original_sha256": "096eef48c6eca5320e1970de8e86ac0dc4fc3e64fd24f93eacc81564c15f82f6",
+      "bytes": 146796,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/1屏幕截图 2025-09-05 170507.png",
+      "sha256": "fd1e48ff4df5272b7841f3f9305c72dc001fb32ff4a6abe54c099e271520e10a",
+      "original_sha256": "fd1e48ff4df5272b7841f3f9305c72dc001fb32ff4a6abe54c099e271520e10a",
+      "bytes": 158679,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/1屏幕截图 2025-09-05 172216.png",
+      "sha256": "7e18970508fcd787a9d52f9349ad3c28bf41b811bc3daa6ab3aab90554504e3d",
+      "original_sha256": "7e18970508fcd787a9d52f9349ad3c28bf41b811bc3daa6ab3aab90554504e3d",
+      "bytes": 96260,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/1屏幕截图 2025-09-05 172244.png",
+      "sha256": "79f6a154b94b1411341c2582f22a3454080caac7a0af675067acdc7e2f756efa",
+      "original_sha256": "79f6a154b94b1411341c2582f22a3454080caac7a0af675067acdc7e2f756efa",
+      "bytes": 164920,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/1屏幕截图 2025-09-05 172302.png",
+      "sha256": "abd1a6c1ff7f806985863a46eeaea89f5043a799ece28aa1ab4ce757ecc61ba6",
+      "original_sha256": "abd1a6c1ff7f806985863a46eeaea89f5043a799ece28aa1ab4ce757ecc61ba6",
+      "bytes": 146617,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/1屏幕截图 2025-09-05 172939.png",
+      "sha256": "874c8914ad372d74a8b6fb175858a15c8e3e4374d33d6b15aa38093080f6072d",
+      "original_sha256": "874c8914ad372d74a8b6fb175858a15c8e3e4374d33d6b15aa38093080f6072d",
+      "bytes": 160631,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/1屏幕截图 2025-09-05 173837.png",
+      "sha256": "c59f2a267e84556814739f29526d5640d8ccecdd8bb383549268a70f05c20e37",
+      "original_sha256": "c59f2a267e84556814739f29526d5640d8ccecdd8bb383549268a70f05c20e37",
+      "bytes": 167020,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/1屏幕截图 2025-09-05 174607.png",
+      "sha256": "68de635f521981b1169864e704800e7abdde340116caf019d8552c7896467b19",
+      "original_sha256": "68de635f521981b1169864e704800e7abdde340116caf019d8552c7896467b19",
+      "bytes": 160675,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/2.png",
+      "sha256": "dd85f37353819e113bb21de0439174b13e0e2555ef9b5b1a65b01fad2ecd5c8f",
+      "original_sha256": "dd85f37353819e113bb21de0439174b13e0e2555ef9b5b1a65b01fad2ecd5c8f",
+      "bytes": 162191,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/2屏幕截图 2025-09-05 170527.png",
+      "sha256": "98e448f6f8ce223fab6f74862d726d57abe8578529fbd984a816ab5f50bb9b52",
+      "original_sha256": "98e448f6f8ce223fab6f74862d726d57abe8578529fbd984a816ab5f50bb9b52",
+      "bytes": 183455,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/2屏幕截图 2025-09-05 173927.png",
+      "sha256": "1aec6adfa233e64fe3409e80455a88b53fd8849fd41dbcc7344ce62bd8821c24",
+      "original_sha256": "1aec6adfa233e64fe3409e80455a88b53fd8849fd41dbcc7344ce62bd8821c24",
+      "bytes": 106397,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/2屏幕截图 2025-09-05 174635.png",
+      "sha256": "f7f32f0f3c0b69686a8a08a3438227e9e5f997792379fbc1d49075854a870507",
+      "original_sha256": "f7f32f0f3c0b69686a8a08a3438227e9e5f997792379fbc1d49075854a870507",
+      "bytes": 190706,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/3屏幕截图 2025-09-05 173035.png",
+      "sha256": "e50e58f4d697553afb486ed75184266ab42bdde5800f7f567159971dfde5ec38",
+      "original_sha256": "e50e58f4d697553afb486ed75184266ab42bdde5800f7f567159971dfde5ec38",
+      "bytes": 182564,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/3屏幕截图 2025-09-05 173906.png",
+      "sha256": "454322478261fc4e4ed6f7ac6731f46babc29985f832c335d3edb3e4a67dad1e",
+      "original_sha256": "454322478261fc4e4ed6f7ac6731f46babc29985f832c335d3edb3e4a67dad1e",
+      "bytes": 110630,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/ATTACK.png",
+      "sha256": "e88dfc6157e174cf26c4e9cc958bf2e1ba27943a1d005b31c2d611acb60e3a63",
+      "original_sha256": "e88dfc6157e174cf26c4e9cc958bf2e1ba27943a1d005b31c2d611acb60e3a63",
+      "bytes": 183033,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/C++.png",
+      "sha256": "450f823a2d73c61bf55d84b696c58302950705f7add362b756aa4bff8b3a8c83",
+      "original_sha256": "450f823a2d73c61bf55d84b696c58302950705f7add362b756aa4bff8b3a8c83",
+      "bytes": 9636,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/DEFINE.png",
+      "sha256": "887e98b246c0f3ec7bebbba9010d0ba9635645aaa431cebca7694714c11f049a",
+      "original_sha256": "887e98b246c0f3ec7bebbba9010d0ba9635645aaa431cebca7694714c11f049a",
+      "bytes": 195502,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/上勾拳.png",
+      "sha256": "4141a90fe3ad4d66017ba6d68f5a2da156e5fb8225572ce52139adfa3c2d08e6",
+      "original_sha256": "4141a90fe3ad4d66017ba6d68f5a2da156e5fb8225572ce52139adfa3c2d08e6",
+      "bytes": 12743,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/伤口.png",
+      "sha256": "3689523b3cd62ac2b21dae764b220c87b1d302ed4df45dbaabfbaff2a13ea482",
+      "original_sha256": "3689523b3cd62ac2b21dae764b220c87b1d302ed4df45dbaabfbaff2a13ea482",
+      "bytes": 8926,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/剑柄打击.png",
+      "sha256": "4be839ce8c1e45d7534e0f606196542c71b39f0dcd69f4bdee99961359077844",
+      "original_sha256": "4be839ce8c1e45d7534e0f606196542c71b39f0dcd69f4bdee99961359077844",
+      "bytes": 19493,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/双重打击.png",
+      "sha256": "7d122c661cb39e29d6b10dd4b0757f6950c7df1e0994d1299d315c85b978038a",
+      "original_sha256": "7d122c661cb39e29d6b10dd4b0757f6950c7df1e0994d1299d315c85b978038a",
+      "bytes": 11564,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/壁垒.png",
+      "sha256": "0a055acb77046c858965c00f834f394acb2ee365b3c1f557939876fead704740",
+      "original_sha256": "0a055acb77046c858965c00f834f394acb2ee365b3c1f557939876fead704740",
+      "bytes": 209463,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/壁垒_.png",
+      "sha256": "ad4572bb827eda1b6f92b4850f5a0254d566ef3edd5887b40b5f4a99598b42c2",
+      "original_sha256": "ad4572bb827eda1b6f92b4850f5a0254d566ef3edd5887b40b5f4a99598b42c2",
+      "bytes": 179285,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/头槌.png",
+      "sha256": "d467e4b921472ef6e5cf0c7a8bb7feb768f33de222c97278571b224125f144b3",
+      "original_sha256": "d467e4b921472ef6e5cf0c7a8bb7feb768f33de222c97278571b224125f144b3",
+      "bytes": 17451,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/屏幕截图 2025-09-05 164041.png",
+      "sha256": "9833f8a46ffd4c7c68a85856b263497d1cc6868e4f04b8418d20213b9241cada",
+      "original_sha256": "9833f8a46ffd4c7c68a85856b263497d1cc6868e4f04b8418d20213b9241cada",
+      "bytes": 77223,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/岿然不动.png",
+      "sha256": "e3510531448ef0396f8c9c2e0f8908aa4f39305713224f3acfce45d349cdafe9",
+      "original_sha256": "e3510531448ef0396f8c9c2e0f8908aa4f39305713224f3acfce45d349cdafe9",
+      "bytes": 15090,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/幽灵铠甲.png",
+      "sha256": "60e12f57051ee8e5aaa580529a73159ab28597e71482966bc5c4d12e7d5b290f",
+      "original_sha256": "60e12f57051ee8e5aaa580529a73159ab28597e71482966bc5c4d12e7d5b290f",
+      "bytes": 18927,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/御血术.png",
+      "sha256": "3a84e77892a9d4fa5335d8fb45c5e0579fc314324e3752f10edce34cddcde1f2",
+      "original_sha256": "3a84e77892a9d4fa5335d8fb45c5e0579fc314324e3752f10edce34cddcde1f2",
+      "bytes": 16582,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/恶魔形态1.png",
+      "sha256": "ccfadf2dbf2fe98620b04e69d29743c7f03b7c2183d2bc436ac75bc40de4588c",
+      "original_sha256": "ccfadf2dbf2fe98620b04e69d29743c7f03b7c2183d2bc436ac75bc40de4588c",
+      "bytes": 346565,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/恶魔形态png.png",
+      "sha256": "76539d500325f8710ff1e7d8aea5444bcb81521b6a0144bb2f8f11e9f911d7b0",
+      "original_sha256": "76539d500325f8710ff1e7d8aea5444bcb81521b6a0144bb2f8f11e9f911d7b0",
+      "bytes": 11529,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/愤怒.png",
+      "sha256": "2a2c6155fc2d3e7388e948049bcd7c155d8e4c29ecc33e27b9c504a29901bc91",
+      "original_sha256": "2a2c6155fc2d3e7388e948049bcd7c155d8e4c29ecc33e27b9c504a29901bc91",
+      "bytes": 8331,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/打击.png",
+      "sha256": "511b9c82486412f64ccd4243f28d7370a0e69398a7ebc6c0cec0d8e463b82915",
+      "original_sha256": "511b9c82486412f64ccd4243f28d7370a0e69398a7ebc6c0cec0d8e463b82915",
+      "bytes": 158490,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/晕眩.png",
+      "sha256": "ecb2dab15f5971c24b98fa9af066c15c3b118391ec0f9b72a7f85d0b53784685",
+      "original_sha256": "ecb2dab15f5971c24b98fa9af066c15c3b118391ec0f9b72a7f85d0b53784685",
+      "bytes": 12718,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/残杀.png",
+      "sha256": "f150e6ade6ba875da0fb83004f31a0b497077e2f490278bf381b34cc7dbcb18e",
+      "original_sha256": "f150e6ade6ba875da0fb83004f31a0b497077e2f490278bf381b34cc7dbcb18e",
+      "bytes": 9468,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/活动肌肉.png",
+      "sha256": "f551b83a1dc671caa087f95c67c4ec04c96c9d77596a6dded1cc685ff3556ce6",
+      "original_sha256": "f551b83a1dc671caa087f95c67c4ec04c96c9d77596a6dded1cc685ff3556ce6",
+      "bytes": 6651,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/灼热攻击.png",
+      "sha256": "7ad2ab47779de97cb57a3f8ebae3687f05fcd9eb733ce7e65c1ab18a318aadfa",
+      "original_sha256": "7ad2ab47779de97cb57a3f8ebae3687f05fcd9eb733ce7e65c1ab18a318aadfa",
+      "bytes": 14001,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/燃烧.png",
+      "sha256": "49928ba0ea97be1deb42cf8cc28548844aae209c1353e5fcc68b1dec1974b902",
+      "original_sha256": "49928ba0ea97be1deb42cf8cc28548844aae209c1353e5fcc68b1dec1974b902",
+      "bytes": 13636,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/狂野打击.png",
+      "sha256": "c8de09dab65f1480be71638be1ba9eb438ee87d1e65ef41f0cd0e39114cc246c",
+      "original_sha256": "c8de09dab65f1480be71638be1ba9eb438ee87d1e65ef41f0cd0e39114cc246c",
+      "bytes": 13889,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/痛击.png",
+      "sha256": "709e6ee8b1d746bb710b024cf8cbdf41260e65a2443e83812dc7952db2d56253",
+      "original_sha256": "709e6ee8b1d746bb710b024cf8cbdf41260e65a2443e83812dc7952db2d56253",
+      "bytes": 7375,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/盛怒.png",
+      "sha256": "1f2c340bef27ac8a3d770d74de505bd31ce0629d7e36cdae55cbbf2b4fcadc97",
+      "original_sha256": "1f2c340bef27ac8a3d770d74de505bd31ce0629d7e36cdae55cbbf2b4fcadc97",
+      "bytes": 11267,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/缴械.png",
+      "sha256": "80c9ac78e4545f07b87c0b6ca04cb5029a3f4a46c810dc1b41d8273be177bf85",
+      "original_sha256": "80c9ac78e4545f07b87c0b6ca04cb5029a3f4a46c810dc1b41d8273be177bf85",
+      "bytes": 9863,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/耸肩无视.png",
+      "sha256": "1268e8086f825daf4382fe1b317a76191ec034686d1693da1d8490c00adffca9",
+      "original_sha256": "1268e8086f825daf4382fe1b317a76191ec034686d1693da1d8490c00adffca9",
+      "bytes": 10936,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/连续拳.png",
+      "sha256": "7d3b50f5e2ba3c91ffe860275ddbf3d3311721a0f529f72308ba5c9306bc09c7",
+      "original_sha256": "7d3b50f5e2ba3c91ffe860275ddbf3d3311721a0f529f72308ba5c9306bc09c7",
+      "bytes": 7964,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/重刃.png",
+      "sha256": "9a7a4cc78a74575376f0c0c848e8877f8a5f5250596265bd70b093a1a527f5dc",
+      "original_sha256": "9a7a4cc78a74575376f0c0c848e8877f8a5f5250596265bd70b093a1a527f5dc",
+      "bytes": 16913,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/重锤.png",
+      "sha256": "e6a14e90fedc8d84470c4628f7d36605f232a66c989b423d9a13b0269ab6637f",
+      "original_sha256": "e6a14e90fedc8d84470c4628f7d36605f232a66c989b423d9a13b0269ab6637f",
+      "bytes": 11311,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/金刚臂.png",
+      "sha256": "47e3f5cc7388c766a5094e26978e57fe34f2ea98844cf4a34c00c479720ab9d4",
+      "original_sha256": "47e3f5cc7388c766a5094e26978e57fe34f2ea98844cf4a34c00c479720ab9d4",
+      "bytes": 13079,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/金属化.png",
+      "sha256": "956af0cb6d31806ff7fe72eca29b819e5c72fd781d4bd32a913c440e83fbbe61",
+      "original_sha256": "956af0cb6d31806ff7fe72eca29b819e5c72fd781d4bd32a913c440e83fbbe61",
+      "bytes": 15891,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/铁斩波.png",
+      "sha256": "c6e569659f108aba9e12e3bf380ed7762c0a5b0445b314a404312413d60d0684",
+      "original_sha256": "c6e569659f108aba9e12e3bf380ed7762c0a5b0445b314a404312413d60d0684",
+      "bytes": 10438,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/防御.png",
+      "sha256": "7c206a9356b35a5f6cb1a706fa2e61da6de36b56cb9b627b29819cc2e99b45c1",
+      "original_sha256": "7c206a9356b35a5f6cb1a706fa2e61da6de36b56cb9b627b29819cc2e99b45c1",
+      "bytes": 9438,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/飞剑回旋镖.png",
+      "sha256": "a6f4238865a150ce8fb951a922daf5a2e9d2a95c0cf06c016d6b6575024c255d",
+      "original_sha256": "a6f4238865a150ce8fb951a922daf5a2e9d2a95c0cf06c016d6b6575024c255d",
+      "bytes": 10785,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/黏液.png",
+      "sha256": "3d2c9e96b4d9032eb345807e8dddbfb65607f86a2fdc3a5a3170846e195ece06",
+      "original_sha256": "3d2c9e96b4d9032eb345807e8dddbfb65607f86a2fdc3a5a3170846e195ece06",
+      "bytes": 18559,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/main.cpp",
+      "sha256": "d9dd3e4d076a372e84e91f3da189931af3c182156b0f366d892dda2c8cf012eb",
+      "original_sha256": "d9dd3e4d076a372e84e91f3da189931af3c182156b0f366d892dda2c8cf012eb",
+      "bytes": 203,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/new(8).cpp",
+      "sha256": "18c380a3d14bc98494f2bdad4a7eb80d878c4b6be0c4339a5ed6cd03d1b4ac41",
+      "original_sha256": "18c380a3d14bc98494f2bdad4a7eb80d878c4b6be0c4339a5ed6cd03d1b4ac41",
+      "bytes": 42216,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/new.cpp",
+      "sha256": "51c6acb200b97a63318ca306c4c412f9a68fbe60ee420121c62bf486f6e910d2",
+      "original_sha256": "51c6acb200b97a63318ca306c4c412f9a68fbe60ee420121c62bf486f6e910d2",
+      "bytes": 31773,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/untitled.pro",
+      "sha256": "003fe80eb82977ec349c57389b1f18a1fa85ac99d3408fa873ed5fb4addf2d85",
+      "original_sha256": "003fe80eb82977ec349c57389b1f18a1fa85ac99d3408fa873ed5fb4addf2d85",
+      "bytes": 702,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/widget.cpp",
+      "sha256": "6a3598816280af8bd5556af8baa9663b5d0d7714c58e88853a00d7efbf406c26",
+      "original_sha256": "6a3598816280af8bd5556af8baa9663b5d0d7714c58e88853a00d7efbf406c26",
+      "bytes": 28597,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/widget.h",
+      "sha256": "8e677d7be9e722a61e464f2defb97db6d6eabf896c2bdaa6e1ce1e5c47918465",
+      "original_sha256": "8e677d7be9e722a61e464f2defb97db6d6eabf896c2bdaa6e1ce1e5c47918465",
+      "bytes": 3491,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/widget.ui",
+      "sha256": "e0e1eb1884436b49e1d1a13f2bc15781abe39ffa4e84b25544d6c567411004f5",
+      "original_sha256": "e0e1eb1884436b49e1d1a13f2bc15781abe39ffa4e84b25544d6c567411004f5",
+      "bytes": 1880,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/slay/basic.cpp",
+      "sha256": "8035bdb93fe612d06484a76192c38d955003f47c7212bdd89124248de7c78677",
+      "original_sha256": "8035bdb93fe612d06484a76192c38d955003f47c7212bdd89124248de7c78677",
+      "bytes": 25509,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/slay/basic.h",
+      "sha256": "eee023e7def71f106389e348473135e20680cea01bdaa9b49bae529266efd99c",
+      "original_sha256": "eee023e7def71f106389e348473135e20680cea01bdaa9b49bae529266efd99c",
+      "bytes": 12484,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/slay/cards.h",
+      "sha256": "524361bb409eccb7012f292bc6f31ef0d1054d3f1ca5455b35eb758ca1a1a87a",
+      "original_sha256": "524361bb409eccb7012f292bc6f31ef0d1054d3f1ca5455b35eb758ca1a1a87a",
+      "bytes": 1698,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/slay/main(2).cpp",
+      "sha256": "2ec298caf43bc51e631de769c04bcd4e3cc9cb72fbfb0d76bfb00ef93ff9ac9d",
+      "original_sha256": "2ec298caf43bc51e631de769c04bcd4e3cc9cb72fbfb0d76bfb00ef93ff9ac9d",
+      "bytes": 253,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/slay/main.cpp",
+      "sha256": "e55752f0824d42256ff5b5965e9726bdf7c8956b9f4dcf816e415bc9e3a7de34",
+      "original_sha256": "e55752f0824d42256ff5b5965e9726bdf7c8956b9f4dcf816e415bc9e3a7de34",
+      "bytes": 763,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/slay/main1.cpp",
+      "sha256": "658dcb0552caf7df00a5e8da351874531332d022067c806e6e1c6d41828acae7",
+      "original_sha256": "658dcb0552caf7df00a5e8da351874531332d022067c806e6e1c6d41828acae7",
+      "bytes": 256,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/slay/makefile",
+      "sha256": "44d6046247ec8936f6c20486f0cd29554ea7cb5ff5e4e2ee91007d5a4f6219ff",
+      "original_sha256": "44d6046247ec8936f6c20486f0cd29554ea7cb5ff5e4e2ee91007d5a4f6219ff",
+      "bytes": 86,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/slay/new(8).cpp",
+      "sha256": "2790a5dcb0f1d8639b7a63c0ab57bca519126d7cbf0309d080bf353c08f1125f",
+      "original_sha256": "2790a5dcb0f1d8639b7a63c0ab57bca519126d7cbf0309d080bf353c08f1125f",
+      "bytes": 21576,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/slay/new(8).h",
+      "sha256": "aeffcce195fd2496d2736735c0231fe8c21a59b3d3b9387f8f0a9b88d10441b0",
+      "original_sha256": "aeffcce195fd2496d2736735c0231fe8c21a59b3d3b9387f8f0a9b88d10441b0",
+      "bytes": 12389,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/slay/new.cpp",
+      "sha256": "51892bb2af6597522626385f4abf58b6650223c52e4fa476ce028f6f60d32f23",
+      "original_sha256": "51892bb2af6597522626385f4abf58b6650223c52e4fa476ce028f6f60d32f23",
+      "bytes": 24038,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/slay/new.h",
+      "sha256": "27767fa5f411f269e85ed6053e301e902911f43b15aca863c7cb072009bd326f",
+      "original_sha256": "27767fa5f411f269e85ed6053e301e902911f43b15aca863c7cb072009bd326f",
+      "bytes": 14725,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/switch/main.cpp",
+      "sha256": "38b4682f408221353a349b66e7a2009507a77e78677904e7b129ae7721de8bc9",
+      "original_sha256": "38b4682f408221353a349b66e7a2009507a77e78677904e7b129ae7721de8bc9",
+      "bytes": 863,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/switch/makefile",
+      "sha256": "d4c5e7f2cb4ec6abcb20da4a7eb0f29fbd8e9938834cc2c752b59662af23796f",
+      "original_sha256": "d4c5e7f2cb4ec6abcb20da4a7eb0f29fbd8e9938834cc2c752b59662af23796f",
+      "bytes": 36,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/switch/operator.h",
+      "sha256": "7b737e555e90ccfe26a21f24e53ba6435ed57afd72283a1f09639dd4af273545",
+      "original_sha256": "7b737e555e90ccfe26a21f24e53ba6435ed57afd72283a1f09639dd4af273545",
+      "bytes": 572,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/switch/switch.h",
+      "sha256": "dad72c0ad414f4bae57d4b9fe33fcc1c106b5ea349258bc4836309fae97e3a46",
+      "original_sha256": "dad72c0ad414f4bae57d4b9fe33fcc1c106b5ea349258bc4836309fae97e3a46",
+      "bytes": 685,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/test1/main.cpp",
+      "sha256": "cb6756658c8abbc6c863437a9bf75835c3fc7ab2b793c5c5aaf7c53f7c8c1a34",
+      "original_sha256": "cb6756658c8abbc6c863437a9bf75835c3fc7ab2b793c5c5aaf7c53f7c8c1a34",
+      "bytes": 156,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/test1/message.cpp",
+      "sha256": "6e47adfd22776cbf947e44cfe9a68170baad61c3e4f08fd95335d6e37bd0b303",
+      "original_sha256": "6e47adfd22776cbf947e44cfe9a68170baad61c3e4f08fd95335d6e37bd0b303",
+      "bytes": 114,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/test1/message.h",
+      "sha256": "211f2d51bd512a00f40853dea36e272e8d517d24ac34b70f1bf1374ddeefc2d5",
+      "original_sha256": "211f2d51bd512a00f40853dea36e272e8d517d24ac34b70f1bf1374ddeefc2d5",
+      "bytes": 15,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/untitled/main.cpp",
+      "sha256": "081338a5379dae06ef4dcad132cc024a965b1538a76ddb7091034d2727082cfc",
+      "original_sha256": "081338a5379dae06ef4dcad132cc024a965b1538a76ddb7091034d2727082cfc",
+      "bytes": 175,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/untitled/untitled.pro",
+      "sha256": "c22781238a21d9918be654191fa264cb74f2625b394655d1aacf9bce66951fb7",
+      "original_sha256": "c22781238a21d9918be654191fa264cb74f2625b394655d1aacf9bce66951fb7",
+      "bytes": 602,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/untitled/widget.cpp",
+      "sha256": "f45e3ac161346b493da09e17fbaebf3896512cfddcbd6255971777b7b883f598",
+      "original_sha256": "f45e3ac161346b493da09e17fbaebf3896512cfddcbd6255971777b7b883f598",
+      "bytes": 204,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/untitled/widget.h",
+      "sha256": "6afcd01172f038782f51b2de240704be7291a858aa84943bd83bc5595ab3fa9a",
+      "original_sha256": "6afcd01172f038782f51b2de240704be7291a858aa84943bd83bc5595ab3fa9a",
+      "bytes": 304,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/untitled/widget.ui",
+      "sha256": "746776b846ac44817c640daf9305da0dc31bd503715a2edaec674b63ed58d729",
+      "original_sha256": "746776b846ac44817c640daf9305da0dc31bd503715a2edaec674b63ed58d729",
+      "bytes": 398,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/windows/Makefile",
+      "sha256": "a765a11286f96a08977ae45db053d7293ee2dcfe4264103ed06c56be35c4b61a",
+      "original_sha256": "a765a11286f96a08977ae45db053d7293ee2dcfe4264103ed06c56be35c4b61a",
+      "bytes": 75,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/windows/command.h",
+      "sha256": "f4908d9ddd100c19fbd2aed520f9f66079bb8862f5444ee6f8743696162450ab",
+      "original_sha256": "f4908d9ddd100c19fbd2aed520f9f66079bb8862f5444ee6f8743696162450ab",
+      "bytes": 2418,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/windows/event.h",
+      "sha256": "c6a2d627b510d5d0d6f7bbb3a56590b3a6c04d09f2904cf699641bb3cc508e8c",
+      "original_sha256": "c6a2d627b510d5d0d6f7bbb3a56590b3a6c04d09f2904cf699641bb3cc508e8c",
+      "bytes": 766,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/windows/main.cpp",
+      "sha256": "52b8b4cc8546332974f99b8740c5942477f1d8499adc9480f0bd39be009fad40",
+      "original_sha256": "52b8b4cc8546332974f99b8740c5942477f1d8499adc9480f0bd39be009fad40",
+      "bytes": 2385,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/windows/window.h",
+      "sha256": "a544403c5327f9ed10375e7553973cefa5a47c90b791474de3009c8afbb33aaa",
+      "original_sha256": "a544403c5327f9ed10375e7553973cefa5a47c90b791474de3009c8afbb33aaa",
+      "bytes": 2293,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/军队/AbstractFactory.h",
+      "sha256": "6fbee4147c6548574cd501b069357a0fdf575a50a1764d4ac1077689d4eb10da",
+      "original_sha256": "6fbee4147c6548574cd501b069357a0fdf575a50a1764d4ac1077689d4eb10da",
+      "bytes": 330,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/军队/Belong.h",
+      "sha256": "029064d90d25c6b47e99f828735e83f0d4b361bec152dfe9450c942862ca9c77",
+      "original_sha256": "029064d90d25c6b47e99f828735e83f0d4b361bec152dfe9450c942862ca9c77",
+      "bytes": 362,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/军队/Casern.h",
+      "sha256": "574dfd9aa31ea402b81ddae07ed6d2a99048349d02839eb478ea74b1c0dd43b9",
+      "original_sha256": "574dfd9aa31ea402b81ddae07ed6d2a99048349d02839eb478ea74b1c0dd43b9",
+      "bytes": 739,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/军队/Commander.h",
+      "sha256": "f38bd34208a2f7387369a9a67cb68a9531bcc7813e255482d21aca1d0bc2b3fd",
+      "original_sha256": "f38bd34208a2f7387369a9a67cb68a9531bcc7813e255482d21aca1d0bc2b3fd",
+      "bytes": 247,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/军队/Footman.h",
+      "sha256": "dfa4a9564b1d71d2b037cdcab9a955e358feb4c2f7e1a22e46d7e3606de1c552",
+      "original_sha256": "dfa4a9564b1d71d2b037cdcab9a955e358feb4c2f7e1a22e46d7e3606de1c552",
+      "bytes": 233,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/军队/Game.cpp",
+      "sha256": "4c25d51491312cb372318aec920576bba57340c12feb9818f5ad3808ad0fc25f",
+      "original_sha256": "4c25d51491312cb372318aec920576bba57340c12feb9818f5ad3808ad0fc25f",
+      "bytes": 482,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/军队/Game.h",
+      "sha256": "c6dd2a746d2dbf94bb74a1e6b7816b7022870a4811e10b82657bacd713f395da",
+      "original_sha256": "c6dd2a746d2dbf94bb74a1e6b7816b7022870a4811e10b82657bacd713f395da",
+      "bytes": 143,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/军队/Makefile",
+      "sha256": "072457f15de462711a628cd89fb724dcc38c77ff683dc1adccd184344bf2707e",
+      "original_sha256": "072457f15de462711a628cd89fb724dcc38c77ff683dc1adccd184344bf2707e",
+      "bytes": 175,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/军队/YourCasern.h",
+      "sha256": "dc3facf19486ba1a60bf266c7a46edcdf78e34a7d43947ace302a632c6afd1b3",
+      "original_sha256": "dc3facf19486ba1a60bf266c7a46edcdf78e34a7d43947ace302a632c6afd1b3",
+      "bytes": 1231,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/军队/YourFactory.h",
+      "sha256": "73207e064f5a65f7d45cd8049e9b4d5719fa851900f880bc9f5468cdd53d852d",
+      "original_sha256": "73207e064f5a65f7d45cd8049e9b4d5719fa851900f880bc9f5468cdd53d852d",
+      "bytes": 1063,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/军队/main.cpp",
+      "sha256": "e18ad44b468185ca2bb0b606fbfd6b73d925751538c659cb5267d03db4670fbd",
+      "original_sha256": "e18ad44b468185ca2bb0b606fbfd6b73d925751538c659cb5267d03db4670fbd",
+      "bytes": 1978,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/分数运算/Factor.cpp",
+      "sha256": "68cca88032105ccccecdc001a82597bdcf168f285eb9b89bdfec48907ef247bc",
+      "original_sha256": "68cca88032105ccccecdc001a82597bdcf168f285eb9b89bdfec48907ef247bc",
+      "bytes": 1579,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/分数运算/Factor.h",
+      "sha256": "12b1711ea950687866f894476e2527422d5e191a0ef120b1eaaf6f413cb78aaa",
+      "original_sha256": "12b1711ea950687866f894476e2527422d5e191a0ef120b1eaaf6f413cb78aaa",
+      "bytes": 621,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/分数运算/main.cpp",
+      "sha256": "af6c4b69e3ffaa3918cdb0d822cea6549976a9ce1a6695ec70c8ad006b1a1b87",
+      "original_sha256": "af6c4b69e3ffaa3918cdb0d822cea6549976a9ce1a6695ec70c8ad006b1a1b87",
+      "bytes": 320,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/动物/Animal.h",
+      "sha256": "18e56f47d579835abd96d469d79cc1ab6dc6959036845dbe9e8e354999527fb1",
+      "original_sha256": "18e56f47d579835abd96d469d79cc1ab6dc6959036845dbe9e8e354999527fb1",
+      "bytes": 248,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/动物/Bird.h",
+      "sha256": "27eb9521abd495d3f09a50125762e0961c4c62d2f7e8c42505b2883e4ad4242e",
+      "original_sha256": "27eb9521abd495d3f09a50125762e0961c4c62d2f7e8c42505b2883e4ad4242e",
+      "bytes": 492,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/动物/Fish.h",
+      "sha256": "54ef7e0a7d1a25ec957ca81184fa789c6e4443933e7d6100df7e079ef4618b43",
+      "original_sha256": "54ef7e0a7d1a25ec957ca81184fa789c6e4443933e7d6100df7e079ef4618b43",
+      "bytes": 496,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/动物/main.cpp",
+      "sha256": "9f263219d45672be0a690e85d344dbef9e4cb1591303c37e19dfd728b0c3b668",
+      "original_sha256": "9f263219d45672be0a690e85d344dbef9e4cb1591303c37e19dfd728b0c3b668",
+      "bytes": 708,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/动物/makefile",
+      "sha256": "d66d986d8e8da0029a1bd77fed9548b555669ceb8d4ac2aeafc645a992e03ede",
+      "original_sha256": "d66d986d8e8da0029a1bd77fed9548b555669ceb8d4ac2aeafc645a992e03ede",
+      "bytes": 60,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/回文/Makefile",
+      "sha256": "54da4f3d5a6aa1739e3cdb8e7286a1918b8cea670c0f9ea850b2ed51a6af4397",
+      "original_sha256": "54da4f3d5a6aa1739e3cdb8e7286a1918b8cea670c0f9ea850b2ed51a6af4397",
+      "bytes": 60,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/回文/PalString(2).h",
+      "sha256": "c3211079959ea36d3d80cd50cc69851b984c94870f11b77bbc6f284949ae95e5",
+      "original_sha256": "c3211079959ea36d3d80cd50cc69851b984c94870f11b77bbc6f284949ae95e5",
+      "bytes": 1559,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/回文/PalString.h",
+      "sha256": "87edf0179c1849ebd25c0b62c6b8a6752675cb58465869263d34d2c66b313e92",
+      "original_sha256": "87edf0179c1849ebd25c0b62c6b8a6752675cb58465869263d34d2c66b313e92",
+      "bytes": 1635,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/回文/main.cpp",
+      "sha256": "f9108eb3d83a22356ceef0157439d05b4e788ec6735a99942d98b5556cce1e79",
+      "original_sha256": "f9108eb3d83a22356ceef0157439d05b4e788ec6735a99942d98b5556cce1e79",
+      "bytes": 958,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/回文/test.cpp",
+      "sha256": "d74ab809dbc5a4f704c728dbff839456d9e6842c9be1fd596ef24393ea2a4b02",
+      "original_sha256": "d74ab809dbc5a4f704c728dbff839456d9e6842c9be1fd596ef24393ea2a4b02",
+      "bytes": 306,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/图书管理系统/Book.h",
+      "sha256": "b1c15c9d150ff8d6e3bdf63fcc5d6f2eda82a8f2a2c8e55c29f2c6738245a2bd",
+      "original_sha256": "b1c15c9d150ff8d6e3bdf63fcc5d6f2eda82a8f2a2c8e55c29f2c6738245a2bd",
+      "bytes": 555,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/图书管理系统/Library.h",
+      "sha256": "6322235a6f4e90aa28e90c1f4ab1885bb3fac910beb1c6c1da337f0eb52791a7",
+      "original_sha256": "6322235a6f4e90aa28e90c1f4ab1885bb3fac910beb1c6c1da337f0eb52791a7",
+      "bytes": 702,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/图书管理系统/main.cpp",
+      "sha256": "7c0e73d07915398ace7f961fd7186dd79fa1a998be62e5cf323f91171a85b7a8",
+      "original_sha256": "7c0e73d07915398ace7f961fd7186dd79fa1a998be62e5cf323f91171a85b7a8",
+      "bytes": 963,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/多级字典/MyDict.hpp",
+      "sha256": "9e227de0d6ba6ec11563f619b94b4285b9b1db05b4c2423e15005b86c11f0fc9",
+      "original_sha256": "9e227de0d6ba6ec11563f619b94b4285b9b1db05b4c2423e15005b86c11f0fc9",
+      "bytes": 759,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/多级字典/subtask1/HitStatsResult.hpp",
+      "sha256": "856d1bee25b109b2567f4d65bd7a45f311ee7bf2fa756abbee7c3055901c9065",
+      "original_sha256": "856d1bee25b109b2567f4d65bd7a45f311ee7bf2fa756abbee7c3055901c9065",
+      "bytes": 1372,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/多级字典/subtask1/Makefile",
+      "sha256": "66539fc9623c5f9984ba037b505c9d13bfaa4e5ad2c3d77e7c6f2558e66ff304",
+      "original_sha256": "66539fc9623c5f9984ba037b505c9d13bfaa4e5ad2c3d77e7c6f2558e66ff304",
+      "bytes": 305,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/多级字典/subtask1/MyDict.hpp",
+      "sha256": "16545b078966d9c82c3d20ea09d863c47bf65af6d62c46612011a5cefa1a8e58",
+      "original_sha256": "16545b078966d9c82c3d20ea09d863c47bf65af6d62c46612011a5cefa1a8e58",
+      "bytes": 2221,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/多级字典/subtask1/main_sample1.cpp",
+      "sha256": "27a5e00eb569c2371280434f7b3e9764291a92d73b4c6a0d7ae56a5ad28acccb",
+      "original_sha256": "27a5e00eb569c2371280434f7b3e9764291a92d73b4c6a0d7ae56a5ad28acccb",
+      "bytes": 1682,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/多级字典/subtask1/main_sample2.cpp",
+      "sha256": "a2fd8d8c72d472ced374477d62c0141f33ce66dcdc8fbf6f8470810ae79050ec",
+      "original_sha256": "a2fd8d8c72d472ced374477d62c0141f33ce66dcdc8fbf6f8470810ae79050ec",
+      "bytes": 958,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/多级字典/subtask1/sample1.ans",
+      "sha256": "04c05e0beff88ecca0c05cf7d92789f824807aac45ec36a44f486d99fcf6835b",
+      "original_sha256": "04c05e0beff88ecca0c05cf7d92789f824807aac45ec36a44f486d99fcf6835b",
+      "bytes": 495,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/多级字典/subtask1/sample2.ans",
+      "sha256": "cd46e83007ab68ede97df9fbabe5c1e33e0bfd6b28099ea6d60e59e7f8f22e6c",
+      "original_sha256": "cd46e83007ab68ede97df9fbabe5c1e33e0bfd6b28099ea6d60e59e7f8f22e6c",
+      "bytes": 276,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/多级字典/subtask1/sample2.in",
+      "sha256": "fbf25e0150a89d1032e3db2b25983d12bd23fdb301f3f8a430f968efbb688e14",
+      "original_sha256": "fbf25e0150a89d1032e3db2b25983d12bd23fdb301f3f8a430f968efbb688e14",
+      "bytes": 111,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/多级字典/subtask2/Makefile",
+      "sha256": "4d707bf111c10280a16f9933ec4b4d8a3a45361a24562c7d6825d2df5c84b566",
+      "original_sha256": "4d707bf111c10280a16f9933ec4b4d8a3a45361a24562c7d6825d2df5c84b566",
+      "bytes": 277,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/多级字典/subtask2/PopStrategy.hpp",
+      "sha256": "532e24ba6919fd299d0a922c408ed8d80178bc343cb03002e6fade18083e9b34",
+      "original_sha256": "532e24ba6919fd299d0a922c408ed8d80178bc343cb03002e6fade18083e9b34",
+      "bytes": 1379,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/多级字典/subtask2/main_sample3.cpp",
+      "sha256": "999342ae900d17d66312847378f5cb369112228c41f150449db0bbbe917514c3",
+      "original_sha256": "999342ae900d17d66312847378f5cb369112228c41f150449db0bbbe917514c3",
+      "bytes": 630,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/多级字典/subtask2/main_sample4.cpp",
+      "sha256": "2ba5be7caab23ea0616b1ff2f1a0cf76474a1852acd8d6d6931f2076bd7d2f95",
+      "original_sha256": "2ba5be7caab23ea0616b1ff2f1a0cf76474a1852acd8d6d6931f2076bd7d2f95",
+      "bytes": 1112,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/多级字典/subtask2/sample3.ans",
+      "sha256": "da8af697dc95a4b76000f6ffb5a16070437ddb034f5380d39cce90fa3554ae15",
+      "original_sha256": "da8af697dc95a4b76000f6ffb5a16070437ddb034f5380d39cce90fa3554ae15",
+      "bytes": 35,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/多级字典/subtask2/sample4.ans",
+      "sha256": "8d4e8fee105feccc3b3792fef78e372d568cc52ee38396a0c1f7587eac5b783c",
+      "original_sha256": "8d4e8fee105feccc3b3792fef78e372d568cc52ee38396a0c1f7587eac5b783c",
+      "bytes": 42,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/多级字典/subtask2/sample4.in",
+      "sha256": "eb9b0e66294c06123fdb9cf358dc6e0e36335da0d5e615cd14433eacd8d33b5a",
+      "original_sha256": "eb9b0e66294c06123fdb9cf358dc6e0e36335da0d5e615cd14433eacd8d33b5a",
+      "bytes": 62,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/多级字典/subtask3/HitStatsResult.hpp",
+      "sha256": "856d1bee25b109b2567f4d65bd7a45f311ee7bf2fa756abbee7c3055901c9065",
+      "original_sha256": "856d1bee25b109b2567f4d65bd7a45f311ee7bf2fa756abbee7c3055901c9065",
+      "bytes": 1372,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/多级字典/subtask3/Makefile",
+      "sha256": "54eb9bf3a300d9bfff6f42093897339a601977bf0b7d6369bd2b1caa3de9d533",
+      "original_sha256": "54eb9bf3a300d9bfff6f42093897339a601977bf0b7d6369bd2b1caa3de9d533",
+      "bytes": 337,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/多级字典/subtask3/MyDict.hpp",
+      "sha256": "7881da57d17e34072d191cd98ddd86d60d3754b7b6e921ba49a46e1017c6f802",
+      "original_sha256": "7881da57d17e34072d191cd98ddd86d60d3754b7b6e921ba49a46e1017c6f802",
+      "bytes": 2461,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/多级字典/subtask3/PopStrategy.hpp",
+      "sha256": "41a41e39f14c962fb216bf0a5e9774c47df9bc1b581c068ded5ed3a7f0e2d9f5",
+      "original_sha256": "41a41e39f14c962fb216bf0a5e9774c47df9bc1b581c068ded5ed3a7f0e2d9f5",
+      "bytes": 1522,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/多级字典/subtask3/main_sample5.cpp",
+      "sha256": "7633bdf4e09d0d6b556567920a396171c8f5a6df649ad39ddcf9a5f5b3c35e32",
+      "original_sha256": "7633bdf4e09d0d6b556567920a396171c8f5a6df649ad39ddcf9a5f5b3c35e32",
+      "bytes": 2580,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/多级字典/subtask3/main_sample6.cpp",
+      "sha256": "53716aff479f9ddb1086d795a42320b3a704d534623c4dbcdb4ffce1cafccf39",
+      "original_sha256": "53716aff479f9ddb1086d795a42320b3a704d534623c4dbcdb4ffce1cafccf39",
+      "bytes": 1745,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/多级字典/subtask3/sample5.ans",
+      "sha256": "d5409c2481ff79d0cc40b4a93f3d541cca5b979121dda8e1dc40a0b409013b37",
+      "original_sha256": "d5409c2481ff79d0cc40b4a93f3d541cca5b979121dda8e1dc40a0b409013b37",
+      "bytes": 663,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/多级字典/subtask3/sample6.ans",
+      "sha256": "472a2ec4dcf28ba558eb2206966eab9062b0300212f8927c569550dbb5b0a249",
+      "original_sha256": "472a2ec4dcf28ba558eb2206966eab9062b0300212f8927c569550dbb5b0a249",
+      "bytes": 567,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/多级字典/subtask3/sample6.in",
+      "sha256": "0880954605aaa107639b86c9d6dfdc520859e7c5b6daffb8ea951184ba39012f",
+      "original_sha256": "0880954605aaa107639b86c9d6dfdc520859e7c5b6daffb8ea951184ba39012f",
+      "bytes": 113,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/多级字典/subtask4/HitStatsResult.hpp",
+      "sha256": "856d1bee25b109b2567f4d65bd7a45f311ee7bf2fa756abbee7c3055901c9065",
+      "original_sha256": "856d1bee25b109b2567f4d65bd7a45f311ee7bf2fa756abbee7c3055901c9065",
+      "bytes": 1372,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/多级字典/subtask4/Makefile",
+      "sha256": "3895a7d7c97e2349a1765e934d1b60ee0a54d68d83f09e9cda809981da608533",
+      "original_sha256": "3895a7d7c97e2349a1765e934d1b60ee0a54d68d83f09e9cda809981da608533",
+      "bytes": 337,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/多级字典/subtask4/MyDict.hpp",
+      "sha256": "5698e91985bc8515abf0ee0ef3e8a1cade00d7b0c914b1db20b0210523bb968c",
+      "original_sha256": "5698e91985bc8515abf0ee0ef3e8a1cade00d7b0c914b1db20b0210523bb968c",
+      "bytes": 1274,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/多级字典/subtask4/PopStrategy.hpp",
+      "sha256": "532e24ba6919fd299d0a922c408ed8d80178bc343cb03002e6fade18083e9b34",
+      "original_sha256": "532e24ba6919fd299d0a922c408ed8d80178bc343cb03002e6fade18083e9b34",
+      "bytes": 1379,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/多级字典/subtask4/main_sample7.cpp",
+      "sha256": "b69f41b99c2c222ee4d02c68130f2626988cda88238347f3fbcd3e4b9870dc74",
+      "original_sha256": "b69f41b99c2c222ee4d02c68130f2626988cda88238347f3fbcd3e4b9870dc74",
+      "bytes": 2106,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/多级字典/subtask4/main_sample8.cpp",
+      "sha256": "ad2c4e79d13b23c3998acaba150874505a2007de2fee8baa6b98b1adde557958",
+      "original_sha256": "ad2c4e79d13b23c3998acaba150874505a2007de2fee8baa6b98b1adde557958",
+      "bytes": 1403,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/多级字典/subtask4/sample7.ans",
+      "sha256": "ced43848c9025c7285858d3e16bc117e06a38e8fbeb72acdb814d5a148607c98",
+      "original_sha256": "ced43848c9025c7285858d3e16bc117e06a38e8fbeb72acdb814d5a148607c98",
+      "bytes": 437,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/多级字典/subtask4/sample8.ans",
+      "sha256": "0506aca6e64d35b370e3a3033095055594818b5e1c8138209a7606db4f7c5ce0",
+      "original_sha256": "0506aca6e64d35b370e3a3033095055594818b5e1c8138209a7606db4f7c5ce0",
+      "bytes": 295,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/多级字典/subtask4/sample8.in",
+      "sha256": "5d70cf0997fafff775f5dfce113c47b0d1fd1d3b2b84535c83e6246c6bace18e",
+      "original_sha256": "5d70cf0997fafff775f5dfce113c47b0d1fd1d3b2b84535c83e6246c6bace18e",
+      "bytes": 117,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/小小军/Fraction.cpp",
+      "sha256": "3c9784992c981cdf515e09f5ba80c8c4e261c59a9193ec232579b4063f74719a",
+      "original_sha256": "3c9784992c981cdf515e09f5ba80c8c4e261c59a9193ec232579b4063f74719a",
+      "bytes": 1731,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/小小军/Fraction.h",
+      "sha256": "85bb7b17ed2542dadedfe9182f5d65940b6cbf1c13da66a4dcae0e9d9d0e4a36",
+      "original_sha256": "85bb7b17ed2542dadedfe9182f5d65940b6cbf1c13da66a4dcae0e9d9d0e4a36",
+      "bytes": 735,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/小小军/calculate.h",
+      "sha256": "66f4ab302a449f267da19590d00a4d4a7bd48da16910c03cff9a11715fc69908",
+      "original_sha256": "66f4ab302a449f267da19590d00a4d4a7bd48da16910c03cff9a11715fc69908",
+      "bytes": 669,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/小小军/main.cpp",
+      "sha256": "996a5378e0b1b7ecd25938b941aebb7edf6d9a63ad9d450c1095eed27ce52b4f",
+      "original_sha256": "996a5378e0b1b7ecd25938b941aebb7edf6d9a63ad9d450c1095eed27ce52b4f",
+      "bytes": 619,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/小小军/makefile",
+      "sha256": "40b7907825804561536f695c75881fde95f55262714ffed572f89a33e8dcf770",
+      "original_sha256": "40b7907825804561536f695c75881fde95f55262714ffed572f89a33e8dcf770",
+      "bytes": 69,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/小明list/Makefile",
+      "sha256": "f5f71531349f93a7c15415779951ebabe9ad5af0d77f31cfc0857d0b181d9eca",
+      "original_sha256": "f5f71531349f93a7c15415779951ebabe9ad5af0d77f31cfc0857d0b181d9eca",
+      "bytes": 68,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/小明list/MyList.h",
+      "sha256": "e0f11969904281d8af716a0d38c4182dfb13df38f73178f38fbaff0873a36ad8",
+      "original_sha256": "e0f11969904281d8af716a0d38c4182dfb13df38f73178f38fbaff0873a36ad8",
+      "bytes": 1429,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/小明list/figure.png",
+      "sha256": "60b6253cb3bddee1e6741f46f6370ccaa9ec69a70add5fcf17d8cf1c5e9b23a2",
+      "original_sha256": "60b6253cb3bddee1e6741f46f6370ccaa9ec69a70add5fcf17d8cf1c5e9b23a2",
+      "bytes": 391776,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/小明list/main.cpp",
+      "sha256": "3a654d50ba795c6f8af784685d9f34952db32f94c5499ec28fe250d7699c7eae",
+      "original_sha256": "3a654d50ba795c6f8af784685d9f34952db32f94c5499ec28fe250d7699c7eae",
+      "bytes": 650,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/幻影忍者/dragon.cpp",
+      "sha256": "f1532a41ee7c5c446b56fc2f2c09a62360ceb6b950d59ecf842cd1c58c40b83e",
+      "original_sha256": "f1532a41ee7c5c446b56fc2f2c09a62360ceb6b950d59ecf842cd1c58c40b83e",
+      "bytes": 161,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/幻影忍者/dragon.h",
+      "sha256": "cdd32db7de19f795fcbb4f6b96e60a5d637cd2db519555995710e9876d14f369",
+      "original_sha256": "cdd32db7de19f795fcbb4f6b96e60a5d637cd2db519555995710e9876d14f369",
+      "bytes": 149,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/幻影忍者/fire_ninja.cpp",
+      "sha256": "08d9a02fa791a1493712644ff3bcc8be0d01be4246c6bedd49c67ce5d5d318ff",
+      "original_sha256": "08d9a02fa791a1493712644ff3bcc8be0d01be4246c6bedd49c67ce5d5d318ff",
+      "bytes": 392,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/幻影忍者/fire_ninja.h",
+      "sha256": "97ed7baa2b57a6dfe91c4129005ab2a7a61189dba8715e6f20b3984f009a6448",
+      "original_sha256": "97ed7baa2b57a6dfe91c4129005ab2a7a61189dba8715e6f20b3984f009a6448",
+      "bytes": 324,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/幻影忍者/ice_ninja.cpp",
+      "sha256": "f24972212c3c76b48d2b5bc61f994a5b4275005e76eea25447b4ac0200d5c2b1",
+      "original_sha256": "f24972212c3c76b48d2b5bc61f994a5b4275005e76eea25447b4ac0200d5c2b1",
+      "bytes": 401,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/幻影忍者/ice_ninja.h",
+      "sha256": "94a0f6a330a7c1dc024d85c05b57327080a1513df300169075c2f81f781fd6c6",
+      "original_sha256": "94a0f6a330a7c1dc024d85c05b57327080a1513df300169075c2f81f781fd6c6",
+      "bytes": 322,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/幻影忍者/main.cpp",
+      "sha256": "682b2969cbb95697fade416a97d5f1c00809f6a52b95f5e8b98b06082da0020c",
+      "original_sha256": "682b2969cbb95697fade416a97d5f1c00809f6a52b95f5e8b98b06082da0020c",
+      "bytes": 1181,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/幻影忍者/makefile",
+      "sha256": "002a579161b1e93b249554dc8a07f27f0db61898e1fe754d490feefa7991dfcf",
+      "original_sha256": "002a579161b1e93b249554dc8a07f27f0db61898e1fe754d490feefa7991dfcf",
+      "bytes": 112,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/幻影忍者/ninja.cpp",
+      "sha256": "f7970b49c36b8fe056ac693cd42a4fe3541fff077def4aab2448315b752e28ec",
+      "original_sha256": "f7970b49c36b8fe056ac693cd42a4fe3541fff077def4aab2448315b752e28ec",
+      "bytes": 273,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/幻影忍者/ninja.h",
+      "sha256": "307a1d7a35b106f8e55f3996273f6e4e8f5a1b63bb9d5fbd9b7c5fd310384193",
+      "original_sha256": "307a1d7a35b106f8e55f3996273f6e4e8f5a1b63bb9d5fbd9b7c5fd310384193",
+      "bytes": 315,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/幻影忍者/weapon.cpp",
+      "sha256": "37db17c0c84bb99086c1d70112681ebc4d024fd71a06220ec35722a64f2fd8ac",
+      "original_sha256": "37db17c0c84bb99086c1d70112681ebc4d024fd71a06220ec35722a64f2fd8ac",
+      "bytes": 159,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/幻影忍者/weapon.h",
+      "sha256": "6a52f8988535ecc0d25eea11c6b3379ebbe829e79063f700af8e3164de03dffb",
+      "original_sha256": "6a52f8988535ecc0d25eea11c6b3379ebbe829e79063f700af8e3164de03dffb",
+      "bytes": 149,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/徐洛桐/Makefile",
+      "sha256": "b52b1f9c3ac58b02041dd02cfd8d3b566099b04df35814c9bf2af108c6a24c5d",
+      "original_sha256": "b52b1f9c3ac58b02041dd02cfd8d3b566099b04df35814c9bf2af108c6a24c5d",
+      "bytes": 95,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/徐洛桐/editor.cpp",
+      "sha256": "70645e612c4b1d5f37339b4b74431e707ab72b63fce58258e2b59b2bbc2eeb11",
+      "original_sha256": "70645e612c4b1d5f37339b4b74431e707ab72b63fce58258e2b59b2bbc2eeb11",
+      "bytes": 2124,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/徐洛桐/editor.h",
+      "sha256": "871a781b6ad013a891013b92f0158c1023d9f70bf77c58f55fbdc9b3da0bd57d",
+      "original_sha256": "871a781b6ad013a891013b92f0158c1023d9f70bf77c58f55fbdc9b3da0bd57d",
+      "bytes": 1569,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/徐洛桐/exp1.in",
+      "sha256": "300ca112aba064fb7bbaa155dc90895cf535f6d74969bd6f065cc9f1246e4890",
+      "original_sha256": "300ca112aba064fb7bbaa155dc90895cf535f6d74969bd6f065cc9f1246e4890",
+      "bytes": 114,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/徐洛桐/exp1.out",
+      "sha256": "261978744824ecc06d11b220a0b9297a44d5e1ea935fecfa5b5470d4b22fc392",
+      "original_sha256": "261978744824ecc06d11b220a0b9297a44d5e1ea935fecfa5b5470d4b22fc392",
+      "bytes": 413,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/徐洛桐/exp2.in",
+      "sha256": "80074c64667e81cf57bcc4e066992e614e9aec88d588854e564a3399768be5b2",
+      "original_sha256": "80074c64667e81cf57bcc4e066992e614e9aec88d588854e564a3399768be5b2",
+      "bytes": 184,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/徐洛桐/exp2.out",
+      "sha256": "04843f56f49f678b44c0e3640f1c357b218389c0a1852a9ca23fb3e7583f8428",
+      "original_sha256": "04843f56f49f678b44c0e3640f1c357b218389c0a1852a9ca23fb3e7583f8428",
+      "bytes": 714,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/徐洛桐/exp3.in",
+      "sha256": "a8914393cad9b2a46abc6b1cc533d43027bc125b950361f53cc41cb4ccee0040",
+      "original_sha256": "a8914393cad9b2a46abc6b1cc533d43027bc125b950361f53cc41cb4ccee0040",
+      "bytes": 215,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/徐洛桐/exp3.out",
+      "sha256": "c4ff9ee6b27bf6251cf5f1ed42ba3855d3829d3f4d8c3cdc2a49abc39a22d96c",
+      "original_sha256": "c4ff9ee6b27bf6251cf5f1ed42ba3855d3829d3f4d8c3cdc2a49abc39a22d96c",
+      "bytes": 858,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/徐洛桐/exp4.in",
+      "sha256": "bd69779b115a491717c82a0d84afbf7c2083caa65c8dac336630894c1ac4e0af",
+      "original_sha256": "bd69779b115a491717c82a0d84afbf7c2083caa65c8dac336630894c1ac4e0af",
+      "bytes": 325,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/徐洛桐/exp4.out",
+      "sha256": "20e861062705a4c9df1515d45f1eea834288915442590fa0b7fd0f625935fc32",
+      "original_sha256": "20e861062705a4c9df1515d45f1eea834288915442590fa0b7fd0f625935fc32",
+      "bytes": 541,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/徐洛桐/main.cpp",
+      "sha256": "742d00b061e0549e99834bbce09a793a041b09233f3cffe15a6977694889fc3c",
+      "original_sha256": "742d00b061e0549e99834bbce09a793a041b09233f3cffe15a6977694889fc3c",
+      "bytes": 288,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/数据结构/Count.cpp",
+      "sha256": "c5b50bdbfad55cbcbce6d1a53576ac3f4075138a53fb58adeb710f5d3da129bc",
+      "original_sha256": "c5b50bdbfad55cbcbce6d1a53576ac3f4075138a53fb58adeb710f5d3da129bc",
+      "bytes": 596,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/数据结构/Divisor.cpp",
+      "sha256": "fc7e6a1b9ed8812712422a32c36abc07c5e83c74f009000830244c579e4ee47d",
+      "original_sha256": "fc7e6a1b9ed8812712422a32c36abc07c5e83c74f009000830244c579e4ee47d",
+      "bytes": 224,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/数据结构/add.cpp",
+      "sha256": "e78303ebcf0824624bcd61e119c8870cf632ff3a211358a26b1c9d34fb8b87c8",
+      "original_sha256": "e78303ebcf0824624bcd61e119c8870cf632ff3a211358a26b1c9d34fb8b87c8",
+      "bytes": 141,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/数据结构/sub.cpp",
+      "sha256": "21b38540da0c02817be960ff1f060426341ba389076f8cb8562d2caae644af3c",
+      "original_sha256": "21b38540da0c02817be960ff1f060426341ba389076f8cb8562d2caae644af3c",
+      "bytes": 331,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/数组/Array.cpp",
+      "sha256": "489c9f77fa92b3babe95a3a8df0a744d8468d60e115b8323f6ba5709bd897401",
+      "original_sha256": "489c9f77fa92b3babe95a3a8df0a744d8468d60e115b8323f6ba5709bd897401",
+      "bytes": 259,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/数组/Array.h",
+      "sha256": "4bf19ef6e4228ef82c74107d86609843b25f97f7aaed6f8140ab8391a6011fae",
+      "original_sha256": "4bf19ef6e4228ef82c74107d86609843b25f97f7aaed6f8140ab8391a6011fae",
+      "bytes": 1230,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/数组/Node.cpp",
+      "sha256": "207da4747afab9a0bcfd5b0e468bb3cdba74d43f5e30d07c0c1b9dc8478f020d",
+      "original_sha256": "207da4747afab9a0bcfd5b0e468bb3cdba74d43f5e30d07c0c1b9dc8478f020d",
+      "bytes": 1037,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/数组/Node.h",
+      "sha256": "3013e57990932e4b8e15a52ded027797577c8d224cf7ca4467dd6ac45b23b9ae",
+      "original_sha256": "3013e57990932e4b8e15a52ded027797577c8d224cf7ca4467dd6ac45b23b9ae",
+      "bytes": 487,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/数组/main.cpp",
+      "sha256": "05422f566efe2d55a0380309d8e3b300651145e8434d77842ccb4c0f30b5d557",
+      "original_sha256": "05422f566efe2d55a0380309d8e3b300651145e8434d77842ccb4c0f30b5d557",
+      "bytes": 1436,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/文本处理/TextProcessor(1).cpp",
+      "sha256": "e0565879834d76a12f75d6a24f53a235038ff6e3452c11060cba57d6aebed0d4",
+      "original_sha256": "e0565879834d76a12f75d6a24f53a235038ff6e3452c11060cba57d6aebed0d4",
+      "bytes": 5274,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/文本处理/TextProcessor(2).cpp",
+      "sha256": "98f06d45ffcd53b3f62952234876ca1ad50300969f3afaec93c92b9016f68c35",
+      "original_sha256": "98f06d45ffcd53b3f62952234876ca1ad50300969f3afaec93c92b9016f68c35",
+      "bytes": 5835,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/文本处理/TextProcessor(3).cpp",
+      "sha256": "d133b143b2971c54cbeda0ef79b4beed6d8221c6aaa02e70a07d6c41bd6001c3",
+      "original_sha256": "d133b143b2971c54cbeda0ef79b4beed6d8221c6aaa02e70a07d6c41bd6001c3",
+      "bytes": 5463,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/文本处理/TextProcessor.cpp",
+      "sha256": "1b4629ce2242b142150b03bfff82f4878de28de31b2fcbb9e186714ff495a2f3",
+      "original_sha256": "1b4629ce2242b142150b03bfff82f4878de28de31b2fcbb9e186714ff495a2f3",
+      "bytes": 6128,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/文本处理/TextProcessor.h",
+      "sha256": "f0a2cabc8311e357afc57a8cadd397310caf977edae09654799d52150c354d88",
+      "original_sha256": "f0a2cabc8311e357afc57a8cadd397310caf977edae09654799d52150c354d88",
+      "bytes": 3220,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/文本处理/main.cpp",
+      "sha256": "3fe451be7827d8a151130a86869ba1de76e104c505cacc6daf11975fe5857cbd",
+      "original_sha256": "3fe451be7827d8a151130a86869ba1de76e104c505cacc6daf11975fe5857cbd",
+      "bytes": 1739,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/文本编辑器/Makefile",
+      "sha256": "b52b1f9c3ac58b02041dd02cfd8d3b566099b04df35814c9bf2af108c6a24c5d",
+      "original_sha256": "b52b1f9c3ac58b02041dd02cfd8d3b566099b04df35814c9bf2af108c6a24c5d",
+      "bytes": 95,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/文本编辑器/Problem Description.pdf",
+      "sha256": "621f96d5a013b4ff587bfdc728d547f91cbf8252fcda5944571f551322c77e91",
+      "original_sha256": "621f96d5a013b4ff587bfdc728d547f91cbf8252fcda5944571f551322c77e91",
+      "bytes": 129919,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/文本编辑器/editor(1).h",
+      "sha256": "879d41081101fe56568e0a82adb07bca429df29c57f103bab408ca2201163229",
+      "original_sha256": "879d41081101fe56568e0a82adb07bca429df29c57f103bab408ca2201163229",
+      "bytes": 3345,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/文本编辑器/editor.cpp",
+      "sha256": "733716b83cb67d466d51a3c24a397246da39c1c2760d6f1a48c1d97452510ad6",
+      "original_sha256": "733716b83cb67d466d51a3c24a397246da39c1c2760d6f1a48c1d97452510ad6",
+      "bytes": 3183,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/文本编辑器/editor.h",
+      "sha256": "c25497369b270c5eb2f6302332f088fcc7ce45d40b689bb27be2c3b438aff154",
+      "original_sha256": "c25497369b270c5eb2f6302332f088fcc7ce45d40b689bb27be2c3b438aff154",
+      "bytes": 4929,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/文本编辑器/exp1.in",
+      "sha256": "300ca112aba064fb7bbaa155dc90895cf535f6d74969bd6f065cc9f1246e4890",
+      "original_sha256": "300ca112aba064fb7bbaa155dc90895cf535f6d74969bd6f065cc9f1246e4890",
+      "bytes": 114,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/文本编辑器/exp1.out",
+      "sha256": "261978744824ecc06d11b220a0b9297a44d5e1ea935fecfa5b5470d4b22fc392",
+      "original_sha256": "261978744824ecc06d11b220a0b9297a44d5e1ea935fecfa5b5470d4b22fc392",
+      "bytes": 413,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/文本编辑器/exp2.in",
+      "sha256": "80074c64667e81cf57bcc4e066992e614e9aec88d588854e564a3399768be5b2",
+      "original_sha256": "80074c64667e81cf57bcc4e066992e614e9aec88d588854e564a3399768be5b2",
+      "bytes": 184,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/文本编辑器/exp2.out",
+      "sha256": "04843f56f49f678b44c0e3640f1c357b218389c0a1852a9ca23fb3e7583f8428",
+      "original_sha256": "04843f56f49f678b44c0e3640f1c357b218389c0a1852a9ca23fb3e7583f8428",
+      "bytes": 714,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/文本编辑器/exp3.in",
+      "sha256": "a8914393cad9b2a46abc6b1cc533d43027bc125b950361f53cc41cb4ccee0040",
+      "original_sha256": "a8914393cad9b2a46abc6b1cc533d43027bc125b950361f53cc41cb4ccee0040",
+      "bytes": 215,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/文本编辑器/exp3.out",
+      "sha256": "c4ff9ee6b27bf6251cf5f1ed42ba3855d3829d3f4d8c3cdc2a49abc39a22d96c",
+      "original_sha256": "c4ff9ee6b27bf6251cf5f1ed42ba3855d3829d3f4d8c3cdc2a49abc39a22d96c",
+      "bytes": 858,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/文本编辑器/exp4.in",
+      "sha256": "ba9d48357cb37aceedec33489bc911f2e43c18b440dc892454480253c0097046",
+      "original_sha256": "ba9d48357cb37aceedec33489bc911f2e43c18b440dc892454480253c0097046",
+      "bytes": 332,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/文本编辑器/exp4.out",
+      "sha256": "20e861062705a4c9df1515d45f1eea834288915442590fa0b7fd0f625935fc32",
+      "original_sha256": "20e861062705a4c9df1515d45f1eea834288915442590fa0b7fd0f625935fc32",
+      "bytes": 541,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/文本编辑器/main.cpp",
+      "sha256": "742d00b061e0549e99834bbce09a793a041b09233f3cffe15a6977694889fc3c",
+      "original_sha256": "742d00b061e0549e99834bbce09a793a041b09233f3cffe15a6977694889fc3c",
+      "bytes": 288,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/机器人/Alice.cpp",
+      "sha256": "e4677a92d66b86ecacd26f32db9ab1dd297e135773bb883d08bf8131bb0a1917",
+      "original_sha256": "e4677a92d66b86ecacd26f32db9ab1dd297e135773bb883d08bf8131bb0a1917",
+      "bytes": 420,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/机器人/Alice.h",
+      "sha256": "f7ebed971deaaaee443cdca0fd84717776944e8280c3b0396da8c71f96e2e9ce",
+      "original_sha256": "f7ebed971deaaaee443cdca0fd84717776944e8280c3b0396da8c71f96e2e9ce",
+      "bytes": 281,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/机器人/Bob.cpp",
+      "sha256": "39e2c7d9e0f0ceeea8014a32567c3c06ced31daa7393442bff21a67f32b9fdbc",
+      "original_sha256": "39e2c7d9e0f0ceeea8014a32567c3c06ced31daa7393442bff21a67f32b9fdbc",
+      "bytes": 414,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/机器人/Bob.h",
+      "sha256": "5cb7843708e0fd10344376cb537ef3fc0deabb90e0df1f2c632bf9e7bfa46108",
+      "original_sha256": "5cb7843708e0fd10344376cb537ef3fc0deabb90e0df1f2c632bf9e7bfa46108",
+      "bytes": 273,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/机器人/Part.cpp",
+      "sha256": "c656cf0ef6b86a56a1096094b41452bc75adb5f4f88f44b98fc41ebd8366ce0b",
+      "original_sha256": "c656cf0ef6b86a56a1096094b41452bc75adb5f4f88f44b98fc41ebd8366ce0b",
+      "bytes": 138,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/机器人/Part.h",
+      "sha256": "3d128c968c162895556fba2df1aac0e357499e01a808da0acca1d2f86fb0a238",
+      "original_sha256": "3d128c968c162895556fba2df1aac0e357499e01a808da0acca1d2f86fb0a238",
+      "bytes": 139,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/机器人/Robot.cpp",
+      "sha256": "bcffe61f1c24680a0b306e3b49c27c86b6f21ccc671110ce7840c600b16e0db2",
+      "original_sha256": "bcffe61f1c24680a0b306e3b49c27c86b6f21ccc671110ce7840c600b16e0db2",
+      "bytes": 224,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/机器人/Robot.h",
+      "sha256": "2b188dd41a00ae7f1de45277b577e90f33375138be7316a5be76f7200fd5e3f8",
+      "original_sha256": "2b188dd41a00ae7f1de45277b577e90f33375138be7316a5be76f7200fd5e3f8",
+      "bytes": 429,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/机器人/main.cpp",
+      "sha256": "5da9586ebf6fd3c685153e7169d581a150b76372ec073fb169b6bed7307db305",
+      "original_sha256": "5da9586ebf6fd3c685153e7169d581a150b76372ec073fb169b6bed7307db305",
+      "bytes": 1219,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/机器人/makefile",
+      "sha256": "8c9166709377aedf206c937438d797f34c8a4f0b42618f4ea32326c3c1ffea07",
+      "original_sha256": "8c9166709377aedf206c937438d797f34c8a4f0b42618f4ea32326c3c1ffea07",
+      "bytes": 144,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/移动拷贝/Test.h",
+      "sha256": "d9059a8d8c77dcd3c075f430ad00e01a30822f69c2656210b07177af2f8cfe2e",
+      "original_sha256": "d9059a8d8c77dcd3c075f430ad00e01a30822f69c2656210b07177af2f8cfe2e",
+      "bytes": 1075,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/移动拷贝/func.h",
+      "sha256": "0e3afb28c0e1529e8d2421eefd5310ea0e0d02229437e183ca2071ac9a9ef249",
+      "original_sha256": "0e3afb28c0e1529e8d2421eefd5310ea0e0d02229437e183ca2071ac9a9ef249",
+      "bytes": 282,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/移动拷贝/main.cpp",
+      "sha256": "ebdf7c6a2a64756a31b2e1707382ce5b763c282c334b7b65095b65f7b19bdc81",
+      "original_sha256": "ebdf7c6a2a64756a31b2e1707382ce5b763c282c334b7b65095b65f7b19bdc81",
+      "bytes": 697,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/签到/ClassSystem.h",
+      "sha256": "6e64d0076f7f5635e9b3294a563fef775fb1693e34aedbfe4f52ddfd3bfc84e6",
+      "original_sha256": "6e64d0076f7f5635e9b3294a563fef775fb1693e34aedbfe4f52ddfd3bfc84e6",
+      "bytes": 938,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/签到/Student.h",
+      "sha256": "7409fd325b6937e969d21de8bcdabf68f29d05665b78883c44d47939eca11ca1",
+      "original_sha256": "7409fd325b6937e969d21de8bcdabf68f29d05665b78883c44d47939eca11ca1",
+      "bytes": 332,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/签到/main.cpp",
+      "sha256": "d555c205a547d81ecc1af6d06b2f90f6961be56ebc6657eaf040c4463af66d01",
+      "original_sha256": "d555c205a547d81ecc1af6d06b2f90f6961be56ebc6657eaf040c4463af66d01",
+      "bytes": 1216,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/签到/makefile",
+      "sha256": "d4c5e7f2cb4ec6abcb20da4a7eb0f29fbd8e9938834cc2c752b59662af23796f",
+      "original_sha256": "d4c5e7f2cb4ec6abcb20da4a7eb0f29fbd8e9938834cc2c752b59662af23796f",
+      "bytes": 36,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/聊天室/ChatSession.cpp",
+      "sha256": "830cf57fb61300b84927576980f073b86c78f1c993ef5fecd47acb0e8ce8e69a",
+      "original_sha256": "830cf57fb61300b84927576980f073b86c78f1c993ef5fecd47acb0e8ce8e69a",
+      "bytes": 872,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/聊天室/ChatSession.h",
+      "sha256": "148b9453516574f7b2c1f930849279ca3e5681b217a1ce0cfc6b5bc67f674408",
+      "original_sha256": "148b9453516574f7b2c1f930849279ca3e5681b217a1ce0cfc6b5bc67f674408",
+      "bytes": 346,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/聊天室/ChatUser.cpp",
+      "sha256": "897cea640a9563d5d6a4a20ff7a864d83e9d6691bf7b3865e79fd877ae1a457b",
+      "original_sha256": "897cea640a9563d5d6a4a20ff7a864d83e9d6691bf7b3865e79fd877ae1a457b",
+      "bytes": 2691,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/聊天室/ChatUser.h",
+      "sha256": "19c7520bb9063f4159ccc5bc9e4b275618bf97bfe0f931b2dfaf3a9a295de723",
+      "original_sha256": "19c7520bb9063f4159ccc5bc9e4b275618bf97bfe0f931b2dfaf3a9a295de723",
+      "bytes": 664,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/聊天室/main.cpp",
+      "sha256": "2521a51dc15ec72d8880820f602999e0eac89bcf419fc07d05ace650e0204b3f",
+      "original_sha256": "2521a51dc15ec72d8880820f602999e0eac89bcf419fc07d05ace650e0204b3f",
+      "bytes": 1721,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/聊天室/makefile",
+      "sha256": "ceda1e1ff2bbcb8675bca98b51522768c530e8e79fc64379dd5fddcc1db28c31",
+      "original_sha256": "ceda1e1ff2bbcb8675bca98b51522768c530e8e79fc64379dd5fddcc1db28c31",
+      "bytes": 80,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/草莓巧克力/1.cpp",
+      "sha256": "231b86bb231626819d277a87c233855a2233b44a0833f0d3904824ba5ac3491a",
+      "original_sha256": "231b86bb231626819d277a87c233855a2233b44a0833f0d3904824ba5ac3491a",
+      "bytes": 217,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/草莓巧克力/event.h",
+      "sha256": "2f4242014a6e6f4a7af93af2e0d64d0875b5716b3b1c9703acdad52161b4fa3c",
+      "original_sha256": "2f4242014a6e6f4a7af93af2e0d64d0875b5716b3b1c9703acdad52161b4fa3c",
+      "bytes": 364,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/草莓巧克力/main.cpp",
+      "sha256": "3f258bc79d5e6a4ed6dee05a8f83e3ebe583e1856eda3295c610da5c5bbca6d9",
+      "original_sha256": "3f258bc79d5e6a4ed6dee05a8f83e3ebe583e1856eda3295c610da5c5bbca6d9",
+      "bytes": 982,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/草莓巧克力/makefile",
+      "sha256": "7d2b2a435a72a2db7da8619c717507870e6cff9519a988a7d265b026eb8e1d4f",
+      "original_sha256": "7d2b2a435a72a2db7da8619c717507870e6cff9519a988a7d265b026eb8e1d4f",
+      "bytes": 98,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/草莓巧克力/strawchoco.cpp",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "original_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/草莓巧克力/strawchoco.h",
+      "sha256": "1e9734f8bf8a8e930b685f6dd68064537458bf0420563892887b5a8843d54c88",
+      "original_sha256": "1e9734f8bf8a8e930b685f6dd68064537458bf0420563892887b5a8843d54c88",
+      "bytes": 1326,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/计算图/0.ans",
+      "sha256": "5c356f5fbb61b69f721869dd042af3061a9659a8102c1bfb778717145e6485dc",
+      "original_sha256": "5c356f5fbb61b69f721869dd042af3061a9659a8102c1bfb778717145e6485dc",
+      "bytes": 21,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/计算图/3.ans",
+      "sha256": "2e33f6a44e113b1ea8fae3307b086698e4d4b45bc0e1175882d79b9efcf54803",
+      "original_sha256": "2e33f6a44e113b1ea8fae3307b086698e4d4b45bc0e1175882d79b9efcf54803",
+      "bytes": 121,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/计算图/6.ans",
+      "sha256": "66d101875cdfccb3ca9c775bdb067683686b946a9598f9e8b35e73d0a4dfdc17",
+      "original_sha256": "66d101875cdfccb3ca9c775bdb067683686b946a9598f9e8b35e73d0a4dfdc17",
+      "bytes": 30,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/计算图/8.ans",
+      "sha256": "ee1767ec3232e0f7ef4c86e024c84c0a198676c46343887fd16225ff07ea2cd9",
+      "original_sha256": "ee1767ec3232e0f7ef4c86e024c84c0a198676c46343887fd16225ff07ea2cd9",
+      "bytes": 115,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/计算图/abstract_node.cpp",
+      "sha256": "84452cb279b562dc47ba1e9112dabb94994e0020d57ef4e7e4d6e2c9b6223c16",
+      "original_sha256": "84452cb279b562dc47ba1e9112dabb94994e0020d57ef4e7e4d6e2c9b6223c16",
+      "bytes": 335,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/计算图/abstract_node.h",
+      "sha256": "ebcce7e988f2b15df7c082bf7c981cbfbce7fb8a46df156f646d72b095e2152a",
+      "original_sha256": "ebcce7e988f2b15df7c082bf7c981cbfbce7fb8a46df156f646d72b095e2152a",
+      "bytes": 422,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/计算图/leaf_node.cpp",
+      "sha256": "5c1687d99ed8f661fd7ebbf310240b5027faed61691e648cccc5b294e049bc85",
+      "original_sha256": "5c1687d99ed8f661fd7ebbf310240b5027faed61691e648cccc5b294e049bc85",
+      "bytes": 397,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/计算图/leaf_node.h",
+      "sha256": "b3c635ac2c774d4ab8e3120555ff76f7f7e465866ddafb4a679e94d2c44b00a8",
+      "original_sha256": "b3c635ac2c774d4ab8e3120555ff76f7f7e465866ddafb4a679e94d2c44b00a8",
+      "bytes": 290,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/计算图/main0.cpp",
+      "sha256": "bf7dea12a8145b40b2aca20994ff434ee65d7e907804095dd75ab68432fb5379",
+      "original_sha256": "bf7dea12a8145b40b2aca20994ff434ee65d7e907804095dd75ab68432fb5379",
+      "bytes": 573,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/计算图/main3.cpp",
+      "sha256": "9e8e50c7a3ba66062ad2414c3c18be3425109c764b300eea8c7f048af282da8f",
+      "original_sha256": "9e8e50c7a3ba66062ad2414c3c18be3425109c764b300eea8c7f048af282da8f",
+      "bytes": 1203,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/计算图/main6.cpp",
+      "sha256": "82f2e775a59bb9585d07cbb15acdf556bb7f92bccfc05195b9c1fda92160a2c5",
+      "original_sha256": "82f2e775a59bb9585d07cbb15acdf556bb7f92bccfc05195b9c1fda92160a2c5",
+      "bytes": 1401,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/计算图/main8.cpp",
+      "sha256": "2f2070d5a57a7402585a24974774329384b59d60a015c61d94972da552af2dfc",
+      "original_sha256": "2f2070d5a57a7402585a24974774329384b59d60a015c61d94972da552af2dfc",
+      "bytes": 1449,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/计算图/makefile",
+      "sha256": "b6f7bca64ad40e932036218a905f75c22287a92f03cf02c547bfbaadaa779032",
+      "original_sha256": "b6f7bca64ad40e932036218a905f75c22287a92f03cf02c547bfbaadaa779032",
+      "bytes": 534,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/计算图/node.cpp",
+      "sha256": "dbc42b6dcb60ba44ddfeaaedff45617b9b347591795e1ac23532e7a594f1718b",
+      "original_sha256": "dbc42b6dcb60ba44ddfeaaedff45617b9b347591795e1ac23532e7a594f1718b",
+      "bytes": 89,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/计算图/node.h",
+      "sha256": "9bc601659fe8a02880a92b0262e50fbce2d7083a6abb05bc379e41ca4016ce34",
+      "original_sha256": "9bc601659fe8a02880a92b0262e50fbce2d7083a6abb05bc379e41ca4016ce34",
+      "bytes": 5021,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/软件工程/0.in",
+      "sha256": "644e32f782d202bccf7b02054f02d7723bb5eaa745225bb0ddbeac10e6d710f0",
+      "original_sha256": "644e32f782d202bccf7b02054f02d7723bb5eaa745225bb0ddbeac10e6d710f0",
+      "bytes": 178,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/软件工程/0.out",
+      "sha256": "a2142d03c53b9d00462dc786c3b7fd255045b8181390a2376d5a6d3c428516f5",
+      "original_sha256": "a2142d03c53b9d00462dc786c3b7fd255045b8181390a2376d5a6d3c428516f5",
+      "bytes": 160,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/软件工程/Makefile",
+      "sha256": "91408c9a3400832b9ac5e1d31702ef1b0990f82c07ea7641b7de50e1a3a63577",
+      "original_sha256": "91408c9a3400832b9ac5e1d31702ef1b0990f82c07ea7641b7de50e1a3a63577",
+      "bytes": 121,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/软件工程/agent.cpp",
+      "sha256": "f5eef6bab450a123f582375155e7db70d12f6c228f20a1a92d8b030018ed05ad",
+      "original_sha256": "f5eef6bab450a123f582375155e7db70d12f6c228f20a1a92d8b030018ed05ad",
+      "bytes": 428,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/软件工程/agent.h",
+      "sha256": "9c8a54e800d4bcedc3e549259cf3fb2dbcd7f1762489847ddad25b1c64f5dd51",
+      "original_sha256": "9c8a54e800d4bcedc3e549259cf3fb2dbcd7f1762489847ddad25b1c64f5dd51",
+      "bytes": 443,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/软件工程/coder.h",
+      "sha256": "1f2b8ccf59a5ae28af83ea7ed5104ddf36ab29c1a1ac64c34a3ed6e94bf51ff5",
+      "original_sha256": "1f2b8ccf59a5ae28af83ea7ed5104ddf36ab29c1a1ac64c34a3ed6e94bf51ff5",
+      "bytes": 478,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/软件工程/main.cpp",
+      "sha256": "8b1d8eb3b471be28c441a0b96d226d9423041822cae311d98a7c74ff96234ab0",
+      "original_sha256": "8b1d8eb3b471be28c441a0b96d226d9423041822cae311d98a7c74ff96234ab0",
+      "bytes": 734,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/软件工程/tester.h",
+      "sha256": "3407851a001370fbff6b1c696e7b97a23ba5d575ac741e7727f6b7cbc2bd8e89",
+      "original_sha256": "3407851a001370fbff6b1c696e7b97a23ba5d575ac741e7727f6b7cbc2bd8e89",
+      "bytes": 625,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/释放法术/example0.ans",
+      "sha256": "e75310383ebb68a3e65b6ce9d0a7e69f8686f547f2de2beeda5350de14f6d94c",
+      "original_sha256": "e75310383ebb68a3e65b6ce9d0a7e69f8686f547f2de2beeda5350de14f6d94c",
+      "bytes": 109,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/释放法术/example0.in",
+      "sha256": "9165f2bb1adab757ee642cac8d54c28abc2d7f81a36ddb9b4117ad878b6ba933",
+      "original_sha256": "9165f2bb1adab757ee642cac8d54c28abc2d7f81a36ddb9b4117ad878b6ba933",
+      "bytes": 54,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/释放法术/example1.ans",
+      "sha256": "b36faed502552b9d226615fe1216ab7a8883559fe4f8965504f817660425d59e",
+      "original_sha256": "b36faed502552b9d226615fe1216ab7a8883559fe4f8965504f817660425d59e",
+      "bytes": 8792,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/释放法术/example1.in",
+      "sha256": "e557ffc54f611535e027bcab93a6f0c51e77d9bfd6dc98a6bb5fee51de5db031",
+      "original_sha256": "e557ffc54f611535e027bcab93a6f0c51e77d9bfd6dc98a6bb5fee51de5db031",
+      "bytes": 16677,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/释放法术/main.cpp",
+      "sha256": "b743542ee67d4667e90d9bda1f087b730c2f7a156dba3d8848801b4472ff5397",
+      "original_sha256": "b743542ee67d4667e90d9bda1f087b730c2f7a156dba3d8848801b4472ff5397",
+      "bytes": 1025,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/释放法术/makefile",
+      "sha256": "b1b931bef190b3dc506a7ceb46cb6d863ed9918ab6a296ba6023b3137a534f85",
+      "original_sha256": "b1b931bef190b3dc506a7ceb46cb6d863ed9918ab6a296ba6023b3137a534f85",
+      "bytes": 75,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/释放法术/weapon.hpp",
+      "sha256": "923bb8430d52ae533f56c36484ae3fb50b7f92221d24487f7c2f44743e2c6565",
+      "original_sha256": "923bb8430d52ae533f56c36484ae3fb50b7f92221d24487f7c2f44743e2c6565",
+      "bytes": 517,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/释放法术/weapon_slot.hpp",
+      "sha256": "1cd2c8314598dd1daef1bd6c34c3a919ba6df83e6105e8e363174daffea9d6c7",
+      "original_sha256": "1cd2c8314598dd1daef1bd6c34c3a919ba6df83e6105e8e363174daffea9d6c7",
+      "bytes": 2025,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/高维数组/1.out",
+      "sha256": "862c3afa0da8ae4e2ed58a321e3f95cd52d033fce4aa6d7972b8ade009ba3139",
+      "original_sha256": "862c3afa0da8ae4e2ed58a321e3f95cd52d033fce4aa6d7972b8ade009ba3139",
+      "bytes": 10,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/高维数组/2.out",
+      "sha256": "f2be64f3f85c61b70ad394e624fde042f9220605c9bc7ac9fd3c5d49ca06d7c5",
+      "original_sha256": "f2be64f3f85c61b70ad394e624fde042f9220605c9bc7ac9fd3c5d49ca06d7c5",
+      "bytes": 1644,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/高维数组/3.out",
+      "sha256": "395f6fcfcf0b7d77e2fb7213b883205672a363b67978c23307c44ddd747568c3",
+      "original_sha256": "395f6fcfcf0b7d77e2fb7213b883205672a363b67978c23307c44ddd747568c3",
+      "bytes": 206,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/高维数组/4.out",
+      "sha256": "2a8bf13ac5bae0afa67b382cc26b135cfce27c15788b515c80dc4a98b547e788",
+      "original_sha256": "2a8bf13ac5bae0afa67b382cc26b135cfce27c15788b515c80dc4a98b547e788",
+      "bytes": 484,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/高维数组/5.out",
+      "sha256": "101e1be403306884368d0c02c45ec34feb78fe355af3d87180d928e6a77a09c1",
+      "original_sha256": "101e1be403306884368d0c02c45ec34feb78fe355af3d87180d928e6a77a09c1",
+      "bytes": 2679,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/高维数组/6.out",
+      "sha256": "42a56a56dc9b9ff73dc079ec90206a45ecbfb1315897e15838df8e7099d3e18c",
+      "original_sha256": "42a56a56dc9b9ff73dc079ec90206a45ecbfb1315897e15838df8e7099d3e18c",
+      "bytes": 2681,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/高维数组/Makefile",
+      "sha256": "53023b0d84a347c367ab60fc15c14b1a2a66511d8c7221289df3244ab14291ae",
+      "original_sha256": "53023b0d84a347c367ab60fc15c14b1a2a66511d8c7221289df3244ab14291ae",
+      "bytes": 46,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/高维数组/array.h",
+      "sha256": "b4c0ed48bebd83291c898769f6447123cadf335928c14134718abc8cbc4329b8",
+      "original_sha256": "b4c0ed48bebd83291c898769f6447123cadf335928c14134718abc8cbc4329b8",
+      "bytes": 2020,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/高维数组/main.cpp",
+      "sha256": "4602a6abbc1e28d155e3820464ef5e330c10b353d587cc81b3039255f3e64ed8",
+      "original_sha256": "4602a6abbc1e28d155e3820464ef5e330c10b353d587cc81b3039255f3e64ed8",
+      "bytes": 621,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/高维数组/main2.cpp",
+      "sha256": "487718b468b5abf951ded2466c5afc25508bef7f89c8af35ae287f9a0a79b155",
+      "original_sha256": "487718b468b5abf951ded2466c5afc25508bef7f89c8af35ae287f9a0a79b155",
+      "bytes": 763,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/高维数组/main3.cpp",
+      "sha256": "a4af2cb66ae2b37517dee863c10f3a4d8dcb4178f1d44f7fc4ecdf611168bcb2",
+      "original_sha256": "a4af2cb66ae2b37517dee863c10f3a4d8dcb4178f1d44f7fc4ecdf611168bcb2",
+      "bytes": 964,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/高维数组/main4.cpp",
+      "sha256": "febeb832327f41484614ed8487b85a279b8b3e27ffa6698c98b2956d97f92b0d",
+      "original_sha256": "febeb832327f41484614ed8487b85a279b8b3e27ffa6698c98b2956d97f92b0d",
+      "bytes": 674,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/高维数组/main5.cpp",
+      "sha256": "0fa25f22eec37b3e264ff9557bffae928bbabc256facaadc331194dcd1ec930a",
+      "original_sha256": "0fa25f22eec37b3e264ff9557bffae928bbabc256facaadc331194dcd1ec930a",
+      "bytes": 681,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/高维数组/main6.cpp",
+      "sha256": "4c7a9e272b4ae0fe00c7479a2672b3f1b02a381a8ea6aee9cb14aeeee0f6dd01",
+      "original_sha256": "4c7a9e272b4ae0fe00c7479a2672b3f1b02a381a8ea6aee9cb14aeeee0f6dd01",
+      "bytes": 806,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/高维数组/node.h",
+      "sha256": "922d8ef5eeeea6d4a1d8b0622a882713d6c1c249d9f3034c354d2ab1bd995bd6",
+      "original_sha256": "922d8ef5eeeea6d4a1d8b0622a882713d6c1c249d9f3034c354d2ab1bd995bd6",
+      "bytes": 1571,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/魔法卡牌/Makefile",
+      "sha256": "10cc18e64efdfdd49cd7493c0b489abb658b0acd020a24cc4d7e2e1e701f19f9",
+      "original_sha256": "10cc18e64efdfdd49cd7493c0b489abb658b0acd020a24cc4d7e2e1e701f19f9",
+      "bytes": 63,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/魔法卡牌/card.h",
+      "sha256": "1b6fc426e0ec3f7d629ce023a6d349dafb0e4a9e5bb1f847a1711c8d4dc78f54",
+      "original_sha256": "1b6fc426e0ec3f7d629ce023a6d349dafb0e4a9e5bb1f847a1711c8d4dc78f54",
+      "bytes": 323,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/魔法卡牌/cards.h",
+      "sha256": "ba12f9af60b67e78c0dbd95c499b8cfb8211254bce575be8aace82d4b5624745",
+      "original_sha256": "ba12f9af60b67e78c0dbd95c499b8cfb8211254bce575be8aace82d4b5624745",
+      "bytes": 835,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/魔法卡牌/main.cpp",
+      "sha256": "1d4dc0107ac8a18cc4bba56fbbc7937ce59d6517252733e0beac42a841ee7f65",
+      "original_sha256": "1d4dc0107ac8a18cc4bba56fbbc7937ce59d6517252733e0beac42a841ee7f65",
+      "bytes": 429,
+      "kind": "source"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/README.md",
+      "sha256": "15f5516edcf4f9535323d3136162f4b4a0f24533b5da69781e23568d31172526",
+      "original_sha256": "40c4a900238ffc144c1ed5cde1a90246a8f29ae52fd8dcd18a1ec4b2fa6457d0",
+      "bytes": 1865,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/README.md",
+      "sha256": "c4edc608ae918f5ebcabdc1ed35631f82244c4dd76bd37abc8f7dd773482c8e6",
+      "original_sha256": "5e9cd8df6c282b448e836113435fc7d20044ac136c3e587cc9a6a63d78d94f5a",
+      "bytes": 1856,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/README.md",
+      "sha256": "f833eef17891903b132415cfb54d89f0213ffb19e22cce09d9e8d99198119b23",
+      "original_sha256": "3c8d40ab405f1426ee74caafd14615edd6d4f74512f46fdb9873043c23a58fd9",
+      "bytes": 1919,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/PVector/README.md",
+      "sha256": "adea39a013c6428eb3f3afbe5c261c4e706e095fb967924d60d3f57cbcb9b1cb",
+      "original_sha256": "7737caa1dbceb19640214daafaa2ae03a878b7e2f93c49c3fb513e69fc2d5b0d",
+      "bytes": 2461,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/Severance/README.md",
+      "sha256": "2693794b01dc99af6bf21be5f1d8e327c0cdc87cd5a4e7d25062a6f189362656",
+      "original_sha256": "a48c506494f87233071af0909d276dc79e7006cdea44d6eeecf501da0db3ac63",
+      "bytes": 2332,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/dyf/README.md",
+      "sha256": "5961ab77a9a6468faa4c191317ad70ddaa3a607b2ad41d9b0250a0c5a22f3379",
+      "original_sha256": "29fec6964e12a5f09217714104e7129670be42d55111a7cdf689578f7536494c",
+      "bytes": 1960,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/line/README.md",
+      "sha256": "369e8a609686fda960814bc23908d3b0ec4cc47a88bf3185ceb45952cd89b7d0",
+      "original_sha256": "405e0f3942a8ef0c12aa377cd1c4642e9a11fbd674cdd4afa5979729cb1fdf9f",
+      "bytes": 2136,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/map/README.md",
+      "sha256": "a499c41fd2eaf679a090d480ddc38b38351fb10b85ef812f0731de47be5d1ded",
+      "original_sha256": "6fb4b3add5bb5d1b21209c1162e23686412de09bb729528d11c38e4dcedcdd7a",
+      "bytes": 2308,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/python/README.md",
+      "sha256": "dd54a689b8c035ce860e38c8066e209e7e1d4b89f0af28824e28dc4bd98cac89",
+      "original_sha256": "9f0a6f72dd389de3cdf962de5012e5f0303c762052279297437d940d37abbaa5",
+      "bytes": 2285,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/README.md",
+      "sha256": "cf57cdea9a314e5eed099b43ebcf1676cb94e9f260aaa2f165bca7eeb1f487c1",
+      "original_sha256": "02d34f60a1525346b99faa71415b1c9360df384f3ad39e06e27b13c90b9e222e",
+      "bytes": 1843,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/README.md",
+      "sha256": "876d98911ef604b011d68e487cd79987512a244e5c726ef6301e3117805c9871",
+      "original_sha256": "46b5e0dcf603a54bd5d3d24bd3b90af2086524070c293a04fe1e0a7bd4374f2e",
+      "bytes": 2624,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/README.md",
+      "sha256": "8d3d184860a883f5744fe1296ed7a88b28b61cf19048d365a1a2b728ff7c14d8",
+      "original_sha256": "e9e1278add371c21ab849a64d7129ca6f852b3c89349d468dd88d299c3f01784",
+      "bytes": 2523,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/cards/README.md",
+      "sha256": "d588a686c07a31ee74ec4761d57b77ad23901355c91e6afb861abd3e1240aef6",
+      "original_sha256": "62614636791b729e388cab86f336cde8a41ace63664ab593ced1e86209b78874",
+      "bytes": 4091,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/monsters/README.md",
+      "sha256": "a8e55fbe5883ea856ae0bd090f978dddbfb3c8d0949dec18ff7c60cefb48b2d4",
+      "original_sha256": "94557f009e11ef86ff388b4943e681654e1af37bbd17ed699b886d1dc1c904ca",
+      "bytes": 2537,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/备选项/README.md",
+      "sha256": "e8b6498dfe0708a7dd5d754f6213fbc1197330e53fb758b234bfb83864696651",
+      "original_sha256": "c31fc39fd415dccd15dc9f3b084c97fc8d151027f63a3ea3d27021c49439aad2",
+      "bytes": 2603,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/qt/untitled/image/素材/README.md",
+      "sha256": "0c77c903a69c982dd2fd84fc95061c2f297fb2431aef743781843b68b4e38ca9",
+      "original_sha256": "4b57001c5a67cc723945aaae6e952c3ee44aa2b63b8139e82663a3b7bc075ff5",
+      "bytes": 6392,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/slay/README.md",
+      "sha256": "d45844ef81316a0f468e70f532d62d7f57bfcf4e6a7ecb2cabf00b44e7c3a2dc",
+      "original_sha256": "6fd1ecf451e277538eff73cb9794217dc8e95a73856a3b7c63e83c00c27d34c3",
+      "bytes": 2493,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/switch/README.md",
+      "sha256": "b04e3bfcb8fea3e434f9fd6721ff4be70af2ad4700f6ed72cb82b3745deb1a26",
+      "original_sha256": "bd659a58e7eee2c9b4079f6a0e2c7523a14d95ecf15c792ffd3dc944db8e1e67",
+      "bytes": 2083,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/test1/README.md",
+      "sha256": "728240f8d8f3a1d6d35168bf44f387681606aa7998767d6ef8323739c1ff18bf",
+      "original_sha256": "5296d371ffba997a88cfb4ce543da00f3817d8e37a3a570edeb5cfd60446599d",
+      "bytes": 2025,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/untitled/README.md",
+      "sha256": "67b2a9daaf42f57cdc416a52445f9d31817e4904cf45cd12d9b2ab0782de7a74",
+      "original_sha256": "7446eb7dcb4d89ac9e090e584478ccb8552ab2b1ea0cf48d90ed55094927dc69",
+      "bytes": 2149,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/windows/README.md",
+      "sha256": "4bd032351c5eaec36d2bf573a354481adfee3d6582f94425811718783ded07ad",
+      "original_sha256": "aad68d8a3f2b30b7a0644b4196c8cdba97c573c374c18440b672ca3a3ed33a85",
+      "bytes": 2141,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/军队/README.md",
+      "sha256": "41ebc637b0882431dddb320d071677f3029117313246fb05fb9b7bb25fec278f",
+      "original_sha256": "306fed310a48a0665a969a00ece5c29b94921bf117fba29343f06cbad4c55d34",
+      "bytes": 2514,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/分数运算/README.md",
+      "sha256": "a4779ea89bda954851903abc26c66956d6703fdf5db6705f2aa8d7a6799995ad",
+      "original_sha256": "e5a007b76a2d6decc5605d2074d6c863a818d0809e648776ceb8e4ace03a5118",
+      "bytes": 2030,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/动物/README.md",
+      "sha256": "3b4f479a1b5738aecc49d04526c8c578873eca13c8d4a4d024962b6a5cdee3bd",
+      "original_sha256": "864c6d71a51ed7f053540d94b822d35e1429c37bbb74ac40cd275dfca1cc6b85",
+      "bytes": 2136,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/回文/README.md",
+      "sha256": "4ea29b9c6b954b015a86634cc23e6ca5dfd6280d388c40a7ff0b8bbd18a33a6d",
+      "original_sha256": "4c1df034b18f7951391b82d2e421600f588f9181085ce5db6539418978a387ba",
+      "bytes": 2149,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/图书管理系统/README.md",
+      "sha256": "6cdfe74ef2b81ac8f41dd6632804619e18777dd43f2f4df3f82672c6bb65466e",
+      "original_sha256": "8c0eceec934a59dcf5b35682da0182e4bfcc9e9a2fd0dcd70838706505a8cacf",
+      "bytes": 2033,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/基础算术/README.md",
+      "sha256": "c0de1636ae7d0724062622d83100d722fbdc89bb6a97bdee5366dd29d83448e1",
+      "original_sha256": "e2f5b54178b0f164b9eb8874e72ed8772223b796d71d1ddf0097f01a5e12270f",
+      "bytes": 2272,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/多级字典/README.md",
+      "sha256": "4fcfcdf4104dcdfc153c1a372d5f829ecc6d29e1ff7e306288b4b797a2f42ee5",
+      "original_sha256": "98cce48c5b33c67d199948c33dfd2d5e6897eb268e92abf3dbd90f1ce0c36a85",
+      "bytes": 1912,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/多级字典/subtask1/README.md",
+      "sha256": "d008eb42473c6c30f48eae0b22ba4d028079e721a93eb6f6bb28dfa571c359e5",
+      "original_sha256": "4a1c29558f71b5891fa8a3cb2717a65d28fc924e7df5526dc2b91cac486c5dbb",
+      "bytes": 2355,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/多级字典/subtask2/README.md",
+      "sha256": "5e0be8dbeeb0ac4fc3f107dcbf7062841098619e4e4131e5448229a549ab010f",
+      "original_sha256": "c37ef4b85ec51c5f722f2d1ed60aaf7be5316de8dec98c6c8a8ecc555d4275c5",
+      "bytes": 2291,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/多级字典/subtask3/README.md",
+      "sha256": "2b14ddb2dd4ee2eb4131f404698748eb3b55733528f3851a63d4caa68c4bb47f",
+      "original_sha256": "08ef066ddc8fc454bf6a36a4a195b6769424491c478c5c6b23b54197965d13e0",
+      "bytes": 2421,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/多级字典/subtask4/README.md",
+      "sha256": "88a1f288920d291c1276bd480b5121ec96c34965cee65c4224362c45fdad3657",
+      "original_sha256": "290ad77e06932dc51e65078997582c067081194b4aed46064eb7be134eb1feb9",
+      "bytes": 2421,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/小小军/README.md",
+      "sha256": "1f03b56b0ff753d2c2a8e914f9c934ebeed2a4552ae633f1586ccc860275312f",
+      "original_sha256": "9884e00cd96e30b549550dc17e4553243de7ab8fc81c2ae161dcf3a53962d61d",
+      "bytes": 2152,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/小明list/README.md",
+      "sha256": "ee57ccb753ae15db74e9d23571618af93705fdb7f6dcca2eaaac2c551f59a430",
+      "original_sha256": "80cd1eb84d592670eae1d6219031584844c20d786611251e2ba8a2c4555f87de",
+      "bytes": 2087,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/幻影忍者/README.md",
+      "sha256": "ed6c8c000a8ed737d3f958d2e970d88dd076efcc0886cfccdf7f756a5bc093f6",
+      "original_sha256": "8cc0b2c412f5296ab53e0576e2878b5bb2cb4645efb2736560d5cc65609ae4bb",
+      "bytes": 2581,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/徐洛桐/README.md",
+      "sha256": "f27b53bc67fbf32e4233e1cc7f64e5c766c8ee4e1b7f0df0b0841493bd5b4322",
+      "original_sha256": "1ff3d30102287b56cae4ae0d151bbbaa26834a70570ee6478d8548b01a3b6da8",
+      "bytes": 2554,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/数据结构/README.md",
+      "sha256": "67acb4d8f8482b560f71ff6e7480871b9d3d5af53d980548ac46b340456d9023",
+      "original_sha256": "cbd652ed410227b4f9c9c219c0000b6ee4d02441c2d4b240d8a21c772eb77cde",
+      "bytes": 2089,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/数组/README.md",
+      "sha256": "e4b6e1c18d07a0895a3fd33ab488d02581b088c9a1adee0f7beba12320f797e1",
+      "original_sha256": "d0d5d33fc33daeb86b6d4bb5be6e4e73fceb690ad39b3ca81295c48b739a79db",
+      "bytes": 2138,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/文本处理/README.md",
+      "sha256": "e236973b3238c6e3b57e16fc62b48fbc29519cc815c4e339ee316eabd11c2ac6",
+      "original_sha256": "69776a9eaebc0d33ea2d36b2463cbb81e9d43aa2033f3c68ecd2ec2c4f25fb19",
+      "bytes": 2257,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/文本编辑器/README.md",
+      "sha256": "ebbef60f51df7f930e804483956653376ae57395dde026e26bd6de81fe1c605b",
+      "original_sha256": "5e20312b80e5a08db79a01b7a95efbc45a7e255a0131183b313f318838ecd08e",
+      "bytes": 2696,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/机器人/README.md",
+      "sha256": "f7231067a9a6d260309b0f568975770711970fefdf03bba332a854fc6ab1cfcb",
+      "original_sha256": "af453aac136b068c8d39ee4857aa417e4431ce01f768e837336ba1b55aeaf90d",
+      "bytes": 2432,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/移动拷贝/README.md",
+      "sha256": "c00b2e6eac1f47956fb33f93df8a24735eafb4549fe55dff521f01ca76bb77af",
+      "original_sha256": "ddab552ee77419a243b78d8307f3d60e158d57ed1ff2ed0bb96a8851b44fabd6",
+      "bytes": 2024,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/签到/README.md",
+      "sha256": "c825f5c5f464c904d6f3e71dd4fc14209a37b67e45dd7678fc295ae3d4b9a70b",
+      "original_sha256": "2e6183699f32ccd6ebd01ebeb80a6ad87f4da530e42109292b41c3c605e088ea",
+      "bytes": 2087,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/聊天室/README.md",
+      "sha256": "7cd0f7f2f841eb9586ee60aabd15f08e975633e5c007f9554b38aa6e36ada5aa",
+      "original_sha256": "3ad9321549782751a9483a9d4e0c23838c37783b318dbd525e2d63506aa02419",
+      "bytes": 2220,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/草莓巧克力/README.md",
+      "sha256": "dac3b1985e5b3eb162eb19f67e7eca0035c6b10e756ac37e41b803af22ac376a",
+      "original_sha256": "421909db874a07a18e6dcfc58ed4512c570b716c612ff21b12ce3d853d5ab939",
+      "bytes": 2214,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/计算图/README.md",
+      "sha256": "229bb0d0b390717c9da61552d2f2b85d6c1f3f24596308cd93d0d3d42e45ae10",
+      "original_sha256": "32a66eb64406fdcaca3a03423eeaafc3b6ebe952dccfa00d30238dd4d24169e7",
+      "bytes": 2747,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/软件工程/README.md",
+      "sha256": "ba0cb424b65e367d55931b115ed8bff09ff06b37c96335f3d5141333b869ad15",
+      "original_sha256": "8f2b95e9a1643d9aa4dc887558c9f6ef1c950aef0b8b6489fb9be1b7a360be7e",
+      "bytes": 2315,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/释放法术/README.md",
+      "sha256": "c2a72bce999cffa77f66010294ea9a5c8bd66ec110bb5014463c09b964235ede",
+      "original_sha256": "d433ec4a45e054c6244c3186c2f7caebabe669498636fb781eab879b78333678",
+      "bytes": 2346,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/高维数组/README.md",
+      "sha256": "d5b5f1f536fe587b0b3e04390fe2ca5ffcffcded8511a64a764657c0d7be6e2e",
+      "original_sha256": "329c28a69450ae85615cb992596e56013297047f9105362a8ed54a0994166146",
+      "bytes": 2720,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/实验与项目/2025年本地资料/魔法卡牌/README.md",
+      "sha256": "6ec35d206e21676cb83de0265095ac67252e13d9f15829270541133b1f6214b2",
+      "original_sha256": "da59f4c80667c17f3ca8f35c47e0358a637f7c77f358f91ff9f0fc4cf464e67b",
+      "bytes": 2084,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/README.md",
+      "sha256": "0e014affe943a1de780627aa9087b75f98269e549f3a98456a1ddf733a6b6e76",
+      "original_sha256": "5bcaa44195e745723d95175b0780675f8188f06bf2a4a4c1d466f2735bf8172c",
+      "bytes": 1850,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/README.md",
+      "sha256": "8da430efadb17584453d8b93696c38679f1a16eca3f966c9a705942b469aa793",
+      "original_sha256": "83abc95142b35dab6f1ab653aa27e2bf0e2a8edc10c0a9d145c465e2c3624fd1",
+      "bytes": 1855,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第一题：简单的软件工程团队/README.md",
+      "sha256": "824302f1e42ce643b4637010325126ec292b4039c89f463ade47d69de9dfc302",
+      "original_sha256": "066adddc9ec23f249d3b727bf80d94eb6aefcf0b97b44c972bc765a714bd1c26",
+      "bytes": 2113,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第一题：简单的软件工程团队/个人解答/README.md",
+      "sha256": "58d79eda630e1dfa91b31a80a7a66c7122fda79ad62a5a1af80a9e2a20dde28b",
+      "original_sha256": "74b505848fd1ffb156ae5b736d265419eea7e535be49be26152d5f800fbfd92f",
+      "bytes": 2499,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第三题：多维向量/README.md",
+      "sha256": "88eb44ac061a5166db485acf09f46409583e31ba31f78b1bccde294c7267ddfa",
+      "original_sha256": "8a7423cfc03852ae4902c468cbb2bc65e430b9be92c8d5212c567cd0ac990fb4",
+      "bytes": 2099,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第三题：多维向量/个人解答/README.md",
+      "sha256": "04a3ce12ec54344337bab566779bd5165f5ebe122b8f5f636c2a766f87da764f",
+      "original_sha256": "c4a4ae7fc37f56c9b9800de3ec872e53c57566676864f13825e57e66b8adf9a2",
+      "bytes": 2975,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第三题：多维向量/题目框架与样例/README.md",
+      "sha256": "ebdb14b1f04e92e7d67e25497f099aa3ac146504d7b56ab46ae2d35d105fd428",
+      "original_sha256": "d81d10f0ad5eb2741bcebd8fb2553552712daad36a3f17b6a732bb9e1e043176",
+      "bytes": 3060,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第二题：草莓巧克力王国/README.md",
+      "sha256": "b9a52d0480d0a2bf12a88172d0b95a88c55b03189440924befc90b92e7cfbf7e",
+      "original_sha256": "d1a09468ea748e30fea8673772eb27f572a25802e26fab65a0f23032f317d016",
+      "bytes": 2049,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第二题：草莓巧克力王国/个人解答/README.md",
+      "sha256": "1c90b909bf246f844c27eee9026e066703a006ec2ce52860a2aabebd04811900",
+      "original_sha256": "d7bf5c30d3e2cce0342cb4ae70078dff2cc4e73eaf3a375d21d422c1d612807d",
+      "bytes": 2270,
+      "kind": "provenance"
+    },
+    {
+      "path": "计算机类/面向对象程序设计/往年题/25年考试题/第二题：草莓巧克力王国/题目框架与样例/README.md",
+      "sha256": "06c90007721da5d12abc101d22f7751653e6373401ae1b80a9d05a4498f841a0",
+      "original_sha256": "47f251ae59985b737c5befd7dc88d4d1f95bfb0b252e97ef20f82ac7ee1807cf",
+      "bytes": 2279,
+      "kind": "provenance"
+    }
+  ]
+}
