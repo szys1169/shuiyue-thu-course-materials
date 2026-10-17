@@ -134,3 +134,7 @@
 ### 第32批：大学物理B章节题库
 
 同步47份章节题目/答案、热学提要及2009期中原件和5份来源说明。来源年份未核者不冒作正式卷期；受限2008文字回忆只保留来源/云盘位置/SHA256，不发布正文。见 [.sync/organized-20261018-batch32-manifest.json](.sync/organized-20261018-batch32-manifest.json)。
+
+### 第34批：张卫华来源习题、复习与投影题图
+
+同步14份原件和5份说明；16章节讲义留云盘。课堂投影题图保持原字节和来源标签，不认定为完整正式试卷，也不把来源2013.4当卷面年份。见 [.sync/organized-20261018-batch34-manifest.json](.sync/organized-20261018-batch34-manifest.json)。

@@ -1,0 +1,155 @@
+{
+  "summary": {
+    "source_files": 14,
+    "provenance": 5,
+    "selected_files": 19,
+    "excluded_files": 19,
+    "local_links_verified": 18,
+    "cloud_links": 1,
+    "legacy_exact_paths_merged": 10,
+    "only_batch34_mapping_used": true,
+    "projection_question_images_not_certified_exam": 10
+  },
+  "files": [
+    {
+      "path": "物理类/大学物理/README_张卫华资料_第34批.md",
+      "sha256": "ea0d60e561b6ccee4f0a2c80516b9c9dbdba08d96cecc2e77e91d09ba61b8983",
+      "original_sha256": "fbef5fe123072e896bc99fc8206974f62a3d8b15acd65fdfa98bdf0bd6e6b6ba",
+      "bytes": 1837,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/张卫华/README.md",
+      "sha256": "8f1952fed0b5c75b145e921cf94e9dd7f6980a6c986207c8b2d73911d29fce9a",
+      "original_sha256": "8f1952fed0b5c75b145e921cf94e9dd7f6980a6c986207c8b2d73911d29fce9a",
+      "bytes": 735,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/往年题/张卫华来源_原目录标2013-04_年份未核/IMG_2733.JPG",
+      "sha256": "6bd556b9de3b7263459a84ef43ec7e8367503496c9d435acb901538a5784e62e",
+      "original_sha256": "6bd556b9de3b7263459a84ef43ec7e8367503496c9d435acb901538a5784e62e",
+      "bytes": 1295803,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/往年题/张卫华来源_原目录标2013-04_年份未核/IMG_2735.JPG",
+      "sha256": "c4fb0ac7c4584240f3ba9864ff85072fe433492ef8ef6e8d3a3a2f3813c954a5",
+      "original_sha256": "c4fb0ac7c4584240f3ba9864ff85072fe433492ef8ef6e8d3a3a2f3813c954a5",
+      "bytes": 1313825,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/往年题/张卫华来源_原目录标2013-04_年份未核/IMG_2736.JPG",
+      "sha256": "738a5d594ed07240682c7e8d9c9bb086499dda14f031040c8c86efea49b06a7c",
+      "original_sha256": "738a5d594ed07240682c7e8d9c9bb086499dda14f031040c8c86efea49b06a7c",
+      "bytes": 1186238,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/往年题/张卫华来源_原目录标2013-04_年份未核/IMG_2737.JPG",
+      "sha256": "3220f2fecbda9cfa8addf1b3c0a7fc3dc05f76c5f6259f01343bdf89bc5fd97f",
+      "original_sha256": "3220f2fecbda9cfa8addf1b3c0a7fc3dc05f76c5f6259f01343bdf89bc5fd97f",
+      "bytes": 1196437,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/往年题/张卫华来源_原目录标2013-04_年份未核/IMG_2738.JPG",
+      "sha256": "a57983ad1210024f46f62b65b48a81e4da6a0232ae856cdf7cf7a4873f52c256",
+      "original_sha256": "a57983ad1210024f46f62b65b48a81e4da6a0232ae856cdf7cf7a4873f52c256",
+      "bytes": 1253180,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/往年题/张卫华来源_原目录标2013-04_年份未核/IMG_2739.JPG",
+      "sha256": "3ff711142b933113c6897d3633e5309bf0c4b6926b23036b18c657cf62a432b2",
+      "original_sha256": "3ff711142b933113c6897d3633e5309bf0c4b6926b23036b18c657cf62a432b2",
+      "bytes": 1140260,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/往年题/张卫华来源_原目录标2013-04_年份未核/IMG_2740.JPG",
+      "sha256": "615349151573290f62129a4c5a3f31b58aee753ec85d2631fd9d41cc27c2d296",
+      "original_sha256": "615349151573290f62129a4c5a3f31b58aee753ec85d2631fd9d41cc27c2d296",
+      "bytes": 1187810,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/往年题/张卫华来源_原目录标2013-04_年份未核/IMG_2741.JPG",
+      "sha256": "0cbae7969b2de40de864264e988482c6d7e06c723b2fe58f1854e169cda6ee56",
+      "original_sha256": "0cbae7969b2de40de864264e988482c6d7e06c723b2fe58f1854e169cda6ee56",
+      "bytes": 1200170,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/往年题/张卫华来源_原目录标2013-04_年份未核/IMG_2742.JPG",
+      "sha256": "c176782169b4356bec079fab6a841c63b1534f27472f42910731b7a103184155",
+      "original_sha256": "c176782169b4356bec079fab6a841c63b1534f27472f42910731b7a103184155",
+      "bytes": 1251063,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/往年题/张卫华来源_原目录标2013-04_年份未核/IMG_2744.JPG",
+      "sha256": "670e951da1e723995a1672ad8b06ed2d1dd80c0d5a36cfa8b1ec6ccb80e8cc1a",
+      "original_sha256": "670e951da1e723995a1672ad8b06ed2d1dd80c0d5a36cfa8b1ec6ccb80e8cc1a",
+      "bytes": 1359940,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/往年题/张卫华来源_原目录标2013-04_年份未核/README.md",
+      "sha256": "eccbc5a4e0613e9f81a95e634dae8649d39a7a8388c831d94ec1d138cea20e8f",
+      "original_sha256": "eccbc5a4e0613e9f81a95e634dae8649d39a7a8388c831d94ec1d138cea20e8f",
+      "bytes": 1258,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/复习/张卫华来源_年份未核/README.md",
+      "sha256": "5517a4ef22539e419a403e38392b1a1a09ebaa9867822e11a1352e7d8d09b334",
+      "original_sha256": "5517a4ef22539e419a403e38392b1a1a09ebaa9867822e11a1352e7d8d09b334",
+      "bytes": 919,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/复习/张卫华来源_年份未核/力学复习课.pdf",
+      "sha256": "a9d05f63b2f886c7fa41c558c7f39d27257c337578e4dfe145e66e49bc323e59",
+      "original_sha256": "a9d05f63b2f886c7fa41c558c7f39d27257c337578e4dfe145e66e49bc323e59",
+      "bytes": 330630,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/复习/张卫华来源_年份未核/复习课_振动和波.pdf",
+      "sha256": "51426c9f22dbe7535ee26ad6472729cdb2e9c72245c0fd5b9c6925e2c6a56aa5",
+      "original_sha256": "51426c9f22dbe7535ee26ad6472729cdb2e9c72245c0fd5b9c6925e2c6a56aa5",
+      "bytes": 1031149,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/复习/张卫华来源_年份未核/复习课_热学.pdf",
+      "sha256": "d9c5403f55141a3b8cd256d3976b95535c08d4daa54c1cfe0264efad0ca15ff2",
+      "original_sha256": "d9c5403f55141a3b8cd256d3976b95535c08d4daa54c1cfe0264efad0ca15ff2",
+      "bytes": 1080020,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/张卫华来源_相对论习题课_年份未核/README.md",
+      "sha256": "898db857f3d8ffdb63b6751cfe200dc3e3598d4d2d113430e850155ceaf0bdb8",
+      "original_sha256": "898db857f3d8ffdb63b6751cfe200dc3e3598d4d2d113430e850155ceaf0bdb8",
+      "bytes": 743,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/张卫华来源_相对论习题课_年份未核/力学习题课_相对论.pdf",
+      "sha256": "094a5acff0b0eb83be11497b3aaa55eeccc83e6150eb809bacbb0edc05d3af5e",
+      "original_sha256": "094a5acff0b0eb83be11497b3aaa55eeccc83e6150eb809bacbb0edc05d3af5e",
+      "bytes": 371013,
+      "kind": "source"
+    }
+  ],
+  "link_adaptations": [
+    {
+      "from": "README_张卫华资料_第34批.md",
+      "target": "讲义/张卫华来源_年份未核/README.md",
+      "cloud": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E8%AE%B2%E4%B9%89/%E5%BC%A0%E5%8D%AB%E5%8D%8E%E6%9D%A5%E6%BA%90_%E5%B9%B4%E4%BB%BD%E6%9C%AA%E6%A0%B8/"
+    }
+  ]
+}
