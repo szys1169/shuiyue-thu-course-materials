@@ -1,0 +1,14 @@
+a = [b"0xBCD7".decode("gbk"), b"0xD2D2".decode("gbk"), b"0xB1FB".decode("gbk"), b"0xB6A1".decode("gbk")]
+for b in a:
+    j = (b != b"0xD2D2".decode("gbk")) and (b == b"0xB6A1".decode("gbk"))
+    jp = (b == b"0xD2D2".decode("gbk")) and (b != b"0xB6A1".decode("gbk"))
+    y = (b != b"0xD2D2".decode("gbk")) and (b == b"0xB1FB".decode("gbk"))
+    yp = (b == b"0xD2D2".decode("gbk")) and (b != b"0xB1FB".decode("gbk"))
+    bi = (b != b"0xBCD7".decode("gbk")) and (b == b"0xD2D2".decode("gbk"))
+    bip = (b == b"0xBCD7".decode("gbk")) and (b != b"0xD2D2".decode("gbk"))
+    d = (b != b"0xB6A1".decode("gbk"))
+    dp = not d
+    if (j + jp) == 1 and (y + yp == 1) and (bi + bip == 1) and (d + dp) == 1:
+        print(b)
+
+        break
