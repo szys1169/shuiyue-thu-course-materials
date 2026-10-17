@@ -1,0 +1,94 @@
+{
+  "summary": {
+    "source_files": 0,
+    "provenance": 7,
+    "omitted_textbooks": 2,
+    "local_links_verified": 9,
+    "cloud_links_adapted": 2,
+    "exact_old_paths_recorded": 2,
+    "old_tracked_books_removed": 0,
+    "quantum_root_unchanged": true,
+    "only_whitelist_used": true
+  },
+  "files": [
+    {
+      "path": "物理类/固体物理/README.md",
+      "sha256": "aa03481e700a0d36bc498dbfa76ec9e3a8b2bfbb31d23e1309a5cd7b7f82337b",
+      "original_sha256": "55e63483ea389e90bca1daec03304d293703faa8aa811e257071cfcf75b27727",
+      "bytes": 1395,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/固体物理/教材/Charles_Kittel_第8版_2005/README.md",
+      "sha256": "3a2d48f5f875095a8715223887a9015b4a1c9ecb723ecb2fe039fe8f34942582",
+      "original_sha256": "b0e630fdd2d201a9b87af6246fbc42eb4ad18f39368fa590416575c048fd611b",
+      "bytes": 1369,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/固体物理/教材/README.md",
+      "sha256": "28b865f97373cb269fcba48e648e6df93daf24df1c868838d1616b2e16e587b9",
+      "original_sha256": "d0824cb9699d2fb29a01c749d250bdd8c7384b4a119327c5a3fe05a3be96c8ff",
+      "bytes": 923,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/量子力学/README_原固体物理目录_第43批.md",
+      "sha256": "a88d2ee6241e807485518180fd5f7f9573eb1352f2a0a68d1471ebebecb985b7",
+      "original_sha256": "c843a48da7855e3dcc1714372e784e563076666f3434b1669d8e69c66c388356",
+      "bytes": 1345,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/量子力学/固体物理（1）/README.md",
+      "sha256": "14aeacd88009567cafeb0e936ca1e07bb7cd4a76802f5b52a9fc8ff9bc2ec2aa",
+      "original_sha256": "62b6c79f6732b76342cf548eb6344993fee0ebecce27f1af7528842838773696",
+      "bytes": 1347,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/量子力学/教材/README.md",
+      "sha256": "8b33d32165a52f27a6b9b0ffb597bca7a5aacb4b6b4ea093cc1549fffcd1a45c",
+      "original_sha256": "5908a69f2c47363b5c27aa1e8d5fc358e18e7f0770df8c646314a84a3b591a59",
+      "bytes": 1000,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/量子力学/教材/英文量子力学扫描本_原固体物理目录/README.md",
+      "sha256": "338bbef6f9160b858bf44267399929375b07bb9bb50198b49c8fefc11e555d74",
+      "original_sha256": "f4a26d054236301e9f5f578a8a01a67d847106f7c2f48fd69e36f588a1ceb23e",
+      "bytes": 1823,
+      "kind": "provenance"
+    }
+  ],
+  "link_adaptations": [
+    {
+      "from": "物理类/固体物理/教材/Charles_Kittel_第8版_2005/README.md",
+      "target": "物理类/固体物理/教材/Charles_Kittel_第8版_2005/Introduction to SSD Charles.pdf",
+      "cloud_folder": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86/%E6%95%99%E6%9D%90/Charles_Kittel_%E7%AC%AC8%E7%89%88_2005/"
+    },
+    {
+      "from": "物理类/量子力学/教材/英文量子力学扫描本_原固体物理目录/README.md",
+      "target": "物理类/量子力学/教材/英文量子力学扫描本_原固体物理目录/QM Cohen Tannoudji.pdf",
+      "cloud_folder": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/%E6%95%99%E6%9D%90/%E8%8B%B1%E6%96%87%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6%E6%89%AB%E6%8F%8F%E6%9C%AC_%E5%8E%9F%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86%E7%9B%AE%E5%BD%95/"
+    }
+  ],
+  "original_book_metadata": [
+    {
+      "old": "物理类/量子力学/固体物理（1）/Introduction to SSD Charles.pdf",
+      "current_cloud": "物理类/固体物理/教材/Charles_Kittel_第8版_2005/Introduction to SSD Charles.pdf",
+      "sha256": "eb3b4edb97f165a1a984b22adbaa887e25d3d81357359594852536eb8887705a",
+      "old_git_tracked": false,
+      "git_policy": "整本教材仅保留来源、云盘位置及SHA，不新增规范路径原书",
+      "local_original_preserved": true
+    },
+    {
+      "old": "物理类/量子力学/固体物理（1）/QM Cohen Tannoudji.pdf",
+      "current_cloud": "物理类/量子力学/教材/英文量子力学扫描本_原固体物理目录/QM Cohen Tannoudji.pdf",
+      "sha256": "25b4cc822cb24b9a6c95675a38899318e08b7de786f2c01537c990eb4483ec50",
+      "old_git_tracked": false,
+      "git_policy": "整本教材仅保留来源、云盘位置及SHA，不新增规范路径原书",
+      "local_original_preserved": true
+    }
+  ]
+}
