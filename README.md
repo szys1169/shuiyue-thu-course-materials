@@ -126,3 +126,7 @@
 ### 第33批：大学物理专题题库
 
 同步47份光学量子与十专题题目/答案原件、4份来源说明。量子3异版与各自原名均保留；653页Argo合订PDF超过10MiB，仅保留云盘入口与哈希，不将题库汇编称某学期正式试卷。与第32批的关联暂指已核云盘索引，没有读取或发布其原文。见 [.sync/organized-20261018-batch33-manifest.json](.sync/organized-20261018-batch33-manifest.json)。
+
+### 第31批：大学物理李桂琴来源题目
+
+同步19份题目汇编、参考解答、匿名复习及2008—2009第二学期期中DOC，10份来源说明。课件与习题课PPT/PPTX依现有规则留云盘；年份/教师/官方答案身份未核者继续明确标识。见 [.sync/organized-20261018-batch31-manifest.json](.sync/organized-20261018-batch31-manifest.json)。

@@ -1,0 +1,229 @@
+{
+  "summary": {
+    "source_files": 19,
+    "provenance": 10,
+    "selected_files": 29,
+    "excluded_files": 26,
+    "local_links_verified": 7,
+    "cloud_links": 2,
+    "legacy_exact_paths_merged": 19,
+    "only_batch31_whitelist_used": true
+  },
+  "files": [
+    {
+      "path": "物理类/大学物理/习题与解答/李桂琴来源_年份未核/题库/期末/清华大学《大学物理》习题库试题及答案___05_机械波习题.docx",
+      "sha256": "7c599eb6430d38ddfb1db34c0423a6e8c0d9359b4ece69f7d6a2903b3530d3fc",
+      "original_sha256": "7c599eb6430d38ddfb1db34c0423a6e8c0d9359b4ece69f7d6a2903b3530d3fc",
+      "bytes": 271140,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/李桂琴来源_年份未核/题库/期末/清华大学《大学物理》习题库试题及答案__07_热学习题.docx",
+      "sha256": "5251f0ffc31888ba10b1dd42be1c04f6efe8a4d67868263a272ef1694f296805",
+      "original_sha256": "5251f0ffc31888ba10b1dd42be1c04f6efe8a4d67868263a272ef1694f296805",
+      "bytes": 180041,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/李桂琴来源_年份未核/题库/期末/清华大学《大学物理》习题库试题及答案__04_机械振动习题.docx",
+      "sha256": "ce079630b6c3105e15dbf9ab48e8afc31102a8c571b652ea926037f52f2e542d",
+      "original_sha256": "ce079630b6c3105e15dbf9ab48e8afc31102a8c571b652ea926037f52f2e542d",
+      "bytes": 152670,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/复习/李桂琴来源_匿名例题整理_年份未核/大学物理（B）1期末考试例题整理.pdf",
+      "sha256": "76c4f3504437f797176b62a961fb1ce236f76035d01c67a070be21f9e4a17443",
+      "original_sha256": "76c4f3504437f797176b62a961fb1ce236f76035d01c67a070be21f9e4a17443",
+      "bytes": 2376650,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/李桂琴来源_年份未核/题库/期末/wltk2-07.pdf",
+      "sha256": "5e6cd9771a5d8a1a752d4beb30bb57fecf24e946b24e229e5d0886debbf695b8",
+      "original_sha256": "5e6cd9771a5d8a1a752d4beb30bb57fecf24e946b24e229e5d0886debbf695b8",
+      "bytes": 1344124,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/李桂琴来源_年份未核/题库/期末/WLTK2-08-1.pdf",
+      "sha256": "13f5f113a61abe2387bd1942721763ea2d6e594f6d8118723729da44c207a3fc",
+      "original_sha256": "13f5f113a61abe2387bd1942721763ea2d6e594f6d8118723729da44c207a3fc",
+      "bytes": 1965624,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/李桂琴来源_年份未核/题库/期末/5.doc",
+      "sha256": "7e7295fddb7c52496cf2d0aab846bc6cca4b4acb23fc752984e950a3897606ba",
+      "original_sha256": "7e7295fddb7c52496cf2d0aab846bc6cca4b4acb23fc752984e950a3897606ba",
+      "bytes": 316928,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/李桂琴来源_年份未核/题库/期末/4.doc",
+      "sha256": "3cdffac581cffb0b486ba7a7df86e05d4dae73d0dcb6e775af88d522c4786383",
+      "original_sha256": "3cdffac581cffb0b486ba7a7df86e05d4dae73d0dcb6e775af88d522c4786383",
+      "bytes": 294400,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/李桂琴来源_年份未核/题库/期末/3.doc",
+      "sha256": "997b521d9477f7e53721d1c0456e2df47bf9e273cd26d06691ffd3d32111afd8",
+      "original_sha256": "997b521d9477f7e53721d1c0456e2df47bf9e273cd26d06691ffd3d32111afd8",
+      "bytes": 294400,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/李桂琴来源_年份未核/题库/期末/2.doc",
+      "sha256": "676590eda27ddae335f2294a8e09c0862dc10fba9be2cf06938cd99eb785a609",
+      "original_sha256": "676590eda27ddae335f2294a8e09c0862dc10fba9be2cf06938cd99eb785a609",
+      "bytes": 270848,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/李桂琴来源_年份未核/题库/期末/1.doc",
+      "sha256": "95fbb2335dfb3fa8899509df772e4e3968763a8ad36c9530a2d2fc660e725fe7",
+      "original_sha256": "95fbb2335dfb3fa8899509df772e4e3968763a8ad36c9530a2d2fc660e725fe7",
+      "bytes": 840192,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/李桂琴来源_年份未核/题库/期中/大雾期中题库/相对论习题.pdf",
+      "sha256": "12b5e9e89bf18ae16f97c8c5b827ce77cb24bcb2869645852568994e7a2d9514",
+      "original_sha256": "12b5e9e89bf18ae16f97c8c5b827ce77cb24bcb2869645852568994e7a2d9514",
+      "bytes": 811934,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/李桂琴来源_年份未核/题库/期中/大雾期中题库/清华大学《大学物理》习题库试题及答案____02_刚体习题.docx",
+      "sha256": "688d5927db6f19069310a701f05dd720976a97d2e25bce08fe1acb150485a7df",
+      "original_sha256": "688d5927db6f19069310a701f05dd720976a97d2e25bce08fe1acb150485a7df",
+      "bytes": 72632,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/李桂琴来源_年份未核/题库/期中/大雾期中题库/清华大学《大学物理》习题库试题及答案___03_相对论习题.docx",
+      "sha256": "7b45a113753955a6ebf26ad3bf1bf7279ca287e07fd138c463b89164a2c0fa05",
+      "original_sha256": "7b45a113753955a6ebf26ad3bf1bf7279ca287e07fd138c463b89164a2c0fa05",
+      "bytes": 48279,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/李桂琴来源_年份未核/题库/期中/大雾期中题库/清华大学《大学物理》习题库试题及答案__01_力学习题.docx",
+      "sha256": "9d55ad8fac169c86a411616e8cf3f86f80ed91ef281deaac3947c54d6ad0a765",
+      "original_sha256": "9d55ad8fac169c86a411616e8cf3f86f80ed91ef281deaac3947c54d6ad0a765",
+      "bytes": 288343,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/李桂琴来源_年份未核/题库/期中/大雾期中题库/力学答案.pdf",
+      "sha256": "40537582db4ba56d8928efffc87883de970ac432605af862c9caee0a6b63ee64",
+      "original_sha256": "40537582db4ba56d8928efffc87883de970ac432605af862c9caee0a6b63ee64",
+      "bytes": 3350831,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/李桂琴来源_年份未核/题库/期中/大雾期中题库/力学习题.pdf",
+      "sha256": "1e13dadd877a72ea30a87ed630c2f019d4ce19cc9d04b585544b8ba4ac4a0138",
+      "original_sha256": "1e13dadd877a72ea30a87ed630c2f019d4ce19cc9d04b585544b8ba4ac4a0138",
+      "bytes": 6202015,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/李桂琴来源_年份未核/题库/期中/大雾期中题库/刚体习题.pdf",
+      "sha256": "66d225f3effb187013d43633c39519c0e4dbdc7e7d69c1e007971f8e9a0174a4",
+      "original_sha256": "66d225f3effb187013d43633c39519c0e4dbdc7e7d69c1e007971f8e9a0174a4",
+      "bytes": 1013369,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/往年题/李桂琴来源/2008-2009第二学期_期中_教师未核/2008-2009大物1期中.doc",
+      "sha256": "b73565ab5a494ff8859d6384a846f889569037d0fc6f84de1c0957abf146ec74",
+      "original_sha256": "b73565ab5a494ff8859d6384a846f889569037d0fc6f84de1c0957abf146ec74",
+      "bytes": 283136,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/李桂琴来源_年份未核/README.md",
+      "sha256": "8227ffb63cae0fab447dd490420b2b776a3cbf292d9c8cb4820d0b285a986e94",
+      "original_sha256": "8227ffb63cae0fab447dd490420b2b776a3cbf292d9c8cb4820d0b285a986e94",
+      "bytes": 768,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/李桂琴来源_年份未核/题库/README.md",
+      "sha256": "b5d05b2b688b15e176a9b45464c66e4e7f3ac35bdd01b96edfaa59ac94417100",
+      "original_sha256": "b5d05b2b688b15e176a9b45464c66e4e7f3ac35bdd01b96edfaa59ac94417100",
+      "bytes": 990,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/李桂琴来源_年份未核/题库/期中/README.md",
+      "sha256": "a6c9f91e77b776654e66cc09b7107c9c0863ddd4afc7093412781f2c05c3dc66",
+      "original_sha256": "a6c9f91e77b776654e66cc09b7107c9c0863ddd4afc7093412781f2c05c3dc66",
+      "bytes": 715,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/李桂琴来源_年份未核/题库/期中/大雾期中题库/README.md",
+      "sha256": "a6c9f91e77b776654e66cc09b7107c9c0863ddd4afc7093412781f2c05c3dc66",
+      "original_sha256": "a6c9f91e77b776654e66cc09b7107c9c0863ddd4afc7093412781f2c05c3dc66",
+      "bytes": 715,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/李桂琴来源_年份未核/题库/期末/README.md",
+      "sha256": "a6c9f91e77b776654e66cc09b7107c9c0863ddd4afc7093412781f2c05c3dc66",
+      "original_sha256": "a6c9f91e77b776654e66cc09b7107c9c0863ddd4afc7093412781f2c05c3dc66",
+      "bytes": 715,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/复习/李桂琴来源_匿名例题整理_年份未核/README.md",
+      "sha256": "6f41da755dbf8ef314745b88b6c7d9f67b9770a2a0182a4eabeeb9b21e7a6a4c",
+      "original_sha256": "6f41da755dbf8ef314745b88b6c7d9f67b9770a2a0182a4eabeeb9b21e7a6a4c",
+      "bytes": 791,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/往年题/李桂琴来源/README.md",
+      "sha256": "baea2ca1f71e5646aa3f2ceb1603003948c23a14f1acf0b5dd1723c6d1358541",
+      "original_sha256": "baea2ca1f71e5646aa3f2ceb1603003948c23a14f1acf0b5dd1723c6d1358541",
+      "bytes": 724,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/往年题/李桂琴来源/2008-2009第二学期_期中_教师未核/README.md",
+      "sha256": "f3bff021534806bab8f61e9c2129d7ddbfeeccf8686e20912d02e2599737dbb1",
+      "original_sha256": "f3bff021534806bab8f61e9c2129d7ddbfeeccf8686e20912d02e2599737dbb1",
+      "bytes": 774,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/README_李桂琴资料_第31批.md",
+      "sha256": "bc1006f316d1d7e6e1dbd516a6c7c7fbc83a0c30bda56dd2f715912f505bd7a9",
+      "original_sha256": "77969ef5fb6cc6b873276dedf527c4a9a313784b41e0dd1cfccd8004267f3ec0",
+      "bytes": 1448,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/李桂琴/README_迁移说明.md",
+      "sha256": "b16eade2dec413df8ed89014cb6a50a4b0ef137dcce9b2020033a342187b61e2",
+      "original_sha256": "0626588f1903cd045ed2329d5b8e092dcb1ffa6b5f722c301478180051b8cfe1",
+      "bytes": 778,
+      "kind": "provenance"
+    }
+  ],
+  "link_adaptations": [
+    {
+      "from": "README_李桂琴资料_第31批.md",
+      "target": "讲义/李桂琴来源_年份未核",
+      "cloud": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E8%AE%B2%E4%B9%89/%E6%9D%8E%E6%A1%82%E7%90%B4%E6%9D%A5%E6%BA%90_%E5%B9%B4%E4%BB%BD%E6%9C%AA%E6%A0%B8/"
+    },
+    {
+      "from": "李桂琴/README_迁移说明.md",
+      "target": "讲义/李桂琴来源_年份未核",
+      "cloud": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E8%AE%B2%E4%B9%89/%E6%9D%8E%E6%A1%82%E7%90%B4%E6%9D%A5%E6%BA%90_%E5%B9%B4%E4%BB%BD%E6%9C%AA%E6%A0%B8/"
+    }
+  ]
+}
