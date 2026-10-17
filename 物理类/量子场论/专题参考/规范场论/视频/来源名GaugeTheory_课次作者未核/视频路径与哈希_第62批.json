@@ -1,0 +1,19 @@
+{
+  "batch": 62,
+  "sourceLibrary": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/%E4%B9%A6%E7%B1%8D",
+  "oldPath": "量子力学/书籍/GaugeTheory-2.mp4",
+  "path": "量子场论/专题参考/规范场论/视频/来源名GaugeTheory_课次作者未核/GaugeTheory-2.mp4",
+  "size": 342934422,
+  "sha256": "6ac97acfc1dba2dac042bb4052022f80d60db2e2251170229385e1a3ed12629e",
+  "width": 2160,
+  "height": 1080,
+  "durationSecondsFromFrameProperties": 6317.369,
+  "decodeCheck": "6 sampled frames only; not a per-second review",
+  "recordingDateShown": "2022-02-25",
+  "teacher": "未核",
+  "author": "未核",
+  "lessonNumber": "未核",
+  "academicTerm": "未核",
+  "publicPolicy": "metadata only; no video or frame payloads",
+  "operation": "serverMoveOnly"
+}
