@@ -1,0 +1,269 @@
+{
+  "summary": {
+    "source_files": 16,
+    "provenance": 20,
+    "selected_files": 36,
+    "excluded_files": 0,
+    "local_links_verified": 85,
+    "cloud_links_adapted": 0,
+    "legacy_exact_paths_merged": 0,
+    "only_accepted_mapping_used": true,
+    "existing_same_sha_references": 49,
+    "private_current_paths_removed": 0
+  },
+  "files": [
+    {
+      "path": "物理类/大学物理/习题与解答/原目录1和2来源_第36批/电磁学习题集_原RAR展开/part2/第十章_麦克斯韦电磁理论/第十章 麦克斯韦电磁理论.pdf",
+      "sha256": "9cefa222a3b5212bb9a3ad6b5873a4e8be5277f86601b6ac4b2ba1b8df53e1a2",
+      "original_sha256": "9cefa222a3b5212bb9a3ad6b5873a4e8be5277f86601b6ac4b2ba1b8df53e1a2",
+      "bytes": 419993,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原目录1和2来源_第36批/电磁学习题集_原RAR展开/part2/第十章_麦克斯韦电磁理论/README.md",
+      "sha256": "aa43e4185f73385015c768ce45e25c2c2eb9084ff1888330d56167ba958ede6c",
+      "original_sha256": "aa43e4185f73385015c768ce45e25c2c2eb9084ff1888330d56167ba958ede6c",
+      "bytes": 1216,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原目录1和2来源_第36批/电磁学习题集_原RAR展开/part2/第十一章_单位制和量纲/第十一章 单位制和量纲.pdf",
+      "sha256": "dfafcc265b012913b39d761cb07f23f1ce0d62311ec3424cced149330e7ae9f4",
+      "original_sha256": "dfafcc265b012913b39d761cb07f23f1ce0d62311ec3424cced149330e7ae9f4",
+      "bytes": 213490,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原目录1和2来源_第36批/电磁学习题集_原RAR展开/part2/第十一章_单位制和量纲/README.md",
+      "sha256": "d4ab34d96aefb2cee11c813bfb4bc5ee257a4c336af38d6fd88d70c7c27184ca",
+      "original_sha256": "d4ab34d96aefb2cee11c813bfb4bc5ee257a4c336af38d6fd88d70c7c27184ca",
+      "bytes": 1204,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原目录1和2来源_第36批/电磁学习题集_原RAR展开/part2/第八章_磁能/第八章 磁能.pdf",
+      "sha256": "c4ac094257bd177324aa5170ec992b1e48669e84bc39cacf292450a6da437b67",
+      "original_sha256": "c4ac094257bd177324aa5170ec992b1e48669e84bc39cacf292450a6da437b67",
+      "bytes": 422166,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原目录1和2来源_第36批/电磁学习题集_原RAR展开/part2/第八章_磁能/README.md",
+      "sha256": "c1e8eba9be6743c89bd4b8470923e67740f73c34cca9baf1e823978bed50cbcf",
+      "original_sha256": "c1e8eba9be6743c89bd4b8470923e67740f73c34cca9baf1e823978bed50cbcf",
+      "bytes": 1144,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原目录1和2来源_第36批/电磁学习题集_原RAR展开/part2/第九章_交流电路/第九章 交流电路.pdf",
+      "sha256": "ff46385644ad5b3f30df04da2a457c6cf19b3e6ec77aea05f4f3817ee3b126d5",
+      "original_sha256": "ff46385644ad5b3f30df04da2a457c6cf19b3e6ec77aea05f4f3817ee3b126d5",
+      "bytes": 358758,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原目录1和2来源_第36批/电磁学习题集_原RAR展开/part2/第九章_交流电路/README.md",
+      "sha256": "92ef9809c67729221d2db27e0890338138a912595bf64b34ee593354b6cc3a58",
+      "original_sha256": "92ef9809c67729221d2db27e0890338138a912595bf64b34ee593354b6cc3a58",
+      "bytes": 1168,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原目录1和2来源_第36批/电磁学习题集_原RAR展开/part2/README.md",
+      "sha256": "70f6c3acdebd628ce33847899af29684dc1a80fee709adc35a51b93c96575e44",
+      "original_sha256": "70f6c3acdebd628ce33847899af29684dc1a80fee709adc35a51b93c96575e44",
+      "bytes": 1537,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原目录1和2来源_第36批/电磁学习题集_原RAR展开/part1/第四章_稳恒电源/第四章 稳恒电源.pdf",
+      "sha256": "d2a5b07ec9dbbe059a6840bc914ee840882c018b7f3477ed9536042cc6a75cfe",
+      "original_sha256": "d2a5b07ec9dbbe059a6840bc914ee840882c018b7f3477ed9536042cc6a75cfe",
+      "bytes": 780080,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原目录1和2来源_第36批/电磁学习题集_原RAR展开/part1/第四章_稳恒电源/README.md",
+      "sha256": "06bb50e2727a1b6e28d43a8fd01d93ba72cf8c163886afbf0d18f99b1c5b34ee",
+      "original_sha256": "06bb50e2727a1b6e28d43a8fd01d93ba72cf8c163886afbf0d18f99b1c5b34ee",
+      "bytes": 1168,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原目录1和2来源_第36批/电磁学习题集_原RAR展开/part1/第六章_磁场和物质的相互作用/第六章 磁场和物质的相互作用.pdf",
+      "sha256": "bb4a478637e8b066c49e35d33f044f92877b0258cb4cddfca6ec010ec06edffc",
+      "original_sha256": "bb4a478637e8b066c49e35d33f044f92877b0258cb4cddfca6ec010ec06edffc",
+      "bytes": 997951,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原目录1和2来源_第36批/电磁学习题集_原RAR展开/part1/第六章_磁场和物质的相互作用/README.md",
+      "sha256": "f694850aa548f5bc93385d3da99be65588b8e3a26003127f6104c5b3b5953804",
+      "original_sha256": "f694850aa548f5bc93385d3da99be65588b8e3a26003127f6104c5b3b5953804",
+      "bytes": 1240,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原目录1和2来源_第36批/电磁学习题集_原RAR展开/part1/第五章_真空中的静磁场/第五章 真空中的静磁场.pdf",
+      "sha256": "aad0b49c4e0e645de5a12113455ab512618cda67ab1a170dcca4d93830295f1d",
+      "original_sha256": "aad0b49c4e0e645de5a12113455ab512618cda67ab1a170dcca4d93830295f1d",
+      "bytes": 688981,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原目录1和2来源_第36批/电磁学习题集_原RAR展开/part1/第五章_真空中的静磁场/README.md",
+      "sha256": "0e8f3bd136b53fe52137ce111968cb53e8cdf4262af95c4b18c1a7c3671ad8f5",
+      "original_sha256": "0e8f3bd136b53fe52137ce111968cb53e8cdf4262af95c4b18c1a7c3671ad8f5",
+      "bytes": 1204,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原目录1和2来源_第36批/电磁学习题集_原RAR展开/part1/第二章_静电场和物质的相互作用/第二章 静电场和物质的相互作用.pdf",
+      "sha256": "377ab6c9011a25a510c87fb244d801312c8e13a049cf40e963edccd613d8b690",
+      "original_sha256": "377ab6c9011a25a510c87fb244d801312c8e13a049cf40e963edccd613d8b690",
+      "bytes": 969796,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原目录1和2来源_第36批/电磁学习题集_原RAR展开/part1/第二章_静电场和物质的相互作用/README.md",
+      "sha256": "587d33640c16acbd619231d7cda4b0589105ca5c06c250b7bec869aa3b3a1a13",
+      "original_sha256": "587d33640c16acbd619231d7cda4b0589105ca5c06c250b7bec869aa3b3a1a13",
+      "bytes": 1252,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原目录1和2来源_第36批/电磁学习题集_原RAR展开/part1/第三章_静电能/第三章 静电能.pdf",
+      "sha256": "762db9c05dc5024be0d4dc26d169c9d8809718666907a4f008fbfef502c18dce",
+      "original_sha256": "762db9c05dc5024be0d4dc26d169c9d8809718666907a4f008fbfef502c18dce",
+      "bytes": 706916,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原目录1和2来源_第36批/电磁学习题集_原RAR展开/part1/第三章_静电能/README.md",
+      "sha256": "6dbcb2f6fb7485088eea581c8a3e1c528a62d3faaf6e409acc4f67a8e2c90676",
+      "original_sha256": "6dbcb2f6fb7485088eea581c8a3e1c528a62d3faaf6e409acc4f67a8e2c90676",
+      "bytes": 1156,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原目录1和2来源_第36批/电磁学习题集_原RAR展开/part1/第一章_真空中的静电场/第一章 真空中的静电场.pdf",
+      "sha256": "94ba89212983d35e936b8fc6f4e63128d57c45b5bdd819b424a5f26d453cd42d",
+      "original_sha256": "94ba89212983d35e936b8fc6f4e63128d57c45b5bdd819b424a5f26d453cd42d",
+      "bytes": 758864,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原目录1和2来源_第36批/电磁学习题集_原RAR展开/part1/第一章_真空中的静电场/README.md",
+      "sha256": "6acb4e844e4f586bb05215a81fc7eb8147f0ced8adf186806295104f384127eb",
+      "original_sha256": "6acb4e844e4f586bb05215a81fc7eb8147f0ced8adf186806295104f384127eb",
+      "bytes": 1204,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原目录1和2来源_第36批/电磁学习题集_原RAR展开/part1/README.md",
+      "sha256": "1980a9140615bd968dbc72f21a270a15a093c27e912e751ab5ab5e6d5f398485",
+      "original_sha256": "1980a9140615bd968dbc72f21a270a15a093c27e912e751ab5ab5e6d5f398485",
+      "bytes": 1899,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原目录1和2来源_第36批/电磁学习题集_原RAR展开/README.md",
+      "sha256": "28dab260bc30109ad5df30418a60dc991f5d61052aea660217a937e827045827",
+      "original_sha256": "28dab260bc30109ad5df30418a60dc991f5d61052aea660217a937e827045827",
+      "bytes": 1119,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原目录1和2来源_第36批/电磁与近代物理/大学物理习题集.doc",
+      "sha256": "c7183045462579fb6616c12cfd2a63a7fc391f95cc59bcdbfe101d70269ef968",
+      "original_sha256": "c7183045462579fb6616c12cfd2a63a7fc391f95cc59bcdbfe101d70269ef968",
+      "bytes": 842240,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原目录1和2来源_第36批/电磁与近代物理/README.md",
+      "sha256": "d4bf4a00057dfb7f2367ea8d8d05f6eb34fd0829be92b42ee1acbd3e4505cf04",
+      "original_sha256": "d4bf4a00057dfb7f2367ea8d8d05f6eb34fd0829be92b42ee1acbd3e4505cf04",
+      "bytes": 1285,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原目录1和2来源_第36批/电磁与近代物理/%A9理》习题库试题及答案____09_磁学习题.docx",
+      "sha256": "b4c23d373c6f8df490dfd6a8a7443b721afad20628cece92fa43dabdcf9eb6c5",
+      "original_sha256": "b4c23d373c6f8df490dfd6a8a7443b721afad20628cece92fa43dabdcf9eb6c5",
+      "bytes": 378046,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原目录1和2来源_第36批/电磁与近代物理/%80%8B习题库试题及答案__08_电学习题答案.docx",
+      "sha256": "02cd4512b43b7aa4ac14fe0dc1e90468ea23be6802f26447afd320834a052f25",
+      "original_sha256": "02cd4512b43b7aa4ac14fe0dc1e90468ea23be6802f26447afd320834a052f25",
+      "bytes": 391514,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原目录1和2来源_第36批/同内容资料互引.md",
+      "sha256": "182a22ec293bf245a2449ec504df2adb649ad297b58214ed7271e7a435cab38a",
+      "original_sha256": "182a22ec293bf245a2449ec504df2adb649ad297b58214ed7271e7a435cab38a",
+      "bytes": 23562,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原目录1和2来源_第36批/力学与刚体/清华大学《大学物理》习题库试题及答案____02_刚体习题.docx",
+      "sha256": "083ad854e9d17f5f73e019e181dec97c83b5b30a760866680513640083076cb0",
+      "original_sha256": "083ad854e9d17f5f73e019e181dec97c83b5b30a760866680513640083076cb0",
+      "bytes": 75139,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原目录1和2来源_第36批/力学与刚体/清华大学《大学物理》习题库试题及答案__01_力学习题.docx",
+      "sha256": "2f320a5bb40f986044b334811a598abb2ba09e294da32c47ca0d3670821c2207",
+      "original_sha256": "2f320a5bb40f986044b334811a598abb2ba09e294da32c47ca0d3670821c2207",
+      "bytes": 352046,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原目录1和2来源_第36批/力学与刚体/README.md",
+      "sha256": "bc03059d8a8732f0992ef7f1efcd25c7f155abed56a001918cd6b6fac4fab2ad",
+      "original_sha256": "bc03059d8a8732f0992ef7f1efcd25c7f155abed56a001918cd6b6fac4fab2ad",
+      "bytes": 1354,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/习题与解答/原目录1和2来源_第36批/README.md",
+      "sha256": "d2475b4ffaf5d67447cccc580932ba72d4682099ab7bd5e8c20451eecf72e09e",
+      "original_sha256": "d2475b4ffaf5d67447cccc580932ba72d4682099ab7bd5e8c20451eecf72e09e",
+      "bytes": 1198,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/复习/原目录1和2来源_第36批/例题整理_作者年份未核/大学物理例题整理.pdf",
+      "sha256": "90f9407a2984adc682543353322714fb4b9fd6a03795e88f77c989aa154092ef",
+      "original_sha256": "90f9407a2984adc682543353322714fb4b9fd6a03795e88f77c989aa154092ef",
+      "bytes": 2113597,
+      "kind": "source"
+    },
+    {
+      "path": "物理类/大学物理/复习/原目录1和2来源_第36批/例题整理_作者年份未核/README.md",
+      "sha256": "731e92aee7f4175732e5eb9f1a693693e999e9f7857c981a7631c350654686fd",
+      "original_sha256": "731e92aee7f4175732e5eb9f1a693693e999e9f7857c981a7631c350654686fd",
+      "bytes": 879,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/复习/原目录1和2来源_第36批/README.md",
+      "sha256": "699dba88e7ab9e7321b0550ca912aea42480e21237280a9a2eb15a1e4bc9ffe3",
+      "original_sha256": "699dba88e7ab9e7321b0550ca912aea42480e21237280a9a2eb15a1e4bc9ffe3",
+      "bytes": 907,
+      "kind": "provenance"
+    },
+    {
+      "path": "物理类/大学物理/README_原目录1和2资料_第36批.md",
+      "sha256": "4efeee952a44e331dc7c0fbc2a05b1eea906309b6247b8f6dd253db7e4f05fb7",
+      "original_sha256": "4efeee952a44e331dc7c0fbc2a05b1eea906309b6247b8f6dd253db7e4f05fb7",
+      "bytes": 1122,
+      "kind": "provenance"
+    }
+  ],
+  "link_adaptations": []
+}
