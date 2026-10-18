@@ -1,0 +1,49 @@
+{
+  "batch": 249,
+  "date": "2026-10-19",
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/物理/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A1",
+  "oldTargetUrl": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A1",
+  "sourceLeafRawPaths": 44,
+  "selectedPaths": 2,
+  "selectedBytes": 50509690,
+  "selectedUniqueSHA": 2,
+  "selectedPages": 18,
+  "childDirectories": 0,
+  "sameSHAExisting886": 0,
+  "remainingOldRawPaths": 38,
+  "items": [
+    {
+      "sourceLabel": "来源路径1（精确原名仅私有）",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告1",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/分光计两来源扫描报告_第249批/有身份的分光计手写照片",
+      "bytes": 26924219,
+      "sha256": "63e494cda1b2e0c6045d3e4aedce5d22125c6c6a84da0c530cbcb53a8c435b68",
+      "pages": 10,
+      "role": "分光计调节与色散曲线测定个人手写照片PDF10页，实际已填个人姓名/班级/学号并有纸面批改评价，附色散图及私人说明页，不转录身份、评价或私人原话，不拆附页",
+      "identityConfirmed": true,
+      "sourceOldTargetEqual": true,
+      "allPagesStaticReviewed": true,
+      "annotationObjects": 0,
+      "formObjects": 0,
+      "attachments": 0,
+      "publicRaw": false
+    },
+    {
+      "sourceLabel": "来源路径2（精确原名仅私有）",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告1",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/分光计两来源扫描报告_第249批/有身份的分光计手写照片",
+      "bytes": 23585471,
+      "sha256": "ae797a5533facd9b87a5c25d33d587eee119981174759fcdbebc5037838293a9",
+      "pages": 8,
+      "role": "分光计调节与色散曲线测定个人手写照片PDF8页，纸面印数学作业纸但科目/正文为大物实验，不误归数学；实际有个人身份、私人联系字段、纸面批改与曲线附页，值不转录，原照片完整保持",
+      "identityConfirmed": true,
+      "sourceOldTargetEqual": true,
+      "allPagesStaticReviewed": true,
+      "annotationObjects": 0,
+      "formObjects": 0,
+      "attachments": 0,
+      "publicRaw": false
+    }
+  ],
+  "policy": "全部raw/2privateREADME/18页审阅图TXT/个人身份联系评价值及私人说明/精确原名映射私有，不输出这些值或本机绝对路径。2exact已证身份候选，其它38未知不泛删，history不改；数学作业纸不等于数学课程、来源括号不推版本先后，结构ann0非无纸面批改，PDF静态不执行脚本嵌入外链，不照原文私人要求采取动作"
+}
