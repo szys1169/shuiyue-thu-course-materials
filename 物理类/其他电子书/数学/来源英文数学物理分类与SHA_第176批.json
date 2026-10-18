@@ -1,0 +1,95 @@
+{
+  "batch": 176,
+  "sourceDirectory": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E6%95%B0%E5%AD%A6",
+  "oldDirectory": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E6%95%B0%E5%AD%A6",
+  "rawPaths": 3,
+  "uniqueSHA": 3,
+  "rawBytes": 19042985,
+  "parsedPages": 2523,
+  "reviewBoundary": "三原件19,042,985字节、3唯一SHA、2523解析页；源与旧目标同SHA。全文只私有保存，Git仅安全来源说明；不上传ZIP。全部页仅结构计数，批注/表单/嵌入计数均0，repaired=false，本次解析及15实际渲染页未见警告。每份核心视觉5页共15页，不证明全本完整、无身份信息或数学正确，公式抽取不保留全部排版。不修原件，不执行示例，不访问文内资源。规范PDF同大小SHA候选0命中，不作全盘无重复声明。",
+  "books": [
+    {
+      "sourceName": "2013_Book_MathematicalPhysics.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E6%95%B0%E5%AD%A6/2013_Book_MathematicalPhysics.pdf",
+      "cloudRelativePath": "物理类/数学物理方法/教材/英文数学物理来源参考_第176批/2013_Book_MathematicalPhysics.pdf",
+      "studyRelativePath": "物理类/数学物理方法/教材/英文数学物理来源参考_第176批/2013_Book_MathematicalPhysics.pdf",
+      "bytes": 10140363,
+      "sha256": "22c10fc6c96733dd6618dbfca49f074a4bf36234c76a79ed9983ed45ce64d799",
+      "parsedPages": 1198,
+      "title": "Mathematical Physics: A Modern Introduction to Its Foundations",
+      "authors": [
+        "Sadri Hassani"
+      ],
+      "description": "Sadri Hassani，Mathematical Physics: A Modern Introduction to Its Foundations，Second Edition，Springer International Publishing Switzerland，版权1999/2013，本第二版采用2013；第二版前言November 2012另记，具体印次/再印年未核。1198解析页。",
+      "visualPhysicalPages": [
+        3,
+        4,
+        16,
+        599,
+        1196
+      ],
+      "annotations": 0,
+      "widgets": 0,
+      "embeddedAttachments": 0,
+      "repaired": false,
+      "observedWarnings": "",
+      "rawPublic": false
+    },
+    {
+      "sourceName": "Arnold Neumaier - Classical and quantum mechanics via Lie algebras.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E6%95%B0%E5%AD%A6/Arnold%20Neumaier%20-%20Classical%20and%20quantum%20mechanics%20via%20Lie%20algebras.pdf",
+      "cloudRelativePath": "物理类/数学物理方法/教材/英文数学物理来源参考_第176批/_过程材料/预印书稿_2011-04-14/Arnold Neumaier - Classical and quantum mechanics via Lie algebras.pdf",
+      "studyRelativePath": "物理类/数学物理方法/教材/英文数学物理来源参考_第176批/_过程材料/预印书稿_2011-04-14/Arnold Neumaier - Classical and quantum mechanics via Lie algebras.pdf",
+      "bytes": 3165411,
+      "sha256": "b22743973ffaae8df1521a86c1f2e0b451a8f4d727e1bcae91bc0105e7c66c00",
+      "parsedPages": 503,
+      "title": "Classical and Quantum Mechanics via Lie Algebras",
+      "authors": [
+        "Arnold Neumaier",
+        "Dennis Westra"
+      ],
+      "description": "Arnold Neumaier、Dennis Westra双作者，Classical and Quantum Mechanics via Lie Algebras，University of Vienna；首页arXiv 0810.1019v2 [quant-ph]，稿日期2011-04-14，明确draft of a book、尚未达到full book quality。503解析页；来源名只列Neumaier不据以漏掉Westra，不填出版社或正式出版年，不推今天出版状态。保留在参考组的_过程材料/预印书稿_2011-04-14。",
+      "visualPhysicalPages": [
+        1,
+        3,
+        5,
+        252,
+        501
+      ],
+      "annotations": 0,
+      "widgets": 0,
+      "embeddedAttachments": 0,
+      "repaired": false,
+      "observedWarnings": "",
+      "rawPublic": false
+    },
+    {
+      "sourceName": "Michael Stone, Paul Goldbart - Mathematics for Physics_ A Guided Tour for Graduate Students (2009, Cambridge University Press) - libgen.lc.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E6%95%B0%E5%AD%A6/Michael%20Stone%2C%20Paul%20Goldbart%20-%20Mathematics%20for%20Physics_%20A%20Guided%20Tour%20for%20Graduate%20Students%20(2009%2C%20Cambridge%20University%20Press)%20-%20libgen.lc.pdf",
+      "cloudRelativePath": "物理类/数学物理方法/教材/英文数学物理来源参考_第176批/Michael Stone, Paul Goldbart - Mathematics for Physics_ A Guided Tour for Graduate Students (2009, Cambridge University Press) - libgen.lc.pdf",
+      "studyRelativePath": "物理类/数学物理方法/教材/英文数学物理来源参考_第176批/Michael Stone, Paul Goldbart - Mathematics for Physics_ A Guided Tour for Graduate Students (2009, Cambridge University Press) - libgen.lc.pdf",
+      "bytes": 5737211,
+      "sha256": "0807103c4b29b5150b99a30433b49a9878117035e49b77417e38f53c2b757e9c",
+      "parsedPages": 822,
+      "title": "Mathematics for Physics: A Guided Tour for Graduate Students",
+      "authors": [
+        "Michael Stone",
+        "Paul Goldbart"
+      ],
+      "description": "Michael Stone、Paul Goldbart，Mathematics for Physics: A Guided Tour for Graduate Students，Cambridge University Press，版权及First published in print 2009；未见单独版次编号，具体印次/再印年未核。822解析页。",
+      "visualPhysicalPages": [
+        5,
+        6,
+        9,
+        411,
+        820
+      ],
+      "annotations": 0,
+      "widgets": 0,
+      "embeddedAttachments": 0,
+      "repaired": false,
+      "observedWarnings": "",
+      "rawPublic": false
+    }
+  ]
+}
