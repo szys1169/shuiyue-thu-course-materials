@@ -1,0 +1,94 @@
+{
+  "batch": 231,
+  "date": "2026-10-19",
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/物理/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E6%99%AE%E9%80%9A%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A",
+  "oldTargetUrl": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E6%99%AE%E9%80%9A%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A",
+  "sourceFirstLevelRaw": 27,
+  "sourceFirstLevelSubdirs": 1,
+  "selectedRawPaths": 7,
+  "selectedRawBytes": 1329571,
+  "uniqueSHA": 7,
+  "sameSHAExisting779": 0,
+  "remainingOldTargetRawFiles": 5,
+  "protectedUnexaminedFolders": 1,
+  "items": [
+    {
+      "sourceLabel": "原件路径1（精确原名仅私有）",
+      "sourceDirectory": "物理类/物理实验/普通物理实验报告",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/普通物理力学波动来源组_第231批/液体黏度实验说明与任务",
+      "bytes": 45568,
+      "sha256": "ad62c8af3c28b669223cda6c4ca2d8ba22cf26a103cd45f41092dd2d9456c511",
+      "role": "液体粘度测量任务，含旋转/落球/毛细管法、粘温关系及参考文献，主文字任务段落重复保原样；非已填测量报告、作者教师日期未核",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "原件路径2（精确原名仅私有）",
+      "sourceDirectory": "物理类/物理实验/普通物理实验报告",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/普通物理力学波动来源组_第231批/液体黏度实验说明与任务",
+      "bytes": 727040,
+      "sha256": "ff31e130ad08764c6d615fe48886cd24811cfee0a0e2bc1a9b2af1dc1b78b6af",
+      "role": "液体粘度测量实验说明，含旋转/落球/乌氏与芬式毛细管原理、步骤及水黏度参考表；非已填报告，作者教师日期未核",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "原件路径3（精确原名仅私有）",
+      "sourceDirectory": "物理类/物理实验/普通物理实验报告",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/普通物理力学波动来源组_第231批/刚体转动来源稿与数值表",
+      "bytes": 61440,
+      "sha256": "25f68fe918fe5e39e0bb4aa979043f72821fb577cbe3ae29bf3bf291d6db2306",
+      "role": "刚体转动来源报告，身份栏空但有测量/计算、个人讨论与思考题，未证教师模板/标准答案",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "原件路径4（精确原名仅私有）",
+      "sourceDirectory": "物理类/物理实验/普通物理实验报告",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/普通物理力学波动来源组_第231批/弦上驻波来源稿",
+      "bytes": 191395,
+      "sha256": "0ca9134892651fb53df57474e5ca4e6d355604d09bf91623230839132037e632",
+      "role": "7页PDF正文弦上驻波的初步研究，身份栏空但有数据/拟合/系统修正讨论；来源原名异字保留，不当空白指导模板或标准答案",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "原件路径5（精确原名仅私有）",
+      "sourceDirectory": "物理类/物理实验/普通物理实验报告",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/普通物理力学波动来源组_第231批/弦上驻波来源稿",
+      "bytes": 127488,
+      "sha256": "b55ff343ffaf64ec0799d5eb1aa523b886ac83d548de8185c13dd483b9d765b8",
+      "role": "DOC正文弦上驻波的初步研究，身份栏空但有数据/拟合/修正讨论，含未定义书签显示文字不修原件；与PDF异SHA不推同版/新版",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "原件路径6（精确原名仅私有）",
+      "sourceDirectory": "物理类/物理实验/普通物理实验报告",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/普通物理力学波动来源组_第231批/刚体转动来源稿与数值表",
+      "bytes": 22016,
+      "sha256": "9f5f55444cce35b3be4320711f2e972cdd195592682e6eb3d45746cd6802eaca",
+      "role": "XLS98非空已存cell含质量/时间、半径/时间与g/r/h/k/c标签，28公式记录仅缓存未执行；具体配套报告/作者/年份未核",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "原件路径7（精确原名仅私有）",
+      "sourceDirectory": "物理类/物理实验/普通物理实验报告",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/普通物理力学波动来源组_第231批/刚体转动来源稿与数值表",
+      "bytes": 154624,
+      "sha256": "17317979dfa74fa6ffc7da821f53348b87286d643db64ee0835dcf06de471bd3",
+      "role": "刚体转动报告页脚实际填写个人身份，正文实验日期2004-11-23，不扩推来源组学期/教师或正式提交；与近名另一报告异SHA均保留",
+      "identityConfirmed": true,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    }
+  ],
+  "policy": "全部raw私有；only1页脚实际身份exact候选、unknown6不泛删，私人原名/字段值/本机绝对路径不公开，空身份栏不认教师模板/标准答案、异SHA原封装与书签错误不修原件，不执行宏字段公式嵌入"
+}
