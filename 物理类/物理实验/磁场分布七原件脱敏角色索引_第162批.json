@@ -1,0 +1,60 @@
+{
+  "batch": 162,
+  "source": "来源：自有物理资料库（6f4b1cfc-208b-4b3f-b2ac-bac77f97246f）物理类/物理实验/磁场分布测量。水月的资料已有同SHA副本，仅同一私有库内服务器归位；来源库不变。",
+  "scope": "七原件938722字节、七独立SHA，完整同层保留",
+  "rawPublic": false,
+  "roles": "一份明确身份的已填线圈磁场历史报告、一份文字层空数据表、一份图形主体DOC、两份内置TIFF曲线预览的DOS封装EPS、两份CPYA头二进制图形/项目附件。",
+  "reviewBoundary": "DOC仅piece-table文字，嵌图/公式/Origin对象未完整视觉/OCR或执行；EPS仅DOS分段、PS子段头/注释静态检查及原TIFF预览读取，未向PS解释器送入；CPYA只头/hash/ASCII候选，未打开项目/验证可运行依赖。",
+  "typeBoundary": "来源扩展名.ogg对应原件不是OggS头，不据此当音频播放；.opj完整格式未核，不擅自转换。",
+  "items": [
+    {
+      "alias": "原件_01_a0ec79ae20.eps",
+      "role": "磁感应强度随位置曲线的EPS，DOS封装内置TIFF预览只读，不解释PostScript",
+      "bytes": 27833,
+      "sha256": "a0ec79ae20ce5c9ac183039148a4ac170651a011882718f7ab191bbfd762b89c",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_02_1e6e349282.eps",
+      "role": "另一独立字节的磁感应强度随位置曲线EPS，仅静态读取内置TIFF预览",
+      "bytes": 29183,
+      "sha256": "1e6e349282930f12dd11c2153c3d526a28530dfbc914489f1ac91b9846e7ef49",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_03_8094025572.ogg",
+      "role": "CPYA头二进制图形附件，非OggS头，真实完整格式与内容未核",
+      "bytes": 56006,
+      "sha256": "8094025572fe787566f22fe8c0cee20edebfe2a9ba442dceb159b3ff8f0c3b6a",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_04_17889247de.opj",
+      "role": "CPYA头二进制项目附件，未打开或执行，完整依赖与内容未核",
+      "bytes": 170340,
+      "sha256": "17889247ded2e7d0a56078c0bb16baa9865b36d198839d61ce34f084085e2865",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_05_8ffd5faf8f.doc",
+      "role": "圆线圈测量文字层空数据表，作者官方性未核",
+      "bytes": 44032,
+      "sha256": "8ffd5faf8f686f922398e0c6be7c31256c6aa01047ae95cf9b231e4b3b6027d9",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_06_3ba3f96dae.doc",
+      "role": "图形主体DOC，文字层只有占位符，图形内容未完整视觉审读",
+      "bytes": 111616,
+      "sha256": "3ba3f96daedf29a6b0ce7cabb53ff720e00f256dd3da78945c7182aba76d5db6",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_07_ffd0b376fc.doc",
+      "role": "电磁感应法测量载流线圈磁场的已填历史报告，封面实际身份仅私有",
+      "bytes": 499712,
+      "sha256": "ffd0b376fcf7c3546feaab672a2233d606edd5d048a1679ea370910f92a0cb73",
+      "rawPublic": false
+    }
+  ]
+}
