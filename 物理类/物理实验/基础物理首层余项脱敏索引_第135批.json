@@ -1,0 +1,61 @@
+{
+  "batch": 135,
+  "sourceLibrary": "6f4b1cfc-208b-4b3f-b2ac-bac77f97246f",
+  "sourceDirectory": "物理类/物理实验/近代物理实验/实验报告others/基础物理实验",
+  "scope": "首层余5件，3可解码图像、1旧XLS、1异常32字节对象",
+  "groups": {
+    "电路与光电元件示意_具体实验未核": "2图分别为运算放大器及线圈电路、光电元件与相关电路；只按实际图像分示意主题，具体实验题名未核，不依原文件名补猜测值或医疗含义。",
+    "孔位尺寸示意_具体实验未核": "1图为长条上六个编号孔位及尺寸标记，只认孔位尺寸示意，具体材料、实验和方法未核。",
+    "旧表与异常小对象_内容身份待核": "1旧XLS候选含电感、损耗电阻、Q与磁导率随频率变化文字，完整单元格与身份未核；另1个32字节对象仅header/hash检查，未解码或修复，不认有效BMP。"
+  },
+  "authorYear": "作者、年份、学期及官方性未核；具体题名或方法不能仅由来源编号推定。",
+  "rawPublic": false,
+  "aliasPolicy": "固定序号+原件SHA前10位为显示别名；真实原名路径仅本地私有映射，物理原件未改名，不据别名构造原件链接。",
+  "items": [
+    {
+      "alias": "原件_01_651813eca1.bmp",
+      "category": "旧表与异常小对象_内容身份待核",
+      "role": "异常32字节对象_不认有效BMP",
+      "bytes": 32,
+      "sha256": "651813eca19a522afe402e7619c25fcbb3c98d0b473e47854a06f182975b9d50",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_02_bc518cd681.xls",
+      "category": "旧表与异常小对象_内容身份待核",
+      "role": "旧XLS历史数据附件_完整单元格与身份未核",
+      "bytes": 24064,
+      "sha256": "bc518cd68195ef51c0051023a208b05d15217e0de65a2e9adff3a0782b91c7fd",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_03_f042f55bd0.bmp",
+      "category": "电路与光电元件示意_具体实验未核",
+      "role": "通用图像示意_具体实验未核",
+      "bytes": 2359350,
+      "sha256": "f042f55bd02daab26355725a15bf0386e09cfebf54a2c9e690c7df438af2190b",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_04_af3b78ca2f.bmp",
+      "category": "孔位尺寸示意_具体实验未核",
+      "role": "通用图像示意_具体实验未核",
+      "bytes": 14122,
+      "sha256": "af3b78ca2f6c23c50f7c224d516b7bf5f38c88b3dca7654735564b3c4e6ec9e3",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_05_6c365851dd.bmp",
+      "category": "电路与光电元件示意_具体实验未核",
+      "role": "通用图像示意_具体实验未核",
+      "bytes": 98366,
+      "sha256": "6c365851ddee4fa9b37122b1841277de374ffc41ecb4dd7dd182ee07498efd76",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    }
+  ]
+}
