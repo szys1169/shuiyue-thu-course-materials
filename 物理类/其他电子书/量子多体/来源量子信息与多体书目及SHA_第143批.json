@@ -1,0 +1,27 @@
+[
+  {
+    "name": "2019_Book_QuantumInformationMeetsQuantum.pdf",
+    "title": "Quantum Information Meets Quantum Matter: From Quantum Entanglement to Topological Phases of Many-Body Systems",
+    "authors": [
+      "Bei Zeng",
+      "Xie Chen",
+      "Duan-Lu Zhou",
+      "Xiao-Gang Wen"
+    ],
+    "publisherAndDateEvidence": "文件页5版权Springer Science+Business Media/part of Springer Nature2019；Quantum Science and Technology丛书；未见已核具体第几版标记，不自行补第二版或授课年",
+    "role": "量子信息、纠缠与多体拓扑相跨专题参考专著，不是本校课程讲义/作业/已核指定教材",
+    "evidence": "文件页1封面、4扉页四共著与副题、5版权、6起Foreword、目录/前言、中187与末372抽样；图文层可读，不将丛书编辑/前言作者认成主著者",
+    "filePages": 372,
+    "bytes": 11021246,
+    "sha256": "4c0bc41f1dde64a9e39427f46cc837c8719b750c0e932faacc81cc2f9fd17b9a",
+    "annotations": 0,
+    "formFields": 0,
+    "attachments": 0,
+    "sourceTargetEqual": true,
+    "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E9%87%8F%E5%AD%90%E5%A4%9A%E4%BD%93",
+    "oldCloudRelativePath": "物理类/其他电子书/量子多体/2019_Book_QuantumInformationMeetsQuantum.pdf",
+    "finalCloudRelativePath": "物理类/量子力学/专题参考/量子信息与多体_第143批/_过程材料/私有原件/2019_Book_QuantumInformationMeetsQuantum.pdf",
+    "publicOriginal": false,
+    "privateValuesPublished": false
+  }
+]
