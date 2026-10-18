@@ -1,0 +1,97 @@
+{
+  "batch": 132,
+  "sourceLibrary": "6f4b1cfc-208b-4b3f-b2ac-bac77f97246f",
+  "sourceDirectory": "物理类/物理实验/近代物理实验/实验报告others/基础物理实验",
+  "scope": "首层编号32/35/45共9件，7BMP与2XLS",
+  "groups": {
+    "光栅与透镜光路示意_正式题名未核": "2图明确标记光栅、透镜、衍射级次与光路，支持相关主题，不认作完整正式指导。",
+    "分束与底片光路示意_具体实验未核": "1图含快门、分束板、M1/M2反射镜、物和底片；仅按图像作有限光路分类，具体实验和方法不补猜。",
+    "超导转变与测温相关_正式题名未核": "4图含转变温度电阻曲线、铂/硅等温度特性及恒流源四端测量接线；两XLS候选分别有超导转变、硅二极管和温差电偶特性，支持相关主题，完整单元格与身份未核。"
+  },
+  "authorYear": "作者、年份、学期及官方性未核；具体题名或方法不能仅由来源编号推定。",
+  "rawPublic": false,
+  "aliasPolicy": "固定序号+原件SHA前10位为显示别名；真实原名路径仅本地私有映射，物理原件未改名，不据别名构造原件链接。",
+  "items": [
+    {
+      "alias": "原件_01_b7e3096412.bmp",
+      "category": "光栅与透镜光路示意_正式题名未核",
+      "role": "原理/装置/曲线示意图",
+      "bytes": 98678,
+      "sha256": "b7e3096412744ad6709b175c9c4732a6be62ff1480204b27b29c84d4da625eb7",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_02_6275082d3c.bmp",
+      "category": "光栅与透镜光路示意_正式题名未核",
+      "role": "原理/装置/曲线示意图",
+      "bytes": 183134,
+      "sha256": "6275082d3c9f28a25b7af5d83f0fba47fc003a966267b62bca71bdefac1bea61",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_03_229ba8060d.bmp",
+      "category": "分束与底片光路示意_具体实验未核",
+      "role": "原理/装置/曲线示意图",
+      "bytes": 330150,
+      "sha256": "229ba8060d3ffdf6d88f980c5baac0b82af13b8c4a4f4add906999451f7ce339",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_04_9c12be8f71.bmp",
+      "category": "超导转变与测温相关_正式题名未核",
+      "role": "原理/装置/曲线示意图",
+      "bytes": 254006,
+      "sha256": "9c12be8f71db4d8f1bb98680d363a68d7334250fde6af5a7d5fd423704f5ecd7",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_05_ed38bc1438.bmp",
+      "category": "超导转变与测温相关_正式题名未核",
+      "role": "原理/装置/曲线示意图",
+      "bytes": 241110,
+      "sha256": "ed38bc143863a68d51112c461f169abdd8e28adda4a4b1b98e4b4aa6c0fbcf4e",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_06_2777b7fe2a.xls",
+      "category": "超导转变与测温相关_正式题名未核",
+      "role": "旧XLS历史数据附件_完整单元格与身份未核",
+      "bytes": 18944,
+      "sha256": "2777b7fe2a956b23ac66f26da71691f1acc569a7b426bac2e88a995d853e1f78",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_07_26d020d144.bmp",
+      "category": "超导转变与测温相关_正式题名未核",
+      "role": "原理/装置/曲线示意图",
+      "bytes": 350946,
+      "sha256": "26d020d14476e31778d8331d329c684ed62e30459efd0af93f00fa9f2cf104e4",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_08_946df2220e.bmp",
+      "category": "超导转变与测温相关_正式题名未核",
+      "role": "原理/装置/曲线示意图",
+      "bytes": 167142,
+      "sha256": "946df2220e58ea8943f6a82ac8f3dfe60e7c0e2c6f8ebf9474912b561c406cec",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_09_743ad25b90.xls",
+      "category": "超导转变与测温相关_正式题名未核",
+      "role": "旧XLS历史数据附件_完整单元格与身份未核",
+      "bytes": 17408,
+      "sha256": "743ad25b9035776aef3afce848a6a58d031c4695821b8dfa799ae8b9b9b5e1c7",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    }
+  ]
+}
