@@ -1,0 +1,11 @@
+# 两部来源光学补充（第153批）
+
+沿用既有光学教材目录，新增两份不同SHA来源参考书，旧33文件与现有README保留。
+
+- 现代光学基础（钟锡华）.pdf：钟锡华编著《现代光学基础》，北京大学出版社，版权页PDF4确认2003年8月第1版、第1次印刷。491解析页；PDF3含1条Stamp及来源收藏印记，信息值不抄录至公开说明，原批注原样私有保留，归入过程材料。无解析警告。
+
+- Eugene Hecht - Optics (2016, Pearson Education) - libgen.lc.pdf：Eugene Hecht, Optics，第五版 Global Edition，Pearson Education Limited版权2017；明确由美国第五版改编。来源文件名2016仅来源标记，与实际版权年份分开。730解析页，0 PDF批注；有ActualText无位置警告（工具归并显示重复22次），文本可能丢失或错位，不重排修补。
+
+[书目与来源说明](https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%89%E5%AD%A6/%E6%95%99%E6%9D%90/%E4%B8%A4%E9%83%A8%E6%9D%A5%E6%BA%90%E5%85%89%E5%AD%A6%E5%8F%82%E8%80%83_%E7%AC%AC153%E6%89%B9)；[含来源印章扫描](https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%89%E5%AD%A6/%E6%95%99%E6%9D%90/%E4%B8%A4%E9%83%A8%E6%9D%A5%E6%BA%90%E5%85%89%E5%AD%A6%E5%8F%82%E8%80%83_%E7%AC%AC153%E6%89%B9/_%E8%BF%87%E7%A8%8B%E6%9D%90%E6%96%99/%E5%90%AB%E6%9D%A5%E6%BA%90%E5%8D%B0%E7%AB%A0%E6%89%AB%E6%8F%8F)；[共享来源](https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E6%99%AE%E9%80%9A%E7%89%A9%E7%90%86)。
+
+整书私有，按学科参考分类，不指代当前开课或指定教材。
