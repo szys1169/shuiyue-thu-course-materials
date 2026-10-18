@@ -1,0 +1,54 @@
+{
+  "batch": 86,
+  "course": "电工与电子技术",
+  "sourceLibrary": "6f4b1cfc-208b-4b3f-b2ac-bac77f97246f",
+  "targetLibrary": "5ba373d2-5ace-4c2d-b4c7-4a7517e1d627",
+  "rawFiles": 4,
+  "bytes": 68764143,
+  "sourceUnchanged": true,
+  "rawReupload": 0,
+  "zipUpload": 0,
+  "filenameNote": "实验指导原名首字符U+007F，JSON以\\u007f显式转义；解析后路径保留原字符",
+  "files": [
+    {
+      "oldCourseRelativePath": "2022年春-期末考试题.pdf",
+      "finalCourseRelativePath": "往年题/2022-06-12_B卷/2022年春-期末考试题.pdf",
+      "bytes": 1256905,
+      "sha256": "776bf149c7ea8b5055bed75331f71f20211d6d87bb43bc5fa87fd125adb3de5b",
+      "role": "2022-06-12_B卷试题",
+      "rawPublicWhitelistCandidate": true,
+      "sourceOldTargetEqual": true,
+      "operation": "目标同库server move，原名原字节保持"
+    },
+    {
+      "oldCourseRelativePath": "322 期末复习_20220606 (1).pptx",
+      "finalCourseRelativePath": "_过程材料/受限原件/322 期末复习_20220606 (1).pptx",
+      "bytes": 2190472,
+      "sha256": "bb57c2656f71ba4a7dac8099f120b9f4de7e53213701e9898e1b49616aac328c",
+      "role": "复习演示_私有受限",
+      "rawPublicWhitelistCandidate": false,
+      "sourceOldTargetEqual": true,
+      "operation": "目标同库server move，原名原字节保持"
+    },
+    {
+      "oldCourseRelativePath": "\u007f电工与电子技术实验指导书.pdf",
+      "finalCourseRelativePath": "实验指导/2012_第2版/\u007f电工与电子技术实验指导书.pdf",
+      "bytes": 64431254,
+      "sha256": "f5904cb966c6d268b2a1f1ee630550d54407d9f2a496e0bf20b6a06adfd18eae",
+      "role": "出版实验指导",
+      "rawPublicWhitelistCandidate": false,
+      "sourceOldTargetEqual": true,
+      "operation": "目标同库server move，原名原字节保持"
+    },
+    {
+      "oldCourseRelativePath": "电工与电子技术-模拟试题.docx",
+      "finalCourseRelativePath": "模拟题/来源年份作者未核/电工与电子技术-模拟试题.docx",
+      "bytes": 885512,
+      "sha256": "559deb595b3486e4c5d4f8fbc88e9c6a636b92b5904e8c73ff26e425c7e6fcb0",
+      "role": "模拟题_年份作者官方性未核",
+      "rawPublicWhitelistCandidate": true,
+      "sourceOldTargetEqual": true,
+      "operation": "目标同库server move，原名原字节保持"
+    }
+  ]
+}
