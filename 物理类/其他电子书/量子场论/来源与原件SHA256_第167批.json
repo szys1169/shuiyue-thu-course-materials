@@ -1,0 +1,72 @@
+{
+  "batch": 167,
+  "date": "2026-10-19",
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E9%87%8F%E5%AD%90%E5%9C%BA%E8%AE%BA",
+  "oldTarget": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E9%87%8F%E5%AD%90%E5%9C%BA%E8%AE%BA",
+  "scope": "本批3，累计9/12，余3未纳本批",
+  "items": [
+    {
+      "name": "Tom Lancaster, Stephen J. Blundell - Quantum field theory for the gifted amateur (2014, Oxford University Press) - libgen.lc.pdf",
+      "bytes": 7045086,
+      "sha256": "e7afe68826c450e8be70e4a2c4cc34f18a8f37f91d95efddd991fda7712faefd",
+      "pages": 504,
+      "annotations": 0,
+      "formFields": 0,
+      "attachments": 0,
+      "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E9%87%8F%E5%AD%90%E5%9C%BA%E8%AE%BA",
+      "oldPath": "物理类/其他电子书/量子场论/Tom Lancaster, Stephen J. Blundell - Quantum field theory for the gifted amateur (2014, Oxford University Press) - libgen.lc.pdf",
+      "finalPath": "物理类/量子场论/专题参考/对称性与场论入门来源参考_第167批/_过程材料/私有原件/Tom Lancaster, Stephen J. Blundell - Quantum field theory for the gifted amateur (2014, Oxford University Press) - libgen.lc.pdf",
+      "publicRaw": false,
+      "classification": "整部来源参考书，非本课程指定教材/作业/个人稿",
+      "sameSHAExistingCanonical": [],
+      "title": "Quantum Field Theory for the Gifted Amateur",
+      "authors": [
+        "Tom Lancaster",
+        "Stephen J. Blundell"
+      ],
+      "versionEvidence": "文件页4题名；页5版权2014、First Edition published in2014、Impression1。Oxford University Press。"
+    },
+    {
+      "name": "Jakob Schwichtenberg - No-Nonsense Quantum Field Theory_ A Student-Friendly Introduction (2020, No-Nonsense Books) - libgen.lc.pdf",
+      "bytes": 14735195,
+      "sha256": "c54023b376cf1f90cb4dfe948967804bbee2afb44876beb6636a0f89c9d34b5e",
+      "pages": 642,
+      "annotations": 0,
+      "formFields": 0,
+      "attachments": 0,
+      "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E9%87%8F%E5%AD%90%E5%9C%BA%E8%AE%BA",
+      "oldPath": "物理类/其他电子书/量子场论/Jakob Schwichtenberg - No-Nonsense Quantum Field Theory_ A Student-Friendly Introduction (2020, No-Nonsense Books) - libgen.lc.pdf",
+      "finalPath": "物理类/量子场论/专题参考/对称性与场论入门来源参考_第167批/_过程材料/私有原件/含身份水印来源变体/Jakob Schwichtenberg - No-Nonsense Quantum Field Theory_ A Student-Friendly Introduction (2020, No-Nonsense Books) - libgen.lc.pdf",
+      "publicRaw": false,
+      "classification": "整部来源参考书，非本课程指定教材/作业/个人稿",
+      "sameSHAExistingCanonical": [],
+      "title": "No-Nonsense Quantum Field Theory",
+      "authors": [
+        "Jakob Schwichtenberg"
+      ],
+      "versionEvidence": "文件页3题名；页4首次印刷May2020、版权2020、book edition1.35；No-Nonsense Books。book edition字段按来源原标记，不推广为正式第1.35版。",
+      "privacyAndRestriction": "首页含购买者身份水印；版权页有唯一副本编号及反分享说明。仅本人已有原件服务器移入私有过程；水印/编号值不抄，不新传正文，不作公开Git原件。"
+    },
+    {
+      "name": "2018_Book_PhysicsFromSymmetry.pdf",
+      "bytes": 2860168,
+      "sha256": "7a957d042a175f7d6f16c77910dfa489c2a99a32208b1a4a68ba0136bb9083f6",
+      "pages": 294,
+      "annotations": 0,
+      "formFields": 0,
+      "attachments": 0,
+      "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E9%87%8F%E5%AD%90%E5%9C%BA%E8%AE%BA",
+      "oldPath": "物理类/其他电子书/量子场论/2018_Book_PhysicsFromSymmetry.pdf",
+      "finalPath": "物理类/量子场论/专题参考/对称性与场论入门来源参考_第167批/_过程材料/私有原件/2018_Book_PhysicsFromSymmetry.pdf",
+      "publicRaw": false,
+      "classification": "整部来源参考书，非本课程指定教材/作业/个人稿",
+      "sameSHAExistingCanonical": [],
+      "title": "Physics from Symmetry",
+      "authors": [
+        "Jakob Schwichtenberg"
+      ],
+      "versionEvidence": "文件页1/4题名第二版；页5版权：第二版2018，第一版2015；页9第二版序2017不当版年。Springer。",
+      "topic": "对称性与基础物理参考，覆盖多种物理理论，非只讲量子场论。"
+    }
+  ]
+}
