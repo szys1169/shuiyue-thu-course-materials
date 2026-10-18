@@ -1,0 +1,96 @@
+{
+  "batch": 88,
+  "scope": "3 English New Millennium Edition volumes only",
+  "files": [
+    {
+      "name": "[Volume 1] Richard P. Feynman, Robert B. Leighton, Matthew Sands - The Feynman Lectures on Physics, Vol. I_ The New Millennium Edition_ Mainly Mechanics, Radiation, and Heat (2011, Basic Books) - libgen.lc.pdf",
+      "bytes": 17916318,
+      "sha256": "02944a7463f787323f9f36b65e9e6b2ca34d8d122a2cd2ffca14a1fff40265f1",
+      "sourceTargetEqual": true,
+      "pages": 968,
+      "volume": "I",
+      "title": "The Feynman Lectures on Physics",
+      "edition": "New Millennium Edition",
+      "authors": [
+        "Richard P. Feynman",
+        "Robert B. Leighton",
+        "Matthew Sands"
+      ],
+      "publisher": "Basic Books",
+      "copyrightYears": [
+        1963,
+        2006,
+        2010
+      ],
+      "filenameYearOnly": 2011,
+      "role": "英文教材",
+      "sourceDirectory": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E8%B4%B9%E6%9B%BC%E7%89%A9%E7%90%86%E5%AD%A6/%E4%B8%AD%E8%8B%B1%E6%96%87%E7%94%B5%E5%AD%90%E4%B9%A6%26%E4%B9%A0%E9%A2%98%E9%9B%86",
+      "oldPhysicsRelativePath": "费曼物理学/中英文电子书&习题集/[Volume 1] Richard P. Feynman, Robert B. Leighton, Matthew Sands - The Feynman Lectures on Physics, Vol. I_ The New Millennium Edition_ Mainly Mechanics, Radiation, and Heat (2011, Basic Books) - libgen.lc.pdf",
+      "finalPhysicsRelativePath": "大学物理/教材/费曼物理学讲义/英文新千年版_三卷/[Volume 1] Richard P. Feynman, Robert B. Leighton, Matthew Sands - The Feynman Lectures on Physics, Vol. I_ The New Millennium Edition_ Mainly Mechanics, Radiation, and Heat (2011, Basic Books) - libgen.lc.pdf",
+      "evidence": "PDF页2标题/卷别/作者、页3版权页、前言目录及正文抽样和末页；未逐页视觉核验",
+      "annotationObjects": 0,
+      "rights": "版权页保留权利；完整正文不进入公开Git",
+      "scopeNote": "文件页数不等于同版纸书页数，不据此宣称与纸书逐页完整一致"
+    },
+    {
+      "name": "[Volume 2] Richard P. Feynman, Robert B. Leighton, Matthew Sands - The Feynman Lectures on Physics, Vol. II_ The New Millennium Edition_ Mainly Electromagnetism and Matter (2011, Basic Books) - libgen.lc.pdf",
+      "bytes": 23307078,
+      "sha256": "17b2ad182d7eff221e983a0250793dc8fc73c97f6f68331726c2bb154af91a79",
+      "sourceTargetEqual": true,
+      "pages": 566,
+      "volume": "II",
+      "title": "The Feynman Lectures on Physics",
+      "edition": "New Millennium Edition",
+      "authors": [
+        "Richard P. Feynman",
+        "Robert B. Leighton",
+        "Matthew Sands"
+      ],
+      "publisher": "Basic Books",
+      "copyrightYears": [
+        1964,
+        2006,
+        2010
+      ],
+      "filenameYearOnly": 2011,
+      "role": "英文教材",
+      "sourceDirectory": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E8%B4%B9%E6%9B%BC%E7%89%A9%E7%90%86%E5%AD%A6/%E4%B8%AD%E8%8B%B1%E6%96%87%E7%94%B5%E5%AD%90%E4%B9%A6%26%E4%B9%A0%E9%A2%98%E9%9B%86",
+      "oldPhysicsRelativePath": "费曼物理学/中英文电子书&习题集/[Volume 2] Richard P. Feynman, Robert B. Leighton, Matthew Sands - The Feynman Lectures on Physics, Vol. II_ The New Millennium Edition_ Mainly Electromagnetism and Matter (2011, Basic Books) - libgen.lc.pdf",
+      "finalPhysicsRelativePath": "大学物理/教材/费曼物理学讲义/英文新千年版_三卷/[Volume 2] Richard P. Feynman, Robert B. Leighton, Matthew Sands - The Feynman Lectures on Physics, Vol. II_ The New Millennium Edition_ Mainly Electromagnetism and Matter (2011, Basic Books) - libgen.lc.pdf",
+      "evidence": "PDF页2标题/卷别/作者、页3版权页、前言目录及正文抽样和末页；未逐页视觉核验",
+      "annotationObjects": 0,
+      "rights": "版权页保留权利；完整正文不进入公开Git",
+      "scopeNote": "文件页数不等于同版纸书页数，不据此宣称与纸书逐页完整一致"
+    },
+    {
+      "name": "[Volume 3] Richard P. Feynman, Robert B. Leighton, Matthew Sands - The Feynman Lectures on Physics, Vol. III_ The New Millennium Edition_ Quantum Mechanics (2011, Basic Books) - libgen.lc.pdf",
+      "bytes": 8624501,
+      "sha256": "a449b03abf0002ec500efcf274bf33a1929def913df45a6bc283aeede4a14c55",
+      "sourceTargetEqual": true,
+      "pages": 688,
+      "volume": "III",
+      "title": "The Feynman Lectures on Physics",
+      "edition": "New Millennium Edition",
+      "authors": [
+        "Richard P. Feynman",
+        "Robert B. Leighton",
+        "Matthew Sands"
+      ],
+      "publisher": "Basic Books",
+      "copyrightYears": [
+        1965,
+        2006,
+        2010
+      ],
+      "filenameYearOnly": 2011,
+      "role": "英文教材",
+      "sourceDirectory": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E8%B4%B9%E6%9B%BC%E7%89%A9%E7%90%86%E5%AD%A6/%E4%B8%AD%E8%8B%B1%E6%96%87%E7%94%B5%E5%AD%90%E4%B9%A6%26%E4%B9%A0%E9%A2%98%E9%9B%86",
+      "oldPhysicsRelativePath": "费曼物理学/中英文电子书&习题集/[Volume 3] Richard P. Feynman, Robert B. Leighton, Matthew Sands - The Feynman Lectures on Physics, Vol. III_ The New Millennium Edition_ Quantum Mechanics (2011, Basic Books) - libgen.lc.pdf",
+      "finalPhysicsRelativePath": "大学物理/教材/费曼物理学讲义/英文新千年版_三卷/[Volume 3] Richard P. Feynman, Robert B. Leighton, Matthew Sands - The Feynman Lectures on Physics, Vol. III_ The New Millennium Edition_ Quantum Mechanics (2011, Basic Books) - libgen.lc.pdf",
+      "evidence": "PDF页2标题/卷别/作者、页3版权页、前言目录及正文抽样和末页；未逐页视觉核验",
+      "annotationObjects": 0,
+      "rights": "版权页保留权利；完整正文不进入公开Git",
+      "scopeNote": "文件页数不等于同版纸书页数，不据此宣称与纸书逐页完整一致"
+    }
+  ]
+}
