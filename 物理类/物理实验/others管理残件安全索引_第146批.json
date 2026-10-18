@@ -1,0 +1,44 @@
+{
+  "batch": 146,
+  "source": "来源：自有物理资料库（6f4b1cfc-208b-4b3f-b2ac-bac77f97246f）物理类/物理实验/近代物理实验/实验报告others下基础物理实验、近代物理实验两来源目录。水月的资料已有同SHA原件，仅在同一私有库内服务器归位；来源库不变。",
+  "rawPublic": false,
+  "scope": "五原件12120字节，按两来源分叶保留原名原字节；不是五份学术教材",
+  "limits": "2管理配置、2临时对象、1原ZIP。ZIP仅中央目录7项，未读取载荷/未解压/未运行，包内内容身份未核。空及异常对象不修复不删除。作者年份官方性不推断。",
+  "items": [
+    {
+      "alias": "残件_01_0174c13b7e.ini",
+      "role": "目录管理配置残件",
+      "bytes": 35,
+      "sha256": "0174c13b7ec29663be11b7d888d718bccc83749c88f16459ceefdd4ed01fc1f3",
+      "rawPublic": false
+    },
+    {
+      "alias": "残件_02_e3b0c44298.tmp",
+      "role": "空临时对象",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "rawPublic": false
+    },
+    {
+      "alias": "残件_03_173bceff77.tmp",
+      "role": "32字节临时对象，结构未核",
+      "bytes": 32,
+      "sha256": "173bceff778250c1a074fe3d48a799e13139a40db36f5dc7cc4c31b174057a61",
+      "rawPublic": false
+    },
+    {
+      "alias": "残件_04_d224c7e213.zip",
+      "role": "原始压缩附件，仅中央目录只读",
+      "bytes": 12018,
+      "sha256": "d224c7e21398c811c0fc24effbefac7daf49d8e2ff71d9626c07fe3c0adc6eb9",
+      "rawPublic": false
+    },
+    {
+      "alias": "残件_05_c35bac75f6.ini",
+      "role": "另一来源目录管理配置残件",
+      "bytes": 35,
+      "sha256": "c35bac75f68f9cb630c487860a9ad0626fbec85ee955873a42bb458932aaf924",
+      "rawPublic": false
+    }
+  ]
+}
