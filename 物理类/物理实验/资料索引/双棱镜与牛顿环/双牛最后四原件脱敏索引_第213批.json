@@ -1,0 +1,57 @@
+{
+  "batch": 213,
+  "date": "2026-10-19",
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%8F%8C%E7%89%9B",
+  "sourceProgramUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%8F%8C%E7%89%9B/%E7%89%9B%E9%A1%BF%E7%8E%AF%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E7%A8%8B%E5%BA%8F",
+  "selectedRawPaths": 4,
+  "selectedRawBytes": 10458835,
+  "uniqueSHA": 4,
+  "sameSHAExisting674": 0,
+  "items": [
+    {
+      "sourceLabel": "末件1（原名只私有映射）",
+      "sourceDirectory": "物理类/物理实验/双牛/牛顿环图像处理程序",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/双牛末件与软件文件限定闭环_第213批/软件原样文件组_未运行",
+      "bytes": 231,
+      "sha256": "1efcad2f3e71d643f0e1910dc8f69fec801579754cc65671a1be20cb00215141",
+      "role": "牛顿环软件说明TXT只读，提及BMP定标和图像处理用法，未按说明运行；作者/年份/许可未核",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "末件2（原名只私有映射）",
+      "sourceDirectory": "物理类/物理实验/双牛/牛顿环图像处理程序",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/双牛末件与软件文件限定闭环_第213批/软件原样文件组_未运行",
+      "bytes": 2138181,
+      "sha256": "09f2223049ba4a53f926fa30dd6a87a2fa7bd1e7cf9aab5937bbf9e7f0cfffeb",
+      "role": "既有PE程序，仅MZ/PE头、尺寸和SHA，不加载运行、不认安全或兼容/许可已核",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "末件3（原名只私有映射）",
+      "sourceDirectory": "物理类/物理实验/双牛/牛顿环图像处理程序",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/双牛末件与软件文件限定闭环_第213批/软件原样文件组_未运行",
+      "bytes": 510375,
+      "sha256": "706d13ec72b24cc9bcb16d8da663adf62c15fb8cbe8e2d592f0e76d424081246",
+      "role": "既有CHM帮助，仅ITSF文件头、尺寸和SHA，不打开帮助或解包执行HTML",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "末件4（原名只私有映射）",
+      "sourceDirectory": "物理类/物理实验/双牛",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/双牛末件与软件文件限定闭环_第213批/已填身份的双实验报告来源稿",
+      "bytes": 7810048,
+      "sha256": "62c0f6b0407f8d893e2480a77c7832626df2220ba836d0367516431a163df3fc",
+      "role": "源名封面但实际含双实验报告主文字及已填身份，不认仅封面；图片未全视觉审读",
+      "identityConfirmed": true,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    }
+  ],
+  "policy": "全部raw私有；软件原名同目录成组保留，不运行/不认安全许可；1身份exact候选，unknown3不泛删。私人值/身份原名/本机绝对路径不公开。"
+}
