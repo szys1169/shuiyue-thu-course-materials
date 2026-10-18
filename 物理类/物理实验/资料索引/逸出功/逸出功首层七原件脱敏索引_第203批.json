@@ -1,0 +1,94 @@
+{
+  "batch": 203,
+  "date": "2026-10-19",
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E9%80%B8%E5%87%BA%E5%8A%9F",
+  "oldTargetUrl": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E9%80%B8%E5%87%BA%E5%8A%9F",
+  "sourceFirstLevelRaw": 7,
+  "sourceFirstLevelFolders": 1,
+  "selectedRawPaths": 7,
+  "selectedRawBytes": 1103171,
+  "uniqueSHA": 7,
+  "sameSHAExisting616": 0,
+  "remainingOldTargetRawFiles": 0,
+  "protectedUnexaminedFolders": 1,
+  "items": [
+    {
+      "sourceLabel": "首层原件1（原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/逸出功",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/逸出功首层报告与表格来源_第203批/已填身份的报告来源稿",
+      "bytes": 153088,
+      "sha256": "5614c6d97ae3631b8ffd438eda7c08c2a19d3cc7a5d76eb35c625fecef0f6af5",
+      "role": "正文/页脚已填个人身份的逸出功报告来源稿，不认正式提交或教师答案",
+      "identityConfirmed": true,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "首层原件2（原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/逸出功",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/逸出功首层报告与表格来源_第203批/已填身份的报告来源稿",
+      "bytes": 223744,
+      "sha256": "31fa6342f9c25e306d718348fb5d2aa9fe6511e669aa13c971ef737602e920ee",
+      "role": "正文/页脚已填个人身份的逸出功报告来源稿，不认正式提交或教师答案",
+      "identityConfirmed": true,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "首层原件3（原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/逸出功",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/逸出功首层报告与表格来源_第203批/已填身份的预习PDF来源稿",
+      "bytes": 169795,
+      "sha256": "5cebc036206c437bc841303a3410732da0760700061963b1a5951dc8b194273c",
+      "role": "3页页眉已填个人身份的逸出功预习/记录表稿，主要数据表空白，不认教师空白讲义",
+      "identityConfirmed": true,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "首层原件4（原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/逸出功",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/逸出功首层报告与表格来源_第203批/已填身份的报告来源稿",
+      "bytes": 388608,
+      "sha256": "41227325feb8af67f6232438da0609dc5d4bb60be4ec7db7a5fe8f1e0e9acc4e",
+      "role": "正文/页脚已填个人身份的逸出功报告来源稿，不认正式提交或教师答案",
+      "identityConfirmed": true,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "首层原件5（原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/逸出功",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/逸出功首层报告与表格来源_第203批/同单元格不同字节的表格来源变体",
+      "bytes": 20480,
+      "sha256": "c7ed16c784a9ed0a41ccf6ab673a975d5264e44fbd0f789bd57b706bac697589",
+      "role": "只读数值表含lgIe、温度及倒数等技术标签；两表解析单元格相同而SHA不同，全部保留，不认文件字节相同或官方数据",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "首层原件6（原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/逸出功",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/逸出功首层报告与表格来源_第203批/已填身份的报告来源稿",
+      "bytes": 126976,
+      "sha256": "06f33bf6f7cffb77043f29070cf4cb964b42c35f1a8ae95414df958bdbf17276",
+      "role": "正文/页脚已填个人身份的逸出功报告来源稿，不认正式提交或教师答案",
+      "identityConfirmed": true,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "首层原件7（原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/逸出功",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/逸出功首层报告与表格来源_第203批/同单元格不同字节的表格来源变体",
+      "bytes": 20480,
+      "sha256": "88ba798e1846a586930d45a8574f8955efb0908b95d8aacbd4fb673c0ecfce6f",
+      "role": "只读数值表含lgIe、温度及倒数等技术标签；两表解析单元格相同而SHA不同，全部保留，不认文件字节相同或官方数据",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    }
+  ],
+  "policy": "全文原件私有；5身份exact候选，未知2不泛删；两XLS同解析单元格不等于同原件字节，保两SHA。私人值/原名/本机绝对路径不公开，附图子目录未递归。"
+}
