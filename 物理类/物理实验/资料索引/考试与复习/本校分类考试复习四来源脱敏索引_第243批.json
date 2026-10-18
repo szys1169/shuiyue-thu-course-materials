@@ -1,0 +1,59 @@
+{
+  "batch": 243,
+  "date": "2026-10-19",
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E8%80%83%E8%AF%95%E7%9B%B8%E5%85%B3/%E6%B8%85%E5%8D%8E%E6%9C%AC%E6%A0%A1%E8%B5%84%E6%96%99",
+  "oldTargetUrl": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E8%80%83%E8%AF%95%E7%9B%B8%E5%85%B3/%E6%B8%85%E5%8D%8E%E6%9C%AC%E6%A0%A1%E8%B5%84%E6%96%99",
+  "sourcePaths": 4,
+  "sourceBytes": 2101123,
+  "uniqueSHA": 4,
+  "childDirectories": 0,
+  "sameSHAExisting856": 0,
+  "remainingOldRawPaths": 0,
+  "items": [
+    {
+      "sourceLabel": "来源路径1（精确原名仅私有）",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/考试相关/清华本校资料",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/本校分类考试与复习来源四附件_第243批/复习整理_含部分解答",
+      "bytes": 299987,
+      "sha256": "ca31bb71d5a9c9b1a64dbb9201a984a4f4a94bc301af0a25a626b307f0e2b9e4",
+      "role": "普通物理实验复习题/解释与部分答案整理，7,080主文字字符、125内嵌公式/图媒体，3外部超链接关系未跟随，部分缺图/公式显示及答案未独立核验，不认教师标准答案或官方完整题库；未全部版式视觉净审",
+      "identityConfirmed": false,
+      "sourceOldTargetEqual": true,
+      "publicRaw": false
+    },
+    {
+      "sourceLabel": "来源路径2（精确原名仅私有）",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/考试相关/清华本校资料",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/本校分类考试与复习来源四附件_第243批/私人署名回忆稿",
+      "bytes": 29184,
+      "sha256": "886044d494ac1461775cbcb2fa6fc8211d61f53fd45aaadb1d17602edec534c1",
+      "role": "往届考题回忆与个人备考经验稿，正文实际私人署名及课堂经历，不转录人名/原话，不认正式卷或必考预测，具体学期未核，原文要求未作为操作指令",
+      "identityConfirmed": true,
+      "sourceOldTargetEqual": true,
+      "publicRaw": false
+    },
+    {
+      "sourceLabel": "来源路径3（精确原名仅私有）",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/考试相关/清华本校资料",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/本校分类考试与复习来源四附件_第243批/三号卷练习照片_裁边",
+      "bytes": 373568,
+      "sha256": "218c5f79e25504032075291381dcda769fc81ed308e7b4b5346fa9c7721d642f",
+      "role": "DOCX主要内容为单JPEG1600×1200照片：普通物理实验练习3号卷，闭卷20分，已见身份/答题区空；下缘有裁边，不能认完整题集/全卷，年份与来源单位未核，原照片保持",
+      "identityConfirmed": false,
+      "sourceOldTargetEqual": true,
+      "publicRaw": false
+    },
+    {
+      "sourceLabel": "来源路径4（精确原名仅私有）",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/考试相关/清华本校资料",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/本校分类考试与复习来源四附件_第243批/卷面08秋测验照片_来源单位未核",
+      "bytes": 1398384,
+      "sha256": "f880c62f25c3974d5cb720c40a48f0d062f50004891046a30397acc6434ae4ac",
+      "role": "DOCX主要内容为单JPEG2418×1813照片，卷面写08秋物理实验测验试卷共20分，已见身份/答题区空，照片折痕/阴影保留；只记录08秋卷面原证，不推完整全年或官方来源单位，非附答案卷",
+      "identityConfirmed": false,
+      "sourceOldTargetEqual": true,
+      "publicRaw": false
+    }
+  ],
+  "policy": "全部raw/privateREADME/XML OLE/两JPEG/私人原文及精确原名映射仅私有，不抄个人署名/课堂原话/本机绝对路径。1已证身份exact候选，unknown3不泛删。08秋仅卷面原证、来源本校目录不是官方证明，不认完整练习集/教师标准答案；未执行宏字段嵌入或访问3外部超链接。"
+}
