@@ -1,0 +1,45 @@
+{
+  "batch": 103,
+  "scope": "旧子目录4历史学生报告，非正式实验指导",
+  "sourceLibrary": "6f4b1cfc-208b-4b3f-b2ac-bac77f97246f",
+  "sourceDirectory": "物理类/物理实验",
+  "rawPublic": false,
+  "items": [
+    {
+      "name": "声光效应实验.pdf",
+      "category": "声光",
+      "role": "历史已填学生报告",
+      "pages": 15,
+      "bytes": 855910,
+      "sha256": "b73a85cdb25f8b40cc2b955183ae7a3189eaa75554eee3a664a8a290824ff3b9",
+      "rawPublic": false
+    },
+    {
+      "name": "霍尔效应实验.pdf",
+      "category": "霍尔",
+      "role": "历史已填学生报告",
+      "pages": 7,
+      "bytes": 166728,
+      "sha256": "0068bf4a2af9057e6e68e33d3331414abe960f5fb70b12896e7e8fe871f1c07f",
+      "rawPublic": false
+    },
+    {
+      "name": "双棱镜干涉实验、用牛顿环测曲率半径.pdf",
+      "category": "牛顿环_两版本",
+      "role": "历史已填学生报告",
+      "pages": 4,
+      "bytes": 216544,
+      "sha256": "639afdbea567a87a3ca8af9325ebc55c9462767ac6d5946500b4dc7f60023b71",
+      "rawPublic": false
+    },
+    {
+      "name": "用牛顿环测曲率半径.pdf",
+      "category": "牛顿环_两版本",
+      "role": "历史预习报告",
+      "pages": 8,
+      "bytes": 171591,
+      "sha256": "378d00859fc5252424197866e97a0e675ff860ec80d22fa56c66f2f11e35eeae",
+      "rawPublic": false
+    }
+  ]
+}
