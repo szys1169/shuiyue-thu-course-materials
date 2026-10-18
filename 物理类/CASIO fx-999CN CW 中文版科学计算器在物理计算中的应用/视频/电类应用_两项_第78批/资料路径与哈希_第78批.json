@@ -1,0 +1,55 @@
+{
+  "batch": 78,
+  "source": "物理资料库6f4同名计算器应用目录",
+  "target": "水月的资料5ba原有对应副本",
+  "operation": "源只读；目标同库服务器移动，原名原字节保留",
+  "author": "未核",
+  "teacher": "未核",
+  "date": "未核",
+  "term": "未核",
+  "publicRaw": false,
+  "videoReupload": 0,
+  "zipUpload": 0,
+  "files": [
+    {
+      "name": "CASIO fx-999CN CW中文版科学计算器电路原理解题应用.mp4",
+      "bytes": 205306395,
+      "sha256": "e2aa270947a615dbf7a3acb641a061c4b40d5c2f42af05203f39ba5567c1b669",
+      "sourceOldTargetEqual": true,
+      "fps": 30.0,
+      "frames": 33863.0,
+      "durationSeconds": 1128.7666666666667,
+      "width": 1920.0,
+      "height": 1080.0,
+      "fourcc": 875967080,
+      "samples": [
+        0,
+        60,
+        564.3833333333333
+      ],
+      "fullVideoWatched": false,
+      "oldCourseRelativePath": "CASIO fx-999CN CW中文版科学计算器电路原理解题应用.mp4",
+      "finalCourseRelativePath": "视频/电类应用_两项_第78批/CASIO fx-999CN CW中文版科学计算器电路原理解题应用.mp4"
+    },
+    {
+      "name": "卡西欧fx-999CNCW计算器在电工学解题中的应用.mp4",
+      "bytes": 114292119,
+      "sha256": "febb9a217bb117eca1c8479708af2e6aa87d491223ca5ecb38b51c3fa6bca4c0",
+      "sourceOldTargetEqual": true,
+      "fps": 30.0,
+      "frames": 20675.0,
+      "durationSeconds": 689.1666666666666,
+      "width": 3826.0,
+      "height": 2160.0,
+      "fourcc": 875967080,
+      "samples": [
+        0,
+        60,
+        344.5833333333333
+      ],
+      "fullVideoWatched": false,
+      "oldCourseRelativePath": "卡西欧fx-999CNCW计算器在电工学解题中的应用.mp4",
+      "finalCourseRelativePath": "视频/电类应用_两项_第78批/卡西欧fx-999CNCW计算器在电工学解题中的应用.mp4"
+    }
+  ]
+}
