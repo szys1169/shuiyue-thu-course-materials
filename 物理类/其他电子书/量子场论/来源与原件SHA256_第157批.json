@@ -1,0 +1,76 @@
+{
+  "batch": 157,
+  "date": "2026-10-19",
+  "scope": "3/12本；其余9原位，未闭环",
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E9%87%8F%E5%AD%90%E5%9C%BA%E8%AE%BA",
+  "items": [
+    {
+      "name": "Mehran Kardar - Statistical Physics of Fields (2012, Cambridge University Press) - libgen.lc.pdf",
+      "bytes": 2223884,
+      "sha256": "fbb7d6b3a653dc74ba37e9d762b55c0019c26f9c32ab06622b198220ed430cfa",
+      "pages": 370,
+      "annotations": 0,
+      "formFields": 0,
+      "attachments": 0,
+      "source": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E9%87%8F%E5%AD%90%E5%9C%BA%E8%AE%BA",
+      "oldTarget": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E9%87%8F%E5%AD%90%E5%9C%BA%E8%AE%BA",
+      "oldPath": "物理类/其他电子书/量子场论/Mehran Kardar - Statistical Physics of Fields (2012, Cambridge University Press) - libgen.lc.pdf",
+      "finalPath": "物理类/热力学与统计物理/教材/Kardar_StatisticalPhysicsOfFields_2007_2012印次_第157批/_过程材料/私有原件/Mehran Kardar - Statistical Physics of Fields (2012, Cambridge University Press) - libgen.lc.pdf",
+      "role": "整部参考书，非课程指定教材或作业",
+      "publicRaw": false,
+      "title": "Statistical Physics of Fields",
+      "authors": [
+        "Mehran Kardar"
+      ],
+      "editionEvidence": "文件页4题名，文件页5版权/首次出版2007、第五次印刷2012。来源名2012是印次证据。",
+      "boundary": "与第136批Statistical Physics of Particles题名不同，不按作者合并。"
+    },
+    {
+      "name": "Jørgen Rammer - Quantum Field Theory of Non-equilibrium States (2007).pdf",
+      "bytes": 4593447,
+      "sha256": "4c35746ba419aa9771a00f3fc12afb3ffaf5cd5621b912e635e491c7ce787c24",
+      "pages": 552,
+      "annotations": 25,
+      "formFields": 0,
+      "attachments": 0,
+      "source": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E9%87%8F%E5%AD%90%E5%9C%BA%E8%AE%BA",
+      "oldTarget": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E9%87%8F%E5%AD%90%E5%9C%BA%E8%AE%BA",
+      "oldPath": "物理类/其他电子书/量子场论/Jørgen Rammer - Quantum Field Theory of Non-equilibrium States (2007).pdf",
+      "finalPath": "物理类/量子场论/专题参考/凝聚态与非平衡来源参考_第157批/_过程材料/私有原件/Jørgen Rammer - Quantum Field Theory of Non-equilibrium States (2007).pdf",
+      "role": "整部参考书，非课程指定教材或作业",
+      "publicRaw": false,
+      "title": "Quantum Field Theory of Non-equilibrium States",
+      "authors": [
+        "Jørgen Rammer"
+      ],
+      "editionEvidence": "文件页5题名，页6版权/首次出版2007，Cambridge University Press。",
+      "annotationsNote": "23 Underline、2 Highlight；25个署名字段非空，内容字段为空；不转录字段值、不推定批注者身份。原注释保持。"
+    },
+    {
+      "name": "Altland Alexander, Simons Ben D. - Condensed Matter Field Theory, Second Edition (2010, Cambridge University Press) - libgen.lc.pdf",
+      "bytes": 7475523,
+      "sha256": "349ef1fb81970e7a342aaa1ab6b333cba8b0a8cc80fff84f1db2ffae8fbb5bb0",
+      "pages": 786,
+      "annotations": 0,
+      "formFields": 0,
+      "attachments": 0,
+      "source": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E9%87%8F%E5%AD%90%E5%9C%BA%E8%AE%BA",
+      "oldTarget": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E9%87%8F%E5%AD%90%E5%9C%BA%E8%AE%BA",
+      "oldPath": "物理类/其他电子书/量子场论/Altland Alexander, Simons Ben D. - Condensed Matter Field Theory, Second Edition (2010, Cambridge University Press) - libgen.lc.pdf",
+      "finalPath": "物理类/量子场论/专题参考/凝聚态与非平衡来源参考_第157批/_过程材料/私有原件/Altland Alexander, Simons Ben D. - Condensed Matter Field Theory, Second Edition (2010, Cambridge University Press) - libgen.lc.pdf",
+      "role": "整部参考书，非课程指定教材或作业",
+      "publicRaw": false,
+      "title": "Condensed Matter Field Theory",
+      "authors": [
+        "Alexander Altland",
+        "Ben Simons"
+      ],
+      "editionEvidence": "文件页5题名第二版，页6版权/首次印刷2010，Cambridge University Press；本件未见2013第五印次。",
+      "comparison107": {
+        "bytes": 8805737,
+        "sha256": "02afa11f9fa30fd19a96290139527b3aba6eced9a2e2abb2554ff45ebe5552cf",
+        "result": "与本件不同SHA，保独立来源变体；不判新旧、不同版或逐页相同。"
+      }
+    }
+  ]
+}
