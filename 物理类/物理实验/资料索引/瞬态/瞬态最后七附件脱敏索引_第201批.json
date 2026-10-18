@@ -1,0 +1,90 @@
+{
+  "batch": 201,
+  "date": "2026-10-19",
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E7%9E%AC%E6%80%81",
+  "oldTargetUrl": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E7%9E%AC%E6%80%81",
+  "selectedRawPaths": 7,
+  "selectedRawBytes": 2904738,
+  "uniqueSHA": 7,
+  "sameSHAExisting604": 0,
+  "items": [
+    {
+      "sourceLabel": "末件1（原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/瞬态",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/瞬态末件与十六来源路径闭环_第201批/已填身份的报告与预习来源稿",
+      "bytes": 60928,
+      "sha256": "5dbecf62394b8ad2460a9027d8789763b31004216fd1604084a2f9e5d858a66f",
+      "role": "正文或页脚填写个人身份的瞬态报告/预习来源稿，不认实际提交凭据；源名Final不能当102指导新版",
+      "identityConfirmed": true,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "末件2（原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/瞬态",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/瞬态末件与十六来源路径闭环_第201批/已填身份的报告与预习来源稿",
+      "bytes": 89600,
+      "sha256": "414e49598c4f00c2245968a9837ee333d955c107849299737b598cc777ad2935",
+      "role": "正文或页脚填写个人身份的瞬态报告/预习来源稿，不认实际提交凭据；源名Final不能当102指导新版",
+      "identityConfirmed": true,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "末件3（原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/瞬态",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/瞬态末件与十六来源路径闭环_第201批/主题未核数值表",
+      "bytes": 15872,
+      "sha256": "6b86af538514d23c8da1dfcf3da5dcbb8b2cef1ac3b6029caa74297d5afffb84",
+      "role": "只读21个非空数值，未见主题文字，课程归属与作者未核，不运行公式",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "末件4（原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/瞬态",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/瞬态末件与十六来源路径闭环_第201批/已填身份的报告与预习来源稿",
+      "bytes": 657408,
+      "sha256": "d9b98b0f5d8449203fa85113ea7adfa447fcd079a56f40b8a6e456495b96c2b2",
+      "role": "正文或页脚填写个人身份的瞬态报告/预习来源稿，不认实际提交凭据；源名Final不能当102指导新版",
+      "identityConfirmed": true,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "末件5（原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/瞬态",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/瞬态末件与十六来源路径闭环_第201批/错置技术文章_归属待核",
+      "bytes": 163328,
+      "sha256": "4c5a59ff821edd3c28ecd4c60ad9fcf21a92d44c4a698db711f0f9906c1e1145",
+      "role": "正文为用RealSystem IQ架设流媒体网站的技术文章，源名与内容错置；含INCLUDEPICTURE外链未跟随，不当瞬态资料",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "末件6（原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/瞬态",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/瞬态末件与十六来源路径闭环_第201批/已填身份的报告与预习来源稿",
+      "bytes": 1917440,
+      "sha256": "49c5f66932a6db25a76e789e858eb29f3ac997e5bf18bfcbd82480dd62aae51d",
+      "role": "正文或页脚填写个人身份的瞬态报告/预习来源稿，不认实际提交凭据；源名Final不能当102指导新版",
+      "identityConfirmed": true,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "末件7（原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/瞬态",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/瞬态末件与十六来源路径闭环_第201批/临时管理残件_只核头与哈希",
+      "bytes": 162,
+      "sha256": "cad167760bc9b5345c2f5c964c0ae3ed5153703b293ce1938c79c19a7ffca610",
+      "role": "162B临时文件，仅header/hash，不解码真实身份、不打开Office",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    }
+  ],
+  "policy": "全原件私有；4身份exact候选，未知3不泛删；私人原名/身份值/管理头解码值/本机绝对路径不公开。"
+}

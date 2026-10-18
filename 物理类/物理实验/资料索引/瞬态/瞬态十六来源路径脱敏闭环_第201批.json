@@ -1,0 +1,191 @@
+{
+  "batch": 201,
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E7%9E%AC%E6%80%81",
+  "stats": {
+    "sourcePaths": 16,
+    "uniqueSHA": 16,
+    "rawBytesIncludingAliases": 5391236,
+    "historicalSourceCloudEvidencePaths": 9,
+    "currentFreshSourceOldTargetPaths": 7,
+    "all16FreshLocalSHA": true,
+    "boundary": "仅瞬态来源路径迁移闭环；历史102一份+199八份复用各批源/旧/最终证据，本批201七份fresh；非16本批重下，不扩大到全实验课或所有正文已核净"
+  },
+  "items": [
+    {
+      "sourceLabel": "来源路径1",
+      "evidenceBatch": 102,
+      "bytes": 1890304,
+      "sha256": "0b8f33ba2c01989cb0c30433c83a312e8464801e3508e40eb50e265b8902650a",
+      "finalGroupDirectory": "物理类/物理实验/讲义/数字存储示波器与瞬态信号测量_作者年份未核_第102批",
+      "freshLocalPass": true,
+      "sourceOldTargetSHAConfirmed": true,
+      "cloudEvidenceBoundary": "历史第102批回取证据，本批未重下载",
+      "privateOriginalNameMapping": true
+    },
+    {
+      "sourceLabel": "来源路径2",
+      "evidenceBatch": 199,
+      "bytes": 75776,
+      "sha256": "c99565961a9bd60dd323c04ebee7a4b3262ef8b55ec3b2870ad2eb2ecf8c36b0",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/瞬态实验报告与预习来源稿_第199批/正文身份已填的报告来源稿",
+      "freshLocalPass": true,
+      "sourceOldTargetSHAConfirmed": true,
+      "cloudEvidenceBoundary": "历史第199批回取证据，本批未重下载",
+      "privateOriginalNameMapping": true
+    },
+    {
+      "sourceLabel": "来源路径3",
+      "evidenceBatch": 199,
+      "bytes": 37376,
+      "sha256": "442f787860c67eee0d5bcbcd4a92aa1bef7a8f0c00c42c0bd4719027bf22671f",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/瞬态实验报告与预习来源稿_第199批/空白记录表来源变体",
+      "freshLocalPass": true,
+      "sourceOldTargetSHAConfirmed": true,
+      "cloudEvidenceBoundary": "历史第199批回取证据，本批未重下载",
+      "privateOriginalNameMapping": true
+    },
+    {
+      "sourceLabel": "来源路径4",
+      "evidenceBatch": 199,
+      "bytes": 34304,
+      "sha256": "8f4ee236361ced9825ac360107f3384df61408536b45fd42ecc87e4b30c3e2f1",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/瞬态实验报告与预习来源稿_第199批/空白记录表来源变体",
+      "freshLocalPass": true,
+      "sourceOldTargetSHAConfirmed": true,
+      "cloudEvidenceBoundary": "历史第199批回取证据，本批未重下载",
+      "privateOriginalNameMapping": true
+    },
+    {
+      "sourceLabel": "来源路径5",
+      "evidenceBatch": 199,
+      "bytes": 214242,
+      "sha256": "810dead9d9a2076379b5f569b329cb3e3d67dbbf900a773094daefea13b87073",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/瞬态实验报告与预习来源稿_第199批/正文身份已填的报告来源稿",
+      "freshLocalPass": true,
+      "sourceOldTargetSHAConfirmed": true,
+      "cloudEvidenceBoundary": "历史第199批回取证据，本批未重下载",
+      "privateOriginalNameMapping": true
+    },
+    {
+      "sourceLabel": "来源路径6",
+      "evidenceBatch": 199,
+      "bytes": 79360,
+      "sha256": "466947a42088dd4acfa07892dc43137874b478d81d32467e18928069b690bd8b",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/瞬态实验报告与预习来源稿_第199批/身份未核的填写稿与原理资料",
+      "freshLocalPass": true,
+      "sourceOldTargetSHAConfirmed": true,
+      "cloudEvidenceBoundary": "历史第199批回取证据，本批未重下载",
+      "privateOriginalNameMapping": true
+    },
+    {
+      "sourceLabel": "来源路径7",
+      "evidenceBatch": 199,
+      "bytes": 40960,
+      "sha256": "fb7b4325adcd6ae9073aed7b0fe71dfb1ada99a7de024a907f2608782d874e71",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/瞬态实验报告与预习来源稿_第199批/身份未核的填写稿与原理资料",
+      "freshLocalPass": true,
+      "sourceOldTargetSHAConfirmed": true,
+      "cloudEvidenceBoundary": "历史第199批回取证据，本批未重下载",
+      "privateOriginalNameMapping": true
+    },
+    {
+      "sourceLabel": "来源路径8",
+      "evidenceBatch": 199,
+      "bytes": 61440,
+      "sha256": "f102fb28f0f51aa3a54e0c613d2422e54c2e877327da266ae44e97500d094c32",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/瞬态实验报告与预习来源稿_第199批/正文身份已填的报告来源稿",
+      "freshLocalPass": true,
+      "sourceOldTargetSHAConfirmed": true,
+      "cloudEvidenceBoundary": "历史第199批回取证据，本批未重下载",
+      "privateOriginalNameMapping": true
+    },
+    {
+      "sourceLabel": "来源路径9",
+      "evidenceBatch": 199,
+      "bytes": 52736,
+      "sha256": "2b02bba51565e854d27eb4fc80343c3bddbdefaf23bfa39c9ea91e1a6c178180",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/瞬态实验报告与预习来源稿_第199批/身份未核的填写稿与原理资料",
+      "freshLocalPass": true,
+      "sourceOldTargetSHAConfirmed": true,
+      "cloudEvidenceBoundary": "历史第199批回取证据，本批未重下载",
+      "privateOriginalNameMapping": true
+    },
+    {
+      "sourceLabel": "来源路径10",
+      "evidenceBatch": 201,
+      "bytes": 60928,
+      "sha256": "5dbecf62394b8ad2460a9027d8789763b31004216fd1604084a2f9e5d858a66f",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/瞬态末件与十六来源路径闭环_第201批/已填身份的报告与预习来源稿",
+      "freshLocalPass": true,
+      "sourceOldTargetSHAConfirmed": true,
+      "cloudEvidenceBoundary": "本批201fresh回取",
+      "privateOriginalNameMapping": true
+    },
+    {
+      "sourceLabel": "来源路径11",
+      "evidenceBatch": 201,
+      "bytes": 89600,
+      "sha256": "414e49598c4f00c2245968a9837ee333d955c107849299737b598cc777ad2935",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/瞬态末件与十六来源路径闭环_第201批/已填身份的报告与预习来源稿",
+      "freshLocalPass": true,
+      "sourceOldTargetSHAConfirmed": true,
+      "cloudEvidenceBoundary": "本批201fresh回取",
+      "privateOriginalNameMapping": true
+    },
+    {
+      "sourceLabel": "来源路径12",
+      "evidenceBatch": 201,
+      "bytes": 15872,
+      "sha256": "6b86af538514d23c8da1dfcf3da5dcbb8b2cef1ac3b6029caa74297d5afffb84",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/瞬态末件与十六来源路径闭环_第201批/主题未核数值表",
+      "freshLocalPass": true,
+      "sourceOldTargetSHAConfirmed": true,
+      "cloudEvidenceBoundary": "本批201fresh回取",
+      "privateOriginalNameMapping": true
+    },
+    {
+      "sourceLabel": "来源路径13",
+      "evidenceBatch": 201,
+      "bytes": 657408,
+      "sha256": "d9b98b0f5d8449203fa85113ea7adfa447fcd079a56f40b8a6e456495b96c2b2",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/瞬态末件与十六来源路径闭环_第201批/已填身份的报告与预习来源稿",
+      "freshLocalPass": true,
+      "sourceOldTargetSHAConfirmed": true,
+      "cloudEvidenceBoundary": "本批201fresh回取",
+      "privateOriginalNameMapping": true
+    },
+    {
+      "sourceLabel": "来源路径14",
+      "evidenceBatch": 201,
+      "bytes": 163328,
+      "sha256": "4c5a59ff821edd3c28ecd4c60ad9fcf21a92d44c4a698db711f0f9906c1e1145",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/瞬态末件与十六来源路径闭环_第201批/错置技术文章_归属待核",
+      "freshLocalPass": true,
+      "sourceOldTargetSHAConfirmed": true,
+      "cloudEvidenceBoundary": "本批201fresh回取",
+      "privateOriginalNameMapping": true
+    },
+    {
+      "sourceLabel": "来源路径15",
+      "evidenceBatch": 201,
+      "bytes": 1917440,
+      "sha256": "49c5f66932a6db25a76e789e858eb29f3ac997e5bf18bfcbd82480dd62aae51d",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/瞬态末件与十六来源路径闭环_第201批/已填身份的报告与预习来源稿",
+      "freshLocalPass": true,
+      "sourceOldTargetSHAConfirmed": true,
+      "cloudEvidenceBoundary": "本批201fresh回取",
+      "privateOriginalNameMapping": true
+    },
+    {
+      "sourceLabel": "来源路径16",
+      "evidenceBatch": 201,
+      "bytes": 162,
+      "sha256": "cad167760bc9b5345c2f5c964c0ae3ed5153703b293ce1938c79c19a7ffca610",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/瞬态末件与十六来源路径闭环_第201批/临时管理残件_只核头与哈希",
+      "freshLocalPass": true,
+      "sourceOldTargetSHAConfirmed": true,
+      "cloudEvidenceBoundary": "本批201fresh回取",
+      "privateOriginalNameMapping": true
+    }
+  ]
+}
