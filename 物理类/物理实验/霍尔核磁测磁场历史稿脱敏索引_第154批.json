@@ -1,0 +1,24 @@
+{
+  "batch": 154,
+  "source": "来源：自有物理资料库（6f4b1cfc-208b-4b3f-b2ac-bac77f97246f）物理类/物理实验/核磁共振。水月的资料已有同SHA副本，仅同一私有库内服务器归位；来源库不变。",
+  "scope": "两DOC174592字节、两独立SHA",
+  "rawPublic": false,
+  "roleBoundary": "霍尔效应与核磁共振法测磁场的历史报告及已填部分结果的数据稿，后者也有少量空缺，不认空白表/官方答案；作者、年份、学期及官方性未核。",
+  "reviewBoundary": "只读Word piece-table文字；嵌入Excel、公式、图像未展开执行或完整视觉审查/OCR，不认逐页无身份。",
+  "items": [
+    {
+      "alias": "原件_01_347a476f97.doc",
+      "role": "霍尔效应与核磁共振测磁场历史实验报告，实际身份仅私有",
+      "bytes": 113152,
+      "sha256": "347a476f9772ddb0f18a9ec165c1220b38ffe3175995769abc7b249501be1abe",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_02_10dbefb91c.doc",
+      "role": "霍尔效应与核磁共振测磁场已填数据稿，身份未核",
+      "bytes": 61440,
+      "sha256": "10dbefb91c028e8ab178c5cd299ba894b34104a7fb2514769aaae9e44b25c885",
+      "rawPublic": false
+    }
+  ]
+}
