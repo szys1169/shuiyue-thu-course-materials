@@ -1,0 +1,7 @@
+# Rudin数学分析原理第三版来源（第172批）
+
+本目录原件来自[物理共享库数学来源](https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E6%95%B0%E5%AD%A6)，由本人云盘旧数学副本服务端归位，原名原字节保留。[当前云盘目录](https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%99%E6%9D%90/Rudin%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%E5%8E%9F%E7%90%86%E7%AC%AC%E4%B8%89%E7%89%88%E6%9D%A5%E6%BA%90_%E7%AC%AC172%E6%89%B9)；[对应课程](https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90)。按内容分类，非课程指定教材断言。概率论本地课程名为“概率论”，云盘与仓库沿用“概率论（1）”。
+
+Walter Rudin，Principles of Mathematical Analysis，Third Edition，International Editions 1976。McGraw-Hill版权列1976、1964及旧1953，第三版采用1976；版权页印刷代码不自行解码，实际印次、再印年未核。353解析页，扫描样式主体可读，OCR拼写、数字及数学符号有偏差，精确引用以页图核，不修原字节；isRepaired=false，本次解析无警告。
+
+三来源路径28,219,326字节、1583解析页、3个唯一SHA。数学类同大小PDF精确SHA候选未命中，不声称全盘无重复、不按近题名不同SHA折叠。全页只结构计数，均0 PDF批注、0表单、0嵌入文件；Jaynes内存修复标志为true，另两件false，分别记录。每书首标题版权目录与中尾核心视觉5页，核心共15页，中文另有著译局部放大核字与前后定位；非1583页逐页视觉，不能据结构零计数或样页可读认证全文完整或无个人标记。原名原字节保留，不OCR、不修复重写。整书私有，GitHub只安全来源说明，不上传ZIP。
