@@ -1,0 +1,281 @@
+{
+  "batch": 82,
+  "sourceDirectory": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%BC%95%E5%8A%9B%E7%90%86%E8%AE%BA%E9%80%89%E8%AE%B2",
+  "count": 24,
+  "totalPages": 521,
+  "totalOriginalBytes": 444730896,
+  "school": null,
+  "term": null,
+  "notes": [
+    "原文件Lec3首页标Lecture 3–4",
+    "原文件Lec15首页标Lecture 16；与Lec16不同原件，不改名",
+    "Lec2首页署2022-02-23，不扩展为全组学期",
+    "第79批作业身份范围独立，不根据讲义署名补任课教师"
+  ],
+  "records": [
+    {
+      "path": "讲义/Wei_Song_来源章节系列_学期未核/lec-14-mass-2022.pdf",
+      "bytes": 20039940,
+      "sha256": "837d5d77ab3a7554a44675330855d4f59094a2166832f582ecbe21cfdd6e8786",
+      "pages": 26,
+      "annotations": 0,
+      "visibleByline": "Wei Song",
+      "visibleSeries": "Advanced topics of gravity",
+      "verifiedTerm": null,
+      "sourceName": "lec-14-mass-2022.pdf"
+    },
+    {
+      "path": "讲义/Wei_Song_来源章节系列_学期未核/lec19-2022.pdf",
+      "bytes": 14832570,
+      "sha256": "e339645b40ba233ce1056315afee6fedb2f9246f2233eadfbb24ce3bbd515b1e",
+      "pages": 20,
+      "annotations": 0,
+      "visibleByline": "Wei Song",
+      "visibleSeries": "Advanced topics of gravity",
+      "verifiedTerm": null,
+      "sourceName": "lec19-2022.pdf"
+    },
+    {
+      "path": "讲义/Wei_Song_来源章节系列_学期未核/lec23-2022.pdf",
+      "bytes": 20704532,
+      "sha256": "256e94de449ad50d3659c471805e5e3a6f761e6025fd94e5acd6048ac257481f",
+      "pages": 25,
+      "annotations": 0,
+      "visibleByline": "Wei Song",
+      "visibleSeries": "Advanced topics of gravity",
+      "verifiedTerm": null,
+      "sourceName": "lec23-2022.pdf"
+    },
+    {
+      "path": "讲义/Wei_Song_来源章节系列_学期未核/Lec2-veilbein-2022 2.pdf",
+      "bytes": 22524046,
+      "sha256": "1e1635e7935dc8cc7f8f7d6eb4e2e48f402d666d7429aa2286c61e5240cfc37a",
+      "pages": 25,
+      "annotations": 0,
+      "visibleByline": "Wei Song",
+      "visibleSeries": "Advanced topics of gravity",
+      "verifiedTerm": null,
+      "sourceName": "Lec2-veilbein-2022 2.pdf"
+    },
+    {
+      "path": "讲义/Wei_Song_来源章节系列_学期未核/Lec3-penrose Diagram-2022 2.pdf",
+      "bytes": 18947629,
+      "sha256": "4cac6b98e50c7d16b2b9d49567c8384b4fea46bfef2744e7d68973f9327db5a7",
+      "pages": 24,
+      "annotations": 0,
+      "visibleByline": "Wei Song",
+      "visibleSeries": "Advanced topics of gravity",
+      "verifiedTerm": null,
+      "sourceName": "Lec3-penrose Diagram-2022 2.pdf"
+    },
+    {
+      "path": "讲义/Wei_Song_来源章节系列_学期未核/Lec5-bh1-2022.pdf",
+      "bytes": 28958601,
+      "sha256": "f9acf2e265ef9e49a1159d26dadcc3da4e2d1890c9e06c7e2c0ef03f0ed00163",
+      "pages": 29,
+      "annotations": 0,
+      "visibleByline": "Wei Song",
+      "visibleSeries": "Advanced topics of gravity",
+      "verifiedTerm": null,
+      "sourceName": "Lec5-bh1-2022.pdf"
+    },
+    {
+      "path": "讲义/Wei_Song_来源章节系列_学期未核/Lec6-schwartzschild-2022.pdf",
+      "bytes": 16980181,
+      "sha256": "107521948beb34d2591bb2aa2d4ee037cf7a9bc7425a5ee63b6d1b427c5ba06f",
+      "pages": 18,
+      "annotations": 0,
+      "visibleByline": "Wei Song",
+      "visibleSeries": "Advanced topics of gravity",
+      "verifiedTerm": null,
+      "sourceName": "Lec6-schwartzschild-2022.pdf"
+    },
+    {
+      "path": "讲义/Wei_Song_来源章节系列_学期未核/Lec7-0th Law-2022.pdf",
+      "bytes": 10315719,
+      "sha256": "ad064c6fc44999b4760cdc9d5dedade02649bd2cece5ad58c89d1bdbf7680874",
+      "pages": 16,
+      "annotations": 0,
+      "visibleByline": "Wei Song",
+      "visibleSeries": "Advanced topics of gravity",
+      "verifiedTerm": null,
+      "sourceName": "Lec7-0th Law-2022.pdf"
+    },
+    {
+      "path": "讲义/Wei_Song_来源章节系列_学期未核/Lec8-causal Structure-2022.pdf",
+      "bytes": 16041045,
+      "sha256": "549b0ee907ba7def2fda7d26cdf264ede098530c024a67e990e6967aab8006f0",
+      "pages": 18,
+      "annotations": 0,
+      "visibleByline": "Wei Song",
+      "visibleSeries": "Advanced topics of gravity",
+      "verifiedTerm": null,
+      "sourceName": "Lec8-causal Structure-2022.pdf"
+    },
+    {
+      "path": "讲义/Wei_Song_来源章节系列_学期未核/Lec9 Causal Conditioning-2022.pdf",
+      "bytes": 18981225,
+      "sha256": "a733d669c024424e77eb41fa7f53df6ad5174738357264435345ced16637cba0",
+      "pages": 19,
+      "annotations": 0,
+      "visibleByline": "Wei Song",
+      "visibleSeries": "Advanced topics of gravity",
+      "verifiedTerm": null,
+      "sourceName": "Lec9 Causal Conditioning-2022.pdf"
+    },
+    {
+      "path": "讲义/Wei_Song_来源章节系列_学期未核/Lec10-Energy Conditions-2022.pdf",
+      "bytes": 22367168,
+      "sha256": "c18a9e22f0554a4a4567bff3d99d0b4226611a5050f91282c6d3844ed07dc6d6",
+      "pages": 23,
+      "annotations": 0,
+      "visibleByline": "Wei Song",
+      "visibleSeries": "Advanced topics of gravity",
+      "verifiedTerm": null,
+      "sourceName": "Lec10-Energy Conditions-2022.pdf"
+    },
+    {
+      "path": "讲义/Wei_Song_来源章节系列_学期未核/Lec11-singularity+theorem-2022.pdf",
+      "bytes": 24128204,
+      "sha256": "f9a842757ca4c0a3a6f2cc35cfbf0eb0a8648f58ce798fedf6b7b36d7feefed2",
+      "pages": 24,
+      "annotations": 0,
+      "visibleByline": "Wei Song",
+      "visibleSeries": "Advanced topics of gravity",
+      "verifiedTerm": null,
+      "sourceName": "Lec11-singularity+theorem-2022.pdf"
+    },
+    {
+      "path": "讲义/Wei_Song_来源章节系列_学期未核/Lec12-cosmic+censorship2022.pdf",
+      "bytes": 22114448,
+      "sha256": "5507795e4c02c5b80de1586d6757e4c386ada9bd08110c537b46e308a3b1c22d",
+      "pages": 24,
+      "annotations": 0,
+      "visibleByline": "Wei Song",
+      "visibleSeries": "Advanced topics of gravity",
+      "verifiedTerm": null,
+      "sourceName": "Lec12-cosmic+censorship2022.pdf"
+    },
+    {
+      "path": "讲义/Wei_Song_来源章节系列_学期未核/Lec13-topological+Censorship-2022+.pdf",
+      "bytes": 16491291,
+      "sha256": "f6fc8c2154955aacf784e64daaccb9038d7fe1e28b16397d9a62553eb44909aa",
+      "pages": 18,
+      "annotations": 0,
+      "visibleByline": "Wei Song",
+      "visibleSeries": "Advanced topics of gravity",
+      "verifiedTerm": null,
+      "sourceName": "Lec13-topological+Censorship-2022+.pdf"
+    },
+    {
+      "path": "讲义/Wei_Song_来源章节系列_学期未核/Lec15-2022.pdf",
+      "bytes": 11105670,
+      "sha256": "7b4b901a803e42680f0129670f628db5ad4cde40077696553bd902024c59c881",
+      "pages": 13,
+      "annotations": 0,
+      "visibleByline": "Wei Song",
+      "visibleSeries": "Advanced topics of gravity",
+      "verifiedTerm": null,
+      "sourceName": "Lec15-2022.pdf"
+    },
+    {
+      "path": "讲义/Wei_Song_来源章节系列_学期未核/Lec16-2022.pdf",
+      "bytes": 13705431,
+      "sha256": "8c9546be4986cbf436e50b21aba7c6ff897457ac09721e2b733e28aa696ff228",
+      "pages": 15,
+      "annotations": 0,
+      "visibleByline": "Wei Song",
+      "visibleSeries": "Advanced topics of gravity",
+      "verifiedTerm": null,
+      "sourceName": "Lec16-2022.pdf"
+    },
+    {
+      "path": "讲义/Wei_Song_来源章节系列_学期未核/Lec17-2022.pdf",
+      "bytes": 15015429,
+      "sha256": "bac9ec878b2956aa5f71ab743c79d25dfe8898067b1a184020abebb4b77f5b50",
+      "pages": 18,
+      "annotations": 0,
+      "visibleByline": "Wei Song",
+      "visibleSeries": "Advanced topics of gravity",
+      "verifiedTerm": null,
+      "sourceName": "Lec17-2022.pdf"
+    },
+    {
+      "path": "讲义/Wei_Song_来源章节系列_学期未核/Lec18-2022.pdf",
+      "bytes": 11911197,
+      "sha256": "bde8e64f06aa95fc0e2f2b190efe91b75557c2ae06a9bee7f2bdb6ed456d224d",
+      "pages": 20,
+      "annotations": 0,
+      "visibleByline": "Wei Song",
+      "visibleSeries": "Advanced topics of gravity",
+      "verifiedTerm": null,
+      "sourceName": "Lec18-2022.pdf"
+    },
+    {
+      "path": "讲义/Wei_Song_来源章节系列_学期未核/Lec20-2022.pdf",
+      "bytes": 13078994,
+      "sha256": "4bd50d303bfe93bf3aec1c1bede996dd08b2a430c111087559ee8717458ed813",
+      "pages": 17,
+      "annotations": 0,
+      "visibleByline": "Wei Song",
+      "visibleSeries": "Advanced topics of gravity",
+      "verifiedTerm": null,
+      "sourceName": "Lec20-2022.pdf"
+    },
+    {
+      "path": "讲义/Wei_Song_来源章节系列_学期未核/Lec21-2022.pdf",
+      "bytes": 17691418,
+      "sha256": "534130108679ee5eaa1b83c80846ef81d25cb8ae29374d52ebe54a6c5169dfbd",
+      "pages": 23,
+      "annotations": 0,
+      "visibleByline": "Wei Song",
+      "visibleSeries": "Advanced topics of gravity",
+      "verifiedTerm": null,
+      "sourceName": "Lec21-2022.pdf"
+    },
+    {
+      "path": "讲义/Wei_Song_来源章节系列_学期未核/Lec24-2022.pdf",
+      "bytes": 22956021,
+      "sha256": "e366a5a65ebd5064104dde6df5265374b4a71b634ae1e89a980235f0c1950fea",
+      "pages": 25,
+      "annotations": 0,
+      "visibleByline": "Wei Song",
+      "visibleSeries": "Advanced topics of gravity",
+      "verifiedTerm": null,
+      "sourceName": "Lec24-2022.pdf"
+    },
+    {
+      "path": "讲义/Wei_Song_来源章节系列_学期未核/Lec25-EE-2022.pdf",
+      "bytes": 13123442,
+      "sha256": "5d59896dfaf76f4ab355b41a487bd3c68c75e6207ffb66c958aeb654e85de3bf",
+      "pages": 16,
+      "annotations": 0,
+      "visibleByline": "Wei Song",
+      "visibleSeries": "Advanced topics of gravity",
+      "verifiedTerm": null,
+      "sourceName": "Lec25-EE-2022.pdf"
+    },
+    {
+      "path": "讲义/Wei_Song_来源章节系列_学期未核/Lec26-EE-2022.pdf",
+      "bytes": 39914017,
+      "sha256": "a04a220a316f46e8636671fe58c7231ca05bb0a689c94e38c33d9d3bbcd037fb",
+      "pages": 51,
+      "annotations": 0,
+      "visibleByline": "Wei Song",
+      "visibleSeries": "Advanced topics of gravity",
+      "verifiedTerm": null,
+      "sourceName": "Lec26-EE-2022.pdf"
+    },
+    {
+      "path": "讲义/Wei_Song_来源章节系列_学期未核/Lecture 1.pdf",
+      "bytes": 12802678,
+      "sha256": "c896b7db67792cbaecf3b61dcee30e6ccfdcf499a3017ead7516f0ee2d3313ef",
+      "pages": 14,
+      "annotations": 0,
+      "visibleByline": "Wei Song",
+      "visibleSeries": "Advanced topics of gravity",
+      "verifiedTerm": null,
+      "sourceName": "Lecture 1.pdf"
+    }
+  ]
+}
