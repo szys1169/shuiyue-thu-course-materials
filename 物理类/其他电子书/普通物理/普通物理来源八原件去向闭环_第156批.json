@@ -1,0 +1,104 @@
+{
+  "sourceDirectory": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E6%99%AE%E9%80%9A%E7%89%A9%E7%90%86",
+  "sourceOriginalPaths": 8,
+  "uniqueSHA256": 8,
+  "originalBytes": 143314507,
+  "parserPages": 4875,
+  "historySourceCloudFiles": 5,
+  "currentNewSourceCloudFiles": 3,
+  "localFilesFreshSHA": 8,
+  "boundary": "147三卷为88同SHA来源副本，非8个新增版本；本批未重新下载历史5件来源或云盘正文。最终156新3正文以本批报告验收为准。",
+  "files": [
+    {
+      "name": "[Volume 3] Richard P. Feynman, Robert B. Leighton, Matthew Sands - The Feynman Lectures on Physics, Vol. III_ The New Millennium Edition_ Quantum Mechanics (2011, Basic Books) - libgen.lc.pdf",
+      "bytes": 8624501,
+      "sha256": "a449b03abf0002ec500efcf274bf33a1929def913df45a6bc283aeede4a14c55",
+      "parserPages": 688,
+      "batch": 147,
+      "cloudRelativePath": "物理类/大学物理/教材/普通物理来源费曼三卷_第147批/_过程材料/私有原件_同SHA来源别名/[Volume 3] Richard P. Feynman, Robert B. Leighton, Matthew Sands - The Feynman Lectures on Physics, Vol. III_ The New Millennium Edition_ Quantum Mechanics (2011, Basic Books) - libgen.lc.pdf",
+      "studyRelativePath": "通识与其他课程/大学物理/教材/普通物理来源费曼三卷_第147批/_过程材料/私有原件_同SHA来源别名/[Volume 3] Richard P. Feynman, Robert B. Leighton, Matthew Sands - The Feynman Lectures on Physics, Vol. III_ The New Millennium Edition_ Quantum Mechanics (2011, Basic Books) - libgen.lc.pdf",
+      "sourceAndCloudEvidence": "第147批历史验收，本批未重下",
+      "sameShaCanonicalBatch": 88,
+      "localFreshShaMatched": true
+    },
+    {
+      "name": "[Volume 2] Richard P. Feynman, Robert B. Leighton, Matthew Sands - The Feynman Lectures on Physics, Vol. II_ The New Millennium Edition_ Mainly Electromagnetism and Matter (2011, Basic Books) - libgen.lc.pdf",
+      "bytes": 23307078,
+      "sha256": "17b2ad182d7eff221e983a0250793dc8fc73c97f6f68331726c2bb154af91a79",
+      "parserPages": 566,
+      "batch": 147,
+      "cloudRelativePath": "物理类/大学物理/教材/普通物理来源费曼三卷_第147批/_过程材料/私有原件_同SHA来源别名/[Volume 2] Richard P. Feynman, Robert B. Leighton, Matthew Sands - The Feynman Lectures on Physics, Vol. II_ The New Millennium Edition_ Mainly Electromagnetism and Matter (2011, Basic Books) - libgen.lc.pdf",
+      "studyRelativePath": "通识与其他课程/大学物理/教材/普通物理来源费曼三卷_第147批/_过程材料/私有原件_同SHA来源别名/[Volume 2] Richard P. Feynman, Robert B. Leighton, Matthew Sands - The Feynman Lectures on Physics, Vol. II_ The New Millennium Edition_ Mainly Electromagnetism and Matter (2011, Basic Books) - libgen.lc.pdf",
+      "sourceAndCloudEvidence": "第147批历史验收，本批未重下",
+      "sameShaCanonicalBatch": 88,
+      "localFreshShaMatched": true
+    },
+    {
+      "name": "[Volume 1] Richard P. Feynman, Robert B. Leighton, Matthew Sands - The Feynman Lectures on Physics, Vol. I_ The New Millennium Edition_ Mainly Mechanics, Radiation, and Heat (2011, Basic Books) - libgen.lc.pdf",
+      "bytes": 17916318,
+      "sha256": "02944a7463f787323f9f36b65e9e6b2ca34d8d122a2cd2ffca14a1fff40265f1",
+      "parserPages": 968,
+      "batch": 147,
+      "cloudRelativePath": "物理类/大学物理/教材/普通物理来源费曼三卷_第147批/_过程材料/私有原件_同SHA来源别名/[Volume 1] Richard P. Feynman, Robert B. Leighton, Matthew Sands - The Feynman Lectures on Physics, Vol. I_ The New Millennium Edition_ Mainly Mechanics, Radiation, and Heat (2011, Basic Books) - libgen.lc.pdf",
+      "studyRelativePath": "通识与其他课程/大学物理/教材/普通物理来源费曼三卷_第147批/_过程材料/私有原件_同SHA来源别名/[Volume 1] Richard P. Feynman, Robert B. Leighton, Matthew Sands - The Feynman Lectures on Physics, Vol. I_ The New Millennium Edition_ Mainly Mechanics, Radiation, and Heat (2011, Basic Books) - libgen.lc.pdf",
+      "sourceAndCloudEvidence": "第147批历史验收，本批未重下",
+      "sameShaCanonicalBatch": 88,
+      "localFreshShaMatched": true
+    },
+    {
+      "name": "现代光学基础（钟锡华）.pdf",
+      "bytes": 9663402,
+      "sha256": "89efb1f3d17872643f7cd125af8907d6121ee800237eddbf9c923c8fbe44bf08",
+      "parserPages": 491,
+      "batch": 153,
+      "cloudRelativePath": "物理类/光学/教材/两部来源光学参考_第153批/_过程材料/含来源印章扫描/现代光学基础（钟锡华）.pdf",
+      "studyRelativePath": "物理类/光学/教材/两部来源光学参考_第153批/_过程材料/含来源印章扫描/现代光学基础（钟锡华）.pdf",
+      "sourceAndCloudEvidence": "第153批历史验收，本批未重下",
+      "localFreshShaMatched": true
+    },
+    {
+      "name": "Eugene Hecht - Optics (2016, Pearson Education) - libgen.lc.pdf",
+      "bytes": 35543009,
+      "sha256": "1cb9a0681b512f72eca3b42abea8ac24668de9fc07b9b01bbb8f70bb1279ab15",
+      "parserPages": 730,
+      "batch": 153,
+      "cloudRelativePath": "物理类/光学/教材/两部来源光学参考_第153批/Eugene Hecht - Optics (2016, Pearson Education) - libgen.lc.pdf",
+      "studyRelativePath": "物理类/光学/教材/两部来源光学参考_第153批/Eugene Hecht - Optics (2016, Pearson Education) - libgen.lc.pdf",
+      "sourceAndCloudEvidence": "第153批历史验收，本批未重下",
+      "localFreshShaMatched": true
+    },
+    {
+      "name": "力学(物理类)-舒幼生 北京大学出版社.pdf",
+      "bytes": 35636130,
+      "sha256": "76ad8e9cb6d3ee341b446e179cb5fd6f1f7b65fcc278ee16cd2b4f6dbb6b2100",
+      "parserPages": 408,
+      "batch": 156,
+      "cloudRelativePath": "物理类/大学物理/教材/舒幼生_力学2005_第156批/力学(物理类)-舒幼生 北京大学出版社.pdf",
+      "studyRelativePath": "通识与其他课程/大学物理/教材/舒幼生_力学2005_第156批/力学(物理类)-舒幼生 北京大学出版社.pdf",
+      "sourceAndCloudEvidence": "第156批新验收，最终回取状态见本批报告",
+      "localFreshShaMatched": true
+    },
+    {
+      "name": "Stephen J. Blundell, Katherine M. Blundell - Concepts in Thermal Physics (2009, Oxford University Press) - libgen.lc.pdf",
+      "bytes": 5109036,
+      "sha256": "9f8fcf9666bf41e47b484ea32f958958b00ad55b9f79068ab5bc0b47d5c71d30",
+      "parserPages": 512,
+      "batch": 156,
+      "cloudRelativePath": "物理类/热力学与统计物理/教材/热物理英文参考_第156批/Stephen J. Blundell, Katherine M. Blundell - Concepts in Thermal Physics (2009, Oxford University Press) - libgen.lc.pdf",
+      "studyRelativePath": "物理类/热力学与统计物理/教材/热物理英文参考_第156批/Stephen J. Blundell, Katherine M. Blundell - Concepts in Thermal Physics (2009, Oxford University Press) - libgen.lc.pdf",
+      "sourceAndCloudEvidence": "第156批新验收，最终回取状态见本批报告",
+      "localFreshShaMatched": true
+    },
+    {
+      "name": "Herbert B. Callen - Thermodynamics and an Introduction to Thermostatistics (1985, Wiley) - libgen.lc.pdf",
+      "bytes": 7515033,
+      "sha256": "165459499577dd40c5b0fa8ed116085d0bd0d4a5af1d58475f34829f6a127540",
+      "parserPages": 512,
+      "batch": 156,
+      "cloudRelativePath": "物理类/热力学与统计物理/教材/热物理英文参考_第156批/Herbert B. Callen - Thermodynamics and an Introduction to Thermostatistics (1985, Wiley) - libgen.lc.pdf",
+      "studyRelativePath": "物理类/热力学与统计物理/教材/热物理英文参考_第156批/Herbert B. Callen - Thermodynamics and an Introduction to Thermostatistics (1985, Wiley) - libgen.lc.pdf",
+      "sourceAndCloudEvidence": "第156批新验收，最终回取状态见本批报告",
+      "localFreshShaMatched": true
+    }
+  ]
+}
