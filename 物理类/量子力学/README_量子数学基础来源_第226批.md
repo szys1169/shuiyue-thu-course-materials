@@ -1,0 +1,10 @@
+# 量子数学基础来源（第226批）
+
+- [Hall量子数学教材](教材/Hall量子数学教材来源_第226批/README.md)
+- [vonNeumann量子数学基础](教材/vonNeumann量子数学基础来源_第226批/README.md)
+
+Quantum Theory for Mathematicians，Brian C. Hall 著，Springer，Graduate Texts in Mathematics 第267卷；版权页载2013年，印次及具体发行日未另核。ISBN 978-1-4614-7115-8，电子版ISBN 978-1-4614-7116-5。作为面向数学读者的量子理论教材，讨论Hilbert空间、算符、量子化及相关群论与几何方法；作者机构不等于本地课程指定依据。电子排版样页清晰，文字提取有ActualText定位与字体度量警告，保留原状，不据样页认证全书完整或公式提取准确。整册私有，原名原字节不改。
+
+Mathematical Foundations of Quantum Mechanics，John von Neumann 著，Robert T. Beyer 由德文译为英文，Nicholas A. Wheeler 编辑，Princeton University Press，题名标为New Edition。版权页列1955、1983、2018年；编辑前言2014年与译者前言1949年分别记录，不把2018当原德文首版年，也不将编辑列为共同作者。ISBN 978-0-691-17856-1。内容涉及Hilbert空间、量子统计、理论公设及测量过程，是量子力学数学基础经典专著的英译编辑版本。电子排版样页可读，未作全书逐页完整性认证；整册私有，原名原字节不改。
+
+本批核量子力学来源叶21条中的Hall与vonNeumann两条，10,514,612字节、2唯一SHA、891解析页，源/本人旧目标逐SHA一致，2ZIP CRC及精确文件集通过。Hall单著、GTM267/Springer版权2013，不据作者机构认清华指定教材，印次/发行日未另核；vonNeumann是作者、Beyer是英译者、Wheeler是编辑，New Edition及版权1955/1983/2018分列，前言2014和1949不作发行年，不把2018当德文原著首版年。两件各实际视觉5核心页。全页结构批注/表单/附件0、repair=false，结构警告空；Hall抽样ActualText无页定位及CMSS10/EUFM10字体度量、核心尾564页渲染提示保留，vonNeumann本次抽样与渲染无警告，不称两件全部无警告。样页可读不认证全文完整、公式提取正确或隐私全净，不OCR/修PDF/执行外链或清标记。原名原字节保持，整册只私有，云盘服务端移动已有副本，Git仅安全来源元信息，未上传PDF或ZIP。规范同大小PDF候选未命中，不作全盘去重结论。余19原件保持原name/href，未称此21来源叶闭环；双朗道23原名去向及各待核状态、既有量子课程和128/160快照保持。
