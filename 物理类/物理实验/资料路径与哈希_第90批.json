@@ -1,0 +1,59 @@
+{
+  "batch": 90,
+  "scope": "根5原件限定范围，其余25子目录/16根文件未验收",
+  "sourceLibrary": "6f4b1cfc-208b-4b3f-b2ac-bac77f97246f",
+  "targetLibrary": "5ba373d2-5ace-4c2d-b4c7-4a7517e1d627",
+  "cloudCourse": "物理类/物理实验",
+  "localCourse": "通识与其他课程/大物实验",
+  "rawFiles": 5,
+  "rawBytes": 4200325,
+  "rawReupload": 0,
+  "zipUpload": 0,
+  "files": [
+    {
+      "oldCourseRelativePath": "f-h_experiment-am[1].j.phys.74-423_51301457.pdf",
+      "finalCourseRelativePath": "参考阅读/弗兰克赫兹_2006_来源物理资料库_第90批/f-h_experiment-am[1].j.phys.74-423_51301457.pdf",
+      "bytes": 167745,
+      "sha256": "877953aed9ac5de7c77a30d91ff5638d163b57a368f8c71012e3b545b826bcd8",
+      "sourceOldTargetEqual": true,
+      "rawPublic": false,
+      "role": "New features of the Franck-Hertz experiment"
+    },
+    {
+      "oldCourseRelativePath": "弗兰克-赫兹(Franck-Hertz)实验[课程版_20100420修改]_664307851.pdf",
+      "finalCourseRelativePath": "讲义/弗兰克赫兹_2010-05-01_来源物理资料库_第90批/弗兰克-赫兹(Franck-Hertz)实验[课程版_20100420修改]_664307851.pdf",
+      "bytes": 1764180,
+      "sha256": "b213e38cf5bb3243a707ccef1f23cbedffcbc69ba022b13da1921dd9baf904d3",
+      "sourceOldTargetEqual": true,
+      "rawPublic": false,
+      "role": "弗兰克赫兹实验讲义"
+    },
+    {
+      "oldCourseRelativePath": "最小二乘法示例[Excel求解]_22970220.pptx",
+      "finalCourseRelativePath": "讲义/数据处理方法_最小二乘Excel_来源物理资料库_第90批/最小二乘法示例[Excel求解]_22970220.pptx",
+      "bytes": 266416,
+      "sha256": "7be10b1ea67c12db7f9a09f8dac755ec2918e93b9a341065848565e8953c321d",
+      "sourceOldTargetEqual": true,
+      "rawPublic": false,
+      "role": "最小二乘法 Excel方法示例"
+    },
+    {
+      "oldCourseRelativePath": "讲义.pdf",
+      "finalCourseRelativePath": "_过程材料/第90批受限原件_来源名讲义/讲义.pdf",
+      "bytes": 824350,
+      "sha256": "63e895d48ce40028534f66d5c3ce9de6438d97e76fd72aabe9d05717a7fdeaeb",
+      "sourceOldTargetEqual": true,
+      "rawPublic": false,
+      "role": "私人实验报告_受限原件"
+    },
+    {
+      "oldCourseRelativePath": "音频信号光纤通信原理[课程简编版2010]_724607917.pdf",
+      "finalCourseRelativePath": "讲义/音频光纤通信_年份作者未核_来源物理资料库_第90批/音频信号光纤通信原理[课程简编版2010]_724607917.pdf",
+      "bytes": 1177634,
+      "sha256": "e6ac404cc2f6cdc9a80b571bb9a282e813675d3322f9bca6b169bd0af1ef0b78",
+      "sourceOldTargetEqual": true,
+      "rawPublic": false,
+      "role": "音频信号光纤通信原理"
+    }
+  ]
+}
