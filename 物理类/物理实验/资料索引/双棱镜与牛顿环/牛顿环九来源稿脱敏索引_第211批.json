@@ -1,0 +1,116 @@
+{
+  "batch": 211,
+  "date": "2026-10-19",
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%8F%8C%E7%89%9B",
+  "oldTargetUrl": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%8F%8C%E7%89%9B",
+  "sourceFirstLevelRaw": 26,
+  "sourceFirstLevelSubdirs": 1,
+  "selectedRawPaths": 9,
+  "selectedRawBytes": 15735296,
+  "uniqueSHA": 9,
+  "sameSHAExisting661": 0,
+  "remainingOldTargetRawFiles": 1,
+  "protectedUnexaminedFolders": 1,
+  "items": [
+    {
+      "sourceLabel": "来源稿1（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/双牛",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/牛顿环测量来源变体与记录表_第211批/已填身份的牛顿环报告",
+      "bytes": 133120,
+      "sha256": "a62828d4ce7a3ae7485a72a1f589c262fd43c47385be8880ba66a64ae07a7f6b",
+      "role": "正文明确填写个人身份的牛顿环测曲率半径报告，不认已证实际提交或官方答案",
+      "identityConfirmed": true,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "来源稿2（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/双牛",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/牛顿环测量来源变体与记录表_第211批/身份未核的填写记录与节选",
+      "bytes": 3299840,
+      "sha256": "58fb0bbad3ef7264dd21ffb387ee6f2a72d9ab533579a93b40f3f31352ddf729",
+      "role": "有填写牛顿环测量数据或总结的来源稿，身份/作者/学期未核",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "来源稿3（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/双牛",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/牛顿环测量来源变体与记录表_第211批/身份未核的原理与空表来源稿",
+      "bytes": 3278336,
+      "sha256": "ae367db0c430f14ca4f9c57202ff6b7d5f480e60b76b47de97baf859faf5d013",
+      "role": "牛顿环原理/步骤或空白数据表来源，作者身份/官方性未核，不凭署名原名认作者",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "来源稿4（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/双牛",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/牛顿环测量来源变体与记录表_第211批/身份未核的填写记录与节选",
+      "bytes": 3302400,
+      "sha256": "256767b097412650576994489aef6a830c7111f11687c6a0d4e5010744700384",
+      "role": "有填写牛顿环测量数据或总结的来源稿，身份/作者/学期未核",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "来源稿5（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/双牛",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/牛顿环测量来源变体与记录表_第211批/身份未核的填写记录与节选",
+      "bytes": 39424,
+      "sha256": "e9db79e751c90d41a29c4578fb24b2806243f326a24c6cc9824b6ed1ab8d6d7b",
+      "role": "填写数据来源节选，起首承接前文已截断；源名署名不当作者证明",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "来源稿6（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/双牛",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/牛顿环测量来源变体与记录表_第211批/身份未核的原理与空表来源稿",
+      "bytes": 2301440,
+      "sha256": "e0f296b0944aa74123ce5685c353098ec065f6448f81367aba149a36d9678ca2",
+      "role": "牛顿环原理/步骤或空白数据表来源，作者身份/官方性未核，不凭署名原名认作者",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "来源稿7（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/双牛",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/牛顿环测量来源变体与记录表_第211批/身份未核的原理与空表来源稿",
+      "bytes": 39424,
+      "sha256": "18c880b38e1d85dec70706a7b3c647f8ea1accdca195c209cad3d461cce47866",
+      "role": "牛顿环原理/步骤或空白数据表来源，作者身份/官方性未核，不凭署名原名认作者",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "来源稿8（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/双牛",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/牛顿环测量来源变体与记录表_第211批/身份未核的填写记录与节选",
+      "bytes": 40448,
+      "sha256": "c536142fdc4566e401a398cd1bd901cfebad4cbf06d97194f73c45e16ccf5ef0",
+      "role": "源名答案实际为已填测量记录，不认标准答案",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "来源稿9（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/双牛",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/牛顿环测量来源变体与记录表_第211批/身份未核的填写记录与节选",
+      "bytes": 3300864,
+      "sha256": "fe1077b88d18c721fd0a324c25afbcd64135ca99b6d9d6fe8afc843e57d920d4",
+      "role": "有填写牛顿环测量数据或总结的来源稿，身份/作者/学期未核",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    }
+  ],
+  "policy": "全部raw私有，仅1主文字已证身份exact候选，unknown8不泛删；署名原名/答案/序号不是作者、标准答案或新旧证据。私人值/原名/本机绝对路径不公开。"
+}
