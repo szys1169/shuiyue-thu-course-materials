@@ -1,0 +1,116 @@
+{
+  "batch": 229,
+  "date": "2026-10-19",
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/物理/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E6%99%AE%E9%80%9A%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A",
+  "oldTargetUrl": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E6%99%AE%E9%80%9A%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A",
+  "sourceFirstLevelRaw": 27,
+  "sourceFirstLevelSubdirs": 1,
+  "selectedRawPaths": 9,
+  "selectedRawBytes": 797025,
+  "uniqueSHA": 9,
+  "sameSHAExisting766": 0,
+  "remainingOldTargetRawFiles": 12,
+  "protectedUnexaminedFolders": 1,
+  "items": [
+    {
+      "sourceLabel": "原件路径1（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/普通物理实验报告",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/普通物理光学报告来源组_第229批/全息照相来源稿",
+      "bytes": 111457,
+      "sha256": "6ee3348af0ac42af7fa102a795b28b0ef4e5ede90dcb53b24805fa05ead81ee1",
+      "role": "3页全息照相来源报告PDF，空身份栏但有实际拍摄现象/个人讨论，不认教师模板/标准答案或正式提交",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "原件路径2（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/普通物理实验报告",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/普通物理光学报告来源组_第229批/全息照相来源稿",
+      "bytes": 47616,
+      "sha256": "dd12d25c236514c0eb216adcb73649751e768ad7b6ea96d8eee11da570730a04",
+      "role": "全息照相来源报告DOC，空身份栏但有个人实验现象与讨论，和PDF异SHA全保留，不推同版/新版",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "原件路径3（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/普通物理实验报告",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/普通物理光学报告来源组_第229批/迈克耳孙来源稿",
+      "bytes": 51200,
+      "sha256": "2a3967791606fc3c0a607ef1a778a6a83b4881bc5479fad795d9972bde0c2626",
+      "role": "正文迈克耳孙干涉仪及气体折射率来源报告，空身份栏但有测量结果/个人经验，原名异字不修不认作者年份",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "原件路径4（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/普通物理实验报告",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/普通物理光学报告来源组_第229批/光衍射来源变体",
+      "bytes": 50688,
+      "sha256": "83bf1bfffcd93cc6389213f46f4935f014a6309ba46d59f4540fc91214af6445",
+      "role": "光衍射定量研究来源报告，身份栏空但有狭缝测量与个人讨论，未证教师标准稿",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "原件路径5（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/普通物理实验报告",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/普通物理光学报告来源组_第229批/分光计来源变体",
+      "bytes": 64000,
+      "sha256": "019c23f3c2d88d802329d65fa7c0cdacf433bae4fb8f745ecb272c975dc29ea8",
+      "role": "分光计来源报告，身份栏空、记录3号仪器、测量与讨论，未证教师模板/标准答案",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "原件路径6（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/普通物理实验报告",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/普通物理光学报告来源组_第229批/光衍射来源变体",
+      "bytes": 92160,
+      "sha256": "cc8c4ad039882106e6786270aa3929046a371dfec74df8397acad4aa6790d3ff",
+      "role": "光衍射定量研究报告，页脚实际填个人及同组身份，实验日期2004-12-07；与另一近名衍射稿异SHA保留不推新旧",
+      "identityConfirmed": true,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "原件路径7（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/普通物理实验报告",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/普通物理光学报告来源组_第229批/来源附图与对象文档_范围未核",
+      "bytes": 32256,
+      "sha256": "b7e78d62b20910da42267c5d14bafab53d733fcf3d71217f30cc384e9338291c",
+      "role": "源名光纤，正文仅P0-ID、幅频特性、If-P0拟合与对象标记及附图，页脚实际填写身份；不认完整报告或已核光纤课程归属",
+      "identityConfirmed": true,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "原件路径8（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/普通物理实验报告",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/普通物理光学报告来源组_第229批/分光计来源变体",
+      "bytes": 321536,
+      "sha256": "23682a6223358cb01285ae3d76760b14ec7e97228a9ea275869c611320f13204",
+      "role": "分光计报告，页脚实际填个人身份，实验日期2004-11-16，记录2号仪器；与另一近名分光稿异SHA，不因近标题推同版/新版",
+      "identityConfirmed": true,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "原件路径9（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/普通物理实验报告",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/普通物理光学报告来源组_第229批/来源附图与对象文档_范围未核",
+      "bytes": 26112,
+      "sha256": "17fe6bcad2e128f2307c07a7337fd57404fdd5d9aa8623512550a7a2877431b6",
+      "role": "源名阿贝折射仪，主文字仅对象标记无可读正文，内容身份/用途未核；不执行或渲染嵌入，不认空模板或无用残件",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    }
+  ],
+  "policy": "全部raw私有；3页脚实际身份exact候选、unknown6不泛删；私人原名/字段值/本机绝对路径不公开，源名/空身份栏/无可读主文字不认教师模板或已证课程范围，不执行宏字段/公式嵌入"
+}
