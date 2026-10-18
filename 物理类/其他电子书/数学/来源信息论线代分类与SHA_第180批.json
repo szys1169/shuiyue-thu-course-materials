@@ -1,0 +1,64 @@
+{
+  "batch": 180,
+  "sourceDirectory": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E6%95%B0%E5%AD%A6",
+  "oldDirectory": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E6%95%B0%E5%AD%A6",
+  "rawPaths": 2,
+  "uniqueSHA": 2,
+  "rawBytes": 52796173,
+  "parsedPages": 234,
+  "reviewBoundary": "两原件52,796,173字节、2唯一SHA、234解析页，源/旧目标同SHA；完整文章及笔记私有，Git仅安全来源说明，未上传ZIP。全页仅结构计数，批注/表单/嵌入均0，repaired=false；Witten抽文字体警告保留，10核心渲染页无警告。实际核心每份5页共10页，手写前12页另有定位视觉，不是234页全视觉，不证明全本完整或无私人标记，不OCR修补或重写。规范PDF同大小SHA候选未命中，不作全盘无重复声明。",
+  "books": [
+    {
+      "sourceName": "Witten A Mini-Introduction To Information Theory.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E6%95%B0%E5%AD%A6/Witten%20A%20Mini-Introduction%20To%20Information%20Theory.pdf",
+      "cloudRelativePath": "数学类/概率论（1）/参考资料/信息论与熵来源文章_第180批/Witten A Mini-Introduction To Information Theory.pdf",
+      "studyRelativePath": "数学类/概率论/参考资料/信息论与熵来源文章_第180批/Witten A Mini-Introduction To Information Theory.pdf",
+      "bytes": 378928,
+      "sha256": "5e291601138d3ad6dd9ec4ee9e5d892155ce3be8cd822f00ade16e45b297a24f",
+      "parsedPages": 40,
+      "title": "A Mini-Introduction To Information Theory",
+      "authors": [
+        "Edward Witten"
+      ],
+      "description": "Edward Witten，A Mini-Introduction To Information Theory，Institute for Advanced Study；正文arXiv:1805.11965v4 [hep-th]，2018-12-07为稿版本日期，基于IAS 2018暑期讲座，明确为article，不称整本教材或清华课程讲义，期刊出版年未核。40解析页；抽文警告bogus font (AMROKS+CMEX7) ascent/descent values (0 / -1000)，5核心渲染页无警告且主体可读，不修字体或重写。作为概率、熵及量子信息的交叉参考。",
+      "visualPhysicalPages": [
+        1,
+        2,
+        3,
+        21,
+        40
+      ],
+      "annotations": 0,
+      "widgets": 0,
+      "embeddedAttachments": 0,
+      "repaired": false,
+      "parsingWarnings": "bogus font (AMROKS+CMEX7) ascent/descent values (0 / -1000)",
+      "rawPublic": false
+    },
+    {
+      "sourceName": "线性代数手写笔记Tautochrone.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E6%95%B0%E5%AD%A6/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E6%89%8B%E5%86%99%E7%AC%94%E8%AE%B0Tautochrone.pdf",
+      "cloudRelativePath": "数学类/高等线性代数/讲义/线代手写来源笔记_第180批/_过程材料/署名与课程待核/线性代数手写笔记Tautochrone.pdf",
+      "studyRelativePath": "数学类/高等代数/讲义/线代手写来源笔记_第180批/_过程材料/署名与课程待核/线性代数手写笔记Tautochrone.pdf",
+      "bytes": 52417245,
+      "sha256": "9dfb8512b452a6d8d0549fdc2a206f871dfd5308e574a993ac1b79e103547fe0",
+      "parsedPages": 194,
+      "title": null,
+      "authors": [],
+      "description": "来源名“线性代数手写笔记Tautochrone.pdf”，194解析页；Tautochrone仅来源名标签，已看正文未获署名、日期、学校或课程证据，不倒推真实身份、学期或官方讲义。内容从线性方程组/向量至Jordan与行列式/外代数相关手写笔记。黑红字、轻微透背及边缘杂点，抽样主体可读，隐藏OCR层部分乱码/碎片，不作可靠全文或已核无身份依据。原件置于署名与课程待核子目录。",
+      "visualPhysicalPages": [
+        1,
+        2,
+        97,
+        193,
+        194
+      ],
+      "annotations": 0,
+      "widgets": 0,
+      "embeddedAttachments": 0,
+      "repaired": false,
+      "parsingWarnings": "",
+      "rawPublic": false
+    }
+  ]
+}
