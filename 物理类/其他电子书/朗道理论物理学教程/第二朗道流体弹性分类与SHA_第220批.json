@@ -1,0 +1,50 @@
+{
+  "batch": 220,
+  "sourceDirectory": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E6%9C%97%E9%81%93%E7%90%86%E8%AE%BA%E7%89%A9%E7%90%86%E5%AD%A6%E6%95%99%E7%A8%8B",
+  "oldDirectory": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E6%9C%97%E9%81%93%E7%90%86%E8%AE%BA%E7%89%A9%E7%90%86%E5%AD%A6%E6%95%99%E7%A8%8B",
+  "sourcePathsSelected": 2,
+  "sourcePathsRemaining": 3,
+  "previousBatches": [
+    216,
+    218
+  ],
+  "previousProcessedPaths": 5,
+  "rawBytes": 39007627,
+  "uniqueSHA": 2,
+  "parsedPages": 854,
+  "reviewBoundary": "本批第二朗道叶10条中的流体、弹性2条，39,007,627字节、2唯一SHA、854解析页，源/本人旧副本逐SHA一致，两件均不同于210流体/212弹性。流体623页与210同书目但不同SHA/页数，现有文字层和黑白高对比图像、字体编码及部分核心渲染提示保留，具体整书差异未逐页定位，不认新出版版本、不替换既有清晰扫描。弹性231页为武际可、刘寄星译，题名第五版、高教中译2011年5月首版、2016年6月第三印，不能沿用212曹富新译本2009年版权；译后记所述俄文第五版和参考英文第三版不代原俄文具体出版年。两件各实际视觉5核心页；全页结构批注/表单/附件0、is_repaired=false。弹性本次结构/抽样文本/渲染无警告，不据抽样认证全书完整、隐私全净或公式正确；流体文字层不当准确原文。原名原字节与水印保持，不抄尾页联系或私人值，不OCR、修PDF、清标记。整册只私有，云盘服务端移动已有副本，Git仅安全元信息，未上传PDF或ZIP。规范同大小PDF候选未命中，不作全盘去重结论。216/218历史5路径另有验收，现累计7条有去向、余3原件保持原name/href，不称10条闭环；第一朗道13来源及其待核状态、历史四份说明、原课程和128/160快照保持。",
+  "books": [
+    {
+      "sourceName": "6-流体动力学.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E6%9C%97%E9%81%93%E7%90%86%E8%AE%BA%E7%89%A9%E7%90%86%E5%AD%A6%E6%95%99%E7%A8%8B/6-%E6%B5%81%E4%BD%93%E5%8A%A8%E5%8A%9B%E5%AD%A6.pdf",
+      "cloudRelativePath": "物理类/连续介质力学/教材/第二来源流体文字层_第220批/_过程材料/文字层解析待核/6-流体动力学.pdf",
+      "studyRelativePath": "物理类/连续介质力学/教材/第二来源流体文字层_第220批/_过程材料/文字层解析待核/6-流体动力学.pdf",
+      "bytes": 32155305,
+      "sha256": "9bbe91a4823ebc7e79059d211369372247b6db60051a01427d92c0a2bc51410d",
+      "parsedPages": 623,
+      "description": "《理论物理学教程·第六卷 流体动力学（第五版）》，L.D.朗道、E.M.栗弗席兹著，李植译、陈国谋审，高等教育出版社；中译版权页为2013年1月第一版、同月第一次印刷，题名第五版与中译第一版分列，原俄文此版出版年未独立确认。内容涉及理想和黏性流体、湍流、边界层、传热、声音与激波等。此来源有原有文字层，黑白图像部分字形受处理影响，字体编码警告保留；与既有来源书目相同但SHA与页数不同，具体差异未逐页定位，作为不同字节来源副本保留，不认新增出版版本。全文私有，原名原字节不改。",
+      "annotations": 0,
+      "widgets": 0,
+      "embeddedAttachments": 0,
+      "repaired": false,
+      "freshVisualCorePages": 5,
+      "rawPublic": false
+    },
+    {
+      "sourceName": "7-弹性理论.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E6%9C%97%E9%81%93%E7%90%86%E8%AE%BA%E7%89%A9%E7%90%86%E5%AD%A6%E6%95%99%E7%A8%8B/7-%E5%BC%B9%E6%80%A7%E7%90%86%E8%AE%BA.pdf",
+      "cloudRelativePath": "物理类/弹性与接触力学/教材/武际可刘寄星译弹性理论来源_第220批/7-弹性理论.pdf",
+      "studyRelativePath": "物理类/弹性与接触力学/教材/武际可刘寄星译弹性理论来源_第220批/7-弹性理论.pdf",
+      "bytes": 6852322,
+      "sha256": "7d9d797ce828e653c2e4258f373b1b3804df60e82ddddd3ba34b18da9ff3fb9e",
+      "parsedPages": 231,
+      "description": "《理论物理学教程·第七卷 弹性理论（第五版）》，L.D.朗道、E.M.栗弗席兹著，武际可、刘寄星译，高等教育出版社。中译版权页载2011年5月第一版、2016年6月第三次印刷，ISBN 978-7-04-031953-8。译后记说明依据俄文第五版并参考英文第三版；原俄文第五版具体出版年未独立确认。内容含弹性基本方程、杆板平衡、弹性波、位错、导热及液晶力学等。此为与已整理曹富新译本不同的中译来源，保留各自原件与书目信息；样页可读但未作全书逐页完整性认证，整册私有、原名原字节不改。",
+      "annotations": 0,
+      "widgets": 0,
+      "embeddedAttachments": 0,
+      "repaired": false,
+      "freshVisualCorePages": 5,
+      "rawPublic": false
+    }
+  ]
+}
