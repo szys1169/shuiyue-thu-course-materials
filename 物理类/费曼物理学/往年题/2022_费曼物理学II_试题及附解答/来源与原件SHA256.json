@@ -1,0 +1,72 @@
+{
+  "batch": 100,
+  "scope": "two2022FeynmanII exam PDFs with appended answers, all raw private",
+  "files": [
+    {
+      "name": "费曼2 2022期中.pdf",
+      "bytes": 166937,
+      "sha256": "1a859ac15440332c1a0ea9ce488905a3c955823c987c7779e1e039e4f0ec10ac",
+      "sourceTargetEqual": true,
+      "pages": 12,
+      "annotations": 0,
+      "sourceURL": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E8%B4%B9%E6%9B%BC%E7%89%A9%E7%90%86%E5%AD%A6/%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98",
+      "oldPhysicsRelativePath": "费曼物理学/往年试题/费曼2 2022期中.pdf",
+      "finalPhysicsRelativePath": "费曼物理学/往年题/2022_费曼物理学II_试题及附解答/_过程材料/私有原件/费曼2 2022期中.pdf",
+      "courseBodyTitle": "费曼物理学II",
+      "examKind": "期中",
+      "bodyDate": "2022-04-13",
+      "questionPDFPages": [
+        1,
+        5
+      ],
+      "attachedAnswerPDFPages": [
+        6,
+        12
+      ],
+      "role": "考试试题及同文件附答案；未拆原件",
+      "authorTeacherVerified": null,
+      "answerAuthorityVerified": false,
+      "studentSubmissionVerified": false,
+      "privacy": "题干课堂叙述关联学生姓名及观点；安全元信息不转录人物信息；整件private",
+      "privacyFlagPages": [
+        4
+      ],
+      "publicRawCandidate": false,
+      "review": "全部29页全文检查与逐页渲染，原名原字节保留，不能认定为纯空白题"
+    },
+    {
+      "name": "费曼2 2022期末.pdf",
+      "bytes": 214542,
+      "sha256": "d8e892fc70668450234dda1ed8237a8973f5b3fd0445c95f2127fadb79aab750",
+      "sourceTargetEqual": true,
+      "pages": 17,
+      "annotations": 0,
+      "sourceURL": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E8%B4%B9%E6%9B%BC%E7%89%A9%E7%90%86%E5%AD%A6/%E5%BE%80%E5%B9%B4%E8%AF%95%E9%A2%98",
+      "oldPhysicsRelativePath": "费曼物理学/往年试题/费曼2 2022期末.pdf",
+      "finalPhysicsRelativePath": "费曼物理学/往年题/2022_费曼物理学II_试题及附解答/_过程材料/私有原件/费曼2 2022期末.pdf",
+      "courseBodyTitle": "费曼物理学II",
+      "examKind": "期末",
+      "bodyDate": "2022-06-17",
+      "questionPDFPages": [
+        1,
+        6
+      ],
+      "attachedAnswerPDFPages": [
+        7,
+        17
+      ],
+      "role": "考试试题及同文件附答案；未拆原件",
+      "authorTeacherVerified": null,
+      "answerAuthorityVerified": false,
+      "studentSubmissionVerified": false,
+      "privacy": "题干课堂叙述关联学生姓名及观点；安全元信息不转录人物信息；整件private",
+      "privacyFlagPages": [
+        1,
+        4,
+        5
+      ],
+      "publicRawCandidate": false,
+      "review": "全部29页全文检查与逐页渲染，原名原字节保留，不能认定为纯空白题"
+    }
+  ]
+}
