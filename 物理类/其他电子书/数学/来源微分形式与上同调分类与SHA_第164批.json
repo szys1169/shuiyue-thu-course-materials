@@ -1,0 +1,67 @@
+{
+  "batch": 164,
+  "date": "2026-10-19",
+  "sourceDirectory": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E6%95%B0%E5%AD%A6",
+  "originalBytes": 31729508,
+  "sourcePaths": 3,
+  "distinctSourceSHA": 3,
+  "bookTitles": 2,
+  "parserPages": 1066,
+  "sameSHAExistingCanonical": {
+    "cloudDirectory": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%8B%93%E6%89%91%E5%AD%A6/%E6%95%99%E6%9D%90/%E8%A1%A5%E5%85%85%E5%8F%82%E8%80%83",
+    "relativePath": "数学类/拓扑学/教材/补充参考/Ib Henning Madsen, Jørgen Tornehave - From calculus to cohomology_ de Rham cohomology and characteristic classes (1997, Cambridge University Press) - libgen.lc.pdf",
+    "bytes": 12779884,
+    "sha256": "4dfbb3d0ff8525138942ce4532ff08e3583701b00af17bd2f1f112a1608a7c24",
+    "preserved": true
+  },
+  "privacy": "Whole books and annotations remain private; metadata only on GitHub. No annotation field values exported.",
+  "qualityLimit": "First/copyright and middle/end sampled, not full visual review or completeness proof. No rewriting.",
+  "remainingOwnSourcePDF": 24,
+  "entries": [
+    {
+      "sourceName": "Ib Henning Madsen, Jørgen Tornehave - From calculus to cohomology_ de Rham cohomology and characteristic classes (1997, Cambridge University Press) ver.2- libgen.lc.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E6%95%B0%E5%AD%A6/Ib%20Henning%20Madsen%2C%20J%C3%B8rgen%20Tornehave%20-%20From%20calculus%20to%20cohomology_%20de%20Rham%20cohomology%20and%20characteristic%20classes%20(1997%2C%20Cambridge%20University%20Press)%20ver.2-%20libgen.lc.pdf",
+      "bytes": 13697021,
+      "sha256": "21dde1199405c72a276a33ac018df0b686130fe9d94b1e3e2acd1ca554623f07",
+      "parserPages": 298,
+      "annotationTypes": {
+        "Highlight": 392,
+        "Square": 6
+      },
+      "widgetCount": 0,
+      "embeddedFileCount": 0,
+      "isRepaired": false,
+      "parserWarnings": "",
+      "cloudRelativePath": "数学类/拓扑学/教材/上同调来源变体_第164批/_过程材料/来源副本与批注变体/Ib Henning Madsen, Jørgen Tornehave - From calculus to cohomology_ de Rham cohomology and characteristic classes (1997, Cambridge University Press) ver.2- libgen.lc.pdf",
+      "newDistinctCanonicalSHA": true
+    },
+    {
+      "sourceName": "Ib Henning Madsen, Jørgen Tornehave - From calculus to cohomology_ de Rham cohomology and characteristic classes (1997, Cambridge University Press) - libgen.lc.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E6%95%B0%E5%AD%A6/Ib%20Henning%20Madsen%2C%20J%C3%B8rgen%20Tornehave%20-%20From%20calculus%20to%20cohomology_%20de%20Rham%20cohomology%20and%20characteristic%20classes%20(1997%2C%20Cambridge%20University%20Press)%20-%20libgen.lc.pdf",
+      "bytes": 12779884,
+      "sha256": "4dfbb3d0ff8525138942ce4532ff08e3583701b00af17bd2f1f112a1608a7c24",
+      "parserPages": 298,
+      "annotationTypes": {},
+      "widgetCount": 0,
+      "embeddedFileCount": 0,
+      "isRepaired": false,
+      "parserWarnings": "",
+      "cloudRelativePath": "数学类/拓扑学/教材/上同调来源变体_第164批/_过程材料/来源副本与批注变体/Ib Henning Madsen, Jørgen Tornehave - From calculus to cohomology_ de Rham cohomology and characteristic classes (1997, Cambridge University Press) - libgen.lc.pdf",
+      "newDistinctCanonicalSHA": false
+    },
+    {
+      "sourceName": "A visual introduction to differential forms and calculus on manifolds by Fortney, Jon Pierre (z-lib.org).pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E6%95%B0%E5%AD%A6/A%20visual%20introduction%20to%20differential%20forms%20and%20calculus%20on%20manifolds%20by%20Fortney%2C%20Jon%20Pierre%20(z-lib.org).pdf",
+      "bytes": 5252603,
+      "sha256": "e96829852c4c1e470e4e40487773f6079ec8b4232200728bf49d57a349f98a2c",
+      "parserPages": 470,
+      "annotationTypes": {},
+      "widgetCount": 0,
+      "embeddedFileCount": 0,
+      "isRepaired": false,
+      "parserWarnings": "",
+      "cloudRelativePath": "数学类/微分几何/参考文献/微分形式入门_Fortney2018_第164批/A visual introduction to differential forms and calculus on manifolds by Fortney, Jon Pierre (z-lib.org).pdf",
+      "newDistinctCanonicalSHA": true
+    }
+  ]
+}
