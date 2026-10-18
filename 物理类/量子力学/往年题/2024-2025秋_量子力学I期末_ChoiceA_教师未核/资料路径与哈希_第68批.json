@@ -1,0 +1,62 @@
+{
+  "batch": 68,
+  "sourceURL": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%B0%A4%E5%8A%9B%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6%E6%9C%9F%E6%9C%AB",
+  "courseBodyTitle": "2024-2025 Fall Final Exam Quantum Mechanics I",
+  "choiceBodyLabel": "Choice A",
+  "teacher": "卷面未核；尤力仅旧目录来源标签",
+  "originalCount": 5,
+  "originalBytes": 1064055,
+  "publicRawWhitelist": "exact 5 audited academic originals; no directory-wide permission",
+  "files": [
+    {
+      "path": "量子力学/往年题/2024-2025秋_量子力学I期末_ChoiceA_教师未核/试题/试卷2.jpg",
+      "size": 163650,
+      "sha256": "31131210ab54ec6f6cc2d7e0c58a00923b5cdda628a95d9e6b5fff826e9fd4ed",
+      "oldPhysicsRelativePath": "尤力量子力学期末/试卷2.jpg",
+      "public": true,
+      "role": "印刷试题第2/2页",
+      "bodyIdentity": "承接Q3-Q5；未见教师署名。",
+      "publicRawWhitelistReason": "完整可见学术试题/未署名参考解答，逐页视觉审阅未见姓名学号/私人联系方式；原件小于10MB，JPG无EXIF/GPS；不改原件或去水印"
+    },
+    {
+      "path": "量子力学/往年题/2024-2025秋_量子力学I期末_ChoiceA_教师未核/试题/试卷1.jpg",
+      "size": 176296,
+      "sha256": "28a91401071d7fc333d69df0eaa89ffcca3d5b2978440cafa5ba3a95b0ea4b1f",
+      "oldPhysicsRelativePath": "尤力量子力学期末/试卷1.jpg",
+      "public": true,
+      "role": "印刷试题第1/2页",
+      "bodyIdentity": "题头2024-2025 Fall Final Exam Quantum Mechanics I，Choice A，Q1-Q2；无教师署名。",
+      "publicRawWhitelistReason": "完整可见学术试题/未署名参考解答，逐页视觉审阅未见姓名学号/私人联系方式；原件小于10MB，JPG无EXIF/GPS；不改原件或去水印"
+    },
+    {
+      "path": "量子力学/往年题/2024-2025秋_量子力学I期末_ChoiceA_教师未核/参考解答_来源配套_官方性未核/答案Q1 Q2.pdf",
+      "size": 463848,
+      "sha256": "3df2adf07a429e4b9a1ce3ea0ad60418591b4c2f2d5faf931e5ab284fd2ddb07",
+      "oldPhysicsRelativePath": "尤力量子力学期末/答案Q1 Q2.pdf",
+      "public": true,
+      "role": "未署名手写参考解答，2页",
+      "bodyIdentity": "自旋s=1与全同粒子谐振子内容对应Choice A的Q1/Q2，官方性与正确性未核；保留通用扫描水印。",
+      "publicRawWhitelistReason": "完整可见学术试题/未署名参考解答，逐页视觉审阅未见姓名学号/私人联系方式；原件小于10MB，JPG无EXIF/GPS；不改原件或去水印"
+    },
+    {
+      "path": "量子力学/往年题/2024-2025秋_量子力学I期末_ChoiceA_教师未核/参考解答_来源配套_官方性未核/答案5.jpg",
+      "size": 114582,
+      "sha256": "bb6d6d40d59bfdedca5addeb36a6dc45cccc41ff6499dcbed03d5a3821873bcb",
+      "oldPhysicsRelativePath": "尤力量子力学期末/答案5.jpg",
+      "public": true,
+      "role": "未署名手写参考解答图片",
+      "bodyIdentity": "delta势变分与方井边界变化主题分别与Choice A的Q4/Q5主要条件相符，含B卷题号标记；不证明完整B卷或该届正式配套。",
+      "publicRawWhitelistReason": "完整可见学术试题/未署名参考解答，逐页视觉审阅未见姓名学号/私人联系方式；原件小于10MB，JPG无EXIF/GPS；不改原件或去水印"
+    },
+    {
+      "path": "量子力学/往年题/2024-2025秋_量子力学I期末_ChoiceA_教师未核/参考解答_来源配套_官方性未核/答案4.jpg",
+      "size": 145679,
+      "sha256": "c0e6d54cd9700ad20ed979045f9d520c915955e4340388364e3693c33f014ac2",
+      "oldPhysicsRelativePath": "尤力量子力学期末/答案4.jpg",
+      "public": true,
+      "role": "未署名手写参考解答图片",
+      "bodyIdentity": "三维方井微扰主题与所存Choice A的Q3主要条件相符，但原手写题号与本卷不一致，并含B卷补充；不按文件名当作本卷Q4官方答案。",
+      "publicRawWhitelistReason": "完整可见学术试题/未署名参考解答，逐页视觉审阅未见姓名学号/私人联系方式；原件小于10MB，JPG无EXIF/GPS；不改原件或去水印"
+    }
+  ]
+}
