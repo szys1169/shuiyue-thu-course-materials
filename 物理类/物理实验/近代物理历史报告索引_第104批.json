@@ -1,0 +1,129 @@
+{
+  "batch": 104,
+  "sourceLibrary": "6f4b1cfc-208b-4b3f-b2ac-bac77f97246f",
+  "sourceDirectory": "物理类/物理实验/近代物理实验",
+  "scope": "根部15份历史学生DOC报告；非正式指导",
+  "rawPublic": false,
+  "items": [
+    {
+      "name": "USB接口实验.doc",
+      "category": "光电与接口",
+      "role": "带已填身份的历史学生实验报告",
+      "bytes": 148992,
+      "sha256": "e4ff518e3ab9e61e54fe21d4dfa00ac6601cefc633b6d9f3040090ddcdf47795",
+      "rawPublic": false
+    },
+    {
+      "name": "双光子测厚.doc",
+      "category": "原子核与光谱",
+      "role": "带已填身份的历史学生实验报告",
+      "bytes": 691712,
+      "sha256": "b063e2cae94287c5c0a056076afd509bcdebbef7fb46d35e330a3465fb3fc40b",
+      "rawPublic": false
+    },
+    {
+      "name": "实验一CVD金刚石膜生长与扫描电子显微镜观察.doc",
+      "category": "材料与显微测量",
+      "role": "带已填身份的历史学生实验报告",
+      "bytes": 420352,
+      "sha256": "087ebaa1817cab3e1236abe279194e0a6ed625203ee95d835e06f612957d0b89",
+      "rawPublic": false
+    },
+    {
+      "name": "实验七晶体的电光效应及其应用.doc",
+      "category": "光电与接口",
+      "role": "带已填身份的历史学生实验报告",
+      "bytes": 1804800,
+      "sha256": "7791759ca95d04c05d6d1c331ab8a774783f032b49b1e6cb655e8a88f5285f3a",
+      "rawPublic": false
+    },
+    {
+      "name": "实验三用反射椭偏仪测量折射率和薄膜厚度.doc",
+      "category": "材料与显微测量",
+      "role": "带已填身份的历史学生实验报告",
+      "bytes": 280576,
+      "sha256": "66a4e34779a7c9dd3779949f48a1ca940815b9cda5a0cf6a0ea14124ae2150bf",
+      "rawPublic": false
+    },
+    {
+      "name": "实验五 He-Ne激光器放电条件的研究.doc",
+      "category": "光电与接口",
+      "role": "带已填身份的历史学生实验报告",
+      "bytes": 311808,
+      "sha256": "d13eca4fdd71d2d807fd1b52e1f2709ea0677d3fd3b12eb90aa140b175d8ce7c",
+      "rawPublic": false
+    },
+    {
+      "name": "实验六X射线标识谱与吸收.doc",
+      "category": "原子核与光谱",
+      "role": "带已填身份的历史学生实验报告",
+      "bytes": 208896,
+      "sha256": "bc1a61ad2294294545eaca92037a1e0f9234eb200fee28e23ffb96f45844fcab",
+      "rawPublic": false
+    },
+    {
+      "name": "实验四核磁共振.doc",
+      "category": "原子核与光谱",
+      "role": "带已填身份的历史学生实验报告",
+      "bytes": 331264,
+      "sha256": "cb606dd827f47de7b69670ab3de91b641350aa32324d088421180a6d2fe11511",
+      "rawPublic": false
+    },
+    {
+      "name": "扫描隧道显微镜.doc",
+      "category": "材料与显微测量",
+      "role": "带已填身份的历史学生实验报告",
+      "bytes": 44032,
+      "sha256": "233c707056da18405ba8999fc4041ed0183e1052ee3da11b0b3aaf2d904b7850",
+      "rawPublic": false
+    },
+    {
+      "name": "正电子湮没寿命谱测量.doc",
+      "category": "原子核与光谱",
+      "role": "带已填身份的历史学生实验报告",
+      "bytes": 280064,
+      "sha256": "8919096ca9d3d35ca88cd9764df9071aeed01982ad648e883cf288ddba3be9a6",
+      "rawPublic": false
+    },
+    {
+      "name": "磁流变体的巨磁阻效应.doc",
+      "category": "材料与显微测量",
+      "role": "带已填身份的历史学生实验报告",
+      "bytes": 2174976,
+      "sha256": "5f7a4d82e9404895985f1ae1a77c24c9aa2270b8298ae5b8f1b7764e8cf673d5",
+      "rawPublic": false
+    },
+    {
+      "name": "能谱的测量与新型半导体探测器.doc",
+      "category": "原子核与光谱",
+      "role": "带已填身份的历史学生实验报告",
+      "bytes": 800256,
+      "sha256": "46bd6f19fc75a2e288d3667094f58a2d4a4a3b6bc002d20e00a3dcbe2f959b77",
+      "rawPublic": false
+    },
+    {
+      "name": "近物13_穆斯堡尔效应.doc",
+      "category": "原子核与光谱",
+      "role": "带已填身份的历史学生实验报告",
+      "bytes": 130560,
+      "sha256": "e319e838a386b4ce8216ec2ed85e58481b528f645b8e6a59af6ea046ff9368f1",
+      "rawPublic": false
+    },
+    {
+      "name": "钠原子光谱的拍摄与分析.doc",
+      "category": "原子核与光谱",
+      "role": "带已填身份的历史学生实验报告",
+      "bytes": 204288,
+      "sha256": "ba58de403ae8bdab772e29ff332fbf2b431f90eb2913d129d1d180dd7f33d825",
+      "rawPublic": false
+    },
+    {
+      "name": "锰硅合金变温度热电性能测量.doc",
+      "category": "材料与显微测量",
+      "role": "带已填身份的历史学生实验报告",
+      "bytes": 972800,
+      "sha256": "cc865cbd35c51228ffce50c1acf66c7951cf45a41073845474fac1e865bde7d0",
+      "rawPublic": false
+    }
+  ]
+}
