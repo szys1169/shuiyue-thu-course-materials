@@ -1,0 +1,68 @@
+{
+  "batch": 108,
+  "sourceLibrary": "6f4b1cfc-208b-4b3f-b2ac-bac77f97246f",
+  "sourceDirectory": "物理类/物理实验/近代物理实验/课程相关",
+  "rawPublic": false,
+  "items": [
+    {
+      "path": "课程资料/历史课程说明_来源物理资料库_第108批/05-06学年度秋季学期普物实验绪论课表.doc",
+      "name": "05-06学年度秋季学期普物实验绪论课表.doc",
+      "role": "历史普物实验绪论安排",
+      "identityEvidence": "正文2005-2006学年度秋季，2005.9.8；该日期只对本件有效",
+      "author": "未核",
+      "bytes": 47616,
+      "sha256": "d8ffc1e3b5adf2f09bdfb269a4790f32ea5e5f965b9342827f3a89f017d9f1c8",
+      "rawPublic": false
+    },
+    {
+      "path": "课程资料/历史课程说明_来源物理资料库_第108批/coursetable.doc",
+      "name": "coursetable.doc",
+      "role": "历史普物实验排课表",
+      "identityEvidence": "正文单/双周表均为2005.2—2005.6，不归成上一件秋季日期",
+      "author": "未核",
+      "bytes": 192000,
+      "sha256": "1baaafa9568730bab3a02740c0802717c0b506e6ff6d5fd2ca01a41c4b984113",
+      "rawPublic": false
+    },
+    {
+      "path": "课程资料/历史课程说明_来源物理资料库_第108批/sybgyq.doc",
+      "name": "sybgyq.doc",
+      "role": "实验报告与预习要求及参考格式",
+      "identityEvidence": "作者、年份未核；参考格式不当作当前课程新要求",
+      "author": "未核",
+      "bytes": 82944,
+      "sha256": "b1a22b6982461be80339f5efef5b85c9b1377d80728a670803309370246a2ea5",
+      "rawPublic": false
+    },
+    {
+      "path": "课程资料/历史课程说明_来源物理资料库_第108批/sysfbtb.doc",
+      "name": "sysfbtb.doc",
+      "role": "历史实验室分布说明",
+      "identityEvidence": "作者、年份未核；不把本件推为当前布局",
+      "author": "未核",
+      "bytes": 78848,
+      "sha256": "af30aa1fd03a7c6eeab53b2678b6f181afe11f6e0a50277d06f38f10b36c783a",
+      "rawPublic": false
+    },
+    {
+      "path": "_过程材料/课程相关历史附件_第108批/用传感器测空气的相对压力系数实验数据.xls",
+      "name": "用传感器测空气的相对压力系数实验数据.xls",
+      "role": "来源名实验数据XLS_内容未完整核",
+      "identityEvidence": "仅OLE BIFF文字候选，不是完整单元格解析，未执行计算或宏",
+      "author": "未核",
+      "bytes": 19968,
+      "sha256": "8c96e0c31743d8b6b3b9ed289a57c7b855959913b1e51356e87d8442a60b6bee",
+      "rawPublic": false
+    },
+    {
+      "path": "_过程材料/课程相关历史附件_第108批/近代物理实验报告.rar",
+      "name": "近代物理实验报告.rar",
+      "role": "来源名历史报告RAR_未展开",
+      "identityEvidence": "只核原文件SHA与size，未展开、不执行，不确认包内文件或隐私",
+      "author": "未核",
+      "bytes": 2326122,
+      "sha256": "425d44342e9a3361246aa7aec6dde87fe96a3f6327ccb6f1887ea2040a8f18a2",
+      "rawPublic": false
+    }
+  ]
+}
