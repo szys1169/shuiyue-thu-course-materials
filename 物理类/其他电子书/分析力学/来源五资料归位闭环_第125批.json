@@ -1,0 +1,66 @@
+{
+  "source": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E5%88%86%E6%9E%90%E5%8A%9B%E5%AD%A6",
+  "scope": "仅原来源叶目录5PDF，非全分析力学",
+  "rawCount": 5,
+  "rawBytes": 179820119,
+  "parserPages": 1901,
+  "allRawPrivate": true,
+  "evidenceBoundary": "122来源/云盘历史回取证据4件复用；125仅1原书新取，最终本地5件SHA同时复核，不冒称5来源/最终云盘全重新下载",
+  "items": [
+    {
+      "sourceName": "Jennifer Coopersmith - The Lazy Universe_ An Introduction to the Principle of Least Action (2017, Oxford University Press) - libgen.lc.pdf",
+      "bytes": 3038177,
+      "sha256": "1ca3a90be463a8f9b307c5e74bd86d2c8d746ced80c066893664168173780b6f",
+      "parserPages": 280,
+      "privateCanonicalPath": "物理类/分析力学/教材/Coopersmith_最小作用量原理_OUP2017/Jennifer Coopersmith - The Lazy Universe_ An Introduction to the Principle of Least Action (2017, Oxford University Press) - libgen.lc.pdf",
+      "migrationBatch": 122,
+      "sourceSHAEvidence": "第122批源/旧目标SHA逐件证据复用",
+      "cloudEvidence": "第122批最终12scope回取SHA证据复用",
+      "publicRaw": false
+    },
+    {
+      "sourceName": "Jakob Schwichtenberg - No-Nonsense Classical Mecnanics. A Student- Friendly introduction (2019, NO-NONSENSE BOOKS) - libgen.lc.pdf",
+      "bytes": 19380296,
+      "sha256": "bd4b3e589596d9b1f7b3e937d738276b471b66088b74d3bf2075f6ea635b93e7",
+      "parserPages": 395,
+      "privateCanonicalPath": "物理类/分析力学/教材/NoNonsense_经典力学_2019首印/Jakob Schwichtenberg - No-Nonsense Classical Mecnanics. A Student- Friendly introduction (2019, NO-NONSENSE BOOKS) - libgen.lc.pdf",
+      "migrationBatch": 122,
+      "sourceSHAEvidence": "第122批源/旧目标SHA逐件证据复用",
+      "cloudEvidence": "第122批最终12scope回取SHA证据复用",
+      "publicRaw": false
+    },
+    {
+      "sourceName": "AdvancedClassicalMechanicsMIT8_09F14.pdf",
+      "bytes": 6408918,
+      "sha256": "1a73f422362017030b38337a5b53a07f4e89365798ae407d43cb732a2fb0887d",
+      "parserPages": 199,
+      "privateCanonicalPath": "物理类/分析力学/讲义/MIT8_09_2014秋_2016版权合订本/AdvancedClassicalMechanicsMIT8_09F14.pdf",
+      "migrationBatch": 122,
+      "sourceSHAEvidence": "第122批源/旧目标SHA逐件证据复用",
+      "cloudEvidence": "第122批最终12scope回取SHA证据复用",
+      "publicRaw": false
+    },
+    {
+      "sourceName": "[Arnold]_经典力学的数学方法__阿诺尔德.pdf",
+      "bytes": 20317031,
+      "sha256": "11f00176cadac9fb6ef1ac39c9febe7b2b01fe5782d68781879fb3d191f48729",
+      "parserPages": 435,
+      "privateCanonicalPath": "物理类/分析力学/教材/Arnold_原著第4版_中译2006第2版/_过程材料/来源批注扫描/[Arnold]_经典力学的数学方法__阿诺尔德.pdf",
+      "migrationBatch": 122,
+      "sourceSHAEvidence": "第122批源/旧目标SHA逐件证据复用",
+      "cloudEvidence": "第122批最终12scope回取SHA证据复用",
+      "publicRaw": false
+    },
+    {
+      "sourceName": "Analytical Mechanics by Hand L.N., Finch J.D. (z-lib.org).pdf",
+      "bytes": 130675697,
+      "sha256": "bd2937eb96a889286ee82f3906315677c16cc10afb7439ad5b7d1136f176a1a9",
+      "parserPages": 592,
+      "privateCanonicalPath": "物理类/分析力学/教材/HandFinch_分析力学_1998版2008第7印/Analytical Mechanics by Hand L.N., Finch J.D. (z-lib.org).pdf",
+      "migrationBatch": 125,
+      "sourceSHAEvidence": "第125批来源/旧目标新取原件SHA",
+      "cloudEvidence": "第125批最终scope新取验证，完成以最终验收为准",
+      "publicRaw": false
+    }
+  ]
+}

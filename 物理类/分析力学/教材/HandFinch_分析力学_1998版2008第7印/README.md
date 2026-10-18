@@ -1,0 +1,9 @@
+# Hand与Finch：Analytical Mechanics
+
+来源：[清华共享物理资料「其他电子书 / 分析力学」](https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E5%88%86%E6%9E%90%E5%8A%9B%E5%AD%A6)。第125批（2026-10-18）源与本人既有同名目标逐大小/SHA同字节确认后，仅本人云盘内归位，原名原字节保留，未上传ZIP或重新上传原书。
+
+书名Analytical Mechanics，作者Louis N. Hand、Janet D. Finch；扉页Cambridge University Press，版权页©1998、First published 1998、7th printing 2008。1998是首次出版，2008是第7次印刷，未称2008新版。
+
+130,675,697字节、592个解析页，SHA256 `bd2937eb96a889286ee82f3906315677c16cc10afb7439ad5b7d1136f176a1a9`。此次PyMuPDF0注释、未结构恢复、无记录告警；扫描前15页文本提取为空但首版权/目录/中末页已实际看图，文本为空不等于空白页，不做OCR改写；未逐页审读592页或保证全文质量。
+
+整书仅本人云盘/本地私有，Git仅安全书目、来源和SHA索引。不认当前指定教材、教师或标准作业答案；原权利归相应权利人，收录不授予额外传播许可。
