@@ -1,0 +1,29 @@
+{
+  "batch": 83,
+  "source": "来源为物理资料库原“CASIO fx-999CN CW 中文版科学计算器在物理计算中的应用”目录及本人水月的资料同位置已有副本。源库只读，源与旧目标完整下载SHA一致后仅目标同库服务器移动，原名原字节保持。",
+  "oldCourseRelativePath": "CASIO fx-999CN CW中文版科学计算器材料力学解题应用.mp4",
+  "finalCourseRelativePath": "视频/材料力学/CASIO fx-999CN CW中文版科学计算器材料力学解题应用.mp4",
+  "name": "CASIO fx-999CN CW中文版科学计算器材料力学解题应用.mp4",
+  "bytes": 302591780,
+  "sha256": "295a447a8ff679afca6e012f69b7fbb03b140f77ffddb726a4ea5878ec646549",
+  "sourceOldTargetEqual": true,
+  "fps": 30.0,
+  "frames": 52140.0,
+  "durationSeconds": 1738.0,
+  "width": 1920.0,
+  "height": 1080.0,
+  "fourcc": 875967080,
+  "samples": [
+    0,
+    60,
+    869.0
+  ],
+  "fullVideoWatched": false,
+  "rawPublic": false,
+  "author": "未核",
+  "teacher": "未核",
+  "date": "未核",
+  "term": "未核",
+  "videoReupload": 0,
+  "zipUpload": 0
+}
