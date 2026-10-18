@@ -1,0 +1,68 @@
+{
+  "batch": 98,
+  "date": "2026-10-18",
+  "source": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%B9%BF%E4%B9%89%E7%9B%B8%E5%AF%B9%E8%AE%BA",
+  "scope": "课程根原6PDF",
+  "files": [
+    {
+      "path": "教材/Carroll_2014_Pearson国际版/Spacetime and Geometry An Introduction to General Relativity by Sean Carroll (z-lib.org).pdf",
+      "sourceName": "Spacetime and Geometry An Introduction to General Relativity by Sean Carroll (z-lib.org).pdf",
+      "bytes": 25316969,
+      "sha256": "12c362ef69253aeabd7317f8161185f62ec349b854267f8979da082ed8239353",
+      "parserPages": 530,
+      "role": "教材",
+      "bibliographicEvidence": "Sean Carroll；Spacetime and Geometry: An Introduction to General Relativity；Pearson New International Edition，版权页©Pearson Education Limited 2014；530个解析页。",
+      "publicRaw": false
+    },
+    {
+      "path": "教材/梁灿彬_周彬_第二版三册/微分几何入门与广义相对论上（梁灿彬）.pdf",
+      "sourceName": "微分几何入门与广义相对论上（梁灿彬）.pdf",
+      "bytes": 48362268,
+      "sha256": "cca4b86030c0e07d6c7321885fd30079f125d05fa5179f787f56a97fe6af52d7",
+      "parserPages": 456,
+      "role": "教材",
+      "bibliographicEvidence": "梁灿彬、周彬，《微分几何入门与广义相对论》上册第二版；科学出版社，2006年1月第二版、第一次印刷；456个解析页。",
+      "publicRaw": false
+    },
+    {
+      "path": "教材/梁灿彬_周彬_第二版三册/微分几何入门与广义相对论下（梁灿彬）.pdf",
+      "sourceName": "微分几何入门与广义相对论下（梁灿彬）.pdf",
+      "bytes": 12459582,
+      "sha256": "55129e23d8bc31edbe48a02144e60011ad5c0dd3a5d89cff7dcb03dc18aa2a4f",
+      "parserPages": 402,
+      "role": "教材",
+      "bibliographicEvidence": "梁灿彬、周彬，《微分几何入门与广义相对论》下册第二版；科学出版社，2009年8月第二版、第一次印刷；402个解析页。",
+      "publicRaw": false
+    },
+    {
+      "path": "教材/梁灿彬_周彬_第二版三册/微分几何入门与广义相对论中（梁灿彬）.pdf",
+      "sourceName": "微分几何入门与广义相对论中（梁灿彬）.pdf",
+      "bytes": 10297491,
+      "sha256": "e3636ab78e6005e2d037897b06d2472fc65957735a309a505440ebb6c1177630",
+      "parserPages": 361,
+      "role": "教材",
+      "bibliographicEvidence": "梁灿彬、周彬，《微分几何入门与广义相对论》中册第二版；科学出版社，2009年3月第二版、第二次印刷；361个解析页。",
+      "publicRaw": false
+    },
+    {
+      "path": "教材/温伯格_引力和宇宙学_2018中译本/引力和宇宙学——广义相对论的原理和应用 by [美]S. 温伯格 Steven Weinberg (z-lib.org).pdf",
+      "sourceName": "引力和宇宙学——广义相对论的原理和应用 by [美]S. 温伯格 Steven Weinberg (z-lib.org).pdf",
+      "bytes": 98756606,
+      "sha256": "f19a0ef10ef81493a891caba2ad1786f53ec109c6cdc20f179859ccb72441b42",
+      "parserPages": 664,
+      "role": "教材",
+      "bibliographicEvidence": "S.温伯格（Steven Weinberg）著，邹振隆等译；《引力和宇宙学：广义相对论的原理和应用》；高等教育出版社，2018年2月第1版第1次印刷。英文原版版权©1972与中译版日期分开，664个解析页。",
+      "publicRaw": false
+    },
+    {
+      "path": "习题与解答/微分几何入门与广义相对论上册_来源解答_编者年份未核/微分几何入门及广义相对论答案.pdf",
+      "sourceName": "微分几何入门及广义相对论答案.pdf",
+      "bytes": 1483621,
+      "sha256": "4bbfd9dad9a796d028293641e0f782e9cb5bd7baa96ce9b4ee694b59e0a06e72",
+      "parserPages": 169,
+      "role": "教材配套参考解答",
+      "bibliographicEvidence": "首页《微分几何入门与广义相对论》（上册）习题解答；169个解析页，目录含上册10章及末尾(Dis)claimer，未给出可独立核实的编者和年份；末尾自述所有错误由编写者本人承担，不据此认出版社标准答案或教材作者编写。",
+      "publicRaw": false
+    }
+  ]
+}
