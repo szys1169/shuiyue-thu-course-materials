@@ -1,0 +1,44 @@
+{
+  "batch": 119,
+  "sourceLibrary": "6f4b1cfc-208b-4b3f-b2ac-bac77f97246f",
+  "sourceDirectory": "物理类/物理实验/近代物理实验/实验报告others/近代物理实验",
+  "scope": "来源编号1-7四件历史示意与数据",
+  "topicEvidence": "实际BMP为中心谱线及两侧频移谱线、激光至单色仪及光子计数装置；XLS只读候选出现散射喇曼光谱、波长及光强。仅确认拉曼散射相关主题，不认定完整正式指导。",
+  "authorYear": "作者、年份、学期及官方性未核。",
+  "rawPublic": false,
+  "aliasPolicy": "稳定序号+原件SHA前10位仅显示元信息，真实原名与相对路径仅本地私有映射；物理原件未改名。",
+  "items": [
+    {
+      "alias": "原件_01_108be1ca67.bmp",
+      "role": "拉曼散射相关谱线或装置示意图",
+      "bytes": 14398,
+      "sha256": "108be1ca672893c916101c43050b54ef62ca6bf4ae4e63ff533ed923c54ee5f8",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_02_4713b38e2b.xls",
+      "role": "旧XLS历史数据附件_完整单元格与身份未核",
+      "bytes": 84480,
+      "sha256": "4713b38e2b6039ebe0f8da6ff216ead5057bcfaa3f350c1a9335189e01db42b1",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_03_690be689eb.bmp",
+      "role": "拉曼散射相关谱线或装置示意图",
+      "bytes": 13502,
+      "sha256": "690be689ebf3f2182ededf2eb76b1edccd62f3e3f9f801eac0311033eb5ee5ae",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_04_3ede8c0878.xls",
+      "role": "旧XLS历史数据附件_完整单元格与身份未核",
+      "bytes": 64000,
+      "sha256": "3ede8c0878f133a265951cc58c83ca63ddee074a09f3a5a0a2903c7ced173311",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    }
+  ]
+}
