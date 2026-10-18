@@ -1,0 +1,38 @@
+{
+  "originalManifest": "网络学堂文件清单_2026-09-17.csv（本地历史记录，不随本批公开）",
+  "originalIndex": "网络学堂整理索引_2026-09-17.md（本地历史记录，不随本批公开）",
+  "recordRole": "历史本地下载清单摘取本课5行；本批fresh SHA逐项匹配；不是本批重新访问或下载证据",
+  "course": "计算机网络原理",
+  "files": [
+    {
+      "originalLocalRelativePath": "0-P4交换机实验介绍.pdf",
+      "bytes": 860029,
+      "sha256": "fe7280f277cd976f938b64f38416ef29eccc78a5d1172ecef51832415ca08c7b",
+      "matchedOriginalManifest": true
+    },
+    {
+      "originalLocalRelativePath": "20260916-wjp-第一章-引言.pdf",
+      "bytes": 4174728,
+      "sha256": "3745de355ff0a1caa70917fcb06d8481b2cf7e0d8d8081409d0ee758092e2311",
+      "matchedOriginalManifest": true
+    },
+    {
+      "originalLocalRelativePath": "20260916-wjp-课程介绍.pdf",
+      "bytes": 1643493,
+      "sha256": "fd097fb215da954ee2fdddd91913fd781968664314a0520afe61504bdaf84b18",
+      "matchedOriginalManifest": true
+    },
+    {
+      "originalLocalRelativePath": "ch0.pdf",
+      "bytes": 1765320,
+      "sha256": "2708363905ade8e9486ba271a012870bfc3c7708e3129684554908ad345fcfdf",
+      "matchedOriginalManifest": true
+    },
+    {
+      "originalLocalRelativePath": "ch1_Introduction.pdf",
+      "bytes": 9688865,
+      "sha256": "a3c8042fa47bc0a0ff17e23c4397dfa2321412e0f85536e9df61744f30cd4acb",
+      "matchedOriginalManifest": true
+    }
+  ]
+}

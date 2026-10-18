@@ -1,0 +1,72 @@
+{
+  "batch": 73,
+  "count": 5,
+  "bytes": 18132435,
+  "files": [
+    {
+      "originalName": "0-P4交换机实验介绍.pdf",
+      "originalLocalRelativePath": "0-P4交换机实验介绍.pdf",
+      "path": "实验介绍/P4交换机实验团队_2026年9月/0-P4交换机实验介绍.pdf",
+      "bytes": 860029,
+      "sha256": "fe7280f277cd976f938b64f38416ef29eccc78a5d1172ecef51832415ca08c7b",
+      "pages": 13,
+      "role": "实验项目介绍",
+      "identityEvidence": "首页P4交换机实验团队，2026年9月；团队资料，不推定为某位教师单独作者。",
+      "source": "本地网络学堂历史下载；2026-09-17原清单逐路径/字节/SHA一致。未在本批登录学堂重核具体入口与授课学期。",
+      "cloudOperation": "云盘原目录无该课程，新建后按原字节上传；无ZIP",
+      "publicGit": "metadata_only"
+    },
+    {
+      "originalName": "20260916-wjp-第一章-引言.pdf",
+      "originalLocalRelativePath": "20260916-wjp-第一章-引言.pdf",
+      "path": "讲义/课程组_原文件名标20260916/20260916-wjp-第一章-引言.pdf",
+      "bytes": 4174728,
+      "sha256": "3745de355ff0a1caa70917fcb06d8481b2cf7e0d8d8081409d0ee758092e2311",
+      "pages": 48,
+      "role": "教师课程讲义",
+      "identityEvidence": "首页课程号40240513，讲课教师吴建平、徐明伟、尹霞、崔勇。20260916仅文件名证据；不将正文中互联网历史统计年份当授课年。",
+      "source": "本地网络学堂历史下载；2026-09-17原清单逐路径/字节/SHA一致。未在本批登录学堂重核具体入口与授课学期。",
+      "cloudOperation": "云盘原目录无该课程，新建后按原字节上传；无ZIP",
+      "publicGit": "metadata_only"
+    },
+    {
+      "originalName": "20260916-wjp-课程介绍.pdf",
+      "originalLocalRelativePath": "20260916-wjp-课程介绍.pdf",
+      "path": "课程介绍/课程组_原文件名标20260916/20260916-wjp-课程介绍.pdf",
+      "bytes": 1643493,
+      "sha256": "fd097fb215da954ee2fdddd91913fd781968664314a0520afe61504bdaf84b18",
+      "pages": 21,
+      "role": "课程介绍",
+      "identityEvidence": "首页列吴建平、徐明伟、尹霞、崔勇；第3页主讲吴建平。20260916仅文件名日期，学期待学堂核验。",
+      "source": "本地网络学堂历史下载；2026-09-17原清单逐路径/字节/SHA一致。未在本批登录学堂重核具体入口与授课学期。",
+      "cloudOperation": "云盘原目录无该课程，新建后按原字节上传；无ZIP",
+      "publicGit": "metadata_only"
+    },
+    {
+      "originalName": "ch0.pdf",
+      "originalLocalRelativePath": "ch0.pdf",
+      "path": "课程介绍/徐明伟_学期未核/ch0.pdf",
+      "bytes": 1765320,
+      "sha256": "2708363905ade8e9486ba271a012870bfc3c7708e3129684554908ad345fcfdf",
+      "pages": 14,
+      "role": "课程介绍",
+      "identityEvidence": "首页明确徐明伟、清华大学计算机系；第二页课程教师信息；未据正文确认本文件授课年份，不能因与带日期文件同目录而强定同一学期。",
+      "source": "本地网络学堂历史下载；2026-09-17原清单逐路径/字节/SHA一致。未在本批登录学堂重核具体入口与授课学期。",
+      "cloudOperation": "云盘原目录无该课程，新建后按原字节上传；无ZIP",
+      "publicGit": "metadata_only"
+    },
+    {
+      "originalName": "ch1_Introduction.pdf",
+      "originalLocalRelativePath": "ch1_Introduction.pdf",
+      "path": "讲义/作者与学期未核/ch1_Introduction.pdf",
+      "bytes": 9688865,
+      "sha256": "a3c8042fa47bc0a0ff17e23c4397dfa2321412e0f85536e9df61744f30cd4acb",
+      "pages": 85,
+      "role": "引言讲义",
+      "identityEvidence": "首页第一章引言、计算机网络的历史和新进展，清华背景；未发现足够逐份作者证据，视觉相近不等于作者已核。第20页出现2025.12统计，不能当授课日期。",
+      "source": "本地网络学堂历史下载；2026-09-17原清单逐路径/字节/SHA一致。未在本批登录学堂重核具体入口与授课学期。",
+      "cloudOperation": "云盘原目录无该课程，新建后按原字节上传；无ZIP",
+      "publicGit": "metadata_only"
+    }
+  ]
+}
