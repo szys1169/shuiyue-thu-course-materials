@@ -1,0 +1,82 @@
+{
+  "batch": 174,
+  "sourceDirectory": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E6%95%B0%E5%AD%A6",
+  "oldDirectory": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E6%95%B0%E5%AD%A6",
+  "destination": "物理类/群论/讲义/外校群论来源讲义_第174批",
+  "rawPaths": 3,
+  "uniqueSHA": 3,
+  "rawBytes": 23445797,
+  "parsedPages": 796,
+  "reviewBoundary": "三份完整来源讲义均私有；Git仅来源与分类说明。共3路径23,445,797字节、3唯一SHA、796解析页，源/旧目标同SHA。每份5页共15页实际视觉，全部页仅结构计数；批注、表单、嵌入计数为0，repaired=false，本次解析及15渲染样页警告为空，不保证全本完整、无身份内容或数学排版正确。样页图文主体可读，抽文不保留全部公式与图文顺序，不修原件。规范PDF同大小SHA候选未命中，非全盘无重复声明。",
+  "books": [
+    {
+      "sourceName": "tHooft Lie Groups in Physics.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E6%95%B0%E5%AD%A6/tHooft%20Lie%20Groups%20in%20Physics.pdf",
+      "studyRelativePath": "物理类/群论/讲义/外校群论来源讲义_第174批/tHooft Lie Groups in Physics.pdf",
+      "cloudRelativePath": "物理类/群论/讲义/外校群论来源讲义_第174批/tHooft Lie Groups in Physics.pdf",
+      "bytes": 461381,
+      "sha256": "42419500ed0724cf708bd021f245e5b312d7b1a7137902d0c6cde19fdb066bf6",
+      "parsedPages": 74,
+      "description": "Lie Groups in Physics：English version by G. ’t Hooft；Original text by M. J. G. Veltman、B. Q. P. J. de Wit、G. ’t Hooft，角色分别保留。Institute for Theoretical Physics, Utrecht University, Beta Faculty；正文version 25/06/07及2007，视为2007-06-25稿版本日期，不认出版社出版年。74解析页。",
+      "visualPhysicalPages": [
+        1,
+        2,
+        3,
+        38,
+        73
+      ],
+      "annotations": 0,
+      "widgets": 0,
+      "embeddedAttachments": 0,
+      "repaired": false,
+      "observedWarnings": "",
+      "rawPublic": false
+    },
+    {
+      "sourceName": "UCSD Lecture Notes on Group Theory in Physics.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E6%95%B0%E5%AD%A6/UCSD%20Lecture%20Notes%20on%20Group%20Theory%20in%20Physics.pdf",
+      "studyRelativePath": "物理类/群论/讲义/外校群论来源讲义_第174批/UCSD Lecture Notes on Group Theory in Physics.pdf",
+      "cloudRelativePath": "物理类/群论/讲义/外校群论来源讲义_第174批/UCSD Lecture Notes on Group Theory in Physics.pdf",
+      "bytes": 14735175,
+      "sha256": "17fb7a26e99e544e4114d952c32e2c138e2f6e676ca02d499dc26cab11c6d317",
+      "parsedPages": 322,
+      "description": "Lecture Notes on Group Theory in Physics：Daniel Arovas，Department of Physics, University of California, San Diego；首页March 25, 2021为稿日期，明确A Work in Progress，不称终稿或清华指定讲义。322解析页。",
+      "visualPhysicalPages": [
+        1,
+        2,
+        19,
+        161,
+        320
+      ],
+      "annotations": 0,
+      "widgets": 0,
+      "embeddedAttachments": 0,
+      "repaired": false,
+      "observedWarnings": "",
+      "rawPublic": false
+    },
+    {
+      "sourceName": "群论李新征.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E6%95%B0%E5%AD%A6/%E7%BE%A4%E8%AE%BA%E6%9D%8E%E6%96%B0%E5%BE%81.pdf",
+      "studyRelativePath": "物理类/群论/讲义/外校群论来源讲义_第174批/群论李新征.pdf",
+      "cloudRelativePath": "物理类/群论/讲义/外校群论来源讲义_第174批/群论李新征.pdf",
+      "bytes": 8249241,
+      "sha256": "85c4abb4ca1d43b4b91564e063e519092ea45dfc9c44e82471d03d6188a9243c",
+      "parsedPages": 400,
+      "description": "《群论一》讲义：李新征，北京大学物理学院；前言2018-12-30，仅认前言日期，不推版本/出版年或清华课程学期。400解析页；尾部样页可见部分矢量公式文字/命令残留样式，保留原件，数学排版须对照页图核查。",
+      "visualPhysicalPages": [
+        1,
+        3,
+        21,
+        200,
+        398
+      ],
+      "annotations": 0,
+      "widgets": 0,
+      "embeddedAttachments": 0,
+      "repaired": false,
+      "observedWarnings": "",
+      "rawPublic": false
+    }
+  ]
+}
