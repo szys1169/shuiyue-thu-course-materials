@@ -1,0 +1,81 @@
+{
+  "batch": 79,
+  "sourceDirectory": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%BC%95%E5%8A%9B%E7%90%86%E8%AE%BA%E9%80%89%E8%AE%B2",
+  "scope": "6份作业题；原来源另24讲义不在本批",
+  "missingSourceNumber": 6,
+  "totalOriginalBytes": 157324,
+  "records": [
+    {
+      "path": "作业/学期未核_来源编号系列/题目/homework1.pdf",
+      "bytes": 22594,
+      "sha256": "cad1c6fa5047368490361e87f1158c63bed12fe8a076c521dccee64ff3bc9116",
+      "pages": 1,
+      "annotations": 0,
+      "role": "作业题目",
+      "filenameYear": null,
+      "verifiedTerm": null,
+      "verifiedAuthor": null,
+      "sourceName": "homework1.pdf"
+    },
+    {
+      "path": "作业/学期未核_来源编号系列/题目/homework2.pdf",
+      "bytes": 15409,
+      "sha256": "9e3850bb3d5db320f63a1d73f748cc78579b8dfbb8896622c73b7405e9fc8647",
+      "pages": 1,
+      "annotations": 0,
+      "role": "作业题目",
+      "filenameYear": null,
+      "verifiedTerm": null,
+      "verifiedAuthor": null,
+      "sourceName": "homework2.pdf"
+    },
+    {
+      "path": "作业/学期未核_来源编号系列/题目/homework3-2022.pdf",
+      "bytes": 26809,
+      "sha256": "3b700f239c118c9ff63869d580bba0efcda24ce7d1089d0faefeba84b49f882d",
+      "pages": 2,
+      "annotations": 0,
+      "role": "作业题目",
+      "filenameYear": "2022",
+      "verifiedTerm": null,
+      "verifiedAuthor": null,
+      "sourceName": "homework3-2022.pdf"
+    },
+    {
+      "path": "作业/学期未核_来源编号系列/题目/homework4-2022.pdf",
+      "bytes": 25681,
+      "sha256": "c27c121cc70bf885da06cab8c2c426b020b70abea8b8b24f5da84a9942e3f36b",
+      "pages": 1,
+      "annotations": 0,
+      "role": "作业题目",
+      "filenameYear": "2022",
+      "verifiedTerm": null,
+      "verifiedAuthor": null,
+      "sourceName": "homework4-2022.pdf"
+    },
+    {
+      "path": "作业/学期未核_来源编号系列/题目/homework5 - 2022.pdf",
+      "bytes": 30247,
+      "sha256": "43353fa329741f16dba711bb38da31e20f10e61c51bad52226d04166dae57fab",
+      "pages": 2,
+      "annotations": 0,
+      "role": "作业题目",
+      "filenameYear": "2022",
+      "verifiedTerm": null,
+      "verifiedAuthor": null,
+      "sourceName": "homework5 - 2022.pdf"
+    },
+    {
+      "path": "作业/学期未核_来源编号系列/题目/homework7-2022.pdf",
+      "bytes": 36584,
+      "sha256": "a10d42e40ae8a51bf45f64a4f5f2666a9dd1f086cc5eb959337f39781f3154fb",
+      "pages": 2,
+      "annotations": 0,
+      "role": "作业题目",
+      "filenameYear": "2022",
+      "verifiedTerm": null,
+      "verifiedAuthor": null,
+      "sourceName": "homework7-2022.pdf"
+    }
+  ]
+}
