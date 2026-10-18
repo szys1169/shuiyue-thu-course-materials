@@ -1,0 +1,123 @@
+{
+  "batch": 217,
+  "date": "2026-10-19",
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%BC%97%E5%85%B0%E5%85%8B%E8%B5%AB%E5%85%B9%E5%AE%9E%E9%AA%8C",
+  "oldTargetUrl": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%BC%97%E5%85%B0%E5%85%8B%E8%B5%AB%E5%85%B9%E5%AE%9E%E9%AA%8C",
+  "selectedRawPaths": 10,
+  "selectedRawBytes": 1001778,
+  "uniqueSHA": 10,
+  "sameSHAExisting696": 0,
+  "items": [
+    {
+      "bytes": 33280,
+      "sha256": "bc5961a5175677eed8a655792dac6e79b71fa2107d0c1a8f973c0f4f48000df2",
+      "role": "Uf/UG/UR影响、峰值及手测记录空表；无已填身份，作者/官方性未核",
+      "identityConfirmed": false,
+      "sourceOldTargetEqual": true,
+      "sourceLabel": "原件路径1（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/弗兰克赫兹实验",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/弗兰克赫兹末件与来源闭环_第217批/数据表与原理图来源",
+      "publicRaw": false
+    },
+    {
+      "bytes": 26500,
+      "sha256": "38f6cf500ccc3267245372f4cd9fa66bae3bc8612134fc6a100f35ab037c4937",
+      "role": "数据处理与测量表DOCX，4个图表外部关系只读未跟随；不等同近名DOC，不运行图表/公式",
+      "identityConfirmed": false,
+      "sourceOldTargetEqual": true,
+      "sourceLabel": "原件路径2（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/弗兰克赫兹实验",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/弗兰克赫兹末件与来源闭环_第217批/数据表与原理图来源",
+      "publicRaw": false
+    },
+    {
+      "bytes": 181760,
+      "sha256": "07e867fa7263383c118ff95d501ea6735ff6761f2552a69408a18966fde4f48e",
+      "role": "正文实际填写个人身份的数据处理报告，完成报告日期2008-06-01；与近名DOCX异字节且表内数值有差，不认同版互替",
+      "identityConfirmed": true,
+      "sourceOldTargetEqual": true,
+      "sourceLabel": "原件路径3（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/弗兰克赫兹实验",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/弗兰克赫兹末件与来源闭环_第217批/已填身份的数据处理报告",
+      "publicRaw": false
+    },
+    {
+      "bytes": 27648,
+      "sha256": "ea4b0d31e4be38bc1cccc3177060c832ad12ef99674d7cb5d8fea08eb197da4c",
+      "role": "预习及实验后思考题与来源解答，未证教师或标准答案，主文字未见已填身份",
+      "identityConfirmed": false,
+      "sourceOldTargetEqual": true,
+      "sourceLabel": "原件路径4（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/弗兰克赫兹实验",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/弗兰克赫兹末件与来源闭环_第217批/实验说明与思考来源",
+      "publicRaw": false
+    },
+    {
+      "bytes": 67520,
+      "sha256": "90f92e92a3803141c39f81cb8cd6b0ca139efe4e9fcb776c2331ac28692f80c9",
+      "role": "汞管接线原理示意图JPEG，静态查看、EXIF0，作者/日期及报告配套未核",
+      "identityConfirmed": false,
+      "sourceOldTargetEqual": true,
+      "sourceLabel": "原件路径5（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/弗兰克赫兹实验",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/弗兰克赫兹末件与来源闭环_第217批/数据表与原理图来源",
+      "publicRaw": false
+    },
+    {
+      "bytes": 162304,
+      "sha256": "da0458e21150d50a941b9e10c9040ff88cc634898a0c27646237e88a76e1e0a2",
+      "role": "实验说明，正文题名标2008.4.28修改，包含目的/仪器/原理/操作与思考题；不当授课学期、作者未核",
+      "identityConfirmed": false,
+      "sourceOldTargetEqual": true,
+      "sourceLabel": "原件路径6（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/弗兰克赫兹实验",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/弗兰克赫兹末件与来源闭环_第217批/实验说明与思考来源",
+      "publicRaw": false
+    },
+    {
+      "bytes": 187966,
+      "sha256": "c9e8a9f98de1b3ee742f27cc80595c24e4d7e087fffc752b869e010e7529bfbc",
+      "role": "4页实验29弗兰克-赫兹实验说明与空表、思考题，末署姚建国，仅记单件署名，不推广本课教师或年份",
+      "identityConfirmed": false,
+      "sourceOldTargetEqual": true,
+      "sourceLabel": "原件路径7（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/弗兰克赫兹实验",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/弗兰克赫兹末件与来源闭环_第217批/实验说明与思考来源",
+      "publicRaw": false
+    },
+    {
+      "bytes": 202752,
+      "sha256": "1a225d648e035eaab2413ae4e48349043b1e44ebc1a53074e796584ca4f6a808",
+      "role": "PPT只读文字记录含弗兰克-赫兹实验/预习导航、北京工业大学原安娟署名，未逐页视觉渲染，不能将母版/历史记录计为准确幻灯片页数",
+      "identityConfirmed": false,
+      "sourceOldTargetEqual": true,
+      "sourceLabel": "原件路径8（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/弗兰克赫兹实验",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/弗兰克赫兹末件与来源闭环_第217批/实验说明与思考来源",
+      "publicRaw": false
+    },
+    {
+      "bytes": 93587,
+      "sha256": "591ed229c7fc1c2ede64aab8e819e3f288092aedcb59b09475de553f7b4ee8e6",
+      "role": "中国青年科技1994年开元号第39页科普剪页，含荧光屏对人体影响及如何选购彩色电视机两文；非本实验讲义，不采信为当前医学或选购建议，归属待核",
+      "identityConfirmed": false,
+      "sourceOldTargetEqual": true,
+      "sourceLabel": "原件路径9（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/弗兰克赫兹实验",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/弗兰克赫兹末件与来源闭环_第217批/归属待核_科普剪页",
+      "publicRaw": false
+    },
+    {
+      "bytes": 18461,
+      "sha256": "608dedfeb79f82d5230b9e64493921491e92f0b60e67a04787aa4408e348c4ab",
+      "role": "XLSX静态182已存单元格含峰值/实验条件与测量值、2公式文本及缓存值，未执行重算/外链；未全表视觉隐私净审",
+      "identityConfirmed": false,
+      "sourceOldTargetEqual": true,
+      "sourceLabel": "原件路径10（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/弗兰克赫兹实验",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/弗兰克赫兹末件与来源闭环_第217批/数据表与原理图来源",
+      "publicRaw": false
+    }
+  ],
+  "policy": "全部raw私有；正文确认身份1path exact候选，其余未知9不泛删；仅静态解析，不执行宏/图表公式/PDF脚本或外链，不抄私人值/本机绝对路径"
+}
