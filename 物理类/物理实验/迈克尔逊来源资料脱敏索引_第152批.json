@@ -1,0 +1,31 @@
+{
+  "batch": 152,
+  "source": "来源：自有物理资料库（6f4b1cfc-208b-4b3f-b2ac-bac77f97246f）物理类/物理实验/力学/迈克尔逊干涉仪使用和测空气折射率。水月的资料已有同SHA副本，仅同一私有库内服务器归位；来源库不变。",
+  "rawPublic": false,
+  "scope": "三DOC293376字节、三独立SHA",
+  "roleBoundary": "一份封面实际身份的已填报告，一份已填镜位置与气压数据处理稿，一份文字层空白数据表；不把整组当正式指南。",
+  "reviewBoundary": "只读Word piece-table文字；嵌入公式/图像和整页排版未完整视觉审查或OCR，不认逐页无身份；作者、学期与官方性未核，个人填写日期不外推整组年份。",
+  "items": [
+    {
+      "alias": "原件_01_5c670cb9bd.doc",
+      "role": "已填镜位置及气压相关数据处理稿，身份未核",
+      "bytes": 103936,
+      "sha256": "5c670cb9bdfd927b2aa08876b438da2d81b186d143371fc299f21037d1c04484",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_02_8aeab54412.doc",
+      "role": "文字层为空白镜位置与气压数据表，作者官方性未核",
+      "bytes": 44544,
+      "sha256": "8aeab544125e44e6547fd52304ff8d57e9bb70fa1f3f1ed4e9c4b8cfa6237d77",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_03_adbb305833.doc",
+      "role": "封面有实际姓名与已填测量的迈克尔逊干涉仪历史实验报告",
+      "bytes": 144896,
+      "sha256": "adbb305833f04a9e561b00f6d5e72e14af57a244085414e7bd6664e0ee8b7a66",
+      "rawPublic": false
+    }
+  ]
+}
