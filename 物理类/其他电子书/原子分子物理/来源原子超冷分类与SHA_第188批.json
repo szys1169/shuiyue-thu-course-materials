@@ -1,0 +1,58 @@
+{
+  "batch": 188,
+  "sourceDirectory": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E5%8E%9F%E5%AD%90%E5%88%86%E5%AD%90%E7%89%A9%E7%90%86",
+  "oldDirectory": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E5%8E%9F%E5%AD%90%E5%88%86%E5%AD%90%E7%89%A9%E7%90%86",
+  "sourcePaths": 2,
+  "rawBytes": 20544645,
+  "uniqueSHA": 2,
+  "parsedPages": 657,
+  "reviewBoundary": "两来源20,544,645字节、2唯一SHA、657解析页，源/旧目标同SHA。完整书只私有，Git仅安全来源说明，未上传ZIP。全页仅结构计数，0批注/表单/嵌入、repaired=false，本次结构/抽样解析与10核心渲染页无警告；每件核心5页实际视觉，不证明全657页完整、无私人标记或数学无误，不OCR修复或重写。规范PDF同大小SHA候选未命中，不作全盘无重复声明。原有课程讲义和课程README保持。",
+  "books": [
+    {
+      "sourceName": "Atomic physics by Christopher J. Foot (z-lib.org).pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E5%8E%9F%E5%AD%90%E5%88%86%E5%AD%90%E7%89%A9%E7%90%86/Atomic%20physics%20by%20Christopher%20J.%20Foot%20(z-lib.org).pdf",
+      "cloudRelativePath": "物理类/原子分子物理/教材/原子物理来源参考_Foot_第188批/Atomic physics by Christopher J. Foot (z-lib.org).pdf",
+      "studyRelativePath": "物理类/原子分子物理/教材/原子物理来源参考_Foot_第188批/Atomic physics by Christopher J. Foot (z-lib.org).pdf",
+      "bytes": 4696477,
+      "sha256": "34418eb59bafb314ac78733b2c43eda8fd918fd748c4a0a81569cbec501f988c",
+      "parsedPages": 346,
+      "description": "Atomic Physics，正文C. J. Foot、University of Oxford，Oxford University Press版权及First published 2005，另明示Reprinted 2005；首次出版与同年重印分列，不把重印认作另一个版次。346解析页，原子物理教材参考，具体印次编号未核。",
+      "visualPhysicalPages": [
+        4,
+        5,
+        10,
+        173,
+        344
+      ],
+      "annotations": 0,
+      "widgets": 0,
+      "embeddedAttachments": 0,
+      "repaired": false,
+      "observedWarnings": "",
+      "rawPublic": false
+    },
+    {
+      "sourceName": "Hui Zhai - Ultracold Atomic Physics (2020) - libgen.li.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E5%8E%9F%E5%AD%90%E5%88%86%E5%AD%90%E7%89%A9%E7%90%86/Hui%20Zhai%20-%20Ultracold%20Atomic%20Physics%20(2020)%20-%20libgen.li.pdf",
+      "cloudRelativePath": "物理类/原子分子物理/教材/超冷原子来源参考_Zhai_第188批/Hui Zhai - Ultracold Atomic Physics (2020) - libgen.li.pdf",
+      "studyRelativePath": "物理类/原子分子物理/教材/超冷原子来源参考_Zhai_第188批/Hui Zhai - Ultracold Atomic Physics (2020) - libgen.li.pdf",
+      "bytes": 15848168,
+      "sha256": "7908e8082b7e764f250b486458bf220ac15c19fa5a54e71cec6939091bbf0e1e",
+      "parsedPages": 311,
+      "description": "Ultracold Atomic Physics，Hui Zhai、Tsinghua University，Cambridge University Press版权及First published 2021；来源文件名(2020)仅保留来源标签，不作正式版年，具体稿日期未核。311解析页，超冷原子物理教材参考；作者机构不用于认定本地清华课程指定讲义。",
+      "visualPhysicalPages": [
+        4,
+        5,
+        6,
+        156,
+        309
+      ],
+      "annotations": 0,
+      "widgets": 0,
+      "embeddedAttachments": 0,
+      "repaired": false,
+      "observedWarnings": "",
+      "rawPublic": false
+    }
+  ]
+}
