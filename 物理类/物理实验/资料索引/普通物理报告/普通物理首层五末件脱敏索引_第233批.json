@@ -1,0 +1,68 @@
+{
+  "batch": 233,
+  "date": "2026-10-19",
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/物理/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E6%99%AE%E9%80%9A%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A",
+  "oldTargetUrl": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E6%99%AE%E9%80%9A%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A",
+  "selectedRawPaths": 5,
+  "selectedRawBytes": 2042052,
+  "uniqueSHA": 5,
+  "sameSHAExisting790": 0,
+  "items": [
+    {
+      "sourceLabel": "原件路径1（精确原名仅私有）",
+      "sourceDirectory": "物理类/物理实验/普通物理实验报告",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/普通物理首层末件与来源闭环_第233批/显微镜来源报告_身份未核",
+      "bytes": 91648,
+      "sha256": "cb5199debe50b8b70b14ada05404542aac098d49a713e2b6b41a6b48db8cb0be",
+      "role": "显微镜实验来源报告，身份栏空但有已填测量结果/讨论及3Excel嵌表，未认教师模板/标准答案；不执行嵌入，作者日期未核",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "原件路径2（精确原名仅私有）",
+      "sourceDirectory": "物理类/物理实验/普通物理实验报告",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/普通物理首层末件与来源闭环_第233批/色度学图与数据来源",
+      "bytes": 179712,
+      "sha256": "ac1a84be48566ac3f97163ce259e4331e038d51290121e12817891dec7b1f074",
+      "role": "XLS5可见工作表，内容标签涉及光视效率、CIE1931三刺激值、照明体A与插值；3001非空已存cell/326公式缓存不计算，未核来源权威性/数据准确性或官方标准身份",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "原件路径3（精确原名仅私有）",
+      "sourceDirectory": "物理类/物理实验/普通物理实验报告",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/普通物理首层末件与来源闭环_第233批/角度电流数值文本_配套未核",
+      "bytes": 1004,
+      "sha256": "828253e7fa2fb8e2bcf6acf64d08810c6f9e73f830cf2ad116bd56c19437d87c",
+      "role": "GB18030只读文本，124文本行，角度β与电流I三组数值及末附数值；来源名单缝衍射但具体实验/报告配套未核，不运行文字",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "原件路径4（精确原名仅私有）",
+      "sourceDirectory": "物理类/物理实验/普通物理实验报告",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/普通物理首层末件与来源闭环_第233批/色度学图与数据来源",
+      "bytes": 1769526,
+      "sha256": "510591ccbde7d0cb058a069278bb4e380677555c2f2533b0a06806c65bc9f97f",
+      "role": "768×768 BMP图面标CIE1931色度图及2-degree Observer，含原网站署标未访问，静态查看EXIF0；作者许可/准确度及数据表配套未核",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "原件路径5（精确原名仅私有）",
+      "sourceDirectory": "物理类/物理实验/普通物理实验报告",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/普通物理首层末件与来源闭环_第233批/临时管理残件_仅文件头哈希",
+      "bytes": 162,
+      "sha256": "78b120a7b493ec0631d8904cf0d44c92e64f817515a2d1af9c88560fbb28b2a9",
+      "role": "162B来源名Office临时文件候选，仅header/SHA，不解码owner、不打开Office、不执行，不推真实作者或已核身份",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    }
+  ],
+  "policy": "全部raw私有；cleanup空未确认身份、unknown不泛删；仅静态主文字/BIFF缓存、BMP查看及TXT只读，162B仅header/hash不解码owner/不执行；不抄私人原名/本机绝对路径"
+}
