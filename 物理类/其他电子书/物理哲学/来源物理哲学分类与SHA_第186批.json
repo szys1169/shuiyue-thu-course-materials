@@ -1,0 +1,58 @@
+{
+  "batch": 186,
+  "sourceDirectory": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E7%89%A9%E7%90%86%E5%93%B2%E5%AD%A6",
+  "oldDirectory": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E7%89%A9%E7%90%86%E5%93%B2%E5%AD%A6",
+  "sourcePaths": 2,
+  "rawBytes": 58021155,
+  "uniqueSHA": 2,
+  "parsedPages": 486,
+  "reviewBoundary": "两来源58,021,155字节、2唯一SHA、486解析页，源/旧目标同SHA。完整书私有，Git仅安全来源说明，不上传ZIP。全页仅结构统计，批注/表单均0；Bunge配置附件1个、选集0附件，repaired=false。Bunge本次解析无警告，选集非嵌字体警告原样保留，10核心渲染页无警告。每份核心5页共10页实际视觉，非486页全视觉，不证明完整、无私人标记或论证正确，不OCR、执行配置、修原件或改包装页。规范PDF同大小SHA候选未命中，不作全盘无重复声明。",
+  "books": [
+    {
+      "sourceName": "1967_Book_FoundationsOfPhysics.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E7%89%A9%E7%90%86%E5%93%B2%E5%AD%A6/1967_Book_FoundationsOfPhysics.pdf",
+      "cloudRelativePath": "物理类/物理哲学/参考资料/物理学基础来源参考_第186批/1967_Book_FoundationsOfPhysics.pdf",
+      "studyRelativePath": "物理类/物理哲学/参考资料/物理学基础来源参考_第186批/1967_Book_FoundationsOfPhysics.pdf",
+      "bytes": 50688733,
+      "sha256": "e37cc0c2aa49be7802ae95681ad85ba4ae603bbdc0d6a2afbfd16ad23259d870",
+      "parsedPages": 323,
+      "description": "Foundations of Physics，Mario Bunge单著，Springer Tracts in Natural Philosophy卷10；C. Truesdell是丛书编辑，作者角色分列。正文Springer 1967版权，标Softcover reprint of the hardcover 1st edition 1967，具体软封重印年未核，不凭源名推印年。323解析页；前言说明以物理学基础分析为目的，归基础与公理化研究参考。PDF保留1个30,710字节.joboptions配置附件，仅静态头/属性及SHA核验，不写出执行，附件并非已核课程数据。",
+      "visualPhysicalPages": [
+        3,
+        4,
+        7,
+        162,
+        321
+      ],
+      "annotations": 0,
+      "widgets": 0,
+      "embeddedAttachments": 1,
+      "repaired": false,
+      "parsingWarnings": "",
+      "rawPublic": false
+    },
+    {
+      "sourceName": "Schrodinger Science and the Human Temperament.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E7%89%A9%E7%90%86%E5%93%B2%E5%AD%A6/Schrodinger%20Science%20and%20the%20Human%20Temperament.pdf",
+      "cloudRelativePath": "物理类/物理哲学/参考资料/科学与人文来源参考_第186批/Schrodinger Science and the Human Temperament.pdf",
+      "studyRelativePath": "物理类/物理哲学/参考资料/科学与人文来源参考_第186批/Schrodinger Science and the Human Temperament.pdf",
+      "bytes": 7332422,
+      "sha256": "1ba801a1e98f15630a2100f3b048cebb6c29532d0ff05df45a6d277e861544ac",
+      "parsedPages": 163,
+      "description": "Science and the Human Temperament，Erwin Schrödinger文章演讲选集；James Murphy为题名页译者并作传记导言，目录另明确W. H. Johnston译第III章Indeterminism in Physics及第VII章Conceptual Models in Physics，Lord Rutherford作序，角色分别列示。George Allen & Unwin原书First published 1935，部分德文篇章1932另列；WPL数字包装页2010不作原书出版年，其把Rutherford标为Author不沿用为全书作者。163解析页；TimesNewRoman/Arial非嵌字体identity encoding抽文警告保留，样页渲染可读，不修字体或重写。",
+      "visualPhysicalPages": [
+        7,
+        8,
+        11,
+        82,
+        161
+      ],
+      "annotations": 0,
+      "widgets": 0,
+      "embeddedAttachments": 0,
+      "repaired": false,
+      "parsingWarnings": "non-embedded font using identity encoding: TimesNewRoman (mapping via TrueType-UCS2)\nnon-embedded font using identity encoding: Arial (mapping via TrueType-UCS2)",
+      "rawPublic": false
+    }
+  ]
+}
