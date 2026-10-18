@@ -1,0 +1,97 @@
+{
+  "batch": 124,
+  "sourceLibrary": "6f4b1cfc-208b-4b3f-b2ac-bac77f97246f",
+  "sourceDirectory": "物理类/物理实验/近代物理实验/实验报告others/近代物理实验",
+  "scope": "剩余9学术附件，8BMP与1XLS",
+  "groups": {
+    "闪烁体能谱相关示意_正式题名未核": "4图含峰宽、闪烁体/光电倍增管及计数装置、Cs衰变和双峰曲线；仅限定闪烁体能谱相关主题。",
+    "二极管伏安与瞬态相关_正式题名未核": "3图含正反向I-V曲线和阶跃电压/电流瞬态；XLS文本候选含Ts与ln(1+If/Ir)，不作完整单元格与身份审查依据。",
+    "电子速度与电场关系_具体实验未核": "1图标有电子速度、电场及两条相关曲线；具体实验、效应和材料未核，不补猜题名。"
+  },
+  "authorYear": "作者、年份、学期及官方性未核。",
+  "rawPublic": false,
+  "aliasPolicy": "稳定序号+原件SHA前10位仅显示元信息，真实原名与相对路径仅本地私有映射；物理原件未改名。",
+  "items": [
+    {
+      "alias": "原件_01_7f30745276.bmp",
+      "category": "二极管伏安与瞬态相关_正式题名未核",
+      "role": "原理/装置/曲线示意图",
+      "bytes": 7006,
+      "sha256": "7f30745276eb3fe7a039da40dc2c83a60199c2e01b6ced989e4830b1450e410e",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_02_fbaf6f9312.bmp",
+      "category": "二极管伏安与瞬态相关_正式题名未核",
+      "role": "原理/装置/曲线示意图",
+      "bytes": 3618,
+      "sha256": "fbaf6f9312d2c7c96947e764c36f74575653d7a8437a66f6e6fde07eb5b95665",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_03_338f02cf72.bmp",
+      "category": "二极管伏安与瞬态相关_正式题名未核",
+      "role": "原理/装置/曲线示意图",
+      "bytes": 3618,
+      "sha256": "338f02cf72516dcac9ab236699e6fe63e4b4bafe9c4da2e9e38c149c746fa561",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_04_7a6a51cb37.xls",
+      "category": "二极管伏安与瞬态相关_正式题名未核",
+      "role": "旧XLS历史数据附件_完整单元格与身份未核",
+      "bytes": 16384,
+      "sha256": "7a6a51cb37ddfaf617dd8e07d880b2b4c03875d29dbee031d0d184486541c043",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_05_c52a20c954.bmp",
+      "category": "闪烁体能谱相关示意_正式题名未核",
+      "role": "原理/装置/曲线示意图",
+      "bytes": 3638,
+      "sha256": "c52a20c95480bf2428661d70ab075320837fb411c795f15a8d01b895fbccbbfa",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_06_ab0e87b4c7.bmp",
+      "category": "闪烁体能谱相关示意_正式题名未核",
+      "role": "原理/装置/曲线示意图",
+      "bytes": 11582,
+      "sha256": "ab0e87b4c77e674e6d49b4fb04d86ebeb5a264540c18bc46775f9e916940d4bf",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_07_feb8c3bea3.bmp",
+      "category": "闪烁体能谱相关示意_正式题名未核",
+      "role": "原理/装置/曲线示意图",
+      "bytes": 4626,
+      "sha256": "feb8c3bea30b5c24ffff99553b4165478c290074165b2ddf57db6f6b7744bd68",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_08_cb6d40cd0c.bmp",
+      "category": "闪烁体能谱相关示意_正式题名未核",
+      "role": "原理/装置/曲线示意图",
+      "bytes": 20522,
+      "sha256": "cb6d40cd0cf1d088d5ff4fe9e82b2565b723b5bc39e31bc12294911e1d7981f6",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_09_26089ae648.bmp",
+      "category": "电子速度与电场关系_具体实验未核",
+      "role": "原理/装置/曲线示意图",
+      "bytes": 9962,
+      "sha256": "26089ae648c63738b6ed2ae517de38261f5d3dcdfd6c67a5ec5e7e3e896e3df9",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    }
+  ]
+}
