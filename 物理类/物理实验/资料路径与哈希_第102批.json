@@ -1,0 +1,18 @@
+{
+  "batch": 102,
+  "sourceLibrary": "6f4b1cfc-208b-4b3f-b2ac-bac77f97246f",
+  "sourceDirectory": "物理类/物理实验/瞬态",
+  "items": [
+    {
+      "path": "讲义/数字存储示波器与瞬态信号测量_作者年份未核_第102批/数字存储示波器与瞬态信号测量(讲义完整版).doc",
+      "bytes": 1890304,
+      "sha256": "0b8f33ba2c01989cb0c30433c83a312e8464801e3508e40eb50e265b8902650a",
+      "role": "实验指导DOC",
+      "author": "未核",
+      "year": "未核",
+      "term": "未核",
+      "completeness": "未因来源名讲义完整版推定版本完整",
+      "rawPublic": false
+    }
+  ]
+}
