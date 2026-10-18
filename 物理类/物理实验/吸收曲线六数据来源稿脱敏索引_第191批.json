@@ -1,0 +1,87 @@
+{
+  "batch": 191,
+  "date": "2026-10-19",
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%90%B8%E6%94%B6",
+  "oldTargetUrl": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%90%B8%E6%94%B6",
+  "sourceFirstLevelRaw": 36,
+  "selectedRawPaths": 6,
+  "selectedRawBytes": 589824,
+  "uniqueSHA": 6,
+  "sameSHAExisting546": 0,
+  "remainingRawFiles": 22,
+  "items": [
+    {
+      "sourceLabel": "原件1（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/吸收",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/吸收曲线数据处理来源稿_第191批/身份未核的数据曲线附件_嵌图未审",
+      "bytes": 134144,
+      "sha256": "be6bd4b66360cf1a428e54ecae2c5641e570cb734a7224b2a1c3d89f17f74a5b",
+      "role": "波长及数据/吸收系数曲线来源附件，主文字有限，部分嵌Origin图未解码，作者与身份未核",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true,
+      "boundary": "仅Word主文字静态，不执行Origin/公式/OLE/宏，非完整视觉或嵌图隐私审读；个人身份值与原名标识不转录"
+    },
+    {
+      "sourceLabel": "原件2（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/吸收",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/吸收曲线数据处理来源稿_第191批/身份未核的数据曲线附件_嵌图未审",
+      "bytes": 76800,
+      "sha256": "6416f3a137583ad3a46d015e23ae15e4b4793a4dc95f9c39d28bd113f422272d",
+      "role": "波长及数据/吸收系数曲线来源附件，主文字有限，部分嵌Origin图未解码，作者与身份未核",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true,
+      "boundary": "仅Word主文字静态，不执行Origin/公式/OLE/宏，非完整视觉或嵌图隐私审读；个人身份值与原名标识不转录"
+    },
+    {
+      "sourceLabel": "原件3（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/吸收",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/吸收曲线数据处理来源稿_第191批/正文主题混杂的身份来源稿",
+      "bytes": 158208,
+      "sha256": "19d29d6520515316cabbe8ffb68af756c8c81ae8e7ac69841afd17b94c1fab50",
+      "role": "正文有温度/Si转换等段落又含单色仪思考题，主题混杂待核，填写身份的数据处理来源稿",
+      "identityConfirmed": true,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true,
+      "boundary": "仅Word主文字静态，不执行Origin/公式/OLE/宏，非完整视觉或嵌图隐私审读；个人身份值与原名标识不转录"
+    },
+    {
+      "sourceLabel": "原件4（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/吸收",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/吸收曲线数据处理来源稿_第191批/吸收曲线身份数据处理来源稿",
+      "bytes": 105472,
+      "sha256": "42de996ab2600c1ffae58130f92f8a41466dc63847e384b73639be8ea2b25e19",
+      "role": "明确钕玻璃/单色仪吸收实验数据处理来源稿，正文或页脚填写个人身份",
+      "identityConfirmed": true,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true,
+      "boundary": "仅Word主文字静态，不执行Origin/公式/OLE/宏，非完整视觉或嵌图隐私审读；个人身份值与原名标识不转录"
+    },
+    {
+      "sourceLabel": "原件5（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/吸收",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/吸收曲线数据处理来源稿_第191批/吸收曲线身份数据处理来源稿",
+      "bytes": 38400,
+      "sha256": "9f01fe9ee8e8cbf0fda87b4fbef12cd622244b621938dd14c516c72360171678",
+      "role": "明确钕玻璃/单色仪吸收实验数据处理来源稿，正文或页脚填写个人身份",
+      "identityConfirmed": true,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true,
+      "boundary": "仅Word主文字静态，不执行Origin/公式/OLE/宏，非完整视觉或嵌图隐私审读；个人身份值与原名标识不转录"
+    },
+    {
+      "sourceLabel": "原件6（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/吸收",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/吸收曲线数据处理来源稿_第191批/身份未核的数据曲线附件_嵌图未审",
+      "bytes": 76800,
+      "sha256": "1fd70002995d18024d2feec50a14c15d0b8fd760f6444e581e7e14487afc2a69",
+      "role": "波长及数据/吸收系数曲线来源附件，主文字有限，部分嵌Origin图未解码，作者与身份未核",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true,
+      "boundary": "仅Word主文字静态，不执行Origin/公式/OLE/宏，非完整视觉或嵌图隐私审读；个人身份值与原名标识不转录"
+    }
+  ],
+  "policy": "全文全部私有；3正文身份exact候选，3未知不泛删。主题混杂按实际文字保留待核，大小同但SHA不同不合并。个人身份值/私人原名与本机绝对路径不公开。"
+}
