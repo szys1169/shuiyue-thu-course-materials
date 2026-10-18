@@ -1,0 +1,58 @@
+{
+  "batch": 99,
+  "sourceDirectory": "物理类/物理实验/弗兰克赫兹实验",
+  "sourceLibrary": "6f4b1cfc-208b-4b3f-b2ac-bac77f97246f",
+  "rawPublic": false,
+  "items": [
+    {
+      "path": "参考阅读/弗兰克赫兹_实验问题与研究论文_第99批/_弗兰克_赫兹实验_中要说明的几个问题.pdf",
+      "title": "“弗兰克-赫兹实验”中要说明的几个问题",
+      "author": "周国庆",
+      "editionEvidence": "物理教学探讨，第26卷总第309期，2008年第2期（上半月）",
+      "role": "期刊参考文章",
+      "bytes": 43280,
+      "sha256": "2184d81d2def0a4de88595bd8c3657f85237d9624d3efcea11e95d6cfb03cef3",
+      "rawPublic": false
+    },
+    {
+      "path": "参考阅读/弗兰克赫兹_实验问题与研究论文_第99批/充氩弗兰克_赫兹实验研究.pdf",
+      "title": "充氩弗兰克-赫兹实验研究",
+      "author": "朱筱玮、陈永丽",
+      "editionEvidence": "大学物理，第26卷第7期，2007年7月",
+      "role": "期刊研究论文",
+      "bytes": 291157,
+      "sha256": "b160df153d6c290ad8b6a31fecfa9d7330f44f9c5405701ad0ca33ba8d9f2920",
+      "rawPublic": false
+    },
+    {
+      "path": "讲义/弗兰克赫兹_庞文宁_版本日期未核_第99批/弗兰克-赫兹(Franck-Hertz)实验[课程版_20100415修改]_402205455.ppt",
+      "title": "弗兰克-赫兹(Franck-Hertz)实验",
+      "author": "庞文宁",
+      "editionEvidence": "版本日期未核；原名含20100415修改，正文文本有201003字样，均不直接认定授课学期",
+      "role": "实验课程PPT",
+      "bytes": 3166720,
+      "sha256": "6ad062817623cf5cc01a3e8757c330a5e66f230200d1de17039a63ee55eb73e7",
+      "rawPublic": false
+    },
+    {
+      "path": "参考阅读/弗兰克赫兹_实验问题与研究论文_第99批/弗兰克_赫兹实验中的峰间距问题.pdf",
+      "title": "弗兰克-赫兹实验中的峰间距问题",
+      "author": "王梅生",
+      "editionEvidence": "物理实验，第21卷第11期；本文出版年份暂未核定",
+      "role": "期刊研究论文",
+      "bytes": 289266,
+      "sha256": "23845f6211f3f7a48b5f55ce732c05be634138e82a5c541a17839598d2cf5b39",
+      "rawPublic": false
+    },
+    {
+      "path": "参考阅读/弗兰克赫兹_实验问题与研究论文_第99批/负电流的来源_夫兰克_赫兹实验思考.pdf",
+      "title": "负电流的来源——夫兰克-赫兹实验思考",
+      "author": "袁文、苏为宁、万建国",
+      "editionEvidence": "福州大学学报（自然科学版），第35卷增刊，2007年8月",
+      "role": "期刊研究论文",
+      "bytes": 342050,
+      "sha256": "4c6e4f470436f99a1d9af83fdeff7ed59f2c91b257bf395232f9304612a888fc",
+      "rawPublic": false
+    }
+  ]
+}
