@@ -1,0 +1,103 @@
+{
+  "batch": 138,
+  "sourceLibrary": "6f4b1cfc-208b-4b3f-b2ac-bac77f97246f",
+  "sourceDirectory": "物理类/物理实验/近代物理实验/实验报告others/基础物理实验/25",
+  "scope": "子目录6DAT原始数据，38326字节，不并入首层23附件计数",
+  "role": "ASCII可读多列表数据，物理意义、单位、归属与身份未核",
+  "datePolicy": "5件有日期样头字段，字段含义未核；不转录日期或数值，不据原文件名或头字段定实际实验日期。",
+  "audit": "只读解码与行列/数值形式统计，无DAT执行、无公式计算或程序运行。",
+  "rawPublic": false,
+  "aliasPolicy": "固定序号+原件SHA前10位仅显示别名，真实原名路径只本地私有映射；不构造原件链接，原件原名原字节不改。",
+  "items": [
+    {
+      "alias": "原件_01_a5a32c9964.dat",
+      "role": "可读DAT数据文本_列意义单位归属身份未核",
+      "bytes": 5421,
+      "sha256": "a5a32c9964f844d58b03bea610b883e12d771df92e9d975f845cc13371ea8f6f",
+      "shaRole": "原件字节SHA256",
+      "encodingReadAs": "ascii",
+      "nonEmptyLines": 365,
+      "columnCountHistogram": {
+        "3": 1,
+        "2": 364
+      },
+      "numericOnlyLines": 364,
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_02_c58306849c.dat",
+      "role": "可读DAT数据文本_列意义单位归属身份未核",
+      "bytes": 6047,
+      "sha256": "c58306849c2f842aee7ec844a2abfe2a4310287496e8e70445208ee488d529fe",
+      "shaRole": "原件字节SHA256",
+      "encodingReadAs": "ascii",
+      "nonEmptyLines": 402,
+      "columnCountHistogram": {
+        "3": 1,
+        "2": 401
+      },
+      "numericOnlyLines": 401,
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_03_e8043d53ed.dat",
+      "role": "可读DAT数据文本_列意义单位归属身份未核",
+      "bytes": 5977,
+      "sha256": "e8043d53ede530ed0237de720bf847b04c484ff95104ba4feac360697745bdf7",
+      "shaRole": "原件字节SHA256",
+      "encodingReadAs": "ascii",
+      "nonEmptyLines": 402,
+      "columnCountHistogram": {
+        "3": 1,
+        "2": 401
+      },
+      "numericOnlyLines": 401,
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_04_542651871f.dat",
+      "role": "可读DAT数据文本_列意义单位归属身份未核",
+      "bytes": 5944,
+      "sha256": "542651871f405f24b1bf8d060bdf6edaa4fb340b5fe023480620d590398e9cf0",
+      "shaRole": "原件字节SHA256",
+      "encodingReadAs": "ascii",
+      "nonEmptyLines": 402,
+      "columnCountHistogram": {
+        "3": 1,
+        "2": 401
+      },
+      "numericOnlyLines": 401,
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_05_6dac006c3b.dat",
+      "role": "可读DAT数据文本_列意义单位归属身份未核",
+      "bytes": 5944,
+      "sha256": "6dac006c3ba7a949f9c986bf24ddb1fe0222c58d839969a60d2a5a1eb1c0a397",
+      "shaRole": "原件字节SHA256",
+      "encodingReadAs": "ascii",
+      "nonEmptyLines": 402,
+      "columnCountHistogram": {
+        "3": 1,
+        "2": 401
+      },
+      "numericOnlyLines": 401,
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_06_4ed3b35105.dat",
+      "role": "可读DAT数据文本_列意义单位归属身份未核",
+      "bytes": 8993,
+      "sha256": "4ed3b351055eef47405e29bfe84b10bdefa1ae9c13a7a7dd9c8ab30299fd30ab",
+      "shaRole": "原件字节SHA256",
+      "encodingReadAs": "ascii",
+      "nonEmptyLines": 401,
+      "columnCountHistogram": {
+        "2": 20,
+        "3": 381
+      },
+      "numericOnlyLines": 401,
+      "rawPublic": false
+    }
+  ]
+}
