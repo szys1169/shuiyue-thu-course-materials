@@ -1,0 +1,81 @@
+{
+  "batch": 165,
+  "date": "2026-10-19",
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E9%87%8F%E5%AD%90%E5%9C%BA%E8%AE%BA",
+  "oldTarget": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E9%87%8F%E5%AD%90%E5%9C%BA%E8%AE%BA",
+  "scope": "3原件/本叶12原件；与157累计6，仍余6待核",
+  "items": [
+    {
+      "name": "Quantum Field Theory and the Standard Model by Schwartz MD z-liborg.pdf",
+      "bytes": 14086666,
+      "sha256": "e7dbe40e40b7f1f64074f539721f2e4148e3d1e5383460f3c917216698fd6926",
+      "pages": 870,
+      "annotations": 12,
+      "formFields": 0,
+      "attachments": 0,
+      "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E9%87%8F%E5%AD%90%E5%9C%BA%E8%AE%BA",
+      "oldPath": "物理类/其他电子书/量子场论/Quantum Field Theory and the Standard Model by Schwartz MD z-liborg.pdf",
+      "finalPath": "物理类/量子场论/教材/三部英文来源参考_第165批/_过程材料/私有原件/Quantum Field Theory and the Standard Model by Schwartz MD z-liborg.pdf",
+      "role": "整部教材或编辑出版讲义，非本地课程作业/指定教材",
+      "publicRaw": false,
+      "title": "Quantum Field Theory and the Standard Model",
+      "author": "Matthew D. Schwartz",
+      "versionEvidence": "文件页5题名、页6版权与首次出版2014，Cambridge University Press。",
+      "annotationEvidence": "8 Highlight含非空署名字段、4 Square署名和内容字段空；总12，内容字段均空；值不转录，不推定批注者。",
+      "comparison114": {
+        "bytes": 9825407,
+        "sha256": "02a48c0b34754bfc559afe7abda6047d8c0e3a87e9c692e168d69a9838281698",
+        "result": "不同SHA保留来源变体，不判新版或逐页同一。"
+      }
+    },
+    {
+      "name": "Quantum field theory in a nutshell by A Zee z-liborg.pdf",
+      "bytes": 5871191,
+      "sha256": "3ae811d9b58c9e93e07e8f17e75059963d11a493cd574d0992bea50d894105d8",
+      "pages": 605,
+      "annotations": 2,
+      "formFields": 0,
+      "attachments": 0,
+      "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E9%87%8F%E5%AD%90%E5%9C%BA%E8%AE%BA",
+      "oldPath": "物理类/其他电子书/量子场论/Quantum field theory in a nutshell by A Zee z-liborg.pdf",
+      "finalPath": "物理类/量子场论/教材/三部英文来源参考_第165批/_过程材料/私有原件/Quantum field theory in a nutshell by A Zee z-liborg.pdf",
+      "role": "整部教材或编辑出版讲义，非本地课程作业/指定教材",
+      "publicRaw": false,
+      "title": "Quantum Field Theory in a Nutshell",
+      "author": "A. Zee",
+      "versionEvidence": "文件页8题名第二版；页9版权2010，Princeton University Press。",
+      "annotationEvidence": "2 Square，署名/内容字段空。"
+    },
+    {
+      "name": "Ed. Bryan Gin-ge Chen, David Derbes, David Griffiths, Brian Hill, Richard Sohn, Yuan-Sen Ting - Lectures of Sidney Coleman on quantum field theory (2019, World Scientific Publishing) - libgen.li.pdf",
+      "bytes": 18748170,
+      "sha256": "2a9eb71121084cf1c97f976120808c0742e89d6db9929b61ada8e2128d72a021",
+      "pages": 1195,
+      "annotations": 0,
+      "formFields": 0,
+      "attachments": 0,
+      "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E9%87%8F%E5%AD%90%E5%9C%BA%E8%AE%BA",
+      "oldPath": "物理类/其他电子书/量子场论/Ed. Bryan Gin-ge Chen, David Derbes, David Griffiths, Brian Hill, Richard Sohn, Yuan-Sen Ting - Lectures of Sidney Coleman on quantum field theory (2019, World Scientific Publishing) - libgen.li.pdf",
+      "finalPath": "物理类/量子场论/教材/三部英文来源参考_第165批/_过程材料/私有原件/Ed. Bryan Gin-ge Chen, David Derbes, David Griffiths, Brian Hill, Richard Sohn, Yuan-Sen Ting - Lectures of Sidney Coleman on quantum field theory (2019, World Scientific Publishing) - libgen.li.pdf",
+      "role": "整部教材或编辑出版讲义，非本地课程作业/指定教材",
+      "publicRaw": false,
+      "title": "Lectures of Sidney Coleman on Quantum Field Theory",
+      "lectureAuthor": "Sidney Coleman",
+      "editors": [
+        "Bryan Gin-ge Chen",
+        "David Derbes",
+        "David Griffiths",
+        "Brian Hill",
+        "Richard Sohn",
+        "Yuan-Sen Ting"
+      ],
+      "versionEvidence": "文件页4题名及6编辑；页5版权2019，World Scientific；同页CIP编目描述2018是另一字段，不当首次出版证明。",
+      "annotationEvidence": "PDF注释0。",
+      "comparison114": {
+        "bytes": 63994918,
+        "sha256": "4d14fcb35e727f70c049b21f4066ecc3d5c8e613327c49e11b79c651d80c8529",
+        "result": "不同SHA保留来源变体，不凭近标题判同书同版本，不判新旧。"
+      }
+    }
+  ]
+}
