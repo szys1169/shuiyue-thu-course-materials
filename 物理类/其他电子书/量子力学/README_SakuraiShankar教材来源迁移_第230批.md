@@ -1,0 +1,10 @@
+# Sakurai与Shankar量子教材来源迁移（第230批）
+
+- [Sakurai与Napolitano量子教材](https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/%E6%95%99%E6%9D%90/SakuraiNapolitano%E9%87%8F%E5%AD%90%E6%95%99%E6%9D%90%E6%9D%A5%E6%BA%90_%E7%AC%AC230%E6%89%B9)
+- [Shankar量子原理教材](https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/%E6%95%99%E6%9D%90/Shankar%E9%87%8F%E5%AD%90%E5%8E%9F%E7%90%86%E6%95%99%E6%9D%90%E6%9D%A5%E6%BA%90_%E7%AC%AC230%E6%89%B9)
+
+Modern Quantum Mechanics，题名列J. J. Sakurai、Jim Napolitano，Second Edition，Cambridge University Press。简介说明第二版由Napolitano修订；版权页为2017年，并记载此前Pearson于1994、2011年出版及Cambridge于2017年再发行，不能把再发行误作新增第三版。ISBN 978-1-108-42241-3。目录覆盖基本概念、动力学、角动量、对称性、近似、散射、全同粒子与相对论量子力学。电子排版样页可读；原件保留一条高亮和一个签名类型表单字段，其状态与归属未验证，仅私有保留。全文私有、原名原字节不改。
+
+Principles of Quantum Mechanics，R. Shankar 著，Second Edition；题名与版权原页出版社为Plenum Press，版权列1994、1980年，ISBN 0-306-44790-8，印次未另核。文件名中的Springer不替代本册原页出版信息。内容为量子力学教材，含数学与经典力学基础、角动量、近似及散射等。所看文字公式与索引可读，但前部定位渲染有JBIG2图像解码提示，保留原状且未作逐页完整性认证；全文私有，原名原字节不改。
+
+本批量子来源叶21条中的Sakurai/Napolitano与Shankar两条，13,599,543字节、2唯一SHA、1266解析页，源/本人旧副本逐SHA一致、2ZIP CRC/exact2通过。Sakurai题名Second Edition/CUP2017再发行，Pearson1994/2011出版史分列，不误作新第三版；Shankar题名Second Edition，原页Plenum Press版权1994/1980，不照文件名Springer改出版社，印次未另核。各5核心页实际视觉，中部推导和尾索引抽样可读；Sakurai原1Highlight和p1一个Signature widget保持，仅静态结构记录，不验证签名有效性/归属、不执行或公开元信息私值，不新增身份清理。Shankar前12定位渲染有jbig2dec提示，具体页未定位；本次两册结构/文字抽样/10核心渲染无警告，不据此称所有定位渲染无警告。两册repair=false、附件0，Shankar0批注表单。样页不认证全本完整、隐私全净或公式正确，不OCR/修PDF/验签或清标记。原名原字节保持，整册私有，云盘服务端归位已有副本，Git仅安全来源元信息，未上传PDF或ZIP。规范同大小PDF候选未命中，不作全盘去重结论。226/228历史5条另有验收，累计7/21有去向、余14原件保持原name/href，未称整叶闭环；历史四说明、双朗道23原名去向与待核状态、既有量子课程和128/160快照保持。
