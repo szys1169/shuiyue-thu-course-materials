@@ -1,0 +1,104 @@
+{
+  "batch": 215,
+  "date": "2026-10-19",
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%BC%97%E5%85%B0%E5%85%8B%E8%B5%AB%E5%85%B9%E5%AE%9E%E9%AA%8C",
+  "oldTargetUrl": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%BC%97%E5%85%B0%E5%85%8B%E8%B5%AB%E5%85%B9%E5%AE%9E%E9%AA%8C",
+  "sourceFirstLevelRaw": 23,
+  "sourceFirstLevelSubdirs": 0,
+  "selectedRawPaths": 8,
+  "selectedRawBytes": 1555968,
+  "uniqueSHA": 8,
+  "sameSHAExisting684": 0,
+  "remainingOldTargetRawFiles": 10,
+  "items": [
+    {
+      "sourceLabel": "原件路径1（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/弗兰克赫兹实验",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/弗兰克赫兹报告与预习来源稿_第215批/已填身份的报告与预习来源稿",
+      "bytes": 175104,
+      "sha256": "58f34f0357c672ef32b17ace26cc006e837dfff7e5d7651cb6fc38e08784e426",
+      "role": "已填个人身份的原理预习与空白记录表来源稿，正文实验日期2006-03-30，不认空白教师模板",
+      "identityConfirmed": true,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "原件路径2（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/弗兰克赫兹实验",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/弗兰克赫兹报告与预习来源稿_第215批/身份未核的填写数据与讨论稿",
+      "bytes": 189952,
+      "sha256": "7a0f2dc772d86d911369be4c9af5dcf03d4a964f051f90ebf3cab1361dec3b12",
+      "role": "原理、已填测量数据、思考与心得来源稿，另附空记录表；心得末句截断，身份未核",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "原件路径3（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/弗兰克赫兹实验",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/弗兰克赫兹报告与预习来源稿_第215批/空白记录表来源稿",
+      "bytes": 174592,
+      "sha256": "c3c4c3e4f8752d9e168b407b31f350eb9eb8fe3331aad7e614c26f03c7c452c4",
+      "role": "原理、操作与空白测量记录表来源稿，姓名学号班级栏为空，作者/官方性未核",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "原件路径4（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/弗兰克赫兹实验",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/弗兰克赫兹报告与预习来源稿_第215批/身份未核的填写数据与讨论稿",
+      "bytes": 189440,
+      "sha256": "aeb20796271d822c54619d59817507d4122f27eec3aa5a96ff9bb0cfa3a7db53",
+      "role": "原理、已填测量数据、思考与心得来源稿，另附空记录表；心得末句截断，身份未核",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "原件路径5（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/弗兰克赫兹实验",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/弗兰克赫兹报告与预习来源稿_第215批/身份未核的填写数据与讨论稿",
+      "bytes": 156672,
+      "sha256": "6975f00d883e3af204d678cbdb9a365c6e0d356a0fa7e9a604e7894110fa12a8",
+      "role": "原理与已填测量数据来源稿，身份栏为空，未证标准答案/教师稿",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "原件路径6（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/弗兰克赫兹实验",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/弗兰克赫兹报告与预习来源稿_第215批/已填身份的报告与预习来源稿",
+      "bytes": 306176,
+      "sha256": "e307c3d4cf2bdee4fd1f42937d8da5589d9bdbb61d086acd7d52976e80ad2d02",
+      "role": "已填个人身份的实验报告，正文实验日期2007-04-18，含数据/思考与心得",
+      "identityConfirmed": true,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "原件路径7（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/弗兰克赫兹实验",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/弗兰克赫兹报告与预习来源稿_第215批/已填身份的报告与预习来源稿",
+      "bytes": 326656,
+      "sha256": "f8f47d5cae74247051672619fb2619e2a84f117c9fc4d9fa6c9b37012894e89f",
+      "role": "已填个人身份的实验报告，正文实验日期2009-04-14，含数据/思考与心得",
+      "identityConfirmed": true,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "原件路径8（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/弗兰克赫兹实验",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/弗兰克赫兹报告与预习来源稿_第215批/已填身份的报告与预习来源稿",
+      "bytes": 37376,
+      "sha256": "f66bbb3d197a8e7dda54cb9679bac135b7dc451f120dd2a1b1a7e12ae122c413",
+      "role": "已填个人身份的数据处理、思考题与心得报告节选，正文实验日期2005-03-30",
+      "identityConfirmed": true,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    }
+  ],
+  "policy": "全部raw私有；4正文确认身份exact候选，未知4不泛删；私人原名/字段值/本机绝对路径不公开，不按改/复件或近标题判断版本先后。"
+}
