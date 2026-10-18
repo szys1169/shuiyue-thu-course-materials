@@ -1,0 +1,111 @@
+{
+  "batch": 199,
+  "date": "2026-10-19",
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E7%9E%AC%E6%80%81",
+  "oldTargetUrl": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E7%9E%AC%E6%80%81",
+  "sourceFirstLevelRaw": 16,
+  "selectedRawPaths": 8,
+  "selectedRawBytes": 596194,
+  "uniqueSHA": 8,
+  "sameSHAExisting592": 0,
+  "remainingOldTargetRawFiles": 7,
+  "items": [
+    {
+      "sourceLabel": "原件1（原名只私有映射）",
+      "sourceDirectory": "物理类/物理实验/瞬态",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/瞬态实验报告与预习来源稿_第199批/正文身份已填的报告来源稿",
+      "bytes": 75776,
+      "sha256": "c99565961a9bd60dd323c04ebee7a4b3262ef8b55ec3b2870ad2eb2ecf8c36b0",
+      "role": "正文或页脚填写个人身份的瞬态实验报告来源稿",
+      "identityConfirmed": true,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true,
+      "boundary": "PDF8页逐页静态渲染审读；DOC只主文字piece-table，图形/嵌入公式未执行或完整视觉净审，不扩推任课教师/学期"
+    },
+    {
+      "sourceLabel": "原件2（原名只私有映射）",
+      "sourceDirectory": "物理类/物理实验/瞬态",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/瞬态实验报告与预习来源稿_第199批/空白记录表来源变体",
+      "bytes": 37376,
+      "sha256": "442f787860c67eee0d5bcbcd4a92aa1bef7a8f0c00c42c0bd4719027bf22671f",
+      "role": "主文字为实验记录空表，源名预习，不认官方模板；两种数值预填差异原字节分别保留",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true,
+      "boundary": "PDF8页逐页静态渲染审读；DOC只主文字piece-table，图形/嵌入公式未执行或完整视觉净审，不扩推任课教师/学期"
+    },
+    {
+      "sourceLabel": "原件3（原名只私有映射）",
+      "sourceDirectory": "物理类/物理实验/瞬态",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/瞬态实验报告与预习来源稿_第199批/空白记录表来源变体",
+      "bytes": 34304,
+      "sha256": "8f4ee236361ced9825ac360107f3384df61408536b45fd42ecc87e4b30c3e2f1",
+      "role": "主文字为实验记录空表，源名预习，不认官方模板；两种数值预填差异原字节分别保留",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true,
+      "boundary": "PDF8页逐页静态渲染审读；DOC只主文字piece-table，图形/嵌入公式未执行或完整视觉净审，不扩推任课教师/学期"
+    },
+    {
+      "sourceLabel": "原件4（原名只私有映射）",
+      "sourceDirectory": "物理类/物理实验/瞬态",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/瞬态实验报告与预习来源稿_第199批/正文身份已填的报告来源稿",
+      "bytes": 214242,
+      "sha256": "810dead9d9a2076379b5f569b329cb3e3d67dbbf900a773094daefea13b87073",
+      "role": "8页填写身份的数字存储示波器与瞬态信号测量报告",
+      "identityConfirmed": true,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true,
+      "boundary": "PDF8页逐页静态渲染审读；DOC只主文字piece-table，图形/嵌入公式未执行或完整视觉净审，不扩推任课教师/学期"
+    },
+    {
+      "sourceLabel": "原件5（原名只私有映射）",
+      "sourceDirectory": "物理类/物理实验/瞬态",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/瞬态实验报告与预习来源稿_第199批/身份未核的填写稿与原理资料",
+      "bytes": 79360,
+      "sha256": "466947a42088dd4acfa07892dc43137874b478d81d32467e18928069b690bd8b",
+      "role": "含填写数据/总结的瞬态实验来源稿，作者身份未核，不认官方答案或真实提交凭据",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true,
+      "boundary": "PDF8页逐页静态渲染审读；DOC只主文字piece-table，图形/嵌入公式未执行或完整视觉净审，不扩推任课教师/学期"
+    },
+    {
+      "sourceLabel": "原件6（原名只私有映射）",
+      "sourceDirectory": "物理类/物理实验/瞬态",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/瞬态实验报告与预习来源稿_第199批/身份未核的填写稿与原理资料",
+      "bytes": 40960,
+      "sha256": "fb7b4325adcd6ae9073aed7b0fe71dfb1ada99a7de024a907f2608782d874e71",
+      "role": "含填写数据/总结的瞬态实验来源稿，作者身份未核，不认官方答案或真实提交凭据",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true,
+      "boundary": "PDF8页逐页静态渲染审读；DOC只主文字piece-table，图形/嵌入公式未执行或完整视觉净审，不扩推任课教师/学期"
+    },
+    {
+      "sourceLabel": "原件7（原名只私有映射）",
+      "sourceDirectory": "物理类/物理实验/瞬态",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/瞬态实验报告与预习来源稿_第199批/正文身份已填的报告来源稿",
+      "bytes": 61440,
+      "sha256": "f102fb28f0f51aa3a54e0c613d2422e54c2e877327da266ae44e97500d094c32",
+      "role": "正文或页脚填写个人身份的瞬态实验报告来源稿",
+      "identityConfirmed": true,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true,
+      "boundary": "PDF8页逐页静态渲染审读；DOC只主文字piece-table，图形/嵌入公式未执行或完整视觉净审，不扩推任课教师/学期"
+    },
+    {
+      "sourceLabel": "原件8（原名只私有映射）",
+      "sourceDirectory": "物理类/物理实验/瞬态",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/瞬态实验报告与预习来源稿_第199批/身份未核的填写稿与原理资料",
+      "bytes": 52736,
+      "sha256": "2b02bba51565e854d27eb4fc80343c3bddbdefaf23bfa39c9ea91e1a6c178180",
+      "role": "原理与操作说明来源节选，作者与官方身份未核",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true,
+      "boundary": "PDF8页逐页静态渲染审读；DOC只主文字piece-table，图形/嵌入公式未执行或完整视觉净审，不扩推任课教师/学期"
+    }
+  ],
+  "policy": "全部原件私有，仅safe元信息公开；正文已证身份3exact候选，未知5不泛删。不抄私人值、身份原名或本机绝对路径。"
+}
