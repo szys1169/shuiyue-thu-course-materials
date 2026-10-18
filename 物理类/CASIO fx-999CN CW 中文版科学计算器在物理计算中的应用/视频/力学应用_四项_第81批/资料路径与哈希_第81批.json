@@ -1,0 +1,103 @@
+{
+  "batch": 81,
+  "source": "物理资料库6f4同名计算器应用目录",
+  "target": "水月的资料5ba原有对应副本",
+  "operation": "仅目标服务器移动；源库不变；原名原字节",
+  "rawPublic": false,
+  "author": "未核",
+  "teacher": "未核",
+  "date": "未核",
+  "term": "未核",
+  "videoReupload": 0,
+  "zipUpload": 0,
+  "files": [
+    {
+      "name": "CASIO fx-999CN CW中文版科学计算器结构力学解题应用.mp4",
+      "group": "结构力学",
+      "bytes": 58560676,
+      "sha256": "47d54efe8476803522f1042b3549725742ad7589bbdd514792c0726e0a0ffd19",
+      "sourceOldTargetEqual": true,
+      "fps": 30.0,
+      "frames": 11605.0,
+      "durationSeconds": 386.8333333333333,
+      "width": 1920.0,
+      "height": 1080.0,
+      "fourcc": 875967080,
+      "samples": [
+        0,
+        60,
+        193.41666666666666
+      ],
+      "fullVideoWatched": false,
+      "oldCourseRelativePath": "CASIO fx-999CN CW中文版科学计算器结构力学解题应用.mp4",
+      "finalCourseRelativePath": "视频/力学应用_四项_第81批/结构力学/CASIO fx-999CN CW中文版科学计算器结构力学解题应用.mp4",
+      "sampleObservation": "题名“结构力学解题应用（力法和位移法）”，抽样可见基本方程、系数和联立方程计算。"
+    },
+    {
+      "name": "CASIO fx-999CN CW中文版科学计算器水力学流体力学解题应用.mp4",
+      "group": "水力学与流体力学",
+      "bytes": 81038122,
+      "sha256": "4f76eea16118692b39958cc7d8b11379421d5f6ca6338a2b4400f7d13c04b03f",
+      "sourceOldTargetEqual": true,
+      "fps": 30.0,
+      "frames": 13474.0,
+      "durationSeconds": 449.1333333333333,
+      "width": 1920.0,
+      "height": 1080.0,
+      "fourcc": 875967080,
+      "samples": [
+        0,
+        60,
+        224.56666666666666
+      ],
+      "fullVideoWatched": false,
+      "oldCourseRelativePath": "CASIO fx-999CN CW中文版科学计算器水力学流体力学解题应用.mp4",
+      "finalCourseRelativePath": "视频/力学应用_四项_第81批/水力学与流体力学/CASIO fx-999CN CW中文版科学计算器水力学流体力学解题应用.mp4",
+      "sampleObservation": "题名“水力学 流体力学 解题应用”，抽样可见高次方程求管径及方程求解器操作。"
+    },
+    {
+      "name": "CASIO fx-999CN CW中文版科学计算器土力学解题应用.mp4",
+      "group": "土力学",
+      "bytes": 106231058,
+      "sha256": "c91dfe4693441b32bf9795b32dd06e5c354668fb4602f36eae6788712a394c63",
+      "sourceOldTargetEqual": true,
+      "fps": 30.0,
+      "frames": 17359.0,
+      "durationSeconds": 578.6333333333333,
+      "width": 1920.0,
+      "height": 1080.0,
+      "fourcc": 875967080,
+      "samples": [
+        0,
+        60,
+        289.31666666666666
+      ],
+      "fullVideoWatched": false,
+      "oldCourseRelativePath": "CASIO fx-999CN CW中文版科学计算器土力学解题应用.mp4",
+      "finalCourseRelativePath": "视频/力学应用_四项_第81批/土力学/CASIO fx-999CN CW中文版科学计算器土力学解题应用.mp4",
+      "sampleObservation": "题名“土力学解题应用”，抽样可见方程求解器与固结沉降计算案例。"
+    },
+    {
+      "name": "CASIOfx-999CN CW中文版科学计算器理论力学计算应用.mp4",
+      "group": "理论力学",
+      "bytes": 90851947,
+      "sha256": "1c0e6ac7b095747aa964ba750958ed65426498f0f3c6aa11efd1633f0be40b09",
+      "sourceOldTargetEqual": true,
+      "fps": 30.0,
+      "frames": 37160.0,
+      "durationSeconds": 1238.6666666666667,
+      "width": 1920.0,
+      "height": 1080.0,
+      "fourcc": 875967080,
+      "samples": [
+        0,
+        60,
+        619.3333333333334
+      ],
+      "fullVideoWatched": false,
+      "oldCourseRelativePath": "CASIOfx-999CN CW中文版科学计算器理论力学计算应用.mp4",
+      "finalCourseRelativePath": "视频/力学应用_四项_第81批/理论力学/CASIOfx-999CN CW中文版科学计算器理论力学计算应用.mp4",
+      "sampleObservation": "题名“理论力学计算应用”，抽样可见平面汇交力系合成及空间任意力系计算。"
+    }
+  ]
+}
