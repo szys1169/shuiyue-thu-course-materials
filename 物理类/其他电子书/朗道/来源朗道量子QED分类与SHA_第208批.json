@@ -1,0 +1,54 @@
+{
+  "batch": 208,
+  "sourceDirectory": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E6%9C%97%E9%81%93",
+  "oldDirectory": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E6%9C%97%E9%81%93",
+  "sourcePathsSelected": 2,
+  "sourcePathsRemaining": 9,
+  "previousProcessedPaths": 2,
+  "previousBatch": 206,
+  "rawBytes": 111536678,
+  "uniqueSHA": 2,
+  "parsedPages": 1049,
+  "reviewBoundary": "本批只核朗道来源13路径中的卷03、源名卷04两条，111,536,678字节、2唯一SHA、1,049解析页，源/本人旧目标逐SHA一致。卷03书目已证，归量子力学教材；源名卷04仅按实际相对论量子理论内容放量子场论教材来源组的书目与完整性待核过程目录，不据来源名把朗道或现代QED作者列为已证作者。后者作者/译校/出版社/版次/出版印次年均未核，缺前部书目页，并有物理376页§79公式79.10后物理377页直接公式145.9、末索引达152而首目录仅至79的连续性疑点；不定因、不修不拆，明确不是完整性审净结论。全页仅结构计数，0批注/表单/嵌入、repair=false，本次结构/抽样文本/10核心渲染页无解析警告；上述两项内容质量疑点仍在。每件5核心页实际视觉并另核异常附近首尾，抽样可读不证明全1,049页完整、无私人标记或内容无误，不OCR/清水印/重写。整册仅私有，原名原字节及水印保留，标记值不入安全元信息，Git仅来源说明，未上传ZIP。规范同大小PDF候选未命中，不作全盘去重结论。第206批历史另2来源已归位，累计4路径有去向，余9PDF保原name/href，不称13路径闭环；206说明为历史快照保原字节，既有课程/128160保持。",
+  "books": [
+    {
+      "sourceName": "朗道理论物理教程(卷03)-量子力学：非相对论理论(第6版)-[俄]朗道＆栗弗席兹-严肃(译)-高等教育出版社-2008.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E6%9C%97%E9%81%93/%E6%9C%97%E9%81%93%E7%90%86%E8%AE%BA%E7%89%A9%E7%90%86%E6%95%99%E7%A8%8B(%E5%8D%B703)-%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6%EF%BC%9A%E9%9D%9E%E7%9B%B8%E5%AF%B9%E8%AE%BA%E7%90%86%E8%AE%BA(%E7%AC%AC6%E7%89%88)-%5B%E4%BF%84%5D%E6%9C%97%E9%81%93%EF%BC%86%E6%A0%97%E5%BC%97%E5%B8%AD%E5%85%B9-%E4%B8%A5%E8%82%83(%E8%AF%91)-%E9%AB%98%E7%AD%89%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE-2008.pdf",
+      "cloudRelativePath": "物理类/量子力学/教材/朗道量子力学来源_第208批/朗道理论物理教程(卷03)-量子力学：非相对论理论(第6版)-[俄]朗道＆栗弗席兹-严肃(译)-高等教育出版社-2008.pdf",
+      "studyRelativePath": "物理类/量子力学/教材/朗道量子力学来源_第208批/朗道理论物理教程(卷03)-量子力学：非相对论理论(第6版)-[俄]朗道＆栗弗席兹-严肃(译)-高等教育出版社-2008.pdf",
+      "bytes": 98918983,
+      "sha256": "681e63b5a210fbfd0d428fd84adfc67a40aba30228014b72bd34d686b72fbe0b",
+      "parsedPages": 622,
+      "description": "《理论物理学教程·第三卷 量子力学（非相对论理论）》，L.D.朗道、E.M.栗弗席兹著，严肃译、喀兴林校，高等教育出版社。题名第六版；中译版权页载2008年10月第一版、同月第一次印刷，原俄文该版具体出版年未核，不将前版编者序日期充当第六版年。18章内容涵非相对论量子理论、原子分子、近似及碰撞等，含习题和推导。原扫描样页可辨、水印保留而值不公开，整册私有且原名原字节不改。",
+      "annotations": 0,
+      "widgets": 0,
+      "embeddedAttachments": 0,
+      "repaired": false,
+      "visualCorePageCount": 5,
+      "rawPublic": false,
+      "bibliographicStatus": "verified",
+      "contentQualityWarnings": []
+    },
+    {
+      "sourceName": "朗道理论物理教程(卷04)-量子电动力学.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E6%9C%97%E9%81%93/%E6%9C%97%E9%81%93%E7%90%86%E8%AE%BA%E7%89%A9%E7%90%86%E6%95%99%E7%A8%8B(%E5%8D%B704)-%E9%87%8F%E5%AD%90%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6.pdf",
+      "cloudRelativePath": "物理类/量子场论/教材/来源名QED相对论量子资料_第208批/_过程材料/书目与完整性待核/朗道理论物理教程(卷04)-量子电动力学.pdf",
+      "studyRelativePath": "物理类/量子场论/教材/来源名QED相对论量子资料_第208批/_过程材料/书目与完整性待核/朗道理论物理教程(卷04)-量子电动力学.pdf",
+      "bytes": 12617695,
+      "sha256": "2cf9a7c77c02802f23b33ef06fc3f254a747332a35546cbbe8c17fb6cc8862b4",
+      "parsedPages": 427,
+      "description": "来源文件名为《朗道理论物理教程(卷04)-量子电动力学.pdf》。原扫描首部直接目录，已核首尾未见题名、版权和作者译者署名；作者、译者、出版社、版年均保留未核。正文涉及相对论量子理论，前目录8章至节79，但末部实际出现节145–152，与前目录范围不一致，原因未核，不认整册完整，也不套现代QED作者。保存在私有书目或完整性待核组，原名原字节留存、不拆分修补。",
+      "annotations": 0,
+      "widgets": 0,
+      "embeddedAttachments": 0,
+      "repaired": false,
+      "visualCorePageCount": 5,
+      "rawPublic": false,
+      "bibliographicStatus": "unverified",
+      "contentQualityWarnings": [
+        "missing title/authorship/copyright evidence",
+        "physical p376 section79 -> p377 formula145.9; final index extends152 while initial contents ends79; cause unverified"
+      ]
+    }
+  ]
+}
