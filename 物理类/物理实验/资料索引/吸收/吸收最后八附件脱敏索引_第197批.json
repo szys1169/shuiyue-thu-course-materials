@@ -1,0 +1,109 @@
+{
+  "batch": 197,
+  "date": "2026-10-19",
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%90%B8%E6%94%B6",
+  "oldTargetUrl": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%90%B8%E6%94%B6",
+  "selectedRawPaths": 8,
+  "selectedRawBytes": 351372,
+  "uniqueSHA": 8,
+  "sameSHAExisting579": 1,
+  "items": [
+    {
+      "sourceLabel": "末件1（原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/吸收",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/吸收末件与三十六来源路径闭环_第197批/波长标签与曲线附件",
+      "bytes": 15291,
+      "sha256": "02c1de9951b03211fbed5c2bf58fbfc7d2d2995600d69be26289b5b8d6d297c9",
+      "role": "OOXML曲线缓存和波长/吸收系数轴标签，含1外部关系未跟随；不是仅凭扩展名认完整报告",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true,
+      "sameSHAExisting191": false
+    },
+    {
+      "sourceLabel": "末件2（原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/吸收",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/吸收末件与三十六来源路径闭环_第197批/波长标签与曲线附件",
+      "bytes": 139271,
+      "sha256": "1b7618c180862f74cc94e6731a0a71e8803454f9ce2a8005373c5fc221ceb006",
+      "role": "静态曲线图，横轴波长nm、纵轴吸收系数样式单位；全图未见署名，不认数据来源或官方图",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true,
+      "sameSHAExisting191": false
+    },
+    {
+      "sourceLabel": "末件3（原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/吸收",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/吸收末件与三十六来源路径闭环_第197批/主题未核的数值表",
+      "bytes": 14336,
+      "sha256": "e7dbe8a00a9dd970d5abf358f153ede6738e34398ca1fa5a55ebbabce7a59e1d",
+      "role": "12个非空数值的表，未见主题标签；源名含氢原子光谱，正文未据此确认课程",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true,
+      "sameSHAExisting191": false
+    },
+    {
+      "sourceLabel": "末件4（原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/吸收",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/吸收末件与三十六来源路径闭环_第197批/波长标签与曲线附件",
+      "bytes": 41984,
+      "sha256": "b5a42cb4ed8f888785b404da52036c5f8df0348a7a968ccb436e07b66867d965",
+      "role": "单元格含波长/N1/N2/a标签的数值表；源名含加密而BIFF未检出FILEPASS，只读无需解密",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true,
+      "sameSHAExisting191": false
+    },
+    {
+      "sourceLabel": "末件5（原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/吸收",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/吸收末件与三十六来源路径闭环_第197批/同SHA来源别名",
+      "bytes": 76800,
+      "sha256": "1fd70002995d18024d2feec50a14c15d0b8fd760f6444e581e7e14487afc2a69",
+      "role": "波长/N1/N2数据DOC，与191既有原件exactSHA相同，仅来源别名保留",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true,
+      "sameSHAExisting191": true
+    },
+    {
+      "sourceLabel": "末件6（原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/吸收",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/吸收末件与三十六来源路径闭环_第197批/用途未核的管理文本",
+      "bytes": 714,
+      "sha256": "a1a93a3ba5fc03b3d641905784d8ed350bd2c5c542d644cad6bb819dcd77fff3",
+      "role": "含标识符和网络地址样式的管理文本；身份/用途未核，值不转录，非已证学术测量数据",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true,
+      "sameSHAExisting191": false
+    },
+    {
+      "sourceLabel": "末件7（原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/吸收",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/吸收末件与三十六来源路径闭环_第197批/主题未核的数值表",
+      "bytes": 19456,
+      "sha256": "17036dce10b9b2491db9de793bf352f8090bd9c0498aced25f3d86739dbe171d",
+      "role": "207个非空数值的表，无主题文字，作者/用途未核",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true,
+      "sameSHAExisting191": false
+    },
+    {
+      "sourceLabel": "末件8（原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/吸收",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/吸收末件与三十六来源路径闭环_第197批/波长标签与曲线附件",
+      "bytes": 43520,
+      "sha256": "381977177a41211228d52aacd7e43e451bb6924ac51064ec2338cf63bf65e679",
+      "role": "单元格含波长/N1/N2/a标签的数值表",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true,
+      "sameSHAExisting191": false
+    }
+  ],
+  "policy": "全部私有；管理文本的标识符网络地址值不转录，未知不泛删；原名别名映射仅私有，无本机绝对路径公开。"
+}
