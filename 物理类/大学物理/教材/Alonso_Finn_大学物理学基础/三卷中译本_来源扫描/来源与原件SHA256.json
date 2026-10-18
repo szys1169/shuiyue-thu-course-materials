@@ -1,0 +1,70 @@
+{
+  "batch": 87,
+  "sourceDirectory": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AD%A6%E5%9F%BA%E7%A1%80",
+  "scope": "三卷扫描原件，非课程当前指定教材确认",
+  "originals": 3,
+  "originalBytes": 33223704,
+  "originalPDFPages": 2031,
+  "records": [
+    {
+      "volume": 1,
+      "sourceName": "大学物理学基础(第1卷)：力学与热力学-[美]M.Alonso＆E.J.Finn-高等教育出版社-1983.pdf",
+      "path": "教材/Alonso_Finn_大学物理学基础/三卷中译本_来源扫描/大学物理学基础(第1卷)：力学与热力学-[美]M.Alonso＆E.J.Finn-高等教育出版社-1983.pdf",
+      "bytes": 9049967,
+      "sha256": "ae1b2bfc34b84ac559628e2dc0939a707dc1c1cdf40341d069a638f947f91970",
+      "pdfPages": 596,
+      "annotations": 0,
+      "authors": [
+        "M. Alonso",
+        "E. J. Finn"
+      ],
+      "translator": "梁宝洪",
+      "visiblePublisher": "高等教育出版社",
+      "visibleTitlePageYear": 1983,
+      "chineseFirstEditionMonth": "1983-07",
+      "visiblePrintMonth": "1984-06",
+      "publicationDateUnclear": false,
+      "filenamePublisherConflict": false
+    },
+    {
+      "volume": 2,
+      "sourceName": "大学物理学基础(第2卷)：场与波-[美]M.Alonso＆E.J.Finn-高等教育出版社-1985.pdf",
+      "path": "教材/Alonso_Finn_大学物理学基础/三卷中译本_来源扫描/大学物理学基础(第2卷)：场与波-[美]M.Alonso＆E.J.Finn-高等教育出版社-1985.pdf",
+      "bytes": 12281887,
+      "sha256": "20b9feced3a923fcd629eaf4a7be94847edb909528f53821d87d440ea9ae61ff",
+      "pdfPages": 739,
+      "annotations": 0,
+      "authors": [
+        "M. Alonso",
+        "E. J. Finn"
+      ],
+      "translator": "梁宝洪",
+      "visiblePublisher": "高等教育出版社",
+      "visibleTitlePageYear": 1985,
+      "chineseFirstEditionMonth": null,
+      "visiblePrintMonth": null,
+      "publicationDateUnclear": true,
+      "filenamePublisherConflict": false
+    },
+    {
+      "volume": 3,
+      "sourceName": "大学物理学基础(第3卷)：量子物理学与统计物理学-[美]M.Alonso＆E.J.Finn-高等教育出版社-1981.pdf",
+      "path": "教材/Alonso_Finn_大学物理学基础/三卷中译本_来源扫描/大学物理学基础(第3卷)：量子物理学与统计物理学-[美]M.Alonso＆E.J.Finn-高等教育出版社-1981.pdf",
+      "bytes": 11891850,
+      "sha256": "8bf4d9289887494dbe11df58d52d1f97a2d4dcf84850359f0ad4e9925b7011df",
+      "pdfPages": 696,
+      "annotations": 0,
+      "authors": [
+        "M. Alonso",
+        "E. J. Finn"
+      ],
+      "translator": "梁宝洪",
+      "visiblePublisher": "人民教育出版社",
+      "visibleTitlePageYear": 1981,
+      "chineseFirstEditionMonth": "1981-08",
+      "visiblePrintMonth": "1983-03",
+      "publicationDateUnclear": false,
+      "filenamePublisherConflict": true
+    }
+  ]
+}
