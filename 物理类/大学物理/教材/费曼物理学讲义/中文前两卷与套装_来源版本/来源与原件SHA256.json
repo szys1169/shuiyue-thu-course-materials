@@ -1,0 +1,131 @@
+{
+  "batch": 97,
+  "scope": "two Chinese PDF volumes and one EPUB only",
+  "files": [
+    {
+      "name": "费恩曼物理学讲义(第1卷·新千年版·中文版)-[美]费恩曼＆莱顿＆桑兹-上海科学技术出版社-2013.pdf",
+      "bytes": 45384603,
+      "sha256": "845e21d811cbae3ece17374b6920edbce1849eab59a2dd6a3a37273626096915",
+      "sourceTargetEqual": true,
+      "pages": 588,
+      "annotations": 0,
+      "sourceURL": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E8%B4%B9%E6%9B%BC%E7%89%A9%E7%90%86%E5%AD%A6/%E4%B8%AD%E8%8B%B1%E6%96%87%E7%94%B5%E5%AD%90%E4%B9%A6%26%E4%B9%A0%E9%A2%98%E9%9B%86",
+      "oldPhysicsRelativePath": "费曼物理学/中英文电子书&习题集/费恩曼物理学讲义(第1卷·新千年版·中文版)-[美]费恩曼＆莱顿＆桑兹-上海科学技术出版社-2013.pdf",
+      "finalPhysicsRelativePath": "大学物理/教材/费曼物理学讲义/中文前两卷与套装_来源版本/_过程材料/私有原件/中文第1至2卷_2013扫描/费恩曼物理学讲义(第1卷·新千年版·中文版)-[美]费恩曼＆莱顿＆桑兹-上海科学技术出版社-2013.pdf",
+      "language": "中文",
+      "role": "中文教材扫描",
+      "rights": "完整书籍private不公开；原名原字节扫描印章笔迹或封装全部保留",
+      "reviewScope": "首部/版权/末页与正文抽样，非逐页视觉",
+      "volume": 1,
+      "edition": "新千年版",
+      "authors": [
+        "R.P.Feynman",
+        "R.B.Leighton",
+        "M.Sands"
+      ],
+      "translators": [
+        "郑永令",
+        "华宏鸣",
+        "吴子仪等"
+      ],
+      "publisher": "上海科学技术出版社",
+      "printedEditionEvidence": "2013年4月第1版、第1次印刷",
+      "evidence": "PDF页3书名译者和页4版权页、末页抽样",
+      "scanMarks": "可见馆藏/手写类扫描标记，身份未推断，值不抄，原页不裁改",
+      "titleConflict": null,
+      "privateMakerContactNoticeInSample": false
+    },
+    {
+      "name": "费恩曼物理学讲义(第2卷·新千年版·中文版)-[美]费恩曼＆莱顿＆桑兹-上海科学技术出版社-2013.pdf",
+      "bytes": 107950922,
+      "sha256": "661caca52a3456909041599c4a495b2215ae1fc0dfa27603cee61d46d44d3dac",
+      "sourceTargetEqual": true,
+      "pages": 623,
+      "annotations": 0,
+      "sourceURL": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E8%B4%B9%E6%9B%BC%E7%89%A9%E7%90%86%E5%AD%A6/%E4%B8%AD%E8%8B%B1%E6%96%87%E7%94%B5%E5%AD%90%E4%B9%A6%26%E4%B9%A0%E9%A2%98%E9%9B%86",
+      "oldPhysicsRelativePath": "费曼物理学/中英文电子书&习题集/费恩曼物理学讲义(第2卷·新千年版·中文版)-[美]费恩曼＆莱顿＆桑兹-上海科学技术出版社-2013.pdf",
+      "finalPhysicsRelativePath": "大学物理/教材/费曼物理学讲义/中文前两卷与套装_来源版本/_过程材料/私有原件/中文第1至2卷_2013扫描/费恩曼物理学讲义(第2卷·新千年版·中文版)-[美]费恩曼＆莱顿＆桑兹-上海科学技术出版社-2013.pdf",
+      "language": "中文",
+      "role": "中文教材扫描",
+      "rights": "完整书籍private不公开；原名原字节扫描印章笔迹或封装全部保留",
+      "reviewScope": "首部/版权/末页与正文抽样，非逐页视觉",
+      "volume": 2,
+      "edition": "新千年版",
+      "authors": [
+        "R.P.Feynman",
+        "R.B.Leighton",
+        "M.Sands"
+      ],
+      "translators": [
+        "李洪芳",
+        "王子辅",
+        "钟万蘅"
+      ],
+      "publisher": "上海科学技术出版社",
+      "printedEditionEvidence": "2013年4月第1版、第1次印刷",
+      "evidence": "PDF页3书名译者和页4版权页、末页抽样",
+      "scanMarks": "可见馆藏/手写类扫描标记，身份未推断，值不抄，原页不裁改",
+      "titleConflict": "卷2标题页英文Volume I与中文第2卷/版权页Volume II冲突，原页保留",
+      "privateMakerContactNoticeInSample": false
+    },
+    {
+      "name": "新千年版：费曼物理学讲义（套装+补编习题集全5册）(1).epub",
+      "bytes": 105137365,
+      "sha256": "761e143e679b55a7240e68e11c4ed11800ec7b2ace05ab99b8de80d6a85a4726",
+      "sourceTargetEqual": true,
+      "pages": null,
+      "sourceURL": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E8%B4%B9%E6%9B%BC%E7%89%A9%E7%90%86%E5%AD%A6/%E4%B8%AD%E8%8B%B1%E6%96%87%E7%94%B5%E5%AD%90%E4%B9%A6%26%E4%B9%A0%E9%A2%98%E9%9B%86",
+      "oldPhysicsRelativePath": "费曼物理学/中英文电子书&习题集/新千年版：费曼物理学讲义（套装+补编习题集全5册）(1).epub",
+      "finalPhysicsRelativePath": "大学物理/教材/费曼物理学讲义/中文前两卷与套装_来源版本/_过程材料/私有原件/中文五册套装EPUB_2020书目/新千年版：费曼物理学讲义（套装+补编习题集全5册）(1).epub",
+      "language": "中文",
+      "role": "中文五册套装EPUB",
+      "rights": "完整书籍private不公开；原名原字节扫描印章笔迹或封装全部保留",
+      "reviewScope": "只读ZIP/XML/静态正文抽样，不执行脚本/外链、不转换、不绕DRM、无固定页码",
+      "opfPublicationDate": "2020-03-01（元数据声明，不据此认定实际具体出版日）",
+      "bodyPublicationEvidence": "五册版权正文各载2020年3月第1版、第1次印刷；并各有早期中文版权年份，分开记录",
+      "edition": "新千年版五册套装，含三卷讲义、补编、习题集",
+      "publisher": "上海科学技术出版社（OPF与版权正文）",
+      "fixedPageCount": null,
+      "zipEntryCount": 6776,
+      "spineDocuments": 178,
+      "scriptOrExecutableEntriesFound": 0,
+      "spineScriptTagsFound": 0,
+      "spineEventAttributesFound": 0,
+      "spineExternalRefsFound": 1,
+      "externalRefsOpened": false,
+      "encryptionXmlPresent": false,
+      "noDRMBypass": true,
+      "bookCopyrightDocs": [
+        "OEBPS/text00003.html",
+        "OEBPS/text00066.html",
+        "OEBPS/text00119.html",
+        "OEBPS/text00152.html",
+        "OEBPS/text00171.html"
+      ],
+      "translatorsByBook": {
+        "第1卷": [
+          "郑永令",
+          "华宏鸣",
+          "吴子仪等"
+        ],
+        "第2卷": [
+          "李洪芳",
+          "王子辅",
+          "钟万蘅"
+        ],
+        "第3卷": [
+          "潘笃武",
+          "李洪芳"
+        ],
+        "补编": [
+          "潘笃武",
+          "李洪芳"
+        ],
+        "习题集": [
+          "杨文超"
+        ]
+      },
+      "sameEditionAs2013PDFNotClaimed": true
+    }
+  ]
+}
