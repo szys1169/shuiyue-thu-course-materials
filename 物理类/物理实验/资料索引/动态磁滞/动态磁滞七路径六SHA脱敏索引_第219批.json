@@ -1,0 +1,100 @@
+{
+  "batch": 219,
+  "date": "2026-10-19",
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/物理/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E6%BB%9E%E7%A3%81",
+  "oldTargetUrl": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E6%BB%9E%E7%A3%81",
+  "sourceFirstLevelRaw": 19,
+  "sourceFirstLevelSubdirs": 0,
+  "selectedRawPaths": 7,
+  "selectedRawBytes": 2111521,
+  "uniqueSHA": 6,
+  "sameSHAExisting711": 0,
+  "remainingOldTargetRawFiles": 12,
+  "items": [
+    {
+      "sourceLabel": "原件路径1（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/滞磁",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/动态磁滞回线报告来源变体_第219批/已填身份的磁场与磁滞合卷",
+      "bytes": 322560,
+      "sha256": "21476b1a621af37d795bbbc0a9f5aea120314f323eaa14dc1f95ecdeda8c3152",
+      "role": "磁场分布测量与动态磁滞两实验合卷，页脚实际填写个人身份；原件不拆分，不按标题认单实验",
+      "identityConfirmed": true,
+      "sameSHAWithinBatch": true,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "原件路径2（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/滞磁",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/动态磁滞回线报告来源变体_第219批/已填身份的磁场与磁滞合卷",
+      "bytes": 322560,
+      "sha256": "21476b1a621af37d795bbbc0a9f5aea120314f323eaa14dc1f95ecdeda8c3152",
+      "role": "磁场分布测量与动态磁滞两实验合卷，页脚实际填写个人身份；原件不拆分，不按标题认单实验",
+      "identityConfirmed": true,
+      "sameSHAWithinBatch": true,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "原件路径3（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/滞磁",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/动态磁滞回线报告来源变体_第219批/已填身份的磁场与磁滞合卷",
+      "bytes": 320000,
+      "sha256": "c182d527e5da444a4b8c9370a075728e7a10d4da2b54379df6dd6e652e48dc4f",
+      "role": "磁场分布测量与动态磁滞两实验合卷，页脚实际填写个人身份；原件不拆分，不按标题认单实验",
+      "identityConfirmed": true,
+      "sameSHAWithinBatch": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "原件路径4（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/滞磁",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/动态磁滞回线报告来源变体_第219批/静态与动态磁滞报告_身份未核",
+      "bytes": 243233,
+      "sha256": "c08142fa1331431e3af210a8d39788ff04d1de93bf3606a13c6547174eb661a7",
+      "role": "静态法软磁材料磁滞回线与示波器动态磁滞合报告，含已填数据、曲线和讨论但身份栏空白；未证教师模板或标准答案",
+      "identityConfirmed": false,
+      "sameSHAWithinBatch": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "原件路径5（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/滞磁",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/动态磁滞回线报告来源变体_第219批/静态与动态磁滞报告_身份未核",
+      "bytes": 180736,
+      "sha256": "2940052c7a66aebb0c9d98b7cde0320c1cd0b2823f41c3e10fe985bde3c1fc3d",
+      "role": "静态法软磁材料磁滞回线与示波器动态磁滞合报告，含已填数据、曲线和讨论但身份栏空白；未证教师模板或标准答案",
+      "identityConfirmed": false,
+      "sameSHAWithinBatch": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "原件路径6（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/滞磁",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/动态磁滞回线报告来源变体_第219批/已填身份的动态磁滞报告",
+      "bytes": 548864,
+      "sha256": "b784006c074f58652279705fdaf468afc7a3daf8948fe0b8bdf37a01707374ca",
+      "role": "动态磁滞测量报告，正文实际填写身份，实验日期2009-04-17，不当授课学期或真实提交证明",
+      "identityConfirmed": true,
+      "sameSHAWithinBatch": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "原件路径7（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/滞磁",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/动态磁滞回线报告来源变体_第219批/已填身份的磁场与磁滞合卷",
+      "bytes": 173568,
+      "sha256": "2d1e1b778afc95eb67608eb179cf97ce8caa7fe221e0c80efdd33f5c55e67bdf",
+      "role": "磁场分布测量与动态磁滞两实验合卷，页脚实际填写个人身份；原件不拆分，不按标题认单实验",
+      "identityConfirmed": true,
+      "sameSHAWithinBatch": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    }
+  ],
+  "policy": "全部raw私有；5正文/页脚确认身份path含一对同SHA别名，未知2不泛删；私人原名/字段值/本机绝对路径不公开，合卷不拆，异SHA不按近名判版本"
+}
