@@ -1,0 +1,30 @@
+{
+  "batch": 140,
+  "sourceLibrary": "6f4b1cfc-208b-4b3f-b2ac-bac77f97246f",
+  "sourceDirectory": "物理类/物理实验/近代物理实验/实验报告others/电子线路实验",
+  "scope": "2DOC原路径、1唯一原件SHA、总238592字节",
+  "role": "已填身份的历史计算机仿真实验报告，主题为反相放大电路特性；题头机构北京大学，教师、年份、作者归属与当前课程关系未核",
+  "sameHashPolicy": "两个原名同字节别名，均原名原字节私有保留，非两份独立版本；稳定显示别名只作元信息，真实名和恢复映射只私有审计。",
+  "rawPublic": false,
+  "audit": "只读Word piece-table；封面身份字段已填，未OCR内嵌图像、不声称逐页视觉实审，未运行Word/宏/嵌入对象/OrCAD或来源软件。",
+  "items": [
+    {
+      "alias": "历史稿_01_b8641c98a8.doc",
+      "role": "已填身份的历史计算机仿真实验报告",
+      "bytes": 119296,
+      "sha256": "b8641c98a8e4ebceb75f2c243eb7c4a86d5c92a365b95f242aa697696d713050",
+      "shaRole": "原件字节SHA256",
+      "sameHashAliasCount": 2,
+      "rawPublic": false
+    },
+    {
+      "alias": "历史稿_02_b8641c98a8.doc",
+      "role": "已填身份的历史计算机仿真实验报告",
+      "bytes": 119296,
+      "sha256": "b8641c98a8e4ebceb75f2c243eb7c4a86d5c92a365b95f242aa697696d713050",
+      "shaRole": "原件字节SHA256",
+      "sameHashAliasCount": 2,
+      "rawPublic": false
+    }
+  ]
+}
