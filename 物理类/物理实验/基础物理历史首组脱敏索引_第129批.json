@@ -1,0 +1,97 @@
+{
+  "batch": 129,
+  "sourceLibrary": "6f4b1cfc-208b-4b3f-b2ac-bac77f97246f",
+  "sourceDirectory": "物理类/物理实验/近代物理实验/实验报告others/基础物理实验",
+  "scope": "首层编号17/24/25共9件，8BMP与1XLS",
+  "groups": {
+    "电子管电流与电路示意_正式题名未核": "4图含K/g/p电子管、电流周期曲线、运算放大器和管电极示意；只认电子管电流与电路相关，不补猜正式实验题名。",
+    "声速测量装置示意_版本日期未核": "2图明确标记声速测定仪、信号发生器和示波器，支持声速测量装置主题，不认作完整正式指导。",
+    "脉冲光加热与温升相关_具体方法未核": "2图含脉冲光、试样、PN结温度传感器和温升曲线；XLS候选含胶木温升/降温曲线，支持相关主题，具体实验方法未核。"
+  },
+  "authorYear": "作者、年份、学期及官方性未核；具体题名或方法不能仅由来源编号推定。",
+  "rawPublic": false,
+  "aliasPolicy": "固定序号+原件SHA前10位为显示别名；真实原名路径仅本地私有映射，物理原件未改名，不据别名构造原件链接。",
+  "items": [
+    {
+      "alias": "原件_01_0115bbfe0c.bmp",
+      "category": "电子管电流与电路示意_正式题名未核",
+      "role": "原理/装置/曲线示意图",
+      "bytes": 7118,
+      "sha256": "0115bbfe0c628bd1e613d07780c27ead911bcd937dc8579be99c9392bfa9a526",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_02_09a89a90cb.bmp",
+      "category": "电子管电流与电路示意_正式题名未核",
+      "role": "原理/装置/曲线示意图",
+      "bytes": 5534,
+      "sha256": "09a89a90cb86b380ef008643d80a4444df5925777f5e1137b83210a622e69042",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_03_c7c2fa6cd1.bmp",
+      "category": "电子管电流与电路示意_正式题名未核",
+      "role": "原理/装置/曲线示意图",
+      "bytes": 6434,
+      "sha256": "c7c2fa6cd185a7a4a9a24ced372be1ed76a11a1d1b756457374e1e559e81af38",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_04_36269861ba.bmp",
+      "category": "电子管电流与电路示意_正式题名未核",
+      "role": "原理/装置/曲线示意图",
+      "bytes": 7790,
+      "sha256": "36269861ba4dc107c0a9d55618f0fc6ea11c89ce7d85a0adf19bfa678b6f0482",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_05_5f1728d9f5.bmp",
+      "category": "声速测量装置示意_版本日期未核",
+      "role": "原理/装置/曲线示意图",
+      "bytes": 132342,
+      "sha256": "5f1728d9f572ccdd63c6de54726666c46b1de11ac0d5dd05aa750b10fdf8a8f9",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_06_9aee573caf.bmp",
+      "category": "声速测量装置示意_版本日期未核",
+      "role": "原理/装置/曲线示意图",
+      "bytes": 132342,
+      "sha256": "9aee573caf75806c0c267d8a8bcf8ba6fe6863faacf8c86728392a0e27311305",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_07_d68a069031.bmp",
+      "category": "脉冲光加热与温升相关_具体方法未核",
+      "role": "原理/装置/曲线示意图",
+      "bytes": 125370,
+      "sha256": "d68a0690315a2d815adc2caba7b330909b99cef132fe9ba8a8b0c217fbc55955",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_08_7a1d5f0fd8.xls",
+      "category": "脉冲光加热与温升相关_具体方法未核",
+      "role": "旧XLS历史数据附件_完整单元格与身份未核",
+      "bytes": 50176,
+      "sha256": "7a1d5f0fd87910603ac4c5dc5117fbefff3cdabc7f207752ad70cae7a5b698b4",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_09_1b8b129aba.bmp",
+      "category": "脉冲光加热与温升相关_具体方法未核",
+      "role": "原理/装置/曲线示意图",
+      "bytes": 293142,
+      "sha256": "1b8b129abacaf18ce7345de2ab5b21917f5e1d1ae324482b30cba777fd67e225",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    }
+  ]
+}
