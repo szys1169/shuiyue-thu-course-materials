@@ -1,0 +1,128 @@
+{
+  "batch": 175,
+  "date": "2026-10-19",
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%8E%8B%E7%94%B5/%E5%AE%9E%E9%AA%8C3.14%E5%8E%8B%E7%94%B5%E5%85%83%E4%BB%B6%E5%AF%BC%E7%BA%B3%E5%9C%86%E7%9A%84%E6%B5%8B%E9%87%8F",
+  "oldTargetUrl": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%8E%8B%E7%94%B5/%E5%AE%9E%E9%AA%8C3.14%E5%8E%8B%E7%94%B5%E5%85%83%E4%BB%B6%E5%AF%BC%E7%BA%B3%E5%9C%86%E7%9A%84%E6%B5%8B%E9%87%8F",
+  "currentScope3": [
+    {
+      "sourceLabel": "预习报告.doc",
+      "sourceDirectory": "物理类/物理实验/压电/实验3.14压电元件导纳圆的测量",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/压电子目录历史稿与空表_第175批/预习内容来源稿",
+      "bytes": 333312,
+      "sha256": "5675ce7d7d7910956574ec5485b9f92ebc7efbc30d962d9b83689720e85ab0fc",
+      "role": "目的/原理/操作内容的预习来源稿，作者/官方性未核",
+      "identityValueAndPersonalFilenameNotTranscribed": false,
+      "exactNameAndFilePathPrivateOnly": true,
+      "sourceOldTargetEqual": true,
+      "publicRaw": false,
+      "evidenceBatch": 175,
+      "boundary": "本批fresh source/oldtarget/finalcloud，以最终scope验收为准；静态Word文字，嵌图公式未执行/完整视觉审读"
+    },
+    {
+      "sourceLabel": "带身份报告稿（原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/压电/实验3.14压电元件导纳圆的测量",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/压电子目录历史稿与空表_第175批/身份报告壳",
+      "bytes": 390144,
+      "sha256": "4fbb92b4ff79abd59bd640df4d20bfc63d512c606920f3592ed1566c113f63aa",
+      "role": "填写身份的实验报告稿，实验数据表多空，不认完成提交",
+      "identityValueAndPersonalFilenameNotTranscribed": true,
+      "exactNameAndFilePathPrivateOnly": true,
+      "sourceOldTargetEqual": true,
+      "publicRaw": false,
+      "evidenceBatch": 175,
+      "boundary": "本批fresh source/oldtarget/finalcloud，以最终scope验收为准；静态Word文字，嵌图公式未执行/完整视觉审读"
+    },
+    {
+      "sourceLabel": "数据记录.doc",
+      "sourceDirectory": "物理类/物理实验/压电/实验3.14压电元件导纳圆的测量",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/压电子目录历史稿与空表_第175批/空记录表来源稿",
+      "bytes": 41984,
+      "sha256": "ba37ecb197b7318233ec539ff113a8884471e006df679a12b39a230a59d8c1b1",
+      "role": "文字层空数据记录表，作者/官方性未核",
+      "identityValueAndPersonalFilenameNotTranscribed": false,
+      "exactNameAndFilePathPrivateOnly": true,
+      "sourceOldTargetEqual": true,
+      "publicRaw": false,
+      "evidenceBatch": 175,
+      "boundary": "本批fresh source/oldtarget/finalcloud，以最终scope验收为准；静态Word文字，嵌图公式未执行/完整视觉审读"
+    }
+  ],
+  "historicalScope8": [
+    {
+      "sourceLabel": "压电.doc",
+      "sourceDirectory": "物理类/物理实验/压电",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/压电首层历史稿图表与空表_第173批/报告与个人稿",
+      "bytes": 375296,
+      "sha256": "26983d40439792c7984de5c70a06bd3fe9c3cdc0d898c14ca17df48c20a5a423",
+      "evidenceBatch": 173,
+      "boundary": "历史source/oldtarget/finalcloud复用，本批freshlocal"
+    },
+    {
+      "sourceLabel": "导纳圆 (2).doc",
+      "sourceDirectory": "物理类/物理实验/压电",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/压电首层历史稿图表与空表_第173批/个人作图附件",
+      "bytes": 40448,
+      "sha256": "07932893fb6656492c1cf09036f1bdcd21b26adb8f8b5a04608214f237224a46",
+      "evidenceBatch": 173,
+      "boundary": "历史source/oldtarget/finalcloud复用，本批freshlocal"
+    },
+    {
+      "sourceLabel": "导纳圆.doc",
+      "sourceDirectory": "物理类/物理实验/压电",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/压电首层历史稿图表与空表_第173批/个人作图附件",
+      "bytes": 40448,
+      "sha256": "07932893fb6656492c1cf09036f1bdcd21b26adb8f8b5a04608214f237224a46",
+      "evidenceBatch": 173,
+      "boundary": "历史source/oldtarget/finalcloud复用，本批freshlocal"
+    },
+    {
+      "sourceLabel": "导纳圆.xls",
+      "sourceDirectory": "物理类/物理实验/压电",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/压电首层历史稿图表与空表_第173批/旧XLS附件",
+      "bytes": 15872,
+      "sha256": "69e882d7b27b07293fdc7944dda8594cfbb8c4fc6f5c444e7da3843f8b29f593",
+      "evidenceBatch": 173,
+      "boundary": "历史source/oldtarget/finalcloud复用，本批freshlocal"
+    },
+    {
+      "sourceLabel": "导纳圆1.doc",
+      "sourceDirectory": "物理类/物理实验/压电",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/压电首层历史稿图表与空表_第173批/个人作图附件",
+      "bytes": 29184,
+      "sha256": "e792cea99f0f41ba67adcd247964e28530b87e7f7ca4cd702fc0aeffa4a70ace",
+      "evidenceBatch": 173,
+      "boundary": "历史source/oldtarget/finalcloud复用，本批freshlocal"
+    },
+    {
+      "sourceLabel": "导纳圆1.xls",
+      "sourceDirectory": "物理类/物理实验/压电",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/压电首层历史稿图表与空表_第173批/旧XLS附件",
+      "bytes": 15872,
+      "sha256": "e3eeaef0d50b222655a539a01a06a3933f2aaab0651b00801c47f0096abee6ba",
+      "evidenceBatch": 173,
+      "boundary": "历史source/oldtarget/finalcloud复用，本批freshlocal"
+    },
+    {
+      "sourceLabel": "导纳圆2.doc",
+      "sourceDirectory": "物理类/物理实验/压电",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/压电首层历史稿图表与空表_第173批/个人作图附件",
+      "bytes": 28672,
+      "sha256": "3b5706c6c24681f2b46262cb5fbfa2b420ac932240da957c2ef6d857548b0e49",
+      "evidenceBatch": 173,
+      "boundary": "历史source/oldtarget/finalcloud复用，本批freshlocal"
+    },
+    {
+      "sourceLabel": "数据记录.doc",
+      "sourceDirectory": "物理类/物理实验/压电",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/压电首层历史稿图表与空表_第173批/空白记录表",
+      "bytes": 37888,
+      "sha256": "3ebcaa20b6de80c4991a2ea17e5879328528b09448e40d56d2ae9d4e51013f3d",
+      "evidenceBatch": 173,
+      "boundary": "历史source/oldtarget/finalcloud复用，本批freshlocal"
+    }
+  ],
+  "closureRawPaths": 11,
+  "closureUniqueSHA": 10,
+  "closureBytes": 1349120,
+  "policy": "完整原件均私有；身份值与个人文件名标识不公开；精确原名/文件路径仅私有映射。11闭环是173历史8+175fresh3，非11新版本或本批全重新下载。"
+}
