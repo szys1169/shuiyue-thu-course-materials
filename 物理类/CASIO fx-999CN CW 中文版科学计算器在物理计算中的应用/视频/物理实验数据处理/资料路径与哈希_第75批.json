@@ -1,0 +1,25 @@
+{
+  "batch": 75,
+  "scope": "仅物理实验数据处理视频1项，原件私有；元信息可公开",
+  "sourceLibrary": "6f4b1cfc-208b-4b3f-b2ac-bac77f97246f",
+  "targetLibrary": "5ba373d2-5ace-4c2d-b4c7-4a7517e1d627",
+  "sourceRelativePath": "物理类/CASIO fx-999CN CW 中文版科学计算器在物理计算中的应用/CASIO fx-999CN CW 中文版科学计算器 大学物理实验数据处理应用案例.mp4",
+  "oldTargetRelativePath": "物理类/CASIO fx-999CN CW 中文版科学计算器在物理计算中的应用/CASIO fx-999CN CW 中文版科学计算器 大学物理实验数据处理应用案例.mp4",
+  "finalCourseRelativePath": "视频/物理实验数据处理/CASIO fx-999CN CW 中文版科学计算器 大学物理实验数据处理应用案例.mp4",
+  "bytes": 245271247,
+  "sha256": "3021424c751ba7bc57f3fddbbe527d8b8fdc8777855a2efa1936a597f515d85c",
+  "sourceOldTargetShaEqual": true,
+  "operation": "仅目标同库服务器移动，原名原字节保持",
+  "rawPublic": false,
+  "videoReupload": 0,
+  "zipUpload": 0,
+  "bodyTitle": "大学物理实验 数据处理应用案例",
+  "author": "未核",
+  "date": "未核",
+  "term": "未核",
+  "sampleSeconds": [
+    0,
+    60,
+    810.85
+  ]
+}
