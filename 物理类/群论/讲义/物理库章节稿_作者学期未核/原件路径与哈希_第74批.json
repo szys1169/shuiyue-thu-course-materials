@@ -1,0 +1,77 @@
+{
+  "batch": 74,
+  "originals": [
+    {
+      "path": "群论/讲义/物理库章节稿_作者学期未核/Chp1-1.pdf",
+      "originalPath": "群论/Chp1-1.pdf",
+      "originalName": "Chp1-1.pdf",
+      "bytes": 541001,
+      "sha256": "e33ad868d863e52b1a3f83517b6d7782645d8cbf61e89b7dd227212e9aac8472",
+      "pages": 16,
+      "pdfAnnotations": 12,
+      "sourceDirectoryUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%BE%A4%E8%AE%BA",
+      "cloudDirectoryUrl": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%BE%A4%E8%AE%BA/%E8%AE%B2%E4%B9%89/%E7%89%A9%E7%90%86%E5%BA%93%E7%AB%A0%E8%8A%82%E7%A8%BF_%E4%BD%9C%E8%80%85%E5%AD%A6%E6%9C%9F%E6%9C%AA%E6%A0%B8",
+      "author": "未核",
+      "term": "未核",
+      "gitRawAllowed": false
+    },
+    {
+      "path": "群论/讲义/物理库章节稿_作者学期未核/Chp1-2.pdf",
+      "originalPath": "群论/Chp1-2.pdf",
+      "originalName": "Chp1-2.pdf",
+      "bytes": 579385,
+      "sha256": "90c23bb726a287af0f4ff2467f5f2ccf089b53c8ccfb7bb13c3aaa7ff7943c6e",
+      "pages": 11,
+      "pdfAnnotations": 15,
+      "sourceDirectoryUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%BE%A4%E8%AE%BA",
+      "cloudDirectoryUrl": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%BE%A4%E8%AE%BA/%E8%AE%B2%E4%B9%89/%E7%89%A9%E7%90%86%E5%BA%93%E7%AB%A0%E8%8A%82%E7%A8%BF_%E4%BD%9C%E8%80%85%E5%AD%A6%E6%9C%9F%E6%9C%AA%E6%A0%B8",
+      "author": "未核",
+      "term": "未核",
+      "gitRawAllowed": false
+    },
+    {
+      "path": "群论/讲义/物理库章节稿_作者学期未核/Chp2.pdf",
+      "originalPath": "群论/Chp2.pdf",
+      "originalName": "Chp2.pdf",
+      "bytes": 759844,
+      "sha256": "7600a916dc76af45b871ef3fc79230041c75852d3cb1f20bb66426913e8c779c",
+      "pages": 49,
+      "pdfAnnotations": 0,
+      "sourceDirectoryUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%BE%A4%E8%AE%BA",
+      "cloudDirectoryUrl": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%BE%A4%E8%AE%BA/%E8%AE%B2%E4%B9%89/%E7%89%A9%E7%90%86%E5%BA%93%E7%AB%A0%E8%8A%82%E7%A8%BF_%E4%BD%9C%E8%80%85%E5%AD%A6%E6%9C%9F%E6%9C%AA%E6%A0%B8",
+      "author": "未核",
+      "term": "未核",
+      "gitRawAllowed": false
+    },
+    {
+      "path": "群论/讲义/物理库章节稿_作者学期未核/Chp3-SO3SU2.pdf",
+      "originalPath": "群论/Chp3-SO3SU2.pdf",
+      "originalName": "Chp3-SO3SU2.pdf",
+      "bytes": 929854,
+      "sha256": "c8118fa9b69aaf3e776a89a3752b09d001d5ac46dd8a6809e2d1ad69baa25082",
+      "pages": 51,
+      "pdfAnnotations": 2,
+      "sourceDirectoryUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%BE%A4%E8%AE%BA",
+      "cloudDirectoryUrl": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%BE%A4%E8%AE%BA/%E8%AE%B2%E4%B9%89/%E7%89%A9%E7%90%86%E5%BA%93%E7%AB%A0%E8%8A%82%E7%A8%BF_%E4%BD%9C%E8%80%85%E5%AD%A6%E6%9C%9F%E6%9C%AA%E6%A0%B8",
+      "author": "未核",
+      "term": "未核",
+      "gitRawAllowed": false
+    },
+    {
+      "path": "群论/讲义/物理库章节稿_作者学期未核/Chp4.pdf",
+      "originalPath": "群论/Chp4.pdf",
+      "originalName": "Chp4.pdf",
+      "bytes": 839173,
+      "sha256": "11cc612aaed7a257d589e77ae7b2c7c391f2e76d85992e90b71b68727b402594",
+      "pages": 22,
+      "pdfAnnotations": 12,
+      "sourceDirectoryUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%BE%A4%E8%AE%BA",
+      "cloudDirectoryUrl": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%BE%A4%E8%AE%BA/%E8%AE%B2%E4%B9%89/%E7%89%A9%E7%90%86%E5%BA%93%E7%AB%A0%E8%8A%82%E7%A8%BF_%E4%BD%9C%E8%80%85%E5%AD%A6%E6%9C%9F%E6%9C%AA%E6%A0%B8",
+      "author": "未核",
+      "term": "未核",
+      "gitRawAllowed": false
+    }
+  ],
+  "authorTermStatus": "未核；不依文件元数据或收集目录推断作者、学期和正式课程身份",
+  "rawPublicAllowed": false
+}
