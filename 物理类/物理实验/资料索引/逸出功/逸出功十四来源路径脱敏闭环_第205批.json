@@ -1,0 +1,169 @@
+{
+  "batch": 205,
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E9%80%B8%E5%87%BA%E5%8A%9F/%E9%99%84%E5%9B%BE",
+  "stats": {
+    "sourcePaths": 14,
+    "uniqueSHA": 14,
+    "rawBytesIncludingAliases": 1262401,
+    "historicalSourceCloudEvidencePaths": 7,
+    "currentFreshSourceOldTargetPaths": 7,
+    "all14FreshLocalSHA": true,
+    "boundary": "逸出功首层7+附图7原路径限定闭环；203历史7复用源/旧/最终证据，205仅7图fresh，不称14全新下载或图像与报告对应已核，不扩整门实验课"
+  },
+  "items": [
+    {
+      "sourceLabel": "来源路径1",
+      "evidenceBatch": 203,
+      "bytes": 153088,
+      "sha256": "5614c6d97ae3631b8ffd438eda7c08c2a19d3cc7a5d76eb35c625fecef0f6af5",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/逸出功首层报告与表格来源_第203批/已填身份的报告来源稿",
+      "freshLocalPass": true,
+      "sourceOldTargetSHAConfirmed": true,
+      "cloudEvidenceBoundary": "历史203回取证据，本批未重下载",
+      "privateOriginalNameMapping": true
+    },
+    {
+      "sourceLabel": "来源路径2",
+      "evidenceBatch": 203,
+      "bytes": 223744,
+      "sha256": "31fa6342f9c25e306d718348fb5d2aa9fe6511e669aa13c971ef737602e920ee",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/逸出功首层报告与表格来源_第203批/已填身份的报告来源稿",
+      "freshLocalPass": true,
+      "sourceOldTargetSHAConfirmed": true,
+      "cloudEvidenceBoundary": "历史203回取证据，本批未重下载",
+      "privateOriginalNameMapping": true
+    },
+    {
+      "sourceLabel": "来源路径3",
+      "evidenceBatch": 203,
+      "bytes": 169795,
+      "sha256": "5cebc036206c437bc841303a3410732da0760700061963b1a5951dc8b194273c",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/逸出功首层报告与表格来源_第203批/已填身份的预习PDF来源稿",
+      "freshLocalPass": true,
+      "sourceOldTargetSHAConfirmed": true,
+      "cloudEvidenceBoundary": "历史203回取证据，本批未重下载",
+      "privateOriginalNameMapping": true
+    },
+    {
+      "sourceLabel": "来源路径4",
+      "evidenceBatch": 203,
+      "bytes": 388608,
+      "sha256": "41227325feb8af67f6232438da0609dc5d4bb60be4ec7db7a5fe8f1e0e9acc4e",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/逸出功首层报告与表格来源_第203批/已填身份的报告来源稿",
+      "freshLocalPass": true,
+      "sourceOldTargetSHAConfirmed": true,
+      "cloudEvidenceBoundary": "历史203回取证据，本批未重下载",
+      "privateOriginalNameMapping": true
+    },
+    {
+      "sourceLabel": "来源路径5",
+      "evidenceBatch": 203,
+      "bytes": 20480,
+      "sha256": "c7ed16c784a9ed0a41ccf6ab673a975d5264e44fbd0f789bd57b706bac697589",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/逸出功首层报告与表格来源_第203批/同单元格不同字节的表格来源变体",
+      "freshLocalPass": true,
+      "sourceOldTargetSHAConfirmed": true,
+      "cloudEvidenceBoundary": "历史203回取证据，本批未重下载",
+      "privateOriginalNameMapping": true
+    },
+    {
+      "sourceLabel": "来源路径6",
+      "evidenceBatch": 203,
+      "bytes": 126976,
+      "sha256": "06f33bf6f7cffb77043f29070cf4cb964b42c35f1a8ae95414df958bdbf17276",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/逸出功首层报告与表格来源_第203批/已填身份的报告来源稿",
+      "freshLocalPass": true,
+      "sourceOldTargetSHAConfirmed": true,
+      "cloudEvidenceBoundary": "历史203回取证据，本批未重下载",
+      "privateOriginalNameMapping": true
+    },
+    {
+      "sourceLabel": "来源路径7",
+      "evidenceBatch": 203,
+      "bytes": 20480,
+      "sha256": "88ba798e1846a586930d45a8574f8955efb0908b95d8aacbd4fb673c0ecfce6f",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/逸出功首层报告与表格来源_第203批/同单元格不同字节的表格来源变体",
+      "freshLocalPass": true,
+      "sourceOldTargetSHAConfirmed": true,
+      "cloudEvidenceBoundary": "历史203回取证据，本批未重下载",
+      "privateOriginalNameMapping": true
+    },
+    {
+      "sourceLabel": "来源路径8",
+      "evidenceBatch": 205,
+      "bytes": 21665,
+      "sha256": "de49692f5cc91ef9e46c80c2da7cb6692745c9dbf6f699cd40d63b2bcf1fe249",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/逸出功附图与十四来源路径闭环_第205批/拟合曲线原图_作者日期未核",
+      "freshLocalPass": true,
+      "sourceOldTargetSHAConfirmed": true,
+      "cloudEvidenceBoundary": "本批205fresh回取",
+      "privateOriginalNameMapping": true
+    },
+    {
+      "sourceLabel": "来源路径9",
+      "evidenceBatch": 205,
+      "bytes": 23112,
+      "sha256": "7be7786e76884b5865285634da3ab1b288cc3a2eca2f40d096cacefe8be0a801",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/逸出功附图与十四来源路径闭环_第205批/拟合曲线原图_作者日期未核",
+      "freshLocalPass": true,
+      "sourceOldTargetSHAConfirmed": true,
+      "cloudEvidenceBoundary": "本批205fresh回取",
+      "privateOriginalNameMapping": true
+    },
+    {
+      "sourceLabel": "来源路径10",
+      "evidenceBatch": 205,
+      "bytes": 23270,
+      "sha256": "65e1adb27029423a1b9b9538172b0958fcd9b4e921f46cfc1b4b4124ae35afad",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/逸出功附图与十四来源路径闭环_第205批/拟合曲线原图_作者日期未核",
+      "freshLocalPass": true,
+      "sourceOldTargetSHAConfirmed": true,
+      "cloudEvidenceBoundary": "本批205fresh回取",
+      "privateOriginalNameMapping": true
+    },
+    {
+      "sourceLabel": "来源路径11",
+      "evidenceBatch": 205,
+      "bytes": 22986,
+      "sha256": "c95bca9b2dc31d62e1ccfdbf0bd3e31aeda973d14e8dbf0d3d73db5a90fa3af2",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/逸出功附图与十四来源路径闭环_第205批/拟合曲线原图_作者日期未核",
+      "freshLocalPass": true,
+      "sourceOldTargetSHAConfirmed": true,
+      "cloudEvidenceBoundary": "本批205fresh回取",
+      "privateOriginalNameMapping": true
+    },
+    {
+      "sourceLabel": "来源路径12",
+      "evidenceBatch": 205,
+      "bytes": 23338,
+      "sha256": "86b10c4c6ceaf4bfd9744fa8cd80d865dee6f3e59dc85666445e7a9301a34a0b",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/逸出功附图与十四来源路径闭环_第205批/拟合曲线原图_作者日期未核",
+      "freshLocalPass": true,
+      "sourceOldTargetSHAConfirmed": true,
+      "cloudEvidenceBoundary": "本批205fresh回取",
+      "privateOriginalNameMapping": true
+    },
+    {
+      "sourceLabel": "来源路径13",
+      "evidenceBatch": 205,
+      "bytes": 23111,
+      "sha256": "dcab6c98742ea23dbbec90b660235b7eee17bc1281b038e952275f50c3b82bf1",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/逸出功附图与十四来源路径闭环_第205批/拟合曲线原图_作者日期未核",
+      "freshLocalPass": true,
+      "sourceOldTargetSHAConfirmed": true,
+      "cloudEvidenceBoundary": "本批205fresh回取",
+      "privateOriginalNameMapping": true
+    },
+    {
+      "sourceLabel": "来源路径14",
+      "evidenceBatch": 205,
+      "bytes": 21748,
+      "sha256": "419e4cde0ef11a6c9a73c11af77baa4dfcf945abaf9179148703dc857459e572",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/逸出功附图与十四来源路径闭环_第205批/拟合曲线原图_作者日期未核",
+      "freshLocalPass": true,
+      "sourceOldTargetSHAConfirmed": true,
+      "cloudEvidenceBoundary": "本批205fresh回取",
+      "privateOriginalNameMapping": true
+    }
+  ]
+}
