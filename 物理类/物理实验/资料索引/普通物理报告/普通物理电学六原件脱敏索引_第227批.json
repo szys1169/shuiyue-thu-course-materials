@@ -1,0 +1,83 @@
+{
+  "batch": 227,
+  "date": "2026-10-19",
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/物理/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E6%99%AE%E9%80%9A%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A",
+  "oldTargetUrl": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E6%99%AE%E9%80%9A%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A",
+  "sourceFirstLevelRaw": 27,
+  "sourceFirstLevelSubdirs": 1,
+  "selectedRawPaths": 6,
+  "selectedRawBytes": 657310,
+  "uniqueSHA": 6,
+  "sameSHAExisting756": 0,
+  "remainingOldTargetRawFiles": 21,
+  "protectedUnexaminedFolders": 1,
+  "items": [
+    {
+      "sourceLabel": "原件路径1（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/普通物理实验报告",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/普通物理电学报告来源首组_第227批/霍尔来源报告_身份未核",
+      "bytes": 82432,
+      "sha256": "397c0f1a1986c87d44c8fd20daf81972454e1ac7b225e12047b7717b5828930a",
+      "role": "用霍尔效应测磁场来源报告，含原理/实验内容/Excel嵌表和部分结果、身份栏空，未认教师模板或标准答案；仅主文字不执行嵌表",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "原件路径2（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/普通物理实验报告",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/普通物理电学报告来源首组_第227批/LC谐振报告与数值表",
+      "bytes": 76288,
+      "sha256": "5159bfc5f6ecfe9158c76c592c77cb086f989b237f5890f08b702e22a0c70f9b",
+      "role": "LC谐振报告，含思考解答/分析与个人数据，身份栏空，未认教师模板/标准答案；与另一LC稿异SHA且仪器参数不同，不判新版",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "原件路径3（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/普通物理实验报告",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/普通物理电学报告来源首组_第227批/非线性互感混沌实验说明",
+      "bytes": 150016,
+      "sha256": "abe82c8455ff8ad0b6abc1c2141835344808bdfe79e1c695a4fee923d2347be6",
+      "role": "研究性实验：包含非线性电感互感的混沌电路实验，仪器、电路和实验内容说明，教师/课程年份未核；引用教材页码不认书目已核",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "原件路径4（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/普通物理实验报告",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/普通物理电学报告来源首组_第227批/RC晶体管振荡器来源报告",
+      "bytes": 150942,
+      "sha256": "17cbe4c65d962a19ef4619e4b42bbbe38273b65cbf3daf60bd3ab39128a7268c",
+      "role": "3页电子线路RC晶体管振荡器来源报告，身份栏空但有测量数据/讨论/思考解答，未认空白模板/标准答案或正式提交",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "原件路径5（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/普通物理实验报告",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/普通物理电学报告来源首组_第227批/LC谐振报告与数值表",
+      "bytes": 22016,
+      "sha256": "546479ad6f002ac2204882e188c6d0c84ee40aac98511769c55a0d6d0fc01a59",
+      "role": "XLS95非空已存cell含频率、时差倒数、相位与UR标签，3公式缓存未重算；具体配套报告/作者日期未核，不因源名认配套",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "原件路径6（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/普通物理实验报告",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/普通物理电学报告来源首组_第227批/LC谐振报告与数值表",
+      "bytes": 175616,
+      "sha256": "325f2c389324fef4c084b1ca2b7fa2685d939c6acd3f191e407f5ec9d62bf2f1",
+      "role": "LC电路谐振报告页脚实际填写个人身份，正文实验日期2004-11-30，不扩推来源组年度/教师或实际提交状态",
+      "identityConfirmed": true,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    }
+  ],
+  "policy": "全部raw私有；1正文/页脚确认身份exact候选、unknown5不泛删；私人原名/字段值/本机绝对路径不公开，空身份栏不认空白教师模板，不执行字段或公式嵌表"
+}
