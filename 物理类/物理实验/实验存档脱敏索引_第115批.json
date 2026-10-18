@@ -1,0 +1,181 @@
+{
+  "batch": 115,
+  "sourceLibrary": "6f4b1cfc-208b-4b3f-b2ac-bac77f97246f",
+  "sourceDirectory": "物理类/物理实验/近代物理实验/实验报告存档",
+  "scope": "19DOC历史私有归档",
+  "rawPublic": false,
+  "aliasPolicy": "所有原件均以固定序号与原件SHA前10位组成稳定显示别名；真实原文件名与路径仅私有映射，云盘与本地原件保持原名，不用别名拼接原件链接。",
+  "items": [
+    {
+      "alias": "存档_01_e4735d3cb7.doc",
+      "category": "已填身份历史学生稿",
+      "role": "已填身份的历史实验稿",
+      "bytes": 661504,
+      "sha256": "e4735d3cb7707e4d0b41b38840fc9794c2e108638974be88380fcb5f00c6a04b",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "存档_02_ff0fb4e0e1.doc",
+      "category": "已填身份历史学生稿",
+      "role": "已填身份的历史实验稿",
+      "bytes": 709120,
+      "sha256": "ff0fb4e0e1686d8d8a936cac2a330ba406131d5cbaa39a0589822dce26aea4cc",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "存档_03_0635c245c0.doc",
+      "category": "数据与未署名历史稿",
+      "role": "历史已填数据文稿_个人身份未核",
+      "bytes": 7876608,
+      "sha256": "0635c245c0c2c47ff819e5562fddefd2cac661bcd13960f45405dc785e6a0699",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "存档_04_caed65487e.doc",
+      "category": "已填身份历史学生稿",
+      "role": "已填身份的历史实验稿",
+      "bytes": 2968064,
+      "sha256": "caed65487ed88fe72ce971b7b6153acde1c9d88fd0ec7509493f041933d1ff68",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "存档_05_3548ffb0f6.doc",
+      "category": "已填身份历史学生稿",
+      "role": "已填身份的历史实验稿",
+      "bytes": 281088,
+      "sha256": "3548ffb0f6daa06bc7c3952a92ad1a4fddfe816ab702eac013d981a2a38456a3",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "存档_06_017b05cdb3.doc",
+      "category": "已填身份历史学生稿",
+      "role": "已填身份的历史实验稿",
+      "bytes": 150528,
+      "sha256": "017b05cdb3043c75bd6d8aadf1655d53efb39081a96be29163f877abc00f7a79",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "存档_07_ff2120db60.doc",
+      "category": "数据与未署名历史稿",
+      "role": "历史原理或实验分析稿_归属完整性未核",
+      "bytes": 61440,
+      "sha256": "ff2120db606329f45ee9b3e24ffdbade143e55f2015608957a86856a0c482e06",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "存档_08_2d03c698a0.doc",
+      "category": "数据与未署名历史稿",
+      "role": "历史原理或实验分析稿_归属完整性未核",
+      "bytes": 100352,
+      "sha256": "2d03c698a02e82e5f30d51b0248a4c305a4251101bed7bb6aa2c89b02c2b2c1f",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "存档_09_f505dbdee0.doc",
+      "category": "已填身份历史学生稿",
+      "role": "已填身份的历史实验稿",
+      "bytes": 37376,
+      "sha256": "f505dbdee0303a5fccd9129d04ed4699f8d1f6c24b80b47b39f10ec204d5642d",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "存档_10_61677cd216.doc",
+      "category": "已填身份历史学生稿",
+      "role": "已填身份的历史实验稿",
+      "bytes": 41472,
+      "sha256": "61677cd216e24992fa8b4c808f5b67f3ea60a3b39a9caadf31be642028b39320",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "存档_11_d9a9f612fc.doc",
+      "category": "已填身份历史学生稿",
+      "role": "已填身份的历史实验稿",
+      "bytes": 928768,
+      "sha256": "d9a9f612fc216f1feff4d94f68d4b809cee0f59b5e221b8c339520131fef5f44",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "存档_12_4e1eac8df1.doc",
+      "category": "已填身份历史学生稿",
+      "role": "已填身份的历史实验稿",
+      "bytes": 252928,
+      "sha256": "4e1eac8df17e5b8ff8b9c259cc94b1af6625a38d111c61d9751c8960faca3ea6",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "存档_13_84e8f25883.doc",
+      "category": "已填身份历史学生稿",
+      "role": "已填身份的历史实验稿",
+      "bytes": 25088,
+      "sha256": "84e8f258831d7cc82db42591535c9235279ae097230d14ac848b5e86764c7c72",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "存档_14_57ebd179bc.doc",
+      "category": "已填身份历史学生稿",
+      "role": "已填身份的历史实验稿",
+      "bytes": 2242048,
+      "sha256": "57ebd179bc614169ebc53c146ce214f1a78b5666f1592a1cb0f871950fc33be9",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "存档_15_cddb200b57.doc",
+      "category": "已填身份历史学生稿",
+      "role": "已填身份的历史实验稿",
+      "bytes": 717312,
+      "sha256": "cddb200b570861abcd6c0256374b47a319a610139d07d18e6a1ba7cfc6bc1f65",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "存档_16_8d67b2d0db.doc",
+      "category": "已填身份历史学生稿",
+      "role": "已填身份的历史实验稿",
+      "bytes": 3442688,
+      "sha256": "8d67b2d0dbb91520a4c83e93c81daa11f740bd01ff741abff1d8378f49efb035",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "存档_17_ccc6cfd71f.doc",
+      "category": "已填身份历史学生稿",
+      "role": "已填身份的历史实验稿",
+      "bytes": 124416,
+      "sha256": "ccc6cfd71fd7533cea038fd739de3d13c8aadb913cf250642ccd8eb67cfb84fb",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "存档_18_50435c048e.doc",
+      "category": "已填身份历史学生稿",
+      "role": "已填身份的历史实验稿",
+      "bytes": 245760,
+      "sha256": "50435c048eaba1e1680781e0634e34080c6362654c82b9fe2584d92d5097740b",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "存档_19_8ea5e6694f.doc",
+      "category": "数据与未署名历史稿",
+      "role": "历史原理或实验分析稿_归属完整性未核",
+      "bytes": 82944,
+      "sha256": "8ea5e6694f249efff7cc92def3bfe859a2d95e5ded6ced063319163c9fd6d5a0",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    }
+  ]
+}
