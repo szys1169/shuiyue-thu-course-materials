@@ -1,0 +1,67 @@
+{
+  "source": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E5%88%86%E6%9E%90%E5%8A%9B%E5%AD%A6",
+  "batch": 122,
+  "scope": "原目录5PDF中的4件，Hand/Finch原书未纳入",
+  "items": [
+    {
+      "sourceName": "Jennifer Coopersmith - The Lazy Universe_ An Introduction to the Principle of Least Action (2017, Oxford University Press) - libgen.lc.pdf",
+      "bytes": 3038177,
+      "sha256": "1ca3a90be463a8f9b307c5e74bd86d2c8d746ced80c066893664168173780b6f",
+      "parserPages": 280,
+      "annotations": 0,
+      "isRepaired": false,
+      "parserWarningsRecorded": "",
+      "title": "The Lazy Universe: An Introduction to the Principle of Least Action",
+      "authors": "Jennifer Coopersmith",
+      "role": "最小作用量原理参考书",
+      "edition": "扉页Oxford University Press，版权©2017；First Edition published in 2017，Impression: 1。",
+      "privateCanonicalPath": "物理类/分析力学/教材/Coopersmith_最小作用量原理_OUP2017/Jennifer Coopersmith - The Lazy Universe_ An Introduction to the Principle of Least Action (2017, Oxford University Press) - libgen.lc.pdf",
+      "publicRaw": false
+    },
+    {
+      "sourceName": "Jakob Schwichtenberg - No-Nonsense Classical Mecnanics. A Student- Friendly introduction (2019, NO-NONSENSE BOOKS) - libgen.lc.pdf",
+      "bytes": 19380296,
+      "sha256": "bd4b3e589596d9b1f7b3e937d738276b471b66088b74d3bf2075f6ea635b93e7",
+      "parserPages": 395,
+      "annotations": 0,
+      "isRepaired": false,
+      "parserWarningsRecorded": "",
+      "title": "No-Nonsense Classical Mechanics: A Student-Friendly Introduction",
+      "authors": "Jakob Schwichtenberg",
+      "role": "经典力学参考教材",
+      "edition": "扉页No-Nonsense Books，版权©2019；First printing, May 2019，书内版本标记1.00。来源名Mecnanics拼写保持；副本标记保原件、不抄其值。",
+      "privateCanonicalPath": "物理类/分析力学/教材/NoNonsense_经典力学_2019首印/Jakob Schwichtenberg - No-Nonsense Classical Mecnanics. A Student- Friendly introduction (2019, NO-NONSENSE BOOKS) - libgen.lc.pdf",
+      "publicRaw": false
+    },
+    {
+      "sourceName": "AdvancedClassicalMechanicsMIT8_09F14.pdf",
+      "bytes": 6408918,
+      "sha256": "1a73f422362017030b38337a5b53a07f4e89365798ae407d43cb732a2fb0887d",
+      "parserPages": 199,
+      "annotations": 0,
+      "isRepaired": false,
+      "parserWarningsRecorded": "",
+      "title": "Advanced Classical Mechanics",
+      "authors": "Iain W. Stewart；扉页编辑Francisco Machado、Thanawuth Thanathibodee、Prashanth S. Venkataram",
+      "role": "MIT高级经典力学课程合订讲义",
+      "edition": "扉页Classical Mechanics III、MIT 8.09 & 8.309、©2016；末页OCW封记8.09 Classical Mechanics III/Fall 2014。正文称自Fall2012授课，三者不同语义分别记录，不把2014当版权年或当前开课年份。",
+      "privateCanonicalPath": "物理类/分析力学/讲义/MIT8_09_2014秋_2016版权合订本/AdvancedClassicalMechanicsMIT8_09F14.pdf",
+      "publicRaw": false
+    },
+    {
+      "sourceName": "[Arnold]_经典力学的数学方法__阿诺尔德.pdf",
+      "bytes": 20317031,
+      "sha256": "11f00176cadac9fb6ef1ac39c9febe7b2b01fe5782d68781879fb3d191f48729",
+      "parserPages": 435,
+      "annotations": 611,
+      "isRepaired": false,
+      "parserWarningsRecorded": "",
+      "title": "经典力学的数学方法（原著第4版）",
+      "authors": "V. I. Arnold（阿诺尔德）著，齐民友译",
+      "role": "带来源批注的参考教材扫描",
+      "edition": "扉页原著第4版；高等教育出版社版权1992-10中译第1版、2006-01第2版/第1次印刷，区别原著版次和中译版次。",
+      "privateCanonicalPath": "物理类/分析力学/教材/Arnold_原著第4版_中译2006第2版/_过程材料/来源批注扫描/[Arnold]_经典力学的数学方法__阿诺尔德.pdf",
+      "publicRaw": false
+    }
+  ]
+}
