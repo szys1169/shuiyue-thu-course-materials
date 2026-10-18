@@ -1,0 +1,47 @@
+{
+  "batch": 218,
+  "sourceDirectory": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E6%9C%97%E9%81%93%E7%90%86%E8%AE%BA%E7%89%A9%E7%90%86%E5%AD%A6%E6%95%99%E7%A8%8B",
+  "oldDirectory": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E6%9C%97%E9%81%93%E7%90%86%E8%AE%BA%E7%89%A9%E7%90%86%E5%AD%A6%E6%95%99%E7%A8%8B",
+  "sourcePathsSelected": 2,
+  "sourcePathsRemaining": 5,
+  "previousBatch": 216,
+  "previousProcessedPaths": 3,
+  "rawBytes": 169166482,
+  "uniqueSHA": 2,
+  "parsedPages": 1128,
+  "reviewBoundary": "本批第二朗道来源叶10条中的QED、统计I两条，169,166,482字节、2唯一SHA、1128解析页，源/本人旧副本逐SHA一致，两件均不同于208QED/210统计I。QED题名第四版，别列斯捷茨基/栗弗席兹/皮塔耶夫斯基三作者，朱允伦译、庆承瑞校，高教中译2015年3月首版首印；不能据朗道系列名替换作者，也不把此书目套给208无题名的不同SHA件。10核心页实际视觉；另有界查看QED目录14章至§144、中部物理323–325页对应印302–304页§77及尾索引621–624/译后记625，所看位置未现208跳接，不作逐页完整认证。QED批注/表单/附件0，repair=false，本次解析渲染无警告。统计I题名第五版/中译2011年4月首版首印与210同书目但SHA和解析页数不同（480对481），具体差异未全定位，不认新出版版本、不替换既有清晰原扫描；22高亮保持，字体/编码文本及核心页提示保留，文字层不当准确公式原文。原名原字节与水印保持，批注元信息身份值只私有，不新增身份清理；不OCR、修PDF、清标记，不认证全本隐私全净或数学无误。整册私有，云盘只服务端归位已有副本，Git仅安全元信息，未上传PDF或ZIP。规范同大小PDF候选未命中，不作全盘去重结论。216历史3条另有云盘验收，现累计5条有去向、余5原件保持原name/href，未称10条闭环；第一朗道13路径及208QED待核、历史216说明、原课程和128/160快照保持。",
+  "books": [
+    {
+      "sourceName": "4-量子电动力学.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E6%9C%97%E9%81%93%E7%90%86%E8%AE%BA%E7%89%A9%E7%90%86%E5%AD%A6%E6%95%99%E7%A8%8B/4-%E9%87%8F%E5%AD%90%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6.pdf",
+      "cloudRelativePath": "物理类/量子场论/教材/别列斯捷茨基量子电动力学来源_第218批/4-量子电动力学.pdf",
+      "studyRelativePath": "物理类/量子场论/教材/别列斯捷茨基量子电动力学来源_第218批/4-量子电动力学.pdf",
+      "bytes": 146463404,
+      "sha256": "3e9784a322a20b22cffcf9223b7598a57fae9676ba5cda47a930a2d5ff6b08bc",
+      "parsedPages": 648,
+      "description": "《理论物理学教程·第四卷 量子电动力学（第四版）》，В.Б.别列斯捷茨基、Е.М.栗弗席兹、Л.П.皮塔耶夫斯基著，朱允伦译、庆承瑞校，高等教育出版社。中译版权页载2015年3月第一版、同月第一次印刷，题名第四版与中译第一版分别记录，原俄文该版出版年未独立确认。目录14章，涉及光子、相对论粒子、辐射与散射、协变微扰论和辐射修正等；本来源有独立题名版权页，不能继承此前另一待核扫描的作者或完整性判断。有界中尾邻页与目录尾项相符，未作逐页完整性认证。原扫描全文私有，保留原名原字节。",
+      "annotations": 0,
+      "widgets": 0,
+      "embeddedAttachments": 0,
+      "repaired": false,
+      "freshVisualCorePages": 5,
+      "rawPublic": false
+    },
+    {
+      "sourceName": "5-统计物理学 1.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E6%9C%97%E9%81%93%E7%90%86%E8%AE%BA%E7%89%A9%E7%90%86%E5%AD%A6%E6%95%99%E7%A8%8B/5-%E7%BB%9F%E8%AE%A1%E7%89%A9%E7%90%86%E5%AD%A6%201.pdf",
+      "cloudRelativePath": "物理类/热力学与统计物理/教材/第二来源统计物理I文字层_第218批/_过程材料/文字层与批注待核/5-统计物理学 1.pdf",
+      "studyRelativePath": "物理类/热力学与统计物理/教材/第二来源统计物理I文字层_第218批/_过程材料/文字层与批注待核/5-统计物理学 1.pdf",
+      "bytes": 22703078,
+      "sha256": "79d31e4c51ec3c1f3ed412e98d6615a66592ecd5d3fca694fdbe339c1e712ddc",
+      "parsedPages": 480,
+      "description": "《理论物理学教程·第五卷 统计物理学 I（第五版）》，L.D.朗道、E.M.栗弗席兹著，束仁贵、束莼译、郑伟谋校，高等教育出版社；中译版权页为2011年4月第一版、同月第一次印刷，原俄文此版出版年未核。本来源保留原有22条高亮批注、扫描图像与文字层，样页可读但部分字形受处理影响，字体及编码解析警告保留。与既有来源书目版印相同、原件SHA及页数不同，具体差异未逐页核定，保留为不同字节来源副本而非新增出版版本。整册及批注信息私有，原名原字节不改。",
+      "annotations": 22,
+      "widgets": 0,
+      "embeddedAttachments": 0,
+      "repaired": false,
+      "freshVisualCorePages": 5,
+      "rawPublic": false
+    }
+  ]
+}
