@@ -1,0 +1,85 @@
+{
+  "batch": 178,
+  "sourceDirectory": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E6%95%B0%E5%AD%A6",
+  "oldDirectory": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E6%95%B0%E5%AD%A6",
+  "rawPaths": 3,
+  "uniqueSHA": 3,
+  "rawBytes": 56387086,
+  "parsedPages": 1460,
+  "existingCanonicalSameSHA": 1,
+  "reviewBoundary": "三来源56,387,086字节、3唯一SHA、1460解析页，源/旧目标同SHA；特殊函数其中1件与既有规范同SHA，不是3个新增版本。全文私有，Git仅安全来源说明；未上传ZIP。全页仅结构计数，0批注/表单/嵌入，repaired=false，本次解析及核心15渲染页无警告。三份均扫描件，抽样无文字层，实际核心每份5页共15页另有定位放大，不是逐页视觉全审；不保证完整或无私人标记，不OCR、不修复重写。",
+  "books": [
+    {
+      "sourceName": "数学物理方法_梁昆淼.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E6%95%B0%E5%AD%A6/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95_%E6%A2%81%E6%98%86%E6%B7%BC.pdf",
+      "cloudRelativePath": "物理类/数学物理方法/教材/中文数学物理来源参考_第178批/_过程材料/书目或完整性待核/数学物理方法_梁昆淼.pdf",
+      "studyRelativePath": "物理类/数学物理方法/教材/中文数学物理来源参考_第178批/_过程材料/书目或完整性待核/数学物理方法_梁昆淼.pdf",
+      "bytes": 36735619,
+      "sha256": "0608702c87de8ae9363e928ef1b38f106514823d5275c37fe56bd5dcf56efc76",
+      "parsedPages": 462,
+      "description": "《数学物理方法》第四版：梁昆淼编，刘法、缪国庆修订，高等教育出版社；版权页2010年1月第4版、2010年4月第2次印刷，1960年12月第1版另记。462解析页。书目已核，物理第460页为附加来源访问元信息页，保留原件且整本只私有，不转抄字段值。",
+      "visualPhysicalPages": [
+        3,
+        4,
+        9,
+        231,
+        460
+      ],
+      "annotations": 0,
+      "widgets": 0,
+      "embeddedAttachments": 0,
+      "repaired": false,
+      "observedWarnings": "",
+      "rawPublic": false,
+      "existingCanonical": null
+    },
+    {
+      "sourceName": "特殊函数概论（王竹溪 郭敦仁）.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E6%95%B0%E5%AD%A6/%E7%89%B9%E6%AE%8A%E5%87%BD%E6%95%B0%E6%A6%82%E8%AE%BA%EF%BC%88%E7%8E%8B%E7%AB%B9%E6%BA%AA%20%E9%83%AD%E6%95%A6%E4%BB%81%EF%BC%89.pdf",
+      "cloudRelativePath": "物理类/数学物理方法/教材/中文数学物理来源参考_第178批/_过程材料/同SHA来源副本/特殊函数概论（王竹溪 郭敦仁）.pdf",
+      "studyRelativePath": "物理类/数学物理方法/教材/中文数学物理来源参考_第178批/_过程材料/同SHA来源副本/特殊函数概论（王竹溪 郭敦仁）.pdf",
+      "bytes": 13900001,
+      "sha256": "6c4ac7d21a6c5ccd82d1e19fb523b688e68d81acabf7e1c6515bdae0cba7891d",
+      "parsedPages": 689,
+      "description": "《特殊函数概论》正文页眉题名已核，王竹溪/郭敦仁仅来源文件名署名，未获题名版权页独立确认；版次/出版社/年份未核。689解析页，开头9页目录，最后物理第689页为印刷680外国人名索引；目录列印刷681出版后记，但本文件结束前未见，不称完整。与原有“教材/数学物理与特殊函数”规范PDF同SHA，原规范位置保留，本件仅同SHA可恢复来源副本，不认新版本。",
+      "visualPhysicalPages": [
+        1,
+        689,
+        3,
+        345,
+        687
+      ],
+      "annotations": 0,
+      "widgets": 0,
+      "embeddedAttachments": 0,
+      "repaired": false,
+      "observedWarnings": "",
+      "rawPublic": false,
+      "existingCanonical": "物理类/数学物理方法/教材/数学物理与特殊函数/特殊函数概论（王竹溪 郭敦仁）.pdf"
+    },
+    {
+      "sourceName": "李政道  物理学中的数学方法.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E6%95%B0%E5%AD%A6/%E6%9D%8E%E6%94%BF%E9%81%93%20%20%E7%89%A9%E7%90%86%E5%AD%A6%E4%B8%AD%E7%9A%84%E6%95%B0%E5%AD%A6%E6%96%B9%E6%B3%95.pdf",
+      "cloudRelativePath": "物理类/数学物理方法/教材/中文数学物理来源参考_第178批/_过程材料/书目或完整性待核/李政道  物理学中的数学方法.pdf",
+      "studyRelativePath": "物理类/数学物理方法/教材/中文数学物理来源参考_第178批/_过程材料/书目或完整性待核/李政道  物理学中的数学方法.pdf",
+      "bytes": 5751466,
+      "sha256": "f8c1e9baa25c1cd765f81d876551777715896e964e6393cdf7f26fcc1c611fec",
+      "parsedPages": 309,
+      "description": "来源名“李政道  物理学中的数学方法.pdf”中的李政道只作来源标签，正文题名、作者、版权/版本/年份未核，不能据文件名归为李政道已核著作。309解析页，从目录起至印刷307结束，七章数学方法内容，样页有译注；首尾未见题名版权页，书目及完整性待核，只私有保存。",
+      "visualPhysicalPages": [
+        1,
+        2,
+        155,
+        307,
+        309
+      ],
+      "annotations": 0,
+      "widgets": 0,
+      "embeddedAttachments": 0,
+      "repaired": false,
+      "observedWarnings": "",
+      "rawPublic": false,
+      "existingCanonical": null
+    }
+  ]
+}
