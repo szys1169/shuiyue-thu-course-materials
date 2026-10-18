@@ -1,0 +1,20 @@
+{
+  "batch": 126,
+  "sourceLibrary": "6f4b1cfc-208b-4b3f-b2ac-bac77f97246f",
+  "sourceDirectory": "物理类/物理实验/近代物理实验/实验报告others/核物理实验",
+  "scope": "来源单一旧XLS，13824字节",
+  "role": "旧XLS附件，具体主题、完整单元格、身份、作者、年份、学期及官方性未核",
+  "auditBoundary": "只读OLE文字候选与BIFF记录头边界统计，未完整解析SST、单元格和身份；候选不足以确认学术题名，不因未检出认无身份或空白，不执行宏或计算。",
+  "rawPublic": false,
+  "aliasPolicy": "固定序号+原件SHA前10位显示别名；真实原名路径仅本地私有映射，不据别名构造原件链接，原件实际名与字节不变。",
+  "items": [
+    {
+      "alias": "原件_01_a5381418d0.xls",
+      "role": "旧XLS历史附件_主题身份待核",
+      "bytes": 13824,
+      "sha256": "a5381418d0289fe36c36a75ad471bb965a96cde860080a9d9dee0fab5a3b5ec9",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    }
+  ]
+}
