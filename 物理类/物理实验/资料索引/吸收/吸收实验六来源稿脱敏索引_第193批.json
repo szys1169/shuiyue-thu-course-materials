@@ -1,0 +1,88 @@
+{
+  "batch": 193,
+  "date": "2026-10-19",
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%90%B8%E6%94%B6",
+  "oldTargetUrl": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%90%B8%E6%94%B6",
+  "sourceFirstLevelRaw": 36,
+  "selectedRawPaths": 6,
+  "selectedRawBytes": 1356897,
+  "uniqueSHA": 6,
+  "sameSHAExisting556": 0,
+  "remainingRawFiles": 16,
+  "metadataDirectory": "物理类/物理实验/资料索引/吸收",
+  "items": [
+    {
+      "sourceLabel": "原件1（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/吸收",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/吸收实验报告与PDF来源稿_第193批/标题不一致的身份PDF来源稿",
+      "bytes": 191613,
+      "sha256": "4a08a042c126e70ee607320d2a862e578b231b9738fc23c38bf881ab8418f5c8",
+      "role": "7页填写身份的吸收实验报告；第2文件页标题为示波器瞬态测量而正文为吸收实验，标题不一致保留不修",
+      "identityConfirmed": true,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true,
+      "boundary": "两PDF13页静态渲染审读及结构检查；DOC仅主文字，未执行Excel.Chart/OLE/宏/公式；个人姓名学号班级值不转录"
+    },
+    {
+      "sourceLabel": "原件2（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/吸收",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/吸收实验报告与PDF来源稿_第193批/身份报告与预习来源稿",
+      "bytes": 221156,
+      "sha256": "d6c306843e96289616ebac57e0a2d614df7583f37db3ff5f05c9d3d7184907da",
+      "role": "6页填写身份的单色仪吸收实验PDF报告",
+      "identityConfirmed": true,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true,
+      "boundary": "两PDF13页静态渲染审读及结构检查；DOC仅主文字，未执行Excel.Chart/OLE/宏/公式；个人姓名学号班级值不转录"
+    },
+    {
+      "sourceLabel": "原件3（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/吸收",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/吸收实验报告与PDF来源稿_第193批/身份报告与预习来源稿",
+      "bytes": 262656,
+      "sha256": "ce2966d95251ecfe9e20e659a6036e35edb8e2fd3c7f9e1103e47f76b0807b47",
+      "role": "正文或页脚填写身份的吸收实验报告/预习来源稿，不认真实提交凭据",
+      "identityConfirmed": true,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true,
+      "boundary": "两PDF13页静态渲染审读及结构检查；DOC仅主文字，未执行Excel.Chart/OLE/宏/公式；个人姓名学号班级值不转录"
+    },
+    {
+      "sourceLabel": "原件4（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/吸收",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/吸收实验报告与PDF来源稿_第193批/身份未核的嵌入曲线附件",
+      "bytes": 296448,
+      "sha256": "baf283a059d246f97fce0175ba5bff7fec3b551b1c9df80cb252b1f990fd7c4c",
+      "role": "只见6个嵌入Excel.Chart对象、主文字85字符的曲线附件，图形内容与身份未核",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true,
+      "boundary": "两PDF13页静态渲染审读及结构检查；DOC仅主文字，未执行Excel.Chart/OLE/宏/公式；个人姓名学号班级值不转录"
+    },
+    {
+      "sourceLabel": "原件5（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/吸收",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/吸收实验报告与PDF来源稿_第193批/身份报告与预习来源稿",
+      "bytes": 335872,
+      "sha256": "9e6c851efe60218fe474126e5b3bf0370ac3f9904dfcc852ab37f73f1f1239b6",
+      "role": "正文或页脚填写身份的吸收实验报告/预习来源稿，不认真实提交凭据",
+      "identityConfirmed": true,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true,
+      "boundary": "两PDF13页静态渲染审读及结构检查；DOC仅主文字，未执行Excel.Chart/OLE/宏/公式；个人姓名学号班级值不转录"
+    },
+    {
+      "sourceLabel": "原件6（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/吸收",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/吸收实验报告与PDF来源稿_第193批/身份报告与预习来源稿",
+      "bytes": 49152,
+      "sha256": "77f987d17fcf1981a3acfe4c90350c78e8bb91bb48daec411c2497d90f5b9f1f",
+      "role": "正文或页脚填写身份的吸收实验报告/预习来源稿，不认真实提交凭据",
+      "identityConfirmed": true,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true,
+      "boundary": "两PDF13页静态渲染审读及结构检查；DOC仅主文字，未执行Excel.Chart/OLE/宏/公式；个人姓名学号班级值不转录"
+    }
+  ],
+  "policy": "全文原件全部私有；个人身份值/私人原名/本机绝对路径不公开。13PDF页审读，DOC主文字而嵌图未执行。只5正文身份exact候选，未知1不泛删。旧root元信息不移动。"
+}
