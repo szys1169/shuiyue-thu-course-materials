@@ -1,0 +1,48 @@
+{
+  "batch": 245,
+  "date": "2026-10-19",
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/物理/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E8%80%83%E8%AF%95%E7%9B%B8%E5%85%B3/%E5%A4%96%E6%A0%A1%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99",
+  "oldTargetUrl": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E8%80%83%E8%AF%95%E7%9B%B8%E5%85%B3/%E5%A4%96%E6%A0%A1%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99",
+  "sourcePaths": 3,
+  "sourceBytes": 891904,
+  "uniqueSHA": 3,
+  "childDirectories": 0,
+  "sameSHAExisting868": 0,
+  "remainingOldRawPaths": 0,
+  "items": [
+    {
+      "sourceLabel": "来源路径1（精确原名仅私有）",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/考试相关/外校参考资料",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/外校分类复习模拟三附件_第245批/模拟试题与所附来源答案",
+      "bytes": 67584,
+      "sha256": "861ff3e179c2f63f5b503ab657598ad0f436f6684c117bd2954bcf0513fba00e",
+      "role": "正文大学物理实验模拟试题二，填空50分/选择20分/计算30分，后附同题答案与分步给分；不拆题答、不认正式往年卷/教师标准答案，学校作者年份未核",
+      "identityConfirmed": false,
+      "sourceOldTargetEqual": true,
+      "publicRaw": false
+    },
+    {
+      "sourceLabel": "来源路径2（精确原名仅私有）",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/考试相关/外校参考资料",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/外校分类复习模拟三附件_第245批/模拟试题与所附来源答案",
+      "bytes": 59392,
+      "sha256": "5c355d43d494e224e232c4d4d7cfbb8c9e0c7404bfe57c6b41de9b659e2c134f",
+      "role": "正文大学物理实验模拟试题一，填空42分/选择30分/综合28分，后附同题答案与分步给分；不拆题答、不认正式往年卷/教师标准答案，学校作者年份未核",
+      "identityConfirmed": false,
+      "sourceOldTargetEqual": true,
+      "publicRaw": false
+    },
+    {
+      "sourceLabel": "来源路径3（精确原名仅私有）",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/考试相关/外校参考资料",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/外校分类复习模拟三附件_第245批/复习思考题_来源未核",
+      "bytes": 764928,
+      "sha256": "89e85da497a3c70ef3c4a83a97cc9515663f328bc2af094e3848f3f03366ece7",
+      "role": "正文物理实验复习思考题，编号至200且193重复，含测量误差/数据处理与多实验思考练习，未见统一解答部分，不称精确200题或完整官方题库，学校作者年份未核",
+      "identityConfirmed": false,
+      "sourceOldTargetEqual": true,
+      "publicRaw": false
+    }
+  ],
+  "policy": "全部raw/3privateREADME/DOC主文字OLE/精确原名映射仅私有；来源外校分类不推实际学校/教师/年份，模拟题所附答案非独立核验标准答案，不拆题答，思考题编号重复不认精确200题；静态主文字非全版式隐私净审，未确认身份cleanup空、unknown3不泛删，不执行宏字段公式嵌图外链，不含本机绝对路径或私人原名"
+}
