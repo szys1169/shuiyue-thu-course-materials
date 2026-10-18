@@ -1,0 +1,50 @@
+{
+  "batch": 149,
+  "source": "来源：自有物理资料库（6f4b1cfc-208b-4b3f-b2ac-bac77f97246f）物理类/物理实验/力学首层。目标水月的资料已有同SHA副本，仅同一私有库内服务器归位；来源库不变。",
+  "rawPublic": false,
+  "scope": "力学首层五DOC共713728字节，五独立SHA；不进入另一个仪器子目录",
+  "roleBoundary": "均有填写的数据、分析或答题内容，作为历史稿保留；其中四份明确身份字段，一份实际身份未核。不是正式空白实验指南，不据来源目录认学校、教师、学期或官方性。",
+  "reviewBoundary": "只读Word piece-table文字；嵌入图像/公式未逐页视觉核验或OCR，没有执行文中实验设备、软件或嵌入对象。",
+  "items": [
+    {
+      "alias": "原件_01_0aa43b013b.doc",
+      "role": "刚性转子动平衡历史实验稿",
+      "bytes": 49152,
+      "sha256": "0aa43b013bd9b2704256a3aeb207603b1c615b718a1c1e0462016fd2526e3e14",
+      "identityStatus": "正文有实际身份字段，仅私有保留",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_02_0c8f09ab77.doc",
+      "role": "弯扭组合历史实验稿",
+      "bytes": 57856,
+      "sha256": "0c8f09ab777028ef1b5b8183f5dbaa5b20a32634d94a3ac753498e04fb15df56",
+      "identityStatus": "正文有实际身份字段，仅私有保留",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_03_4d23a55b16.doc",
+      "role": "常温静荷拉伸破坏历史实验稿",
+      "bytes": 49664,
+      "sha256": "4d23a55b161a27e8b7036c0631ba909e0316ff24ce9846fe3b942ab6e4e34c10",
+      "identityStatus": "正文有实际身份字段，仅私有保留",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_04_213002bafd.doc",
+      "role": "组合梁应力测量与分析历史稿，未确认身份",
+      "bytes": 427520,
+      "sha256": "213002bafdc868520eb82c955c186e0eb2d8c6fa88f99244b074fb5f868e43f5",
+      "identityStatus": "实际身份未核，仍全部私有",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_05_b29b0e91cd.doc",
+      "role": "组合梁应力分析历史实验稿",
+      "bytes": 129536,
+      "sha256": "b29b0e91cd68666cc895460e23aecb76f39c7a30ca5c0465a374116e4cfd973b",
+      "identityStatus": "正文有实际身份字段，仅私有保留",
+      "rawPublic": false
+    }
+  ]
+}
