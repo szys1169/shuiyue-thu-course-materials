@@ -1,0 +1,102 @@
+{
+  "source": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E5%8A%9B%E5%AD%A6%E4%B8%93%E4%B8%9A%E4%B9%A6%E7%B1%8D%E6%8E%A8%E8%8D%90",
+  "batch": 137,
+  "currentScope": "2中文来源扫描，曾攀尾部待核/Cook原著第4版中译",
+  "items": [
+    {
+      "sourceName": "[有限元分析及应用].文字版_曾攀.pdf",
+      "bytes": 96973957,
+      "sha256": "2893a18ad3a31db4e609f3f25e7090d3dd1e6b32ecc3759fcba622d27f100fb9",
+      "parserPages": 490,
+      "annotations": 0,
+      "isRepaired": false,
+      "parserWarningsRecorded": "",
+      "title": "有限元分析及应用",
+      "authors": "曾攀编著",
+      "editionEvidence": "扉页/版权清华大学出版社2004-05第1版、第1次印刷；前言2003-07、CIP2003不作出版年。",
+      "role": "参考教材来源扫描（尾部缺失线索待核）",
+      "quality": "490解析页。目录列参考文献471、中文索引473、英文索引483；末6个PDF页印刷461–466，末页仍为第12章程序清单，所列尾部未见，存在截尾线索，保过程材料待核，不声称全书完整。来源名文字版保留但首15页文本提取为空，已实际看图，不据名认文本层。不执行页内代码/软件，不补页修书。",
+      "privateCanonicalPath": "数学类/数值分析/教材/中文有限元参考_第137批/_过程材料/曾攀_尾部待核来源扫描/[有限元分析及应用].文字版_曾攀.pdf",
+      "publicRaw": false
+    },
+    {
+      "sourceName": "有限元分析的概念与应用-第四版(R.D.库克).pdf",
+      "bytes": 63618291,
+      "sha256": "53fa6332c3ad6c88c6fdf2bbe619037fdf6c789c51f832c342fb90179c81ce70",
+      "parserPages": 645,
+      "annotations": 0,
+      "isRepaired": false,
+      "parserWarningsRecorded": "",
+      "title": "有限元分析的概念与应用（原著第4版）",
+      "authors": "Robert D. Cook、David S. Malkus、Michael E. Plesha、Robert J. Witt著，关正西、强洪夫译",
+      "editionEvidence": "扉页第4版，西安交通大学出版社2007-09第1版/第1次印刷（中译版次）。中译版权页引原著Copyright2000，而134批英文第4版版权含2002，分别保留差异，不自行修正或按第4版认同一出版字节版本。2007-07译者序与2007-03作者中文前言各作前言日期。",
+      "role": "有限元参考教材中译来源扫描",
+      "quality": "645解析页，来源馆藏/页内水印标记原样保留不抄其值，不循标记链接；首15页提取文本为空但已实际看首版权与中末，不认空白PDF。",
+      "privateCanonicalPath": "数学类/数值分析/教材/中文有限元参考_第137批/有限元分析的概念与应用-第四版(R.D.库克).pdf",
+      "publicRaw": false
+    }
+  ],
+  "finiteElementSourceSubsetClosure": {
+    "rawCount": 6,
+    "rawBytes": 208681696,
+    "parserPages": 3933,
+    "uniqueSHA": 6,
+    "boundary": "6有限元相关原件（包括英文章稿和截尾线索扫描），不是6完好正式出版教材；134源云盘历史4+137本次2，最终local6再SHA，非6全源/云盘重下",
+    "items": [
+      {
+        "sourceName": "连续体和结构的非线性有限元-庄茁（译）.pdf",
+        "bytes": 12391109,
+        "sha256": "f9c9cafeb7b0cef29c9458d8585d5ea76dd369c3cd57520db6cc115553aad3b1",
+        "privateCanonicalPath": "数学类/数值分析/教材/有限元方法参考_第134批/连续体和结构的非线性有限元-庄茁（译）.pdf",
+        "migrationBatch": 134,
+        "sourceAndCloudEvidence": "复用134批来源/旧目标逐SHA及最终scope回取证据",
+        "publicRaw": false
+      },
+      {
+        "sourceName": "Ted Belytschko, Wing Kam Liu, Brian Moran-Nonlinear Finite Elements for Continua and Structures.pdf",
+        "bytes": 3011086,
+        "sha256": "d2c5dc551c2a8a655731241234c8f40298fe654504b20e760448f390b70f2e09",
+        "privateCanonicalPath": "数学类/数值分析/教材/有限元方法参考_第134批/_过程材料/1998来源章稿/Ted Belytschko, Wing Kam Liu, Brian Moran-Nonlinear Finite Elements for Continua and Structures.pdf",
+        "migrationBatch": 134,
+        "sourceAndCloudEvidence": "复用134批来源/旧目标逐SHA及最终scope回取证据",
+        "publicRaw": false
+      },
+      {
+        "sourceName": "Robert D. Cook, David S. Malkus, Michael E. Plesha, Robert J. Witt-Concepts and Applications of finite element analysis.pdf",
+        "bytes": 25817303,
+        "sha256": "1a1cd4af12652d072b2f8d5664f25ecc279e05641c716c4cadbdcaa57ce6ef58",
+        "privateCanonicalPath": "数学类/数值分析/教材/有限元方法参考_第134批/Robert D. Cook, David S. Malkus, Michael E. Plesha, Robert J. Witt-Concepts and Applications of finite element analysis.pdf",
+        "migrationBatch": 134,
+        "sourceAndCloudEvidence": "复用134批来源/旧目标逐SHA及最终scope回取证据",
+        "publicRaw": false
+      },
+      {
+        "sourceName": "O. C. Zienkiewicz, R. L. Taylor, J.Z. Zhu-The finite element method its basis and fundamentals.pdf",
+        "bytes": 6869950,
+        "sha256": "f05f1ef41a36559a29123e2c44884cca33a7914272bb5b9b84f31a65fba115c7",
+        "privateCanonicalPath": "数学类/数值分析/教材/有限元方法参考_第134批/O. C. Zienkiewicz, R. L. Taylor, J.Z. Zhu-The finite element method its basis and fundamentals.pdf",
+        "migrationBatch": 134,
+        "sourceAndCloudEvidence": "复用134批来源/旧目标逐SHA及最终scope回取证据",
+        "publicRaw": false
+      },
+      {
+        "sourceName": "[有限元分析及应用].文字版_曾攀.pdf",
+        "bytes": 96973957,
+        "sha256": "2893a18ad3a31db4e609f3f25e7090d3dd1e6b32ecc3759fcba622d27f100fb9",
+        "privateCanonicalPath": "数学类/数值分析/教材/中文有限元参考_第137批/_过程材料/曾攀_尾部待核来源扫描/[有限元分析及应用].文字版_曾攀.pdf",
+        "migrationBatch": 137,
+        "sourceAndCloudEvidence": "137批本次来源/旧目标及最终scope回取；最终验收另见记录",
+        "publicRaw": false
+      },
+      {
+        "sourceName": "有限元分析的概念与应用-第四版(R.D.库克).pdf",
+        "bytes": 63618291,
+        "sha256": "53fa6332c3ad6c88c6fdf2bbe619037fdf6c789c51f832c342fb90179c81ce70",
+        "privateCanonicalPath": "数学类/数值分析/教材/中文有限元参考_第137批/有限元分析的概念与应用-第四版(R.D.库克).pdf",
+        "migrationBatch": 137,
+        "sourceAndCloudEvidence": "137批本次来源/旧目标及最终scope回取；最终验收另见记录",
+        "publicRaw": false
+      }
+    ]
+  }
+}
