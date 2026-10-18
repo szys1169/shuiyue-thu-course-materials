@@ -1,0 +1,56 @@
+{
+  "batch": 92,
+  "scope": "two exercise books only",
+  "files": [
+    {
+      "name": "(费曼物理学讲义) 费恩曼(R．P．Feynman), 莱顿(Leighton, R.), R. B. 沃格特 - 费曼物理学讲义 习题集 Exercises in introductory physics-上海科学技术出版社 (1988).pdf",
+      "bytes": 8441273,
+      "sha256": "5fd808073553e037ccc87e562c6d85c3a6601c97fb05acdcdb8fa5bad1d25b98",
+      "sourceTargetEqual": true,
+      "pages": 172,
+      "annotations": 0,
+      "sourceURL": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E8%B4%B9%E6%9B%BC%E7%89%A9%E7%90%86%E5%AD%A6/%E4%B8%AD%E8%8B%B1%E6%96%87%E7%94%B5%E5%AD%90%E4%B9%A6%26%E4%B9%A0%E9%A2%98%E9%9B%86",
+      "oldPhysicsRelativePath": "费曼物理学/中英文电子书&习题集/(费曼物理学讲义) 费恩曼(R．P．Feynman), 莱顿(Leighton, R.), R. B. 沃格特 - 费曼物理学讲义 习题集 Exercises in introductory physics-上海科学技术出版社 (1988).pdf",
+      "finalPhysicsRelativePath": "大学物理/习题与解答/费曼物理学讲义配套/中文习题扫描_书目待核/(费曼物理学讲义) 费恩曼(R．P．Feynman), 莱顿(Leighton, R.), R. B. 沃格特 - 费曼物理学讲义 习题集 Exercises in introductory physics-上海科学技术出版社 (1988).pdf",
+      "role": "中文习题扫描",
+      "rights": "完整书籍private；公开Git仅安全书目元信息",
+      "pageReview": "首部、目录、正文及末部抽样渲染，不是逐页视觉核验",
+      "titleVerified": "未见标题/版权页，正文为中文物理习题分卷及末置目录",
+      "authorsVerified": [],
+      "translatorVerified": null,
+      "filenameOnlyBibliography": "Feynman/Leighton/Vogt; Exercises in introductory physics; 上海科学技术出版社;1988",
+      "yearVerified": null,
+      "completeness": "PDF从印刷页1习题开始、到印刷页170及末2页目录，无封面版权译者页；不称完整原书"
+    },
+    {
+      "name": "1_Richard P. Feynman_ Robert B. Leighton_ Matthew L. Sands - Exercises for the Feynman Lectures on Physics-Basic Books (2014).pdf",
+      "bytes": 103383783,
+      "sha256": "610e435f043d49fea62274671b37e4d87e3e2c753f239c0483ae5e7c0fcf47dd",
+      "sourceTargetEqual": true,
+      "pages": 324,
+      "annotations": 0,
+      "sourceURL": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E8%B4%B9%E6%9B%BC%E7%89%A9%E7%90%86%E5%AD%A6/%E4%B8%AD%E8%8B%B1%E6%96%87%E7%94%B5%E5%AD%90%E4%B9%A6%26%E4%B9%A0%E9%A2%98%E9%9B%86",
+      "oldPhysicsRelativePath": "费曼物理学/中英文电子书&习题集/1_Richard P. Feynman_ Robert B. Leighton_ Matthew L. Sands - Exercises for the Feynman Lectures on Physics-Basic Books (2014).pdf",
+      "finalPhysicsRelativePath": "大学物理/习题与解答/费曼物理学讲义配套/英文新千年版_2014/1_Richard P. Feynman_ Robert B. Leighton_ Matthew L. Sands - Exercises for the Feynman Lectures on Physics-Basic Books (2014).pdf",
+      "role": "英文习题及答案解答参考书",
+      "rights": "完整书籍private；公开Git仅安全书目元信息",
+      "pageReview": "首部、目录、正文及末部抽样渲染，不是逐页视觉核验",
+      "titleVerified": "Exercises for The Feynman Lectures on Physics",
+      "editionVerified": "New Millennium Edition",
+      "authorsVerified": [
+        "Richard Feynman",
+        "Robert Leighton",
+        "Matthew Sands",
+        "et al."
+      ],
+      "editorsVerified": [
+        "Michael A. Gottlieb",
+        "Rudolf Pfeiffer"
+      ],
+      "publisherVerified": "Basic Books",
+      "copyrightYearVerified": 2014,
+      "translatorVerified": null,
+      "evidence": "PDF页3标题/署名/编辑/版，页4版权及出版社，页5前言三卷汇编并含答案解答，页7目录及后部解答抽样"
+    }
+  ]
+}
