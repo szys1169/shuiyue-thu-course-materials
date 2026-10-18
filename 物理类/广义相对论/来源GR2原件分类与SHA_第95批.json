@@ -1,0 +1,90 @@
+{
+  "batch": 95,
+  "date": "2026-10-18",
+  "source": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%B9%BF%E4%B9%89%E7%9B%B8%E5%AF%B9%E8%AE%BA/GR-2",
+  "oldTarget": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%B9%BF%E4%B9%89%E7%9B%B8%E5%AF%B9%E8%AE%BA/GR-2",
+  "scope": "来源GR-2原8件；并非全课程",
+  "verification": "来源与旧目标逐项相同；验收结果见私有整理记录，原件保持字节",
+  "files": [
+    {
+      "path": "作业/2021秋_广义相对论II与宇宙学_教师未核/题目/GRII_F2021_HWKAssNo1.pdf",
+      "sourceName": "GRII_F2021_HWKAssNo1.pdf",
+      "bytes": 795931,
+      "sha256": "8cc3a421ba6a291ad0c65a14159c2b803bcc5df04fab73223c19dbd4c8b6ec2f",
+      "parserPages": 3,
+      "role": "作业题目",
+      "termEvidence": "正文Fall 2021",
+      "publicRaw": true
+    },
+    {
+      "path": "作业/2021秋_广义相对论II与宇宙学_教师未核/题目/GRII_F2021_HWKAssNo2.pdf",
+      "sourceName": "GRII_F2021_HWKAssNo2.pdf",
+      "bytes": 690672,
+      "sha256": "5ffe27d3935a3eae7274a3586d4ab4aed5e470476bc815f0ec1349d433134e3c",
+      "parserPages": 1,
+      "role": "作业题目",
+      "termEvidence": "正文Fall 2021",
+      "publicRaw": true
+    },
+    {
+      "path": "往年题/2020秋_广义相对论II与宇宙学_教师未核/期末/GenRelFall2020final004.pdf",
+      "sourceName": "GenRelFall2020final004.pdf",
+      "bytes": 853171,
+      "sha256": "4a3c3eb8f2c5afeff72def29ce4f0698214894056e383b09493c8e30c5fa208b",
+      "parserPages": 2,
+      "role": "期末试题",
+      "termEvidence": "正文Fall 2020",
+      "publicRaw": true
+    },
+    {
+      "path": "讲义/GRII_来源标2021秋_专题/GRII_Fall2021_Lects19-22_Ch8Part6Inflation.pdf",
+      "sourceName": "GRII_Fall2021_Lects19-22_Ch8Part6Inflation.pdf",
+      "bytes": 11355550,
+      "sha256": "26186b0aba28baddfb1fbd7fcd027bdf162fa03e0799cc22f134d54a96498cb0",
+      "parserPages": 168,
+      "role": "专题讲义",
+      "termEvidence": "仅来源文件名2021秋标签，正式开课学期未独立核实",
+      "publicRaw": false
+    },
+    {
+      "path": "讲义/GRII_来源标2021秋_专题/GRII_Fall2021_Lects22-24_Ch8Part7cmb.pdf",
+      "sourceName": "GRII_Fall2021_Lects22-24_Ch8Part7cmb.pdf",
+      "bytes": 7589006,
+      "sha256": "b1d69967a609c64a3132d55c9928bd01dd54f04b32f2cdf0a0286a5a1d8d0245",
+      "parserPages": 115,
+      "role": "专题讲义",
+      "termEvidence": "仅来源文件名2021秋标签，正式开课学期未独立核实",
+      "publicRaw": false
+    },
+    {
+      "path": "讲义/GRII_来源标2021秋_专题/GRII_Fall2021_Lects24-25_Ch7Part1A.pdf",
+      "sourceName": "GRII_Fall2021_Lects24-25_Ch7Part1A.pdf",
+      "bytes": 2130201,
+      "sha256": "32f50394697876e80e70fd3f2498e01d88844103e3e9303faf6236afaf51b379",
+      "parserPages": 51,
+      "role": "专题讲义",
+      "termEvidence": "仅来源文件名2021秋标签，正式开课学期未独立核实",
+      "publicRaw": false
+    },
+    {
+      "path": "讲义/共形图_年份作者未核/Lecture on Conformal diagram.pdf",
+      "sourceName": "Lecture on Conformal diagram.pdf",
+      "bytes": 5323921,
+      "sha256": "5c509121ff7c4088efde188d18370976d03fc90585e4d2c2c84bb67a67543fb2",
+      "parserPages": 99,
+      "role": "专题讲义",
+      "termEvidence": "年份未核",
+      "publicRaw": false
+    },
+    {
+      "path": "参考阅读/叶状结构_摘章_书目未核/foliations.pdf",
+      "sourceName": "foliations.pdf",
+      "bytes": 654578,
+      "sha256": "cd9d6f1c536f3c5287956e40719ca9cab6a313c76b38fa89834466dab415f0df",
+      "parserPages": 15,
+      "role": "参考阅读摘章",
+      "termEvidence": "年份未核，页脚©2010不替代书目",
+      "publicRaw": false
+    }
+  ]
+}
