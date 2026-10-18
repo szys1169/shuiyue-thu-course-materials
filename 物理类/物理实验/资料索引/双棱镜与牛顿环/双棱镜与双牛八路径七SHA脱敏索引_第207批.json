@@ -1,0 +1,113 @@
+{
+  "batch": 207,
+  "date": "2026-10-19",
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%8F%8C%E7%89%9B",
+  "oldTargetUrl": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%8F%8C%E7%89%9B",
+  "sourceFirstLevelRaw": 26,
+  "sourceFirstLevelSubdirs": 1,
+  "selectedRawPaths": 8,
+  "selectedRawBytes": 862208,
+  "uniqueSHA": 7,
+  "sameSHAExisting639": 0,
+  "remainingOldTargetRawFiles": 16,
+  "protectedUnexaminedFolders": 1,
+  "items": [
+    {
+      "sourceLabel": "原件路径1（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/双牛",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/双棱镜与双牛记录附件_第207批/空白记录表来源稿",
+      "bytes": 58880,
+      "sha256": "b19b393858419a6ddcef25fa0c3fee60a77074824afa3b1c34e2db4e90604882",
+      "role": "双棱镜或双棱镜与牛顿环实验记录空表，作者/官方性未核，不认教师模板",
+      "identityConfirmed": false,
+      "sameSHAWithinBatch": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "原件路径2（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/双牛",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/双棱镜与双牛记录附件_第207批/已填身份的报告与预习来源稿",
+      "bytes": 211456,
+      "sha256": "3a1877776fc070a22e197de47ae6347d0818fdb66bf0976c691edfbbe444f8a7",
+      "role": "正文或页脚填写个人身份的双棱镜/牛顿环报告或预习来源稿，不认真实提交或官方指导",
+      "identityConfirmed": true,
+      "sameSHAWithinBatch": true,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "原件路径3（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/双牛",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/双棱镜与双牛记录附件_第207批/已填身份的报告与预习来源稿",
+      "bytes": 211456,
+      "sha256": "3a1877776fc070a22e197de47ae6347d0818fdb66bf0976c691edfbbe444f8a7",
+      "role": "正文或页脚填写个人身份的双棱镜/牛顿环报告或预习来源稿，不认真实提交或官方指导",
+      "identityConfirmed": true,
+      "sameSHAWithinBatch": true,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "原件路径4（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/双牛",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/双棱镜与双牛记录附件_第207批/已填身份的报告与预习来源稿",
+      "bytes": 128512,
+      "sha256": "e6e2f11095a0f6b9f00b7cb45994932b36b5fab269046ae1e2d9abcc57c23743",
+      "role": "正文或页脚填写个人身份的双棱镜/牛顿环报告或预习来源稿，不认真实提交或官方指导",
+      "identityConfirmed": true,
+      "sameSHAWithinBatch": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "原件路径5（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/双牛",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/双棱镜与双牛记录附件_第207批/空白记录表来源稿",
+      "bytes": 43008,
+      "sha256": "da007596cd2360f730a65a1b986e50e2ecd547a1d8f7eb787a2bbbc79376dad4",
+      "role": "双棱镜或双棱镜与牛顿环实验记录空表，作者/官方性未核，不认教师模板",
+      "identityConfirmed": false,
+      "sameSHAWithinBatch": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "原件路径6（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/双牛",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/双棱镜与双牛记录附件_第207批/身份未核的填写数据与截断来源稿",
+      "bytes": 45568,
+      "sha256": "972b2e35d99539d6168d3aa9625e51f9ce1f0d03130f83ce36a2d6fc3499b36e",
+      "role": "源名答案但正文为填写的双棱镜测量数据记录，不认标准答案或教师解答",
+      "identityConfirmed": false,
+      "sameSHAWithinBatch": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "原件路径7（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/双牛",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/双棱镜与双牛记录附件_第207批/身份未核的填写数据与截断来源稿",
+      "bytes": 60416,
+      "sha256": "a49961f8b4c21c085d7fc0b9d02774ddaa15311a3a63f897a0162c3c4b0d1065",
+      "role": "双棱镜操作与填写数据来源节选，正文起首/末尾截断；源名署名不能据此确认作者",
+      "identityConfirmed": false,
+      "sameSHAWithinBatch": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "原件路径8（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/双牛",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/双棱镜与双牛记录附件_第207批/已填身份的报告与预习来源稿",
+      "bytes": 102912,
+      "sha256": "54bd67424c8fcaf8f3414781b6c3051cc1409afaee2754055b0ee8ba58556b71",
+      "role": "正文或页脚填写个人身份的双棱镜/牛顿环报告或预习来源稿，不认真实提交或官方指导",
+      "identityConfirmed": true,
+      "sameSHAWithinBatch": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    }
+  ],
+  "policy": "全部raw私有；4身份路径exact候选含2同SHA别名，未知4不泛删；私人原名/字段值/本机绝对路径不公开，不按源名答案认标准答案。"
+}
