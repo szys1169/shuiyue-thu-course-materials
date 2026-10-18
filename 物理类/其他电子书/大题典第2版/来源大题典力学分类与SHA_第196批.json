@@ -1,0 +1,45 @@
+{
+  "batch": 196,
+  "sourceDirectory": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E5%A4%A7%E9%A2%98%E5%85%B8%E7%AC%AC2%E7%89%88",
+  "oldDirectory": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E5%A4%A7%E9%A2%98%E5%85%B8%E7%AC%AC2%E7%89%88",
+  "sourcePathsSelected": 2,
+  "sourcePathsRemaining": 8,
+  "rawBytes": 227302346,
+  "uniqueSHA": 2,
+  "parsedPages": 1133,
+  "reviewBoundary": "本批只核大题典来源10路径中的力学上、下2册，227,302,346字节、2唯一SHA、1,133解析页，源/本人旧目标逐SHA一致。正文确认正式上下分册及第二版、含题后解答，不凭PDF拆分或源目录标签推断新版；其余8原件保原name/href，本批不称10路径闭环。私有云盘仅服务端移动本人已有副本，保原名字节；下册原页“内部使用”机构水印保留，机构/私人标记值不入公开说明，完整题集不公开，Git仅安全元信息，未上传ZIP。全页仅结构计数，0批注/表单/嵌入、repair=false，本次结构/抽样解析及10核心页渲染无警告；每册5页实际视觉不证明全1,133页完整、无私人标记或数学/题解正确，不OCR、清水印或重写。规范同大小PDF候选未命中，不作全盘去重结论；归习题与解答参考，不认定为清华作业或往年真题。既有课程资料、128/160快照保持。",
+  "books": [
+    {
+      "sourceName": "1力学 上.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E5%A4%A7%E9%A2%98%E5%85%B8%E7%AC%AC2%E7%89%88/1%E5%8A%9B%E5%AD%A6%20%E4%B8%8A.pdf",
+      "cloudRelativePath": "物理类/大学物理/习题与解答/大题典力学上下册来源_第196批/1力学 上.pdf",
+      "studyRelativePath": "通识与其他课程/大学物理/习题与解答/大题典力学上下册来源_第196批/1力学 上.pdf",
+      "bytes": 186380598,
+      "sha256": "c1d56995a90c541a8b11cbe5a2217c390bd4548137872c7401b86c41e7484765",
+      "parsedPages": 757,
+      "description": "《物理学大题典①·力学（上册）（第二版）》；丛书主编张永德，强元棠、程稼夫、张鹏飞编著；科学出版社、中国科学技术大学出版社。版权页载2005年9月第一版、2018年9月第二版、2018年10月第五次印刷。目录第1–8章：质点运动学、质点动力学、振动和波、有心运动、刚体运动学、质点系动力学、刚体动力学、流体力学。实际抽样题后含解答/证明及公式推导，未逐题审校全册。原扫描偏淡，整册保持私有，原字节不改。",
+      "annotations": 0,
+      "widgets": 0,
+      "embeddedAttachments": 0,
+      "repaired": false,
+      "visualCorePageCount": 5,
+      "rawPublic": false
+    },
+    {
+      "sourceName": "1力学 下.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E5%A4%A7%E9%A2%98%E5%85%B8%E7%AC%AC2%E7%89%88/1%E5%8A%9B%E5%AD%A6%20%E4%B8%8B.pdf",
+      "cloudRelativePath": "物理类/大学物理/习题与解答/大题典力学上下册来源_第196批/1力学 下.pdf",
+      "studyRelativePath": "通识与其他课程/大学物理/习题与解答/大题典力学上下册来源_第196批/1力学 下.pdf",
+      "bytes": 40921748,
+      "sha256": "34cc39e99778da8f0ee3ccf016fd585426a7df4c4fb93fd072a5f9522e0cf834",
+      "parsedPages": 376,
+      "description": "《物理学大题典①·力学（下册）（第二版）》；丛书主编张永德，强元棠、程稼夫、潘海俊编著；科学出版社、中国科学技术大学出版社。版权页载2005年9月第一版、2018年9月第二版、2018年10月第五次印刷。目录第9–11章：力学的拉格朗日表述、有限多自由度系统的小振动、力学的哈密顿表述。实际抽样题后含解答/证明及公式推导，未逐题审校全册。原扫描偏淡，整册保持私有，原字节不改。",
+      "annotations": 0,
+      "widgets": 0,
+      "embeddedAttachments": 0,
+      "repaired": false,
+      "visualCorePageCount": 5,
+      "rawPublic": false
+    }
+  ]
+}
