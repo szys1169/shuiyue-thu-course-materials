@@ -1,0 +1,47 @@
+{
+  "batch": 198,
+  "sourceDirectory": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E5%A4%A7%E9%A2%98%E5%85%B8%E7%AC%AC2%E7%89%88",
+  "oldDirectory": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E5%A4%A7%E9%A2%98%E5%85%B8%E7%AC%AC2%E7%89%88",
+  "sourcePathsSelected": 2,
+  "sourcePathsRemaining": 6,
+  "previousProcessedPaths": 2,
+  "previousBatch": 196,
+  "rawBytes": 178561657,
+  "uniqueSHA": 2,
+  "parsedPages": 892,
+  "reviewBoundary": "本批只核大题典来源10路径中的电磁学与电动力学、光学2册，178,561,657字节、2唯一SHA、892解析页，源/本人旧目标逐SHA一致。两册正文第二版及题后解/证明确证，归对应学科习题与解答参考，不认定为清华作业或往年真题。第196批力学上下册另有历史验收，本批累计已处理4条原名路径，尚余6原件保原name/href，不称十路径闭环；196说明保原字节为当批快照。私有云盘仅服务端移动已有副本，原名原字节及馆藏/扫描标记保留，标记值不公开抄录，整册只私有，Git仅安全来源元信息，未上传ZIP。全页仅结构计数，0批注/表单/嵌入、repair=false，本次结构/抽样解析及10核心页渲染无警告；每件5页实际视觉、扫描淡灰主体抽样可读，不证明全892页完整、无私人标记或数学/题解正确，不逐题审校、不OCR/清水印/重写。规范同大小PDF候选未命中，不作全盘去重结论。既有课程/196旧桥/128160保持。",
+  "books": [
+    {
+      "sourceName": "2电磁学与电动力学.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E5%A4%A7%E9%A2%98%E5%85%B8%E7%AC%AC2%E7%89%88/2%E7%94%B5%E7%A3%81%E5%AD%A6%E4%B8%8E%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6.pdf",
+      "cloudRelativePath": "物理类/电动力学/习题与解答/大题典电磁学与电动力学来源_第198批/2电磁学与电动力学.pdf",
+      "studyRelativePath": "物理类/电动力学/习题与解答/大题典电磁学与电动力学来源_第198批/2电磁学与电动力学.pdf",
+      "bytes": 69021921,
+      "sha256": "bca9c4a39e57c2422199edfeecb699a1f548728efc028a59827bdbadc0355d22",
+      "parsedPages": 515,
+      "description": "《物理学大题典②·电磁学与电动力学（第二版）》；张永德为丛书主编，刘金英、陈银华、张鹏飞、赵叔平、尤峻汉、胡友秋、全茂达、朱俊杰编著；科学出版社、中国科学技术大学出版社。版权页载2005年10月第一版，2018年9月第二版，2018年9月第四次印刷。原内容简介载6章，涉及静电学、静磁场和似稳电磁场、电路分析、电磁波传播、辐射及电磁场与介质相互作用；前部为题意要览，抽样不统计全册题数。抽样题后含解答/证明与公式推导，未逐题审校全册。原扫描偏淡，整册保持私有、原名原字节不改。",
+      "annotations": 0,
+      "widgets": 0,
+      "embeddedAttachments": 0,
+      "repaired": false,
+      "visualCorePageCount": 5,
+      "rawPublic": false
+    },
+    {
+      "sourceName": "3光学.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E5%A4%A7%E9%A2%98%E5%85%B8%E7%AC%AC2%E7%89%88/3%E5%85%89%E5%AD%A6.pdf",
+      "cloudRelativePath": "物理类/光学/习题与解答/大题典光学来源_第198批/3光学.pdf",
+      "studyRelativePath": "物理类/光学/习题与解答/大题典光学来源_第198批/3光学.pdf",
+      "bytes": 109539736,
+      "sha256": "5d7fc110467ec3f5a51d2774a3ce9f1c7517f238471f7ae338e70bacfdb8dcf1",
+      "parsedPages": 377,
+      "description": "《物理学大题典③·光学（第二版）》；张永德为丛书主编，轩植华、白贵儒、郭光灿编著；科学出版社、中国科学技术大学出版社。版权页载2005年9月第一版，2018年9月第二版，2018年10月第五次印刷。目录3章：几何光学、波动光学（干涉、衍射、偏振）、量子光学；原目录起页1/90/287仅为原编排，不推断完整题数。抽样题后含解答/证明与公式推导，未逐题审校全册。原扫描偏淡，整册保持私有、原名原字节不改。",
+      "annotations": 0,
+      "widgets": 0,
+      "embeddedAttachments": 0,
+      "repaired": false,
+      "visualCorePageCount": 5,
+      "rawPublic": false
+    }
+  ]
+}
