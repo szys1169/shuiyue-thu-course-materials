@@ -1,0 +1,67 @@
+{
+  "source": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/Leonard%20Susskind's%20Theoretical%20Minimum",
+  "batch": 118,
+  "scope": "仅本来源目录4PDF；整书私有，书目元信息公开",
+  "items": [
+    {
+      "sourceName": "Leonard Susskind, George Hrabovsky - The Theoretical Minimum_ What You Need to Know to Start Doing Physics-Basic Books (2013).pdf",
+      "bytes": 4159113,
+      "sha256": "8acc79118c3f3188d5c3ac87a437953483c1306a830926b094bbf4a381c0eaa3",
+      "parserPages": 251,
+      "annotations": 0,
+      "isRepaired": false,
+      "parserWarningsRecorded": "ActualText with no position. Text may be lost or mispositioned.\n... repeated 2 times...\nbogus font (Mathematica2) ascent/descent values (2444 / -4091)",
+      "title": "The Theoretical Minimum: What You Need to Know to Start Doing Physics",
+      "authors": "Leonard Susskind、George Hrabovsky",
+      "editionEvidence": "扉页Basic Books，版权©2013；正文主题为经典力学。",
+      "qualitySampling": "251解析页，0注释、未结构恢复；读取前页记录ActualText无位置和Mathematica2字体度量告警，保留原状。",
+      "privateCanonicalPath": "物理类/分析力学/教材/TheTheoreticalMinimum_经典力学_BasicBooks2013/Leonard Susskind, George Hrabovsky - The Theoretical Minimum_ What You Need to Know to Start Doing Physics-Basic Books (2013).pdf",
+      "publicRaw": false
+    },
+    {
+      "sourceName": "Leonard Susskind, Art Friedman - Quantum mechanics. The theoretical minimum-Basic Books (2014).pdf",
+      "bytes": 1386036,
+      "sha256": "90be6639e82c1fd1ddb738a276ae6ca89b65e5a570c27ffdc9a24bac466adaad",
+      "parserPages": 385,
+      "annotations": 0,
+      "isRepaired": false,
+      "parserWarningsRecorded": "",
+      "title": "Quantum Mechanics: The Theoretical Minimum",
+      "authors": "Leonard Susskind、Art Friedman",
+      "editionEvidence": "扉页及PDF第7页版权Basic Books、©2014；系列第2册。",
+      "qualitySampling": "385解析页，0注释、未结构恢复、此次读取无记录告警，不等于全书质量保证。",
+      "privateCanonicalPath": "物理类/量子力学/教材/TheTheoreticalMinimum_量子力学_BasicBooks2014/Leonard Susskind, Art Friedman - Quantum mechanics. The theoretical minimum-Basic Books (2014).pdf",
+      "publicRaw": false
+    },
+    {
+      "sourceName": "[The Theoretical Minimum] Leonard Susskind _ Art Friedman - Special Relativity and Classical Field Theory (2017, Basic Books) - libgen.lc.pdf",
+      "bytes": 8049837,
+      "sha256": "a25418d03d7f2dcec4ef739396ef07850043d6840f00636df929d35337496790",
+      "parserPages": 372,
+      "annotations": 0,
+      "isRepaired": false,
+      "parserWarningsRecorded": "expected name after CMapName in cmap\n... repeated 3 times...",
+      "title": "Special Relativity and Classical Field Theory: The Theoretical Minimum",
+      "authors": "Leonard Susskind、Art Friedman",
+      "editionEvidence": "Basic Books版权页明确First Edition: September 2017。",
+      "qualitySampling": "372解析页，0注释、未结构恢复；记录CMapName字体映射告警，不修写原件。",
+      "privateCanonicalPath": "物理类/经典场论/教材/TheTheoreticalMinimum_狭义相对论与经典场论/[The Theoretical Minimum] Leonard Susskind _ Art Friedman - Special Relativity and Classical Field Theory (2017, Basic Books) - libgen.lc.pdf",
+      "publicRaw": false
+    },
+    {
+      "sourceName": "(The Theoretical Minimum 3) Leonard Susskind, Art Friedman - Special Relativity and Classical Field Theory_ The Theoretical Minimum-Penguin (2017).pdf",
+      "bytes": 37721165,
+      "sha256": "42d0d8a080c14c8f43dd87fe354a3d164e0075b405ab0d03dd433d78cbc698f0",
+      "parserPages": 454,
+      "annotations": 0,
+      "isRepaired": false,
+      "parserWarningsRecorded": "",
+      "title": "Special Relativity and Classical Field Theory: The Theoretical Minimum",
+      "authors": "Leonard Susskind、Art Friedman",
+      "editionEvidence": "PDF第7页扉页Allen Lane（Penguin Books imprint）；第8页版权©2017、美国Basic Books初版2017、英国Allen Lane初版2017。来源文件名只写Penguin，目录按实际imprint区分。",
+      "qualitySampling": "454解析页，0注释、未结构恢复、此次读取无记录告警；抽样PDF第3页灰、第4页黑、第228页白，PDF第227页印刷203而第229页印刷206，存在待核页码跳转，未证明完整或可互换，不据本次抽样删除/补页。",
+      "privateCanonicalPath": "物理类/经典场论/教材/TheTheoreticalMinimum_狭义相对论与经典场论/_过程材料/AllenLane2017来源扫描/(The Theoretical Minimum 3) Leonard Susskind, Art Friedman - Special Relativity and Classical Field Theory_ The Theoretical Minimum-Penguin (2017).pdf",
+      "publicRaw": false
+    }
+  ]
+}
