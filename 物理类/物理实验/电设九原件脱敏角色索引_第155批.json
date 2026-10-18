@@ -1,0 +1,73 @@
+{
+  "batch": 155,
+  "source": "来源：自有物理资料库（6f4b1cfc-208b-4b3f-b2ac-bac77f97246f）物理类/物理实验/电设。水月的资料已有同SHA副本，仅同一私有库内服务器归位；来源库不变。",
+  "scope": "九原件3361961字节，八DOC加一份8页PDF，九独立SHA",
+  "rawPublic": false,
+  "roles": "五明确身份的已填历史报告；一署名研究讨论稿但作者任课身份/官方性未核；一已填历史稿身份未核；两文字层预习/方法空表整理稿，身份和官方性未核。",
+  "reviewBoundary": "八DOC仅Word piece-table文字，未逐页视觉/OCR或完整解析嵌入对象；PDF8页文字提取、仅首页渲染实看，不认全部逐页视觉。研究稿Matlab代码只文字保留未执行。",
+  "items": [
+    {
+      "alias": "原件_01_bfa23b99d4.doc",
+      "role": "已填直流电路设计历史实验报告，明确身份仅私有",
+      "bytes": 84480,
+      "sha256": "bfa23b99d43abd3e2293b51035fbab5ecd30c91928a1c90aeed9ec56f5754514",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_02_414a815595.doc",
+      "role": "已填直流电路设计历史实验报告，页尾明确身份仅私有",
+      "bytes": 139776,
+      "sha256": "414a815595468c84e698483f967420c54148b06959020ec76d261f4c7c922beb",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_03_f965497957.doc",
+      "role": "自组电桥设计研究讨论稿，正文有署名日期，任课教师与官方性未核",
+      "bytes": 1908736,
+      "sha256": "f965497957b59b12fb04912fd2812567edfd2e76cc0f7536f02dff1be3681da9",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_04_c1818aa7d7.doc",
+      "role": "已填直流电桥历史实验报告，实际姓名仅私有",
+      "bytes": 198656,
+      "sha256": "c1818aa7d7539339e57cf03c809cf96d95b8f2b725feaf0e050831774de07480",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_05_d027c79615.doc",
+      "role": "另字节版本直流电桥历史实验报告，实际姓名仅私有",
+      "bytes": 434688,
+      "sha256": "d027c79615079008b7bd2c02f9f769682fb6dff478b389f3e2d02215d9104df5",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_06_793534b676.doc",
+      "role": "预习方法与文字层空数据表，身份和官方性未核",
+      "bytes": 55808,
+      "sha256": "793534b6767e2c249326fb22bd3e030cc076fae9a09db1e470322741979cd267",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_07_8adb5a7f4d.doc",
+      "role": "已填实验原理与测量分析历史稿，实际身份未核",
+      "bytes": 140288,
+      "sha256": "8adb5a7f4d81c189423d01dc1f808b3905039ec3604adc1a58bbc2e80c8290f4",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_08_bcb353c233.doc",
+      "role": "实验方法与文字层空数据表整理稿，身份和官方性未核",
+      "bytes": 217088,
+      "sha256": "bcb353c233344f52ff059d5932b954840eba74f3ff5f87ba5485eea448eaf939",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_09_1ff493c4ab.pdf",
+      "role": "8页已填直流电路设计历史实验报告，PDF封面明确身份仅私有",
+      "bytes": 182441,
+      "sha256": "1ff493c4aba865fcf1df93df346c1f8217666f30dce99a69602878f2520ae8e1",
+      "rawPublic": false
+    }
+  ]
+}
