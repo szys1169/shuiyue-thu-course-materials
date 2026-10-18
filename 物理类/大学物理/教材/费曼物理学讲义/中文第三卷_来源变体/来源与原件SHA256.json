@@ -1,0 +1,202 @@
+{
+  "batch": 94,
+  "scope": "five Chinese volume III scan variants, all private originals",
+  "files": [
+    {
+      "name": "5-费曼3新千年版-1.pdf",
+      "bytes": 19859837,
+      "sha256": "d0d016d0f2a81232ff5a0bd6b3e3061ae82b900452c3ce5805585a1073c4dd95",
+      "sourceTargetEqual": true,
+      "pages": 121,
+      "annotations": 0,
+      "imageCountPerPageMin": 1,
+      "imageCountPerPageMax": 1,
+      "role": "中文第3卷分段1",
+      "volume": 3,
+      "edition": "新千年版",
+      "authors": [
+        "R. P. Feynman",
+        "R. B. Leighton",
+        "M. Sands"
+      ],
+      "translators": [
+        "潘笃武",
+        "李洪芳"
+      ],
+      "publisher": "上海科学技术出版社",
+      "publicationEvidence": "2013年5月第1版、第1次印刷",
+      "bibliographyEvidence": "合卷PDF3标题页、4版权页；分段1同序对应合卷前121页、分段2/3据图像序列同源；样书前49页对应合卷前49页",
+      "conflict": "标题页英文Volume II与中文第3卷冲突；版权页英文Volume III及正文量子主题支持中文卷3；保留原页不修正",
+      "pageRangeIn377PageScan": [
+        1,
+        121
+      ],
+      "personalContactNoticePresent": false,
+      "contactValueOmitted": true,
+      "restriction": "全书私人学习归档；3件末页有自制扫描使用限制和私人联系信息，元信息不抄；不进公开Git",
+      "review": "封面/版权/目录/首尾和边界抽样；不是逐页视觉审阅；全部页内嵌图像流顺序比较另见关系证据",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E8%B4%B9%E6%9B%BC%E7%89%A9%E7%90%86%E5%AD%A6/%E4%B8%AD%E8%8B%B1%E6%96%87%E7%94%B5%E5%AD%90%E4%B9%A6%26%E4%B9%A0%E9%A2%98%E9%9B%86",
+      "oldPhysicsRelativePath": "费曼物理学/中英文电子书&习题集/5-费曼3新千年版-1.pdf",
+      "finalPhysicsRelativePath": "大学物理/教材/费曼物理学讲义/中文第三卷_来源变体/_过程材料/私有原件/三段扫描/5-费曼3新千年版-1.pdf"
+    },
+    {
+      "name": "6-费曼3新千年版-2.pdf",
+      "bytes": 21750478,
+      "sha256": "5bbd700055d62c7e52d9a2c0f9b05b0d4d32837af5d583ab7c13f87d93b3526f",
+      "sourceTargetEqual": true,
+      "pages": 134,
+      "annotations": 0,
+      "imageCountPerPageMin": 1,
+      "imageCountPerPageMax": 1,
+      "role": "中文第3卷分段2",
+      "volume": 3,
+      "edition": "新千年版",
+      "authors": [
+        "R. P. Feynman",
+        "R. B. Leighton",
+        "M. Sands"
+      ],
+      "translators": [
+        "潘笃武",
+        "李洪芳"
+      ],
+      "publisher": "上海科学技术出版社",
+      "publicationEvidence": "2013年5月第1版、第1次印刷",
+      "bibliographyEvidence": "合卷PDF3标题页、4版权页；分段1同序对应合卷前121页、分段2/3据图像序列同源；样书前49页对应合卷前49页",
+      "conflict": "标题页英文Volume II与中文第3卷冲突；版权页英文Volume III及正文量子主题支持中文卷3；保留原页不修正",
+      "pageRangeIn377PageScan": [
+        122,
+        255
+      ],
+      "personalContactNoticePresent": false,
+      "contactValueOmitted": true,
+      "restriction": "全书私人学习归档；3件末页有自制扫描使用限制和私人联系信息，元信息不抄；不进公开Git",
+      "review": "封面/版权/目录/首尾和边界抽样；不是逐页视觉审阅；全部页内嵌图像流顺序比较另见关系证据",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E8%B4%B9%E6%9B%BC%E7%89%A9%E7%90%86%E5%AD%A6/%E4%B8%AD%E8%8B%B1%E6%96%87%E7%94%B5%E5%AD%90%E4%B9%A6%26%E4%B9%A0%E9%A2%98%E9%9B%86",
+      "oldPhysicsRelativePath": "费曼物理学/中英文电子书&习题集/6-费曼3新千年版-2.pdf",
+      "finalPhysicsRelativePath": "大学物理/教材/费曼物理学讲义/中文第三卷_来源变体/_过程材料/私有原件/三段扫描/6-费曼3新千年版-2.pdf"
+    },
+    {
+      "name": "7-费曼3新千年版-3.pdf",
+      "bytes": 18719826,
+      "sha256": "b85fe4e784078e89869f66d4ce916073d8e96b18a51ff2107600ef86e3325858",
+      "sourceTargetEqual": true,
+      "pages": 122,
+      "annotations": 0,
+      "imageCountPerPageMin": 1,
+      "imageCountPerPageMax": 7,
+      "role": "中文第3卷分段3",
+      "volume": 3,
+      "edition": "新千年版",
+      "authors": [
+        "R. P. Feynman",
+        "R. B. Leighton",
+        "M. Sands"
+      ],
+      "translators": [
+        "潘笃武",
+        "李洪芳"
+      ],
+      "publisher": "上海科学技术出版社",
+      "publicationEvidence": "2013年5月第1版、第1次印刷",
+      "bibliographyEvidence": "合卷PDF3标题页、4版权页；分段1同序对应合卷前121页、分段2/3据图像序列同源；样书前49页对应合卷前49页",
+      "conflict": "标题页英文Volume II与中文第3卷冲突；版权页英文Volume III及正文量子主题支持中文卷3；保留原页不修正",
+      "pageRangeIn377PageScan": [
+        256,
+        377
+      ],
+      "personalContactNoticePresent": true,
+      "contactValueOmitted": true,
+      "restriction": "全书私人学习归档；3件末页有自制扫描使用限制和私人联系信息，元信息不抄；不进公开Git",
+      "review": "封面/版权/目录/首尾和边界抽样；不是逐页视觉审阅；全部页内嵌图像流顺序比较另见关系证据",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E8%B4%B9%E6%9B%BC%E7%89%A9%E7%90%86%E5%AD%A6/%E4%B8%AD%E8%8B%B1%E6%96%87%E7%94%B5%E5%AD%90%E4%B9%A6%26%E4%B9%A0%E9%A2%98%E9%9B%86",
+      "oldPhysicsRelativePath": "费曼物理学/中英文电子书&习题集/7-费曼3新千年版-3.pdf",
+      "finalPhysicsRelativePath": "大学物理/教材/费曼物理学讲义/中文第三卷_来源变体/_过程材料/私有原件/三段扫描/7-费曼3新千年版-3.pdf"
+    },
+    {
+      "name": "费恩曼物理学讲义  新千年版 第3卷.pdf",
+      "bytes": 60306962,
+      "sha256": "16c8470e004f71229b172f15a46585ae0cf87a7e230e468dd8fe9768cc29d195",
+      "sourceTargetEqual": true,
+      "pages": 377,
+      "annotations": 0,
+      "imageCountPerPageMin": 1,
+      "imageCountPerPageMax": 7,
+      "role": "中文第3卷合卷扫描",
+      "volume": 3,
+      "edition": "新千年版",
+      "authors": [
+        "R. P. Feynman",
+        "R. B. Leighton",
+        "M. Sands"
+      ],
+      "translators": [
+        "潘笃武",
+        "李洪芳"
+      ],
+      "publisher": "上海科学技术出版社",
+      "publicationEvidence": "2013年5月第1版、第1次印刷",
+      "bibliographyEvidence": "合卷PDF3标题页、4版权页；分段1同序对应合卷前121页、分段2/3据图像序列同源；样书前49页对应合卷前49页",
+      "conflict": "标题页英文Volume II与中文第3卷冲突；版权页英文Volume III及正文量子主题支持中文卷3；保留原页不修正",
+      "pageRangeIn377PageScan": [
+        1,
+        377
+      ],
+      "personalContactNoticePresent": true,
+      "contactValueOmitted": true,
+      "restriction": "全书私人学习归档；3件末页有自制扫描使用限制和私人联系信息，元信息不抄；不进公开Git",
+      "review": "封面/版权/目录/首尾和边界抽样；不是逐页视觉审阅；全部页内嵌图像流顺序比较另见关系证据",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E8%B4%B9%E6%9B%BC%E7%89%A9%E7%90%86%E5%AD%A6/%E4%B8%AD%E8%8B%B1%E6%96%87%E7%94%B5%E5%AD%90%E4%B9%A6%26%E4%B9%A0%E9%A2%98%E9%9B%86",
+      "oldPhysicsRelativePath": "费曼物理学/中英文电子书&习题集/费恩曼物理学讲义  新千年版 第3卷.pdf",
+      "finalPhysicsRelativePath": "大学物理/教材/费曼物理学讲义/中文第三卷_来源变体/_过程材料/私有原件/合卷扫描/费恩曼物理学讲义  新千年版 第3卷.pdf"
+    },
+    {
+      "name": "费恩曼物理学讲义(第3卷【样书】·新千年版·中文版)-[美]费恩曼＆莱顿＆桑兹-上海科学技术出版社-2013.pdf",
+      "bytes": 8955781,
+      "sha256": "a1b0459ba4aec5f42547e391dce2245aa0334ab739c51c63f961557d06e0011f",
+      "sourceTargetEqual": true,
+      "pages": 50,
+      "annotations": 0,
+      "imageCountPerPageMin": 1,
+      "imageCountPerPageMax": 7,
+      "role": "中文第3卷样书节选",
+      "volume": 3,
+      "edition": "新千年版",
+      "authors": [
+        "R. P. Feynman",
+        "R. B. Leighton",
+        "M. Sands"
+      ],
+      "translators": [
+        "潘笃武",
+        "李洪芳"
+      ],
+      "publisher": "上海科学技术出版社",
+      "publicationEvidence": "2013年5月第1版、第1次印刷",
+      "bibliographyEvidence": "合卷PDF3标题页、4版权页；分段1同序对应合卷前121页、分段2/3据图像序列同源；样书前49页对应合卷前49页",
+      "conflict": "标题页英文Volume II与中文第3卷冲突；版权页英文Volume III及正文量子主题支持中文卷3；保留原页不修正",
+      "pageRangeIn377PageScan": [
+        1,
+        49
+      ],
+      "personalContactNoticePresent": true,
+      "contactValueOmitted": true,
+      "restriction": "全书私人学习归档；3件末页有自制扫描使用限制和私人联系信息，元信息不抄；不进公开Git",
+      "review": "封面/版权/目录/首尾和边界抽样；不是逐页视觉审阅；全部页内嵌图像流顺序比较另见关系证据",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E8%B4%B9%E6%9B%BC%E7%89%A9%E7%90%86%E5%AD%A6/%E4%B8%AD%E8%8B%B1%E6%96%87%E7%94%B5%E5%AD%90%E4%B9%A6%26%E4%B9%A0%E9%A2%98%E9%9B%86",
+      "oldPhysicsRelativePath": "费曼物理学/中英文电子书&习题集/费恩曼物理学讲义(第3卷【样书】·新千年版·中文版)-[美]费恩曼＆莱顿＆桑兹-上海科学技术出版社-2013.pdf",
+      "finalPhysicsRelativePath": "大学物理/教材/费曼物理学讲义/中文第三卷_来源变体/_过程材料/私有原件/样书节选/费恩曼物理学讲义(第3卷【样书】·新千年版·中文版)-[美]费恩曼＆莱顿＆桑兹-上海科学技术出版社-2013.pdf"
+    }
+  ],
+  "imageStreamRelation": {
+    "splitCounts": [
+      121,
+      134,
+      122
+    ],
+    "fullCount": 377,
+    "splitConcatenatedImageStreamSHAMatchesWhole": true,
+    "warning": "仅页内嵌图像流序列，不等于PDF字节相同或逐页视觉审阅",
+    "sample50FirstSequenceMatchesFullFirst50": false
+  }
+}
