@@ -1,0 +1,60 @@
+{
+  "batch": 117,
+  "sourceLibrary": "6f4b1cfc-208b-4b3f-b2ac-bac77f97246f",
+  "sourceDirectory": "物理类/物理实验/近代物理实验/实验报告others/近代物理实验",
+  "scope": "来源编号10-1六件历史参考资料",
+  "topicEvidence": "DOC正文题名为硅的霍尔系数及电阻率的测量；四BMP实际图像为相关示意图。",
+  "authorYear": "未核，不据来源编号推定作者、日期或学期。",
+  "rawPublic": false,
+  "aliasPolicy": "稳定序号+原件SHA前10位，仅显示元信息，真实原名与相对路径仅本地私有映射；物理原件未改名。",
+  "items": [
+    {
+      "alias": "原件_01_6993e7de5a.bmp",
+      "role": "霍尔与载流子测量示意图",
+      "bytes": 6846,
+      "sha256": "6993e7de5a766f0b976a71689bc3ac40a48da0176b88981131240e16ce014891",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_02_cc610980ed.bmp",
+      "role": "霍尔与载流子测量示意图",
+      "bytes": 57966,
+      "sha256": "cc610980ed3f2abea2e6df24e83c94bc84c2338b3588210bff38204c9cde7b4f",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_03_dbaf1e7c73.bmp",
+      "role": "霍尔与载流子测量示意图",
+      "bytes": 10138,
+      "sha256": "dbaf1e7c73a920719202e0dcf999290601455aba88526778cc0c841a414e8fe4",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_04_2462f61d0f.bmp",
+      "role": "霍尔与载流子测量示意图",
+      "bytes": 3814,
+      "sha256": "2462f61d0f5ad737a3f2571d54131c5a0058357ec6b291636bfbae1432ce1fcd",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_05_8829f4ae35.xls",
+      "role": "旧XLS历史附件_完整单元格与身份未核",
+      "bytes": 41472,
+      "sha256": "8829f4ae35c7e5ff3e11d5080b8459b8b0cfa8da3138222ab88f3f87d6fe8817",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_06_4fa820c0bd.doc",
+      "role": "已填历史实验数据表",
+      "bytes": 106496,
+      "sha256": "4fa820c0bdaad8870b2d94a95c9a8afe7ed7913576d815c08d38ec3a12c9e772",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    }
+  ]
+}
