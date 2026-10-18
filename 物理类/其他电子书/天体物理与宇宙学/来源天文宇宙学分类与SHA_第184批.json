@@ -1,0 +1,99 @@
+{
+  "batch": 184,
+  "sourceDirectory": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E5%A4%A9%E4%BD%93%E7%89%A9%E7%90%86%E4%B8%8E%E5%AE%87%E5%AE%99%E5%AD%A6",
+  "oldDirectory": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E5%A4%A9%E4%BD%93%E7%89%A9%E7%90%86%E4%B8%8E%E5%AE%87%E5%AE%99%E5%AD%A6",
+  "sourcePaths": 3,
+  "rawBytes": 136314038,
+  "uniqueSHA": 3,
+  "parsedPages": 2292,
+  "reviewBoundary": "三来源136,314,038字节、3唯一SHA、2292解析页，源/旧目标同SHA。完整书均私有，Git仅安全来源说明，不上传ZIP。全页仅结构统计：总1个原Stamp批注（现代天体p600），其余两书0；表单/嵌入均0、repaired=false，本次结构/抽样解析及15核心渲染页无警告。每份核心5页共15页实际视觉，批注页另实看；不证明全2292页完整、无私人标记或数学无误，不修原件/不删除批注。规范PDF同大小SHA候选未命中，非全盘无重复声明。",
+  "books": [
+    {
+      "sourceName": "Birney D S-Observational astronomy 2nd ed (2006, Cambridge University Press).pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E5%A4%A9%E4%BD%93%E7%89%A9%E7%90%86%E4%B8%8E%E5%AE%87%E5%AE%99%E5%AD%A6/Birney%20D%20S-Observational%20astronomy%202nd%20ed%20(2006%2C%20Cambridge%20University%20Press).pdf",
+      "cloudRelativePath": "物理类/天体物理与宇宙学/教材/观测天文学来源参考_第184批/Birney D S-Observational astronomy 2nd ed (2006, Cambridge University Press).pdf",
+      "studyRelativePath": "物理类/天体物理与宇宙学/教材/观测天文学来源参考_第184批/Birney D S-Observational astronomy 2nd ed (2006, Cambridge University Press).pdf",
+      "bytes": 17910468,
+      "sha256": "b718521aa91d9cca0da7d9c9fc5b8c6797bf62e749b35049041e4997f6340ab4",
+      "parsedPages": 324,
+      "title": "Observational Astronomy",
+      "authors": [
+        "D. Scott Birney",
+        "Guillermo Gonzalez",
+        "David Oesper"
+      ],
+      "description": "Observational Astronomy，Second Edition，实际三作者D. Scott Birney、Guillermo Gonzalez、David Oesper，Cambridge University Press；版权及首次出版2006，版权页另记5th printing 2013，分列为第二版/2013第五次印刷，不只按源名写单作者或2006印。324解析页，角色为观测天文学教材参考。",
+      "visualPhysicalPages": [
+        5,
+        6,
+        7,
+        162,
+        322
+      ],
+      "annotations": 0,
+      "annotationType": null,
+      "widgets": 0,
+      "embeddedAttachments": 0,
+      "repaired": false,
+      "observedWarnings": "",
+      "rawPublic": false
+    },
+    {
+      "sourceName": "Bradley W. Carroll, Dale A. Ostlie - An Introduction to Modern Astrophysics-Cambridge University Press (2017).pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E5%A4%A9%E4%BD%93%E7%89%A9%E7%90%86%E4%B8%8E%E5%AE%87%E5%AE%99%E5%AD%A6/Bradley%20W.%20Carroll%2C%20Dale%20A.%20Ostlie%20-%20An%20Introduction%20to%20Modern%20Astrophysics-Cambridge%20University%20Press%20(2017).pdf",
+      "cloudRelativePath": "物理类/天体物理与宇宙学/教材/现代天体物理来源参考_第184批/_过程材料/带批注来源/Bradley W. Carroll, Dale A. Ostlie - An Introduction to Modern Astrophysics-Cambridge University Press (2017).pdf",
+      "studyRelativePath": "物理类/天体物理与宇宙学/教材/现代天体物理来源参考_第184批/_过程材料/带批注来源/Bradley W. Carroll, Dale A. Ostlie - An Introduction to Modern Astrophysics-Cambridge University Press (2017).pdf",
+      "bytes": 115644239,
+      "sha256": "0dae1fbf493d68d0bae50c80860a5247f2e3994cfaf77294e1e5e38f6d08539e",
+      "parsedPages": 1356,
+      "title": "An Introduction to Modern Astrophysics",
+      "authors": [
+        "Bradley W. Carroll",
+        "Dale A. Ostlie"
+      ],
+      "description": "An Introduction to Modern Astrophysics，Second Edition，Bradley W. Carroll、Dale A. Ostlie；此前Pearson 2007出版，本件Cambridge University Press 2017重发/版权，不称2017首次原创版，亦不推两次文本完全相同。1356解析页，角色为现代天体物理教材参考；物理p600有1个原Stamp批注，创建者等字段仅私有审计保留，不认真实身份或转抄值；全文放带批注来源过程目录。",
+      "visualPhysicalPages": [
+        3,
+        4,
+        6,
+        678,
+        1354
+      ],
+      "annotations": 1,
+      "annotationType": "Stamp",
+      "widgets": 0,
+      "embeddedAttachments": 0,
+      "repaired": false,
+      "observedWarnings": "",
+      "rawPublic": false
+    },
+    {
+      "sourceName": "Cosmology by Steven Weinberg z-liborg.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E5%A4%A9%E4%BD%93%E7%89%A9%E7%90%86%E4%B8%8E%E5%AE%87%E5%AE%99%E5%AD%A6/Cosmology%20by%20Steven%20Weinberg%20z-liborg.pdf",
+      "cloudRelativePath": "物理类/天体物理与宇宙学/教材/宇宙学来源参考_Weinberg_第184批/Cosmology by Steven Weinberg z-liborg.pdf",
+      "studyRelativePath": "物理类/天体物理与宇宙学/教材/宇宙学来源参考_Weinberg_第184批/Cosmology by Steven Weinberg z-liborg.pdf",
+      "bytes": 2759331,
+      "sha256": "4cb372bc13c9c052eeda769c867e192428ea71d587eb32a228d16a0235560e9c",
+      "parsedPages": 612,
+      "title": "Cosmology",
+      "authors": [
+        "Steven Weinberg"
+      ],
+      "description": "Cosmology，Steven Weinberg，Oxford University Press，First published及版权2008；未单独核到版次编号与具体印次，不额外推新版。612解析页，角色为宇宙学参考教材。",
+      "visualPhysicalPages": [
+        2,
+        3,
+        12,
+        306,
+        610
+      ],
+      "annotations": 0,
+      "annotationType": null,
+      "widgets": 0,
+      "embeddedAttachments": 0,
+      "repaired": false,
+      "observedWarnings": "",
+      "rawPublic": false
+    }
+  ]
+}
