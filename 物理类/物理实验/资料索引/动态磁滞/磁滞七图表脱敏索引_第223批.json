@@ -1,0 +1,90 @@
+{
+  "batch": 223,
+  "date": "2026-10-19",
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/物理/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E6%BB%9E%E7%A3%81",
+  "oldTargetUrl": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E6%BB%9E%E7%A3%81",
+  "selectedRawPaths": 7,
+  "selectedRawBytes": 407143,
+  "uniqueSHA": 7,
+  "sameSHAExisting731": 0,
+  "items": [
+    {
+      "sourceLabel": "原件路径1（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/滞磁",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/磁滞图表与来源闭环_第223批/带坐标标签的测量表",
+      "bytes": 15872,
+      "sha256": "74ab06599fe6de21466268b5188ba1861231081a63a9c7dbeaf4479cee64c84c",
+      "role": "已存单元格有H与B1/B2标签，72非空格，未证量纲规范/测量者/日期或报告配套",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "原件路径2（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/滞磁",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/磁滞图表与来源闭环_第223批/带坐标标签的测量表",
+      "bytes": 18432,
+      "sha256": "9cf1ece998f79d02af64a5db34a5168d2cfb3f9c065bf12381ad8785cd5f7d61",
+      "role": "已存单元格有x/m、B1/B2与理论对照标签，78非空格，磁场分布主题可见，不按源名一概认动态磁滞",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "原件路径3（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/滞磁",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/磁滞图表与来源闭环_第223批/主题标签不充分的数值表",
+      "bytes": 44032,
+      "sha256": "c83cdb1c752107e37ec5ea201e5315be10b6a090991650ecf11ae14490663cbc",
+      "role": "数字表及公式缓存，428非空格、299 FORMULA记录，标签不足，具体主题/单位/作者/报告配套未核",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "原件路径4（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/滞磁",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/磁滞图表与来源闭环_第223批/主题标签不充分的数值表",
+      "bytes": 38400,
+      "sha256": "f7c25312bc271f711d047a708814e11cee55d35d71653e6355050bc247ed90bb",
+      "role": "数字表及公式缓存，595非空格、404 FORMULA记录，仅1个M文字标签，主题/单位/作者/报告配套未核",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "原件路径5（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/滞磁",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/磁滞图表与来源闭环_第223批/B-H曲线图_配套未核",
+      "bytes": 130493,
+      "sha256": "07b7c61b2a1e6afa5786049a6c88d4b071ce50d31142a968bb281d177947b2e1",
+      "role": "B-H正象限曲线JPEG，仅静态查看，EXIF0，未证作者/日期/对应报告，不将正象限图认完整磁滞回线",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "原件路径6（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/滞磁",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/磁滞图表与来源闭环_第223批/B-H曲线图_配套未核",
+      "bytes": 127146,
+      "sha256": "347d449fe3f7a5326c95307d8fa93003b3d142b18f890fc2a4daa275cf5890c7",
+      "role": "B-H正象限曲线JPEG，仅静态查看，EXIF0，未证作者/日期/对应报告，不将正象限图认完整磁滞回线",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "原件路径7（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/滞磁",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/磁滞图表与来源闭环_第223批/主题标签不充分的数值表",
+      "bytes": 32768,
+      "sha256": "cc6068407c6aeb0e80c5a2d8fdaf1bcba27697160525b0b35e9c5d9c8af6a36d",
+      "role": "数字表及公式缓存，429非空格、246 FORMULA记录，无字符串标签，主题/单位/作者/报告配套未核",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    }
+  ],
+  "policy": "全部raw私有；身份未确认，cleanup空未知不泛删，BIFF单元格缓存只读/不执行公式图表宏外链，不认全表隐私净审；私人原名/本机绝对路径不公开"
+}
