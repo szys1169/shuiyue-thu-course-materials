@@ -1,0 +1,132 @@
+{
+  "batch": 177,
+  "date": "2026-10-19",
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C3.14%E5%8E%8B%E7%94%B5%E5%85%83%E4%BB%B6%E5%AF%BC%E7%BA%B3%E5%9C%86%E7%9A%84%E6%B5%8B%E9%87%8F",
+  "oldTargetUrl": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C3.14%E5%8E%8B%E7%94%B5%E5%85%83%E4%BB%B6%E5%AF%BC%E7%BA%B3%E5%9C%86%E7%9A%84%E6%B5%8B%E9%87%8F",
+  "sourceFiles": 8,
+  "sourceBytes": 1757696,
+  "uniqueSHA": 8,
+  "sameSHAExisting175": 3,
+  "distinctFrom467CurrentSHA": 5,
+  "items": [
+    {
+      "sourceLabel": "原件1（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/实验3.14压电元件导纳圆的测量",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/实验根压电历史稿与来源别名_第177批/同SHA可恢复来源别名",
+      "bytes": 333312,
+      "sha256": "5675ce7d7d7910956574ec5485b9f92ebc7efbc30d962d9b83689720e85ab0fc",
+      "role": "已归位175相同字节来源别名",
+      "identityConfirmed": false,
+      "sourceOldTargetEqual": true,
+      "publicRaw": false,
+      "sameSHAExistingBatch": 175,
+      "sameSHAExistingGroup": [
+        "物理类/物理实验/_过程材料/压电子目录历史稿与空表_第175批/预习内容来源稿"
+      ],
+      "boundary": "只静态Word主文字审读；不执行嵌入公式图形/宏，非完整视觉审查；源名个人标识不公开"
+    },
+    {
+      "sourceLabel": "原件2（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/实验3.14压电元件导纳圆的测量",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/实验根压电历史稿与来源别名_第177批/报告与数据处理来源稿",
+      "bytes": 59904,
+      "sha256": "ee8f2d0f3d2bc4e10eb223739740c6a806e37d88214df894899310703f25c509",
+      "role": "填写身份的实验报告或数据处理来源稿，不认官方答案/提交凭证",
+      "identityConfirmed": true,
+      "sourceOldTargetEqual": true,
+      "publicRaw": false,
+      "sameSHAExistingBatch": null,
+      "sameSHAExistingGroup": [],
+      "boundary": "只静态Word主文字审读；不执行嵌入公式图形/宏，非完整视觉审查；源名个人标识不公开"
+    },
+    {
+      "sourceLabel": "原件3（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/实验3.14压电元件导纳圆的测量",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/实验根压电历史稿与来源别名_第177批/报告与数据处理来源稿",
+      "bytes": 471552,
+      "sha256": "749cba56764055be98d4805df6f4020d89db8ec669355ac2f2a08dd6182c28a1",
+      "role": "填写身份的实验报告或数据处理来源稿，不认官方答案/提交凭证",
+      "identityConfirmed": true,
+      "sourceOldTargetEqual": true,
+      "publicRaw": false,
+      "sameSHAExistingBatch": null,
+      "sameSHAExistingGroup": [],
+      "boundary": "只静态Word主文字审读；不执行嵌入公式图形/宏，非完整视觉审查；源名个人标识不公开"
+    },
+    {
+      "sourceLabel": "原件4（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/实验3.14压电元件导纳圆的测量",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/实验根压电历史稿与来源别名_第177批/原理操作说明来源稿",
+      "bytes": 342016,
+      "sha256": "507ccd84adacdb264e62f985c417e99c9f9a5ca9e39537b0a88e5f036c633512",
+      "role": "原理与操作说明来源稿，作者与官方性未核",
+      "identityConfirmed": false,
+      "sourceOldTargetEqual": true,
+      "publicRaw": false,
+      "sameSHAExistingBatch": null,
+      "sameSHAExistingGroup": [],
+      "boundary": "只静态Word主文字审读；不执行嵌入公式图形/宏，非完整视觉审查；源名个人标识不公开"
+    },
+    {
+      "sourceLabel": "原件5（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/实验3.14压电元件导纳圆的测量",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/实验根压电历史稿与来源别名_第177批/同SHA可恢复来源别名",
+      "bytes": 390144,
+      "sha256": "4fbb92b4ff79abd59bd640df4d20bfc63d512c606920f3592ed1566c113f63aa",
+      "role": "已归位175相同字节来源别名",
+      "identityConfirmed": true,
+      "sourceOldTargetEqual": true,
+      "publicRaw": false,
+      "sameSHAExistingBatch": 175,
+      "sameSHAExistingGroup": [
+        "物理类/物理实验/_过程材料/压电子目录历史稿与空表_第175批/身份报告壳"
+      ],
+      "boundary": "只静态Word主文字审读；不执行嵌入公式图形/宏，非完整视觉审查；源名个人标识不公开"
+    },
+    {
+      "sourceLabel": "原件6（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/实验3.14压电元件导纳圆的测量",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/实验根压电历史稿与来源别名_第177批/同SHA可恢复来源别名",
+      "bytes": 41984,
+      "sha256": "ba37ecb197b7318233ec539ff113a8884471e006df679a12b39a230a59d8c1b1",
+      "role": "已归位175相同字节来源别名",
+      "identityConfirmed": false,
+      "sourceOldTargetEqual": true,
+      "publicRaw": false,
+      "sameSHAExistingBatch": 175,
+      "sameSHAExistingGroup": [
+        "物理类/物理实验/_过程材料/压电子目录历史稿与空表_第175批/空记录表来源稿"
+      ],
+      "boundary": "只静态Word主文字审读；不执行嵌入公式图形/宏，非完整视觉审查；源名个人标识不公开"
+    },
+    {
+      "sourceLabel": "原件7（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/实验3.14压电元件导纳圆的测量",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/实验根压电历史稿与来源别名_第177批/空记录表来源稿",
+      "bytes": 43520,
+      "sha256": "4139d9c93727cb405c823d7b3a8aa8a250e8801f622b5923258db957670e3adc",
+      "role": "文字层空记录表，作者与官方性未核",
+      "identityConfirmed": false,
+      "sourceOldTargetEqual": true,
+      "publicRaw": false,
+      "sameSHAExistingBatch": null,
+      "sameSHAExistingGroup": [],
+      "boundary": "只静态Word主文字审读；不执行嵌入公式图形/宏，非完整视觉审查；源名个人标识不公开"
+    },
+    {
+      "sourceLabel": "原件8（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/实验3.14压电元件导纳圆的测量",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/实验根压电历史稿与来源别名_第177批/报告与数据处理来源稿",
+      "bytes": 75264,
+      "sha256": "11df1a8ad240c05986af225debac8a8cd57122f8b967078be5037c6f55c40915",
+      "role": "填写身份的实验报告或数据处理来源稿，不认官方答案/提交凭证",
+      "identityConfirmed": true,
+      "sourceOldTargetEqual": true,
+      "publicRaw": false,
+      "sameSHAExistingBatch": null,
+      "sameSHAExistingGroup": [],
+      "boundary": "只静态Word主文字审读；不执行嵌入公式图形/宏，非完整视觉审查；源名个人标识不公开"
+    }
+  ],
+  "policy": "整批DOC私有；原名个人标识/正文身份值不转录。精确路径私有保留，3sameSHA只记来源别名，非新版本；不发布本机绝对路径。"
+}
