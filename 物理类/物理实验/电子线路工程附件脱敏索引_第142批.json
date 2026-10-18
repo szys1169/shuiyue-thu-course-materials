@@ -1,0 +1,240 @@
+{
+  "batch": 142,
+  "sourceLibrary": "6f4b1cfc-208b-4b3f-b2ac-bac77f97246f",
+  "sourceDirectory": "物理类/物理实验/近代物理实验/实验报告others/电子线路实验",
+  "scope": "剩26原件同层保留，423859字节；含工程/备份/数据/示意图/管理对象，不认全为正式教学材料",
+  "extensionCounts": {
+    ".ini": 1,
+    ".bmp": 2,
+    ".txt": 1,
+    ".dsn": 7,
+    ".opj": 5,
+    ".xls": 1,
+    ".als": 1,
+    ".net": 1,
+    ".dbk": 6,
+    ".mrk": 1
+  },
+  "referenceAudit": {
+    "quotedFileReferences": 54,
+    "sameLevelBasenameMatches": 12,
+    "unprovidedOLBReferenceOccurrences": 39,
+    "unprovidedSIMReferenceOccurrences": 3,
+    "absoluteWindowsReferenceOccurrences": 45,
+    "countRole": "引用次数，非唯一文件数；同层按basename不区分大小写核对，只是静态匹配，不认原绝对路径可达或工程可运行。",
+    "privateReferencePathsPublic": false
+  },
+  "roleLimits": "作者、年份、学期、官方性未核；设计二进制只头/hash，XLS仅OLE候选，完整内容与身份未核；没有软件运行或仿真。",
+  "rawPublic": false,
+  "aliasPolicy": "稳定编号+原件SHA前10位仅显示别名；真实原名、恢复映射和旧机引用路径仅私有，原名大小写/层级/原字节不改。",
+  "items": [
+    {
+      "alias": "原件_01_d014fb05d8.ini",
+      "role": "目录管理文本",
+      "bytes": 35,
+      "sha256": "d014fb05d8c59f6dfc6cb932c5e16ae0f7053ce620bd643ef330086a268394c2",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_02_a2071d612f.bmp",
+      "role": "电路或曲线图像_具体身份题名待核",
+      "bytes": 127014,
+      "sha256": "a2071d612f1d9b413bbec3cf3cecec4780e578fd93e13f2bff176b643fd3ffb0",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_03_421611a4d9.txt",
+      "role": "来源短文本_角色待核",
+      "bytes": 157,
+      "sha256": "421611a4d941e89230a04b19ed678e1a4f11087d39fca31738a8a3d2bcf585e2",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_04_c12f41cf33.bmp",
+      "role": "电路或曲线图像_具体身份题名待核",
+      "bytes": 3310,
+      "sha256": "c12f41cf330a113c15249dab8adfaa3f51ca262608a1af83cd40c7d9cd1ad3e2",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_05_a47206d584.DSN",
+      "role": "设计或备份二进制原件_内容与身份未完整核",
+      "bytes": 8192,
+      "sha256": "a47206d58467cfff7da364803aa3b2f70f3bfaf34f2d58a95f6e907f2dbffe4f",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_06_5ca107f5a8.opj",
+      "role": "项目或网表文本",
+      "bytes": 1555,
+      "sha256": "5ca107f5a8c2b4641758289a49ebcaf1535cc7d00f9a44ef7fd959b9e2770b20",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_07_84c35a67ad.xls",
+      "role": "旧XLS数据附件_完整单元格身份未核",
+      "bytes": 25600,
+      "sha256": "84c35a67ada7b9e10d60680994960560f366af49459ff0f87ab9294565394366",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_08_7f94b139a1.ALS",
+      "role": "项目或网表文本",
+      "bytes": 1586,
+      "sha256": "7f94b139a168cad81454885a9b995a370d216cbe76272e6bf96a5487548a1966",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_09_ca7d667fd0.net",
+      "role": "项目或网表文本",
+      "bytes": 509,
+      "sha256": "ca7d667fd0620186c8baadc6c198e7eb48fa7f9e552173e5148f5082d69b27d1",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_10_27a31c7160.DBK",
+      "role": "设计或备份二进制原件_内容与身份未完整核",
+      "bytes": 23040,
+      "sha256": "27a31c71606a3e53fee18d101ecb86762b7cee60d0fa437650f9373f83b47d17",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_11_8c0d411345.DSN",
+      "role": "设计或备份二进制原件_内容与身份未完整核",
+      "bytes": 21504,
+      "sha256": "8c0d4113453945b923f52f936420c2553c5072029f6a8dae65bff9f2c0ead0cb",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_12_ae7ef152e1.opj",
+      "role": "项目或网表文本",
+      "bytes": 2787,
+      "sha256": "ae7ef152e1b1b797e45ef107455a073cbb74d467604475f9232ae125cfcd309a",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_13_30d248e3ef.DBK",
+      "role": "设计或备份二进制原件_内容与身份未完整核",
+      "bytes": 17920,
+      "sha256": "30d248e3ef5cfca895853767588ac09044f5c8bedd95d63020bae9e1dfd1940e",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_14_d2ce0c77de.DSN",
+      "role": "设计或备份二进制原件_内容与身份未完整核",
+      "bytes": 18432,
+      "sha256": "d2ce0c77de988e48296c2517a2f8acc5d55443c8f0488922eb0d2c438939a669",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_15_cb270e5d61.DBK",
+      "role": "设计或备份二进制原件_内容与身份未完整核",
+      "bytes": 21504,
+      "sha256": "cb270e5d61aea38ec0d99e4b57282afbdd5ba8927be45906136a59410ee4d90b",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_16_9335e37c29.DSN",
+      "role": "设计或备份二进制原件_内容与身份未完整核",
+      "bytes": 21504,
+      "sha256": "9335e37c298a8cebbc621c6c3e49052503908b6174f3cebfca4e0dd6f91cf895",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_17_ec84888872.mrk",
+      "role": "项目或网表文本",
+      "bytes": 31,
+      "sha256": "ec84888872d350e592902fe05d8b8939bf14caf1362df888b66c9a28fe975efe",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_18_cff23a5352.DBK",
+      "role": "设计或备份二进制原件_内容与身份未完整核",
+      "bytes": 26624,
+      "sha256": "cff23a53520f888183559fa34d93fea319ce6066c23f246c22e7d0bb650bfdfb",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_19_d3f235cda2.DSN",
+      "role": "设计或备份二进制原件_内容与身份未完整核",
+      "bytes": 27136,
+      "sha256": "d3f235cda2da0bf66cfa9db30ad543a4615e792bec51ac6d863fe725720387cd",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_20_95f0e8d994.opj",
+      "role": "项目或网表文本",
+      "bytes": 3428,
+      "sha256": "95f0e8d99437e431bace587c7d46cf0bab0077b254833fb318c05e0169a4d8c5",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_21_ef8ccc3c30.DBK",
+      "role": "设计或备份二进制原件_内容与身份未完整核",
+      "bytes": 8192,
+      "sha256": "ef8ccc3c300b057978745ac5146715ec234d97b8b45843674913de8c19ba332c",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_22_0919b389b0.DSN",
+      "role": "设计或备份二进制原件_内容与身份未完整核",
+      "bytes": 18944,
+      "sha256": "0919b389b000bf3b06e38fc19ab04d2e00e1e17d0a4f60d8486ec310840d567f",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_23_e01c24251f.opj",
+      "role": "项目或网表文本",
+      "bytes": 2169,
+      "sha256": "e01c24251fc52f85691cfaf88706c915b6cfcc6d3567a163f5b59fe668e1c811",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_24_ff246a8dc2.DBK",
+      "role": "设计或备份二进制原件_内容与身份未完整核",
+      "bytes": 20480,
+      "sha256": "ff246a8dc2955f3106dc3e0b0e067a32c150535d677785cc3d87dd51c56fb138",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_25_92eefe62da.DSN",
+      "role": "设计或备份二进制原件_内容与身份未完整核",
+      "bytes": 20480,
+      "sha256": "92eefe62daba6a6b4f6b7a1ced6cf8361858d990273708290faf1a2608b98bfd",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_26_03f21f0099.opj",
+      "role": "项目或网表文本",
+      "bytes": 1726,
+      "sha256": "03f21f0099da4d8de20e5b2bfbc20a4c769bca7c14d59a8a51f25a2d6f6980e3",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    }
+  ]
+}
