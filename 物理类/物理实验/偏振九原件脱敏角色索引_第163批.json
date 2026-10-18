@@ -1,0 +1,84 @@
+{
+  "batch": 163,
+  "source": "来源：自有物理资料库（6f4b1cfc-208b-4b3f-b2ac-bac77f97246f）物理类/物理实验/偏振。水月的资料已有同SHA副本，仅同一私有库内服务器归位；来源库不改。",
+  "scope": "九原件1707810字节、九独立SHA，全部同层原字节私有保留",
+  "rawPublic": false,
+  "roles": "七DOC包含五份文字已证实际身份的已填历史报告/图表、两份含原理或观察读数但身份未核稿；另旧XLS及XLSX数值公式数据。",
+  "reviewBoundary": "DOC只读piece-table文字，图像/公式/Excel图形等对象未完整视觉/OCR或执行。旧XLS仅OLE/BIFF记录头与表名/ASCII候选，单元格/公式/身份未完整解析，不声称全表无身份。XLSX完整只读三物理表、全部存在单元格/公式及缓存值、批注/超链接/定义名/属性及包级对象关系，不计算/不执行宏或外链。",
+  "xlsxCounts": {
+    "physicalSheets": 3,
+    "nonemptyPhysicalSheets": 1,
+    "presentCells": 67,
+    "formulas": 45,
+    "macroParts": 0,
+    "embeddedParts": 0,
+    "externalRelationships": 0,
+    "drawingChartMediaParts": 0
+  },
+  "identityBoundary": "空身份栏不等于正式空白指南，来源名预习不等于未填稿；未知属性作者不强认正文身份，姓名编号班级日期测值原名与恢复映射只私有。",
+  "items": [
+    {
+      "alias": "原件_01_a541391155.doc",
+      "role": "偏振光学已填历史报告，文字中有实际署名、班级及学生编号",
+      "bytes": 123904,
+      "sha256": "a54139115590959f506bed98ac57cce120029cb94035c1fdf7fc66ed1cbbd025",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_02_3eca687b4d.xls",
+      "role": "旧XLS数据附件，仅OLE/BIFF头与表名候选，未完整解析单元格/公式/身份",
+      "bytes": 20992,
+      "sha256": "3eca687b4db6cbdc22c6fe622ef78725962539da1f3ce03c34f784430c363918",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_03_d4abcb2197.doc",
+      "role": "来源名含预习的偏振光学已填历史报告，页尾有实际署名、班级及学生编号",
+      "bytes": 401408,
+      "sha256": "d4abcb21979e98ae631c36257fa9e65616d32f5c4ccb064e21754f3938650688",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_04_3e22a600eb.xlsx",
+      "role": "偏振测量数值与公式工作簿：三物理表、67已存在单元格、45公式，只读静态，不计算",
+      "bytes": 11042,
+      "sha256": "3e22a600eb1c51fdb7735edf4ed2dd054e22c58a192631f07436f44384a42dc9",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_05_113df8373e.doc",
+      "role": "另一独立偏振光学已填历史报告，页尾有实际署名、班级及学生编号",
+      "bytes": 444928,
+      "sha256": "113df8373e88ac8dbdc5cb3de29b8ac293996839200d2125bf934a8b9eff7d90",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_06_3b14548a39.doc",
+      "role": "偏振光学原理步骤与部分已填读数稿，身份、出处及官方性未核",
+      "bytes": 375808,
+      "sha256": "3b14548a39a9a0617cd9497afcf1ecb44786fd7566f1a91919e73e73e082170e",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_07_ddd639afe5.doc",
+      "role": "另一独立字节偏振光学已填历史报告，页尾有实际署名、班级及学生编号",
+      "bytes": 250880,
+      "sha256": "ddd639afe54d27c6fd0b1b59eac23fd5a80dc8cf1972d1defec0379d6cff90f6",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_08_96cf9df749.doc",
+      "role": "偏振实验图表片段，文字层有实际姓名班级与Excel图形嵌入字段",
+      "bytes": 43520,
+      "sha256": "96cf9df7490e15793e50ab71ccc7b955833c5b04f4ee01ea5e849cd3132f36d7",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_09_8e755fa80d.doc",
+      "role": "光的偏振现象记录与分析稿，文字层身份栏为空但内容已有观察记录，身份与官方性未核",
+      "bytes": 35328,
+      "sha256": "8e755fa80df4993e3455f57242546144f2f99b0f42183628b5c2c3177a47cb12",
+      "rawPublic": false
+    }
+  ]
+}
