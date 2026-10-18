@@ -1,0 +1,78 @@
+{
+  "batch": 107,
+  "date": "2026-10-18",
+  "source": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6",
+  "scope": "其他电子书根原4凝聚态/多体教材；其余不在本组",
+  "rawBytes": 59337150,
+  "parserPages": 2959,
+  "files": [
+    {
+      "path": "教材/凝聚态与多体参考/Altland_Simons_第二版2010_2013印次/Altland, Simons, Condensed Matter Field Theory 2010.pdf",
+      "sourceName": "Altland, Simons, Condensed Matter Field Theory 2010.pdf",
+      "bytes": 8805737,
+      "sha256": "02afa11f9fa30fd19a96290139527b3aba6eced9a2e2abb2554ff45ebe5552cf",
+      "parserPages": 784,
+      "annotations": 2,
+      "bibliography": {
+        "title": "Condensed Matter Field Theory",
+        "authors": "Alexander Altland and Ben Simons",
+        "publisher": "Cambridge University Press",
+        "edition": "Second edition published 2010; 5th printing 2013",
+        "evidence": "PDF扉页3、版权页4",
+        "notes": "文件名2010对应第二版出版年，本件版权行另写2013年第5次印刷。原2个注释对象保留；PyMuPDF出现字体ascent/descent数值提示，未修复。"
+      },
+      "publicRaw": false
+    },
+    {
+      "path": "教材/凝聚态与多体参考/Anderson_版权1984_印次未核/Basic Notions Of Condensed Matter Physics (Advanced Books Classics) (Philip W. Anderson) (Z-Library).pdf",
+      "sourceName": "Basic Notions Of Condensed Matter Physics (Advanced Books Classics) (Philip W. Anderson) (Z-Library).pdf",
+      "bytes": 11521568,
+      "sha256": "3ea88d250b072b24c9d654ed3045110194c326c4958174112236b06d421dd900",
+      "parserPages": 560,
+      "annotations": 0,
+      "bibliography": {
+        "title": "Basic Notions of Condensed Matter Physics",
+        "authors": "P. W. Anderson",
+        "publisher": "The Benjamin/Cummings Publishing Company, Inc.",
+        "edition": "版权与扉页1984，印次未核",
+        "evidence": "PDF页1–2",
+        "notes": "文件名Advanced Books Classics只是来源标签；本件可见扉页/版权为1984 Benjamin/Cummings，未补猜重印出版年或后出系列版本。"
+      },
+      "publicRaw": false
+    },
+    {
+      "path": "教材/凝聚态与多体参考/Coleman_2015/Coleman, Introduction to Many-Body Physics.pdf",
+      "sourceName": "Coleman, Introduction to Many-Body Physics.pdf",
+      "bytes": 25251252,
+      "sha256": "8e2db3a092443d121b649d38425d6464fbbb4c69ec5da0788c6d9510a91e575f",
+      "parserPages": 816,
+      "annotations": 0,
+      "bibliography": {
+        "title": "Introduction to Many-Body Physics",
+        "authors": "Piers Coleman",
+        "publisher": "Cambridge University Press",
+        "edition": "©2015, First published 2015",
+        "evidence": "PDF封面1、书名页5、版权页6",
+        "notes": "书中作者简介是出版时文字，不作为现任职务或课程教师证据。"
+      },
+      "publicRaw": false
+    },
+    {
+      "path": "教材/凝聚态与多体参考/Mahan_第三版_版权2000/Gerald D. Mahan - Many-Particle Physics (3rd, 2000, Kluwer Academic_Plenum Publicers).pdf",
+      "sourceName": "Gerald D. Mahan - Many-Particle Physics (3rd, 2000, Kluwer Academic_Plenum Publicers).pdf",
+      "bytes": 13758593,
+      "sha256": "52700116c4f0b85669bb8072de6d88b0fd4ca7781ba94b3cadecd4a7df010abf",
+      "parserPages": 799,
+      "annotations": 0,
+      "bibliography": {
+        "title": "Many-Particle Physics",
+        "authors": "Gerald D. Mahan",
+        "publisher": "Kluwer Academic/Plenum Publishers",
+        "edition": "Third Edition；版权页©2000, 1990, 1981，第三版对应2000",
+        "evidence": "PDF封面1、书名页5、版权页6",
+        "notes": "保留扫描馆藏章和原笔迹，不转录馆藏追踪编号；扫描上的入藏年份不当出版年。PyMuPDF读取/抽样渲染有premature end of data in flate filter提示（日志重复8次），抽样页面可见，但不保证全书流数据完整；未修复或重导出。"
+      },
+      "publicRaw": false
+    }
+  ]
+}
