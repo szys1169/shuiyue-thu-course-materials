@@ -1,0 +1,76 @@
+{
+  "batch": 121,
+  "sourceLibrary": "6f4b1cfc-208b-4b3f-b2ac-bac77f97246f",
+  "sourceDirectory": "物理类/物理实验/近代物理实验/实验报告others/近代物理实验",
+  "scope": "来源编号4-5八件历史示意与数据",
+  "topicEvidence": "实际BMP含晶体轴、P-C-A偏振装置、含Vπ的I2-V曲线及标记EO/电压调节器/光功率计/示波器的装置，支持晶体偏振与电光调制相关主题；具体晶体与正式实验题名未核。XLS只读候选含I-V及单位，不作完整数据解析依据。",
+  "authorYear": "作者、年份、学期及官方性未核。",
+  "rawPublic": false,
+  "aliasPolicy": "稳定序号+原件SHA前10位仅显示元信息，真实原名与相对路径仅本地私有映射；物理原件未改名。",
+  "items": [
+    {
+      "alias": "原件_01_36bb72e3ef.bmp",
+      "role": "晶体偏振或电光调制相关示意图",
+      "bytes": 20522,
+      "sha256": "36bb72e3effa2e55f420df8f751dc93e5ee0bb18068876822b977f22d73e7707",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_02_591e1d03fa.bmp",
+      "role": "晶体偏振或电光调制相关示意图",
+      "bytes": 3806,
+      "sha256": "591e1d03faa91ee6400d2d200d7b9359853f701e28e124c69e48ea6c2c2b6a52",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_03_4fcfedc924.bmp",
+      "role": "晶体偏振或电光调制相关示意图",
+      "bytes": 118614,
+      "sha256": "4fcfedc924199fbc4174dde079443047dda94afcee61de0f3f55e056c5a1f2a4",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_04_be720610bf.bmp",
+      "role": "晶体偏振或电光调制相关示意图",
+      "bytes": 6078,
+      "sha256": "be720610bfa8e86be6512bb92b977b238eebcfd3d75c8be5fac435a03170c0b7",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_05_76713fd02e.bmp",
+      "role": "晶体偏振或电光调制相关示意图",
+      "bytes": 6078,
+      "sha256": "76713fd02ed8d35ba5b2300b206e863af4b7c823746a15709d1e89a673886d3c",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_06_d5a7789091.bmp",
+      "role": "晶体偏振或电光调制相关示意图",
+      "bytes": 27362,
+      "sha256": "d5a778909138c0109b2848d49d0d1a532872071c957c33e169975a42b30bc150",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_07_45d8119522.bmp",
+      "role": "晶体偏振或电光调制相关示意图",
+      "bytes": 9526,
+      "sha256": "45d811952287f82d63a02004e7f1e8399bb01925730fac5d1e590f9eedc0ced9",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_08_d21a891b8d.xls",
+      "role": "旧XLS历史数据附件_完整单元格与身份未核",
+      "bytes": 19456,
+      "sha256": "d21a891b8da92a96a865d6b7b365091a1c8102d56aa006b25357b33b028ab221",
+      "shaRole": "原件字节SHA256",
+      "rawPublic": false
+    }
+  ]
+}
