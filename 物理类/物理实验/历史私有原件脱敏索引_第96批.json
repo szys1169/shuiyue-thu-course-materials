@@ -1,0 +1,126 @@
+{
+  "batch": 96,
+  "scope": "物理实验旧根14原件的私有历史归档",
+  "source": {
+    "library": "6f4b1cfc-208b-4b3f-b2ac-bac77f97246f",
+    "directory": "物理类/物理实验"
+  },
+  "rawPublic": false,
+  "displayNamePolicy": "其中一项原名含私人姓名，以[姓名隐藏]显示；云盘与本地原件保留真实原名。此索引不提供该原名或原件链接。",
+  "rarExpanded": false,
+  "softwareExecuted": false,
+  "items": [
+    {
+      "displayName": "Book1.xlsx",
+      "category": "数据与数据文稿_含待核",
+      "bytes": 12007,
+      "sha256": "ddaeb663698cebde7a4f41784af8537efe1cf8b77aa3ae5b61353fc403456267",
+      "shaRole": "原件字节SHA256",
+      "publicRaw": false
+    },
+    {
+      "displayName": "dd.docx",
+      "category": "数据与数据文稿_含待核",
+      "bytes": 17129,
+      "sha256": "90f64eb4279838702164aaadb1444c07fe82c471cf0b4cca8af3ffb44e46a328",
+      "shaRole": "原件字节SHA256",
+      "publicRaw": false
+    },
+    {
+      "displayName": "偏振.xls",
+      "category": "数据与数据文稿_含待核",
+      "bytes": 33280,
+      "sha256": "d17566f13a9465edaf2bf6d42f6c16288b60094531caf07263da374fa7107896",
+      "shaRole": "原件字节SHA256",
+      "publicRaw": false
+    },
+    {
+      "displayName": "偏振光学实验.docx",
+      "category": "对象型待核稿",
+      "bytes": 21252,
+      "sha256": "66d54de87d1f1448500fa0e91adf25bb773a363f3a41f031f9b0be5112ddcddf",
+      "shaRole": "原件字节SHA256",
+      "publicRaw": false
+    },
+    {
+      "displayName": "偏振实验模板.docx",
+      "category": "已填实验报告",
+      "bytes": 208110,
+      "sha256": "c507a51361c877a44d25b2221f42bcf08d3ee91d992633c2407bef21b63b0c1c",
+      "shaRole": "原件字节SHA256",
+      "publicRaw": false
+    },
+    {
+      "displayName": "吸收曲线.doc",
+      "category": "数据与数据文稿_含待核",
+      "bytes": 181760,
+      "sha256": "287d7a08eda26cbbb373a935a33a5a780d21f37e8374a7d7477b5c07e87ee16b",
+      "shaRole": "原件字节SHA256",
+      "publicRaw": false
+    },
+    {
+      "displayName": "密立根油滴.xlsx",
+      "category": "数据与数据文稿_含待核",
+      "bytes": 12876,
+      "sha256": "b999d65965a2cc658df32a8802a2f72083a77de392f04977d4b767fe6a31a497",
+      "shaRole": "原件字节SHA256",
+      "publicRaw": false
+    },
+    {
+      "displayName": "滞磁.rar",
+      "category": "旧RAR_未展开",
+      "bytes": 1055035,
+      "sha256": "c731bacacfa7231225e485f33ba5df9852a2d564096a7c5b1795da9780c75e81",
+      "shaRole": "原件字节SHA256",
+      "publicRaw": false
+    },
+    {
+      "displayName": "直流电路设计实验总结报告.doc",
+      "category": "已填实验报告",
+      "bytes": 125440,
+      "sha256": "538fd5e54f5bc99e849dc9cc5d870a443a633e57dde1bec3aa9aaa06337b8288",
+      "shaRole": "原件字节SHA256",
+      "publicRaw": false
+    },
+    {
+      "displayName": "逸出功.xlsx",
+      "category": "数据与数据文稿_含待核",
+      "bytes": 17320,
+      "sha256": "d77ea9f2db45a54f8a3bd44bf0c1bbc4bfc35b35a6aa36f6dae1b3079389d26e",
+      "shaRole": "原件字节SHA256",
+      "publicRaw": false
+    },
+    {
+      "displayName": "逸出功的测量实验报告--[姓名隐藏].doc",
+      "category": "已填实验报告",
+      "bytes": 189440,
+      "sha256": "7a23eea630d5cf2b7fe386e0425d0be8296daf8d3ca83015283fdc5a7cec86b6",
+      "shaRole": "原件字节SHA256",
+      "publicRaw": false
+    },
+    {
+      "displayName": "霍尔.rar",
+      "category": "旧RAR_未展开",
+      "bytes": 162052,
+      "sha256": "01ae78dc110257a5e17334b9a828104f45f9753947108d26b1d6f65de042665f",
+      "shaRole": "原件字节SHA256",
+      "publicRaw": false
+    },
+    {
+      "displayName": "高温超导.docx",
+      "category": "已填实验报告",
+      "bytes": 333244,
+      "sha256": "4fdab8e044475fc90a35a95403ba065a4d0434421d1b9ffb8d5116e959cac0b2",
+      "shaRole": "原件字节SHA256",
+      "publicRaw": false
+    },
+    {
+      "displayName": "高温超导.xlsx",
+      "category": "数据与数据文稿_含待核",
+      "bytes": 30112,
+      "sha256": "abc199eeb8926c0662a30da0cb2b77bf18cf1c810f19ab573610f55894af4315",
+      "shaRole": "原件字节SHA256",
+      "publicRaw": false
+    }
+  ]
+}
