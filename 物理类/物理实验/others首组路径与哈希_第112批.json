@@ -1,0 +1,128 @@
+{
+  "batch": 112,
+  "sourceLibrary": "6f4b1cfc-208b-4b3f-b2ac-bac77f97246f",
+  "sourceDirectory": "物理类/物理实验/近代物理实验/实验报告others",
+  "rawPublic": false,
+  "items": [
+    {
+      "path": "讲义/偏振与全息_方法及原理资料_作者年份未核_第112批/[论文]偏振光实验论文.doc",
+      "name": "[论文]偏振光实验论文.doc",
+      "category": "方法原理",
+      "role": "偏振数据处理方法文章_作者出版身份未核",
+      "authorYear": "未核或私人署名不转录",
+      "bytes": 6886400,
+      "sha256": "83002484037e7e010554ee97ff33a18092826722a5f88b4e97eb4922fab71dc9",
+      "rawPublic": false
+    },
+    {
+      "path": "_过程材料/实验报告others历史原件_第112批/已填身份历史学生稿/光源时间相干性.doc",
+      "name": "光源时间相干性.doc",
+      "category": "已填身份历史学生稿",
+      "role": "已填身份历史实验稿",
+      "authorYear": "未核或私人署名不转录",
+      "bytes": 196096,
+      "sha256": "0ee329508fba5109bdcc64881bdc8fd3f7657888fbeeebb34a8c34e9f2785673",
+      "rawPublic": false
+    },
+    {
+      "path": "_过程材料/实验报告others历史原件_第112批/已填身份历史学生稿/光电法测心率.doc",
+      "name": "光电法测心率.doc",
+      "category": "已填身份历史学生稿",
+      "role": "已填身份历史实验稿",
+      "authorYear": "未核或私人署名不转录",
+      "bytes": 349184,
+      "sha256": "94c6da35b4a20543a873e35bd4fc7d413dab7299f14382503fb778e0f2111cba",
+      "rawPublic": false
+    },
+    {
+      "path": "_过程材料/实验报告others历史原件_第112批/已填身份历史学生稿/光色散现象实验研究.doc",
+      "name": "光色散现象实验研究.doc",
+      "category": "已填身份历史学生稿",
+      "role": "已填身份实验研究稿_出版身份未核",
+      "authorYear": "未核或私人署名不转录",
+      "bytes": 92160,
+      "sha256": "b25493348c7bba76bcf6109c0cf516eeaab0cbf67fe8d62098fff12116624da4",
+      "rawPublic": false
+    },
+    {
+      "path": "_过程材料/实验报告others历史原件_第112批/图像主体_角色未完整核/刚体转动定律.doc",
+      "name": "刚体转动定律.doc",
+      "category": "图像主体_角色未完整核",
+      "role": "图像主体_角色未完整核",
+      "authorYear": "未核或私人署名不转录",
+      "bytes": 316928,
+      "sha256": "7f31ff5b1aa20ac499d942967fd36d92427d76caecbf9642ccab930d2512426e",
+      "rawPublic": false
+    },
+    {
+      "path": "_过程材料/实验报告others历史原件_第112批/图像主体_角色未完整核/动态法弹性模量测定.doc",
+      "name": "动态法弹性模量测定.doc",
+      "category": "图像主体_角色未完整核",
+      "role": "图像主体_正文含说明书题名_角色未完整核",
+      "authorYear": "未核或私人署名不转录",
+      "bytes": 1344512,
+      "sha256": "f9655af00205a50c690942111b3931fdeb9a6a707f13fb4272ed3dc02dadda79",
+      "rawPublic": false
+    },
+    {
+      "path": "讲义/偏振与全息_方法及原理资料_作者年份未核_第112批/实验报告全息照相.doc",
+      "name": "实验报告全息照相.doc",
+      "category": "方法原理",
+      "role": "全息方法及空白记录表",
+      "authorYear": "未核或私人署名不转录",
+      "bytes": 49664,
+      "sha256": "6cc792ee4a32ce99ecd431a9aa12e17b07e2a4daab0495af1875e6b5cbeec802",
+      "rawPublic": false
+    },
+    {
+      "path": "_过程材料/实验报告others历史原件_第112批/已填身份历史学生稿/实验报告封面.doc",
+      "name": "实验报告封面.doc",
+      "category": "已填身份历史学生稿",
+      "role": "已填身份历史报告封面",
+      "authorYear": "未核或私人署名不转录",
+      "bytes": 19968,
+      "sha256": "a566d265044616ceebe7a92fbeba4c9ee31397acc15dc632a5fe848ca2b29eec",
+      "rawPublic": false
+    },
+    {
+      "path": "讲义/偏振与全息_方法及原理资料_作者年份未核_第112批/实验报告：全息照相.doc",
+      "name": "实验报告：全息照相.doc",
+      "category": "方法原理",
+      "role": "全息原理稿_完整性未核",
+      "authorYear": "未核或私人署名不转录",
+      "bytes": 38912,
+      "sha256": "476830ea07657bf7a40f1ff72795ec9829c9e95de3e158ab0be87d2b717eeb81",
+      "rawPublic": false
+    },
+    {
+      "path": "_过程材料/实验报告others历史原件_第112批/图像主体_角色未完整核/弦音计.doc",
+      "name": "弦音计.doc",
+      "category": "图像主体_角色未完整核",
+      "role": "图像主体_正文含说明书题名_角色未完整核",
+      "authorYear": "未核或私人署名不转录",
+      "bytes": 369664,
+      "sha256": "25c4b7625e2c451ee6470a1c1e592331d5eb91315edf396528879ef651ade884",
+      "rawPublic": false
+    },
+    {
+      "path": "_过程材料/实验报告others历史原件_第112批/已填身份历史学生稿/用光电法测量人体心率1.doc",
+      "name": "用光电法测量人体心率1.doc",
+      "category": "已填身份历史学生稿",
+      "role": "已填身份历史实验稿",
+      "authorYear": "未核或私人署名不转录",
+      "bytes": 292352,
+      "sha256": "77d55a17edcebf2f95a439aa7cb47228caf188eb885c98a2e30a6b13dc35711d",
+      "rawPublic": false
+    },
+    {
+      "path": "_过程材料/实验报告others历史原件_第112批/已填身份历史学生稿/阿贝.doc",
+      "name": "阿贝.doc",
+      "category": "已填身份历史学生稿",
+      "role": "已填身份历史实验稿",
+      "authorYear": "未核或私人署名不转录",
+      "bytes": 475136,
+      "sha256": "d7523e1c76deec2ce622ef85451ebc537693c767565c5c9370586dd598221185",
+      "rawPublic": false
+    }
+  ]
+}
