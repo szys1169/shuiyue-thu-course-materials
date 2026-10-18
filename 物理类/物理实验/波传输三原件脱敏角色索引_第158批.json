@@ -1,0 +1,44 @@
+{
+  "batch": 158,
+  "source": "来源：自有物理资料库（6f4b1cfc-208b-4b3f-b2ac-bac77f97246f）物理类/物理实验/波传输。水月的资料已有同SHA副本，仅同一私有库内服务器归位；来源库不变。",
+  "scope": "三原件1748653字节：PDF、DOCX、XLSX各一，三独立SHA",
+  "rawPublic": false,
+  "roles": "PDF与DOCX均为同轴电缆电磁波与金属超声波传输的已填历史实验报告，有明确身份；第三件是空工作簿来源残件，保留原字节，不认有效测量表。",
+  "workbookReadOnlyAudit": {
+    "allPhysicalSheets": 1,
+    "visibleSheets": 1,
+    "presentCells": 0,
+    "values": 0,
+    "formulas": 0,
+    "drawingChartMediaCommentParts": 0,
+    "sharedStringsPart": false,
+    "macroParts": 0,
+    "externalRelationships": 0,
+    "recalculated": false,
+    "modified": false
+  },
+  "reviewBoundary": "PDF9页文字提取，仅首页渲染实看；DOCX正文/页眉页脚/注释相关XML静态文字，嵌图未完整视觉/OCR；原名含身份只私有，不推断年份学期或官方性。",
+  "items": [
+    {
+      "alias": "原件_01_a2c3a1ffc5.pdf",
+      "role": "同轴电缆电磁波与金属超声波传输的已填历史报告PDF，实际身份仅私有",
+      "bytes": 767399,
+      "sha256": "a2c3a1ffc55009c14cc78822fd0d2c22ae79e48bcb11bb8abe00026bfb435140",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_02_813a4ad24b.docx",
+      "role": "同主题已填历史报告DOCX，实际身份仅私有",
+      "bytes": 974638,
+      "sha256": "813a4ad24b4deeb1856d7229d07bc95df1be3f0a19071b3639a39d702f5b9a82",
+      "rawPublic": false
+    },
+    {
+      "alias": "原件_03_9c8837693d.xlsx",
+      "role": "无单元格数据与公式的空工作簿来源残件，保留原字节",
+      "bytes": 6616,
+      "sha256": "9c8837693daf2de7330473b161a0fe70736fbfb7e97860e824bd94c850c07b38",
+      "rawPublic": false
+    }
+  ]
+}
