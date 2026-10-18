@@ -1,0 +1,71 @@
+{
+  "batch": 221,
+  "date": "2026-10-19",
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/物理/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E6%BB%9E%E7%A3%81",
+  "oldTargetUrl": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E6%BB%9E%E7%A3%81",
+  "sourceFirstLevelRaw": 19,
+  "sourceFirstLevelSubdirs": 0,
+  "selectedRawPaths": 5,
+  "selectedRawBytes": 804352,
+  "uniqueSHA": 5,
+  "sameSHAExisting722": 0,
+  "remainingOldTargetRawFiles": 7,
+  "items": [
+    {
+      "sourceLabel": "原件路径1（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/滞磁",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/磁场与磁滞剩余文档来源_第221批/无可读主文字的对象文档_内容未核",
+      "bytes": 26112,
+      "sha256": "82277876c30247f0fd098d7e43b7a8b0d88fb2571831cdfb88f1e4b15417e4b9",
+      "role": "DOC主文字仅2对象标记及换行，无可读正文；含Data流，未执行/渲染对象，内容身份与用途未核，不认空白模板或管理残件",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "原件路径2（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/滞磁",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/磁场与磁滞剩余文档来源_第221批/已填身份的记录报告与封面",
+      "bytes": 158720,
+      "sha256": "faf12ec59a2b1acedd82c21b2d5c8313b48943b09ed803191ab2b7fbfac72720",
+      "role": "磁场分布与动态磁滞数据合卷，含已填测量、讨论和图表，页脚实际填写身份，日期未核",
+      "identityConfirmed": true,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "原件路径3（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/滞磁",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/磁场与磁滞剩余文档来源_第221批/身份未核的磁场与磁滞合卷",
+      "bytes": 323584,
+      "sha256": "9ae1fc191af6afda781e1180e14e33e1f9d80aaf9aec6d5f966f7c0e19ef534a",
+      "role": "动态磁滞与磁场分布测量合卷，含数据处理与讨论，主文字未见已填身份，不等于全对象净稿；与219合卷异SHA不按近似正文合并",
+      "identityConfirmed": false,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "原件路径4（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/滞磁",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/磁场与磁滞剩余文档来源_第221批/已填身份的记录报告与封面",
+      "bytes": 24576,
+      "sha256": "d124298a963adc22596d644f0f5a972a076c57eb6978aea97efdb4a717041663",
+      "role": "磁场分布及磁滞回线测量的独立封面，实际填写身份、正文实验时间2006-03-30，地点/身份值不公开；无报告主体不虚构内容",
+      "identityConfirmed": true,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    },
+    {
+      "sourceLabel": "原件路径5（精确原名仅私有映射）",
+      "sourceDirectory": "物理类/物理实验/滞磁",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/磁场与磁滞剩余文档来源_第221批/已填身份的记录报告与封面",
+      "bytes": 271360,
+      "sha256": "e6537e3ea035fceda1cd1f3ab03b86f9382c3a80dba1c6915f7225d948b13765",
+      "role": "单独磁场分布测量实验报告，正文实际填写身份，实验日期2009-04-17；不因来源目录滞磁认磁滞单实验或任课学期",
+      "identityConfirmed": true,
+      "publicRaw": false,
+      "sourceOldTargetEqual": true
+    }
+  ],
+  "policy": "全部raw私有；3正文/页脚确认身份exact候选、未知2不泛删，原件对象不执行/渲染，不以空主文字认无用文件或隐私净稿；私人原名/字段值/绝对本机路径不公开"
+}
