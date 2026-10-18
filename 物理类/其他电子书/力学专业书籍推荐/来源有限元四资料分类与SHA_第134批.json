@@ -1,0 +1,71 @@
+{
+  "source": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E5%8A%9B%E5%AD%A6%E4%B8%93%E4%B8%9A%E4%B9%A6%E7%B1%8D%E6%8E%A8%E8%8D%90",
+  "batch": 134,
+  "scope": "3参考教材与1来源章稿，仅原23PDF中的4件",
+  "items": [
+    {
+      "sourceName": "连续体和结构的非线性有限元-庄茁（译）.pdf",
+      "bytes": 12391109,
+      "sha256": "f9c9cafeb7b0cef29c9458d8585d5ea76dd369c3cd57520db6cc115553aad3b1",
+      "parserPages": 601,
+      "annotations": 0,
+      "isRepaired": false,
+      "parserWarningsRecorded": "",
+      "title": "连续体和结构的非线性有限元",
+      "authors": "Ted Belytschko、Wing Kam Liu、Brian Moran著，庄茁等译",
+      "role": "参考教材中译来源扫描",
+      "editionEvidence": "清华大学出版社2002-12第1版第1次印刷；版权页所引原著Wiley©2000，与译者/中文序日期分开，不认本批另份英文章稿就是2000正式原版。",
+      "quality": "601解析页，来源扫描页眉水印原样保留，不循水印链接访问。",
+      "privateCanonicalPath": "数学类/数值分析/教材/有限元方法参考_第134批/连续体和结构的非线性有限元-庄茁（译）.pdf",
+      "publicRaw": false
+    },
+    {
+      "sourceName": "Ted Belytschko, Wing Kam Liu, Brian Moran-Nonlinear Finite Elements for Continua and Structures.pdf",
+      "bytes": 3011086,
+      "sha256": "d2c5dc551c2a8a655731241234c8f40298fe654504b20e760448f390b70f2e09",
+      "parserPages": 662,
+      "annotations": 0,
+      "isRepaired": false,
+      "parserWarningsRecorded": "bogus font (ZapfChancery-MediumItalic) ascent/descent values (678 / -7752)\n... repeated 2 times...",
+      "title": "Nonlinear Finite Elements for Continua and Structures（来源文件名）",
+      "authors": "文件名标Ted Belytschko、Wing Kam Liu、Brian Moran；所见首章by Ted Belytschko，中部章首见Belytschko/Moran，完整编辑与正式版本身份未核",
+      "role": "来源英文章稿，正式出版身份未核",
+      "editionEvidence": "PDF从Chapter1正文开始，首章Copyright1996，页眉December16,1998；以来源章节日期记录，不据文件名认正式出版书/统一出版年，不作为中译本对应完整原版证明。",
+      "quality": "662解析页，记录ZapfChancery字体度量告警及重复提示，保留原件不修复/拼页；未见正式扉页版权页证据，完整性未核。",
+      "privateCanonicalPath": "数学类/数值分析/教材/有限元方法参考_第134批/_过程材料/1998来源章稿/Ted Belytschko, Wing Kam Liu, Brian Moran-Nonlinear Finite Elements for Continua and Structures.pdf",
+      "publicRaw": false
+    },
+    {
+      "sourceName": "Robert D. Cook, David S. Malkus, Michael E. Plesha, Robert J. Witt-Concepts and Applications of finite element analysis.pdf",
+      "bytes": 25817303,
+      "sha256": "1a1cd4af12652d072b2f8d5664f25ecc279e05641c716c4cadbdcaa57ce6ef58",
+      "parserPages": 733,
+      "annotations": 0,
+      "isRepaired": false,
+      "parserWarningsRecorded": "",
+      "title": "Concepts and Applications of Finite Element Analysis",
+      "authors": "Robert D. Cook、David S. Malkus、Michael E. Plesha、Robert J. Witt",
+      "role": "参考教材英文第4版来源扫描",
+      "editionEvidence": "封面/扉页Fourth Edition，John Wiley & Sons；版权含1974/1981/1989/2002，按本第4版版权2002记录，CIP2001不是本版出版年。印次数未另证。",
+      "quality": "733解析页，前15页扫描提取文本为空，已实际看首版权及中末，不等于空白页。",
+      "privateCanonicalPath": "数学类/数值分析/教材/有限元方法参考_第134批/Robert D. Cook, David S. Malkus, Michael E. Plesha, Robert J. Witt-Concepts and Applications of finite element analysis.pdf",
+      "publicRaw": false
+    },
+    {
+      "sourceName": "O. C. Zienkiewicz, R. L. Taylor, J.Z. Zhu-The finite element method its basis and fundamentals.pdf",
+      "bytes": 6869950,
+      "sha256": "f05f1ef41a36559a29123e2c44884cca33a7914272bb5b9b84f31a65fba115c7",
+      "parserPages": 802,
+      "annotations": 0,
+      "isRepaired": false,
+      "parserWarningsRecorded": "",
+      "title": "The Finite Element Method: Its Basis and Fundamentals",
+      "authors": "O. C. Zienkiewicz、R. L. Taylor、J. Z. Zhu",
+      "role": "参考教材英文第6版",
+      "editionEvidence": "扉页Sixth edition，Elsevier Butterworth-Heinemann；版权页第6版2005、©2000/2005；1967最初出版、第5版2000/重印2002各有语义，不称2000第6版。",
+      "quality": "802解析页，末部索引含电子导航重排标记，保留原件，不据PDF页数认印刷页数。",
+      "privateCanonicalPath": "数学类/数值分析/教材/有限元方法参考_第134批/O. C. Zienkiewicz, R. L. Taylor, J.Z. Zhu-The finite element method its basis and fundamentals.pdf",
+      "publicRaw": false
+    }
+  ]
+}
