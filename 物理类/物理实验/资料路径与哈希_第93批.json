@@ -1,0 +1,31 @@
+{
+  "batch": 93,
+  "scope": "根剩16身份只读盘点后仅归位2原件，余14根原件/25子目录不在整理完成范围",
+  "rawFiles": 2,
+  "rawBytes": 1981266,
+  "cloudCourse": "物理类/物理实验",
+  "localCourse": "通识与其他课程/大物实验",
+  "sourceUnchanged": true,
+  "rawReupload": 0,
+  "zipUpload": 0,
+  "files": [
+    {
+      "oldCourseRelativePath": "传感器2.doc",
+      "finalCourseRelativePath": "讲义/传感器原理及应用_来源物理资料库_第93批/传感器2.doc",
+      "bytes": 181248,
+      "sha256": "ddb73f935927451333b58a2b23ae3e5c85b30647616ea8cbb5c54b9a3c01d3ed",
+      "sourceOldTargetEqual": true,
+      "role": "传感器预习与实验指导",
+      "rawPublicCandidate": false
+    },
+    {
+      "oldCourseRelativePath": "DSC04503 (1).jpg",
+      "finalCourseRelativePath": "往年题/卷面08秋_测验照片_完整年份未核_第93批/DSC04503 (1).jpg",
+      "bytes": 1800018,
+      "sha256": "d60314574aa301110c4b387fb1ea62a2a2258a25c87aa8274f3e097848119d54",
+      "sourceOldTargetEqual": true,
+      "role": "卷面08秋_空白身份栏测验照片_完整年份未核",
+      "rawPublicCandidate": true
+    }
+  ]
+}
