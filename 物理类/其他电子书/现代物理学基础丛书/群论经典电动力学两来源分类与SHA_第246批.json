@@ -1,0 +1,43 @@
+{
+  "batch": 246,
+  "sourceDirectory": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E7%8E%B0%E4%BB%A3%E7%89%A9%E7%90%86%E5%AD%A6%E5%9F%BA%E7%A1%80%E4%B8%9B%E4%B9%A6",
+  "oldDirectory": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E7%8E%B0%E4%BB%A3%E7%89%A9%E7%90%86%E5%AD%A6%E5%9F%BA%E7%A1%80%E4%B8%9B%E4%B9%A6",
+  "sourcePathsSelected": 2,
+  "sourcePathsRemaining": 6,
+  "rawBytes": 36885962,
+  "uniqueSHA": 2,
+  "parsedPages": 1195,
+  "reviewBoundary": "本批现代物理学基础丛书来源叶8条中的群论与经典电动力学两原件，36,885,962字节、2唯一SHA、1195解析页，源/本人旧副本逐SHA一致，2ZIP CRC/exact2通过。马中骐《物理学中的群论》747页，科学出版社1998年1月第一版第一次印刷，ISBN7-03-005971-9，正文实际系列《中国科学院研究生教学丛书》，未核来源名所写现代物理丛书8，不套该系列卷号。曹昌祺《经典电动力学（理论物理三卷集之一）》448物理页、正文末印439，现代物理基础丛书29，科学出版社2009年8月第一版第一次印刷，ISBN978-7-03-025233-3，2007年1月序日期另列，不当出版年；归经典电动力学而非量子电动力学。两书分别归既有群论/电动力学教材。10核心均fresh渲染实际视觉，另首部定位及版权高清核看；两件0批注/表单/附件、repair=false，本次结构/文字抽样/定位及核心无警告，抽样文字层为空不执行OCR，扫描样页字形公式可辨。水印值不抄出，样页不认证全书完整、隐私净或公式正确，不修PDF/执行对象外链，原名原字节保持。整册只私有，云盘服务端归位本人已有副本，未上传PDF或ZIP，Git仅安全来源说明，各来源组README独立注明出处。规范同大小PDF候选零命中，不作全盘或同书去重结论。此叶累计2/8有去向、余6原件保持原name/href，不称整叶闭环；已闭环量子21原名与待核状态、双朗道23原名、既有六课程和128/160快照保持。",
+  "books": [
+    {
+      "sourceName": "[现代物理基础丛书]8 物理学中的群论(马中骐).pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E7%8E%B0%E4%BB%A3%E7%89%A9%E7%90%86%E5%AD%A6%E5%9F%BA%E7%A1%80%E4%B8%9B%E4%B9%A6/%5B%E7%8E%B0%E4%BB%A3%E7%89%A9%E7%90%86%E5%9F%BA%E7%A1%80%E4%B8%9B%E4%B9%A6%5D8%20%E7%89%A9%E7%90%86%E5%AD%A6%E4%B8%AD%E7%9A%84%E7%BE%A4%E8%AE%BA(%E9%A9%AC%E4%B8%AD%E9%AA%90).pdf",
+      "cloudRelativePath": "物理类/群论/教材/马中骐物理学中的群论来源_第246批/[现代物理基础丛书]8 物理学中的群论(马中骐).pdf",
+      "studyRelativePath": "物理类/群论/教材/马中骐物理学中的群论来源_第246批/[现代物理基础丛书]8 物理学中的群论(马中骐).pdf",
+      "bytes": 18437663,
+      "sha256": "43d6e45063c4e9d7e10b6188aab0a657173156e79cb28e2433b8406afe9474ca",
+      "parsedPages": 747,
+      "description": "《物理学中的群论》，马中骐著，科学出版社，ISBN 7-03-005971-9。题名页及CIP标《中国科学院研究生教学丛书》，版权页为1998年1月第一版、第一次印刷；来源文件名中的“现代物理基础丛书8”未获本件正文书目确证，不作为已核丛书卷号。内容含群的线性表示、转动群、晶体对称、置换群、SU(N)、SO(N)及李群李代数，附习题、词汇和索引，适作群论教材参考。所看扫描样页文字公式可读，整册私有、原字节保持，未作逐页完整性认证。",
+      "annotations": 0,
+      "widgets": 0,
+      "embeddedAttachments": 0,
+      "repaired": false,
+      "rawPublic": false
+    },
+    {
+      "sourceName": "[现代物理基础丛书]29 经典电动力学 曹昌祺 2009 439s.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E7%8E%B0%E4%BB%A3%E7%89%A9%E7%90%86%E5%AD%A6%E5%9F%BA%E7%A1%80%E4%B8%9B%E4%B9%A6/%5B%E7%8E%B0%E4%BB%A3%E7%89%A9%E7%90%86%E5%9F%BA%E7%A1%80%E4%B8%9B%E4%B9%A6%5D29%20%E7%BB%8F%E5%85%B8%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6%20%E6%9B%B9%E6%98%8C%E7%A5%BA%202009%20439s.pdf",
+      "cloudRelativePath": "物理类/电动力学/教材/曹昌祺经典电动力学来源_第246批/[现代物理基础丛书]29 经典电动力学 曹昌祺 2009 439s.pdf",
+      "studyRelativePath": "物理类/电动力学/教材/曹昌祺经典电动力学来源_第246批/[现代物理基础丛书]29 经典电动力学 曹昌祺 2009 439s.pdf",
+      "bytes": 18448299,
+      "sha256": "68534eef3be09fa326f5226efba8b58e6a111e2879d5cfd6f8a89cfeaa4e8632",
+      "parsedPages": 448,
+      "description": "《经典电动力学（理论物理三卷集之一）》，曹昌祺著，科学出版社，现代物理基础丛书第29卷，ISBN 978-7-03-025233-3。版权页确认2009年8月第一版、第一次印刷；序署2007年1月另列。正文包括电磁基本规律、静电与静磁场、电磁波、辐射及带电粒子相互作用、特殊相对论基础，附多篇数学与电磁专题附录，适作电动力学教材或教学参考。所看文字公式样页可读，扫描标记保持私有，整册原名原字节保留，未作逐页完整性认证。",
+      "annotations": 0,
+      "widgets": 0,
+      "embeddedAttachments": 0,
+      "repaired": false,
+      "rawPublic": false
+    }
+  ]
+}
