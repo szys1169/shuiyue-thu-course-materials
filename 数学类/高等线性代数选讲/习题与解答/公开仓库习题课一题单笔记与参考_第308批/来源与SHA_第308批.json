@@ -1,0 +1,130 @@
+{
+  "batch": 308,
+  "snapshotDate": "2026-10-19",
+  "files": [
+    {
+      "sourceName": "01-习题课一-助教.pdf",
+      "bytes": 9577872,
+      "sha256": "b019f316013013655b38e2b521a3998279e89feda46ea5afd400d6d570900917",
+      "pages": 31,
+      "role": "手写参考推导及不变子空间、射影空间与Grassmannian补充",
+      "pageRoles": [
+        "1–2复方阵实块表示及其几何解释",
+        "3–7可逆复矩阵极分解、正定平方根唯一性、酉矩阵指数表示；保留蓝色追问",
+        "8矩阵级数和指数补充",
+        "9复内积极化",
+        "10–12多项式空间正交基及投影，末接第5题",
+        "12–13正规变换例子与核向量",
+        "13–14三角函数空间微分算子的伴随",
+        "15–16复/实域二次表达式与反例",
+        "17–18标准正交基扰动问题",
+        "19–20特征值模平方和不等式",
+        "21–26及28–31追加HW：可对角化算子不变子空间、射影空间与Grassmannian概念；非额外九题作业的定论",
+        "27原有空白页"
+      ],
+      "annotationCount": 0,
+      "annotationTypes": {},
+      "annotationsAndPageOrderUnchanged": true,
+      "sourceBlobURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/master/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/exercises%EF%BC%88%E5%BE%90%E5%B8%86%E8%AF%BE%E5%A0%82%EF%BC%89/01-%E4%B9%A0%E9%A2%98%E8%AF%BE%E4%B8%80-%E5%8A%A9%E6%95%99.pdf",
+      "sourceIndex": "https://rekcarc-tsc-uht.readthedocs.io/en/latest/大一下.html",
+      "downloadDate": "2026-10-19",
+      "rawPrivate": true,
+      "rawPublic": false,
+      "originalNameAndBytesRetained": true,
+      "rootAllPagesActuallyViewed": true
+    },
+    {
+      "sourceName": "01-习题课一.pdf",
+      "bytes": 850559,
+      "sha256": "b07504edbf38fece7a39b3a9ad3579f9591dc3a4796e8b80f5a46b7b40c50ee7",
+      "pages": 7,
+      "role": "九题蓝色手写题单，末页原空白",
+      "pageRoles": [
+        "1–2习题课1第1–2题：复矩阵实块表示、极分解",
+        "3–4第3–5题：极化、多项式内积与投影、正规变换",
+        "5第6–7题：三角函数空间伴随、复实域反例",
+        "6第8–9题：正交基扰动、特征值模平方和",
+        "7原有空白页；整件是蓝色手写题单，不是印刷空白考试卷"
+      ],
+      "annotationCount": 268,
+      "annotationTypes": {
+        "Ink": 268
+      },
+      "annotationsAndPageOrderUnchanged": true,
+      "sourceBlobURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/master/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/exercises%EF%BC%88%E5%BE%90%E5%B8%86%E8%AF%BE%E5%A0%82%EF%BC%89/01-%E4%B9%A0%E9%A2%98%E8%AF%BE%E4%B8%80.pdf",
+      "sourceIndex": "https://rekcarc-tsc-uht.readthedocs.io/en/latest/大一下.html",
+      "downloadDate": "2026-10-19",
+      "rawPrivate": true,
+      "rawPublic": false,
+      "originalNameAndBytesRetained": true,
+      "rootAllPagesActuallyViewed": true
+    },
+    {
+      "sourceName": "01-习题课一笔记.pdf",
+      "bytes": 14064082,
+      "sha256": "d71c4416754995d4ed4922b89b32cf3c004db04be2ae6b2aa0e1bc597af228cd",
+      "pages": 3,
+      "role": "题单截图配橙青绿旁注与推导",
+      "pageRoles": [
+        "1–3题单截图配橙/青/绿手写推导、追问与旁注；内容覆盖题单九题，版面跨页连续",
+        "标题习题课一；导出时间不作为课程学期证据",
+        "不是纯题单、官方答案或已有其它文件的可替代整件"
+      ],
+      "annotationCount": 33,
+      "annotationTypes": {
+        "Ink": 33
+      },
+      "annotationsAndPageOrderUnchanged": true,
+      "sourceBlobURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/master/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/exercises%EF%BC%88%E5%BE%90%E5%B8%86%E8%AF%BE%E5%A0%82%EF%BC%89/01-%E4%B9%A0%E9%A2%98%E8%AF%BE%E4%B8%80%E7%AC%94%E8%AE%B0.pdf",
+      "sourceIndex": "https://rekcarc-tsc-uht.readthedocs.io/en/latest/大一下.html",
+      "downloadDate": "2026-10-19",
+      "rawPrivate": true,
+      "rawPublic": false,
+      "originalNameAndBytesRetained": true,
+      "rootAllPagesActuallyViewed": true
+    },
+    {
+      "sourceName": "01习题课一参考答案.pdf",
+      "bytes": 1596975,
+      "sha256": "daa0d0d67f26209a5cbe96a66b5888bc43a0cbec3c1b1dafe8c48bfd959d1496",
+      "pages": 16,
+      "role": "从第1题直接开始的手写参考推导，末近空白页保留",
+      "pageRoles": [
+        "1–2第1题解答与补充性质",
+        "3–5第2题极分解参考推导",
+        "6第3题及第4题开头",
+        "7–8第4题正交基和投影",
+        "9第5题两个小问",
+        "10–11第6题微分算子伴随及补充",
+        "12–13第7题和实域反例，末接第8题",
+        "13–14第8题参考推导，末接第9题",
+        "14–15第9题参考推导",
+        "16近空白页仅小点，完整保留；不是前置重印七页题单的合订本"
+      ],
+      "annotationCount": 589,
+      "annotationTypes": {
+        "Ink": 589
+      },
+      "annotationsAndPageOrderUnchanged": true,
+      "sourceBlobURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/master/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/exercises%EF%BC%88%E5%BE%90%E5%B8%86%E8%AF%BE%E5%A0%82%EF%BC%89/01%E4%B9%A0%E9%A2%98%E8%AF%BE%E4%B8%80%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+      "sourceIndex": "https://rekcarc-tsc-uht.readthedocs.io/en/latest/大一下.html",
+      "downloadDate": "2026-10-19",
+      "rawPrivate": true,
+      "rawPublic": false,
+      "originalNameAndBytesRetained": true,
+      "rootAllPagesActuallyViewed": true
+    }
+  ],
+  "rawFiles": 4,
+  "rawBytes": 26089488,
+  "PDFPages": 57,
+  "distinctSHA256": 4,
+  "publicRawFiles": 0,
+  "pairing": "九题题单与十六页参考答案、三页旁注笔记、三十一页手写推导按题意对应；三十一页件另附不变子空间及几何补充。只说明对应关系，不认定作者、助教身份、授课学期或官方数学正确性。",
+  "filenameBoundary": "助教仅来源文件名，未认定实际作者、教师或助教身份。笔迹颜色、导出或日期戳不能证明制作先后、批改者或学期。",
+  "contentBoundary": "7页件是9题蓝色手写题单而非空白印刷考卷；16页参考从题1解答直接开始，不是前置重印题单合订；3页旁注笔记与31页推导内容有各自结构，31页另有不变子空间与几何补充。只说明题意对应，不认证完整官方答案或数学正确性。",
+  "preservationBoundary": "四个SHA均不同，按完整原件保存，保全部页序、原空白/近空白页和890个Ink批注对象；31页件批注对象0仍有可见手写，不据对象数判断无笔迹。不扁平化、裁切、拆页或重写。",
+  "sourceBoundary": "来源为指定公开仓库官方文档已观察的文件页及其raw入口，2026-10-19取得；不执行原文或来源链接。贡献者许可不一概覆盖第三方资料。",
+  "verificationBoundary": "根代理逐页实际目视57页的审计证据沿用，源4件再次SHA与本地副本一致，规范同尺寸候选0见私有来源审计。云盘原件上传及完整回取另验，不把本地复制认作云盘成功。",
+  "publicPolicy": "仅本组README与来源JSON公开；4原PDF、私有叶README、Info原值及57页样图均私有，不新增公开原件。"
+}
