@@ -1,0 +1,33 @@
+{
+  "batch": 285,
+  "date": "2026-10-19",
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A2",
+  "oldTargetUrl": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A2",
+  "sourceLeafRawPaths": 51,
+  "selectedPaths": 1,
+  "selectedBytes": 4068030,
+  "selectedPages": 13,
+  "selectedUniqueSHA": 1,
+  "sameSHAExisting1206": 0,
+  "remainingOldRawPaths": 47,
+  "identityConfirmedPaths": 1,
+  "items": [
+    {
+      "sourceLabel": "末来源（精确原名仅私有）",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告2",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/报告2弗兰克赫兹末来源_第285批/含身份的手写报告与仪器记录",
+      "bytes": 4068030,
+      "sha256": "4b2b1d6abeb4645bc810d4238f7007fc613884c8cb20641687b0e7e889d2aadd",
+      "pages": 13,
+      "role": "13页灰度手写填写报告，封面和末页仪器打印图实际私人身份已证，含原理步骤、4-8页数据处理、9页结论思考、10页私人总结、11-12页手写原始记录及13页仪器图。全部原名原字节/黑边透印/纸面批改保持，身份评价/私人经历不抄，不补缺页拆PDF或认标准答案/教师学期",
+      "identityConfirmed": true,
+      "sourceOldTargetEqual": true,
+      "allPagesStaticReviewed": true,
+      "annotationObjects": 0,
+      "formObjects": 0,
+      "attachments": 0,
+      "publicRaw": false
+    }
+  ],
+  "policy": "只安全元信息，无个人值/本机绝对路径/精确私人原名映射；单raw/2privateREADME/审阅图TXT只私有。原名原字节/全部附页不改，ann0非无纸面批改，only1已证身份exact候选及extra未授权边界见私有QA，unknown47不泛删/history不改。"
+}
