@@ -1,0 +1,32 @@
+{
+  "batch": 311,
+  "date": "2026-10-19",
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A2",
+  "oldTargetUrl": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A2",
+  "sourceLeafRawPaths": 51,
+  "selectedPaths": 1,
+  "selectedBytes": 21948271,
+  "selectedPages": 9,
+  "selectedUniqueSHA": 1,
+  "sameSHAExisting1300": 0,
+  "remainingOldRawPaths": 23,
+  "items": [
+    {
+      "sourceLabel": "末题名来源",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告2",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/报告2吸收曲线末题名来源_第311批/含身份的吸收测量照片稿",
+      "bytes": 21948271,
+      "sha256": "e64085626ca8e8ab8d4b639837dbda8769bdd87e68269a1cab416fd0130d672d",
+      "pages": 9,
+      "role": "9页彩色照片填写稿：首面身份已证，1–3页原理与步骤，4页测量数据，5页结论与误差，6页思考题，7–8页手写原始数表，9页打印吸收曲线。",
+      "identityConfirmed": true,
+      "sourceOldTargetEqual": true,
+      "allPagesStaticReviewed": true,
+      "annotationObjects": 0,
+      "formObjects": 0,
+      "attachments": 0,
+      "publicRaw": false
+    }
+  ],
+  "policy": "原件整件云盘保存，本批未新增入Git；不转录私人值。来源编号沿题名、作者学期待核；云盘ACL未核，不据目录名认隔离。"
+}
