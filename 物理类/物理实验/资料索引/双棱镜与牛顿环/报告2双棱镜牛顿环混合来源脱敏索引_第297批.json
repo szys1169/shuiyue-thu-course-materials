@@ -1,0 +1,48 @@
+{
+  "batch": 297,
+  "date": "2026-10-19",
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A2",
+  "oldTargetUrl": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A2",
+  "sourceLeafRawPaths": 51,
+  "selectedPaths": 2,
+  "selectedBytes": 6813639,
+  "selectedPages": 29,
+  "selectedUniqueSHA": 2,
+  "sameSHAExisting1249": 0,
+  "remainingOldRawPaths": 35,
+  "items": [
+    {
+      "sourceLabel": "混合来源1",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告2",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/报告2双棱镜牛顿环混合来源_第297批/含偏振附页的身份混合稿",
+      "bytes": 3820368,
+      "sha256": "b3d68cc63cbd3c952dc69c5c5c7cd6c741383527acdd283a2660acda6fe29093",
+      "pages": 16,
+      "role": "16页混合填写稿，首行及末页附纸实际私人身份已证；1-2页双棱镜原理，3-5页牛顿环测曲率半径原理步骤，6-10页记录处理，11-13页思考，14-15页原始记录，末16页另附偏振光学含身份原始记录纸。只确认附页角色，不推同一作者/已证配套，不拆PDF。身份日期评价不抄，黑边批改全部保持，不认标准答案/版次/学期。",
+      "identityConfirmed": true,
+      "sourceOldTargetEqual": true,
+      "allPagesStaticReviewed": true,
+      "annotationObjects": 0,
+      "formObjects": 0,
+      "attachments": 0,
+      "publicRaw": false
+    },
+    {
+      "sourceLabel": "混合来源2",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告2",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/报告2双棱镜牛顿环混合来源_第297批/含身份的双棱镜牛顿环混合扫描",
+      "bytes": 2993271,
+      "sha256": "5f4fc4ca6ef84701a5d67a2f4e935ce2034e370ea6230935ba62183bd26ec2f1",
+      "pages": 13,
+      "role": "13页双棱镜与牛顿环混合扫描稿，首两页为同封面彩色/灰度来源扫描，封面实际私人身份已证，全部保留；3-6页双棱镜、7-12页牛顿环测曲率半径，13页私人总结。身份评价私人经历日期不抄，彩灰页/黑边/纸面批改/全部页序字节保持，不按近页删重或认标准答案/新版/学期。",
+      "identityConfirmed": true,
+      "sourceOldTargetEqual": true,
+      "allPagesStaticReviewed": true,
+      "annotationObjects": 0,
+      "formObjects": 0,
+      "attachments": 0,
+      "publicRaw": false
+    }
+  ],
+  "policy": "安全来源角色元信息，无私人值/本机绝对路径；两混合整PDF及私有说明审阅只私有，彩灰封面/偏振附纸均整件保持，不推同作者配套/标准答案/版次/学期，不称报告2或整课闭环。"
+}
