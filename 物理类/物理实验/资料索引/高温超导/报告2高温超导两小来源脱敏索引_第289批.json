@@ -1,0 +1,48 @@
+{
+  "batch": 289,
+  "date": "2026-10-19",
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A2",
+  "oldTargetUrl": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A2",
+  "sourceLeafRawPaths": 51,
+  "selectedPaths": 2,
+  "selectedBytes": 7122824,
+  "selectedPages": 33,
+  "selectedUniqueSHA": 2,
+  "sameSHAExisting1220": 0,
+  "remainingOldRawPaths": 43,
+  "items": [
+    {
+      "sourceLabel": "两小来源1",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告2",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/报告2高温超导两小来源_第289批/含身份的测量报告与原始记录",
+      "bytes": 3719248,
+      "sha256": "feee6df5859936c66dfbc87a001fe2b3de6b3b9a1f8734f511befce28a268024",
+      "pages": 16,
+      "role": "16页手写填写测量报告，首行私人身份实际已证；原理仪器与电路、测量数据和打印曲线、结论思考，末3页为附图与手写原始数据。身份评价/私人日期不抄，黑边透印/纸面批改/全部附页保持，不认标准答案或版本先后/学期。",
+      "identityConfirmed": true,
+      "sourceOldTargetEqual": true,
+      "allPagesStaticReviewed": true,
+      "annotationObjects": 0,
+      "formObjects": 0,
+      "attachments": 0,
+      "publicRaw": false
+    },
+    {
+      "sourceLabel": "两小来源2",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告2",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/报告2高温超导两小来源_第289批/含身份的测量报告与原始记录",
+      "bytes": 3403576,
+      "sha256": "c8923502b0826117ec736df6ee644ed6c6f0521ad928ca057640a19daee36eeb",
+      "pages": 17,
+      "role": "17页手写填写测量报告，首行私人身份实际已证；前6页为原理仪器步骤和处理，7-9页打印数据表，10-12页打印曲线，13页思考总结与纸面批改，14-17页手写原始数据。身份评价日期不抄，全部页序黑边透印批改保持，不认标准答案/来源序号新版或日期为学期。",
+      "identityConfirmed": true,
+      "sourceOldTargetEqual": true,
+      "allPagesStaticReviewed": true,
+      "annotationObjects": 0,
+      "formObjects": 0,
+      "attachments": 0,
+      "publicRaw": false
+    }
+  ],
+  "policy": "安全来源角色元信息，精确原名/身份值与审阅只私有；原名原字节/全部记录保持，纸面批改不等于PDF注释。来源编号不证明版次、私人日期不证明学期，非标准答案或全部高温超导/报告2闭环。"
+}
