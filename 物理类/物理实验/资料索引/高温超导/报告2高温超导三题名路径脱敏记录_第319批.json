@@ -1,0 +1,64 @@
+{
+  "batch": 319,
+  "date": "2026-10-19",
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A2",
+  "stats": {
+    "selectedSourcePaths": 3,
+    "selectedSourceBytes": 22463103,
+    "uniqueSHA": 3,
+    "filePages": 48,
+    "historical289": 2,
+    "fresh319": 1,
+    "allLocalFreshSHA": 3,
+    "identityConfirmedPaths": 3,
+    "boundary": "三个原题名路径去向记录，289历史2+319fresh1/local3fresh，历史source/cloud未本批重下，仅复核保存成员字节；编号非版次先后或三份独立报告，作者学期待核。"
+  },
+  "items": [
+    {
+      "sourceLabel": "原题名路径1",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告2",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/报告2高温超导两小来源_第289批/含身份的测量报告与原始记录",
+      "bytes": 3719248,
+      "sha256": "feee6df5859936c66dfbc87a001fe2b3de6b3b9a1f8734f511befce28a268024",
+      "pages": 16,
+      "role": "16页手写填写测量报告，首行私人身份实际已证；原理仪器与电路、测量数据和打印曲线、结论思考，末3页为附图与手写原始数据。身份评价/私人日期不抄，黑边透印/纸面批改/全部附页保持，不认标准答案或版本先后/学期。",
+      "identityConfirmed": true,
+      "evidenceBatch": 289,
+      "sourceOldTargetEqual": true,
+      "freshLocalSHA": true,
+      "cloudEvidence": "289历史已验cloud保存ZIPmember本地复核，非319新下载原件",
+      "publicRaw": false
+    },
+    {
+      "sourceLabel": "原题名路径2",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告2",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/报告2高温超导两小来源_第289批/含身份的测量报告与原始记录",
+      "bytes": 3403576,
+      "sha256": "c8923502b0826117ec736df6ee644ed6c6f0521ad928ca057640a19daee36eeb",
+      "pages": 17,
+      "role": "17页手写填写测量报告，首行私人身份实际已证；前6页为原理仪器步骤和处理，7-9页打印数据表，10-12页打印曲线，13页思考总结与纸面批改，14-17页手写原始数据。身份评价日期不抄，全部页序黑边透印批改保持，不认标准答案/来源序号新版或日期为学期。",
+      "identityConfirmed": true,
+      "evidenceBatch": 289,
+      "sourceOldTargetEqual": true,
+      "freshLocalSHA": true,
+      "cloudEvidence": "289历史已验cloud保存ZIPmember本地复核，非319新下载原件",
+      "publicRaw": false
+    },
+    {
+      "sourceLabel": "原题名路径3",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告2",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/报告2高温超导末题名来源_第319批/含身份的高温超导填写稿与拟合附页",
+      "bytes": 15340279,
+      "sha256": "8df8799a46d1b238b28156cc5dd7abc331f26dd927431c4763e4eeaa13c90747",
+      "pages": 15,
+      "role": "15页高温超导临界转变温度填写稿：首面身份已证，1–5页原理目的仪器，6–8页实验方法，9–10页横向数表，11–14页打印曲线与拟合说明（含个人总结段），15页思考题。",
+      "identityConfirmed": true,
+      "evidenceBatch": 319,
+      "sourceOldTargetEqual": true,
+      "freshLocalSHA": true,
+      "cloudEvidence": "本批限定scope新回取",
+      "publicRaw": false
+    }
+  ],
+  "policy": "匿名三原题名路径去向，不含精确原名/私人值/本机绝对路径；历史2+fresh1/local3fresh，非全部本轮source/cloud重下、非三份独立报告或新版。原件本批未新增Git。"
+}
