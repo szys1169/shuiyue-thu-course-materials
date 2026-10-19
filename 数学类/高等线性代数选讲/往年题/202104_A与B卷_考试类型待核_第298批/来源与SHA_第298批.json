@@ -1,0 +1,80 @@
+{
+  "batch": 298,
+  "snapshotDate": "2026-10-19",
+  "groupRole": "两份不同日期的未填写高等线性代数选讲考试卷",
+  "files": [
+    {
+      "sourceName": "midterm.pdf",
+      "bytes": 54151,
+      "sha256": "418b72a2bd538c63551829665d27bf57721f241a419327ec1fc83b9c4ab25e97",
+      "pages": 2,
+      "actualCourseTitle": "高等线性代数选讲",
+      "actualPaperTitle": "清华大学本科生考试试题专用纸",
+      "bodyDate": "2021-04-13",
+      "bodyVariant": "A",
+      "bodyQuestionCount": 4,
+      "bodyTotalPoints": 50,
+      "printedPageSequence": [
+        "第1页/共2页",
+        "第2页/共2页"
+      ],
+      "role": "未填写的试题卷",
+      "teacherEvidence": "卷面未见教师署名，不以来源目录人名认证教师",
+      "examTypeEvidence": "卷面未写期中/期末；midterm仅来源名线索，考试类型未核",
+      "safeDescription": "2页，卷头高等线性代数选讲A卷，日期2021-04-13，4道大题、满分50分；页脚1/2、2/2。未见个人填写、学号姓名、实得分或批改，教师与考试类型未核。",
+      "studyRelativePath": "数学类/高代选/考试/202104_A与B卷_考试类型待核_第298批/midterm.pdf",
+      "cloudRelativePath": "数学类/高等线性代数选讲/往年题/202104_A与B卷_考试类型待核_第298批/midterm.pdf",
+      "localOriginalRelativeURL": "midterm.pdf",
+      "sourceIndex": "https://rekcarc-tsc-uht.readthedocs.io/en/latest/大一下.html",
+      "downloadDate": "2026-10-19",
+      "originalBytesUnmodified": true,
+      "rawPublic": true,
+      "publicReview": "主代理已逐页复核全部4张单页图并批准两原PDF原字节公开；无私人填写、实得分或批改，元信息无作者身份/XMP/本地路径。",
+      "sourceBlobURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/master/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/2021-exam-%E6%9D%8E%E9%B9%8F%E8%BE%89/midterm.pdf",
+      "resolvedPublicDownloadURL": "https://raw.githubusercontent.com/PKUanonym/REKCARC-TSC-UHT/refs/heads/master/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/2021-exam-%E6%9D%8E%E9%B9%8F%E8%BE%89/midterm.pdf"
+    },
+    {
+      "sourceName": "midterm2.pdf",
+      "bytes": 51205,
+      "sha256": "37303b133041f7d6536eadf9dc09118cddde9caf52a73427e59169da63301187",
+      "pages": 2,
+      "actualCourseTitle": "高等线性代数选讲",
+      "actualPaperTitle": "清华大学本科生考试试题专用纸",
+      "bodyDate": "2021-04-16",
+      "bodyVariant": "B",
+      "bodyQuestionCount": 4,
+      "bodyTotalPoints": 50,
+      "printedPageSequence": [
+        "第1页/共2页",
+        "第2页/共2页"
+      ],
+      "role": "未填写的试题卷",
+      "teacherEvidence": "卷面未见教师署名，不以来源目录人名认证教师",
+      "examTypeEvidence": "卷面未写期中/期末；midterm仅来源名线索，考试类型未核",
+      "safeDescription": "2页，卷头高等线性代数选讲B卷，日期2021-04-16，4道大题、满分50分；页脚1/2、2/2。未见个人填写、学号姓名、实得分或批改，教师与考试类型未核。",
+      "studyRelativePath": "数学类/高代选/考试/202104_A与B卷_考试类型待核_第298批/midterm2.pdf",
+      "cloudRelativePath": "数学类/高等线性代数选讲/往年题/202104_A与B卷_考试类型待核_第298批/midterm2.pdf",
+      "localOriginalRelativeURL": "midterm2.pdf",
+      "sourceIndex": "https://rekcarc-tsc-uht.readthedocs.io/en/latest/大一下.html",
+      "downloadDate": "2026-10-19",
+      "originalBytesUnmodified": true,
+      "rawPublic": true,
+      "publicReview": "主代理已逐页复核全部4张单页图并批准两原PDF原字节公开；无私人填写、实得分或批改，元信息无作者身份/XMP/本地路径。",
+      "sourceBlobURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/master/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/2021-exam-%E6%9D%8E%E9%B9%8F%E8%BE%89/midterm2.pdf",
+      "resolvedPublicDownloadURL": "https://raw.githubusercontent.com/PKUanonym/REKCARC-TSC-UHT/refs/heads/master/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/2021-exam-%E6%9D%8E%E9%B9%8F%E8%BE%89/midterm2.pdf"
+    }
+  ],
+  "rawFiles": 2,
+  "rawBytes": 105356,
+  "PDFPages": 4,
+  "publicOriginals": 2,
+  "sourceBoundary": "来自项目官方ReadTheDocs已观察blob及页面raw入口，2026-10-19下载；来源目录中的年份/人名只作为来源标签，卷面日期另有正文证据。仓库贡献者许可不一概覆盖所有第三方材料。",
+  "identityBoundary": "卷头A卷2021-04-13、B卷2021-04-16，各4题50分与印刷两页有据；不能称同日AB套卷，卷面未写期中或期末及教师，不据midterm文件名或来源人名补认。",
+  "publicReviewBoundary": "两份共4页均由本任务审计与主代理逐页实际看图核对，未见个人填写、姓名学号、实得分或批改；Info仅软件生成及创建日期键，XMP为空，本地路径匹配0，批注/表单/附件0。已明确批准本两原卷公开，其他未知或私有材料不在此范围；不改写原PDF。",
+  "verificationBoundary": "源2件再次核SHA、数学规范同尺寸exact0、本地副本逐SHA同源；旧496及导航保护另存过程证据。最终云盘4文件回取另记，不把本地复制当作云盘成功。",
+  "localCloudMapping": {
+    "localGroup": "数学类/高代选/考试/202104_A与B卷_考试类型待核_第298批",
+    "cloudAndRepositoryGroup": "数学类/高等线性代数选讲/往年题/202104_A与B卷_考试类型待核_第298批"
+  },
+  "publicPolicy": "本批精确4文件公开=2原PDF+README+来源JSON；私有Info/XMP原值与审计图不进Git白名单。"
+}
