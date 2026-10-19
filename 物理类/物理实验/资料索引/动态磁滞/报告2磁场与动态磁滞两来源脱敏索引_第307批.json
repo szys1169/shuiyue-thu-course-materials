@@ -1,0 +1,48 @@
+{
+  "batch": 307,
+  "date": "2026-10-19",
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A2",
+  "oldTargetUrl": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A2",
+  "sourceLeafRawPaths": 51,
+  "selectedPaths": 2,
+  "selectedBytes": 12209816,
+  "selectedPages": 37,
+  "selectedUniqueSHA": 2,
+  "sameSHAExisting1285": 0,
+  "remainingOldRawPaths": 27,
+  "items": [
+    {
+      "sourceLabel": "来源1",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告2",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/报告2动态磁滞磁场两来源_第307批/含身份的磁场分布与动态磁滞复合稿",
+      "bytes": 4787723,
+      "sha256": "1b34e9bfb0dcef8857bf300ae14e6413626e88d8cbdf8b77a124662eaf432fa9",
+      "pages": 21,
+      "role": "21页复合填写稿：封面、磁场分布原理步骤与数据问答及原始记录、动态磁滞原理步骤与数据思考题、原始记录和末页横向曲线；近重复数据页全部保留。",
+      "identityConfirmed": true,
+      "sourceOldTargetEqual": true,
+      "allPagesStaticReviewed": true,
+      "annotationObjects": 0,
+      "formObjects": 0,
+      "attachments": 0,
+      "publicRaw": false
+    },
+    {
+      "sourceLabel": "来源2",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告2",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/报告2动态磁滞磁场两来源_第307批/含身份的磁场分布与动态磁滞复合稿",
+      "bytes": 7422093,
+      "sha256": "ebfd299503da0eab3cf5ce93f00b387389e6407c97c6c607d3c61ee7b1d88b4f",
+      "pages": 16,
+      "role": "16页复合填写稿：封面、磁场分布原理数据与思考、动态磁滞原理数据与问答、个人总结、原始记录和末页横向曲线。",
+      "identityConfirmed": true,
+      "sourceOldTargetEqual": true,
+      "allPagesStaticReviewed": true,
+      "annotationObjects": 0,
+      "formObjects": 0,
+      "attachments": 0,
+      "publicRaw": false
+    }
+  ],
+  "policy": "云盘保留整件原字节，本批不新增原件入Git；未核云盘ACL，不据目录名宣称权限隔离。公共说明不转录身份/私人日期/评价。近重复数据页和横向曲线保留，来源编号不证明版次，不推作者配对/学期/标准答案；非全课程闭环。"
+}
