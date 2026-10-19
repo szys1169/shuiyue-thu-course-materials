@@ -1,0 +1,49 @@
+{
+  "batch": 323,
+  "date": "2026-10-19",
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A2",
+  "oldTargetUrl": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A2",
+  "sourceLeafRawPaths": 51,
+  "selectedPaths": 2,
+  "selectedBytes": 5995713,
+  "selectedPages": 21,
+  "selectedUniqueSHA": 2,
+  "sameSHAExisting1345": 0,
+  "remainingOldRawPaths": 13,
+  "items": [
+    {
+      "sourceLabel": "来源1",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告2",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/报告2瞬态另两小来源_第323批/含身份的瞬态填写稿与原始记录",
+      "bytes": 3729901,
+      "sha256": "0d1aef9dd9405f77795b138b7d27e8c0f256c0391fa79fcc11e9e49ee8432a84",
+      "pages": 12,
+      "role": "12页手写瞬态填写稿：自制封面身份已证，含仪器、传输线与超声原理、数据和不确定度分析、个人总结及末页原始记录。",
+      "identityConfirmed": true,
+      "sourceOldTargetEqual": true,
+      "allPagesStaticReviewed": true,
+      "annotationObjects": 0,
+      "formObjects": 0,
+      "attachments": 0,
+      "publicRaw": false
+    },
+    {
+      "sourceLabel": "来源2",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告2",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/报告2瞬态另两小来源_第323批/含身份的瞬态填写稿与原始记录",
+      "bytes": 2265812,
+      "sha256": "8fe31d29e8e3ff57b3d26c175547e0fdd135cd40de819d9f077204ccbc326b2e",
+      "pages": 9,
+      "role": "9页打印瞬态填写稿：首面身份已证且印刷物理A(2)表头，含原理步骤、数据处理与实验小结、末页手写原始记录。",
+      "identityConfirmed": true,
+      "sourceOldTargetEqual": true,
+      "allPagesStaticReviewed": true,
+      "annotationObjects": 0,
+      "formObjects": 0,
+      "attachments": 0,
+      "publicRaw": false
+    }
+  ],
+  "oldEvidence": "321冻结SHA继承，本批仅路径尺寸mtime与漂移/同尺寸候选增量核验，非旧全量本批fresh",
+  "policy": "原件完整云盘保存，本批未新增Git；编号沿原题名，作者学期待核。9页打印表头物理A2不推广另一件，私人值不转录。"
+}
