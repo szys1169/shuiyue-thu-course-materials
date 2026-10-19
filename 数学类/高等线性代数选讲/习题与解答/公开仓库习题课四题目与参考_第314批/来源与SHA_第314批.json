@@ -1,0 +1,65 @@
+{
+  "batch": 314,
+  "snapshotDate": "2026-10-19",
+  "files": [
+    {
+      "sourceName": "04-第四次习题课笔记.pdf",
+      "bytes": 8485190,
+      "sha256": "0fc99b41304db1c4ee5aae572ecea94579d3367580b8af6300c54fc445773de7",
+      "pages": 2,
+      "pageRoles": [
+        "1七题题图配橙青绿手写旁注及三张蓝底课件节图；重点讨论Jordan链、矩阵指数与幂极限、矩阵平方根及高次根补充",
+        "2续高次根构造、秩一矩阵函数与插值；旁注选择性推导，不能称七题全套独立标准答案；保留跨页版面和宽白边"
+      ],
+      "annotationTypes": {},
+      "sourceBlobURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/master/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/exercises%EF%BC%88%E5%BE%90%E5%B8%86%E8%AF%BE%E5%A0%82%EF%BC%89/04-%E7%AC%AC%E5%9B%9B%E6%AC%A1%E4%B9%A0%E9%A2%98%E8%AF%BE%E7%AC%94%E8%AE%B0.pdf",
+      "sourceIndex": "https://rekcarc-tsc-uht.readthedocs.io/en/latest/大一下.html",
+      "downloadDate": "2026-10-19",
+      "rawPrivate": true,
+      "rawPublic": false,
+      "rootAllPagesActuallyViewed": true,
+      "originalNameAndBytesPageOrderAndAnnotationsRetained": true
+    },
+    {
+      "sourceName": "04-第四次习题课（有答案）.pdf",
+      "bytes": 10405551,
+      "sha256": "0eed1cb54fddbcbdb0d3e008027c0132bca0310f1ddcb3b56241f364f224029f",
+      "pages": 27,
+      "pageRoles": [
+        "1笔记本式空白封面",
+        "2–5七题题单：Jordan链、矩阵指数、矩阵幂极限、矩阵三角恒等式、矩阵平方根、秩一矩阵函数、实矩阵正弦反例",
+        "6–9第1题参考推导与反例",
+        "10–15第2题参考推导及另一证明，末接第3题",
+        "15–17第3题参考推导",
+        "18第4题参考推导",
+        "19–22第5题参考推导与不可逆反例；第20页插入反例，保持原页序不重新排布",
+        "22–25第6题参考推导；末接第7题",
+        "25–27第7题参考推导及另一方法；末页有结论且留大量空白，不删除"
+      ],
+      "annotationTypes": {},
+      "sourceBlobURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/master/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/exercises%EF%BC%88%E5%BE%90%E5%B8%86%E8%AF%BE%E5%A0%82%EF%BC%89/04-%E7%AC%AC%E5%9B%9B%E6%AC%A1%E4%B9%A0%E9%A2%98%E8%AF%BE%EF%BC%88%E6%9C%89%E7%AD%94%E6%A1%88%EF%BC%89.pdf",
+      "sourceIndex": "https://rekcarc-tsc-uht.readthedocs.io/en/latest/大一下.html",
+      "downloadDate": "2026-10-19",
+      "rawPrivate": true,
+      "rawPublic": false,
+      "rootAllPagesActuallyViewed": true,
+      "originalNameAndBytesPageOrderAndAnnotationsRetained": true
+    }
+  ],
+  "rawFiles": 2,
+  "rawBytes": 18890741,
+  "PDFPages": 29,
+  "distinctSHA256": 2,
+  "publicRawFiles": 0,
+  "pairingBoundary": "二十七页件是七题题目加参考推导，两页件是相应题图与选择性旁注、课件节图和矩阵高次根补充，均保留，不按主题重叠去重。",
+  "sourcePreservation": "不校订源公式、不重排第5题中插入的反例页；题单封面、末页空白区域、彩色笔迹和所有批注按原件保留。",
+  "specificBoundaries": [
+    "27页件前5页封面和七题，后22页参考推导；第20页插入第5题反例，不重排。",
+    "第27页有结论且大量留白，完整保留不删除。",
+    "两页件为题图彩色旁注、三张蓝底课件节图和高次根补充、选择性推导，不称七题全套独立标准答案。"
+  ],
+  "identityBoundary": "作者、教师、学期、官方性和数学正确性未核，不因文件名有答案即认完整标准答案，不以笔迹颜色或日期戳推作者或学期。",
+  "sourceBoundary": "来自指定公开仓库官方文档已观察文件页及raw入口，2026-10-19取得；贡献者许可不一概覆盖第三方原件，不执行资料或外链。",
+  "verificationBoundary": "根代理逐页实际目视29页的证据沿用；源原件再次核字节SHA并与本地副本一致，规范同尺寸exact0见私有过程。云盘上传回取另验，不将本地复制认作云盘成功。",
+  "publicPolicy": "仅README和来源JSON公开，全部PDF、私有叶README、Info原值及样图皆私有，不拆页/去批注/裁切/扁平化或重写。"
+}
