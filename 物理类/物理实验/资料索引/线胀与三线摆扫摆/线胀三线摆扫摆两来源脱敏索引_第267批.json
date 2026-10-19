@@ -1,0 +1,51 @@
+{
+  "batch": 267,
+  "date": "2026-10-19",
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/物理/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A1",
+  "oldTargetUrl": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A1",
+  "sourceLeafRawPaths": 44,
+  "selectedPaths": 2,
+  "selectedBytes": 8571820,
+  "selectedUniqueSHA": 2,
+  "selectedFilePages": 38,
+  "sameSHAExistingCanonical": 0,
+  "protectedCanonicalPaths": 1136,
+  "remainingOldRawPaths": 14,
+  "identityConfirmedPaths": 1,
+  "identityUnconfirmedPaths": 1,
+  "items": [
+    {
+      "sourceLabel": "来源变体1（精确原名仅私有）",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告1",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/线胀三线摆扫摆两来源报告_第267批/有身份的三实验填写报告",
+      "bytes": 4451195,
+      "sha256": "390062ecba4e1aa596695d55af20ca2d973efd87234d4d64f923202cc101670a",
+      "pages": 23,
+      "role": "23页灰度三实验填写报告：封面实际私人身份填写，三线摆/转动惯量、线膨胀测量、扫摆的数据处理与不确定度分析，私人总结/经历不转录，思考题及末三页原始记录；第6与7文件页静态重复仍原样保留，不按页去重或认新版。原名双.pdf后缀保留",
+      "identityConfirmed": true,
+      "sourceOldTargetEqual": true,
+      "allPagesStaticReviewed": true,
+      "annotationObjects": 0,
+      "formObjects": 0,
+      "attachments": 0,
+      "publicRaw": false
+    },
+    {
+      "sourceLabel": "来源变体2（精确原名仅私有）",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告1",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/线胀三线摆扫摆两来源报告_第267批/身份未确认的三实验填写报告",
+      "bytes": 4120625,
+      "sha256": "109c8a21f1391613ee6e739a3a711f475e2d40310c67b4c61a104a1ed6b00877",
+      "pages": 15,
+      "role": "15页灰度填写报告：1-6页线膨胀测量，7-13页三线摆与扫摆，末两页原始记录。打印身份栏为空，末页材料名/日期及其它手写标记不足确认私人身份，不列身份清理，也不称隐私净稿；纸面批改/图表原样保留",
+      "identityConfirmed": false,
+      "sourceOldTargetEqual": true,
+      "allPagesStaticReviewed": true,
+      "annotationObjects": 0,
+      "formObjects": 0,
+      "attachments": 0,
+      "publicRaw": false
+    }
+  ],
+  "policy": "23页封面私人身份填写已证，身份/评价值及私人总结经历不抄；15页打印身份栏为空，材料名/日期及零散标记不足确认私人身份，不列身份清理，也不认隐私净稿。原名字节、双.pdf后缀、页序、灰度、边框、图表、全部笔迹与记录保持，不裁剪/补页/拆PDF，不做重复页去重。不是空白题或教师标准答案，解答正确性未独立核定；不判来源序号新旧、教师或授课学期。结构注释表单附件0不等于无纸面批改，不执行脚本/软件/外链。 两raw/3privateREADME/审阅图TXT及精确原名映射只私有，无本机绝对路径，只serverreuse/no raw或ZIP新上传。only1exact身份候选，unknown1+余14不泛删/history不改；非整来源叶闭环。"
+}
