@@ -1,0 +1,826 @@
+{
+  "batch": 256,
+  "snapshotDate": "2026-10-19",
+  "snapshotKind": "dated_directory_and_source_mapping_navigation",
+  "learningDirectoryCount": 35,
+  "sourceDirectoryCount": 21,
+  "sourcePathRollup": {
+    "original": 182,
+    "mapped": 181,
+    "remaining": 1,
+    "scope": "21 source directories; separate root source groups are not added to these counts; not unique books"
+  },
+  "qualityBoundary": "本页提供学科目录与来源去向导航。去向已记录不表示整册内容、公式、页码连续性或隐私状态已全面核验；批注、缺页、书目与解析待核等原有标记，仍以各来源说明为准。书籍全文和私人报告继续私有保存。",
+  "learningDirectories": [
+    {
+      "href": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C",
+      "name": "物理实验"
+    },
+    {
+      "href": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%83%AD%E5%8A%9B%E5%AD%A6%E4%B8%8E%E7%BB%9F%E8%AE%A1%E7%89%A9%E7%90%86",
+      "name": "热力学与统计物理"
+    },
+    {
+      "href": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E8%BF%9E%E7%BB%AD%E4%BB%8B%E8%B4%A8%E5%8A%9B%E5%AD%A6",
+      "name": "连续介质力学"
+    },
+    {
+      "href": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6",
+      "name": "量子力学"
+    },
+    {
+      "href": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%BB%8F%E5%85%B8%E5%9C%BA%E8%AE%BA",
+      "name": "经典场论"
+    },
+    {
+      "href": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%88%86%E6%9E%90%E5%8A%9B%E5%AD%A6",
+      "name": "分析力学"
+    },
+    {
+      "href": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6",
+      "name": "电动力学"
+    },
+    {
+      "href": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%B9%BF%E4%B9%89%E7%9B%B8%E5%AF%B9%E8%AE%BA",
+      "name": "广义相对论"
+    },
+    {
+      "href": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%BE%A4%E8%AE%BA",
+      "name": "群论"
+    },
+    {
+      "href": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6",
+      "name": "量子计算机科学"
+    },
+    {
+      "href": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%BC%B9%E6%80%A7%E4%B8%8E%E6%8E%A5%E8%A7%A6%E5%8A%9B%E5%AD%A6",
+      "name": "弹性与接触力学"
+    },
+    {
+      "href": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E5%9C%BA%E8%AE%BA",
+      "name": "量子场论"
+    },
+    {
+      "href": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86",
+      "name": "固体物理"
+    },
+    {
+      "href": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%8E%9F%E5%AD%90%E5%88%86%E5%AD%90%E7%89%A9%E7%90%86",
+      "name": "原子分子物理"
+    },
+    {
+      "href": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%89%E5%AD%A6",
+      "name": "光学"
+    },
+    {
+      "href": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86",
+      "name": "大学物理"
+    },
+    {
+      "href": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%93%B2%E5%AD%A6",
+      "name": "物理哲学"
+    },
+    {
+      "href": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A9%E4%BD%93%E7%89%A9%E7%90%86%E4%B8%8E%E5%AE%87%E5%AE%99%E5%AD%A6",
+      "name": "天体物理与宇宙学"
+    },
+    {
+      "href": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95",
+      "name": "数学物理方法"
+    },
+    {
+      "href": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%AB%98%E5%88%86%E5%AD%90%E7%89%A9%E7%90%86",
+      "name": "高分子物理"
+    },
+    {
+      "href": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%9D%90%E6%96%99%E7%A7%91%E5%AD%A6%E4%B8%8E%E5%B7%A5%E7%A8%8B",
+      "name": "材料科学与工程"
+    },
+    {
+      "href": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%8D%97",
+      "name": "学习指南"
+    },
+    {
+      "href": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E8%B4%B9%E6%9B%BC%E7%89%A9%E7%90%86%E5%AD%A6",
+      "name": "费曼物理学"
+    },
+    {
+      "href": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E5%B7%A5%E4%B8%8E%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF",
+      "name": "电工与电子技术"
+    },
+    {
+      "href": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86%E5%AD%A6%E5%9F%BA%E7%A1%80",
+      "name": "大学物理学基础"
+    },
+    {
+      "href": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%AE%9E%E9%AA%8C%E5%87%9D%E8%81%9A%E6%80%81%E7%89%A9%E7%90%86%E9%80%89%E8%AE%B2",
+      "name": "实验凝聚态物理选讲"
+    },
+    {
+      "href": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/String%20Theory",
+      "name": "String Theory"
+    },
+    {
+      "href": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%B7%A5%E5%85%B7%E4%B9%A6",
+      "name": "工具书"
+    },
+    {
+      "href": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/CASIO%20fx-999CN%20CW%20%E4%B8%AD%E6%96%87%E7%89%88%E7%A7%91%E5%AD%A6%E8%AE%A1%E7%AE%97%E5%99%A8%E5%9C%A8%E7%89%A9%E7%90%86%E8%AE%A1%E7%AE%97%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8",
+      "name": "CASIO fx-999CN CW 中文版科学计算器在物理计算中的应用"
+    },
+    {
+      "href": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%BC%95%E5%8A%9B%E7%90%86%E8%AE%BA%E9%80%89%E8%AE%B2",
+      "name": "引力理论选讲"
+    },
+    {
+      "href": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%B0%A4%E5%8A%9B%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6%E6%9C%9F%E6%9C%AB",
+      "name": "尤力量子力学期末"
+    },
+    {
+      "href": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%9F%BA%E7%A1%80%E6%8B%93%E6%89%91%E5%AD%A6",
+      "name": "基础拓扑学"
+    },
+    {
+      "href": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD",
+      "name": "量子人工智能"
+    },
+    {
+      "href": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E5%85%89%E5%AD%A6%E4%B8%8E%E5%8E%9F%E5%AD%90%E5%85%89%E5%AD%A6",
+      "name": "量子光学与原子光学"
+    },
+    {
+      "href": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9A%84%E5%8E%9F%E7%90%86%E5%92%8C%E6%9E%B6%E6%9E%84",
+      "name": "量子计算机的原理和架构"
+    }
+  ],
+  "sourceDirectories": [
+    {
+      "name": "Leonard Susskind's Theoretical Minimum",
+      "directoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/Leonard%20Susskind's%20Theoretical%20Minimum",
+      "originalSourcePaths": 4,
+      "mappedSourcePaths": 4,
+      "remainingSourcePaths": 0,
+      "currentDirectPDFs": 0,
+      "latestScopeBatch": 118,
+      "pathStatus": "bounded_source_path_mapping_recorded",
+      "bridges": [
+        {
+          "title": "README_三科教材迁移_第118批.md",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/Leonard%20Susskind's%20Theoretical%20Minimum/README_%E4%B8%89%E7%A7%91%E6%95%99%E6%9D%90%E8%BF%81%E7%A7%BB_%E7%AC%AC118%E6%89%B9.md",
+          "relativePath": "物理类/其他电子书/Leonard Susskind's Theoretical Minimum/README_三科教材迁移_第118批.md",
+          "bytes": 2277,
+          "sha256": "ce94c22a7daaec65a5fe817154abbcb003d3a740dc74158f93e6f450b5ff5de5"
+        }
+      ],
+      "ledgers": [
+        {
+          "title": "来源四书分类与SHA_第118批.json",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/Leonard%20Susskind's%20Theoretical%20Minimum/%E6%9D%A5%E6%BA%90%E5%9B%9B%E4%B9%A6%E5%88%86%E7%B1%BB%E4%B8%8ESHA_%E7%AC%AC118%E6%89%B9.json",
+          "relativePath": "物理类/其他电子书/Leonard Susskind's Theoretical Minimum/来源四书分类与SHA_第118批.json",
+          "bytes": 4970,
+          "sha256": "8bf5fb1984a350f318b329dd266a30a154d6ff6cbb6c97b28132a3d11920d349"
+        }
+      ]
+    },
+    {
+      "name": "分析力学",
+      "directoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E5%88%86%E6%9E%90%E5%8A%9B%E5%AD%A6",
+      "originalSourcePaths": 5,
+      "mappedSourcePaths": 5,
+      "remainingSourcePaths": 0,
+      "currentDirectPDFs": 0,
+      "latestScopeBatch": 125,
+      "pathStatus": "bounded_source_path_mapping_recorded",
+      "bridges": [
+        {
+          "title": "README_五资料归位闭环_第125批.md",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E5%88%86%E6%9E%90%E5%8A%9B%E5%AD%A6/README_%E4%BA%94%E8%B5%84%E6%96%99%E5%BD%92%E4%BD%8D%E9%97%AD%E7%8E%AF_%E7%AC%AC125%E6%89%B9.md",
+          "relativePath": "物理类/其他电子书/分析力学/README_五资料归位闭环_第125批.md",
+          "bytes": 2180,
+          "sha256": "eba331c2f219e4f0237e24c6b99b978be062e332ca59618c78721ec30da8fb4a"
+        }
+      ],
+      "ledgers": [
+        {
+          "title": "来源五资料归位闭环_第125批.json",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E5%88%86%E6%9E%90%E5%8A%9B%E5%AD%A6/%E6%9D%A5%E6%BA%90%E4%BA%94%E8%B5%84%E6%96%99%E5%BD%92%E4%BD%8D%E9%97%AD%E7%8E%AF_%E7%AC%AC125%E6%89%B9.json",
+          "relativePath": "物理类/其他电子书/分析力学/来源五资料归位闭环_第125批.json",
+          "bytes": 3822,
+          "sha256": "df02b4300b540d3506b20b79fb0acd957f2805d83001446facd2254e0f338954"
+        }
+      ]
+    },
+    {
+      "name": "力学专业书籍推荐",
+      "directoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E5%8A%9B%E5%AD%A6%E4%B8%93%E4%B8%9A%E4%B9%A6%E7%B1%8D%E6%8E%A8%E8%8D%90",
+      "originalSourcePaths": 23,
+      "mappedSourcePaths": 23,
+      "remainingSourcePaths": 0,
+      "currentDirectPDFs": 0,
+      "latestScopeBatch": 151,
+      "pathStatus": "bounded_source_path_mapping_recorded",
+      "bridges": [
+        {
+          "title": "README_高分子三教材与推荐来源闭环_第151批.md",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E5%8A%9B%E5%AD%A6%E4%B8%93%E4%B8%9A%E4%B9%A6%E7%B1%8D%E6%8E%A8%E8%8D%90/README_%E9%AB%98%E5%88%86%E5%AD%90%E4%B8%89%E6%95%99%E6%9D%90%E4%B8%8E%E6%8E%A8%E8%8D%90%E6%9D%A5%E6%BA%90%E9%97%AD%E7%8E%AF_%E7%AC%AC151%E6%89%B9.md",
+          "relativePath": "物理类/其他电子书/力学专业书籍推荐/README_高分子三教材与推荐来源闭环_第151批.md",
+          "bytes": 2313,
+          "sha256": "87f4a350fa0a39b946cab44f0c2beb5d6bad01f382634fd2cb25601bd264d058"
+        }
+      ],
+      "ledgers": [
+        {
+          "title": "力学专业书籍推荐23原件迁移闭环_第151批.json",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E5%8A%9B%E5%AD%A6%E4%B8%93%E4%B8%9A%E4%B9%A6%E7%B1%8D%E6%8E%A8%E8%8D%90/%E5%8A%9B%E5%AD%A6%E4%B8%93%E4%B8%9A%E4%B9%A6%E7%B1%8D%E6%8E%A8%E8%8D%9023%E5%8E%9F%E4%BB%B6%E8%BF%81%E7%A7%BB%E9%97%AD%E7%8E%AF_%E7%AC%AC151%E6%89%B9.json",
+          "relativePath": "物理类/其他电子书/力学专业书籍推荐/力学专业书籍推荐23原件迁移闭环_第151批.json",
+          "bytes": 20281,
+          "sha256": "075ae40ab56fc24d63c51084217e75ea9335968d8b2a0bda503879625f9dda96"
+        }
+      ]
+    },
+    {
+      "name": "原子分子物理",
+      "directoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E5%8E%9F%E5%AD%90%E5%88%86%E5%AD%90%E7%89%A9%E7%90%86",
+      "originalSourcePaths": 2,
+      "mappedSourcePaths": 2,
+      "remainingSourcePaths": 0,
+      "currentDirectPDFs": 0,
+      "latestScopeBatch": 188,
+      "pathStatus": "bounded_source_path_mapping_recorded",
+      "bridges": [
+        {
+          "title": "README_原子超冷来源迁移_第188批.md",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E5%8E%9F%E5%AD%90%E5%88%86%E5%AD%90%E7%89%A9%E7%90%86/README_%E5%8E%9F%E5%AD%90%E8%B6%85%E5%86%B7%E6%9D%A5%E6%BA%90%E8%BF%81%E7%A7%BB_%E7%AC%AC188%E6%89%B9.md",
+          "relativePath": "物理类/其他电子书/原子分子物理/README_原子超冷来源迁移_第188批.md",
+          "bytes": 1502,
+          "sha256": "6f41bc920225a3e559f1b1834b8aaadf42f31b115d7ea5c8b03a932fdfe5563e"
+        }
+      ],
+      "ledgers": [
+        {
+          "title": "来源原子超冷分类与SHA_第188批.json",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E5%8E%9F%E5%AD%90%E5%88%86%E5%AD%90%E7%89%A9%E7%90%86/%E6%9D%A5%E6%BA%90%E5%8E%9F%E5%AD%90%E8%B6%85%E5%86%B7%E5%88%86%E7%B1%BB%E4%B8%8ESHA_%E7%AC%AC188%E6%89%B9.json",
+          "relativePath": "物理类/其他电子书/原子分子物理/来源原子超冷分类与SHA_第188批.json",
+          "bytes": 4064,
+          "sha256": "b62487f62527b9170fe94cd5e8ac14f78e441e4c67311d89827e71fe85ac39b5"
+        }
+      ]
+    },
+    {
+      "name": "固体物理",
+      "directoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86",
+      "originalSourcePaths": 1,
+      "mappedSourcePaths": 1,
+      "remainingSourcePaths": 0,
+      "currentDirectPDFs": 0,
+      "latestScopeBatch": 133,
+      "pathStatus": "bounded_source_path_mapping_recorded",
+      "bridges": [
+        {
+          "title": "README_Snoke固体物理迁移_第133批.md",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86/README_Snoke%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86%E8%BF%81%E7%A7%BB_%E7%AC%AC133%E6%89%B9.md",
+          "relativePath": "物理类/其他电子书/固体物理/README_Snoke固体物理迁移_第133批.md",
+          "bytes": 1314,
+          "sha256": "fdaf2a241caa3ce5f6dd5b9fb74fac7bc8e9db24a5315fcd6e1a73c31e55a95e"
+        }
+      ],
+      "ledgers": [
+        {
+          "title": "来源Snoke固体物理第二版及SHA_第133批.json",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86/%E6%9D%A5%E6%BA%90Snoke%E5%9B%BA%E4%BD%93%E7%89%A9%E7%90%86%E7%AC%AC%E4%BA%8C%E7%89%88%E5%8F%8ASHA_%E7%AC%AC133%E6%89%B9.json",
+          "relativePath": "物理类/其他电子书/固体物理/来源Snoke固体物理第二版及SHA_第133批.json",
+          "bytes": 1712,
+          "sha256": "89afb369151338e6a79b5476d0cad036d0f3a4977073e9a8134946c805993168"
+        }
+      ]
+    },
+    {
+      "name": "大题典第2版",
+      "directoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E5%A4%A7%E9%A2%98%E5%85%B8%E7%AC%AC2%E7%89%88",
+      "originalSourcePaths": 10,
+      "mappedSourcePaths": 10,
+      "remainingSourcePaths": 0,
+      "currentDirectPDFs": 0,
+      "latestScopeBatch": 204,
+      "pathStatus": "bounded_source_path_mapping_recorded",
+      "bridges": [
+        {
+          "title": "README_量子上下册与十来源闭环_第204批.md",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E5%A4%A7%E9%A2%98%E5%85%B8%E7%AC%AC2%E7%89%88/README_%E9%87%8F%E5%AD%90%E4%B8%8A%E4%B8%8B%E5%86%8C%E4%B8%8E%E5%8D%81%E6%9D%A5%E6%BA%90%E9%97%AD%E7%8E%AF_%E7%AC%AC204%E6%89%B9.md",
+          "relativePath": "物理类/其他电子书/大题典第2版/README_量子上下册与十来源闭环_第204批.md",
+          "bytes": 3555,
+          "sha256": "74f05cfce93375b5c5b51ad9c1f775f8044ac4530c1a867e77828817ef9f6d24"
+        }
+      ],
+      "ledgers": [
+        {
+          "title": "大题典十来源去向闭环_第204批.json",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E5%A4%A7%E9%A2%98%E5%85%B8%E7%AC%AC2%E7%89%88/%E5%A4%A7%E9%A2%98%E5%85%B8%E5%8D%81%E6%9D%A5%E6%BA%90%E5%8E%BB%E5%90%91%E9%97%AD%E7%8E%AF_%E7%AC%AC204%E6%89%B9.json",
+          "relativePath": "物理类/其他电子书/大题典第2版/大题典十来源去向闭环_第204批.json",
+          "bytes": 19049,
+          "sha256": "ea863b13ac500de4cc581cd46372449b3f3a5e63810bc97dfbbb854f3b5b1042"
+        }
+      ]
+    },
+    {
+      "name": "天体物理与宇宙学",
+      "directoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E5%A4%A9%E4%BD%93%E7%89%A9%E7%90%86%E4%B8%8E%E5%AE%87%E5%AE%99%E5%AD%A6",
+      "originalSourcePaths": 3,
+      "mappedSourcePaths": 3,
+      "remainingSourcePaths": 0,
+      "currentDirectPDFs": 0,
+      "latestScopeBatch": 184,
+      "pathStatus": "bounded_source_path_mapping_recorded",
+      "bridges": [
+        {
+          "title": "README_天文宇宙学来源迁移_第184批.md",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E5%A4%A9%E4%BD%93%E7%89%A9%E7%90%86%E4%B8%8E%E5%AE%87%E5%AE%99%E5%AD%A6/README_%E5%A4%A9%E6%96%87%E5%AE%87%E5%AE%99%E5%AD%A6%E6%9D%A5%E6%BA%90%E8%BF%81%E7%A7%BB_%E7%AC%AC184%E6%89%B9.md",
+          "relativePath": "物理类/其他电子书/天体物理与宇宙学/README_天文宇宙学来源迁移_第184批.md",
+          "bytes": 1969,
+          "sha256": "5fd93f5007d0f6a535c47dffcc386dc2bcdff8e5ebec28277091551bf4dd1054"
+        }
+      ],
+      "ledgers": [
+        {
+          "title": "来源天文宇宙学分类与SHA_第184批.json",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E5%A4%A9%E4%BD%93%E7%89%A9%E7%90%86%E4%B8%8E%E5%AE%87%E5%AE%99%E5%AD%A6/%E6%9D%A5%E6%BA%90%E5%A4%A9%E6%96%87%E5%AE%87%E5%AE%99%E5%AD%A6%E5%88%86%E7%B1%BB%E4%B8%8ESHA_%E7%AC%AC184%E6%89%B9.json",
+          "relativePath": "物理类/其他电子书/天体物理与宇宙学/来源天文宇宙学分类与SHA_第184批.json",
+          "bytes": 6617,
+          "sha256": "b90fd84b12e230f2f3a5648b8a8e4aaa91716366931ced30499377ccaca03ad5"
+        }
+      ]
+    },
+    {
+      "name": "数学",
+      "directoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E6%95%B0%E5%AD%A6",
+      "originalSourcePaths": 30,
+      "mappedSourcePaths": 30,
+      "remainingSourcePaths": 0,
+      "currentDirectPDFs": 0,
+      "latestScopeBatch": 182,
+      "pathStatus": "bounded_source_path_mapping_recorded",
+      "bridges": [
+        {
+          "title": "README_复分析来源迁移与数学闭环_第182批.md",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E6%95%B0%E5%AD%A6/README_%E5%A4%8D%E5%88%86%E6%9E%90%E6%9D%A5%E6%BA%90%E8%BF%81%E7%A7%BB%E4%B8%8E%E6%95%B0%E5%AD%A6%E9%97%AD%E7%8E%AF_%E7%AC%AC182%E6%89%B9.md",
+          "relativePath": "物理类/其他电子书/数学/README_复分析来源迁移与数学闭环_第182批.md",
+          "bytes": 1972,
+          "sha256": "acbf0192b6c4e0f1d01519c90bc865cc8823c2e72f4db2fc309fc8c5e578acfc"
+        }
+      ],
+      "ledgers": [
+        {
+          "title": "数学三十来源去向闭环_第182批.json",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E6%95%B0%E5%AD%A6/%E6%95%B0%E5%AD%A6%E4%B8%89%E5%8D%81%E6%9D%A5%E6%BA%90%E5%8E%BB%E5%90%91%E9%97%AD%E7%8E%AF_%E7%AC%AC182%E6%89%B9.json",
+          "relativePath": "物理类/其他电子书/数学/数学三十来源去向闭环_第182批.json",
+          "bytes": 34355,
+          "sha256": "6ed05682cdfae4f744722d26c77075bc49c38b03d8224004430e58f74ec3c638"
+        }
+      ]
+    },
+    {
+      "name": "新概念物理教程",
+      "directoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E6%96%B0%E6%A6%82%E5%BF%B5%E7%89%A9%E7%90%86%E6%95%99%E7%A8%8B",
+      "originalSourcePaths": 5,
+      "mappedSourcePaths": 5,
+      "remainingSourcePaths": 0,
+      "currentDirectPDFs": 0,
+      "latestScopeBatch": 194,
+      "pathStatus": "bounded_source_path_mapping_recorded",
+      "bridges": [
+        {
+          "title": "README_新概念五来源闭环_第194批.md",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E6%96%B0%E6%A6%82%E5%BF%B5%E7%89%A9%E7%90%86%E6%95%99%E7%A8%8B/README_%E6%96%B0%E6%A6%82%E5%BF%B5%E4%BA%94%E6%9D%A5%E6%BA%90%E9%97%AD%E7%8E%AF_%E7%AC%AC194%E6%89%B9.md",
+          "relativePath": "物理类/其他电子书/新概念物理教程/README_新概念五来源闭环_第194批.md",
+          "bytes": 3296,
+          "sha256": "57ef83fee16c39990cb20df29be5521e572c68badee0ca15690c52ebc27a0ab3"
+        }
+      ],
+      "ledgers": [
+        {
+          "title": "来源新概念五册去向闭环_第194批.json",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E6%96%B0%E6%A6%82%E5%BF%B5%E7%89%A9%E7%90%86%E6%95%99%E7%A8%8B/%E6%9D%A5%E6%BA%90%E6%96%B0%E6%A6%82%E5%BF%B5%E4%BA%94%E5%86%8C%E5%8E%BB%E5%90%91%E9%97%AD%E7%8E%AF_%E7%AC%AC194%E6%89%B9.json",
+          "relativePath": "物理类/其他电子书/新概念物理教程/来源新概念五册去向闭环_第194批.json",
+          "bytes": 8898,
+          "sha256": "1ea8cf86910b93634ea29f8262abebab6f1eadb6832178272ed98b2dab4f33eb"
+        }
+      ]
+    },
+    {
+      "name": "普通物理",
+      "directoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E6%99%AE%E9%80%9A%E7%89%A9%E7%90%86",
+      "originalSourcePaths": 8,
+      "mappedSourcePaths": 8,
+      "remainingSourcePaths": 0,
+      "currentDirectPDFs": 0,
+      "latestScopeBatch": 156,
+      "pathStatus": "bounded_source_path_mapping_recorded",
+      "bridges": [
+        {
+          "title": "README_普通物理热学力学余项与闭环_第156批.md",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E6%99%AE%E9%80%9A%E7%89%A9%E7%90%86/README_%E6%99%AE%E9%80%9A%E7%89%A9%E7%90%86%E7%83%AD%E5%AD%A6%E5%8A%9B%E5%AD%A6%E4%BD%99%E9%A1%B9%E4%B8%8E%E9%97%AD%E7%8E%AF_%E7%AC%AC156%E6%89%B9.md",
+          "relativePath": "物理类/其他电子书/普通物理/README_普通物理热学力学余项与闭环_第156批.md",
+          "bytes": 3012,
+          "sha256": "fb7b51d00bacb318e721645530e5ef8fc1fa88650c7931b216c7c493f7f706a1"
+        }
+      ],
+      "ledgers": [
+        {
+          "title": "普通物理来源八原件去向闭环_第156批.json",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E6%99%AE%E9%80%9A%E7%89%A9%E7%90%86/%E6%99%AE%E9%80%9A%E7%89%A9%E7%90%86%E6%9D%A5%E6%BA%90%E5%85%AB%E5%8E%9F%E4%BB%B6%E5%8E%BB%E5%90%91%E9%97%AD%E7%8E%AF_%E7%AC%AC156%E6%89%B9.json",
+          "relativePath": "物理类/其他电子书/普通物理/普通物理来源八原件去向闭环_第156批.json",
+          "bytes": 8062,
+          "sha256": "ec0eb9b151c0f49fe076600a9e94237af85aa46a3ca2afa23548282794c4a6fc"
+        }
+      ]
+    },
+    {
+      "name": "朗道",
+      "directoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E6%9C%97%E9%81%93",
+      "originalSourcePaths": 13,
+      "mappedSourcePaths": 13,
+      "remainingSourcePaths": 0,
+      "currentDirectPDFs": 0,
+      "latestScopeBatch": 214,
+      "pathStatus": "bounded_source_path_mapping_recorded",
+      "bridges": [
+        {
+          "title": "README_朗道十三来源路径闭环_第214批.md",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E6%9C%97%E9%81%93/README_%E6%9C%97%E9%81%93%E5%8D%81%E4%B8%89%E6%9D%A5%E6%BA%90%E8%B7%AF%E5%BE%84%E9%97%AD%E7%8E%AF_%E7%AC%AC214%E6%89%B9.md",
+          "relativePath": "物理类/其他电子书/朗道/README_朗道十三来源路径闭环_第214批.md",
+          "bytes": 3417,
+          "sha256": "36d0a75490d433aa05cfb3485fdd029576cd26a15d250b42867c60b9bfaa2709"
+        }
+      ],
+      "ledgers": [
+        {
+          "title": "朗道十三来源去向闭环_第214批.json",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E6%9C%97%E9%81%93/%E6%9C%97%E9%81%93%E5%8D%81%E4%B8%89%E6%9D%A5%E6%BA%90%E5%8E%BB%E5%90%91%E9%97%AD%E7%8E%AF_%E7%AC%AC214%E6%89%B9.json",
+          "relativePath": "物理类/其他电子书/朗道/朗道十三来源去向闭环_第214批.json",
+          "bytes": 31708,
+          "sha256": "43f0ec342cbb366b0a70a4cb7f5c5d6ca1a215ecb5a27b7c56f60d18b8907585"
+        }
+      ]
+    },
+    {
+      "name": "朗道理论物理学教程",
+      "directoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E6%9C%97%E9%81%93%E7%90%86%E8%AE%BA%E7%89%A9%E7%90%86%E5%AD%A6%E6%95%99%E7%A8%8B",
+      "originalSourcePaths": 10,
+      "mappedSourcePaths": 10,
+      "remainingSourcePaths": 0,
+      "currentDirectPDFs": 0,
+      "latestScopeBatch": 224,
+      "pathStatus": "bounded_source_path_mapping_recorded",
+      "bridges": [
+        {
+          "title": "README_第二朗道十来源路径闭环_第224批.md",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E6%9C%97%E9%81%93%E7%90%86%E8%AE%BA%E7%89%A9%E7%90%86%E5%AD%A6%E6%95%99%E7%A8%8B/README_%E7%AC%AC%E4%BA%8C%E6%9C%97%E9%81%93%E5%8D%81%E6%9D%A5%E6%BA%90%E8%B7%AF%E5%BE%84%E9%97%AD%E7%8E%AF_%E7%AC%AC224%E6%89%B9.md",
+          "relativePath": "物理类/其他电子书/朗道理论物理学教程/README_第二朗道十来源路径闭环_第224批.md",
+          "bytes": 3958,
+          "sha256": "a38c86474f056cfb88c8dd5fc721fc59a7aaa7a97e5825e21e414fa704e93ed0"
+        }
+      ],
+      "ledgers": [
+        {
+          "title": "第二朗道十来源去向闭环_第224批.json",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E6%9C%97%E9%81%93%E7%90%86%E8%AE%BA%E7%89%A9%E7%90%86%E5%AD%A6%E6%95%99%E7%A8%8B/%E7%AC%AC%E4%BA%8C%E6%9C%97%E9%81%93%E5%8D%81%E6%9D%A5%E6%BA%90%E5%8E%BB%E5%90%91%E9%97%AD%E7%8E%AF_%E7%AC%AC224%E6%89%B9.json",
+          "relativePath": "物理类/其他电子书/朗道理论物理学教程/第二朗道十来源去向闭环_第224批.json",
+          "bytes": 22911,
+          "sha256": "5cce5f4214d8678bd584590fd6c7a0fc897f721752fa317cb7b96253062523bd"
+        }
+      ]
+    },
+    {
+      "name": "物理哲学",
+      "directoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E7%89%A9%E7%90%86%E5%93%B2%E5%AD%A6",
+      "originalSourcePaths": 2,
+      "mappedSourcePaths": 2,
+      "remainingSourcePaths": 0,
+      "currentDirectPDFs": 0,
+      "latestScopeBatch": 186,
+      "pathStatus": "bounded_source_path_mapping_recorded",
+      "bridges": [
+        {
+          "title": "README_物理哲学来源迁移_第186批.md",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E7%89%A9%E7%90%86%E5%93%B2%E5%AD%A6/README_%E7%89%A9%E7%90%86%E5%93%B2%E5%AD%A6%E6%9D%A5%E6%BA%90%E8%BF%81%E7%A7%BB_%E7%AC%AC186%E6%89%B9.md",
+          "relativePath": "物理类/其他电子书/物理哲学/README_物理哲学来源迁移_第186批.md",
+          "bytes": 2091,
+          "sha256": "74378de2f59fbc8406b3633287c3efc821700e80389e6e33c8dc8703758c98fc"
+        }
+      ],
+      "ledgers": [
+        {
+          "title": "来源物理哲学分类与SHA_第186批.json",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E7%89%A9%E7%90%86%E5%93%B2%E5%AD%A6/%E6%9D%A5%E6%BA%90%E7%89%A9%E7%90%86%E5%93%B2%E5%AD%A6%E5%88%86%E7%B1%BB%E4%B8%8ESHA_%E7%AC%AC186%E6%89%B9.json",
+          "relativePath": "物理类/其他电子书/物理哲学/来源物理哲学分类与SHA_第186批.json",
+          "bytes": 4598,
+          "sha256": "b5568a831a8ecd8625392133ba33f2b1ef067d964920aae6666f635f33a591e0"
+        }
+      ]
+    },
+    {
+      "name": "现代物理学基础丛书",
+      "directoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E7%8E%B0%E4%BB%A3%E7%89%A9%E7%90%86%E5%AD%A6%E5%9F%BA%E7%A1%80%E4%B8%9B%E4%B9%A6",
+      "originalSourcePaths": 8,
+      "mappedSourcePaths": 7,
+      "remainingSourcePaths": 1,
+      "currentDirectPDFs": 1,
+      "latestScopeBatch": 252,
+      "pathStatus": "partial",
+      "bridges": [
+        {
+          "title": "README_群论经典电动力学两来源迁移_第246批.md",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E7%8E%B0%E4%BB%A3%E7%89%A9%E7%90%86%E5%AD%A6%E5%9F%BA%E7%A1%80%E4%B8%9B%E4%B9%A6/README_%E7%BE%A4%E8%AE%BA%E7%BB%8F%E5%85%B8%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6%E4%B8%A4%E6%9D%A5%E6%BA%90%E8%BF%81%E7%A7%BB_%E7%AC%AC246%E6%89%B9.md",
+          "relativePath": "物理类/其他电子书/现代物理学基础丛书/README_群论经典电动力学两来源迁移_第246批.md",
+          "bytes": 3490,
+          "sha256": "0c3502677482b16177fc0fa54663a749d0eab39d0c1a565f40d0c20548d04747"
+        },
+        {
+          "title": "README_引力理论上下两来源迁移_第248批.md",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E7%8E%B0%E4%BB%A3%E7%89%A9%E7%90%86%E5%AD%A6%E5%9F%BA%E7%A1%80%E4%B8%9B%E4%B9%A6/README_%E5%BC%95%E5%8A%9B%E7%90%86%E8%AE%BA%E4%B8%8A%E4%B8%8B%E4%B8%A4%E6%9D%A5%E6%BA%90%E8%BF%81%E7%A7%BB_%E7%AC%AC248%E6%89%B9.md",
+          "relativePath": "物理类/其他电子书/现代物理学基础丛书/README_引力理论上下两来源迁移_第248批.md",
+          "bytes": 3182,
+          "sha256": "802d1948e4a2cafe2306e2e5ef2bbb0a715ddbdc0a8ff899843f5fdc5f2529e5"
+        },
+        {
+          "title": "README_实验统计工程电磁两来源迁移_第250批.md",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E7%8E%B0%E4%BB%A3%E7%89%A9%E7%90%86%E5%AD%A6%E5%9F%BA%E7%A1%80%E4%B8%9B%E4%B9%A6/README_%E5%AE%9E%E9%AA%8C%E7%BB%9F%E8%AE%A1%E5%B7%A5%E7%A8%8B%E7%94%B5%E7%A3%81%E4%B8%A4%E6%9D%A5%E6%BA%90%E8%BF%81%E7%A7%BB_%E7%AC%AC250%E6%89%B9.md",
+          "relativePath": "物理类/其他电子书/现代物理学基础丛书/README_实验统计工程电磁两来源迁移_第250批.md",
+          "bytes": 3858,
+          "sha256": "6d1ee997b695c9c31ae9d8b0d56705b215458a6439fbd1a1dc23e5f4eda43e04"
+        },
+        {
+          "title": "README_量子物理新进展来源迁移_第252批.md",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E7%8E%B0%E4%BB%A3%E7%89%A9%E7%90%86%E5%AD%A6%E5%9F%BA%E7%A1%80%E4%B8%9B%E4%B9%A6/README_%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E6%96%B0%E8%BF%9B%E5%B1%95%E6%9D%A5%E6%BA%90%E8%BF%81%E7%A7%BB_%E7%AC%AC252%E6%89%B9.md",
+          "relativePath": "物理类/其他电子书/现代物理学基础丛书/README_量子物理新进展来源迁移_第252批.md",
+          "bytes": 2432,
+          "sha256": "f9d531e1ce9db0154f513a0438f33b561918040917755c31d0ebb4de8cfbd090"
+        }
+      ],
+      "ledgers": [
+        {
+          "title": "群论经典电动力学两来源分类与SHA_第246批.json",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E7%8E%B0%E4%BB%A3%E7%89%A9%E7%90%86%E5%AD%A6%E5%9F%BA%E7%A1%80%E4%B8%9B%E4%B9%A6/%E7%BE%A4%E8%AE%BA%E7%BB%8F%E5%85%B8%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6%E4%B8%A4%E6%9D%A5%E6%BA%90%E5%88%86%E7%B1%BB%E4%B8%8ESHA_%E7%AC%AC246%E6%89%B9.json",
+          "relativePath": "物理类/其他电子书/现代物理学基础丛书/群论经典电动力学两来源分类与SHA_第246批.json",
+          "bytes": 5843,
+          "sha256": "2f0e703476e35380ee94cb28357f1ca3632d5e64e31307228afd1bcf57c11600"
+        },
+        {
+          "title": "引力理论上下两来源分类与SHA_第248批.json",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E7%8E%B0%E4%BB%A3%E7%89%A9%E7%90%86%E5%AD%A6%E5%9F%BA%E7%A1%80%E4%B8%9B%E4%B9%A6/%E5%BC%95%E5%8A%9B%E7%90%86%E8%AE%BA%E4%B8%8A%E4%B8%8B%E4%B8%A4%E6%9D%A5%E6%BA%90%E5%88%86%E7%B1%BB%E4%B8%8ESHA_%E7%AC%AC248%E6%89%B9.json",
+          "relativePath": "物理类/其他电子书/现代物理学基础丛书/引力理论上下两来源分类与SHA_第248批.json",
+          "bytes": 6067,
+          "sha256": "b747010e126de79ffa7ddc8fad4bdb9bef901c3a24910fcd0d91e3317dae1c49"
+        },
+        {
+          "title": "实验统计工程电磁两来源分类与SHA_第250批.json",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E7%8E%B0%E4%BB%A3%E7%89%A9%E7%90%86%E5%AD%A6%E5%9F%BA%E7%A1%80%E4%B8%9B%E4%B9%A6/%E5%AE%9E%E9%AA%8C%E7%BB%9F%E8%AE%A1%E5%B7%A5%E7%A8%8B%E7%94%B5%E7%A3%81%E4%B8%A4%E6%9D%A5%E6%BA%90%E5%88%86%E7%B1%BB%E4%B8%8ESHA_%E7%AC%AC250%E6%89%B9.json",
+          "relativePath": "物理类/其他电子书/现代物理学基础丛书/实验统计工程电磁两来源分类与SHA_第250批.json",
+          "bytes": 6332,
+          "sha256": "98f6ecaa99e8458f197b4c5d8c4f869cf3b9226aadebaeedb76d2974a78e5298"
+        },
+        {
+          "title": "量子物理新进展来源分类与SHA_第252批.json",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E7%8E%B0%E4%BB%A3%E7%89%A9%E7%90%86%E5%AD%A6%E5%9F%BA%E7%A1%80%E4%B8%9B%E4%B9%A6/%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E6%96%B0%E8%BF%9B%E5%B1%95%E6%9D%A5%E6%BA%90%E5%88%86%E7%B1%BB%E4%B8%8ESHA_%E7%AC%AC252%E6%89%B9.json",
+          "relativePath": "物理类/其他电子书/现代物理学基础丛书/量子物理新进展来源分类与SHA_第252批.json",
+          "bytes": 3923,
+          "sha256": "7f53e55bd9a2ed636778dd3f9126fd48c98bfe4a9c6f55c7e4e41b5fa9dd5688"
+        }
+      ]
+    },
+    {
+      "name": "经典场论",
+      "directoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E7%BB%8F%E5%85%B8%E5%9C%BA%E8%AE%BA",
+      "originalSourcePaths": 10,
+      "mappedSourcePaths": 10,
+      "remainingSourcePaths": 0,
+      "currentDirectPDFs": 0,
+      "latestScopeBatch": 131,
+      "pathStatus": "bounded_source_path_mapping_recorded",
+      "bridges": [
+        {
+          "title": "README_旋量与时空迁移及来源闭环_第131批.md",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E7%BB%8F%E5%85%B8%E5%9C%BA%E8%AE%BA/README_%E6%97%8B%E9%87%8F%E4%B8%8E%E6%97%B6%E7%A9%BA%E8%BF%81%E7%A7%BB%E5%8F%8A%E6%9D%A5%E6%BA%90%E9%97%AD%E7%8E%AF_%E7%AC%AC131%E6%89%B9.md",
+          "relativePath": "物理类/其他电子书/经典场论/README_旋量与时空迁移及来源闭环_第131批.md",
+          "bytes": 1764,
+          "sha256": "48304797fd39b90358b98fd6affa4cd9908a1f4deb55300a6ca3be9c779a999b"
+        }
+      ],
+      "ledgers": [
+        {
+          "title": "经典场论来源10原件迁移闭环_第131批.json",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E7%BB%8F%E5%85%B8%E5%9C%BA%E8%AE%BA/%E7%BB%8F%E5%85%B8%E5%9C%BA%E8%AE%BA%E6%9D%A5%E6%BA%9010%E5%8E%9F%E4%BB%B6%E8%BF%81%E7%A7%BB%E9%97%AD%E7%8E%AF_%E7%AC%AC131%E6%89%B9.json",
+          "relativePath": "物理类/其他电子书/经典场论/经典场论来源10原件迁移闭环_第131批.json",
+          "bytes": 10513,
+          "sha256": "80f826ed586412d74bb2ce316a9d7b4024049fb2335bd3b03902d2bb7b01b32e"
+        }
+      ]
+    },
+    {
+      "name": "统计物理",
+      "directoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E7%BB%9F%E8%AE%A1%E7%89%A9%E7%90%86",
+      "originalSourcePaths": 8,
+      "mappedSourcePaths": 8,
+      "remainingSourcePaths": 0,
+      "currentDirectPDFs": 0,
+      "latestScopeBatch": 139,
+      "pathStatus": "bounded_source_path_mapping_recorded",
+      "bridges": [
+        {
+          "title": "README_热统教材PSI讲义与来源闭环_第139批.md",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E7%BB%9F%E8%AE%A1%E7%89%A9%E7%90%86/README_%E7%83%AD%E7%BB%9F%E6%95%99%E6%9D%90PSI%E8%AE%B2%E4%B9%89%E4%B8%8E%E6%9D%A5%E6%BA%90%E9%97%AD%E7%8E%AF_%E7%AC%AC139%E6%89%B9.md",
+          "relativePath": "物理类/其他电子书/统计物理/README_热统教材PSI讲义与来源闭环_第139批.md",
+          "bytes": 1730,
+          "sha256": "0cc42ba9832b3aee97544897f1a102bdc54f04dd51b3e9fee9b6849f48788e6c"
+        }
+      ],
+      "ledgers": [
+        {
+          "title": "统计物理来源8原件迁移闭环_第139批.json",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E7%BB%9F%E8%AE%A1%E7%89%A9%E7%90%86/%E7%BB%9F%E8%AE%A1%E7%89%A9%E7%90%86%E6%9D%A5%E6%BA%908%E5%8E%9F%E4%BB%B6%E8%BF%81%E7%A7%BB%E9%97%AD%E7%8E%AF_%E7%AC%AC139%E6%89%B9.json",
+          "relativePath": "物理类/其他电子书/统计物理/统计物理来源8原件迁移闭环_第139批.json",
+          "bytes": 8266,
+          "sha256": "61e61878b7a279ab79e63d421bf1d13dead10295033b882037d2a4613d987093"
+        }
+      ]
+    },
+    {
+      "name": "量子力学",
+      "directoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6",
+      "originalSourcePaths": 21,
+      "mappedSourcePaths": 21,
+      "remainingSourcePaths": 0,
+      "currentDirectPDFs": 0,
+      "latestScopeBatch": 244,
+      "pathStatus": "bounded_source_path_mapping_recorded",
+      "bridges": [
+        {
+          "title": "README_量子二十一来源闭环_第244批.md",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/README_%E9%87%8F%E5%AD%90%E4%BA%8C%E5%8D%81%E4%B8%80%E6%9D%A5%E6%BA%90%E9%97%AD%E7%8E%AF_%E7%AC%AC244%E6%89%B9.md",
+          "relativePath": "物理类/其他电子书/量子力学/README_量子二十一来源闭环_第244批.md",
+          "bytes": 3851,
+          "sha256": "f687cc0742ed4f93e9cfa7ec184b186ff105683d8ff0fc2d6c0d42807993daea"
+        }
+      ],
+      "ledgers": [
+        {
+          "title": "量子二十一来源去向闭环_第244批.json",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/%E9%87%8F%E5%AD%90%E4%BA%8C%E5%8D%81%E4%B8%80%E6%9D%A5%E6%BA%90%E5%8E%BB%E5%90%91%E9%97%AD%E7%8E%AF_%E7%AC%AC244%E6%89%B9.json",
+          "relativePath": "物理类/其他电子书/量子力学/量子二十一来源去向闭环_第244批.json",
+          "bytes": 44240,
+          "sha256": "2de51eeef29aff25f9e9b22aa7fd8c00b391a569ed585139a93fd387a96c3f03"
+        }
+      ]
+    },
+    {
+      "name": "量子场论",
+      "directoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E9%87%8F%E5%AD%90%E5%9C%BA%E8%AE%BA",
+      "originalSourcePaths": 12,
+      "mappedSourcePaths": 12,
+      "remainingSourcePaths": 0,
+      "currentDirectPDFs": 0,
+      "latestScopeBatch": 169,
+      "pathStatus": "bounded_source_path_mapping_recorded",
+      "bridges": [
+        {
+          "title": "README_剩余资料与十二原件闭环_第169批.md",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E9%87%8F%E5%AD%90%E5%9C%BA%E8%AE%BA/README_%E5%89%A9%E4%BD%99%E8%B5%84%E6%96%99%E4%B8%8E%E5%8D%81%E4%BA%8C%E5%8E%9F%E4%BB%B6%E9%97%AD%E7%8E%AF_%E7%AC%AC169%E6%89%B9.md",
+          "relativePath": "物理类/其他电子书/量子场论/README_剩余资料与十二原件闭环_第169批.md",
+          "bytes": 1294,
+          "sha256": "67165efb2a4123911ddc9b0e669d87edb519ed69a6e614999df66eab6fa93816"
+        }
+      ],
+      "ledgers": [
+        {
+          "title": "十二原件迁移闭环_第169批.json",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E9%87%8F%E5%AD%90%E5%9C%BA%E8%AE%BA/%E5%8D%81%E4%BA%8C%E5%8E%9F%E4%BB%B6%E8%BF%81%E7%A7%BB%E9%97%AD%E7%8E%AF_%E7%AC%AC169%E6%89%B9.json",
+          "relativePath": "物理类/其他电子书/量子场论/十二原件迁移闭环_第169批.json",
+          "bytes": 15235,
+          "sha256": "365137f1f1107fd42e9ad45e69b10e50037abd3a9dd0ef13ff5406f5fe172422"
+        }
+      ]
+    },
+    {
+      "name": "量子多体",
+      "directoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E9%87%8F%E5%AD%90%E5%A4%9A%E4%BD%93",
+      "originalSourcePaths": 1,
+      "mappedSourcePaths": 1,
+      "remainingSourcePaths": 0,
+      "currentDirectPDFs": 0,
+      "latestScopeBatch": 143,
+      "pathStatus": "bounded_source_path_mapping_recorded",
+      "bridges": [
+        {
+          "title": "README_量子多体参考书迁移_第143批.md",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E9%87%8F%E5%AD%90%E5%A4%9A%E4%BD%93/README_%E9%87%8F%E5%AD%90%E5%A4%9A%E4%BD%93%E5%8F%82%E8%80%83%E4%B9%A6%E8%BF%81%E7%A7%BB_%E7%AC%AC143%E6%89%B9.md",
+          "relativePath": "物理类/其他电子书/量子多体/README_量子多体参考书迁移_第143批.md",
+          "bytes": 1303,
+          "sha256": "67bf03905c81574b0fe03e70102b62051f0a59edb1c0ec601d5fba686a168df5"
+        }
+      ],
+      "ledgers": [
+        {
+          "title": "来源量子信息与多体书目及SHA_第143批.json",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E9%87%8F%E5%AD%90%E5%A4%9A%E4%BD%93/%E6%9D%A5%E6%BA%90%E9%87%8F%E5%AD%90%E4%BF%A1%E6%81%AF%E4%B8%8E%E5%A4%9A%E4%BD%93%E4%B9%A6%E7%9B%AE%E5%8F%8ASHA_%E7%AC%AC143%E6%89%B9.json",
+          "relativePath": "物理类/其他电子书/量子多体/来源量子信息与多体书目及SHA_第143批.json",
+          "bytes": 1660,
+          "sha256": "cef7c8ee67848746dd049cac7bbffa8dad7a3c6e19271b6d52d09968e7ecbf42"
+        }
+      ]
+    },
+    {
+      "name": "量子计算",
+      "directoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97",
+      "originalSourcePaths": 5,
+      "mappedSourcePaths": 5,
+      "remainingSourcePaths": 0,
+      "currentDirectPDFs": 0,
+      "latestScopeBatch": 190,
+      "pathStatus": "bounded_source_path_mapping_recorded",
+      "bridges": [
+        {
+          "title": "README_量子计算来源迁移_第190批.md",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97/README_%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%E6%9D%A5%E6%BA%90%E8%BF%81%E7%A7%BB_%E7%AC%AC190%E6%89%B9.md",
+          "relativePath": "物理类/其他电子书/量子计算/README_量子计算来源迁移_第190批.md",
+          "bytes": 2669,
+          "sha256": "b7bf53f705856a21000b4ac75fb80b04ac5940ab0d4f7082995c01680b2babe4"
+        }
+      ],
+      "ledgers": [
+        {
+          "title": "来源量子计算分类与SHA_第190批.json",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97/%E6%9D%A5%E6%BA%90%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97%E5%88%86%E7%B1%BB%E4%B8%8ESHA_%E7%AC%AC190%E6%89%B9.json",
+          "relativePath": "物理类/其他电子书/量子计算/来源量子计算分类与SHA_第190批.json",
+          "bytes": 9684,
+          "sha256": "4cfada34670d7f6a7de17e1437029ce656d24afb1aebc8910a7d91e774297c75"
+        }
+      ]
+    },
+    {
+      "name": "非线性力学",
+      "directoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E9%9D%9E%E7%BA%BF%E6%80%A7%E5%8A%9B%E5%AD%A6",
+      "originalSourcePaths": 1,
+      "mappedSourcePaths": 1,
+      "remainingSourcePaths": 0,
+      "currentDirectPDFs": 0,
+      "latestScopeBatch": 120,
+      "pathStatus": "bounded_source_path_mapping_recorded",
+      "bridges": [
+        {
+          "title": "README_Strogatz跨科迁移_第120批.md",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E9%9D%9E%E7%BA%BF%E6%80%A7%E5%8A%9B%E5%AD%A6/README_Strogatz%E8%B7%A8%E7%A7%91%E8%BF%81%E7%A7%BB_%E7%AC%AC120%E6%89%B9.md",
+          "relativePath": "物理类/其他电子书/非线性力学/README_Strogatz跨科迁移_第120批.md",
+          "bytes": 1958,
+          "sha256": "528819d6da35b31e34a88dd9e56bf82b2e725634f1c55bf5947f369c6a0bb98e"
+        }
+      ],
+      "ledgers": [
+        {
+          "title": "来源Strogatz分类与SHA_第120批.json",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E9%9D%9E%E7%BA%BF%E6%80%A7%E5%8A%9B%E5%AD%A6/%E6%9D%A5%E6%BA%90Strogatz%E5%88%86%E7%B1%BB%E4%B8%8ESHA_%E7%AC%AC120%E6%89%B9.json",
+          "relativePath": "物理类/其他电子书/非线性力学/来源Strogatz分类与SHA_第120批.json",
+          "bytes": 1404,
+          "sha256": "8bc01418aa3020322ea86537d99a8ce1a67d70b7f9347c358be4795cc8d3314c"
+        }
+      ]
+    }
+  ],
+  "separateRootSourceGroups": [
+    {
+      "batch": 107,
+      "title": "凝聚态与多体教材",
+      "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/README_%E5%87%9D%E8%81%9A%E6%80%81%E5%A4%9A%E4%BD%93%E6%95%99%E6%9D%90%E8%BF%81%E7%A7%BB_%E7%AC%AC107%E6%89%B9.md",
+      "relativePath": "物理类/其他电子书/README_凝聚态多体教材迁移_第107批.md",
+      "bytes": 1623,
+      "sha256": "8e9493459ecf6c44e0bd4871a392c5ddf91fc411ce15dc2dd50935294f5043f8"
+    },
+    {
+      "batch": 110,
+      "title": "相对论与数学物理参考书",
+      "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/README_%E7%9B%B8%E5%AF%B9%E8%AE%BA%E4%B8%8E%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E5%8F%82%E8%80%83%E4%B9%A6%E8%BF%81%E7%A7%BB_%E7%AC%AC110%E6%89%B9.md",
+      "relativePath": "物理类/其他电子书/README_相对论与数学物理参考书迁移_第110批.md",
+      "bytes": 2819,
+      "sha256": "f01a6cb1141cfdc6123ccc625cb53e836c2f02835e05640e405db946685bfdcc"
+    },
+    {
+      "batch": 113,
+      "title": "力学、热统与固体参考教材",
+      "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/README_%E5%8A%9B%E5%AD%A6%E7%83%AD%E7%BB%9F%E5%9B%BA%E4%BD%93%E5%8F%82%E8%80%83%E6%95%99%E6%9D%90%E8%BF%81%E7%A7%BB_%E7%AC%AC113%E6%89%B9.md",
+      "relativePath": "物理类/其他电子书/README_力学热统固体参考教材迁移_第113批.md",
+      "bytes": 2388,
+      "sha256": "ecb6299b26549583c4b6675bf9f99e3b61f37bd5090f63fbcd4351ace6edcac3"
+    },
+    {
+      "batch": 116,
+      "title": "物理自学与学业指南",
+      "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/README_%E8%87%AA%E5%AD%A6%E4%B8%8E%E5%AD%A6%E4%B8%9A%E6%8C%87%E5%8D%97%E8%BF%81%E7%A7%BB_%E7%AC%AC116%E6%89%B9.md",
+      "relativePath": "物理类/其他电子书/README_自学与学业指南迁移_第116批.md",
+      "bytes": 1522,
+      "sha256": "c5a5e91f81923abafe3dc513f24436d9378e8f5746b204020a89118efa1861ed"
+    }
+  ],
+  "existingDatedSnapshotsRetained": [
+    128,
+    160
+  ]
+}
