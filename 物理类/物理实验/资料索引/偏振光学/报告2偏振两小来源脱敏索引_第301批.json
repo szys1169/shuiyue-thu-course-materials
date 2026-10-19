@@ -1,0 +1,48 @@
+{
+  "batch": 301,
+  "date": "2026-10-19",
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A2",
+  "oldTargetUrl": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A2",
+  "sourceLeafRawPaths": 51,
+  "selectedPaths": 2,
+  "selectedBytes": 8509096,
+  "selectedPages": 31,
+  "selectedUniqueSHA": 2,
+  "sameSHAExisting1265": 0,
+  "remainingOldRawPaths": 31,
+  "items": [
+    {
+      "sourceLabel": "两小来源1",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告2",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/报告2偏振两小来源_第301批/含身份的偏振填写报告与曲线记录",
+      "bytes": 5209478,
+      "sha256": "0aa1d9241fd9452bb3e7fdc41706a2e80062c6c981fcf6436b2d391e6d0c74df",
+      "pages": 16,
+      "role": "16页偏振光学手写填写报告，自制封面及第15页原始记录纸实际私人身份已证；偏振原理、仪器步骤、波片与偏振测量、数据处理和思考，第15页原始记录、第16页打印曲线。身份日期评价不抄，原名原字节/黑边纸面批改和全部附页保持，不推作者配对/新版/标准答案或授课学期。",
+      "identityConfirmed": true,
+      "sourceOldTargetEqual": true,
+      "allPagesStaticReviewed": true,
+      "annotationObjects": 0,
+      "formObjects": 0,
+      "attachments": 0,
+      "publicRaw": false
+    },
+    {
+      "sourceLabel": "两小来源2",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告2",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/报告2偏振两小来源_第301批/含身份的偏振填写报告与曲线记录",
+      "bytes": 3299618,
+      "sha256": "ee072f0c34a864d33f78c92cb9812a7ead1c3fa4cb63c3f348809220a6c1a99c",
+      "pages": 15,
+      "role": "15页偏振光学手写填写报告，自制封面实际私人身份已证，含偏振原理、仪器步骤、波片与偏振测量、数据处理和结果分析，末页打印曲线。身份日期评价不抄，原名字节/黑边批改及全部附页保持，不推作者配对/新版/标准答案或授课学期。",
+      "identityConfirmed": true,
+      "sourceOldTargetEqual": true,
+      "allPagesStaticReviewed": true,
+      "annotationObjects": 0,
+      "formObjects": 0,
+      "attachments": 0,
+      "publicRaw": false
+    }
+  ],
+  "policy": "安全来源角色元信息，精确原名/身份值与审阅只私有；原名原字节/全部记录保持，纸面批改不等于PDF注释。来源编号不证明版次、私人日期不证明学期，非标准答案或全部偏振或报告2闭环。"
+}
