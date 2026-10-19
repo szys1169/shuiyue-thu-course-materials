@@ -1,0 +1,32 @@
+{
+  "batch": 305,
+  "date": "2026-10-19",
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A2",
+  "oldTargetUrl": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A2",
+  "sourceLeafRawPaths": 51,
+  "selectedPaths": 1,
+  "selectedBytes": 50086701,
+  "selectedPages": 17,
+  "selectedUniqueSHA": 1,
+  "sameSHAExisting1278": 0,
+  "remainingOldRawPaths": 29,
+  "items": [
+    {
+      "sourceLabel": "末题名混合照片稿",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告2",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/报告2偏振末题名混合来源_第305批/含身份的偏振与微波混合照片稿",
+      "bytes": 50086701,
+      "sha256": "bc7f304741954d4bb7e56f20927338115f194fc37d9603e4e6a9e260161d3702",
+      "pages": 17,
+      "role": "17页照片扫描混合填写稿，首面实际私人身份已证；1-10页偏振光学含原理步骤、数据分析、原始记录纸和曲线，11-17页另为微波测量含波长、布拉格衍射、单缝双缝强度数据及打印曲线。整PDF保持，不拆、不推同作者/已证配套；顶边截切、阴影、纸面批改与全部附页原样，不修补裁剪或转录身份评价私人日期经历，不认标准答案/来源编号版次或课程学期。",
+      "identityConfirmed": true,
+      "sourceOldTargetEqual": true,
+      "allPagesStaticReviewed": true,
+      "annotationObjects": 0,
+      "formObjects": 0,
+      "attachments": 0,
+      "publicRaw": false
+    }
+  ],
+  "policy": "只安全来源角色元信息，无个人值/精确原名/本机绝对路径；偏振微波混合整件私有，截边阴影不补修，原名字节全附页保持，不推配套作者/版次/学期/标准答案。"
+}

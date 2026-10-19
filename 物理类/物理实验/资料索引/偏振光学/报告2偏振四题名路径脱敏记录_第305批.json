@@ -1,0 +1,80 @@
+{
+  "batch": 305,
+  "date": "2026-10-19",
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A2",
+  "stats": {
+    "selectedSourcePaths": 4,
+    "selectedSourceBytes": 65399712,
+    "uniqueSHA": 4,
+    "filePages": 63,
+    "historical301": 2,
+    "historical303": 1,
+    "fresh305": 1,
+    "allLocalFreshSHA": 4,
+    "identityConfirmedPaths": 4,
+    "boundary": "仅报告2偏振原题名四路径去向记录=301历史2+303历史1+305fresh1/local4fresh，历史source/cloud未本批重下，只核保存成员字节。末件为偏振与微波混合稿，非四份纯偏振独立报告/新版，不推同作者配套或整课完成。"
+  },
+  "items": [
+    {
+      "sourceLabel": "原题名路径1",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告2",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/报告2偏振两小来源_第301批/含身份的偏振填写报告与曲线记录",
+      "bytes": 5209478,
+      "sha256": "0aa1d9241fd9452bb3e7fdc41706a2e80062c6c981fcf6436b2d391e6d0c74df",
+      "pages": 16,
+      "role": "16页偏振光学手写填写报告，自制封面及第15页原始记录纸实际私人身份已证；偏振原理、仪器步骤、波片与偏振测量、数据处理和思考，第15页原始记录、第16页打印曲线。身份日期评价不抄，原名原字节/黑边纸面批改和全部附页保持，不推作者配对/新版/标准答案或授课学期。",
+      "identityConfirmed": true,
+      "evidenceBatch": 301,
+      "sourceOldTargetEqual": true,
+      "freshLocalSHA": true,
+      "cloudEvidence": "301历史已验cloud保存ZIPmember字节本地复核，非305新下载原件",
+      "publicRaw": false
+    },
+    {
+      "sourceLabel": "原题名路径2",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告2",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/报告2偏振两小来源_第301批/含身份的偏振填写报告与曲线记录",
+      "bytes": 3299618,
+      "sha256": "ee072f0c34a864d33f78c92cb9812a7ead1c3fa4cb63c3f348809220a6c1a99c",
+      "pages": 15,
+      "role": "15页偏振光学手写填写报告，自制封面实际私人身份已证，含偏振原理、仪器步骤、波片与偏振测量、数据处理和结果分析，末页打印曲线。身份日期评价不抄，原名字节/黑边批改及全部附页保持，不推作者配对/新版/标准答案或授课学期。",
+      "identityConfirmed": true,
+      "evidenceBatch": 301,
+      "sourceOldTargetEqual": true,
+      "freshLocalSHA": true,
+      "cloudEvidence": "301历史已验cloud保存ZIPmember字节本地复核，非305新下载原件",
+      "publicRaw": false
+    },
+    {
+      "sourceLabel": "原题名路径3",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告2",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/报告2偏振新增单来源_第303批/含身份的偏振手写报告与原始记录",
+      "bytes": 6803915,
+      "sha256": "f39bac257746fafec662544529b9bfc74d0e48b3c3ed841eb5acb3a93a061ee8",
+      "pages": 15,
+      "role": "15页手写偏振填写报告，封面及末页原始记录纸实际私人身份已证；含原理步骤、测量数据分析、结论和私人总结，第14页横向手绘曲线、第15页原始记录。原名原字节/黑边透印/纸面批改及全部附页保持，不抄身份评价私人经历日期，不推作者配对/版次/学期或标准答案。",
+      "identityConfirmed": true,
+      "evidenceBatch": 303,
+      "sourceOldTargetEqual": true,
+      "freshLocalSHA": true,
+      "cloudEvidence": "303历史已验cloud保存ZIPmember字节本地复核，非305新下载原件",
+      "publicRaw": false
+    },
+    {
+      "sourceLabel": "原题名路径4",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告2",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/报告2偏振末题名混合来源_第305批/含身份的偏振与微波混合照片稿",
+      "bytes": 50086701,
+      "sha256": "bc7f304741954d4bb7e56f20927338115f194fc37d9603e4e6a9e260161d3702",
+      "pages": 17,
+      "role": "17页照片扫描混合填写稿，首面实际私人身份已证；1-10页偏振光学含原理步骤、数据分析、原始记录纸和曲线，11-17页另为微波测量含波长、布拉格衍射、单缝双缝强度数据及打印曲线。整PDF保持，不拆、不推同作者/已证配套；顶边截切、阴影、纸面批改与全部附页原样，不修补裁剪或转录身份评价私人日期经历，不认标准答案/来源编号版次或课程学期。",
+      "identityConfirmed": true,
+      "evidenceBatch": 305,
+      "sourceOldTargetEqual": true,
+      "freshLocalSHA": true,
+      "cloudEvidence": "本批限定scope新回取",
+      "publicRaw": false
+    }
+  ],
+  "policy": "四原题名路径匿名去向账，不含精确原名/私人值/本机绝对路径。历史3+fresh1/local4fresh，非四全本次source/cloud重下，非四纯偏振独立报告/新版；末件混微波不拆，整课未闭环。"
+}
