@@ -1,0 +1,32 @@
+{
+  "batch": 303,
+  "date": "2026-10-19",
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A2",
+  "oldTargetUrl": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A2",
+  "sourceLeafRawPaths": 51,
+  "selectedPaths": 1,
+  "selectedBytes": 6803915,
+  "selectedPages": 15,
+  "selectedUniqueSHA": 1,
+  "sameSHAExisting1272": 0,
+  "remainingOldRawPaths": 30,
+  "items": [
+    {
+      "sourceLabel": "两小来源1",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告2",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/报告2偏振新增单来源_第303批/含身份的偏振手写报告与原始记录",
+      "bytes": 6803915,
+      "sha256": "f39bac257746fafec662544529b9bfc74d0e48b3c3ed841eb5acb3a93a061ee8",
+      "pages": 15,
+      "role": "15页手写偏振填写报告，封面及末页原始记录纸实际私人身份已证；含原理步骤、测量数据分析、结论和私人总结，第14页横向手绘曲线、第15页原始记录。原名原字节/黑边透印/纸面批改及全部附页保持，不抄身份评价私人经历日期，不推作者配对/版次/学期或标准答案。",
+      "identityConfirmed": true,
+      "sourceOldTargetEqual": true,
+      "allPagesStaticReviewed": true,
+      "annotationObjects": 0,
+      "formObjects": 0,
+      "attachments": 0,
+      "publicRaw": false
+    }
+  ],
+  "policy": "安全来源角色元信息，精确原名/身份值与审阅只私有；原名原字节/全部记录保持，纸面批改不等于PDF注释。来源编号不证明版次、私人日期不证明学期，非标准答案或全部偏振或报告2闭环。"
+}
