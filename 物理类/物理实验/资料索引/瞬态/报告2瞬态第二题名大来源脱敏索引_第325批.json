@@ -1,0 +1,33 @@
+{
+  "batch": 325,
+  "date": "2026-10-19",
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A2",
+  "oldTargetUrl": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A2",
+  "sourceLeafRawPaths": 51,
+  "selectedPaths": 1,
+  "selectedBytes": 30960178,
+  "selectedPages": 11,
+  "selectedUniqueSHA": 1,
+  "sameSHAExisting1352": 0,
+  "remainingOldRawPaths": 12,
+  "items": [
+    {
+      "sourceLabel": "来源1",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告2",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/报告2瞬态第二题名大来源_第325批/含身份的瞬态照片填写稿",
+      "bytes": 30960178,
+      "sha256": "3692506b9d9e4cfe8ed86ebb4a9c57f6df48b018c662462c7760f44761c406ad",
+      "pages": 11,
+      "role": "11页瞬态彩色照片填写稿：首面实际身份已证，1–6页仪器/传输线/超声原理方法，7页原始记录，8页拟合图及数据处理，9–10页超声数据误差，11页私人总结。",
+      "identityConfirmed": true,
+      "sourceOldTargetEqual": true,
+      "allPagesStaticReviewed": true,
+      "annotationObjects": 0,
+      "formObjects": 0,
+      "attachments": 0,
+      "publicRaw": false
+    }
+  ],
+  "oldEvidence": "323冻结SHA继承，本批仅路径尺寸mtime与漂移/同尺寸候选增量核验，非旧全量本批fresh",
+  "policy": "原件完整云盘保存，本批未新增Git；编号沿原题名，作者学期待核。私人值不转录，未认7原题名全已归位。"
+}
