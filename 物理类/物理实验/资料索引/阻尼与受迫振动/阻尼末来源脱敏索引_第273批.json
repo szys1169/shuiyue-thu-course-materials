@@ -1,0 +1,34 @@
+{
+  "batch": 273,
+  "date": "2026-10-19",
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/物理/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A1",
+  "oldTargetUrl": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A1",
+  "selectedPaths": 1,
+  "selectedBytes": 45271689,
+  "selectedUniqueSHA": 1,
+  "selectedPages": 19,
+  "sourceLeafRawPaths": 44,
+  "sameSHAExisting1162": 0,
+  "remainingOldRawPaths": 7,
+  "identityConfirmedPaths": 1,
+  "identityUnconfirmedPaths": 0,
+  "items": [
+    {
+      "sourceLabel": "末来源（精确原名仅私有）",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告1",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/阻尼末来源与七路径闭环_第273批/有身份的阻尼受迫振动彩色填写稿",
+      "bytes": 45271689,
+      "sha256": "ba67f2bcdc00da7f65e4afcb2ff6ea38c4050d9a9a7eb91356fa272afd7404f7",
+      "pages": 19,
+      "role": "19页彩色拍摄填写报告，首行实际私人身份已证，含阻尼/受迫振动原理步骤、5-10页数据记录、11-16页处理讨论思考题、17-18页曲线及末19页公式笔记。原始纸面批改、拍摄倾斜与边框保持，身份评价/私人经历不抄，不补缺页或认新版/标准答案",
+      "identityConfirmed": true,
+      "sourceOldTargetEqual": true,
+      "allPagesStaticReviewed": true,
+      "annotationObjects": 0,
+      "formObjects": 0,
+      "attachments": 0,
+      "publicRaw": false
+    }
+  ],
+  "policy": "只safe元信息，无私人值/精确原名映射/本机绝对路径；单raw/2privateREADME/19页审阅图TXT只私有。only1已证身份exact候选，余7不泛删/history不改，7题名路径历史+fresh范围明确非全本批重下/7新版。"
+}
