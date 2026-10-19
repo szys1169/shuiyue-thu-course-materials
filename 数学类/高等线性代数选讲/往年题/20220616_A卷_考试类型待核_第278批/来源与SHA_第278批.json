@@ -1,0 +1,41 @@
+{
+  "batch": 278,
+  "date": "2026-10-19",
+  "groupRole": "高等线性代数选讲2022-06-16 A卷",
+  "files": [
+    {
+      "sourceName": "高等线性代数选讲A (2).pdf",
+      "studyRelativePath": "数学类/高代选/考试/20220616_A卷_考试类型待核_第278批/高等线性代数选讲A (2).pdf",
+      "cloudRelativePath": "数学类/高等线性代数选讲/往年题/20220616_A卷_考试类型待核_第278批/高等线性代数选讲A (2).pdf",
+      "bytes": 62663,
+      "sha256": "71611bc7d91fadcfbfc939dfbed3ddd10485a98316638ac6e06e2173bd2bcdf4",
+      "pages": 2,
+      "role": "空白考试卷面，具体期中/期末未核",
+      "safeDescription": "2页高等线性代数选讲A卷，卷面日期2022年6月16日，8题100分，页序1/2和2/2连贯；未见个人填写或批改，教师及具体考试类型未核。",
+      "authorEvidence": "卷面未见教师署名，不按仓库目录或文件名补教师",
+      "dateEvidence": "卷头明确2022年6月16日",
+      "qualityBoundary": "全2页实际目视，题序1–8，无个人填写、成绩、批改或身份标记。日期不代证考试类型；不据源名A (2)猜别的卷次。",
+      "sourceIndex": "https://rekcarc-tsc-uht.readthedocs.io/en/latest/大一下.html",
+      "sourceBlobURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/master/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2A%20%282%29.pdf",
+      "observedSourceBlobURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/master/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2A%20(2).pdf",
+      "resolvedPublicDownloadURL": "https://raw.githubusercontent.com/PKUanonym/REKCARC-TSC-UHT/refs/heads/master/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2A%20%282%29.pdf",
+      "observedResolvedPublicDownloadURL": "https://raw.githubusercontent.com/PKUanonym/REKCARC-TSC-UHT/refs/heads/master/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2A%20(2).pdf",
+      "downloadDate": "2026-10-19",
+      "rawPublic": true,
+      "repaired": false,
+      "annotations": 0,
+      "annotationTypes": {},
+      "forms": 0,
+      "embeddedFiles": 0,
+      "warnings": "",
+      "originalBytesUnmodified": true
+    }
+  ],
+  "sourceBoundary": "来源仅记录ROOT实际发现及下载的官方文档索引、仓库blob与resolved raw URL；不推更早取得网址，不把仓库贡献者CC BY-SA笼统套给第三方教师或资料。",
+  "verificationBoundary": "本批源PDF逐SHA与下载manifest一致，4文件11物理页全目视及结构审计；数学类规范同尺寸exactSHA0。两原卷经ROOT全3页复核，元数据/Info无个人姓名ID或本地路径迹象，XMP为空。其余手稿仅私有。云盘最终上传回取由ROOT另记。",
+  "publicationBoundary": "本组空白原卷按原名原字节随安全说明公开同步，教师与具体考试类型未核，不称标准答案。",
+  "localCloudMapping": {
+    "localGroup": "数学类/高代选/考试/20220616_A卷_考试类型待核_第278批",
+    "cloudAndRepositoryGroup": "数学类/高等线性代数选讲/往年题/20220616_A卷_考试类型待核_第278批"
+  }
+}

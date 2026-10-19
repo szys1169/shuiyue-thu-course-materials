@@ -1,0 +1,70 @@
+{
+  "batch": 278,
+  "date": "2026-10-19",
+  "groupRole": "专题手稿来源",
+  "files": [
+    {
+      "sourceName": "Perron-Frobenius.pdf",
+      "studyRelativePath": "数学类/高代选/讲义/专题手稿来源_第278批/_过程材料/私有原件/Perron-Frobenius.pdf",
+      "cloudRelativePath": "数学类/高等线性代数选讲/讲义/专题手稿来源_第278批/_过程材料/私有原件/Perron-Frobenius.pdf",
+      "bytes": 1314764,
+      "sha256": "c7f048280fcf4a9201c85035e4b75847290bf7d9b213af510a798fb44bef7a87",
+      "pages": 4,
+      "role": "手写专题笔记",
+      "safeDescription": "4页手写专题材料，含空白封面与正矩阵主特征值代数重数相关证明片段；作者、日期和课程归属正文未核，原字节私有保存。",
+      "authorEvidence": "正文未核作者，封面无署名",
+      "dateEvidence": "正文未核日期；PDF生成信息不等于讲义日期",
+      "qualityBoundary": "4物理页包括1页空白笔记本式封面及3页手写证明；不是整套Perron–Frobenius教材或已数学审定的完整证明。",
+      "sourceIndex": "https://rekcarc-tsc-uht.readthedocs.io/en/latest/大一下.html",
+      "sourceBlobURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/master/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/Perron-Frobenius.pdf",
+      "observedSourceBlobURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/master/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/Perron-Frobenius.pdf",
+      "resolvedPublicDownloadURL": "https://raw.githubusercontent.com/PKUanonym/REKCARC-TSC-UHT/refs/heads/master/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/Perron-Frobenius.pdf",
+      "observedResolvedPublicDownloadURL": "https://raw.githubusercontent.com/PKUanonym/REKCARC-TSC-UHT/refs/heads/master/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/Perron-Frobenius.pdf",
+      "downloadDate": "2026-10-19",
+      "rawPublic": false,
+      "repaired": false,
+      "annotations": 0,
+      "annotationTypes": {},
+      "forms": 0,
+      "embeddedFiles": 0,
+      "warnings": "",
+      "originalBytesUnmodified": true
+    },
+    {
+      "sourceName": "二阶酉阵一般形式by徐帆.pdf",
+      "studyRelativePath": "数学类/高代选/讲义/专题手稿来源_第278批/_过程材料/私有原件/二阶酉阵一般形式by徐帆.pdf",
+      "cloudRelativePath": "数学类/高等线性代数选讲/讲义/专题手稿来源_第278批/_过程材料/私有原件/二阶酉阵一般形式by徐帆.pdf",
+      "bytes": 526922,
+      "sha256": "0158800a35f6e0d0a1cb85c8be0ec814eb425b6bdc4890419d5a3683dc370f1b",
+      "pages": 4,
+      "role": "手写专题推导",
+      "safeDescription": "4页二阶酉阵一般形式手写推导，保留164个Ink批注；文件名所指作者未获正文署名确证，正文日期与课程身份未核，原文保持私有。",
+      "authorEvidence": "文件名by徐帆只作来源标签；正文未见相应署名，不确证作者或教师",
+      "dateEvidence": "正文日期未核；不以批注生成/修改时间认定课程日期",
+      "qualityBoundary": "4页均实际目视，164个Ink批注为原PDF一部分；仅私有保存，不移除、扁平化或改写。批注非空字段仅生成/修改时间与id，未把内部标识转录到安全元信息。",
+      "sourceIndex": "https://rekcarc-tsc-uht.readthedocs.io/en/latest/大一下.html",
+      "sourceBlobURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/master/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E4%BA%8C%E9%98%B6%E9%85%89%E9%98%B5%E4%B8%80%E8%88%AC%E5%BD%A2%E5%BC%8Fby%E5%BE%90%E5%B8%86.pdf",
+      "observedSourceBlobURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/master/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E4%BA%8C%E9%98%B6%E9%85%89%E9%98%B5%E4%B8%80%E8%88%AC%E5%BD%A2%E5%BC%8Fby%E5%BE%90%E5%B8%86.pdf",
+      "resolvedPublicDownloadURL": "https://raw.githubusercontent.com/PKUanonym/REKCARC-TSC-UHT/refs/heads/master/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E4%BA%8C%E9%98%B6%E9%85%89%E9%98%B5%E4%B8%80%E8%88%AC%E5%BD%A2%E5%BC%8Fby%E5%BE%90%E5%B8%86.pdf",
+      "observedResolvedPublicDownloadURL": "https://raw.githubusercontent.com/PKUanonym/REKCARC-TSC-UHT/refs/heads/master/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E4%BA%8C%E9%98%B6%E9%85%89%E9%98%B5%E4%B8%80%E8%88%AC%E5%BD%A2%E5%BC%8Fby%E5%BE%90%E5%B8%86.pdf",
+      "downloadDate": "2026-10-19",
+      "rawPublic": false,
+      "repaired": false,
+      "annotations": 164,
+      "annotationTypes": {
+        "Ink": 164
+      },
+      "forms": 0,
+      "embeddedFiles": 0,
+      "warnings": "",
+      "originalBytesUnmodified": true
+    }
+  ],
+  "sourceBoundary": "来源仅记录ROOT实际发现及下载的官方文档索引、仓库blob与resolved raw URL；不推更早取得网址，不把仓库贡献者CC BY-SA笼统套给第三方教师或资料。",
+  "verificationBoundary": "本批源PDF逐SHA与下载manifest一致，4文件11物理页全目视及结构审计；数学类规范同尺寸exactSHA0。两原卷经ROOT全3页复核，元数据/Info无个人姓名ID或本地路径迹象，XMP为空。其余手稿仅私有。云盘最终上传回取由ROOT另记。",
+  "publicationBoundary": "本组两手稿全文与私有叶README不公开，只同步安全来源说明；164个Ink批注原样保留，不削除或扁平化。",
+  "localCloudMapping": {
+    "localGroup": "数学类/高代选/讲义/专题手稿来源_第278批",
+    "cloudAndRepositoryGroup": "数学类/高等线性代数选讲/讲义/专题手稿来源_第278批"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "batch": 278,
+  "date": "2026-10-19",
+  "groupRole": "相关课程参考：高等代数（2）2021-04-17 A卷",
+  "files": [
+    {
+      "sourceName": "张贺春-2022春样卷.pdf",
+      "studyRelativePath": "数学类/高等代数/考试/高代2/相关课程参考_高等代数2_20210417_A卷_第278批/张贺春-2022春样卷.pdf",
+      "cloudRelativePath": "数学类/高等线性代数/往年题/高代2/相关课程参考_高等代数2_20210417_A卷_第278批/张贺春-2022春样卷.pdf",
+      "bytes": 39273,
+      "sha256": "0dc8a6383b5b4b05dddab567ea3342239035d012bc7f71e28404b92f30126c44",
+      "pages": 1,
+      "role": "空白考试卷面，具体考试类型与是否作为样卷使用未核",
+      "safeDescription": "1页高等代数（2）A卷，卷头2021年4月17日，8题可见分值合90，未标总分/页序；来源名2022春样卷及教师标签与卷面证据分开，均不代替正文年份或教师确证。",
+      "authorEvidence": "卷面未见教师署名；原名张贺春不作为正文教师确证",
+      "dateEvidence": "卷头明确2021年4月17日；来源文件名2022春样卷与正文日期冲突",
+      "qualityBoundary": "1个PDF物理页，卷头未标总分/页序；8题可见分值合90，不补题、不据此断言缺页。身份栏空白，未见填写、成绩或批改；教师和考试类型未核。",
+      "sourceIndex": "https://rekcarc-tsc-uht.readthedocs.io/en/latest/大一下.html",
+      "sourceBlobURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/master/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E5%BC%A0%E8%B4%BA%E6%98%A5-2022%E6%98%A5%E6%A0%B7%E5%8D%B7.pdf",
+      "observedSourceBlobURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/master/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E5%BC%A0%E8%B4%BA%E6%98%A5-2022%E6%98%A5%E6%A0%B7%E5%8D%B7.pdf",
+      "resolvedPublicDownloadURL": "https://raw.githubusercontent.com/PKUanonym/REKCARC-TSC-UHT/refs/heads/master/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E5%BC%A0%E8%B4%BA%E6%98%A5-2022%E6%98%A5%E6%A0%B7%E5%8D%B7.pdf",
+      "observedResolvedPublicDownloadURL": "https://raw.githubusercontent.com/PKUanonym/REKCARC-TSC-UHT/refs/heads/master/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E5%BC%A0%E8%B4%BA%E6%98%A5-2022%E6%98%A5%E6%A0%B7%E5%8D%B7.pdf",
+      "downloadDate": "2026-10-19",
+      "rawPublic": true,
+      "repaired": false,
+      "annotations": 0,
+      "annotationTypes": {},
+      "forms": 0,
+      "embeddedFiles": 0,
+      "warnings": "",
+      "originalBytesUnmodified": true
+    }
+  ],
+  "sourceBoundary": "来源仅记录ROOT实际发现及下载的官方文档索引、仓库blob与resolved raw URL；不推更早取得网址，不把仓库贡献者CC BY-SA笼统套给第三方教师或资料。",
+  "verificationBoundary": "本批源PDF逐SHA与下载manifest一致，4文件11物理页全目视及结构审计；数学类规范同尺寸exactSHA0。两原卷经ROOT全3页复核，元数据/Info无个人姓名ID或本地路径迹象，XMP为空。其余手稿仅私有。云盘最终上传回取由ROOT另记。",
+  "publicationBoundary": "本组空白原卷按原名原字节随安全说明公开同步，教师与具体考试类型未核，不称标准答案。",
+  "localCloudMapping": {
+    "localGroup": "数学类/高等代数/考试/高代2/相关课程参考_高等代数2_20210417_A卷_第278批",
+    "cloudAndRepositoryGroup": "数学类/高等线性代数/往年题/高代2/相关课程参考_高等代数2_20210417_A卷_第278批"
+  }
+}
