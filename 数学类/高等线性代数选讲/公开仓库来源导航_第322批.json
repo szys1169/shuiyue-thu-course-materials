@@ -1,0 +1,1061 @@
+{
+  "title": "公开仓库高代选来源导航",
+  "snapshotDate": "2026-10-19",
+  "batch": 322,
+  "sourceIndexURL": "https://rekcarc-tsc-uht.readthedocs.io/en/latest/大一下.html",
+  "scope": {
+    "observedSourcePaths": 63,
+    "processedSourcePaths": 53,
+    "homeworkSourcePaths": 24,
+    "otherSourcePaths": 29,
+    "unopenedPersonalTaggedPaths": 10,
+    "currentGroups": 23,
+    "safeSourceJSONs": 24,
+    "sourcePages": 477,
+    "sourceBytes": 217659778
+  },
+  "verificationBoundary": "本次逐SHA核对53条来源的当前规范文件，并逐组读取47个安全说明入口。正文云盘验收沿各批历史证据；本批仅新增和回取2个导航文件，不称53独立材料、全仓或整课完成。",
+  "excludedBoundary": "10条个人提交标签仅计数，本轮未打开，不列名称、URL或内容。",
+  "preservation": "已有来源文件及日期索引原字节保留。手写稿、专题材料、日历等私有原文不由本导航公开；这里只链接安全说明。",
+  "historicalPointerBoundary": "第300批对手写稿的路径描述为当时快照；本导航采用第302批当前配对去向，不反写旧索引。",
+  "groups": [
+    {
+      "id": "g01",
+      "name": "公开仓库习题一教材节选_第294批",
+      "category": "作业参考与教材节选",
+      "sourcePaths": 1,
+      "course": "高等线性代数选讲",
+      "safeREADME": {
+        "name": "README.md",
+        "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93%E4%B9%A0%E9%A2%98%E4%B8%80%E6%95%99%E6%9D%90%E8%8A%82%E9%80%89_%E7%AC%AC294%E6%89%B9/README.md",
+        "repoPath": "数学类/高等线性代数选讲/习题与解答/公开仓库习题一教材节选_第294批/README.md",
+        "bytes": 1773,
+        "sha256": "1544452fc1c46a8bac8ed80625a11db3c28307d981dabfa3d2129f05fa1803ed"
+      },
+      "safeSourceJSONs": [
+        {
+          "name": "来源与SHA_第294批.json",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93%E4%B9%A0%E9%A2%98%E4%B8%80%E6%95%99%E6%9D%90%E8%8A%82%E9%80%89_%E7%AC%AC294%E6%89%B9/%E6%9D%A5%E6%BA%90%E4%B8%8ESHA_%E7%AC%AC294%E6%89%B9.json",
+          "repoPath": "数学类/高等线性代数选讲/习题与解答/公开仓库习题一教材节选_第294批/来源与SHA_第294批.json",
+          "bytes": 4166,
+          "sha256": "664df8de2ff9427bf96dec271507a0ae467e25e18b51252b4dc004a63974e6e1"
+        }
+      ],
+      "boundary": "教材不连续页436–437、443–444节选；“习题一”不等于第一周。"
+    },
+    {
+      "id": "g02",
+      "name": "公开仓库习题课一题单笔记与参考_第308批",
+      "category": "习题课题单与参考",
+      "sourcePaths": 4,
+      "course": "高等线性代数选讲",
+      "safeREADME": {
+        "name": "README.md",
+        "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93%E4%B9%A0%E9%A2%98%E8%AF%BE%E4%B8%80%E9%A2%98%E5%8D%95%E7%AC%94%E8%AE%B0%E4%B8%8E%E5%8F%82%E8%80%83_%E7%AC%AC308%E6%89%B9/README.md",
+        "repoPath": "数学类/高等线性代数选讲/习题与解答/公开仓库习题课一题单笔记与参考_第308批/README.md",
+        "bytes": 1667,
+        "sha256": "50db8740a92cef1edbfed1c2967ef25cbf003f88ef71ba1bdccb0a82828d7fdd"
+      },
+      "safeSourceJSONs": [
+        {
+          "name": "来源与SHA_第308批.json",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93%E4%B9%A0%E9%A2%98%E8%AF%BE%E4%B8%80%E9%A2%98%E5%8D%95%E7%AC%94%E8%AE%B0%E4%B8%8E%E5%8F%82%E8%80%83_%E7%AC%AC308%E6%89%B9/%E6%9D%A5%E6%BA%90%E4%B8%8ESHA_%E7%AC%AC308%E6%89%B9.json",
+          "repoPath": "数学类/高等线性代数选讲/习题与解答/公开仓库习题课一题单笔记与参考_第308批/来源与SHA_第308批.json",
+          "bytes": 7765,
+          "sha256": "4b7d8fe3b0117c9f6f0814d3b6488277d35a793111be76a41bedce82e0a19c7a"
+        }
+      ],
+      "boundary": "题单、直接解答、题图旁注与几何补充四件分别保留；不称官方完整答案。"
+    },
+    {
+      "id": "g03",
+      "name": "公开仓库习题课三题单笔记与参考_第312批",
+      "category": "习题课题单与参考",
+      "sourcePaths": 3,
+      "course": "高等线性代数选讲",
+      "safeREADME": {
+        "name": "README.md",
+        "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93%E4%B9%A0%E9%A2%98%E8%AF%BE%E4%B8%89%E9%A2%98%E5%8D%95%E7%AC%94%E8%AE%B0%E4%B8%8E%E5%8F%82%E8%80%83_%E7%AC%AC312%E6%89%B9/README.md",
+        "repoPath": "数学类/高等线性代数选讲/习题与解答/公开仓库习题课三题单笔记与参考_第312批/README.md",
+        "bytes": 1456,
+        "sha256": "d9821b928ab608ab0c696fe98d54a49efce651e9570d41dc96503cb2afdfac0f"
+      },
+      "safeSourceJSONs": [
+        {
+          "name": "来源与SHA_第312批.json",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93%E4%B9%A0%E9%A2%98%E8%AF%BE%E4%B8%89%E9%A2%98%E5%8D%95%E7%AC%94%E8%AE%B0%E4%B8%8E%E5%8F%82%E8%80%83_%E7%AC%AC312%E6%89%B9/%E6%9D%A5%E6%BA%90%E4%B8%8ESHA_%E7%AC%AC312%E6%89%B9.json",
+          "repoPath": "数学类/高等线性代数选讲/习题与解答/公开仓库习题课三题单笔记与参考_第312批/来源与SHA_第312批.json",
+          "bytes": 5731,
+          "sha256": "b67a74d399d3931c22829977740285fcdccb96c044181d6027be05916fcf16f0"
+        }
+      ],
+      "boundary": "独立题单与31页件前部的第7题提示不同；三件不合并。"
+    },
+    {
+      "id": "g04",
+      "name": "公开仓库习题课二题单与旁注_第310批",
+      "category": "习题课题单与参考",
+      "sourcePaths": 2,
+      "course": "高等线性代数选讲",
+      "safeREADME": {
+        "name": "README.md",
+        "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93%E4%B9%A0%E9%A2%98%E8%AF%BE%E4%BA%8C%E9%A2%98%E5%8D%95%E4%B8%8E%E6%97%81%E6%B3%A8_%E7%AC%AC310%E6%89%B9/README.md",
+        "repoPath": "数学类/高等线性代数选讲/习题与解答/公开仓库习题课二题单与旁注_第310批/README.md",
+        "bytes": 1409,
+        "sha256": "c69ddddbb593018f998c9ec25aed92328a23daac21e3fabf37d42715476b14d7"
+      },
+      "safeSourceJSONs": [
+        {
+          "name": "来源与SHA_第310批.json",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93%E4%B9%A0%E9%A2%98%E8%AF%BE%E4%BA%8C%E9%A2%98%E5%8D%95%E4%B8%8E%E6%97%81%E6%B3%A8_%E7%AC%AC310%E6%89%B9/%E6%9D%A5%E6%BA%90%E4%B8%8ESHA_%E7%AC%AC310%E6%89%B9.json",
+          "repoPath": "数学类/高等线性代数选讲/习题与解答/公开仓库习题课二题单与旁注_第310批/来源与SHA_第310批.json",
+          "bytes": 4947,
+          "sha256": "2bacf791cbf3ec54da3f6f033f5acf1a07db35318a09fb711b2adbc3e3d385c0"
+        }
+      ],
+      "boundary": "第2题分别写n阶与2n阶，角度项不同；保留差异，不静默改题。"
+    },
+    {
+      "id": "g05",
+      "name": "公开仓库习题课五题单笔记与参考_第316批",
+      "category": "习题课题单与参考",
+      "sourcePaths": 3,
+      "course": "高等线性代数选讲",
+      "safeREADME": {
+        "name": "README.md",
+        "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93%E4%B9%A0%E9%A2%98%E8%AF%BE%E4%BA%94%E9%A2%98%E5%8D%95%E7%AC%94%E8%AE%B0%E4%B8%8E%E5%8F%82%E8%80%83_%E7%AC%AC316%E6%89%B9/README.md",
+        "repoPath": "数学类/高等线性代数选讲/习题与解答/公开仓库习题课五题单笔记与参考_第316批/README.md",
+        "bytes": 1452,
+        "sha256": "b6cd801345c60ac6bbe7e4629db149983ade65f194240069942e117670b4c255"
+      },
+      "safeSourceJSONs": [
+        {
+          "name": "来源与SHA_第316批.json",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93%E4%B9%A0%E9%A2%98%E8%AF%BE%E4%BA%94%E9%A2%98%E5%8D%95%E7%AC%94%E8%AE%B0%E4%B8%8E%E5%8F%82%E8%80%83_%E7%AC%AC316%E6%89%B9/%E6%9D%A5%E6%BA%90%E4%B8%8ESHA_%E7%AC%AC316%E6%89%B9.json",
+          "repoPath": "数学类/高等线性代数选讲/习题与解答/公开仓库习题课五题单笔记与参考_第316批/来源与SHA_第316批.json",
+          "bytes": 5885,
+          "sha256": "c5714c187f8b63e34444b91ec9aca11ba3fc4d61f0baa235435d470897794c33"
+        }
+      ],
+      "boundary": "题单、参考推导与旁注三件；第3题仅见根分类和通解，未见初值常数单独代入结果。"
+    },
+    {
+      "id": "g06",
+      "name": "公开仓库习题课六题单与参考_第318批",
+      "category": "习题课题单与参考",
+      "sourcePaths": 2,
+      "course": "高等线性代数选讲",
+      "safeREADME": {
+        "name": "README.md",
+        "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93%E4%B9%A0%E9%A2%98%E8%AF%BE%E5%85%AD%E9%A2%98%E5%8D%95%E4%B8%8E%E5%8F%82%E8%80%83_%E7%AC%AC318%E6%89%B9/README.md",
+        "repoPath": "数学类/高等线性代数选讲/习题与解答/公开仓库习题课六题单与参考_第318批/README.md",
+        "bytes": 1280,
+        "sha256": "bcdf292295ef354eec9d006f15dff671e13b89e20a208e968ad78fedcf0373ed"
+      },
+      "safeSourceJSONs": [
+        {
+          "name": "来源与SHA_第318批.json",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93%E4%B9%A0%E9%A2%98%E8%AF%BE%E5%85%AD%E9%A2%98%E5%8D%95%E4%B8%8E%E5%8F%82%E8%80%83_%E7%AC%AC318%E6%89%B9/%E6%9D%A5%E6%BA%90%E4%B8%8ESHA_%E7%AC%AC318%E6%89%B9.json",
+          "repoPath": "数学类/高等线性代数选讲/习题与解答/公开仓库习题课六题单与参考_第318批/来源与SHA_第318批.json",
+          "bytes": 5037,
+          "sha256": "855e26873f1a95430de826b231fa5819533b24b6ebd51ea534cd21d55527ea28"
+        }
+      ],
+      "boundary": "原名角色相反：45页“材料六”含参考推导，13页“答案”仅有题单；原名、夹页保留。"
+    },
+    {
+      "id": "g07",
+      "name": "公开仓库习题课四题目与参考_第314批",
+      "category": "习题课题单与参考",
+      "sourcePaths": 2,
+      "course": "高等线性代数选讲",
+      "safeREADME": {
+        "name": "README.md",
+        "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93%E4%B9%A0%E9%A2%98%E8%AF%BE%E5%9B%9B%E9%A2%98%E7%9B%AE%E4%B8%8E%E5%8F%82%E8%80%83_%E7%AC%AC314%E6%89%B9/README.md",
+        "repoPath": "数学类/高等线性代数选讲/习题与解答/公开仓库习题课四题目与参考_第314批/README.md",
+        "bytes": 1307,
+        "sha256": "e4c0d413df1f4c0134f40026a3d4e50cd267d5fa2d34f542d9d63a399862668f"
+      },
+      "safeSourceJSONs": [
+        {
+          "name": "来源与SHA_第314批.json",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93%E4%B9%A0%E9%A2%98%E8%AF%BE%E5%9B%9B%E9%A2%98%E7%9B%AE%E4%B8%8E%E5%8F%82%E8%80%83_%E7%AC%AC314%E6%89%B9/%E6%9D%A5%E6%BA%90%E4%B8%8ESHA_%E7%AC%AC314%E6%89%B9.json",
+          "repoPath": "数学类/高等线性代数选讲/习题与解答/公开仓库习题课四题目与参考_第314批/来源与SHA_第314批.json",
+          "bytes": 4466,
+          "sha256": "7fc8495d79b668dbbd087b0653f7e96aad1f9dc7087bf2470276dce7dec264db"
+        }
+      ],
+      "boundary": "27页件保留插入反例和结论留白；2页旁注为选择性补充。"
+    },
+    {
+      "id": "g08",
+      "name": "公开仓库第二三周作业参考_第280批",
+      "category": "作业参考与教材节选",
+      "sourcePaths": 4,
+      "course": "高等线性代数选讲",
+      "safeREADME": {
+        "name": "README.md",
+        "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93%E7%AC%AC%E4%BA%8C%E4%B8%89%E5%91%A8%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83_%E7%AC%AC280%E6%89%B9/README.md",
+        "repoPath": "数学类/高等线性代数选讲/习题与解答/公开仓库第二三周作业参考_第280批/README.md",
+        "bytes": 4019,
+        "sha256": "88746f009cdc20895aa7cb6e0bd5c9c8f749ed9e9c47e57c621ade6ec0ffbd23"
+      },
+      "safeSourceJSONs": [
+        {
+          "name": "来源与SHA_第280批.json",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93%E7%AC%AC%E4%BA%8C%E4%B8%89%E5%91%A8%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83_%E7%AC%AC280%E6%89%B9/%E6%9D%A5%E6%BA%90%E4%B8%8ESHA_%E7%AC%AC280%E6%89%B9.json",
+          "repoPath": "数学类/高等线性代数选讲/习题与解答/公开仓库第二三周作业参考_第280批/来源与SHA_第280批.json",
+          "bytes": 12762,
+          "sha256": "d714d5109d9a0d6ea4bda4aa72740502686ce911d73c950423bb2caa7fcd79d7"
+        }
+      ],
+      "boundary": "第二、三周题单与手写参考分别保留，作者及官方性未核。"
+    },
+    {
+      "id": "g09",
+      "name": "公开仓库第八九周作业参考_第286批",
+      "category": "作业参考与教材节选",
+      "sourcePaths": 5,
+      "course": "高等线性代数选讲",
+      "safeREADME": {
+        "name": "README.md",
+        "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93%E7%AC%AC%E5%85%AB%E4%B9%9D%E5%91%A8%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83_%E7%AC%AC286%E6%89%B9/README.md",
+        "repoPath": "数学类/高等线性代数选讲/习题与解答/公开仓库第八九周作业参考_第286批/README.md",
+        "bytes": 3854,
+        "sha256": "62b262ea2f96e7d96ec49df96440800f0b78915fb71f88703c165d490935ed58"
+      },
+      "safeSourceJSONs": [
+        {
+          "name": "来源与SHA_第286批.json",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93%E7%AC%AC%E5%85%AB%E4%B9%9D%E5%91%A8%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83_%E7%AC%AC286%E6%89%B9/%E6%9D%A5%E6%BA%90%E4%B8%8ESHA_%E7%AC%AC286%E6%89%B9.json",
+          "repoPath": "数学类/高等线性代数选讲/习题与解答/公开仓库第八九周作业参考_第286批/来源与SHA_第286批.json",
+          "bytes": 13396,
+          "sha256": "3f2f8b4fb5d728049cdf4074b40854a1825f451eee7e82fb64b707a46dd52f28"
+        }
+      ],
+      "boundary": "按Jordan与多项式、矩阵函数配对；不同班周次、题数与ODE补题有差异。"
+    },
+    {
+      "id": "g10",
+      "name": "公开仓库第六七周作业参考_第284批",
+      "category": "作业参考与教材节选",
+      "sourcePaths": 4,
+      "course": "高等线性代数选讲",
+      "safeREADME": {
+        "name": "README.md",
+        "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93%E7%AC%AC%E5%85%AD%E4%B8%83%E5%91%A8%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83_%E7%AC%AC284%E6%89%B9/README.md",
+        "repoPath": "数学类/高等线性代数选讲/习题与解答/公开仓库第六七周作业参考_第284批/README.md",
+        "bytes": 4515,
+        "sha256": "6a141f45634a595572b41ea3486495ad1cc8f40b9cc6dd4e84ae5d3808024a54"
+      },
+      "safeSourceJSONs": [
+        {
+          "name": "来源与SHA_第284批.json",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93%E7%AC%AC%E5%85%AD%E4%B8%83%E5%91%A8%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83_%E7%AC%AC284%E6%89%B9/%E6%9D%A5%E6%BA%90%E4%B8%8ESHA_%E7%AC%AC284%E6%89%B9.json",
+          "repoPath": "数学类/高等线性代数选讲/习题与解答/公开仓库第六七周作业参考_第284批/来源与SHA_第284批.json",
+          "bytes": 10685,
+          "sha256": "13d1acf990baad1493abcb4bd9a2f523f526bc87d4dd492f9f777dd412850e6b"
+        }
+      ],
+      "boundary": "两份key均混合题单与解答，不称完整官方答案。"
+    },
+    {
+      "id": "g11",
+      "name": "公开仓库第十二十三周教材习题节选_第290批",
+      "category": "作业参考与教材节选",
+      "sourcePaths": 2,
+      "course": "高等线性代数选讲",
+      "safeREADME": {
+        "name": "README.md",
+        "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%8D%81%E4%B8%89%E5%91%A8%E6%95%99%E6%9D%90%E4%B9%A0%E9%A2%98%E8%8A%82%E9%80%89_%E7%AC%AC290%E6%89%B9/README.md",
+        "repoPath": "数学类/高等线性代数选讲/习题与解答/公开仓库第十二十三周教材习题节选_第290批/README.md",
+        "bytes": 2252,
+        "sha256": "27103532b9095e48adc09d2dd269ffa4f7e7e676208b40766e2e4299f2136757"
+      },
+      "safeSourceJSONs": [
+        {
+          "name": "来源与SHA_第290批.json",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%8D%81%E4%B8%89%E5%91%A8%E6%95%99%E6%9D%90%E4%B9%A0%E9%A2%98%E8%8A%82%E9%80%89_%E7%AC%AC290%E6%89%B9/%E6%9D%A5%E6%BA%90%E4%B8%8ESHA_%E7%AC%AC290%E6%89%B9.json",
+          "repoPath": "数学类/高等线性代数选讲/习题与解答/公开仓库第十二十三周教材习题节选_第290批/来源与SHA_第290批.json",
+          "bytes": 6839,
+          "sha256": "29c02dba0e55c667ba5b0a6e634636ac492ba47b4b0db37652397c05691e934b"
+        }
+      ],
+      "boundary": "第十二、十三周为教材习题节选和圈题，不是手写作业或配对题解。"
+    },
+    {
+      "id": "g12",
+      "name": "公开仓库第十周作业参考_第288批",
+      "category": "作业参考与教材节选",
+      "sourcePaths": 2,
+      "course": "高等线性代数选讲",
+      "safeREADME": {
+        "name": "README.md",
+        "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93%E7%AC%AC%E5%8D%81%E5%91%A8%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83_%E7%AC%AC288%E6%89%B9/README.md",
+        "repoPath": "数学类/高等线性代数选讲/习题与解答/公开仓库第十周作业参考_第288批/README.md",
+        "bytes": 2171,
+        "sha256": "84af9aef528f60b6118a7d8fbb5ecfe22f04e3bec39016c068cdc50439e7eacc"
+      },
+      "safeSourceJSONs": [
+        {
+          "name": "来源与SHA_第288批.json",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93%E7%AC%AC%E5%8D%81%E5%91%A8%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83_%E7%AC%AC288%E6%89%B9/%E6%9D%A5%E6%BA%90%E4%B8%8ESHA_%E7%AC%AC288%E6%89%B9.json",
+          "repoPath": "数学类/高等线性代数选讲/习题与解答/公开仓库第十周作业参考_第288批/来源与SHA_第288批.json",
+          "bytes": 6179,
+          "sha256": "ef6c78d2c7564d79ec04dd26cc5ec5b979f140071e9d678350b867640ccd1b4a"
+        }
+      ],
+      "boundary": "题单末空白保留；参考仅见1、3、4、5及额外提示，不称全解。"
+    },
+    {
+      "id": "g13",
+      "name": "公开仓库第十四十五周教材习题节选_第292批",
+      "category": "作业参考与教材节选",
+      "sourcePaths": 2,
+      "course": "高等线性代数选讲",
+      "safeREADME": {
+        "name": "README.md",
+        "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93%E7%AC%AC%E5%8D%81%E5%9B%9B%E5%8D%81%E4%BA%94%E5%91%A8%E6%95%99%E6%9D%90%E4%B9%A0%E9%A2%98%E8%8A%82%E9%80%89_%E7%AC%AC292%E6%89%B9/README.md",
+        "repoPath": "数学类/高等线性代数选讲/习题与解答/公开仓库第十四十五周教材习题节选_第292批/README.md",
+        "bytes": 2255,
+        "sha256": "22bae2ca5d8b466875770af5d9631c6ea2979015721b077d6e5ba579072c2039"
+      },
+      "safeSourceJSONs": [
+        {
+          "name": "来源与SHA_第292批.json",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93%E7%AC%AC%E5%8D%81%E5%9B%9B%E5%8D%81%E4%BA%94%E5%91%A8%E6%95%99%E6%9D%90%E4%B9%A0%E9%A2%98%E8%8A%82%E9%80%89_%E7%AC%AC292%E6%89%B9/%E6%9D%A5%E6%BA%90%E4%B8%8ESHA_%E7%AC%AC292%E6%89%B9.json",
+          "repoPath": "数学类/高等线性代数选讲/习题与解答/公开仓库第十四十五周教材习题节选_第292批/来源与SHA_第292批.json",
+          "bytes": 6723,
+          "sha256": "c31cd8d0bf1827c4eb6990d4006973595c55b32e5571e8ad6955ea32bf07c206"
+        }
+      ],
+      "boundary": "教材节选及圈题，保留可见圈记与批注对象差异，不视为教师批改。"
+    },
+    {
+      "id": "g14",
+      "name": "公开仓库第四五周作业参考_第282批",
+      "category": "作业参考与教材节选",
+      "sourcePaths": 4,
+      "course": "高等线性代数选讲",
+      "safeREADME": {
+        "name": "README.md",
+        "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93%E7%AC%AC%E5%9B%9B%E4%BA%94%E5%91%A8%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83_%E7%AC%AC282%E6%89%B9/README.md",
+        "repoPath": "数学类/高等线性代数选讲/习题与解答/公开仓库第四五周作业参考_第282批/README.md",
+        "bytes": 4302,
+        "sha256": "7ef80667ef511a1de61cdbe051a76c97e49242da783c17bac420a4efb5f97b9a"
+      },
+      "safeSourceJSONs": [
+        {
+          "name": "来源与SHA_第282批.json",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93%E7%AC%AC%E5%9B%9B%E4%BA%94%E5%91%A8%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83_%E7%AC%AC282%E6%89%B9/%E6%9D%A5%E6%BA%90%E4%B8%8ESHA_%E7%AC%AC282%E6%89%B9.json",
+          "repoPath": "数学类/高等线性代数选讲/习题与解答/公开仓库第四五周作业参考_第282批/来源与SHA_第282批.json",
+          "bytes": 10535,
+          "sha256": "2c8ff36c50daaa5193d4ebede034782e29c437a1d88875ef3ef7cbef86b59a3b"
+        }
+      ],
+      "boundary": "key04仅部分题，key05混合题目及答案，保留整件。"
+    },
+    {
+      "id": "g15",
+      "name": "202104_A与B卷_考试类型待核_第298批",
+      "category": "试卷与配对参考",
+      "sourcePaths": 4,
+      "course": "高等线性代数选讲",
+      "safeREADME": {
+        "name": "README_参考解答来源补充_第304批.md",
+        "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E5%BE%80%E5%B9%B4%E9%A2%98/202104_A%E4%B8%8EB%E5%8D%B7_%E8%80%83%E8%AF%95%E7%B1%BB%E5%9E%8B%E5%BE%85%E6%A0%B8_%E7%AC%AC298%E6%89%B9/README_%E5%8F%82%E8%80%83%E8%A7%A3%E7%AD%94%E6%9D%A5%E6%BA%90%E8%A1%A5%E5%85%85_%E7%AC%AC304%E6%89%B9.md",
+        "repoPath": "数学类/高等线性代数选讲/往年题/202104_A与B卷_考试类型待核_第298批/README_参考解答来源补充_第304批.md",
+        "bytes": 1310,
+        "sha256": "b474ff279b3a97556be0db370baf6b80f5b9960d37fd78aa4cf2819e9f456d2e"
+      },
+      "safeSourceJSONs": [
+        {
+          "name": "参考解答来源与SHA_第304批.json",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E5%BE%80%E5%B9%B4%E9%A2%98/202104_A%E4%B8%8EB%E5%8D%B7_%E8%80%83%E8%AF%95%E7%B1%BB%E5%9E%8B%E5%BE%85%E6%A0%B8_%E7%AC%AC298%E6%89%B9/%E5%8F%82%E8%80%83%E8%A7%A3%E7%AD%94%E6%9D%A5%E6%BA%90%E4%B8%8ESHA_%E7%AC%AC304%E6%89%B9.json",
+          "repoPath": "数学类/高等线性代数选讲/往年题/202104_A与B卷_考试类型待核_第298批/参考解答来源与SHA_第304批.json",
+          "bytes": 4991,
+          "sha256": "bf3d83f317c07bcb955cc40ed7bc7d5c8a38b9fc6be148c26b5048ac1eca7eaf"
+        },
+        {
+          "name": "来源与SHA_第298批.json",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E5%BE%80%E5%B9%B4%E9%A2%98/202104_A%E4%B8%8EB%E5%8D%B7_%E8%80%83%E8%AF%95%E7%B1%BB%E5%9E%8B%E5%BE%85%E6%A0%B8_%E7%AC%AC298%E6%89%B9/%E6%9D%A5%E6%BA%90%E4%B8%8ESHA_%E7%AC%AC298%E6%89%B9.json",
+          "repoPath": "数学类/高等线性代数选讲/往年题/202104_A与B卷_考试类型待核_第298批/来源与SHA_第298批.json",
+          "bytes": 6015,
+          "sha256": "29cf89b4a13eed704a9e559fae135f1c5b23b7f37454c0ff0041ed332efef1ad"
+        }
+      ],
+      "boundary": "A卷2021-04-13、B卷2021-04-16；参考解答配对依据正文，作者、考试类型及官方性未核。"
+    },
+    {
+      "id": "g16",
+      "name": "20220616_A卷_考试类型待核_第278批",
+      "category": "试卷与配对参考",
+      "sourcePaths": 1,
+      "course": "高等线性代数选讲",
+      "safeREADME": {
+        "name": "README.md",
+        "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E5%BE%80%E5%B9%B4%E9%A2%98/20220616_A%E5%8D%B7_%E8%80%83%E8%AF%95%E7%B1%BB%E5%9E%8B%E5%BE%85%E6%A0%B8_%E7%AC%AC278%E6%89%B9/README.md",
+        "repoPath": "数学类/高等线性代数选讲/往年题/20220616_A卷_考试类型待核_第278批/README.md",
+        "bytes": 1888,
+        "sha256": "aa50a832acc13ed3d1be36cc6a206119803d910ab5e50392cc9c1d00205922be"
+      },
+      "safeSourceJSONs": [
+        {
+          "name": "来源与SHA_第278批.json",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E5%BE%80%E5%B9%B4%E9%A2%98/20220616_A%E5%8D%B7_%E8%80%83%E8%AF%95%E7%B1%BB%E5%9E%8B%E5%BE%85%E6%A0%B8_%E7%AC%AC278%E6%89%B9/%E6%9D%A5%E6%BA%90%E4%B8%8ESHA_%E7%AC%AC278%E6%89%B9.json",
+          "repoPath": "数学类/高等线性代数选讲/往年题/20220616_A卷_考试类型待核_第278批/来源与SHA_第278批.json",
+          "bytes": 3648,
+          "sha256": "93b94922031f035ce9efa67782854d6e0ef2acfa2850b13f92d1432f120741d8"
+        }
+      ],
+      "boundary": "卷头2022-06-16高代选A卷；考试类型和教师未核。"
+    },
+    {
+      "id": "g17",
+      "name": "20210607_单页模拟题_来源补充_第300批",
+      "category": "试卷与配对参考",
+      "sourcePaths": 1,
+      "course": "高等线性代数选讲",
+      "safeREADME": {
+        "name": "README.md",
+        "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E5%BE%80%E5%B9%B4%E9%A2%98/%E6%A8%A1%E6%8B%9F%E5%8D%B7%E4%B8%8E%E6%A0%B7%E5%8D%B7/20210607_%E5%8D%95%E9%A1%B5%E6%A8%A1%E6%8B%9F%E9%A2%98_%E6%9D%A5%E6%BA%90%E8%A1%A5%E5%85%85_%E7%AC%AC300%E6%89%B9/README.md",
+        "repoPath": "数学类/高等线性代数选讲/往年题/模拟卷与样卷/20210607_单页模拟题_来源补充_第300批/README.md",
+        "bytes": 1718,
+        "sha256": "3b5921d86e6e596cc8166043c668a928aa5f0638e04985e52b0ec18f8f89902a"
+      },
+      "safeSourceJSONs": [
+        {
+          "name": "来源与SHA_第300批.json",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E5%BE%80%E5%B9%B4%E9%A2%98/%E6%A8%A1%E6%8B%9F%E5%8D%B7%E4%B8%8E%E6%A0%B7%E5%8D%B7/20210607_%E5%8D%95%E9%A1%B5%E6%A8%A1%E6%8B%9F%E9%A2%98_%E6%9D%A5%E6%BA%90%E8%A1%A5%E5%85%85_%E7%AC%AC300%E6%89%B9/%E6%9D%A5%E6%BA%90%E4%B8%8ESHA_%E7%AC%AC300%E6%89%B9.json",
+          "repoPath": "数学类/高等线性代数选讲/往年题/模拟卷与样卷/20210607_单页模拟题_来源补充_第300批/来源与SHA_第300批.json",
+          "bytes": 5608,
+          "sha256": "69ee8d5ac1de4320182dcdac107cedf9197600fbefead7a822298dfbfa170c71"
+        }
+      ],
+      "boundary": "2021-06-07单页8题、每题10分；卷面未署课程及教师，按来源目录作归属参考。"
+    },
+    {
+      "id": "g18",
+      "name": "20210607_手写参考解答_配对核对_第302批",
+      "category": "试卷与配对参考",
+      "sourcePaths": 1,
+      "course": "高等线性代数选讲",
+      "safeREADME": {
+        "name": "README.md",
+        "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E5%BE%80%E5%B9%B4%E9%A2%98/%E6%A8%A1%E6%8B%9F%E5%8D%B7%E4%B8%8E%E6%A0%B7%E5%8D%B7/20210607_%E6%89%8B%E5%86%99%E5%8F%82%E8%80%83%E8%A7%A3%E7%AD%94_%E9%85%8D%E5%AF%B9%E6%A0%B8%E5%AF%B9_%E7%AC%AC302%E6%89%B9/README.md",
+        "repoPath": "数学类/高等线性代数选讲/往年题/模拟卷与样卷/20210607_手写参考解答_配对核对_第302批/README.md",
+        "bytes": 1037,
+        "sha256": "89a0d553b682e11aaaed3776bdddf0515170c308a2acc58ad535ad4264190d2a"
+      },
+      "safeSourceJSONs": [
+        {
+          "name": "来源与SHA_第302批.json",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E5%BE%80%E5%B9%B4%E9%A2%98/%E6%A8%A1%E6%8B%9F%E5%8D%B7%E4%B8%8E%E6%A0%B7%E5%8D%B7/20210607_%E6%89%8B%E5%86%99%E5%8F%82%E8%80%83%E8%A7%A3%E7%AD%94_%E9%85%8D%E5%AF%B9%E6%A0%B8%E5%AF%B9_%E7%AC%AC302%E6%89%B9/%E6%9D%A5%E6%BA%90%E4%B8%8ESHA_%E7%AC%AC302%E6%89%B9.json",
+          "repoPath": "数学类/高等线性代数选讲/往年题/模拟卷与样卷/20210607_手写参考解答_配对核对_第302批/来源与SHA_第302批.json",
+          "bytes": 2770,
+          "sha256": "427b6a11301c21bdd30306830652b4421e726c4921704c4a1d73e7ab4df7a180"
+        }
+      ],
+      "boundary": "4页手写参考与6月7日题单核对；不与旧6月17日题卷混配，未知作者稿保私有。"
+    },
+    {
+      "id": "g19",
+      "name": "相关课程参考_线性代数II",
+      "category": "试卷与配对参考",
+      "sourcePaths": 1,
+      "course": "高等线性代数选讲",
+      "safeREADME": {
+        "name": "README_公开仓库同源核对_第306批.md",
+        "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0II/README_%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93%E5%90%8C%E6%BA%90%E6%A0%B8%E5%AF%B9_%E7%AC%AC306%E6%89%B9.md",
+        "repoPath": "数学类/高等线性代数选讲/往年题/相关课程参考_线性代数II/README_公开仓库同源核对_第306批.md",
+        "bytes": 920,
+        "sha256": "af3da5a8c37d4167087a39ccb959ddf6038ca523356ce56417904b69bacbd9a9"
+      },
+      "safeSourceJSONs": [
+        {
+          "name": "公开仓库来源与SHA_第306批.json",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0II/%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93%E6%9D%A5%E6%BA%90%E4%B8%8ESHA_%E7%AC%AC306%E6%89%B9.json",
+          "repoPath": "数学类/高等线性代数选讲/往年题/相关课程参考_线性代数II/公开仓库来源与SHA_第306批.json",
+          "bytes": 1674,
+          "sha256": "f7a8409ec789e812daa97043a0e6840752a291e35630b8005fa7e2b8f3943a2d"
+        }
+      ],
+      "boundary": "线性代数II、2020-06-10期末A卷同SHA复用；仅相关课程参考，不当高代选主课卷。"
+    },
+    {
+      "id": "g20",
+      "name": "专题手稿来源_第278批",
+      "category": "讲义、手稿与复习来源",
+      "sourcePaths": 2,
+      "course": "高等线性代数选讲",
+      "safeREADME": {
+        "name": "README.md",
+        "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E8%AE%B2%E4%B9%89/%E4%B8%93%E9%A2%98%E6%89%8B%E7%A8%BF%E6%9D%A5%E6%BA%90_%E7%AC%AC278%E6%89%B9/README.md",
+        "repoPath": "数学类/高等线性代数选讲/讲义/专题手稿来源_第278批/README.md",
+        "bytes": 2069,
+        "sha256": "8a1bed6d0b04c7886fdc585abadaf95485556e18bdb15371360798aa20b29aae"
+      },
+      "safeSourceJSONs": [
+        {
+          "name": "来源与SHA_第278批.json",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E8%AE%B2%E4%B9%89/%E4%B8%93%E9%A2%98%E6%89%8B%E7%A8%BF%E6%9D%A5%E6%BA%90_%E7%AC%AC278%E6%89%B9/%E6%9D%A5%E6%BA%90%E4%B8%8ESHA_%E7%AC%AC278%E6%89%B9.json",
+          "repoPath": "数学类/高等线性代数选讲/讲义/专题手稿来源_第278批/来源与SHA_第278批.json",
+          "bytes": 6078,
+          "sha256": "a152f936d0a2ff12122b64023a9aa0c07e89dfdebfdbac9d906e3af53eec3234"
+        }
+      ],
+      "boundary": "两份专题手稿保原名和批注；文件名不证明教师或作者身份。"
+    },
+    {
+      "id": "g21",
+      "name": "复习知识点来源_第320批",
+      "category": "讲义、手稿与复习来源",
+      "sourcePaths": 1,
+      "course": "高等线性代数选讲",
+      "safeREADME": {
+        "name": "README.md",
+        "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E8%AE%B2%E4%B9%89/%E5%A4%8D%E4%B9%A0%E7%9F%A5%E8%AF%86%E7%82%B9%E6%9D%A5%E6%BA%90_%E7%AC%AC320%E6%89%B9/README.md",
+        "repoPath": "数学类/高等线性代数选讲/讲义/复习知识点来源_第320批/README.md",
+        "bytes": 1145,
+        "sha256": "47a55036fa58e9148c10c22a8c95b90ce8452ea0d693575ad4120a2cd90c8513"
+      },
+      "safeSourceJSONs": [
+        {
+          "name": "来源与SHA_第320批.json",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E8%AE%B2%E4%B9%89/%E5%A4%8D%E4%B9%A0%E7%9F%A5%E8%AF%86%E7%82%B9%E6%9D%A5%E6%BA%90_%E7%AC%AC320%E6%89%B9/%E6%9D%A5%E6%BA%90%E4%B8%8ESHA_%E7%AC%AC320%E6%89%B9.json",
+          "repoPath": "数学类/高等线性代数选讲/讲义/复习知识点来源_第320批/来源与SHA_第320批.json",
+          "bytes": 3520,
+          "sha256": "bf1861f656d1983ae331455dba51ca4ab612e07d9d8902f74efae414cdaa6b80"
+        }
+      ],
+      "boundary": "历史复习主题提纲，不是试卷、答案或当前官方大纲。"
+    },
+    {
+      "id": "g22",
+      "name": "教学日历来源_第306批",
+      "category": "讲义、手稿与复习来源",
+      "sourcePaths": 1,
+      "course": "高等线性代数选讲",
+      "safeREADME": {
+        "name": "README.md",
+        "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E8%AE%B2%E4%B9%89/%E6%95%99%E5%AD%A6%E6%97%A5%E5%8E%86%E6%9D%A5%E6%BA%90_%E7%AC%AC306%E6%89%B9/README.md",
+        "repoPath": "数学类/高等线性代数选讲/讲义/教学日历来源_第306批/README.md",
+        "bytes": 976,
+        "sha256": "0cce9cbf0ce728b2c1622df51274a860eba0c0542778ca5bb9535df604492618"
+      },
+      "safeSourceJSONs": [
+        {
+          "name": "来源与SHA_第306批.json",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E8%AE%B2%E4%B9%89/%E6%95%99%E5%AD%A6%E6%97%A5%E5%8E%86%E6%9D%A5%E6%BA%90_%E7%AC%AC306%E6%89%B9/%E6%9D%A5%E6%BA%90%E4%B8%8ESHA_%E7%AC%AC306%E6%89%B9.json",
+          "repoPath": "数学类/高等线性代数选讲/讲义/教学日历来源_第306批/来源与SHA_第306批.json",
+          "bytes": 1746,
+          "sha256": "9157701dc7a1f03718f5f7754138ed45c944e54eaa2a5090df54dab0e2db9dec"
+        }
+      ],
+      "boundary": "历史教学日历未印课名，来源目录标签不证明与高代选同课；正文保私有。"
+    },
+    {
+      "id": "g23",
+      "name": "相关课程参考_高等代数2_20210417_A卷_第278批",
+      "category": "试卷与配对参考",
+      "sourcePaths": 1,
+      "course": "高等线性代数",
+      "safeREADME": {
+        "name": "README.md",
+        "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E5%BE%80%E5%B9%B4%E9%A2%98/%E9%AB%98%E4%BB%A32/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E9%AB%98%E7%AD%89%E4%BB%A3%E6%95%B02_20210417_A%E5%8D%B7_%E7%AC%AC278%E6%89%B9/README.md",
+        "repoPath": "数学类/高等线性代数/往年题/高代2/相关课程参考_高等代数2_20210417_A卷_第278批/README.md",
+        "bytes": 2001,
+        "sha256": "98a60e5f4fc9be878cf82be3b382f1d964f6eaefd88135b1e550648b3373229c"
+      },
+      "safeSourceJSONs": [
+        {
+          "name": "来源与SHA_第278批.json",
+          "url": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E5%BE%80%E5%B9%B4%E9%A2%98/%E9%AB%98%E4%BB%A32/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E9%AB%98%E7%AD%89%E4%BB%A3%E6%95%B02_20210417_A%E5%8D%B7_%E7%AC%AC278%E6%89%B9/%E6%9D%A5%E6%BA%90%E4%B8%8ESHA_%E7%AC%AC278%E6%89%B9.json",
+          "repoPath": "数学类/高等线性代数/往年题/高代2/相关课程参考_高等代数2_20210417_A卷_第278批/来源与SHA_第278批.json",
+          "bytes": 3792,
+          "sha256": "dbeb50c49f4574fbdf52a97466ad7baafaa21be06f42170d873170ee9c3c192c"
+        }
+      ],
+      "boundary": "卷头高等代数(2)、2021-04-17 A卷；来源名2022与人名只作标签，8题分值合90不补题。"
+    }
+  ],
+  "sources": [
+    {
+      "sourceName": "01-习题一.pdf",
+      "bytes": 359084,
+      "sha256": "3eeffea942a3b4f381823458e0581a780c29fea2135b634a8b9170c2bdb7d1af",
+      "pages": 4,
+      "groupId": "g01",
+      "sourceCategory": "homework",
+      "currentCanonicalSHAExact": true
+    },
+    {
+      "sourceName": "01-习题课一-助教.pdf",
+      "bytes": 9577872,
+      "sha256": "b019f316013013655b38e2b521a3998279e89feda46ea5afd400d6d570900917",
+      "pages": 31,
+      "groupId": "g02",
+      "sourceCategory": "other",
+      "currentCanonicalSHAExact": true
+    },
+    {
+      "sourceName": "01-习题课一.pdf",
+      "bytes": 850559,
+      "sha256": "b07504edbf38fece7a39b3a9ad3579f9591dc3a4796e8b80f5a46b7b40c50ee7",
+      "pages": 7,
+      "groupId": "g02",
+      "sourceCategory": "other",
+      "currentCanonicalSHAExact": true
+    },
+    {
+      "sourceName": "01-习题课一笔记.pdf",
+      "bytes": 14064082,
+      "sha256": "d71c4416754995d4ed4922b89b32cf3c004db04be2ae6b2aa0e1bc597af228cd",
+      "pages": 3,
+      "groupId": "g02",
+      "sourceCategory": "other",
+      "currentCanonicalSHAExact": true
+    },
+    {
+      "sourceName": "01习题课一参考答案.pdf",
+      "bytes": 1596975,
+      "sha256": "daa0d0d67f26209a5cbe96a66b5888bc43a0cbec3c1b1dafe8c48bfd959d1496",
+      "pages": 16,
+      "groupId": "g02",
+      "sourceCategory": "other",
+      "currentCanonicalSHAExact": true
+    },
+    {
+      "sourceName": "02-习题课二笔记.pdf",
+      "bytes": 14306723,
+      "sha256": "278be87af984eb8948131fd59b3fbf0809d95618064f90f656f09f6017525799",
+      "pages": 6,
+      "groupId": "g04",
+      "sourceCategory": "other",
+      "currentCanonicalSHAExact": true
+    },
+    {
+      "sourceName": "02-第二周作业.pdf",
+      "bytes": 1438727,
+      "sha256": "553ebd73182e46827f219d7de5d55334a20194e0bb9278c4c717e32acdeea793",
+      "pages": 4,
+      "groupId": "g08",
+      "sourceCategory": "homework",
+      "currentCanonicalSHAExact": true
+    },
+    {
+      "sourceName": "02-第二次习题课 (1).pdf",
+      "bytes": 5104155,
+      "sha256": "39f9c848ec59527e653ce6952e516d84b172d24ad70c4b954c05c606a5a16c21",
+      "pages": 13,
+      "groupId": "g04",
+      "sourceCategory": "other",
+      "currentCanonicalSHAExact": true
+    },
+    {
+      "sourceName": "03-习题课三笔记.pdf",
+      "bytes": 9237669,
+      "sha256": "bd825951d5526a1e98f5e8b1ed6db05258e638c544afcb7da5a7d120d75be7e7",
+      "pages": 3,
+      "groupId": "g03",
+      "sourceCategory": "other",
+      "currentCanonicalSHAExact": true
+    },
+    {
+      "sourceName": "03-第三周作业题目.pdf",
+      "bytes": 2459056,
+      "sha256": "dd3e7a932945feb56520b151508dcbedab6e87077bf2106c7089a858a6d1357f",
+      "pages": 6,
+      "groupId": "g08",
+      "sourceCategory": "homework",
+      "currentCanonicalSHAExact": true
+    },
+    {
+      "sourceName": "03-第三次习题课.pdf",
+      "bytes": 3137438,
+      "sha256": "c93fc4a377499718115a05eab4abb09926142c592f7c4d2f9aa3e098e8884132",
+      "pages": 8,
+      "groupId": "g03",
+      "sourceCategory": "other",
+      "currentCanonicalSHAExact": true
+    },
+    {
+      "sourceName": "03-第三次习题课答案.pdf",
+      "bytes": 11583651,
+      "sha256": "e54ca58be5e026de7632d928b2828f320a3682a34289983c833376454e5dc580",
+      "pages": 31,
+      "groupId": "g03",
+      "sourceCategory": "other",
+      "currentCanonicalSHAExact": true
+    },
+    {
+      "sourceName": "04-第四周作业.pdf",
+      "bytes": 443451,
+      "sha256": "a37f846e3b4b4e91453d571e84d352e1d294b6701a43c5808c91e72987e9713e",
+      "pages": 3,
+      "groupId": "g14",
+      "sourceCategory": "homework",
+      "currentCanonicalSHAExact": true
+    },
+    {
+      "sourceName": "04-第四次习题课笔记.pdf",
+      "bytes": 8485190,
+      "sha256": "0fc99b41304db1c4ee5aae572ecea94579d3367580b8af6300c54fc445773de7",
+      "pages": 2,
+      "groupId": "g07",
+      "sourceCategory": "other",
+      "currentCanonicalSHAExact": true
+    },
+    {
+      "sourceName": "04-第四次习题课（有答案）.pdf",
+      "bytes": 10405551,
+      "sha256": "0eed1cb54fddbcbdb0d3e008027c0132bca0310f1ddcb3b56241f364f224029f",
+      "pages": 27,
+      "groupId": "g07",
+      "sourceCategory": "other",
+      "currentCanonicalSHAExact": true
+    },
+    {
+      "sourceName": "05-习题课五笔记.pdf",
+      "bytes": 14976436,
+      "sha256": "968196cb90ecc94c4d1244094b3a516254385ecf82b4dea6d8a059e29a83984d",
+      "pages": 4,
+      "groupId": "g05",
+      "sourceCategory": "other",
+      "currentCanonicalSHAExact": true
+    },
+    {
+      "sourceName": "05-第五周作业.pdf",
+      "bytes": 2253849,
+      "sha256": "9a4077dcb79218869eec8e570a893bf352e516f5ff8735968c15054d8a92590a",
+      "pages": 6,
+      "groupId": "g14",
+      "sourceCategory": "homework",
+      "currentCanonicalSHAExact": true
+    },
+    {
+      "sourceName": "05-第五次习题.pdf",
+      "bytes": 4427307,
+      "sha256": "0fa18b14b672d3eced1cae0098f39362c10ef9434f8ed0cd0cd1eaabbedd0851",
+      "pages": 9,
+      "groupId": "g05",
+      "sourceCategory": "other",
+      "currentCanonicalSHAExact": true
+    },
+    {
+      "sourceName": "05-第五次习题课答案.pdf",
+      "bytes": 17239407,
+      "sha256": "c6e05c2cbf60adfbb7e14246703e9336216e7407e58e60ba7d86be2ffdfa7f12",
+      "pages": 39,
+      "groupId": "g05",
+      "sourceCategory": "other",
+      "currentCanonicalSHAExact": true
+    },
+    {
+      "sourceName": "06-习题课材料六.pdf",
+      "bytes": 14187688,
+      "sha256": "f63c60208a319807e04c5162e45cdbd0d0403a2588a5a297b27344ca00928b4e",
+      "pages": 45,
+      "groupId": "g06",
+      "sourceCategory": "other",
+      "currentCanonicalSHAExact": true
+    },
+    {
+      "sourceName": "06-习题课材料六答案.pdf",
+      "bytes": 4373026,
+      "sha256": "7d98804c858e28b10387662f5f1c530836233ab4df9ecb97c8d4c5747ece40e5",
+      "pages": 13,
+      "groupId": "g06",
+      "sourceCategory": "other",
+      "currentCanonicalSHAExact": true
+    },
+    {
+      "sourceName": "06-第六周作业 - 题目.pdf",
+      "bytes": 3891086,
+      "sha256": "b6622a18500df48fc98026942a863b0db81e7e44da34d61a846af37a011a7836",
+      "pages": 4,
+      "groupId": "g10",
+      "sourceCategory": "homework",
+      "currentCanonicalSHAExact": true
+    },
+    {
+      "sourceName": "07-第七周作业.pdf",
+      "bytes": 5281085,
+      "sha256": "a5cce94ca425e081a511b0f4453d2d1c25b981427eb4361737f4f5c2430a0df0",
+      "pages": 5,
+      "groupId": "g10",
+      "sourceCategory": "homework",
+      "currentCanonicalSHAExact": true
+    },
+    {
+      "sourceName": "09-另一个班-第八周作业.pdf",
+      "bytes": 1405949,
+      "sha256": "ad6150b124543fbc0dc83f20784181806d2f9706911e3c4b7d84caed5bea5a7d",
+      "pages": 4,
+      "groupId": "g09",
+      "sourceCategory": "homework",
+      "currentCanonicalSHAExact": true
+    },
+    {
+      "sourceName": "09-自己班-第九周作业.pdf",
+      "bytes": 1811817,
+      "sha256": "ca60e57b1d6bb4a0fd0d214748f75a9734c27615fe07368e6f9ee9c9635cf1e5",
+      "pages": 5,
+      "groupId": "g09",
+      "sourceCategory": "homework",
+      "currentCanonicalSHAExact": true
+    },
+    {
+      "sourceName": "10-另一个班-第九周作业.pdf",
+      "bytes": 751012,
+      "sha256": "034adcc00fda224867bf94fff5756240b7e905139a8d1d078da7d7ef3e83a848",
+      "pages": 3,
+      "groupId": "g09",
+      "sourceCategory": "homework",
+      "currentCanonicalSHAExact": true
+    },
+    {
+      "sourceName": "11-第十周作业.pdf",
+      "bytes": 632786,
+      "sha256": "3fca69ed7a7fee740641a843eafae957d2ad30113421faee86b19a8ee020c756",
+      "pages": 4,
+      "groupId": "g12",
+      "sourceCategory": "homework",
+      "currentCanonicalSHAExact": true
+    },
+    {
+      "sourceName": "2019-2020春季线代2教学日历（周1）-latest.pdf",
+      "bytes": 98680,
+      "sha256": "320a5593d96408bb3f2aeccc8a1625353b1dde271cc7838476a8190ec5c3a846",
+      "pages": 2,
+      "groupId": "g22",
+      "sourceCategory": "other",
+      "currentCanonicalSHAExact": true
+    },
+    {
+      "sourceName": "2019-2020春期末试题A卷.pdf",
+      "bytes": 235593,
+      "sha256": "01e0965ec344106b5bbceae31d70b2f9fbcfeb14b02f867028f7e5f8a015c38e",
+      "pages": 2,
+      "groupId": "g19",
+      "sourceCategory": "other",
+      "currentCanonicalSHAExact": true
+    },
+    {
+      "sourceName": "5班期中考试试卷答案.pdf",
+      "bytes": 7129028,
+      "sha256": "3bcb093c4e24af6b171052754f2d550d346f6dc0c31919fcd3b3d211c3f39a90",
+      "pages": 3,
+      "groupId": "g15",
+      "sourceCategory": "other",
+      "currentCanonicalSHAExact": true
+    },
+    {
+      "sourceName": "Perron-Frobenius.pdf",
+      "bytes": 1314764,
+      "sha256": "c7f048280fcf4a9201c85035e4b75847290bf7d9b213af510a798fb44bef7a87",
+      "pages": 4,
+      "groupId": "g20",
+      "sourceCategory": "other",
+      "currentCanonicalSHAExact": true
+    },
+    {
+      "sourceName": "key02-第二周作业答案.pdf",
+      "bytes": 2510112,
+      "sha256": "aa07cb8d633504b8ec6c54e2976a07022ec8ea1369493b411c55e55a917398d3",
+      "pages": 5,
+      "groupId": "g08",
+      "sourceCategory": "homework",
+      "currentCanonicalSHAExact": true
+    },
+    {
+      "sourceName": "key03--第三周作业答案.pdf",
+      "bytes": 1043848,
+      "sha256": "2df1d128668f32eb31f50249cab9b1281d27485e25165e8d561b96d05155834a",
+      "pages": 11,
+      "groupId": "g08",
+      "sourceCategory": "homework",
+      "currentCanonicalSHAExact": true
+    },
+    {
+      "sourceName": "key04-第四周作业答案.pdf",
+      "bytes": 1606437,
+      "sha256": "e57b7d0a326b160bafc4c4d69fa5b886adea1a665b7181de63f09fa36dcaa121",
+      "pages": 6,
+      "groupId": "g14",
+      "sourceCategory": "homework",
+      "currentCanonicalSHAExact": true
+    },
+    {
+      "sourceName": "key05-第五周作业.pdf",
+      "bytes": 4497762,
+      "sha256": "5602c4ef9c8e7a5e942778aece96166aa240bf6451cc30eda26e9d62de47b78c",
+      "pages": 13,
+      "groupId": "g14",
+      "sourceCategory": "homework",
+      "currentCanonicalSHAExact": true
+    },
+    {
+      "sourceName": "key06--第六周作业 答案.pdf",
+      "bytes": 3885162,
+      "sha256": "b06f0a88afda77de3875880b4473e62ced7349670a7f44a845cde531565fe32d",
+      "pages": 13,
+      "groupId": "g10",
+      "sourceCategory": "homework",
+      "currentCanonicalSHAExact": true
+    },
+    {
+      "sourceName": "key07-第七周作业及其答案.pdf",
+      "bytes": 5526829,
+      "sha256": "9d329154070fea96d8e450862ee63d0e6ee623bc43232fde3b96a1633cfd40d0",
+      "pages": 17,
+      "groupId": "g10",
+      "sourceCategory": "homework",
+      "currentCanonicalSHAExact": true
+    },
+    {
+      "sourceName": "key09--第八周作业 (2).pdf",
+      "bytes": 5321171,
+      "sha256": "17c5d4a652a2a6f1913e5fad8750df154b913cc067dbdf9eba18dee5c0776ea1",
+      "pages": 16,
+      "groupId": "g09",
+      "sourceCategory": "homework",
+      "currentCanonicalSHAExact": true
+    },
+    {
+      "sourceName": "key10-第九周作业 (1).pdf",
+      "bytes": 1750028,
+      "sha256": "630cc677af8aa72e18c1110753ce83f0405d3a1fcf869cfc929e5459e8c44e57",
+      "pages": 6,
+      "groupId": "g09",
+      "sourceCategory": "homework",
+      "currentCanonicalSHAExact": true
+    },
+    {
+      "sourceName": "key11-第十周作业.pdf",
+      "bytes": 3693799,
+      "sha256": "72bca95d3582b1c1d773b1b679d678a41106ab26ab87cb9a53c8e4279a60dc00",
+      "pages": 13,
+      "groupId": "g12",
+      "sourceCategory": "homework",
+      "currentCanonicalSHAExact": true
+    },
+    {
+      "sourceName": "midterm.pdf",
+      "bytes": 54151,
+      "sha256": "418b72a2bd538c63551829665d27bf57721f241a419327ec1fc83b9c4ab25e97",
+      "pages": 2,
+      "groupId": "g15",
+      "sourceCategory": "other",
+      "currentCanonicalSHAExact": true
+    },
+    {
+      "sourceName": "midterm2.pdf",
+      "bytes": 51205,
+      "sha256": "37303b133041f7d6536eadf9dc09118cddde9caf52a73427e59169da63301187",
+      "pages": 2,
+      "groupId": "g15",
+      "sourceCategory": "other",
+      "currentCanonicalSHAExact": true
+    },
+    {
+      "sourceName": "solution.pdf",
+      "bytes": 2812357,
+      "sha256": "8b8d27b08b04c546f0bf004ae5da60c3f7a140be13bffc7d460a8f09bbc5f264",
+      "pages": 4,
+      "groupId": "g15",
+      "sourceCategory": "other",
+      "currentCanonicalSHAExact": true
+    },
+    {
+      "sourceName": "二阶酉阵一般形式by徐帆.pdf",
+      "bytes": 526922,
+      "sha256": "0158800a35f6e0d0a1cb85c8be0ec814eb425b6bdc4890419d5a3683dc370f1b",
+      "pages": 4,
+      "groupId": "g20",
+      "sourceCategory": "other",
+      "currentCanonicalSHAExact": true
+    },
+    {
+      "sourceName": "张贺春-2022春样卷.pdf",
+      "bytes": 39273,
+      "sha256": "0dc8a6383b5b4b05dddab567ea3342239035d012bc7f71e28404b92f30126c44",
+      "pages": 1,
+      "groupId": "g23",
+      "sourceCategory": "other",
+      "currentCanonicalSHAExact": true
+    },
+    {
+      "sourceName": "徐帆-期末知识点-笔记本+(11).pdf",
+      "bytes": 4420655,
+      "sha256": "d49bb5b8de7ec63e6056d57f71ac0f044a37a123e10a9a8f3b3fbb59698eb50d",
+      "pages": 11,
+      "groupId": "g21",
+      "sourceCategory": "other",
+      "currentCanonicalSHAExact": true
+    },
+    {
+      "sourceName": "期末模拟.pdf",
+      "bytes": 260950,
+      "sha256": "8e2b0925703fb8e7d4bd32263a1df0e5af611c7b00092d78c8ffa98a5e5af684",
+      "pages": 1,
+      "groupId": "g17",
+      "sourceCategory": "other",
+      "currentCanonicalSHAExact": true
+    },
+    {
+      "sourceName": "期末模拟解答.pdf",
+      "bytes": 2800982,
+      "sha256": "8f4ed6663406734a67059fcf232d0d1befcbd658120262ff794d7ef8ed497c8d",
+      "pages": 4,
+      "groupId": "g18",
+      "sourceCategory": "other",
+      "currentCanonicalSHAExact": true
+    },
+    {
+      "sourceName": "第12周作业.pdf",
+      "bytes": 283573,
+      "sha256": "013d2251203a9cc1736fc6e3fe6804106e30309ba5142733a657692c13226d7d",
+      "pages": 3,
+      "groupId": "g11",
+      "sourceCategory": "homework",
+      "currentCanonicalSHAExact": true
+    },
+    {
+      "sourceName": "第13周作业-10.2.pdf",
+      "bytes": 1694683,
+      "sha256": "f053d4f530c4b60de66732fd9ab98c788ff00fd10fc163e526f93fe7f6a7ea8a",
+      "pages": 12,
+      "groupId": "g11",
+      "sourceCategory": "homework",
+      "currentCanonicalSHAExact": true
+    },
+    {
+      "sourceName": "第14周-10.3.pdf",
+      "bytes": 1225643,
+      "sha256": "42ceff23b0e9c274dcc93b2c4ba49ea50591f8820850d14a87d9c70afe111af0",
+      "pages": 9,
+      "groupId": "g13",
+      "sourceCategory": "homework",
+      "currentCanonicalSHAExact": true
+    },
+    {
+      "sourceName": "第15周-10.6.pdf",
+      "bytes": 531877,
+      "sha256": "7614f3f5f79c9d6e01280ab60738dca03ad518306abe076163ef7501af09a01c",
+      "pages": 6,
+      "groupId": "g13",
+      "sourceCategory": "homework",
+      "currentCanonicalSHAExact": true
+    },
+    {
+      "sourceName": "高等线性代数选讲A (2).pdf",
+      "bytes": 62663,
+      "sha256": "71611bc7d91fadcfbfc939dfbed3ddd10485a98316638ac6e06e2173bd2bcdf4",
+      "pages": 2,
+      "groupId": "g16",
+      "sourceCategory": "other",
+      "currentCanonicalSHAExact": true
+    }
+  ]
+}
