@@ -1,0 +1,57 @@
+{
+  "batch": 343,
+  "date": "2026-10-19",
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A2",
+  "oldTargetUrl": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A2",
+  "sourceLeafPaths": 51,
+  "selectedPaths": 2,
+  "selectedBytes": 22927619,
+  "selectedPages": 26,
+  "selectedUniqueSHA": 2,
+  "remainingOldRawPaths": 1,
+  "sameSHAExisting1409": 0,
+  "items": [
+    {
+      "sourceLabel": "来源1",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告2",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/报告2逸出功前两来源_第343批/含身份的逸出功填写稿与图表",
+      "bytes": 14584406,
+      "sha256": "bbf6a7992ed2d283c42fbfbd0f1728b5623c78b5df525193c4a095039fbf4463",
+      "pages": 13,
+      "role": "已填写的手写实验报告扫描件，含原理、测量及处理表、拟合图、误差分析和总结。首页与部分附图可见身份填写或署名。",
+      "identityConfirmed": true,
+      "identityEvidencePages": [
+        1,
+        9,
+        13
+      ],
+      "allPagesStaticReviewed": true,
+      "annotations": 0,
+      "visibleWidgets": 0,
+      "embeddedFiles": 0,
+      "publicRaw": false
+    },
+    {
+      "sourceLabel": "来源2",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告2",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/报告2逸出功前两来源_第343批/含身份的逸出功填写稿与图表",
+      "bytes": 8343213,
+      "sha256": "4c3f736d14bb799a94baaf60f8b82939244862c64cfe8d749160685593fbf67a",
+      "pages": 13,
+      "role": "已填写的手写实验报告扫描件，含原理、测量表、拟合图、讨论问答及原始数据表。前页身份栏为空，后部图表仍可见身份署名。",
+      "identityConfirmed": true,
+      "identityEvidencePages": [
+        11,
+        12
+      ],
+      "allPagesStaticReviewed": true,
+      "annotations": 0,
+      "visibleWidgets": 0,
+      "embeddedFiles": 0,
+      "publicRaw": false
+    }
+  ],
+  "evidenceBoundary": "378前两来源26页由并行代理全页实阅，源旧下载证据复用并由343fresh本地输入SHA tie；343最终cloud范围另完整fresh回取，不称单人审全34页。",
+  "oldProtection": "继承341冻结与本轮stat，343未回取未触及的全局保护组。",
+  "policy": "原件云盘保存，本批不新增原件Git；父叶README不加入Git白名单，原序号不认版次/作者/学期或独立报告数。"
+}
