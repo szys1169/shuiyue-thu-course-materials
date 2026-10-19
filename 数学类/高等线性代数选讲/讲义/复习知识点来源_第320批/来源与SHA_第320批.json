@@ -1,0 +1,51 @@
+{
+  "batch": 320,
+  "snapshotDate": "2026-10-19",
+  "files": [
+    {
+      "sourceName": "徐帆-期末知识点-笔记本+(11).pdf",
+      "bytes": 4420655,
+      "sha256": "d49bb5b8de7ec63e6056d57f71ac0f044a37a123e10a9a8f3b3fbb59698eb50d",
+      "pages": 11,
+      "pageRoles": [
+        "1笔记本式空白封面",
+        "2历史复习范围说明及复习材料列表；其中分值说法仅作来源原文，不作当下承诺",
+        "3第一周复数与复矩阵，保留黄色强调",
+        "4第二周酉空间、伴随和Hermite变换",
+        "5第三周Schur、正规变换与Fourier级数",
+        "6第四周Fourier矩阵、FFT与插值关联",
+        "7第五周直和、不变子空间、广义特征子空间与Cayley–Hamilton",
+        "8第六周像核、幂零及循环子空间",
+        "9第七八周Jordan与极小多项式",
+        "10第九十周矩阵函数和ODE",
+        "11矩阵应用、关联矩阵、弹簧、Markov与几何变换；原有手稿文字和页边照存"
+      ],
+      "annotationTypes": {
+        "Highlight": 2
+      },
+      "sourceBlobURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/master/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E5%BE%90%E5%B8%86-%E6%9C%9F%E6%9C%AB%E7%9F%A5%E8%AF%86%E7%82%B9-%E7%AC%94%E8%AE%B0%E6%9C%AC+%2811%29.pdf",
+      "sourceIndex": "https://rekcarc-tsc-uht.readthedocs.io/en/latest/大一下.html",
+      "downloadDate": "2026-10-19",
+      "rawPrivate": true,
+      "rawPublic": false,
+      "rootAllPagesActuallyViewed": true,
+      "originalNameAndBytesPageOrderAndAnnotationsRetained": true
+    }
+  ],
+  "rawFiles": 1,
+  "rawBytes": 4420655,
+  "PDFPages": 11,
+  "distinctSHA256": 1,
+  "publicRawFiles": 0,
+  "pairingBoundary": "十一页手写复习提纲，含封面、历史复习建议、按第一至十周及矩阵应用组织的主题列表；不是历年题、逐题答案或当前官方考试大纲。文件名的人名不作为已核教师或作者。来源分值说法不作现行考试范围、命题比例或得分保证。",
+  "sourcePreservation": "原名、完整字节、封面、历史说明、页序、黄色强调和两个Highlight批注对象保持；不拆页、裁切、去批注、扁平化或修写。",
+  "specificBoundaries": [
+    "11页手写复习提纲含封面、历史复习说明、第一至十周主题与矩阵应用列表。",
+    "不是历年题、逐题参考答案或当前官方考试大纲，原文件名人名不认证作者或教师。",
+    "历史分值说法不作当前考试范围、命题比例或得分承诺；作者、学期、官方性与数学正确性均未核。"
+  ],
+  "identityBoundary": "作者、教师、学期、官方性和数学正确性未核，不因文件名有答案即认完整标准答案，不以笔迹颜色或日期戳推作者或学期。",
+  "sourceBoundary": "来自指定公开仓库官方文档已观察文件页及raw入口，2026-10-19取得；贡献者许可不一概覆盖第三方原件，不执行资料或外链。",
+  "verificationBoundary": "根代理逐页实际目视11页的证据沿用；源原件再次核字节SHA并与本地副本一致，规范同尺寸exact0见私有过程。云盘上传回取另验，不将本地复制认作云盘成功。",
+  "publicPolicy": "仅README和来源JSON公开，全部PDF、私有叶README、Info原值及样图皆私有，不拆页/去批注/裁切/扁平化或重写。"
+}
