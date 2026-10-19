@@ -1,0 +1,48 @@
+{
+  "batch": 313,
+  "date": "2026-10-19",
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A2",
+  "oldTargetUrl": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A2",
+  "sourceLeafRawPaths": 51,
+  "selectedPaths": 2,
+  "selectedBytes": 20263634,
+  "selectedPages": 27,
+  "selectedUniqueSHA": 2,
+  "sameSHAExisting1307": 0,
+  "remainingOldRawPaths": 21,
+  "items": [
+    {
+      "sourceLabel": "来源1",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告2",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/报告2压电与互感两来源_第313批/含身份的压电与互感混合稿",
+      "bytes": 10801148,
+      "sha256": "0eb5d524a9f2671f643a555b2f6c55cce90eaec3cc4c528f24c725c9092daedc",
+      "pages": 16,
+      "role": "16页压电与互感混合填写稿：封面同时题名两项实验；2–9页压电导纳原理数据、总结与横向图；10–13页示波器互感线圈原理测量；14页压电原始记录、15页互感原始记录、16页互感曲线。",
+      "identityConfirmed": true,
+      "sourceOldTargetEqual": true,
+      "allPagesStaticReviewed": true,
+      "annotationObjects": 0,
+      "formObjects": 0,
+      "attachments": 0,
+      "publicRaw": false
+    },
+    {
+      "sourceLabel": "来源2",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告2",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/报告2压电与互感两来源_第313批/含身份的压电导纳填写稿",
+      "bytes": 9462486,
+      "sha256": "d2e39f9963bdd700d5596f4a1b3c8121c254b6fdb22ddd309ea40e79cb97785e",
+      "pages": 11,
+      "role": "11页压电导纳填写稿：封面、原理步骤、数据计算与误差、思考小结，10页横向打印图，11页原始记录。",
+      "identityConfirmed": true,
+      "sourceOldTargetEqual": true,
+      "allPagesStaticReviewed": true,
+      "annotationObjects": 0,
+      "formObjects": 0,
+      "attachments": 0,
+      "publicRaw": false
+    }
+  ],
+  "policy": "云盘保留整件原字节，本批不新增原件入Git；未核云盘ACL，不据目录名宣称权限隔离。公共说明不转录身份/私人日期/评价。混合稿全部页和横向曲线保留，来源编号不证明版次，不推作者配对/学期/标准答案；非全课程闭环。"
+}
