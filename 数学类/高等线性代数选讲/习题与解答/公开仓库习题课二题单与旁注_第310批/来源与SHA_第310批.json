@@ -1,0 +1,76 @@
+{
+  "batch": 310,
+  "snapshotDate": "2026-10-19",
+  "files": [
+    {
+      "sourceName": "02-习题课二笔记.pdf",
+      "bytes": 14306723,
+      "sha256": "278be87af984eb8948131fd59b3fbf0809d95618064f90f656f09f6017525799",
+      "pages": 6,
+      "role": "题图配橙青旁注与选择性推导",
+      "pageRoles": [
+        "1题图及橙青旁注：Fourier级数/离散变换；末接第2题",
+        "2第2题正弦变换与三对角阵、末接第3题",
+        "3第4–6题及部分推导：幂零、实复域相似、可对角化与幂零分解",
+        "4第7–10题题图及部分推导：交换算子公共特征向量、幂零平方根、伴随矩阵/生成子空间、相似例子",
+        "5续第9题与第8题推导，次序照原件保存",
+        "6近空白仅少量点迹，保留"
+      ],
+      "annotationTypes": {},
+      "sourceBlobURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/master/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/exercises%EF%BC%88%E5%BE%90%E5%B8%86%E8%AF%BE%E5%A0%82%EF%BC%89/02-%E4%B9%A0%E9%A2%98%E8%AF%BE%E4%BA%8C%E7%AC%94%E8%AE%B0.pdf",
+      "sourceIndex": "https://rekcarc-tsc-uht.readthedocs.io/en/latest/大一下.html",
+      "downloadDate": "2026-10-19",
+      "rawPrivate": true,
+      "rawPublic": false,
+      "originalNameAndBytesPageOrderAndAnnotationsUnchanged": true,
+      "rootAllPagesActuallyViewed": true
+    },
+    {
+      "sourceName": "02-第二次习题课 (1).pdf",
+      "bytes": 5104155,
+      "sha256": "39f9c848ec59527e653ce6952e516d84b172d24ad70c4b954c05c606a5a16c21",
+      "pages": 13,
+      "role": "10题手写题单含封面和前置草稿",
+      "pageRoles": [
+        "1笔记本式空白封面",
+        "2手写正弦列向量等草稿；不是第1题正式正文",
+        "3–5第1题Fourier级数和离散变换，末接第2题",
+        "5–7第2题正弦变换及三对角阵，末接第3题",
+        "7第3题不变子空间",
+        "8第4–5题幂零/三角化/实复域相似",
+        "9第6题可对角化与幂零分解及矩阵例子",
+        "10第7题交换线性变换共同特征向量及接下页标记",
+        "11第8题幂零平方根和第9题伴随矩阵/生成子空间",
+        "12第9题续与第10题相似例子",
+        "13原有横线空白页"
+      ],
+      "annotationTypes": {},
+      "sourceBlobURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/master/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/exercises%EF%BC%88%E5%BE%90%E5%B8%86%E8%AF%BE%E5%A0%82%EF%BC%89/02-%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%B9%A0%E9%A2%98%E8%AF%BE%20%281%29.pdf",
+      "sourceIndex": "https://rekcarc-tsc-uht.readthedocs.io/en/latest/大一下.html",
+      "downloadDate": "2026-10-19",
+      "rawPrivate": true,
+      "rawPublic": false,
+      "originalNameAndBytesPageOrderAndAnnotationsUnchanged": true,
+      "rootAllPagesActuallyViewed": true
+    }
+  ],
+  "rawFiles": 2,
+  "rawBytes": 19410878,
+  "PDFPages": 19,
+  "distinctSHA256": 2,
+  "publicRawFiles": 0,
+  "criticalPairingBoundary": "两件主题大致对应但第2题表述有实质差异：13页题单写n阶Fourier矩阵及2π/n正弦项；6页笔记嵌入题图写2n阶矩阵及π/n正弦项。不可称完整逐字同题，也不可把旁注当全题标准答案或静默修订原题。",
+  "roleBoundary": "13页件含10题题单、封面、前置草稿和末空白；6页件是题图加橙青旁注与选择性参考推导，末近空白，不是独立官方完整答案。",
+  "question2Differences": {
+    "13PageQuestionSheet": "n阶Fourier矩阵及2π/n正弦项",
+    "6PageNoteEmbeddedQuestion": "2n阶Fourier矩阵及π/n正弦项",
+    "literalTextIdentical": false,
+    "originalQuestionCorrected": false,
+    "mathematicalValidityReviewed": false
+  },
+  "identityBoundary": "未知作者的题单/旁注参考，不认证教师、授课学期、官方性或数学正确性。导出或日期戳不代替学期，颜色不认批改身份。",
+  "preservationBoundary": "两SHA不同，整件分别保存；13页件第1页封面、第2页前置草稿及第13页原空白，6页件末近空白与所有原推导次序均保留，不拆解、裁切、去标记、扁平化或重写。",
+  "sourceBoundary": "来自用户指定公开仓库官方文档已观察文件页及其raw入口，2026-10-19取得；贡献者许可不一概涵盖第三方原件，不执行原件或外链。",
+  "verificationBoundary": "沿用根代理实际逐页目视19页，源2件再次字节SHA与本地副本一致，数学规范同尺寸候选0见私有过程。云盘上传完整回取另验，不以本地复制认作云盘成功。",
+  "publicPolicy": "仅README和来源JSON两份安全元信息公开，两个PDF、私有叶README、元信息原值与样图均不公开。"
+}
