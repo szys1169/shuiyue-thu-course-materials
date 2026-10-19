@@ -1,0 +1,28 @@
+{
+  "batch": 252,
+  "sourceDirectory": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E7%8E%B0%E4%BB%A3%E7%89%A9%E7%90%86%E5%AD%A6%E5%9F%BA%E7%A1%80%E4%B8%9B%E4%B9%A6",
+  "oldDirectory": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E7%8E%B0%E4%BB%A3%E7%89%A9%E7%90%86%E5%AD%A6%E5%9F%BA%E7%A1%80%E4%B8%9B%E4%B9%A6",
+  "sourcePathsSelected": 1,
+  "sourcePathsRemaining": 1,
+  "rawBytes": 18344557,
+  "uniqueSHA": 1,
+  "parsedPages": 214,
+  "reviewBoundary": "本批现代物理丛书8来源中的《量子物理新进展》单原件，18,344,557字节、214解析页，源/本人旧副本逐SHA一致，源旧两PDF直接下载不作ZIP CRC声明。正文梁九卿、韦联福共同著，科学出版社、现代物理基础丛书37，2011年8月第一版第一次印刷，ISBN978-7-03-032205-0，不只按来源简称认梁独著。八章规范变换、正则量子化、AB/Berry及非Abel相位、路径积分与瞬子、超对称量子力学、Shor及量子计算、非局域关联等，归既有量子力学教材专题参考，不认指定课程或只归量子场论。5核心均fresh渲染实际视觉，另首12页有界定位；0批注/表单/附件、repair=false，本次结构/文字抽样/定位及核心无警告。扫描抽样文字层空、不OCR，样页字形公式可辨；水印值不抄出，不认证全书完整、隐私净或公式正确，不修PDF/执行对象外链，原名原字节保持。整册只私有，云盘服务端归位本人已有副本，未上传PDF或ZIP，Git仅安全来源元信息，来源组README独立注明出处。规范同大小PDF候选零命中，不作全盘或同书去重结论。此叶累计7/8有去向、余1原件保持原name/href，不称整叶闭环；246/248/250六历史说明、量子21原名与待核状态、双朗道23原名、既有量子课程和128/160快照保持。",
+  "books": [
+    {
+      "sourceName": "[现代物理基础丛书]37量子物理新进展_梁九卿.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%85%B6%E4%BB%96%E7%94%B5%E5%AD%90%E4%B9%A6/%E7%8E%B0%E4%BB%A3%E7%89%A9%E7%90%86%E5%AD%A6%E5%9F%BA%E7%A1%80%E4%B8%9B%E4%B9%A6/%5B%E7%8E%B0%E4%BB%A3%E7%89%A9%E7%90%86%E5%9F%BA%E7%A1%80%E4%B8%9B%E4%B9%A6%5D37%E9%87%8F%E5%AD%90%E7%89%A9%E7%90%86%E6%96%B0%E8%BF%9B%E5%B1%95_%E6%A2%81%E4%B9%9D%E5%8D%BF.pdf",
+      "cloudRelativePath": "物理类/量子力学/教材/梁九卿韦联福量子物理新进展来源_第252批/[现代物理基础丛书]37量子物理新进展_梁九卿.pdf",
+      "studyRelativePath": "物理类/量子力学/教材/梁九卿韦联福量子物理新进展来源_第252批/[现代物理基础丛书]37量子物理新进展_梁九卿.pdf",
+      "bytes": 18344557,
+      "sha256": "9803efa1e6e3ead075191e3d34b05a4d464be70f96ce370e9450cb8ae484c371",
+      "parsedPages": 214,
+      "description": "《量子物理新进展》，梁九卿、韦联福著，科学出版社，现代物理基础丛书第37卷，ISBN 978-7-03-032205-0。版权页确认2011年8月第一版、第一次印刷。8章涵盖规范变换与量子经典对应、几何相位、路径积分与瞬子、超对称量子力学、量子计算及非局域关联等，适作量子力学的专题教材或学术参考，并可与量子计算、凝聚态资料建立参考关系，不认定指定课程用书。所看扫描文字公式图示可读，整册私有、原名原字节保持，未作逐页完整性认证。",
+      "annotations": 0,
+      "widgets": 0,
+      "embeddedAttachments": 0,
+      "repaired": false,
+      "rawPublic": false
+    }
+  ]
+}
