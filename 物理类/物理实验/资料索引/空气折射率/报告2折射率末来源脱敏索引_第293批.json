@@ -1,0 +1,32 @@
+{
+  "batch": 293,
+  "date": "2026-10-19",
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A2",
+  "oldTargetUrl": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A2",
+  "sourceLeafRawPaths": 51,
+  "selectedPaths": 1,
+  "selectedBytes": 3155946,
+  "selectedPages": 9,
+  "selectedUniqueSHA": 1,
+  "sameSHAExisting1235": 0,
+  "remainingOldRawPaths": 39,
+  "items": [
+    {
+      "sourceLabel": "末题名来源（精确原名仅私有）",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告2",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/报告2折射率末题名来源_第293批/含身份的手写报告与原始记录",
+      "bytes": 3155946,
+      "sha256": "75b926dcdd3d0c947b4677995f05270f8601b769e6f1f66d8b16cd1b2111cc6b",
+      "pages": 9,
+      "role": "9页手写填写报告，自制封面实际私人身份已证，含原理仪器步骤、数据与不确定度、误差思考与私人总结及末页原始记录。身份评价/私人日期经历不抄，原名不同拼写和原字节/纸面批改/黑边透印/全部页保持，不裁剪/修订答案，不认课程表头扩推/授课学期/标准答案或来源序号新版。",
+      "identityConfirmed": true,
+      "sourceOldTargetEqual": true,
+      "allPagesStaticReviewed": true,
+      "annotationObjects": 0,
+      "formObjects": 0,
+      "attachments": 0,
+      "publicRaw": false
+    }
+  ],
+  "policy": "安全来源角色元信息，不含个人值/本机绝对路径；原件和私有README/审读精确原名映射只私有，原名字节及全部记录保持，不将编号当新版、日期当学期或认标准答案。"
+}

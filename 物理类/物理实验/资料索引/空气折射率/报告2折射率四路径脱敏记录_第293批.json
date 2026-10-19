@@ -1,0 +1,79 @@
+{
+  "batch": 293,
+  "date": "2026-10-19",
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A2",
+  "stats": {
+    "selectedSourcePaths": 4,
+    "selectedSourceBytes": 7181632,
+    "uniqueSHA": 4,
+    "filePages": 26,
+    "historical291": 3,
+    "fresh293": 1,
+    "allLocalFreshSHA": 4,
+    "identityConfirmedPaths": 4,
+    "boundary": "仅报告2折射率四原路径限定记录，291历史3+293fresh1/local4fresh；历史source/cloud未本批重下，只复核已验保存成员字节，四SHA非四独立报告/新版，不推广历史单件物理A(2)表头到其它件或学期，仪器调整等余项不纳。"
+  },
+  "items": [
+    {
+      "sourceLabel": "来源路径1",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告2",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/报告2空气折射率三小来源_第291批/含身份的填写报告与原始记录",
+      "bytes": 919551,
+      "sha256": "0f4d4c8c730d79f583aa7ff0617656636581a9eb25b8669b813e8d5b4e51a4ba",
+      "pages": 5,
+      "role": "5页打印排版填写报告，首面及末页手写原始数据实际私人身份已证；本件表头明确物理A(2)，含原理步骤、数据处理、小结和末页原始记录。身份日期批改值不抄，不把该课程表头推广其它件或私人日期为学期，不认标准答案或版本先后。",
+      "identityConfirmed": true,
+      "evidenceBatch": 291,
+      "sourceOldTargetEqual": true,
+      "freshLocalSHA": true,
+      "cloudEvidence": "291历史已验cloud保存ZIPmember字节复核，非293新下载原件",
+      "publicRaw": false
+    },
+    {
+      "sourceLabel": "来源路径2",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告2",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/报告2空气折射率三小来源_第291批/含身份的填写报告与原始记录",
+      "bytes": 1979945,
+      "sha256": "9075e680a35fe7d82a318b9656b29a8f3d731acb7624ca82b8bf4c6d6559448b",
+      "pages": 7,
+      "role": "7页手写填写报告，首面私人身份实际已证；原理步骤、数据处理、思考题、误差与小结，末页有部分未填写的波长表和已填写折射率原始数据，完整保留不拆为空白题纸。身份日期评价值不抄，不认标准答案/来源序号新版或授课学期。",
+      "identityConfirmed": true,
+      "evidenceBatch": 291,
+      "sourceOldTargetEqual": true,
+      "freshLocalSHA": true,
+      "cloudEvidence": "291历史已验cloud保存ZIPmember字节复核，非293新下载原件",
+      "publicRaw": false
+    },
+    {
+      "sourceLabel": "来源路径3",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告2",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/报告2空气折射率三小来源_第291批/含身份的填写报告与原始记录",
+      "bytes": 1126190,
+      "sha256": "42093b3c74975c947de5fc97a7ee2fa901f70d2d299f50d26e5d4ba0a5092d50",
+      "pages": 5,
+      "role": "5页手写填写报告，首面私人身份实际已证；原理仪器步骤、数据处理、不确定度、思考与小结及末页原始数据。身份评价日期不抄，纸面批改黑边和全部记录保留，不认标准答案/版次或授课学期。",
+      "identityConfirmed": true,
+      "evidenceBatch": 291,
+      "sourceOldTargetEqual": true,
+      "freshLocalSHA": true,
+      "cloudEvidence": "291历史已验cloud保存ZIPmember字节复核，非293新下载原件",
+      "publicRaw": false
+    },
+    {
+      "sourceLabel": "来源路径4",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告2",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/报告2折射率末题名来源_第293批/含身份的手写报告与原始记录",
+      "bytes": 3155946,
+      "sha256": "75b926dcdd3d0c947b4677995f05270f8601b769e6f1f66d8b16cd1b2111cc6b",
+      "pages": 9,
+      "role": "9页手写填写报告，自制封面实际私人身份已证，含原理仪器步骤、数据与不确定度、误差思考与私人总结及末页原始记录。身份评价/私人日期经历不抄，原名不同拼写和原字节/纸面批改/黑边透印/全部页保持，不裁剪/修订答案，不认课程表头扩推/授课学期/标准答案或来源序号新版。",
+      "identityConfirmed": true,
+      "evidenceBatch": 293,
+      "sourceOldTargetEqual": true,
+      "freshLocalSHA": true,
+      "cloudEvidence": "本批完整限定scope新回取",
+      "publicRaw": false
+    }
+  ],
+  "policy": "四折射率来源原路径匿名记录，无私人值/精确原名/本机绝对路径；历史3+fresh1/local4fresh，不称四份全部本轮source/cloud重下、四独立报告/新版或整课完成。"
+}
