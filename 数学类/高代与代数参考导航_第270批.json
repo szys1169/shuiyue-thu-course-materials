@@ -1,0 +1,186 @@
+{
+  "batch": 270,
+  "snapshotDate": "2026-10-19",
+  "purpose": "高代与代数参考入口导航，保留现有课程目录和来源说明，不替换课程README",
+  "courseCount": 3,
+  "formalCategoryEntrypoints": 13,
+  "recentSafeDescriptionEntrypoints": 5,
+  "courses": [
+    {
+      "name": "高等线性代数",
+      "url": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0",
+      "localCourseRelativePath": "数学类/高等代数",
+      "categories": [
+        {
+          "name": "讲义",
+          "url": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E8%AE%B2%E4%B9%89"
+        },
+        {
+          "name": "教材",
+          "url": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E6%95%99%E6%9D%90"
+        },
+        {
+          "name": "往年题",
+          "url": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E5%BE%80%E5%B9%B4%E9%A2%98"
+        },
+        {
+          "name": "习题解答",
+          "url": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94"
+        },
+        {
+          "name": "作业",
+          "url": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E4%BD%9C%E4%B8%9A"
+        },
+        {
+          "name": "参考阅读",
+          "url": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E5%8F%82%E8%80%83%E9%98%85%E8%AF%BB"
+        }
+      ],
+      "boundary": "既有类别入口，不意味着全课文件已整理、重取或质量审净"
+    },
+    {
+      "name": "高等线性代数选讲",
+      "url": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2",
+      "localCourseRelativePath": "数学类/高代选",
+      "categories": [
+        {
+          "name": "讲义",
+          "url": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E8%AE%B2%E4%B9%89"
+        },
+        {
+          "name": "往年题",
+          "url": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E5%BE%80%E5%B9%B4%E9%A2%98"
+        },
+        {
+          "name": "习题与解答",
+          "url": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94"
+        }
+      ],
+      "boundary": "既有类别入口，不意味着全课文件已整理、重取或质量审净"
+    },
+    {
+      "name": "交换代数",
+      "url": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E4%BA%A4%E6%8D%A2%E4%BB%A3%E6%95%B0",
+      "localCourseRelativePath": "数学类/交换代数",
+      "categories": [
+        {
+          "name": "参考阅读",
+          "url": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E4%BA%A4%E6%8D%A2%E4%BB%A3%E6%95%B0/%E5%8F%82%E8%80%83%E9%98%85%E8%AF%BB"
+        },
+        {
+          "name": "教材",
+          "url": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E4%BA%A4%E6%8D%A2%E4%BB%A3%E6%95%B0/%E6%95%99%E6%9D%90"
+        },
+        {
+          "name": "习题参考",
+          "url": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E4%BA%A4%E6%8D%A2%E4%BB%A3%E6%95%B0/%E4%B9%A0%E9%A2%98%E5%8F%82%E8%80%83"
+        },
+        {
+          "name": "学习记录",
+          "url": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E4%BA%A4%E6%8D%A2%E4%BB%A3%E6%95%B0/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95"
+        }
+      ],
+      "boundary": "既有类别入口，不意味着全课文件已整理、重取或质量审净"
+    }
+  ],
+  "recentSafeDescriptions": [
+    {
+      "batch": 260,
+      "name": "Bernstein–Sato参考阅读",
+      "safeREADMEURL": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E4%BA%A4%E6%8D%A2%E4%BB%A3%E6%95%B0/%E5%8F%82%E8%80%83%E9%98%85%E8%AF%BB/Bernstein-Sato%E6%9C%AC%E5%9C%B0%E5%8F%82%E8%80%83_%E7%AC%AC260%E6%89%B9/README.md",
+      "role": "交换代数综述与暑校讲义"
+    },
+    {
+      "batch": 262,
+      "name": "矩阵环零理想研究阅读",
+      "safeREADMEURL": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E5%8F%82%E8%80%83%E9%98%85%E8%AF%BB/%E7%9F%A9%E9%98%B5%E7%8E%AF%E9%9B%B6%E7%90%86%E6%83%B3%E6%9C%AC%E5%9C%B0%E5%8F%82%E8%80%83_%E7%AC%AC262%E6%89%B9/README.md",
+      "role": "矩阵环零理想研究文献与待核草稿"
+    },
+    {
+      "batch": 264,
+      "name": "个人Jordan题单",
+      "safeREADMEURL": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E4%B8%AA%E4%BA%BAJordan%E9%A2%98%E5%8D%95_%E7%AC%AC264%E6%89%B9/README.md",
+      "role": "个人Jordan空白练习题纸（原件按264单独授权公开）"
+    },
+    {
+      "batch": 264,
+      "name": "行列式手写单页来源待核",
+      "safeREADMEURL": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94/%E8%A1%8C%E5%88%97%E5%BC%8F%E6%89%8B%E5%86%99%E5%8D%95%E9%A1%B5%E6%9D%A5%E6%BA%90%E5%BE%85%E6%A0%B8_%E7%AC%AC264%E6%89%B9/README.md",
+      "role": "行列式手写单页来源说明（原图私有）"
+    },
+    {
+      "batch": 268,
+      "name": "中文教材本地归位说明",
+      "safeREADMEURL": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E6%95%99%E6%9D%90/README_%E4%B8%AD%E6%96%87%E6%95%99%E6%9D%90%E6%9C%AC%E5%9C%B0%E5%BD%92%E4%BD%8D_%E7%AC%AC268%E6%89%B9.md",
+      "role": "中文教材本地归位安全说明，原书不公开，本轮不重取原书"
+    }
+  ],
+  "observedExternalURLInstances": 21,
+  "observedExternalUniqueURLs": 21,
+  "mappingBoundary": "本地高等代数、高代选分别对应云盘及仓库高等线性代数、高等线性代数选讲；本地习题与云盘习题与解答按264既有类别映射，不新建同义目录。",
+  "scopeBoundary": "这是2026-10-19三课程与近期参考组的日期导航，不是全数学类或整门课程已完成整理、全文质量或隐私审净声明。目录入口沿ROOT既有实际UI快照，近期说明沿260/262/264/268限定验收；本批不重新下载所有课程正文。",
+  "publicBoundary": "本导航只链接课程/类别入口和安全README，不链接私有过程原件、原始来源归档或raw正文。Jordan原题纸是否公开沿264独立授权，其余整书、论文、草稿、手写图的私有范围不扩大。",
+  "recentSafeMetadataSHA": [
+    {
+      "studyRelativePath": "数学类/交换代数/参考阅读/Bernstein-Sato本地参考_第260批/README.md",
+      "cloudRelativePath": "数学类/交换代数/参考阅读/Bernstein-Sato本地参考_第260批/README.md",
+      "bytes": 1654,
+      "sha256": "67c03ffcb4956d67a5a935d568c08b372666116aca5516ded0a0a24d60bb0ea4"
+    },
+    {
+      "studyRelativePath": "数学类/交换代数/参考阅读/Bernstein-Sato本地参考_第260批/来源与SHA_第260批.json",
+      "cloudRelativePath": "数学类/交换代数/参考阅读/Bernstein-Sato本地参考_第260批/来源与SHA_第260批.json",
+      "bytes": 3285,
+      "sha256": "f2f53390a2e1b829f1324a199c29fe536b57aa99ce15b0081ee535936008cd8b"
+    },
+    {
+      "studyRelativePath": "数学类/高等代数/参考阅读/矩阵环零理想本地参考_第262批/README.md",
+      "cloudRelativePath": "数学类/高等线性代数/参考阅读/矩阵环零理想本地参考_第262批/README.md",
+      "bytes": 2580,
+      "sha256": "ac735d1ec54ab2258aca07f86874f1c4a2f90acb02e00d7da1d207a0745a2a35"
+    },
+    {
+      "studyRelativePath": "数学类/高等代数/参考阅读/矩阵环零理想本地参考_第262批/来源与SHA_第262批.json",
+      "cloudRelativePath": "数学类/高等线性代数/参考阅读/矩阵环零理想本地参考_第262批/来源与SHA_第262批.json",
+      "bytes": 6728,
+      "sha256": "72d41307a8fd98295ed1f54575bea48aa91b5af49242c568e5c1b08a36ed4a8e"
+    },
+    {
+      "studyRelativePath": "数学类/高代选/习题/个人Jordan题单_第264批/README.md",
+      "cloudRelativePath": "数学类/高等线性代数选讲/习题与解答/个人Jordan题单_第264批/README.md",
+      "bytes": 1534,
+      "sha256": "df2f8053e2e162c358207eac55b25dcfec36138394336045600387704aa8e9dd"
+    },
+    {
+      "studyRelativePath": "数学类/高代选/习题/个人Jordan题单_第264批/来源与SHA_第264批.json",
+      "cloudRelativePath": "数学类/高等线性代数选讲/习题与解答/个人Jordan题单_第264批/来源与SHA_第264批.json",
+      "bytes": 2008,
+      "sha256": "d16d0ad640361f91a4d1594fd6aed5e6047aba21cd54964b0ba1e420029e4deb"
+    },
+    {
+      "studyRelativePath": "数学类/高等代数/习题解答/行列式手写单页来源待核_第264批/README.md",
+      "cloudRelativePath": "数学类/高等线性代数/习题解答/行列式手写单页来源待核_第264批/README.md",
+      "bytes": 1173,
+      "sha256": "28ffcad7e7496f56d4682ddaf678244940b4f32b80475d1be313757ab39c6790"
+    },
+    {
+      "studyRelativePath": "数学类/高等代数/习题解答/行列式手写单页来源待核_第264批/来源与SHA_第264批.json",
+      "cloudRelativePath": "数学类/高等线性代数/习题解答/行列式手写单页来源待核_第264批/来源与SHA_第264批.json",
+      "bytes": 1903,
+      "sha256": "da8e4f2af17dfefa988e0e3bdb7717cd382bac413ffeffe9e8665a783b9c5876"
+    },
+    {
+      "studyRelativePath": "数学类/高等代数/教材/README_中文教材本地归位_第268批.md",
+      "cloudRelativePath": "数学类/高等线性代数/教材/README_中文教材本地归位_第268批.md",
+      "bytes": 1527,
+      "sha256": "75147d3bad304051a1f0def89a48cfa7ef76f2a46ad2838f0c3bc5e27da0734a"
+    },
+    {
+      "studyRelativePath": "数学类/高等代数/教材/来源与SHA_第268批.json",
+      "cloudRelativePath": "数学类/高等线性代数/教材/来源与SHA_第268批.json",
+      "bytes": 3113,
+      "sha256": "d93e1335b7e2254625251aea4758fe94e227c2ed5461ff918999c30668510bf4"
+    }
+  ],
+  "preservationBoundary": "只新增数学类根部两份导航，不修改三课程README、既有分类、历史各批元信息或原件。"
+}
