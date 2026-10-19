@@ -1,0 +1,92 @@
+{
+  "batch": 304,
+  "snapshotDate": "2026-10-19",
+  "files": [
+    {
+      "sourceName": "5班期中考试试卷答案.pdf",
+      "bytes": 7129028,
+      "sha256": "3bcb093c4e24af6b171052754f2d550d346f6dc0c31919fcd3b3d211c3f39a90",
+      "pages": 3,
+      "role": "拍摄手写参考解答",
+      "sourceBlobURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/master/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/2021-exam-%E6%9D%8E%E9%B9%8F%E8%BE%89/5%E7%8F%AD%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E8%AF%95%E5%8D%B7%E7%AD%94%E6%A1%88.pdf",
+      "sourceIndex": "https://rekcarc-tsc-uht.readthedocs.io/en/latest/大一下.html",
+      "downloadDate": "2026-10-19",
+      "pairedExam": "midterm2.pdf",
+      "pairedExamSHA256": "37303b133041f7d6536eadf9dc09118cddde9caf52a73427e59169da63301187",
+      "pairedExamDate": "2021-04-16",
+      "pairedExamPaper": "B",
+      "pairingEvidence": [
+        "Q1乘积空间/线性映射空间维数及矩阵反例与B卷条件相配",
+        "Q2对称/反对称矩阵特征空间对应B卷转置算子",
+        "Q3 P4求导算子及P2商空间对应B卷",
+        "Q4保持U的算子集合与B卷一致"
+      ],
+      "pageRoles": [
+        "Q1维数/反例/幂零与Q2转置算子特征空间",
+        "Q2余下与Q3求导算子/商空间",
+        "Q4保持子空间算子空间及维数"
+      ],
+      "bodyAuthorVerified": false,
+      "answerCreationOrTeachingDateVerified": false,
+      "officialStatusVerified": false,
+      "mathematicalCorrectnessReviewed": false,
+      "originalNameAndBytesUnchanged": true,
+      "rawPrivate": true,
+      "rawPublic": false,
+      "parserRepair": false,
+      "annotationCount": 0,
+      "formCount": 0,
+      "embeddedFiles": 0,
+      "warnings": ""
+    },
+    {
+      "sourceName": "solution.pdf",
+      "bytes": 2812357,
+      "sha256": "8b8d27b08b04c546f0bf004ae5da60c3f7a140be13bffc7d460a8f09bbc5f264",
+      "pages": 4,
+      "role": "重排题干附红色手写参考解答与分值提示",
+      "sourceBlobURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/master/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/2021-exam-%E6%9D%8E%E9%B9%8F%E8%BE%89/solution.pdf",
+      "sourceIndex": "https://rekcarc-tsc-uht.readthedocs.io/en/latest/大一下.html",
+      "downloadDate": "2026-10-19",
+      "pairedExam": "midterm.pdf",
+      "pairedExamSHA256": "418b72a2bd538c63551829665d27bf57721f241a419327ec1fc83b9c4ab25e97",
+      "pairedExamDate": "2021-04-13",
+      "pairedExamPaper": "A",
+      "pairingEvidence": [
+        "四大题印刷条件逐一对应已核A卷",
+        "Q2交换两个坐标的算子",
+        "Q3二维矩阵交换子线性映射",
+        "Q4 TS=0与商空间维数恒等式"
+      ],
+      "pageRoles": [
+        "重印A卷Q1/Q2(1)及红色手写解答与分值提示",
+        "Q2(2)/Q3(1)及红色解答",
+        "Q3(2)(3)及红色解答",
+        "Q4及红色解答"
+      ],
+      "bodyAuthorVerified": false,
+      "answerCreationOrTeachingDateVerified": false,
+      "officialStatusVerified": false,
+      "mathematicalCorrectnessReviewed": false,
+      "originalNameAndBytesUnchanged": true,
+      "rawPrivate": true,
+      "rawPublic": false,
+      "parserRepair": false,
+      "annotationCount": 0,
+      "formCount": 0,
+      "embeddedFiles": 0,
+      "warnings": ""
+    }
+  ],
+  "rawFiles": 2,
+  "rawBytes": 9941385,
+  "PDFPages": 7,
+  "publicRawFiles": 0,
+  "role": "已有两份空白题卷的手写参考解答来源补充",
+  "pairingBoundary": "配对按四个大题的实际条件逐一核对；pairedExamDate来自已核卷面，不能据此认定手稿创作或教学日期。两份参考均未见明确作者署名；源名5班、期中及来源人名仅作标签，不认定教师、真实考试类型、官方标准答案或数学正确性。",
+  "redWritingBoundary": "solution中的红色分值分配提示与手写推导保持原状，不当作个人实得成绩或教师批改。",
+  "sourceBoundary": "从用户指定公开仓库的官方文档已观察blob和页面raw入口取得；来源URLs可追溯。仓库贡献者许可不一概覆盖第三方原件。本批整件手写稿全部私有，不在安全说明中直链私有正文。",
+  "oldFilesPolicy": "原第298批两个空白卷与README、来源JSON四文件不改字节；本批只新增两份安全说明及私有叶两原PDF和直接来源README。",
+  "verificationBoundary": "根代理已对两份共7页实际逐页目视。源下载与本地副本逐SHA一致、数学规范同尺寸候选0的证据另存私有过程。云盘上传回取另验，不以本地复制冒称云盘成功。",
+  "publicPolicy": "仅README_参考解答来源补充_第304批.md与本JSON两安全文件公开；PDF两原件、私有叶README、Info原值及样图不公开。"
+}
