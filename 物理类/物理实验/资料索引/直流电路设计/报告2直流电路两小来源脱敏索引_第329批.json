@@ -1,0 +1,49 @@
+{
+  "batch": 329,
+  "date": "2026-10-19",
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A2",
+  "oldTargetUrl": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A2",
+  "sourceLeafRawPaths": 51,
+  "selectedPaths": 2,
+  "selectedBytes": 6833432,
+  "selectedPages": 23,
+  "selectedUniqueSHA": 2,
+  "sameSHAExisting1365": 0,
+  "remainingOldRawPaths": 9,
+  "items": [
+    {
+      "sourceLabel": "来源1",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告2",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/报告2直流电路两小来源_第329批/含身份的直流设计填写稿与原始记录",
+      "bytes": 4874755,
+      "sha256": "c0bb3f8fe1b20a605ac1a388678447ee562624f5156a28854e4e5938efd45514",
+      "pages": 14,
+      "role": "14页直流设计手写填写稿：自制封面身份已证，2–5页原理仪器步骤，6–10页数据处理，11页思考题，12页私人总结，13–14页原始记录。",
+      "identityConfirmed": true,
+      "sourceOldTargetEqual": true,
+      "allPagesStaticReviewed": true,
+      "annotationObjects": 0,
+      "formObjects": 0,
+      "attachments": 0,
+      "publicRaw": false
+    },
+    {
+      "sourceLabel": "来源2",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告2",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/报告2直流电路两小来源_第329批/含身份的直流设计填写稿与原始记录",
+      "bytes": 1958677,
+      "sha256": "a8e66e3cf4f1f5f2ebcaee9fc265b055b877893214145e6450294a9dbe4adce8",
+      "pages": 9,
+      "role": "9页直流设计手写填写稿：首行身份已证，1–3页原理仪器，4–7页数据处理，8页思考题，9页原始记录。",
+      "identityConfirmed": true,
+      "sourceOldTargetEqual": true,
+      "allPagesStaticReviewed": true,
+      "annotationObjects": 0,
+      "formObjects": 0,
+      "attachments": 0,
+      "publicRaw": false
+    }
+  ],
+  "oldEvidence": "327冻结SHA继承，本批仅路径尺寸mtime与漂移/同尺寸候选增量核验，非旧全量本批fresh",
+  "policy": "原件完整云盘保存，本批未新增Git；编号沿原题名，作者学期待核。私人值不转录，未证具体课程学期或教师标准答案。"
+}
