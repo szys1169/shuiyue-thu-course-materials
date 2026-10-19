@@ -1,0 +1,75 @@
+{
+  "batch": 318,
+  "snapshotDate": "2026-10-19",
+  "files": [
+    {
+      "sourceName": "06-习题课材料六.pdf",
+      "bytes": 14187688,
+      "sha256": "f63c60208a319807e04c5162e45cdbd0d0403a2588a5a297b27344ca00928b4e",
+      "pages": 45,
+      "pageRoles": [
+        "1笔记本式空白封面",
+        "2–13八题题单：弹簧模型、微分与差分、固定端模型、Gelfand、非负矩阵与谱半径、Leslie人口模型",
+        "14单独参考答案标题页",
+        "15–16第1题参考推导",
+        "17–22第2题微分差分参考推导与误差比较图",
+        "23–26第3题固定端刚度模型、逆的正性及圆盘定理补充",
+        "27–29第4题Gelfand相关参考推导",
+        "30一页未完的删除行列矩阵表达式夹页，原位保留，不拼接或删页",
+        "31–34第5题非负矩阵参考推导",
+        "35–39第6题谱投影与迭代参考推导",
+        "40–41第7题严格谱半径比较参考推导",
+        "42–45第8题Leslie模型、路径图、归一化人口比例参考推导"
+      ],
+      "annotationTypes": {},
+      "sourceBlobURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/master/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/exercises%EF%BC%88%E5%BE%90%E5%B8%86%E8%AF%BE%E5%A0%82%EF%BC%89/06-%E4%B9%A0%E9%A2%98%E8%AF%BE%E6%9D%90%E6%96%99%E5%85%AD.pdf",
+      "sourceIndex": "https://rekcarc-tsc-uht.readthedocs.io/en/latest/大一下.html",
+      "downloadDate": "2026-10-19",
+      "rawPrivate": true,
+      "rawPublic": false,
+      "rootAllPagesActuallyViewed": true,
+      "originalNameAndBytesPageOrderAndAnnotationsRetained": true
+    },
+    {
+      "sourceName": "06-习题课材料六答案.pdf",
+      "bytes": 4373026,
+      "sha256": "7d98804c858e28b10387662f5f1c530836233ab4df9ecb97c8d4c5747ece40e5",
+      "pages": 13,
+      "pageRoles": [
+        "1笔记本式空白封面",
+        "2第1题四弹簧两质体模型",
+        "3–4第2题微分与差分、自由固定端模型",
+        "5第3题两端固定模型",
+        "6第4题Gelfand公式题",
+        "7–8第5题非负矩阵及谱半径问题",
+        "9–10第6题正矩阵谱投影与迭代问题",
+        "11第7题谱半径严格比较问题",
+        "12–13第8题Leslie人口模型；全文只有八题题单及说明，没有参考答案段落"
+      ],
+      "annotationTypes": {},
+      "sourceBlobURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/master/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/exercises%EF%BC%88%E5%BE%90%E5%B8%86%E8%AF%BE%E5%A0%82%EF%BC%89/06-%E4%B9%A0%E9%A2%98%E8%AF%BE%E6%9D%90%E6%96%99%E5%85%AD%E7%AD%94%E6%A1%88.pdf",
+      "sourceIndex": "https://rekcarc-tsc-uht.readthedocs.io/en/latest/大一下.html",
+      "downloadDate": "2026-10-19",
+      "rawPrivate": true,
+      "rawPublic": false,
+      "rootAllPagesActuallyViewed": true,
+      "originalNameAndBytesPageOrderAndAnnotationsRetained": true
+    }
+  ],
+  "rawFiles": 2,
+  "rawBytes": 18560714,
+  "PDFPages": 58,
+  "distinctSHA256": 2,
+  "publicRawFiles": 0,
+  "pairingBoundary": "文件名与实际角色相反：06-习题课材料六.pdf有45页，1–13封面与八题题单，14参考答案标题，15–45参考推导和补充；06-习题课材料六答案.pdf有13页，只是八题题单及说明，无参考答案段落。保留来源原名，在README和JSON明确说明，不按文件名误分。",
+  "sourcePreservation": "四十五页件前十三页对应题单内容，但整件SHA不同，两件均保留；第三十页未完推导夹页原位保存，不删页、重排或静默校订数学，全部批注和封面原样。",
+  "specificBoundaries": [
+    "原文件名与用途相反：材料六.pdf45页含题目及参考；材料六答案.pdf13页仅题单说明，无参考答案段。",
+    "45页件1–13封面八题、14参考答案标题、15–45参考推导；第30页未完删除行列矩阵表达式夹页原位保留。",
+    "两整SHA不同全部保存，不按前13页题目重叠去重，不删页、重排、拼接或修订公式。"
+  ],
+  "identityBoundary": "作者、教师、学期、官方性和数学正确性未核，不因文件名有答案即认完整标准答案，不以笔迹颜色或日期戳推作者或学期。",
+  "sourceBoundary": "来自指定公开仓库官方文档已观察文件页及raw入口，2026-10-19取得；贡献者许可不一概覆盖第三方原件，不执行资料或外链。",
+  "verificationBoundary": "根代理逐页实际目视58页的证据沿用；源原件再次核字节SHA并与本地副本一致，规范同尺寸exact0见私有过程。云盘上传回取另验，不将本地复制认作云盘成功。",
+  "publicPolicy": "仅README和来源JSON公开，全部PDF、私有叶README、Info原值及样图皆私有，不拆页/去批注/裁切/扁平化或重写。"
+}
