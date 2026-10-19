@@ -1,17 +1,24 @@
 # 拓扑学
 
-整理日期：2026-10-18。
+更新：2026-10-19。按现有课程归档、个人整理与专题参考查找。
 
-来源：[宗正宇拓扑学网络学堂](https://learn.tsinghua.edu.cn/)、[致理拓扑学](https://cloud.tsinghua.edu.cn/library/6b1e3d52-ae3d-49cb-b5e4-5c944e3cba62/%E3%80%90%E5%8F%AA%E8%AF%BB%E3%80%91%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%8B%93%E6%89%91%E5%AD%A6)、[致理基础拓扑学](https://cloud.tsinghua.edu.cn/library/6b1e3d52-ae3d-49cb-b5e4-5c944e3cba62/%E3%80%90%E5%8F%AA%E8%AF%BB%E3%80%91%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%9F%BA%E7%A1%80%E6%8B%93%E6%89%91%E5%AD%A6)、本地 `本地归档（路径省略）`。答疑坊数学类无拓扑专科，“数学其他”为空。源压缩包仅本地展开；不上传压缩包。原文件保留，相同SHA256折叠到规范路径并在来源清单记录别名。
+## 课堂与作业
 
-当前课程为2026-2027秋、宗正宇。当前学堂原稿1–8与源标记2025秋原稿1–29分别管理；其中1–5、8同哈希已复用当前目录，6、7存在异版而并存。往届目录名称仅作为来源标记，不推断每页手写稿日期。
+- [2026—2027秋课堂资料](https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%8B%93%E6%89%91%E5%AD%A6/%E8%AE%B2%E4%B9%89/2026-2027%E7%A7%8B%E5%AD%A3%E5%AD%A6%E6%9C%9F/README.md)：宗正宇教师原稿1—8与个人中文整理分别存放；个人整理另含专题1—4。
+- [往届来源与补充讲义](https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%8B%93%E6%89%91%E5%AD%A6/%E8%AE%B2%E4%B9%89/README.md)：源标记2025秋原稿、艾颖华学期待核资料及其他补充体系，沿各来源说明区分。
+- [作业](https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%8B%93%E6%89%91%E5%AD%A6/%E4%BD%9C%E4%B8%9A/README.md)：当前学期与源标记2025秋分开。题目、个人参考、实际上交稿和批注按角色查阅。
 
-个人中文整理为1–8讲和专题1–4，非教师原稿；Armstrong个人译稿仅第1–5章。旧合订范围与旧部分译稿归旧版。艾颖华讲义、de Rham和代数拓扑参考资料放补充体系，不混作本学期课堂原稿。Hatcher的git/USTC文件是参考解答，来源命名不作为作者已核实证据。
+## 教材、译稿与习题
 
-作业以平台身份为准：前两周已批改，第3–4周已提交未批改，第五周未提交。题目、个人参考解答、上交附件、批注分开；不公开成绩页、账户资料或含成绩的日志。实际作业文件按原件保存，未改写原文。
+- [教材与参考书](https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%8B%93%E6%89%91%E5%AD%A6/%E6%95%99%E6%9D%90/README.md)：学堂参考书、de Rham及代数拓扑补充参考，按原分类查阅。
+- [Armstrong个人学习译稿](https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%8B%93%E6%89%91%E5%AD%A6/%E6%95%99%E6%9D%90/%E4%B8%AA%E4%BA%BA%E5%AD%A6%E4%B9%A0%E8%AF%91%E7%A8%BF/README.md)：现有第1—5章译稿及原来源说明，和原书分别保存。
+- [教材参考解答](https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%8B%93%E6%89%91%E5%AD%A6/%E4%B9%A0%E9%A2%98/README.md)：Hatcher等来源参考稿，具体编写身份见说明。
+- [往年题](https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%8B%93%E6%89%91%E5%AD%A6/%E5%BE%80%E5%B9%B4%E9%A2%98/README.md)：2021春来源、2022秋、2025秋及部分年份待核历史题，保留卷面与来源命名的区别。
 
-历史题文件名包含“字班”、2017、2023等而正文不写完整年份时，仅保留来源命名，不推算年份或教师。卷面明确的2022秋、2025秋单列；不同字节异版保留，不判新旧。
+## 来源补充
 
+- [物理库基础拓扑来源](https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%8B%93%E6%89%91%E5%AD%A6/README_%E7%89%A9%E7%90%86%E5%BA%93%E6%8B%93%E6%89%91%E8%A1%A5%E5%85%85_%E7%AC%AC67%E6%89%B9.md)：2021英文讲义的两种编排及拓扑与物理历史文章。
+- [上同调来源变体](https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%8B%93%E6%89%91%E5%AD%A6/README_%E4%B8%8A%E5%90%8C%E8%B0%83%E6%9D%A5%E6%BA%90%E5%8F%98%E4%BD%93%E8%A1%A5%E5%85%85_%E7%AC%AC164%E6%89%B9.md)：规范参考与同字节来源别名、批注变体的对应说明。
+- [Munkres同SHA来源别名](https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%8B%93%E6%89%91%E5%AD%A6/README_Munkres%E6%9D%A5%E6%BA%90%E5%88%AB%E5%90%8D%E8%A1%A5%E5%85%85_%E7%AC%AC170%E6%89%B9.md)：既有规范教材与另一来源副本的关系说明。
 
-
-> GitHub 版本已省略个人平台链接及本机路径；资料原文件未改写。
+个人整理、译稿和参考解答按来源角色使用，教师原稿与不同课程体系分别保留。本页提供安全说明入口，不直接收录个人提交、批改或资料正文；具体学期和版本边界见各来源说明。
