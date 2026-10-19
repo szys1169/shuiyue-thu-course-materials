@@ -1,0 +1,36 @@
+{
+  "batch": 339,
+  "date": "2026-10-19",
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A2",
+  "oldTargetUrl": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A2",
+  "sourceLeafRawPaths": 51,
+  "selectedPaths": 1,
+  "selectedBytes": 41666079,
+  "selectedPages": 15,
+  "selectedUniqueSHA": 1,
+  "sameSHAExisting1397": 0,
+  "remainingOldRawPaths": 4,
+  "items": [
+    {
+      "sourceLabel": "来源1",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告2",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/报告2核磁共振单来源_第339批/含签署标记的核磁与逸出功混合填写稿",
+      "bytes": 41666079,
+      "sha256": "8b224e4d037ae8f193cc5925face065ee59f99201c2c286e89a8199d8f5d4b1e",
+      "pages": 15,
+      "role": "15页混合实验填写稿：前9页为核磁共振测磁场材料，6–8页兼有霍尔效应与电导率处理；10–15页为逸出功拟合图表及计算附页。5页签署样和日期标记归属未核，原件整件保存，不称三份独立报告或完整配套。",
+      "identityConfirmed": false,
+      "sourceOldTargetEqual": true,
+      "allPagesStaticReviewed": true,
+      "annotationObjects": 0,
+      "formObjects": 0,
+      "AcroFormMetadata": "目录有AcroForm引用，Fields为空数组，is_form_pdf=0；未执行任何对象",
+      "signatureLikeMarkVisible": true,
+      "signatureAttributionVerified": false,
+      "attachments": 0,
+      "publicRaw": false
+    }
+  ],
+  "oldEvidence": "337冻结SHA继承，本批仅路径尺寸mtime与漂移/同尺寸候选增量核验，非旧全量本批fresh",
+  "policy": "原件完整云盘保存，本批未新增Git；编号沿原题名，作者学期待核。私人值不转录，签署样归属未核，不据此确认真实身份；完整混合页按所见角色归档，私人日期不当授课学期。"
+}
