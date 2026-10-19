@@ -1,0 +1,65 @@
+{
+  "batch": 341,
+  "date": "2026-10-19",
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A2",
+  "oldTargetUrl": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A2",
+  "sourceLeafPaths": 51,
+  "selectedPaths": 1,
+  "selectedBytes": 15456500,
+  "selectedPages": 438,
+  "selectedUniqueSHA": 1,
+  "remainingOldRawPaths": 3,
+  "sameSHAExisting1403": 0,
+  "items": [
+    {
+      "sourceLabel": "综合汇编来源",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告2",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/报告2综合实验扫描汇编_第341批/含身份的多实验扫描汇编",
+      "bytes": 15456500,
+      "sha256": "fa43e4398da94be5741903626a153cee739583fa428dd98e442394675bd8071e",
+      "physicalPages": 438,
+      "role": "438页多主题、来源混合的填写及批改实验报告扫描汇编；仅实际查看1/2/3/4/19/81/219/438共8页，其余只核PDF结构元数据。抽样涉及空气比热系数、塞曼、电表测量及传输线，书签不能作可靠完整目录，编者与整组学期待核。",
+      "identityConfirmedFromSample": true,
+      "allPagesVisualReviewed": false,
+      "visualPagesActuallyViewed": [
+        1,
+        2,
+        3,
+        4,
+        19,
+        81,
+        219,
+        438
+      ],
+      "structuralMetadataPages": 438,
+      "sourceOldTargetEqual": true,
+      "annotations": 0,
+      "visibleWidgets": 0,
+      "embeddedFiles": 0,
+      "AcroFormMetadata": {
+        "catalogAcroFormPresent": true,
+        "isFormPdf": 0,
+        "widgetsAll438": 0
+      },
+      "publicRaw": false
+    }
+  ],
+  "bookmarkEvidence": [
+    {
+      "name": "塞曼",
+      "targetPage": 19,
+      "sampleContentMatches": true
+    },
+    {
+      "name": "迈克尔孙",
+      "targetPage": 81,
+      "sampleContentMatches": false,
+      "actualRole": "电表测量材料"
+    }
+  ],
+  "completeTableOfContentsEstablished": false,
+  "compilerSemesterAndCorrectnessVerified": false,
+  "sourceOldEvidence": "复用380已实际回取源旧同字节证据，341fresh本地输入SHA tie，最终341cloud整件重新回取核验另记；不称438全页实阅",
+  "oldEvidence": "339冻结SHA继承+本轮stat及漂移/同尺寸候选增量核验，非旧全量fresh",
+  "policy": "整件原字节438页、原书签、批改、黑块与页边横向图全部云盘保存，本批不新增原件Git；父叶README不加入Git白名单，不据目录名认云盘ACL。"
+}
