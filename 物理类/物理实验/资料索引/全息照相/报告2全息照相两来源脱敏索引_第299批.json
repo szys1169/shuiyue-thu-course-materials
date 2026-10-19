@@ -1,0 +1,50 @@
+{
+  "batch": 299,
+  "date": "2026-10-19",
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A2",
+  "oldTargetUrl": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A2",
+  "sourceLeafRawPaths": 51,
+  "selectedPaths": 2,
+  "selectedBytes": 3304067,
+  "selectedPages": 12,
+  "selectedUniqueSHA": 2,
+  "sameSHAExisting1257": 0,
+  "identityConfirmedPaths": 1,
+  "identityUnconfirmedPaths": 1,
+  "remainingOldRawPaths": 33,
+  "items": [
+    {
+      "sourceLabel": "来源1",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告2",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/报告2全息照相两来源_第299批/署名未明的打印思考总结片段",
+      "bytes": 428800,
+      "sha256": "9a27d4d09059a96b33247e8530d4fb8eb1a24d8091d2678b53a9a0558e20fa54",
+      "pages": 3,
+      "role": "3页打印排版来源片段，从第九实验思考题开始，含结果和误差分析及第十个人总结，正文印页5，前文缺失/整稿完整性未核。全页未见明确身份但非隐私净稿/官方空白题纸，作者年份未核；全部字节/页序保持，只私有，不作身份cleanup。",
+      "identityConfirmed": false,
+      "sourceOldTargetEqual": true,
+      "allPagesStaticReviewed": true,
+      "annotationObjects": 0,
+      "formObjects": 0,
+      "attachments": 0,
+      "publicRaw": false
+    },
+    {
+      "sourceLabel": "来源2",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告2",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/报告2全息照相两来源_第299批/含身份的全息照相手写报告",
+      "bytes": 2875267,
+      "sha256": "ec9282c2ce007c3099a45b45e203aac4f54ee03ae39dd855e9e333ad0b5fedb9",
+      "pages": 9,
+      "role": "9页手写全息照相实验报告，自制封面实际私人身份已证，原理/透射与反射全息、步骤、结果分析和末页补充光路。身份评价经历日期不抄，全部原名原字节/黑边纸面批改和附页保持，不认标准答案/版次/学期。",
+      "identityConfirmed": true,
+      "sourceOldTargetEqual": true,
+      "allPagesStaticReviewed": true,
+      "annotationObjects": 0,
+      "formObjects": 0,
+      "attachments": 0,
+      "publicRaw": false
+    }
+  ],
+  "policy": "安全来源角色元信息，无私人值/本机绝对路径；9页身份稿与3页未署名片段全部私有，不称3页隐私净稿/官方空白题纸或完整报告，不补前文，不认标准答案/版次/学期或课程闭环。"
+}
