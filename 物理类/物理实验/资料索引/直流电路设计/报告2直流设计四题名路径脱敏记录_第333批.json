@@ -1,0 +1,80 @@
+{
+  "batch": 333,
+  "date": "2026-10-19",
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A2",
+  "stats": {
+    "selectedSourcePaths": 4,
+    "selectedSourceBytes": 74168854,
+    "uniqueSHA": 4,
+    "filePages": 48,
+    "historical329": 2,
+    "historical331": 1,
+    "fresh333": 1,
+    "allLocalFreshSHA": 4,
+    "identityConfirmedPaths": 4,
+    "boundary": "四条原题名路径去向账，329历史2+331历史1+333fresh1/local4fresh，历史source/cloud未本批重下，仅复核保存member；编号不代表版次，不称四份独立报告，作者学期待核。"
+  },
+  "items": [
+    {
+      "sourceLabel": "原题名路径1",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告2",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/报告2直流电路两小来源_第329批/含身份的直流设计填写稿与原始记录",
+      "bytes": 4874755,
+      "sha256": "c0bb3f8fe1b20a605ac1a388678447ee562624f5156a28854e4e5938efd45514",
+      "pages": 14,
+      "role": "14页直流设计手写填写稿：自制封面身份已证，2–5页原理仪器步骤，6–10页数据处理，11页思考题，12页私人总结，13–14页原始记录。",
+      "identityConfirmed": true,
+      "evidenceBatch": 329,
+      "sourceOldTargetEqual": true,
+      "freshLocalSHA": true,
+      "cloudEvidence": "329历史已验cloud保存ZIPmember本地复核，非333新下载原件",
+      "publicRaw": false
+    },
+    {
+      "sourceLabel": "原题名路径2",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告2",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/报告2直流电路两小来源_第329批/含身份的直流设计填写稿与原始记录",
+      "bytes": 1958677,
+      "sha256": "a8e66e3cf4f1f5f2ebcaee9fc265b055b877893214145e6450294a9dbe4adce8",
+      "pages": 9,
+      "role": "9页直流设计手写填写稿：首行身份已证，1–3页原理仪器，4–7页数据处理，8页思考题，9页原始记录。",
+      "identityConfirmed": true,
+      "evidenceBatch": 329,
+      "sourceOldTargetEqual": true,
+      "freshLocalSHA": true,
+      "cloudEvidence": "329历史已验cloud保存ZIPmember本地复核，非333新下载原件",
+      "publicRaw": false
+    },
+    {
+      "sourceLabel": "原题名路径3",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告2",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/报告2直流设计第二题名大来源_第331批/含身份及使用限制的直流设计照片稿",
+      "bytes": 35031491,
+      "sha256": "7cd3e6b8118f1ba96272e5d545d306e5727a39d9f20df3f4062149a5ddc8b5f9",
+      "pages": 14,
+      "role": "14页直流电路设计照片填写稿：封面实际身份已证，2–5页目的原理仪器步骤，6–10页数据处理，11页思考，12页私人总结评价，13–14页原始记录；页顶含使用限制，原字节整件保存。",
+      "identityConfirmed": true,
+      "evidenceBatch": 331,
+      "sourceOldTargetEqual": true,
+      "freshLocalSHA": true,
+      "cloudEvidence": "331历史已验cloud保存ZIPmember本地复核，非333新下载原件",
+      "publicRaw": false
+    },
+    {
+      "sourceLabel": "原题名路径4",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告2",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/报告2直流设计末题名来源_第333批/含身份的直流设计末照片填写稿",
+      "bytes": 32303931,
+      "sha256": "d12875320da63c06232678d452beb72e63390dee52a7889e0dbe01c6a9975849",
+      "pages": 11,
+      "role": "11页直流电路设计照片填写稿：首面实际身份已证，1–4页目的原理，5–8页数据处理分析与思考，9–11页原始记录；边栏纸面批改、阴影和全部附纸原字节保存。",
+      "identityConfirmed": true,
+      "evidenceBatch": 333,
+      "sourceOldTargetEqual": true,
+      "freshLocalSHA": true,
+      "cloudEvidence": "本批限定scope新回取",
+      "publicRaw": false
+    }
+  ],
+  "policy": "匿名四原题名路径去向，不含精确原名/私人值/本机绝对路径；329历史2+331历史1+333fresh1/local4fresh，非全部本轮source/cloud重下，非四份独立报告或新版。原件本批未新增Git。"
+}

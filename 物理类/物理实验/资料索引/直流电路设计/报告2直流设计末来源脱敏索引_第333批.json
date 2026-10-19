@@ -1,0 +1,32 @@
+{
+  "batch": 333,
+  "date": "2026-10-19",
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A2",
+  "oldTargetUrl": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A2",
+  "sourceLeafRawPaths": 51,
+  "selectedPaths": 1,
+  "selectedBytes": 32303931,
+  "selectedPages": 11,
+  "selectedUniqueSHA": 1,
+  "sameSHAExisting1333": 0,
+  "remainingOldRawPaths": 7,
+  "items": [
+    {
+      "sourceLabel": "末题名来源",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告2",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/报告2直流设计末题名来源_第333批/含身份的直流设计末照片填写稿",
+      "bytes": 32303931,
+      "sha256": "d12875320da63c06232678d452beb72e63390dee52a7889e0dbe01c6a9975849",
+      "pages": 11,
+      "role": "11页直流电路设计照片填写稿：首面实际身份已证，1–4页目的原理，5–8页数据处理分析与思考，9–11页原始记录；边栏纸面批改、阴影和全部附纸原字节保存。",
+      "identityConfirmed": true,
+      "sourceOldTargetEqual": true,
+      "allPagesStaticReviewed": true,
+      "annotationObjects": 0,
+      "formObjects": 0,
+      "attachments": 0,
+      "publicRaw": false
+    }
+  ],
+  "policy": "原件整件云盘保存，本批未新增入Git；不转录私人值。来源编号沿题名、作者学期待核；全件连同附页保存。"
+}
