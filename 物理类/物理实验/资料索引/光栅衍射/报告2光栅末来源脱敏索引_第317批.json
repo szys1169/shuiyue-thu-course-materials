@@ -1,0 +1,32 @@
+{
+  "batch": 317,
+  "date": "2026-10-19",
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A2",
+  "oldTargetUrl": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A2",
+  "sourceLeafRawPaths": 51,
+  "selectedPaths": 1,
+  "selectedBytes": 24204022,
+  "selectedPages": 8,
+  "selectedUniqueSHA": 1,
+  "sameSHAExisting1317": 0,
+  "remainingOldRawPaths": 19,
+  "items": [
+    {
+      "sourceLabel": "末题名来源",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告2",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/报告2光栅末题名来源_第317批/含身份的光栅照片填写稿",
+      "bytes": 24204022,
+      "sha256": "e9d6a75942459a47827ded90013adb385d5e3af3583cfe129242a6c0ac8d30d9",
+      "pages": 8,
+      "role": "8页光栅衍射彩色照片填写稿：首面与末页原始记录身份已证，1–2页原理图示步骤，3–6页测量与误差/分辨率数据，7页思考题，8页原始记录。",
+      "identityConfirmed": true,
+      "sourceOldTargetEqual": true,
+      "allPagesStaticReviewed": true,
+      "annotationObjects": 0,
+      "formObjects": 0,
+      "attachments": 0,
+      "publicRaw": false
+    }
+  ],
+  "policy": "原件整件云盘保存，本批未新增入Git；不转录私人值。来源编号沿题名、作者学期待核；云盘ACL未核，不据目录名认隔离。"
+}
