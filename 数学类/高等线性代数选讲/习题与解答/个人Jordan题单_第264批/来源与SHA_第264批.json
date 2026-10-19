@@ -1,0 +1,41 @@
+{
+  "batch": 264,
+  "date": "2026-10-19",
+  "source": "原高等代数根部本地散件；最初取得网址未核，不补造外链",
+  "files": [
+    {
+      "sourceName": "高代选讲.pdf",
+      "originalStudyRelativePath": "数学类/高等代数/高代选讲.pdf",
+      "studyRelativePath": "数学类/高代选/习题/个人Jordan题单_第264批/高代选讲.pdf",
+      "cloudRelativePath": "数学类/高等线性代数选讲/习题与解答/个人Jordan题单_第264批/高代选讲.pdf",
+      "bytes": 53011,
+      "sha256": "4b7e1d13d4d98a6869fd68f764b24b187c4d5fea4ee146952ca078ba0d69633f",
+      "role": "个人Jordan题单",
+      "safeDescription": "1页11题的个人Jordan空白练习题纸，正文日期2026-04-28，有个人昵称署名；不认定教师指定习题、正式作业或附有标准答案，也不与2026-06-07小班题纸视作同版。",
+      "rawPublic": true,
+      "originalBytesUnmodified": true
+    }
+  ],
+  "localCloudMapping": {
+    "localCourse": "高代选",
+    "cloudAndRepositoryCourse": "高等线性代数选讲",
+    "localCategory": "习题",
+    "cloudAndRepositoryCategory": "习题与解答（沿云盘既有目录）"
+  },
+  "originalRootCopyRetained": true,
+  "verificationBoundary": "本轮本地原件与规范副本字节SHA一致；视觉和结构沿用第260批真实单页/整图审读，不重渲或OCR。云盘最终回取由主代理独立核验，不把本地归档当作云盘验收。",
+  "publicationBoundary": "Jordan原题纸经主代理完整1页复核，仅个人昵称署名、日期和11道未填写练习题，无真实姓名、学号、成绩、批改或标记；原题纸按原字节随安全说明公开同步。",
+  "structureEvidence": {
+    "sourceAuditBatch": 260,
+    "PDFPages": 1,
+    "visualPhysicalPages": [
+      1
+    ],
+    "repaired": false,
+    "annotations": 0,
+    "forms": 0,
+    "embeddedFiles": 0,
+    "warnings": "",
+    "dateEvidence": "正文2026-04-28"
+  }
+}

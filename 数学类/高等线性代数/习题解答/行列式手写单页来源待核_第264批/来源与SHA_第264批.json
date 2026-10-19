@@ -1,0 +1,37 @@
+{
+  "batch": 264,
+  "date": "2026-10-19",
+  "source": "原高等代数根部本地散件；最初取得网址未核，不补造外链",
+  "files": [
+    {
+      "sourceName": "微信图片_20240924173412.jpg",
+      "originalStudyRelativePath": "数学类/高等代数/微信图片_20240924173412.jpg",
+      "studyRelativePath": "数学类/高等代数/习题解答/行列式手写单页来源待核_第264批/_过程材料/私有原件/微信图片_20240924173412.jpg",
+      "cloudRelativePath": "数学类/高等线性代数/习题解答/行列式手写单页来源待核_第264批/_过程材料/私有原件/微信图片_20240924173412.jpg",
+      "bytes": 1086821,
+      "sha256": "48397f39b8acd7aaf6c4c4570721276d959969184c90d0e19bf0cef7e810fde3",
+      "role": "手写解答片段",
+      "safeDescription": "行列式与子式的手写解答单图，涉及代数余子式及Laplace展开；作者、日期、课程和原题来源未核，不认定官方或完整答案。",
+      "rawPublic": false,
+      "originalBytesUnmodified": true
+    }
+  ],
+  "localCloudMapping": {
+    "localCourse": "高等代数",
+    "cloudAndRepositoryCourse": "高等线性代数"
+  },
+  "originalRootCopyRetained": true,
+  "verificationBoundary": "本轮本地原件与规范副本字节SHA一致；视觉和结构沿用第260批真实单页/整图审读，不重渲或OCR。云盘最终回取由主代理独立核验，不把本地归档当作云盘验收。",
+  "publicationBoundary": "未知作者手写解答图保持私有，仅两安全来源说明进入公开清单，私有原图和本叶README不公开。",
+  "structureEvidence": {
+    "sourceAuditBatch": 260,
+    "format": "JPEG",
+    "imageSize": [
+      2005,
+      2358
+    ],
+    "EXIFTagCount": 0,
+    "wholeImageActuallyViewed": true,
+    "dateEvidence": "未知，不取文件名时间为正文日期"
+  }
+}
