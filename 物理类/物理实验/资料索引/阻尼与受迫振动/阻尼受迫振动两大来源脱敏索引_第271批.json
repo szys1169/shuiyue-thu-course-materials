@@ -1,0 +1,51 @@
+{
+  "batch": 271,
+  "date": "2026-10-19",
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/物理/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A1",
+  "oldTargetUrl": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A1",
+  "sourceLeafRawPaths": 44,
+  "selectedPaths": 2,
+  "selectedBytes": 82546671,
+  "selectedUniqueSHA": 2,
+  "selectedFilePages": 31,
+  "sameSHAExistingCanonical": 0,
+  "protectedCanonicalPaths": 1154,
+  "remainingOldRawPaths": 8,
+  "identityConfirmedPaths": 2,
+  "identityUnconfirmedPaths": 0,
+  "items": [
+    {
+      "sourceLabel": "来源变体1（精确原名仅私有）",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告1",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/阻尼受迫振动两大来源报告_第271批/有身份的彩色填写报告",
+      "bytes": 39031599,
+      "sha256": "4a71612753bc88709a2d07d2dc01e4605dec7ca354325cb8db9d3f79e389334c",
+      "pages": 15,
+      "role": "15页彩色拍摄填写报告，首行实际私人身份填写已证，阻尼/受迫振动原理步骤、4-8页数据记录、9-13页处理与讨论、14页幅频相频曲线及末页原始记录。拍摄倾斜/局部边缘截断、纸面批改保持，不补缺页/不认扫描整齐即完整",
+      "identityConfirmed": true,
+      "sourceOldTargetEqual": true,
+      "allPagesStaticReviewed": true,
+      "annotationObjects": 0,
+      "formObjects": 0,
+      "attachments": 0,
+      "publicRaw": false
+    },
+    {
+      "sourceLabel": "来源变体2（精确原名仅私有）",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告1",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/阻尼受迫振动两大来源报告_第271批/带教学使用标记的身份填写报告",
+      "bytes": 43515072,
+      "sha256": "7d2a66c3fd011d4c27764d1622f82f2b9984d5f1a18e35ec958001e022c897c3",
+      "pages": 16,
+      "role": "16页彩色填写报告，封面实际私人身份已证，含教学使用/非营利/禁止抄袭标记，标记中的署名不抄、日期不作授课学期。含原理步骤、数据处理、思考题与私人总结；与第269批16页灰度稿静态内容高度对应，但SHA不同，未逐像素核、不能认同字节或版本先后，均保留",
+      "identityConfirmed": true,
+      "sourceOldTargetEqual": true,
+      "allPagesStaticReviewed": true,
+      "annotationObjects": 0,
+      "formObjects": 0,
+      "attachments": 0,
+      "publicRaw": false
+    }
+  ],
+  "policy": "两件实际私人身份填写已证，身份/评价值、使用标记中的个人署名及私人总结经历不抄。标记年份仅标记证据，私人日期不作任课教师或授课学期证明。两整PDF只私有服务器复用，拍摄倾斜/局部边缘截断、灰彩差异、页序、黑边、纸面批改与全部数据曲线保持，不裁剪/补缺页/拆PDF。不是空白题或教师标准答案，正确性与扫描缺失范围未独立证明。结构注释表单附件0不等于无纸面批改，不执行脚本/软件/外链。 两raw/3privateREADME/审阅图TXT与精确原名只私有，无本机绝对路径。only2exact身份候选，余8不泛删/history不改，另一来源(5)未纳，不提前称七路径闭环。"
+}
