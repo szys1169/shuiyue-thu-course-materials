@@ -1,0 +1,69 @@
+{
+  "batch": 294,
+  "snapshotDate": "2026-10-19",
+  "groupRole": "来源名习题一的英文教材两段习题页节选",
+  "files": [
+    {
+      "sourceName": "01-习题一.pdf",
+      "bytes": 359084,
+      "sha256": "3eeffea942a3b4f381823458e0581a780c29fea2135b634a8b9170c2bdb7d1af",
+      "pages": 4,
+      "actualTitle": "Problem Set 9.1与Problem Set 9.2节选",
+      "role": "英文教材习题页与圈题节选",
+      "safeDescription": "4页：Problem Set9.1为印刷436–437页，Problem Set9.2为443–444页；内容涉及复数、复向量、Hermite及酉矩阵。两组印刷页不连续，保持该4页原件，不补页或称整章完整。来源名习题一不代证第一周。",
+      "authorEvidence": "无题名版权页，作者、完整教材名、版次出版年未核，不凭熟悉版式补书目",
+      "dateEvidence": "来源习题一不等于第一周，正文教学日期、学年与教师未核，不以元数据生成时间定教学年",
+      "printedPageLabels": [
+        436,
+        437,
+        443,
+        444
+      ],
+      "visuallyCircledProblems": {
+        "Problem Set 9.1": [
+          11,
+          16,
+          19,
+          21
+        ],
+        "Problem Set 9.2": [
+          6,
+          8,
+          15,
+          25,
+          26
+        ]
+      },
+      "annotationCount": 4,
+      "annotationTypes": {
+        "Highlight": 1,
+        "Ink": 3
+      },
+      "formCount": 0,
+      "embeddedFiles": 0,
+      "repaired": false,
+      "warnings": "",
+      "studyRelativePath": "数学类/高代选/习题/公开仓库习题一教材节选_第294批/_过程材料/私有原件/01-习题一.pdf",
+      "cloudRelativePath": "数学类/高等线性代数选讲/习题与解答/公开仓库习题一教材节选_第294批/_过程材料/私有原件/01-习题一.pdf",
+      "sourceIndex": "https://rekcarc-tsc-uht.readthedocs.io/en/latest/大一下.html",
+      "downloadDate": "2026-10-19",
+      "rawPublic": false,
+      "originalBytesUnmodified": true,
+      "sourceBlobURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/master/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/homework%EF%BC%88%E5%BE%90%E5%B8%86%E8%AF%BE%E5%A0%82%EF%BC%89/01-%E4%B9%A0%E9%A2%98%E4%B8%80.pdf",
+      "resolvedPublicDownloadURL": "https://raw.githubusercontent.com/PKUanonym/REKCARC-TSC-UHT/refs/heads/master/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/homework%EF%BC%88%E5%BE%90%E5%B8%86%E8%AF%BE%E5%A0%82%EF%BC%89/01-%E4%B9%A0%E9%A2%98%E4%B8%80.pdf"
+    }
+  ],
+  "rawFiles": 1,
+  "rawBytes": 359084,
+  "PDFPages": 4,
+  "allRawPublic": false,
+  "sourceBoundary": "实际项目官方ReadTheDocs已观察blob与页面raw入口，2026-10-19下载，未访问tree路由。仓库贡献者许可不一概覆盖第三方教材，不补猜最早上传来源。",
+  "roleBoundary": "Problem Set9.1与9.2两段教材习题页，不是手写作业或答案；习题一不代证第一周。原印刷436–437/443–444页不连续，保持4页原状不补页，不称整章完整。无题名版权页，作者、完整教材名、版次出版年未核，不新增教材书目。",
+  "qualityBoundary": "4页全实际目视，未见学生姓名学号、成绩或明确教师批改。repair=false、0表单/嵌入，本次内容警告空。保1Highlight+3Ink对象，可见9个红圈与对象数分别如实记录，不据圈记认教师指定/批改；Info与元数据值仅私有审计，不OCR/改PDF或执行对象/外链。",
+  "verificationBoundary": "源再次核SHA、数学规范同尺寸exact0、本地副本原字节一致。最终云盘限定回取另记，不将本地复制当作云盘成功。",
+  "localCloudMapping": {
+    "localGroup": "数学类/高代选/习题/公开仓库习题一教材节选_第294批",
+    "cloudAndRepositoryGroup": "数学类/高等线性代数选讲/习题与解答/公开仓库习题一教材节选_第294批"
+  },
+  "publicPolicy": "仅组根README与来源JSON公开，原PDF及私有README不进Git。"
+}
