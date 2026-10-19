@@ -1,0 +1,91 @@
+{
+  "batch": 312,
+  "snapshotDate": "2026-10-19",
+  "files": [
+    {
+      "sourceName": "03-习题课三笔记.pdf",
+      "bytes": 9237669,
+      "sha256": "bd825951d5526a1e98f5e8b1ed6db05258e638c544afcb7da5a7d120d75be7e7",
+      "pages": 3,
+      "role": "题图配橙青旁注与跨页参考推导",
+      "pageRoles": [
+        "1习题课三题图及橙青旁注：第1–6题，伴随矩阵、最小多项式、循环子空间、Jordan及交换子",
+        "2第7–9题题图及参考推导：矩阵方程、分块矩阵、六阶幂零分类",
+        "3续第9题分类讨论与七阶反例的块大小提示；保留宽白边和跨页延续"
+      ],
+      "annotationTypes": {},
+      "sourceBlobURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/master/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/exercises%EF%BC%88%E5%BE%90%E5%B8%86%E8%AF%BE%E5%A0%82%EF%BC%89/03-%E4%B9%A0%E9%A2%98%E8%AF%BE%E4%B8%89%E7%AC%94%E8%AE%B0.pdf",
+      "sourceIndex": "https://rekcarc-tsc-uht.readthedocs.io/en/latest/大一下.html",
+      "downloadDate": "2026-10-19",
+      "rawPrivate": true,
+      "rawPublic": false,
+      "originalNameAndBytesPageOrderAndAnnotationsUnchanged": true,
+      "rootAllPagesActuallyViewed": true
+    },
+    {
+      "sourceName": "03-第三次习题课.pdf",
+      "bytes": 3137438,
+      "sha256": "c93fc4a377499718115a05eab4abb09926142c592f7c4d2f9aa3e098e8884132",
+      "pages": 8,
+      "role": "九题手写题单，含封面",
+      "pageRoles": [
+        "1笔记本式空白封面",
+        "2第1题伴随矩阵极小多项式及第2题开头",
+        "3第2题续及第3题秩与可对角化",
+        "4第4–5题同时分块与Jordan例子",
+        "5–6第6题交换子及第7题矩阵方程提示，末接第8题",
+        "7第8题分块矩阵Jordan及提示",
+        "8第9题六阶幂零分类与七阶反例要求；全件九题，非空白印刷卷"
+      ],
+      "annotationTypes": {},
+      "sourceBlobURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/master/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/exercises%EF%BC%88%E5%BE%90%E5%B8%86%E8%AF%BE%E5%A0%82%EF%BC%89/03-%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%B9%A0%E9%A2%98%E8%AF%BE.pdf",
+      "sourceIndex": "https://rekcarc-tsc-uht.readthedocs.io/en/latest/大一下.html",
+      "downloadDate": "2026-10-19",
+      "rawPrivate": true,
+      "rawPublic": false,
+      "originalNameAndBytesPageOrderAndAnnotationsUnchanged": true,
+      "rootAllPagesActuallyViewed": true
+    },
+    {
+      "sourceName": "03-第三次习题课答案.pdf",
+      "bytes": 11583651,
+      "sha256": "e54ca58be5e026de7632d928b2828f320a3682a34289983c833376454e5dc580",
+      "pages": 31,
+      "role": "前8页题单含封面及后23页参考推导与补充",
+      "pageRoles": [
+        "1–8题单重印及封面，仍九题；第7题提示写法与八页独立题单不同，不能称八页逐字逐字节相同",
+        "9–10第1题参考推导",
+        "10–14第2题参考推导及末接第3题",
+        "14–15第3题参考推导",
+        "15–18第4题参考推导与同时上三角补充",
+        "19–20第5题参考推导和红色说明，末接第6题",
+        "20–21第6题参考推导及末接第7题",
+        "21–24第7题矩阵方程参考推导",
+        "25–27第8题及Schur相关补充",
+        "27–30第9题六阶分类及七阶反例",
+        "31相似与各阶秩不变量补充；不是独立题单的替代整件"
+      ],
+      "annotationTypes": {},
+      "sourceBlobURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/master/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/exercises%EF%BC%88%E5%BE%90%E5%B8%86%E8%AF%BE%E5%A0%82%EF%BC%89/03-%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%B9%A0%E9%A2%98%E8%AF%BE%E7%AD%94%E6%A1%88.pdf",
+      "sourceIndex": "https://rekcarc-tsc-uht.readthedocs.io/en/latest/大一下.html",
+      "downloadDate": "2026-10-19",
+      "rawPrivate": true,
+      "rawPublic": false,
+      "originalNameAndBytesPageOrderAndAnnotationsUnchanged": true,
+      "rootAllPagesActuallyViewed": true
+    }
+  ],
+  "rawFiles": 3,
+  "rawBytes": 23958758,
+  "PDFPages": 42,
+  "distinctSHA256": 3,
+  "publicRawFiles": 0,
+  "pairingBoundary": "八页独立九题题单、三页题图旁注和三十一页题目加参考推导按题意相关。三十一页件前八页重印题单及封面，但第7题提示写法有变化；不能称前八页逐字/逐字节同一或删除独立题单。",
+  "sourcePreservation": "保留题单中原有公式和提示差异、红色说明、封面、页序、全部批注及跨页连续版面，不静默校订数学。",
+  "question7HintLiteralOrByteIdentityClaimed": false,
+  "independent8PageOriginalRetained": true,
+  "identityBoundary": "作者、教师、授课学期、官方性及数学正确性未核；不按文件名答案认标准，不按红字或日期戳推批改者或学期。",
+  "sourceBoundary": "来自指定公开仓库官方文档已观察文件页及其raw入口，2026-10-19取得；贡献者许可不一概覆盖第三方材料，不执行原文或外链。",
+  "verificationBoundary": "沿用根代理逐页实际目视42页，源三件再次字节SHA与本地副本一致，规范同尺寸exact0见私有来源证据；云盘上传后完整回取另验，不将本地复制当作云盘成功。",
+  "publicPolicy": "仅README及来源JSON公开；三份完整PDF、私有叶README、原元信息与样图皆私有，不裁切、重写、去标记或扁平化。"
+}
