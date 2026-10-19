@@ -1,0 +1,33 @@
+{
+  "batch": 337,
+  "date": "2026-10-19",
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A2",
+  "oldTargetUrl": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A2",
+  "sourceLeafRawPaths": 51,
+  "selectedPaths": 1,
+  "selectedBytes": 6298000,
+  "selectedPages": 2,
+  "selectedUniqueSHA": 1,
+  "sameSHAExisting1391": 0,
+  "remainingOldRawPaths": 5,
+  "items": [
+    {
+      "sourceLabel": "来源1",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告2",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/报告2微波光学两页来源_第337批/含身份的微波光学两页填写片段",
+      "bytes": 6298000,
+      "sha256": "d2f3c7aa0b29ba90015661914b203a7452a4a3c0e5f14032735703990aed162c",
+      "pages": 2,
+      "role": "2页微波光学照片填写片段：首面实际身份已证，1页目的与微波/晶体布拉格衍射原理，2页步骤、波长测量数表及误差分析；只见2页，不称完整覆盖所列全部实验。原件顶边阴影和纸面批改整件保留。",
+      "identityConfirmed": true,
+      "sourceOldTargetEqual": true,
+      "allPagesStaticReviewed": true,
+      "annotationObjects": 0,
+      "formObjects": 0,
+      "attachments": 0,
+      "publicRaw": false
+    }
+  ],
+  "oldEvidence": "335冻结SHA继承，本批仅路径尺寸mtime与漂移/同尺寸候选增量核验，非旧全量本批fresh",
+  "policy": "原件完整云盘保存，本批未新增Git；编号沿原题名，作者学期待核。私人值不转录，两页填写片段按所见内容归档，私人日期不当授课学期。"
+}
