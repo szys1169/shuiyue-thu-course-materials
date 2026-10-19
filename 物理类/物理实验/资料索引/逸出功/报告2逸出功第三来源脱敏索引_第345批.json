@@ -1,0 +1,37 @@
+{
+  "batch": 345,
+  "date": "2026-10-19",
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A2",
+  "oldTargetUrl": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A2",
+  "sourceLeafPaths": 51,
+  "selectedPaths": 1,
+  "selectedBytes": 23127537,
+  "selectedPages": 8,
+  "selectedUniqueSHA": 1,
+  "remainingOldRawPaths": 0,
+  "sameSHAExisting1416": 0,
+  "items": [
+    {
+      "sourceLabel": "来源1",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告2",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/报告2逸出功第三来源_第345批/含身份的逸出功纸面批改填写稿",
+      "bytes": 23127537,
+      "sha256": "6b0eb6bc2f2c9bbf60e47f34903f06016b024c385ee3612fcc901028f24b4f2e",
+      "pages": 8,
+      "role": "8页逸出功纸面批改填写稿：1–3页原理步骤，4页线路图，5–6页手写数据处理，7页思考及纸面批改，8页末附线路图与手写数据。首面和末页附纸见身份或署名日期，值不转录。",
+      "identityConfirmed": true,
+      "identityEvidencePages": [
+        1,
+        8
+      ],
+      "allPagesStaticReviewed": true,
+      "annotations": 0,
+      "visibleWidgets": 0,
+      "embeddedFiles": 0,
+      "publicRaw": false
+    }
+  ],
+  "evidenceBoundary": "378第三来源8页由ROOT全页实阅，源旧下载证据复用并由345fresh本地输入SHA tie；345最终cloud范围另完整fresh回取，不称本批单人审全34页。",
+  "oldProtection": "继承341全局冻结与343增量及本轮stat，345未回取未触及的全局保护组。",
+  "policy": "原件云盘保存，本批不新增原件Git；父叶README不加入Git白名单，原序号不认版次/作者/学期或独立报告数。"
+}
