@@ -1,0 +1,64 @@
+{
+  "batch": 315,
+  "date": "2026-10-19",
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A2",
+  "stats": {
+    "selectedSourcePaths": 3,
+    "selectedSourceBytes": 44584679,
+    "uniqueSHA": 3,
+    "filePages": 36,
+    "historical313": 2,
+    "fresh315": 1,
+    "allLocalFreshSHA": 3,
+    "identityConfirmedPaths": 3,
+    "boundary": "三个原题名路径去向记录，313历史2+315fresh1/local3fresh，历史source/cloud未本批重下，仅复核保存成员字节；编号非版次先后或三份独立报告，作者学期待核。"
+  },
+  "items": [
+    {
+      "sourceLabel": "原题名路径1",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告2",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/报告2压电与互感两来源_第313批/含身份的压电与互感混合稿",
+      "bytes": 10801148,
+      "sha256": "0eb5d524a9f2671f643a555b2f6c55cce90eaec3cc4c528f24c725c9092daedc",
+      "pages": 16,
+      "role": "16页压电与互感混合填写稿：封面同时题名两项实验；2–9页压电导纳原理数据、总结与横向图；10–13页示波器互感线圈原理测量；14页压电原始记录、15页互感原始记录、16页互感曲线。",
+      "identityConfirmed": true,
+      "evidenceBatch": 313,
+      "sourceOldTargetEqual": true,
+      "freshLocalSHA": true,
+      "cloudEvidence": "313历史已验cloud保存ZIPmember本地复核，非315新下载原件",
+      "publicRaw": false
+    },
+    {
+      "sourceLabel": "原题名路径2",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告2",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/报告2压电与互感两来源_第313批/含身份的压电导纳填写稿",
+      "bytes": 9462486,
+      "sha256": "d2e39f9963bdd700d5596f4a1b3c8121c254b6fdb22ddd309ea40e79cb97785e",
+      "pages": 11,
+      "role": "11页压电导纳填写稿：封面、原理步骤、数据计算与误差、思考小结，10页横向打印图，11页原始记录。",
+      "identityConfirmed": true,
+      "evidenceBatch": 313,
+      "sourceOldTargetEqual": true,
+      "freshLocalSHA": true,
+      "cloudEvidence": "313历史已验cloud保存ZIPmember本地复核，非315新下载原件",
+      "publicRaw": false
+    },
+    {
+      "sourceLabel": "原题名路径3",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告2",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/报告2压电末题名来源_第315批/含身份的压电照片填写稿",
+      "bytes": 24321045,
+      "sha256": "8cf4c250f10988c8512f4a4647ce3d911e4e571f869e4dcb0b40daaf7552b7fb",
+      "pages": 9,
+      "role": "9页压电导纳彩色照片填写稿：首面实际身份已证，1–3页原理步骤，4页数据，5页空栏原始表页，6页数据处理，7页横向导纳曲线打印表，8页思考题，9页私人总结。",
+      "identityConfirmed": true,
+      "evidenceBatch": 315,
+      "sourceOldTargetEqual": true,
+      "freshLocalSHA": true,
+      "cloudEvidence": "本批限定scope新回取",
+      "publicRaw": false
+    }
+  ],
+  "policy": "匿名三原题名路径去向，不含精确原名/私人值/本机绝对路径；历史2+fresh1/local3fresh，非全部本轮source/cloud重下、非三份独立报告或新版。原件本批未新增Git。"
+}
