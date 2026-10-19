@@ -1,0 +1,32 @@
+{
+  "batch": 251,
+  "date": "2026-10-19",
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/物理/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A1",
+  "oldTargetUrl": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A1",
+  "selectedPaths": 1,
+  "selectedBytes": 58738649,
+  "selectedUniqueSHA": 1,
+  "selectedPages": 22,
+  "sourceLeafRawPaths": 44,
+  "sameSHAExisting893": 0,
+  "remainingOldRawPaths": 37,
+  "items": [
+    {
+      "sourceLabel": "末来源（精确原名仅私有）",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告1",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/分光计末来源与七路径闭环_第251批/有身份的彩色来源稿_含错置末页",
+      "bytes": 58738649,
+      "sha256": "8946c2ecbda6b5218bdc74798f3ba98cf3346ed01fca7071275794b79360f495",
+      "pages": 22,
+      "role": "来源(3)彩色拍摄PDF22页，实际手写个人身份/纸面批改评价已填，含统计输出的个人标记/本机路径只私有不抄值；前21页与247来源(7)报告及附表静态内容高度对应但非同字节，未作逐像素等同或版次判定；第22页实际脉冲/瞬态测量数据混入，与分光计主题不同，原PDF不拆/不自动归另一课程或配套",
+      "identityConfirmed": true,
+      "sourceOldTargetEqual": true,
+      "allPagesStaticReviewed": true,
+      "annotationObjects": 0,
+      "formObjects": 0,
+      "attachments": 0,
+      "publicRaw": false
+    }
+  ],
+  "policy": "原件/2privateREADME/22页静态图TXT/身份评价值/私有路径/精确7原名闭环仅私有，无本机绝对路径。整PDF含错置末页不拆，视觉高度对应非同SHA/逐像素等同/新旧版证据，不认7独立报告；only1exact身份候选其他37未知不泛删/history不改"
+}
