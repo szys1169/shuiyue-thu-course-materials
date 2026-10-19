@@ -1,0 +1,51 @@
+{
+  "batch": 275,
+  "date": "2026-10-19",
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/物理/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A1",
+  "oldTargetUrl": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A1",
+  "sourceLeafRawPaths": 44,
+  "selectedPaths": 2,
+  "selectedBytes": 24405672,
+  "selectedUniqueSHA": 2,
+  "selectedFilePages": 26,
+  "sameSHAExistingCanonical": 0,
+  "protectedCanonicalPaths": 1169,
+  "remainingOldRawPaths": 5,
+  "identityConfirmedPaths": 2,
+  "identityUnconfirmedPaths": 0,
+  "items": [
+    {
+      "sourceLabel": "来源变体1（精确原名仅私有）",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告1",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/电流计两来源报告_第275批/灵敏电流计_填写报告",
+      "bytes": 10696978,
+      "sha256": "c38e7511c74bf07e6da5ea7770853657ab5e29580b9cbc9d7eef1b45e542ae0f",
+      "pages": 11,
+      "role": "11页灰度灵敏电流计填写报告，前部原理/线路与步骤、数据处理涉及特性/电流常量/电荷常量及内阻，末两页原始记录，首行实际私人身份填写已证；原始记录借用印有其它课程名的作业纸，不据纸头改判数学作业，原件整份私有保持",
+      "identityConfirmed": true,
+      "sourceOldTargetEqual": true,
+      "allPagesStaticReviewed": true,
+      "annotationObjects": 0,
+      "formObjects": 0,
+      "attachments": 0,
+      "publicRaw": false
+    },
+    {
+      "sourceLabel": "来源变体2（精确原名仅私有）",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告1",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/电流计两来源报告_第275批/冲击电流计_填写报告",
+      "bytes": 13708694,
+      "sha256": "8fccc6b910184a564785fc1bb178be5d004953def1d1e0038627872124f10a69",
+      "pages": 15,
+      "role": "15页灰度冲击电流计测B-H曲线及电容填写报告，封面实际身份已证，含原理步骤、8-9页数据/处理、10-11页讨论思考、12-13页原始记录及末2页曲线（含旋转图与墨迹），不拆/不认标准答案",
+      "identityConfirmed": true,
+      "sourceOldTargetEqual": true,
+      "allPagesStaticReviewed": true,
+      "annotationObjects": 0,
+      "formObjects": 0,
+      "attachments": 0,
+      "publicRaw": false
+    }
+  ],
+  "policy": "两件封面或首行实际私人身份填写已证，身份/评价值及私人总结经历不抄。原名字节、页序、灰度/低对比度、黑边、旋转曲线、全部笔迹/批改与记录保持，不裁剪/补缺页/拆PDF。不认标准答案，正确性与扫描缺失范围未独立证明；私人日期不作任课教师或授课学期证明。结构注释表单附件0不等于无纸面批改，不执行脚本/软件/外链。 两raw/3privateREADME/审阅图TXT与精确原名只私有，无本机绝对路径。only2exact身份候选，余5不泛删/history不改，非报告1整叶闭环。"
+}
