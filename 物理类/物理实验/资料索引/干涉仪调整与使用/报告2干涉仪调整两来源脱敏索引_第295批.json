@@ -1,0 +1,48 @@
+{
+  "batch": 295,
+  "date": "2026-10-19",
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/%E7%89%A9%E7%90%86/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A2",
+  "oldTargetUrl": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A2",
+  "sourceLeafRawPaths": 51,
+  "selectedPaths": 2,
+  "selectedBytes": 3219248,
+  "selectedPages": 15,
+  "selectedUniqueSHA": 2,
+  "sameSHAExisting1242": 0,
+  "remainingOldRawPaths": 37,
+  "items": [
+    {
+      "sourceLabel": "两来源1",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告2",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/报告2干涉仪调整两来源_第295批/含身份的填写报告与曲线记录",
+      "bytes": 1188092,
+      "sha256": "30b7180b8c65b32d3d2af27de37e0bf8950e004f9eff9170a168d43bbba08e79",
+      "pages": 6,
+      "role": "6页打印排版填写报告，首面及末页手写原始记录实际私人身份已证；本件表头明确物理A(2)，含钠双线干涉、条纹计数、波长和玻璃厚度计算及末页原始记录。身份日期评价不抄，不外推课程表头到其它件/学期，不认标准答案或来源序号新版。",
+      "identityConfirmed": true,
+      "sourceOldTargetEqual": true,
+      "allPagesStaticReviewed": true,
+      "annotationObjects": 0,
+      "formObjects": 0,
+      "attachments": 0,
+      "publicRaw": false
+    },
+    {
+      "sourceLabel": "两来源2",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告2",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/报告2干涉仪调整两来源_第295批/含身份的填写报告与曲线记录",
+      "bytes": 2031156,
+      "sha256": "a3ca65a2c1f4f5a7470fc1f36828b37b955aaf5f649a6f07d17eb76afd718814",
+      "pages": 9,
+      "role": "9页手写填写报告，自制封面实际私人身份已证；原理仪器步骤、条纹数据及不确定度、思考题和私人总结，末页为横向打印拟合曲线。身份评价私人经历日期不抄，保留原名原字节/横页方向/黑边批改/全部附页，不认标准答案/版次或授课学期，不混入空气折射率四来源。",
+      "identityConfirmed": true,
+      "sourceOldTargetEqual": true,
+      "allPagesStaticReviewed": true,
+      "annotationObjects": 0,
+      "formObjects": 0,
+      "attachments": 0,
+      "publicRaw": false
+    }
+  ],
+  "policy": "安全来源角色元信息，精确原名/身份值与审阅只私有；原名原字节/全部记录保持，纸面批改不等于PDF注释。来源编号不证明版次、私人日期不证明学期，非标准答案或报告2或全部课程闭环，也不将本组混入折射率四来源记录。"
+}
