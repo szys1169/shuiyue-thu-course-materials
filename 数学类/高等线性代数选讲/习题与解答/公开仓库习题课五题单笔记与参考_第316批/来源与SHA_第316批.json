@@ -1,0 +1,89 @@
+{
+  "batch": 316,
+  "snapshotDate": "2026-10-19",
+  "files": [
+    {
+      "sourceName": "05-习题课五笔记.pdf",
+      "bytes": 14976436,
+      "sha256": "968196cb90ecc94c4d1244094b3a516254385ecf82b4dea6d8a059e29a83984d",
+      "pages": 4,
+      "pageRoles": [
+        "1题图配黑彩色旁注：多项式Bezout和互素因子不变子空间",
+        "2常微分方程分类与完全图Laplacian",
+        "3–4图的关联矩阵、生成树和回路空间参考推导，彩色路径图与追问保持；四页为题图旁注，不是独立题单"
+      ],
+      "annotationTypes": {},
+      "sourceBlobURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/master/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/exercises%EF%BC%88%E5%BE%90%E5%B8%86%E8%AF%BE%E5%A0%82%EF%BC%89/05-%E4%B9%A0%E9%A2%98%E8%AF%BE%E4%BA%94%E7%AC%94%E8%AE%B0.pdf",
+      "sourceIndex": "https://rekcarc-tsc-uht.readthedocs.io/en/latest/大一下.html",
+      "downloadDate": "2026-10-19",
+      "rawPrivate": true,
+      "rawPublic": false,
+      "rootAllPagesActuallyViewed": true,
+      "originalNameAndBytesPageOrderAndAnnotationsRetained": true
+    },
+    {
+      "sourceName": "05-第五次习题.pdf",
+      "bytes": 4427307,
+      "sha256": "0fa18b14b672d3eced1cae0098f39362c10ef9434f8ed0cd0cd1eaabbedd0851",
+      "pages": 9,
+      "pageRoles": [
+        "1写有第五次习题课材料的封面",
+        "2主题目录",
+        "3第1题Bezout及多项式例子",
+        "4第2题互素因子不变子空间",
+        "5第3题三阶齐次ODE含初值要求及第4题完全图Laplacian",
+        "6第5题关联矩阵子阵与生成树、附示例",
+        "7第6题子行列式及第7题回路向量",
+        "8–9第7题续及KCL/KVL说明；整件七题，没有末尾空白页"
+      ],
+      "annotationTypes": {},
+      "sourceBlobURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/master/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/exercises%EF%BC%88%E5%BE%90%E5%B8%86%E8%AF%BE%E5%A0%82%EF%BC%89/05-%E7%AC%AC%E4%BA%94%E6%AC%A1%E4%B9%A0%E9%A2%98.pdf",
+      "sourceIndex": "https://rekcarc-tsc-uht.readthedocs.io/en/latest/大一下.html",
+      "downloadDate": "2026-10-19",
+      "rawPrivate": true,
+      "rawPublic": false,
+      "rootAllPagesActuallyViewed": true,
+      "originalNameAndBytesPageOrderAndAnnotationsRetained": true
+    },
+    {
+      "sourceName": "05-第五次习题课答案.pdf",
+      "bytes": 17239407,
+      "sha256": "c6e05c2cbf60adfbb7e14246703e9336216e7407e58e60ba7d86be2ffdfa7f12",
+      "pages": 39,
+      "pageRoles": [
+        "1–9含封面、主题目录和七题重印；整件SHA与九页独立题单不同，保留两件",
+        "10–14第1题参考推导与例子；末接第2题",
+        "14–17第2题参考推导和广义特征子空间分解补充",
+        "18–24第3题三阶ODE的根分类和通解推导，未见题中初值常数单独代入结果，不称逐小问完整答案",
+        "25–27第4题Laplacian及逆/谱参考推导",
+        "28–30第5题关联矩阵与生成树参考推导，末接第6题",
+        "30–31第6题子行列式参考推导，末接第7题",
+        "31–39第7题回路空间和KCL/KVL相关参考推导及图示；末页有结论和留白，保持"
+      ],
+      "annotationTypes": {},
+      "sourceBlobURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/master/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/exercises%EF%BC%88%E5%BE%90%E5%B8%86%E8%AF%BE%E5%A0%82%EF%BC%89/05-%E7%AC%AC%E4%BA%94%E6%AC%A1%E4%B9%A0%E9%A2%98%E8%AF%BE%E7%AD%94%E6%A1%88.pdf",
+      "sourceIndex": "https://rekcarc-tsc-uht.readthedocs.io/en/latest/大一下.html",
+      "downloadDate": "2026-10-19",
+      "rawPrivate": true,
+      "rawPublic": false,
+      "rootAllPagesActuallyViewed": true,
+      "originalNameAndBytesPageOrderAndAnnotationsRetained": true
+    }
+  ],
+  "rawFiles": 3,
+  "rawBytes": 36643150,
+  "PDFPages": 52,
+  "distinctSHA256": 3,
+  "publicRawFiles": 0,
+  "pairingBoundary": "九页七题题单、三十九页题目加参考推导及四页题图旁注按内容相关。三十九页件前九页含封面目录及七题，后第三题提供根分类与通解；未见初值常数的独立代入结果，不称完整逐小问标准答案。",
+  "sourcePreservation": "三整件SHA不同均保留；不裁剪重复题图、不删除目录封面或末页留白，不校订原公式，不按笔色猜作者与制作先后。",
+  "specificBoundaries": [
+    "9页件含写字封面、主题目录和七题；39页件前9重印题目后30参考推导，三整件SHA不同全部保留。",
+    "39页件第3题给出根分类及通解推导，未见初值常数单独代入结果，不称逐小问完整标准答案。",
+    "4页件为题图配黑红青橙旁注，不是独立题单；末页图示、结论和留白照原件保留。"
+  ],
+  "identityBoundary": "作者、教师、学期、官方性和数学正确性未核，不因文件名有答案即认完整标准答案，不以笔迹颜色或日期戳推作者或学期。",
+  "sourceBoundary": "来自指定公开仓库官方文档已观察文件页及raw入口，2026-10-19取得；贡献者许可不一概覆盖第三方原件，不执行资料或外链。",
+  "verificationBoundary": "根代理逐页实际目视52页的证据沿用；源原件再次核字节SHA并与本地副本一致，规范同尺寸exact0见私有过程。云盘上传回取另验，不将本地复制认作云盘成功。",
+  "publicPolicy": "仅README和来源JSON公开，全部PDF、私有叶README、Info原值及样图皆私有，不拆页/去批注/裁切/扁平化或重写。"
+}
