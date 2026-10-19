@@ -1,0 +1,34 @@
+{
+  "batch": 265,
+  "date": "2026-10-19",
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/物理/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A1",
+  "oldTargetUrl": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A1",
+  "selectedPaths": 1,
+  "selectedBytes": 59969899,
+  "selectedUniqueSHA": 1,
+  "selectedPages": 24,
+  "sourceLeafRawPaths": 44,
+  "sameSHAExisting1129": 0,
+  "remainingOldRawPaths": 16,
+  "identityConfirmedPaths": 0,
+  "identityUnconfirmedPaths": 1,
+  "items": [
+    {
+      "sourceLabel": "末来源（精确原名仅私有）",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告1",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/示波器末来源与四路径闭环_第265批/身份未确认的示波器声速填写稿",
+      "bytes": 59969899,
+      "sha256": "652869509e9e83e1982e6b7d907c787c3492ef3db1bacb16c1fc932cc355b2c5",
+      "pages": 24,
+      "role": "24页彩色拍摄填写稿，1-9示波器、10-15声速、16-18私人实验总结、19-23两实验原始记录/RC等波形、24额外示波器波形数据；前23页与263来源27页稿前23页静态高度对应但非同bytes/未逐像素，后附页各异均保。所见身份栏为空，零散签批编号不足确认私人身份，unknown不当净稿/不列身份清理，私人总结不转录",
+      "identityConfirmed": false,
+      "sourceOldTargetEqual": true,
+      "allPagesStaticReviewed": true,
+      "annotationObjects": 0,
+      "formObjects": 0,
+      "attachments": 0,
+      "publicRaw": false
+    }
+  ],
+  "policy": "仅safe元信息，不含私人值/原名映射/本机绝对路径；单raw/2privateREADME/24页审阅图TXT及私人总结仅私有。前23页静态高度对应非同bytes/逐像素/版次；后附页各异原件全保，unknown不泛删/cleanup空/history不改。"
+}

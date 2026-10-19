@@ -1,0 +1,80 @@
+{
+  "batch": 265,
+  "date": "2026-10-19",
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/物理/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A1",
+  "stats": {
+    "selectedSourcePaths": 4,
+    "selectedSourceBytes": 101437085,
+    "uniqueSHA": 4,
+    "filePages": 76,
+    "historical263": 3,
+    "fresh265": 1,
+    "allLocalFreshSHA": 4,
+    "identityConfirmedHistorical": 2,
+    "identityUnconfirmedPaths": 2,
+    "boundary": "仅来源题名四路径闭环，263历史3+265fresh1/local4fresh，历史source/cloud未本批重下；四SHA不等于四独立报告或新版。两件前23页静态高度对应非同bytes/逐像素/版次证明，后附页各异整PDF均保。"
+  },
+  "items": [
+    {
+      "sourceLabel": "来源路径1（精确原名仅私有）",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告1",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/示波器与声速混合三来源报告_第263批/混题原稿_身份未确认",
+      "bytes": 9804355,
+      "sha256": "fb9df46d1f2db0ea6a68695b31f8b52c3981c3dd38378074d9e28deaf45de86f",
+      "pages": 27,
+      "role": "27页灰度混合填写原稿：1-9示波器报告，10-15声速报告，16-18私人实验总结，19-23示波器/声速原始记录及RC等波形，24材料拉伸试验记录，25-27阻尼/受迫振动数据曲线；全PDF不拆，附页课程/同人配套未证。身份栏为空，零散签批/编号含义未明，不足确证私人身份，不列身份清理，仍私有而非净稿",
+      "identityConfirmed": false,
+      "evidenceBatch": 263,
+      "sourceOldTargetEqual": true,
+      "freshLocalSHA": true,
+      "cloudEvidence": "263历史已验最终cloud保存字节本地SHA复核，非本批新下载raw",
+      "publicRaw": false
+    },
+    {
+      "sourceLabel": "来源路径2（精确原名仅私有）",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告1",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/示波器与声速混合三来源报告_第263批/有身份的示波器与声速填写报告",
+      "bytes": 29100874,
+      "sha256": "835eed8bd6c24831c77884d249123c8e8fec8a36a44823fa944ec4f87dc9f3c9",
+      "pages": 12,
+      "role": "12页彩色填写报告，包含示波器原理/观察波形及声速测量原理/数据处理/总结思考题，实际私人身份填写与纸面批改评价只私有；原件整份含两实验，不当示波器单一报告/标准答案",
+      "identityConfirmed": true,
+      "evidenceBatch": 263,
+      "sourceOldTargetEqual": true,
+      "freshLocalSHA": true,
+      "cloudEvidence": "263历史已验最终cloud保存字节本地SHA复核，非本批新下载raw",
+      "publicRaw": false
+    },
+    {
+      "sourceLabel": "来源路径3（精确原名仅私有）",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告1",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/示波器与声速混合三来源报告_第263批/有身份的示波器与声速填写报告",
+      "bytes": 2561957,
+      "sha256": "d901177b1f7d8806cfa560ad9e3a22b9e34918377dac3e11ac072b13bd937586",
+      "pages": 13,
+      "role": "13页灰度填写报告：示波器报告与原始波形在前，声速原理/步骤/处理在后并附末页原始记录，实际私人身份与纸面批改评价只私有，黑边/低对比度/全部附页保持",
+      "identityConfirmed": true,
+      "evidenceBatch": 263,
+      "sourceOldTargetEqual": true,
+      "freshLocalSHA": true,
+      "cloudEvidence": "263历史已验最终cloud保存字节本地SHA复核，非本批新下载raw",
+      "publicRaw": false
+    },
+    {
+      "sourceLabel": "来源路径4（精确原名仅私有）",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告1",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/示波器末来源与四路径闭环_第265批/身份未确认的示波器声速填写稿",
+      "bytes": 59969899,
+      "sha256": "652869509e9e83e1982e6b7d907c787c3492ef3db1bacb16c1fc932cc355b2c5",
+      "pages": 24,
+      "role": "24页彩色拍摄填写稿，1-9示波器、10-15声速、16-18私人实验总结、19-23两实验原始记录/RC等波形、24额外示波器波形数据；前23页与263来源27页稿前23页静态高度对应但非同bytes/未逐像素，后附页各异均保。所见身份栏为空，零散签批编号不足确认私人身份，unknown不当净稿/不列身份清理，私人总结不转录",
+      "identityConfirmed": false,
+      "evidenceBatch": 265,
+      "sourceOldTargetEqual": true,
+      "freshLocalSHA": true,
+      "cloudEvidence": "本批完整限定scope新回取",
+      "publicRaw": false
+    }
+  ],
+  "policy": "四题名来源路径限定闭环，历史3+fresh1/local4fresh；四SHA非四独立报告/新版，不把历史source/cloud称本批重下；私人身份/评价/总结/精确原名和本机绝对路径不入safe。"
+}
