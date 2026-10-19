@@ -1,0 +1,47 @@
+{
+  "batch": 260,
+  "date": "2026-10-19",
+  "status": "本地原字节归档；云盘最终限定验收由主代理独立记录",
+  "source": "现有高等代数根部本地散件；未核最初下载网址，不编造外链",
+  "selectedOriginalFiles": 2,
+  "bytes": 1259708,
+  "pages": 90,
+  "allFullTextPrivate": true,
+  "files": [
+    {
+      "sourceName": "BERNSTEIN-SATO POLYNOMIALS IN COMMUTATIVE ALGEBRA.pdf",
+      "originalStudyRelativePath": "数学类/高等代数/BERNSTEIN-SATO POLYNOMIALS IN COMMUTATIVE ALGEBRA.pdf",
+      "bytes": 828104,
+      "sha256": "0530115fe49d2b375abfbe0ffad1a1fa464d9a4f6a5a7f5d618f1a09d4342a86",
+      "pages": 64,
+      "title": "Bernstein-Sato polynomials in commutative algebra",
+      "authors": "Josep Àlvarez Montaner；Jack Jeffries；Luis Núñez-Betancourt",
+      "dateEvidence": "arXiv:2106.08830v3；正文标2021-08-21",
+      "role": "综述文稿",
+      "safeDescription": "正文自述expository survey，覆盖经典理论、理想相对版本、正特征、奇异环、局部上同调、zeta函数和乘子理想等；不补认正式出版版本。",
+      "rawPublic": false,
+      "originalBytesUnmodified": true,
+      "studyRelativePath": "数学类/交换代数/参考阅读/Bernstein-Sato本地参考_第260批/_过程材料/私有原件/BERNSTEIN-SATO POLYNOMIALS IN COMMUTATIVE ALGEBRA.pdf",
+      "cloudRelativePath": "数学类/交换代数/参考阅读/Bernstein-Sato本地参考_第260批/_过程材料/私有原件/BERNSTEIN-SATO POLYNOMIALS IN COMMUTATIVE ALGEBRA.pdf"
+    },
+    {
+      "sourceName": "BERNSTEIN-SATO POLYNOMIALS.pdf",
+      "originalStudyRelativePath": "数学类/高等代数/BERNSTEIN-SATO POLYNOMIALS.pdf",
+      "bytes": 431604,
+      "sha256": "7ac6cf3b7c2ce09101bfaded8907ef124f87a3c7bafdafac0d26bf105de1accb",
+      "pages": 26,
+      "title": "Bernstein-Sato polynomials (Lecture notes, UPC Barcelona, 2015)",
+      "authors": "Nero Budur",
+      "dateEvidence": "正文Date: September 6, 2015；暑校讲座2015-09-07至10",
+      "role": "暑校讲义",
+      "safeDescription": "题名和正文说明基于UPC Barcelona暑校系列讲座；覆盖经典Bernstein-Sato多项式、理想与概形、V-filtration和Bernstein-Sato ideals。不认定清华课程讲义。",
+      "rawPublic": false,
+      "originalBytesUnmodified": true,
+      "studyRelativePath": "数学类/交换代数/参考阅读/Bernstein-Sato本地参考_第260批/_过程材料/私有原件/BERNSTEIN-SATO POLYNOMIALS.pdf",
+      "cloudRelativePath": "数学类/交换代数/参考阅读/Bernstein-Sato本地参考_第260批/_过程材料/私有原件/BERNSTEIN-SATO POLYNOMIALS.pdf"
+    }
+  ],
+  "verificationBoundary": "两件本地原SHA与根预盘点一致，已复制到规范私有叶且原高代根原件保留；64页及26页全页结构遍历，各5页实际视觉。云盘最终回取另存主代理限定验收，不据本地归档宣称云盘核验完成。",
+  "qualityBoundary": "两件PDF repair=false，0批注/表单/嵌入文件，本次结构与文字提取/抽样渲染未产生MuPDF内容警告；软件API弃用提示不作为PDF内容警告。保留原字节，不运行或访问论文内外链。",
+  "originalRootCopiesRetained": true
+}
