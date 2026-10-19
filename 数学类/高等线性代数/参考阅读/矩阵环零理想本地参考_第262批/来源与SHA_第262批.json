@@ -1,0 +1,93 @@
+{
+  "batch": 262,
+  "date": "2026-10-19",
+  "source": "原高等代数根部本地散件；原始取得网址未核，不补造外链",
+  "sourceOriginalFiles": 5,
+  "rawBytes": 3420188,
+  "PDFPages": 67,
+  "DOCXFiles": 1,
+  "rawPublic": false,
+  "originalRootCopiesRetained": true,
+  "files": [
+    {
+      "sourceName": "2405.04106v1.pdf",
+      "originalStudyRelativePath": "数学类/高等代数/2405.04106v1.pdf",
+      "studyRelativePath": "数学类/高等代数/参考阅读/矩阵环零理想本地参考_第262批/_过程材料/私有原件/文献/2405.04106v1.pdf",
+      "cloudRelativePath": "数学类/高等线性代数/参考阅读/矩阵环零理想本地参考_第262批/_过程材料/私有原件/文献/2405.04106v1.pdf",
+      "bytes": 562852,
+      "sha256": "c102044d95d68c79292f9bdc473df86ce8d067efbc2d64aa2ba56b1a9121162d",
+      "title": "Counting core sets in matrix rings over finite fields",
+      "authorsOrRole": "Roswitha Rissner；Nicholas J. Werner",
+      "dateEvidence": "PDF首物理页arXiv边栏标2405.04106v1、7 May 2024；这是该预印本版本标记，不是仅据文件名推断的版权或正式出版日期。",
+      "role": "研究论文",
+      "safeDescription": "有限域上2×2矩阵的core子集计数研究；不据本地课程目录认定作业或课程指定材料。",
+      "rawPublic": false,
+      "pages": 19
+    },
+    {
+      "sourceName": "Null ideals of sets of 3   3 similar matrices with irreducible characteristic polynomial.pdf",
+      "originalStudyRelativePath": "数学类/高等代数/Null ideals of sets of 3   3 similar matrices with irreducible characteristic polynomial.pdf",
+      "studyRelativePath": "数学类/高等代数/参考阅读/矩阵环零理想本地参考_第262批/_过程材料/私有原件/文献/Null ideals of sets of 3   3 similar matrices with irreducible characteristic polynomial.pdf",
+      "cloudRelativePath": "数学类/高等线性代数/参考阅读/矩阵环零理想本地参考_第262批/_过程材料/私有原件/文献/Null ideals of sets of 3   3 similar matrices with irreducible characteristic polynomial.pdf",
+      "bytes": 1983895,
+      "sha256": "cb5fe28b5ea26cff504950adde0320682e2488796f7669cfaec60d5fa5fafdf5",
+      "title": "Null ideals of sets of 3 × 3 similar matrices with irreducible characteristic polynomial",
+      "authorsOrRole": "Eric Swartz；Nicholas J. Werner",
+      "dateEvidence": "期刊卷期2024，72(15):2516–2538；Published online 2023-10-24",
+      "role": "期刊论文",
+      "safeDescription": "首物理页为出版社文章包装页；次页起正文，末物理页印2538参考文献。不把在线年与卷期年混同。",
+      "rawPublic": false,
+      "pages": 24
+    },
+    {
+      "sourceName": "Null-ideals-of-subsets-of-matrix-rings-ove_2022_Linear-Algebra-and-its-Appli.pdf",
+      "originalStudyRelativePath": "数学类/高等代数/Null-ideals-of-subsets-of-matrix-rings-ove_2022_Linear-Algebra-and-its-Appli.pdf",
+      "studyRelativePath": "数学类/高等代数/参考阅读/矩阵环零理想本地参考_第262批/_过程材料/私有原件/文献/Null-ideals-of-subsets-of-matrix-rings-ove_2022_Linear-Algebra-and-its-Appli.pdf",
+      "cloudRelativePath": "数学类/高等线性代数/参考阅读/矩阵环零理想本地参考_第262批/_过程材料/私有原件/文献/Null-ideals-of-subsets-of-matrix-rings-ove_2022_Linear-Algebra-and-its-Appli.pdf",
+      "bytes": 444644,
+      "sha256": "fa2d50411c114c86a36d9716e20c6071f1fe22d28c4ee7987f45dc6d8930a933",
+      "title": "Null ideals of subsets of matrix rings over fields",
+      "authorsOrRole": "Nicholas J. Werner",
+      "dateEvidence": "Linear Algebra and its Applications 642 (2022):50–72；Available online 2022-02-09",
+      "role": "期刊论文",
+      "safeDescription": "矩阵环子集的null ideal与两边理想条件；不是课程试题或答案。",
+      "rawPublic": false,
+      "pages": 23
+    },
+    {
+      "sourceName": "ex2.pdf",
+      "originalStudyRelativePath": "数学类/高等代数/ex2.pdf",
+      "studyRelativePath": "数学类/高等代数/参考阅读/矩阵环零理想本地参考_第262批/_过程材料/私有原件/研究草稿_署名及课程待核/ex2.pdf",
+      "cloudRelativePath": "数学类/高等线性代数/参考阅读/矩阵环零理想本地参考_第262批/_过程材料/私有原件/研究草稿_署名及课程待核/ex2.pdf",
+      "bytes": 417787,
+      "sha256": "e748ef09cd72d8891d6a37d4f4e4f1dfdfa697cd8dfa20b1be4ff45ce2f3ca99",
+      "title": "无独立题名：矩阵环L-module推广笔记",
+      "authorsOrRole": "作者未核",
+      "dateEvidence": "日期未核",
+      "role": "个人研究草稿候选",
+      "safeDescription": "1页定义、命题与证明，参考文献明确引用Werner的Null ideals of subsets of matrix rings over fields；作者、课程归属及论证正确性未认证。",
+      "rawPublic": false,
+      "pages": 1
+    },
+    {
+      "sourceName": "问题.docx",
+      "originalStudyRelativePath": "数学类/高等代数/问题.docx",
+      "studyRelativePath": "数学类/高等代数/参考阅读/矩阵环零理想本地参考_第262批/_过程材料/私有原件/研究草稿_署名及课程待核/问题.docx",
+      "cloudRelativePath": "数学类/高等线性代数/参考阅读/矩阵环零理想本地参考_第262批/_过程材料/私有原件/研究草稿_署名及课程待核/问题.docx",
+      "bytes": 11010,
+      "sha256": "efdb1076afbb41b7a76df7a4fada6c4072e85e1c98a271edf45eaab33d6fc1ee",
+      "title": "问题",
+      "authorsOrRole": "作者未核",
+      "dateEvidence": "日期未核",
+      "role": "阅读问题备忘候选",
+      "safeDescription": "静态XML为4条简短疑问，涉及有限环运算与论文页段；可与研究阅读放近，但具体对应论文/页码的映射尚未确证。",
+      "rawPublic": false
+    }
+  ],
+  "localCloudMapping": {
+    "local": "数学类/高等代数",
+    "cloudAndRepository": "数学类/高等线性代数"
+  },
+  "verificationBoundary": "本批5原件fresh本地SHA与第260批审计一致，规范副本原字节相同；继承第260批3文献各5核心页与ex2全1页，共16物理页视觉和67页结构遍历。DOCX仅静态XML/ZIP结构，未排版视觉。云盘最终限定回取另由主代理记录。",
+  "qualityBoundary": "4PDF沿260 repair=false，0批注、表单、嵌入；本次沿用的结构及抽样解析无PDF内容警告。研究论文不是课程作业或往年题；个人草稿作者、课程归属、日期及证明正确性未核，阅读备忘不强配某篇论文页码。"
+}
