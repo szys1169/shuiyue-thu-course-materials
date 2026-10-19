@@ -1,0 +1,51 @@
+{
+  "batch": 277,
+  "date": "2026-10-19",
+  "sourceUrl": "https://cloud.tsinghua.edu.cn/library/6f4b1cfc-208b-4b3f-b2ac-bac77f97246f/物理/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A1",
+  "oldTargetUrl": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%A4%A7%E7%89%A9%E5%AE%9E%E9%AA%8C/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A1",
+  "sourceLeafRawPaths": 44,
+  "selectedPaths": 2,
+  "selectedBytes": 5112468,
+  "selectedUniqueSHA": 2,
+  "selectedFilePages": 21,
+  "sameSHAExistingCanonical": 0,
+  "protectedCanonicalPaths": 1177,
+  "remainingOldRawPaths": 3,
+  "identityConfirmedPaths": 2,
+  "identityUnconfirmedPaths": 0,
+  "items": [
+    {
+      "sourceLabel": "来源变体1（精确原名仅私有）",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告1",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/光学仪器与弦振动两来源报告_第277批/弦振动_填写报告",
+      "bytes": 2614390,
+      "sha256": "0c53a235c6a1947e5cfc9c5717efd82ec57f66f43d0829c2a50e8d1cfca0348b",
+      "pages": 10,
+      "role": "10页灰度弦振动填写报告，首行实际私人身份已证，含驻波原理、装置步骤、数据处理与张力/弦长等关系，9页旋转曲线图、末页原始记录。身份评价/私人总结不抄，原名字节/纸面批改原样私有",
+      "identityConfirmed": true,
+      "sourceOldTargetEqual": true,
+      "allPagesStaticReviewed": true,
+      "annotationObjects": 0,
+      "formObjects": 0,
+      "attachments": 0,
+      "publicRaw": false
+    },
+    {
+      "sourceLabel": "来源变体2（精确原名仅私有）",
+      "sourceDirectory": "物理类/物理实验/大物实验/大物实验/实验报告1",
+      "finalGroupDirectory": "物理类/物理实验/_过程材料/光学仪器与弦振动两来源报告_第277批/望远镜与显微镜_填写报告",
+      "bytes": 2498078,
+      "sha256": "ee849f34ac498933112b83e3d5d2e310fb21659e0660b856f8337c292ceb13a5",
+      "pages": 11,
+      "role": "11页灰度望远镜与显微镜填写报告，首行实际私人身份已证，含望远镜/显微镜光路、原理步骤、数据处理和9页思考分析、末2页原始记录。黑边/页序/纸面批改保持，不当空白题/标准答案",
+      "identityConfirmed": true,
+      "sourceOldTargetEqual": true,
+      "allPagesStaticReviewed": true,
+      "annotationObjects": 0,
+      "formObjects": 0,
+      "attachments": 0,
+      "publicRaw": false
+    }
+  ],
+  "policy": "两件首行实际私人身份填写已证，身份/评价值与私人总结经历不抄。原名字节、页序、灰度/黑边、旋转曲线、全部笔迹批改与原始记录保持，不裁剪/补缺页/拆PDF。不认标准答案，正确性及扫描缺失范围未独立证明，私人日期不作任课教师或授课学期证明。结构注释表单附件0不等于无纸面批改，不执行脚本/软件/外链。 两raw/3privateREADME/审阅图TXT与精确原名只私有，无本机绝对路径。only2exact身份候选，余3不泛删/history不改，非报告1整叶闭环。"
+}
