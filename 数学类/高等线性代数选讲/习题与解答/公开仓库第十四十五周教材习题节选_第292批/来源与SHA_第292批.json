@@ -1,0 +1,112 @@
+{
+  "batch": 292,
+  "snapshotDate": "2026-10-19",
+  "groupRole": "来源标签第十四、十五周的英文教材章节与圈题节选",
+  "files": [
+    {
+      "sourceName": "第14周-10.3.pdf",
+      "bytes": 1225643,
+      "sha256": "42ceff23b0e9c274dcc93b2c4ba49ea50591f8820850d14a87d9c70afe111af0",
+      "pages": 9,
+      "actualTitle": "10.3 Markov Matrices, Population, and Economics及习题节选",
+      "role": "英文教材章节与圈题节选",
+      "safeDescription": "9页、印刷474–482，含10.3正文与Problem Set10.3第1至20题，涉及Markov矩阵、稳态、Perron-Frobenius、人口与投入产出模型；蓝圈3、5、6、7、8、12、15、16。没有题名版权页，不补作者版年。",
+      "authorEvidence": "未含题名版权页，作者、完整书名、版次出版年未核，不凭熟悉内容或源名补猜",
+      "dateEvidence": "周次仅来源文件名标签，教学日期、学年及教师未核，不以元数据生成日推课程年",
+      "printedPageLabels": [
+        474,
+        475,
+        476,
+        477,
+        478,
+        479,
+        480,
+        481,
+        482
+      ],
+      "visuallyCircledProblemNumbers": [
+        3,
+        5,
+        6,
+        7,
+        8,
+        12,
+        15,
+        16
+      ],
+      "annotationCount": 0,
+      "annotationTypes": {},
+      "formCount": 0,
+      "embeddedFiles": 0,
+      "repaired": false,
+      "warnings": "",
+      "studyRelativePath": "数学类/高代选/习题/公开仓库第十四十五周教材习题节选_第292批/_过程材料/私有原件/第14周-10.3.pdf",
+      "cloudRelativePath": "数学类/高等线性代数选讲/习题与解答/公开仓库第十四十五周教材习题节选_第292批/_过程材料/私有原件/第14周-10.3.pdf",
+      "sourceIndex": "https://rekcarc-tsc-uht.readthedocs.io/en/latest/大一下.html",
+      "downloadDate": "2026-10-19",
+      "rawPublic": false,
+      "originalBytesUnmodified": true,
+      "sourceBlobURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/master/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/homework%EF%BC%88%E5%BE%90%E5%B8%86%E8%AF%BE%E5%A0%82%EF%BC%89/%E7%AC%AC14%E5%91%A8-10.3.pdf",
+      "resolvedPublicDownloadURL": "https://raw.githubusercontent.com/PKUanonym/REKCARC-TSC-UHT/refs/heads/master/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/homework%EF%BC%88%E5%BE%90%E5%B8%86%E8%AF%BE%E5%A0%82%EF%BC%89/%E7%AC%AC14%E5%91%A8-10.3.pdf"
+    },
+    {
+      "sourceName": "第15周-10.6.pdf",
+      "bytes": 531877,
+      "sha256": "7614f3f5f79c9d6e01280ab60738dca03ad518306abe076163ef7501af09a01c",
+      "pages": 6,
+      "actualTitle": "10.6 Computer Graphics及习题节选",
+      "role": "英文教材章节与圈题节选",
+      "safeDescription": "6页、印刷496–501，含10.6 Computer Graphics正文、关键概念与Problem Set10.6第1至17题，涉及齐次坐标、平移、缩放、旋转、投影与反射。可见红圈3、7、8、9、10、14、15、16、17，保留8个Ink批注对象；可见圈数与对象数不同，不修改或扁平化。",
+      "authorEvidence": "未含题名版权页，作者、完整书名、版次出版年未核，不凭熟悉内容或源名补猜",
+      "dateEvidence": "周次仅来源文件名标签，教学日期、学年及教师未核，不以元数据生成日推课程年",
+      "printedPageLabels": [
+        496,
+        497,
+        498,
+        499,
+        500,
+        501
+      ],
+      "visuallyCircledProblemNumbers": [
+        3,
+        7,
+        8,
+        9,
+        10,
+        14,
+        15,
+        16,
+        17
+      ],
+      "annotationCount": 8,
+      "annotationTypes": {
+        "Ink": 8
+      },
+      "formCount": 0,
+      "embeddedFiles": 0,
+      "repaired": false,
+      "warnings": "",
+      "studyRelativePath": "数学类/高代选/习题/公开仓库第十四十五周教材习题节选_第292批/_过程材料/私有原件/第15周-10.6.pdf",
+      "cloudRelativePath": "数学类/高等线性代数选讲/习题与解答/公开仓库第十四十五周教材习题节选_第292批/_过程材料/私有原件/第15周-10.6.pdf",
+      "sourceIndex": "https://rekcarc-tsc-uht.readthedocs.io/en/latest/大一下.html",
+      "downloadDate": "2026-10-19",
+      "rawPublic": false,
+      "originalBytesUnmodified": true,
+      "sourceBlobURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/master/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/homework%EF%BC%88%E5%BE%90%E5%B8%86%E8%AF%BE%E5%A0%82%EF%BC%89/%E7%AC%AC15%E5%91%A8-10.6.pdf",
+      "resolvedPublicDownloadURL": "https://raw.githubusercontent.com/PKUanonym/REKCARC-TSC-UHT/refs/heads/master/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/homework%EF%BC%88%E5%BE%90%E5%B8%86%E8%AF%BE%E5%A0%82%EF%BC%89/%E7%AC%AC15%E5%91%A8-10.6.pdf"
+    }
+  ],
+  "rawFiles": 2,
+  "rawBytes": 1757520,
+  "PDFPages": 15,
+  "allRawPublic": false,
+  "sourceBoundary": "实际项目官方ReadTheDocs已观察blob及页面raw入口，2026-10-19下载，未访问tree路由。仓库贡献者许可不一概覆盖第三方教材，不补猜最早上传来源。",
+  "roleBoundary": "两件为10.3与10.6不同教材章节与习题节选，不是题单答案一对；无题名版权页，教材作者、完整书名、版次出版年未核，不另造教材书目。源周次不代证教学日期学年或教师，圈记不证明指定题或批改。",
+  "qualityBoundary": "15页全实际目视，未见学生姓名学号、成绩或明确教师批改。repair=false、0表单/嵌入，本次内容警告空。第14周0批注对象但有页面蓝圈；第15周可见9个圈题编号，实际8个Ink对象，各计数保留，不扁平化或改写。原元数据与批注Info值只私有审计，不做新OCR、不执行对象或外链。",
+  "verificationBoundary": "2源再次核SHA、数学规范同尺寸exact0、本地副本原字节一致；不据相邻或间隔页码认整书完整，云盘最终限定回取另记，不将本地复制当作云盘成功。",
+  "localCloudMapping": {
+    "localGroup": "数学类/高代选/习题/公开仓库第十四十五周教材习题节选_第292批",
+    "cloudAndRepositoryGroup": "数学类/高等线性代数选讲/习题与解答/公开仓库第十四十五周教材习题节选_第292批"
+  },
+  "publicPolicy": "仅组根README与来源JSON公开；2教材节选PDF及私有README不进Git。"
+}
