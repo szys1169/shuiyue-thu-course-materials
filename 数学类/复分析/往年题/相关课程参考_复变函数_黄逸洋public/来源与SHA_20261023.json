@@ -1,0 +1,248 @@
+{
+  "date": "2026-10-23",
+  "source": "黄逸洋public / 复变函数 / 参考试题",
+  "sourceShareURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/",
+  "sourceSubdirectory": "1.1_数学类_复变函数/参考试题",
+  "originalSourcePaths": 22,
+  "originalSourceUniqueSHA256": 21,
+  "originalSourceBytes": 21998730,
+  "publishedRawFiles": 21,
+  "publishedOriginalByteFiles": 20,
+  "sanitizedPublicCopies": 1,
+  "sameSHAPathAliasesReused": 1,
+  "files": [
+    {
+      "name": "2021期末考试答案与解.pdf",
+      "bytes": 3937600,
+      "sha256": "11268af3d8e1973d1fce09653a89c3fe131ed0f4a1a7c90bb3aa40c0780236f9",
+      "sourcePreviewHref": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%2F%E5%8F%82%E8%80%83%E8%AF%95%E9%A2%98%2F2021%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E7%AD%94%E6%A1%88%E4%B8%8E%E8%A7%A3.pdf",
+      "targetPreviewURL": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic/2021%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E7%AD%94%E6%A1%88%E4%B8%8E%E8%A7%A3.pdf",
+      "roleEvidence": "实际首页为手写解答；未认定教师标准答案",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/复分析/往年题/相关课程参考_复变函数_黄逸洋public/2021期末考试答案与解.pdf"
+    },
+    {
+      "name": "复变2003.pdf",
+      "bytes": 168664,
+      "sha256": "a64ce8ddde38af8166e5167202f1802b3cb4c8543f8d38451f757d55dc44129c",
+      "sourcePreviewHref": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%2F%E5%8F%82%E8%80%83%E8%AF%95%E9%A2%98%2F%E5%A4%8D%E5%8F%982003.pdf",
+      "targetPreviewURL": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic/%E5%A4%8D%E5%8F%982003.pdf",
+      "roleEvidence": "实际首页题名含2003年春季复变函数期终试题；多页集合不等于单卷",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/复分析/往年题/相关课程参考_复变函数_黄逸洋public/复变2003.pdf"
+    },
+    {
+      "name": "复变2004.pdf",
+      "bytes": 99107,
+      "sha256": "c563208d55583a22de0fe9202415d3c5d4a6d74f96adaabcff2df05eee58d9eb",
+      "sourcePreviewHref": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%2F%E5%8F%82%E8%80%83%E8%AF%95%E9%A2%98%2F%E5%A4%8D%E5%8F%982004.pdf",
+      "targetPreviewURL": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic/%E5%A4%8D%E5%8F%982004.pdf",
+      "roleEvidence": "实际首页为复变函数引论期末考试，标2004.1",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/复分析/往年题/相关课程参考_复变函数_黄逸洋public/复变2004.pdf"
+    },
+    {
+      "name": "复变2007（1）.pdf",
+      "bytes": 144730,
+      "sha256": "7254abc1769d48caa8d15f3de9077bde16c70735336b5ad6d22b1aeba29658bd",
+      "sourcePreviewHref": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%2F%E5%8F%82%E8%80%83%E8%AF%95%E9%A2%98%2F%E5%A4%8D%E5%8F%982007%EF%BC%881%EF%BC%89.pdf",
+      "targetPreviewURL": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic/%E5%A4%8D%E5%8F%982007%EF%BC%881%EF%BC%89.pdf",
+      "roleEvidence": "按来源题名保存；初次UI预览部分未充分渲染，不推定全部正文或责任者",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/复分析/往年题/相关课程参考_复变函数_黄逸洋public/复变2007（1）.pdf"
+    },
+    {
+      "name": "复变2007（2）.pdf",
+      "bytes": 135129,
+      "sha256": "85e6d51c026e0e8516639064ffa7ba71d4240e262ad2c81099a47c905ce5c224",
+      "sourcePreviewHref": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%2F%E5%8F%82%E8%80%83%E8%AF%95%E9%A2%98%2F%E5%A4%8D%E5%8F%982007%EF%BC%882%EF%BC%89.pdf",
+      "targetPreviewURL": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic/%E5%A4%8D%E5%8F%982007%EF%BC%882%EF%BC%89.pdf",
+      "roleEvidence": "按来源题名保存；初次UI预览部分未充分渲染，不推定全部正文或责任者",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/复分析/往年题/相关课程参考_复变函数_黄逸洋public/复变2007（2）.pdf"
+    },
+    {
+      "name": "复变函数-李岩松-2023春期末（回忆版）.pdf",
+      "bytes": 55229,
+      "sha256": "e11eca868f09afb538ffbaa733df73380aecc9d0500a45a155f6272db4a4b86b",
+      "sourcePreviewHref": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%2F%E5%8F%82%E8%80%83%E8%AF%95%E9%A2%98%2F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0-%E6%9D%8E%E5%B2%A9%E6%9D%BE-2023%E6%98%A5%E6%9C%9F%E6%9C%AB%EF%BC%88%E5%9B%9E%E5%BF%86%E7%89%88%EF%BC%89.pdf",
+      "targetPreviewURL": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0-%E6%9D%8E%E5%B2%A9%E6%9D%BE-2023%E6%98%A5%E6%9C%9F%E6%9C%AB%EF%BC%88%E5%9B%9E%E5%BF%86%E7%89%88%EF%BC%89.pdf",
+      "roleEvidence": "实际首页明确回忆版并有整理作者署名；不是原始正式卷保证",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/复分析/往年题/相关课程参考_复变函数_黄逸洋public/复变函数-李岩松-2023春期末（回忆版）.pdf"
+    },
+    {
+      "name": "复变函数-李岩松-2023期末.pdf",
+      "bytes": 648731,
+      "sha256": "412c54ee16dbafab1b82bef12db0bca53cf19bc1822843a4741f71215596ed5c",
+      "sourcePreviewHref": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%2F%E5%8F%82%E8%80%83%E8%AF%95%E9%A2%98%2F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0-%E6%9D%8E%E5%B2%A9%E6%9D%BE-2023%E6%9C%9F%E6%9C%AB.pdf",
+      "targetPreviewURL": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0-%E6%9D%8E%E5%B2%A9%E6%9D%BE-2023%E6%9C%9F%E6%9C%AB.pdf",
+      "roleEvidence": "实际首页为2023年秋季学期期末考试回忆版；不能只按文件名省去回忆性质",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/复分析/往年题/相关课程参考_复变函数_黄逸洋public/复变函数-李岩松-2023期末.pdf"
+    },
+    {
+      "name": "复变函数-李岩松老师-复变函数题解-刘亦钒(不是我写的).pdf",
+      "bytes": 6437667,
+      "sha256": "83f4443f8054c9d07044cebb2faa034d6a24dc74c49a05818c3f3b3afb17f773",
+      "sourcePreviewHref": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%2F%E5%8F%82%E8%80%83%E8%AF%95%E9%A2%98%2F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0-%E6%9D%8E%E5%B2%A9%E6%9D%BE%E8%80%81%E5%B8%88-%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E9%A2%98%E8%A7%A3-%E5%88%98%E4%BA%A6%E9%92%92(%E4%B8%8D%E6%98%AF%E6%88%91%E5%86%99%E7%9A%84).pdf",
+      "targetPreviewURL": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0-%E6%9D%8E%E5%B2%A9%E6%9D%BE%E8%80%81%E5%B8%88-%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E9%A2%98%E8%A7%A3-%E5%88%98%E4%BA%A6%E9%92%92(%E4%B8%8D%E6%98%AF%E6%88%91%E5%86%99%E7%9A%84).pdf",
+      "roleEvidence": "实际首页是教材习题题解拼版，手写题号/勾记保留；不能由文件名确认责任者",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/复分析/往年题/相关课程参考_复变函数_黄逸洋public/复变函数-李岩松老师-复变函数题解-刘亦钒(不是我写的).pdf"
+    },
+    {
+      "name": "复变函数-杨晓京-2016秋期末-曾凡焜(搬运).pdf",
+      "bytes": 272689,
+      "sha256": "6c726d8214e8c9dccf4eaf1e950e146aaf69436f274e037e16c74aca987006bb",
+      "sourcePreviewHref": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%2F%E5%8F%82%E8%80%83%E8%AF%95%E9%A2%98%2F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0-%E6%9D%A8%E6%99%93%E4%BA%AC-2016%E7%A7%8B%E6%9C%9F%E6%9C%AB-%E6%9B%BE%E5%87%A1%E7%84%9C(%E6%90%AC%E8%BF%90).pdf",
+      "targetPreviewURL": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0-%E6%9D%A8%E6%99%93%E4%BA%AC-2016%E7%A7%8B%E6%9C%9F%E6%9C%AB-%E6%9B%BE%E5%87%A1%E7%84%9C(%E6%90%AC%E8%BF%90).pdf",
+      "roleEvidence": "实际首页标题复变函数-杨老师，日期2017-1-9；来源名2016秋与卷面日期分列",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/复分析/往年题/相关课程参考_复变函数_黄逸洋public/复变函数-杨晓京-2016秋期末-曾凡焜(搬运).pdf"
+    },
+    {
+      "name": "复变函数-杨晓京-2018秋期末-曾凡焜(搬运).pdf.pdf",
+      "bytes": 294379,
+      "sha256": "0f1e9c46853fae187b4b730efc31ea21b12d74edb9783821bfd87d0d2793f40e",
+      "sourcePreviewHref": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%2F%E5%8F%82%E8%80%83%E8%AF%95%E9%A2%98%2F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0-%E6%9D%A8%E6%99%93%E4%BA%AC-2018%E7%A7%8B%E6%9C%9F%E6%9C%AB-%E6%9B%BE%E5%87%A1%E7%84%9C(%E6%90%AC%E8%BF%90).pdf.pdf",
+      "targetPreviewURL": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0-%E6%9D%A8%E6%99%93%E4%BA%AC-2018%E7%A7%8B%E6%9C%9F%E6%9C%AB-%E6%9B%BE%E5%87%A1%E7%84%9C(%E6%90%AC%E8%BF%90).pdf.pdf",
+      "roleEvidence": "按来源题名保存；初次UI预览部分未充分渲染，不推定全部正文或责任者",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/复分析/往年题/相关课程参考_复变函数_黄逸洋public/复变函数-杨晓京-2018秋期末-曾凡焜(搬运).pdf.pdf"
+    },
+    {
+      "name": "复变函数-杨晓京-2020秋期末-曾凡焜(搬运).pdf",
+      "bytes": 285320,
+      "sha256": "08b2b0b653db219a99b4e53e13ad6fc8300834fb5f4ce0ed1586ef8f58fb341c",
+      "sourcePreviewHref": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%2F%E5%8F%82%E8%80%83%E8%AF%95%E9%A2%98%2F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0-%E6%9D%A8%E6%99%93%E4%BA%AC-2020%E7%A7%8B%E6%9C%9F%E6%9C%AB-%E6%9B%BE%E5%87%A1%E7%84%9C(%E6%90%AC%E8%BF%90).pdf",
+      "targetPreviewURL": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0-%E6%9D%A8%E6%99%93%E4%BA%AC-2020%E7%A7%8B%E6%9C%9F%E6%9C%AB-%E6%9B%BE%E5%87%A1%E7%84%9C(%E6%90%AC%E8%BF%90).pdf",
+      "roleEvidence": "按来源题名保存；初次UI预览部分未充分渲染，不推定全部正文或责任者",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/复分析/往年题/相关课程参考_复变函数_黄逸洋public/复变函数-杨晓京-2020秋期末-曾凡焜(搬运).pdf"
+    },
+    {
+      "name": "复变函数-杨晓京-2022秋期末-曾凡焜(搬运).pdf",
+      "bytes": 275296,
+      "sha256": "53d27eb8afe3d372f53d03f27f36996b66b70f89e6e08528c0aaf460ff6cf5ac",
+      "sourcePreviewHref": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%2F%E5%8F%82%E8%80%83%E8%AF%95%E9%A2%98%2F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0-%E6%9D%A8%E6%99%93%E4%BA%AC-2022%E7%A7%8B%E6%9C%9F%E6%9C%AB-%E6%9B%BE%E5%87%A1%E7%84%9C(%E6%90%AC%E8%BF%90).pdf",
+      "targetPreviewURL": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0-%E6%9D%A8%E6%99%93%E4%BA%AC-2022%E7%A7%8B%E6%9C%9F%E6%9C%AB-%E6%9B%BE%E5%87%A1%E7%84%9C(%E6%90%AC%E8%BF%90).pdf",
+      "roleEvidence": "按来源题名保存；初次UI预览部分未充分渲染，不推定全部正文或责任者",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/复分析/往年题/相关课程参考_复变函数_黄逸洋public/复变函数-杨晓京-2022秋期末-曾凡焜(搬运).pdf"
+    },
+    {
+      "name": "复变函数期末考试回忆版-李岩松2022.pdf",
+      "bytes": 239977,
+      "sha256": "38ce3569da3d210f9daff2d1bb158d2e7fd45dc6be222a598bda7602687446ad",
+      "sourcePreviewHref": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%2F%E5%8F%82%E8%80%83%E8%AF%95%E9%A2%98%2F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E5%9B%9E%E5%BF%86%E7%89%88-%E6%9D%8E%E5%B2%A9%E6%9D%BE2022.pdf",
+      "targetPreviewURL": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E5%9B%9E%E5%BF%86%E7%89%88-%E6%9D%8E%E5%B2%A9%E6%9D%BE2022.pdf",
+      "roleEvidence": "实际首页明确期末考试回忆并列作者署名；不认教师命题署名",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/复分析/往年题/相关课程参考_复变函数_黄逸洋public/复变函数期末考试回忆版-李岩松2022.pdf"
+    },
+    {
+      "name": "复变函数样题.pdf",
+      "bytes": 199042,
+      "sha256": "6e7e1dbcae9cbe070b30b0b123dafda7e7a3c0c2df17ba87675e92489587dd54",
+      "sourcePreviewHref": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%2F%E5%8F%82%E8%80%83%E8%AF%95%E9%A2%98%2F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E6%A0%B7%E9%A2%98.pdf",
+      "targetPreviewURL": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E6%A0%B7%E9%A2%98.pdf",
+      "roleEvidence": "实际首页为数学与应用数学专业复变函数样题",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/复分析/往年题/相关课程参考_复变函数_黄逸洋public/复变函数样题.pdf"
+    },
+    {
+      "name": "复变函数引论-杨晓京-2022秋期末-宋文韬.pdf",
+      "bytes": 275296,
+      "sha256": "53d27eb8afe3d372f53d03f27f36996b66b70f89e6e08528c0aaf460ff6cf5ac",
+      "sourcePreviewHref": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%2F%E5%8F%82%E8%80%83%E8%AF%95%E9%A2%98%2F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA-%E6%9D%A8%E6%99%93%E4%BA%AC-2022%E7%A7%8B%E6%9C%9F%E6%9C%AB-%E5%AE%8B%E6%96%87%E9%9F%AC.pdf",
+      "targetPreviewURL": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA-%E6%9D%A8%E6%99%93%E4%BA%AC-2022%E7%A7%8B%E6%9C%9F%E6%9C%AB-%E5%AE%8B%E6%96%87%E9%9F%AC.pdf",
+      "roleEvidence": "按来源题名保存；初次UI预览部分未充分渲染，不推定全部正文或责任者",
+      "gitSyncStatus": "reused_same_SHA_source_alias",
+      "gitRepoPath": "数学类/复分析/往年题/相关课程参考_复变函数_黄逸洋public/复变函数-杨晓京-2022秋期末-曾凡焜(搬运).pdf"
+    },
+    {
+      "name": "复变函数引论-杨晓京.pdf",
+      "bytes": 1202905,
+      "sha256": "23c5b83e7674098f846a370b839e1a2ae1af15bb15f5e43433b3059861f04d2c",
+      "sourcePreviewHref": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%2F%E5%8F%82%E8%80%83%E8%AF%95%E9%A2%98%2F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA-%E6%9D%A8%E6%99%93%E4%BA%AC.pdf",
+      "targetPreviewURL": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA-%E6%9D%A8%E6%99%93%E4%BA%AC.pdf",
+      "roleEvidence": "实际首页题名为复变函数论试题库；不是仅一份当年正式试卷",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/复分析/往年题/相关课程参考_复变函数_黄逸洋public/复变函数引论-杨晓京.pdf"
+    },
+    {
+      "name": "复变函数与数理方程2013-2023期末考题.pdf",
+      "bytes": 1609793,
+      "sha256": "c0c234ba1f90eb45a7f506569de4180bd92ace1f689058b7e23d013a42fc8ba4",
+      "sourcePreviewHref": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%2F%E5%8F%82%E8%80%83%E8%AF%95%E9%A2%98%2F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B2013-2023%E6%9C%9F%E6%9C%AB%E8%80%83%E9%A2%98.pdf",
+      "targetPreviewURL": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B2013-2023%E6%9C%9F%E6%9C%AB%E8%80%83%E9%A2%98.pdf",
+      "roleEvidence": "实际首页课名含复变函数与数理方程，身份栏空；不当复分析官方卷",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/复分析/往年题/相关课程参考_复变函数_黄逸洋public/复变函数与数理方程2013-2023期末考题.pdf"
+    },
+    {
+      "name": "复变函数与数理方程2022期末考试答案与解.pdf",
+      "bytes": 1628468,
+      "sha256": "bff756d021a7952b9c4e17998f8a45cc5958a46ac9f868214a037dd8136dc095",
+      "sourcePreviewHref": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%2F%E5%8F%82%E8%80%83%E8%AF%95%E9%A2%98%2F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B2022%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E7%AD%94%E6%A1%88%E4%B8%8E%E8%A7%A3.pdf",
+      "targetPreviewURL": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B2022%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E7%AD%94%E6%A1%88%E4%B8%8E%E8%A7%A3.pdf",
+      "roleEvidence": "实际首页2022秋复变函数与数理方程题卷带手写解答；身份栏空，不认标准答案",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/复分析/往年题/相关课程参考_复变函数_黄逸洋public/复变函数与数理方程2022期末考试答案与解.pdf"
+    },
+    {
+      "name": "复变函数与数理方程2023期末考试答案与解.pdf",
+      "bytes": 2989740,
+      "sha256": "ea1333fceda918bfc85e3a0dfa006bfbd60abe29057989c31575ba2295a5ceae",
+      "sourcePreviewHref": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%2F%E5%8F%82%E8%80%83%E8%AF%95%E9%A2%98%2F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B2023%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E7%AD%94%E6%A1%88%E4%B8%8E%E8%A7%A3.pdf",
+      "targetPreviewURL": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B2023%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E7%AD%94%E6%A1%88%E4%B8%8E%E8%A7%A3.pdf",
+      "roleEvidence": "实际首页2023秋A卷含手写解答；身份栏空，不认标准答案",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/复分析/往年题/相关课程参考_复变函数_黄逸洋public/复变函数与数理方程2023期末考试答案与解.pdf"
+    },
+    {
+      "name": "复变函数综合练习题及答案.pdf",
+      "bytes": 482607,
+      "sha256": "ea000201a22d8157d451e62bac72499def6eba49b4d141959858f22c5802cabf",
+      "sourcePreviewHref": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%2F%E5%8F%82%E8%80%83%E8%AF%95%E9%A2%98%2F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E7%BB%BC%E5%90%88%E7%BB%83%E4%B9%A0%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88.pdf",
+      "targetPreviewURL": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E7%BB%BC%E5%90%88%E7%BB%83%E4%B9%A0%E9%A2%98%E5%8F%8A%E7%AD%94%E6%A1%88.pdf",
+      "roleEvidence": "实际首页为综合练习题及答案/第一部分习题；不认正式试卷",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/复分析/往年题/相关课程参考_复变函数_黄逸洋public/复变函数综合练习题及答案.pdf"
+    },
+    {
+      "name": "复变引论_2010autumn-A.pdf",
+      "bytes": 478328,
+      "sha256": "55d157f99488409077e55c732d651172b6267d1b9db1197cbe770aed5d1fdc8c",
+      "sourcePreviewHref": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%2F%E5%8F%82%E8%80%83%E8%AF%95%E9%A2%98%2F%E5%A4%8D%E5%8F%98%E5%BC%95%E8%AE%BA_2010autumn-A.pdf",
+      "targetPreviewURL": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic/%E5%A4%8D%E5%8F%98%E5%BC%95%E8%AE%BA_2010autumn-A.pdf",
+      "roleEvidence": "实际首页考试时间2011-1-5，与来源文件名2010autumn分列；身份/得分栏空",
+      "gitSyncStatus": "sanitized_public_copy_original_not_published",
+      "gitRepoPath": "数学类/复分析/往年题/相关课程参考_复变函数_黄逸洋public/复变引论_2010autumn-A_移除个人元数据的公开副本.pdf",
+      "publicCopy": {
+        "fileName": "复变引论_2010autumn-A_移除个人元数据的公开副本.pdf",
+        "bytes": 448473,
+        "sha256": "2e0b493b737fc8a4103ed7194e775995f9b3d0f1c4d2f4282c1e543aed7c3006",
+        "removedFieldNames": [
+          "annotation /T (批注作者)"
+        ],
+        "removedAttributeCount": 7,
+        "bodyPixelsTextAndContentUnchanged": true,
+        "originalBytes": false
+      }
+    },
+    {
+      "name": "杨晓京复变.jpg",
+      "bytes": 138033,
+      "sha256": "7c3e697006d7024ac10533f35da29330a02b44abb0605ebbfcb38f1ea9115948",
+      "sourcePreviewHref": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%2F%E5%8F%82%E8%80%83%E8%AF%95%E9%A2%98%2F%E6%9D%A8%E6%99%93%E4%BA%AC%E5%A4%8D%E5%8F%98.jpg",
+      "targetPreviewURL": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic/%E6%9D%A8%E6%99%93%E4%BA%AC%E5%A4%8D%E5%8F%98.jpg",
+      "roleEvidence": "实际单图为手写题目，顶部标2017.1.9 A卷；非当前复分析命题证据",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/复分析/往年题/相关课程参考_复变函数_黄逸洋public/杨晓京复变.jpg"
+    }
+  ],
+  "metadataReviewBoundary": "xdvipdfmx Producer括号内数字为软件构建日期，不当作个人身份清除。2010autumn-A原件7个FreeText作者属性为编号式标识，仅公开副本移除annotation /T；不改批注正文或图像。原件及原SHA保留。",
+  "reviewBoundary": "PDF全文静态文字、Info/XMP/批注属性筛查及必要角色样页；图片全幅静态查看。没有进行全部PDF页人工隐私、完整性或数学正确性审校。题名含教师/年份与卷面证据分列，不认证教师标准答案或完整历年覆盖。"
+}
