@@ -1,0 +1,204 @@
+{
+  "date": "2026-10-23",
+  "source": "黄逸洋public / 概率论",
+  "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA&mode=list",
+  "cloudDirectoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+  "role": "初等概率、概率论与随机过程、概统相关课件和讲义，作为概率论与数理统计的相关课程参考，不合并认定同一教师/课程版本。",
+  "sourcePaths": 17,
+  "sourceUniqueSHA256": 17,
+  "files": [
+    {
+      "group": 4,
+      "sourceRelativePath": "Lecture01_handout.pdf",
+      "bytes": 1261938,
+      "sha256": "a0cfea75d1b7810fc3a566ad1678278b186ffce0f9b6ef175b7e07b50392a4a7",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E6%95%99%E6%9D%90%E4%B8%8E%E9%A2%98%E8%A7%A3%2F%E5%88%9D%E7%AD%89%E6%A6%82%E7%8E%87%E8%AE%BA%E8%AF%BE%E4%BB%B6%2FLecture01_handout.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/教材与题解/初等概率论课件/Lecture01_handout.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/讲义/相关课程参考_概率多版本_黄逸洋public/Lecture01_handout.pdf"
+    },
+    {
+      "group": 4,
+      "sourceRelativePath": "Lecture02_handout.pdf",
+      "bytes": 1809102,
+      "sha256": "2610571ec4dd3255a082572296b15cc87516b584eeb331ee347a72776c2f2cff",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E6%95%99%E6%9D%90%E4%B8%8E%E9%A2%98%E8%A7%A3%2F%E5%88%9D%E7%AD%89%E6%A6%82%E7%8E%87%E8%AE%BA%E8%AF%BE%E4%BB%B6%2FLecture02_handout.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/教材与题解/初等概率论课件/Lecture02_handout.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/讲义/相关课程参考_概率多版本_黄逸洋public/Lecture02_handout.pdf"
+    },
+    {
+      "group": 4,
+      "sourceRelativePath": "Lecture03_handout.pdf",
+      "bytes": 1222734,
+      "sha256": "f45b9db3dbd0572eac8627e16ddf321be3c9b7a9aeb7ee60713f809c70570dfc",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E6%95%99%E6%9D%90%E4%B8%8E%E9%A2%98%E8%A7%A3%2F%E5%88%9D%E7%AD%89%E6%A6%82%E7%8E%87%E8%AE%BA%E8%AF%BE%E4%BB%B6%2FLecture03_handout.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/教材与题解/初等概率论课件/Lecture03_handout.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/讲义/相关课程参考_概率多版本_黄逸洋public/Lecture03_handout.pdf"
+    },
+    {
+      "group": 4,
+      "sourceRelativePath": "Lecture04_handout.pdf",
+      "bytes": 3052184,
+      "sha256": "6549b6b39eb2a38730fca4242a1700f3635fc3f7384a782774cef6b1ca5a3f97",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E6%95%99%E6%9D%90%E4%B8%8E%E9%A2%98%E8%A7%A3%2F%E5%88%9D%E7%AD%89%E6%A6%82%E7%8E%87%E8%AE%BA%E8%AF%BE%E4%BB%B6%2FLecture04_handout.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/教材与题解/初等概率论课件/Lecture04_handout.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/讲义/相关课程参考_概率多版本_黄逸洋public/Lecture04_handout.pdf"
+    },
+    {
+      "group": 4,
+      "sourceRelativePath": "Lecture05_handout.pdf",
+      "bytes": 1772995,
+      "sha256": "2bfc6b48af5d42a6e7d7a53a88743bd026c3f7f5969c9dc81bb7c33cf5fda2fc",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E6%95%99%E6%9D%90%E4%B8%8E%E9%A2%98%E8%A7%A3%2F%E5%88%9D%E7%AD%89%E6%A6%82%E7%8E%87%E8%AE%BA%E8%AF%BE%E4%BB%B6%2FLecture05_handout.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/教材与题解/初等概率论课件/Lecture05_handout.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/讲义/相关课程参考_概率多版本_黄逸洋public/Lecture05_handout.pdf"
+    },
+    {
+      "group": 4,
+      "sourceRelativePath": "Lecture06_handout.pdf",
+      "bytes": 2250427,
+      "sha256": "4fec1d7a17b373dc016e397984640bba08013635b3dc6ce079e4aa5a24c0479b",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E6%95%99%E6%9D%90%E4%B8%8E%E9%A2%98%E8%A7%A3%2F%E5%88%9D%E7%AD%89%E6%A6%82%E7%8E%87%E8%AE%BA%E8%AF%BE%E4%BB%B6%2FLecture06_handout.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/教材与题解/初等概率论课件/Lecture06_handout.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/讲义/相关课程参考_概率多版本_黄逸洋public/Lecture06_handout.pdf"
+    },
+    {
+      "group": 4,
+      "sourceRelativePath": "Lecture07_handout.pdf",
+      "bytes": 892307,
+      "sha256": "fb17bdd965e1961da2d3cc26c974f6e620bb127da1bed4b28ab3f4cc9fb691ab",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E6%95%99%E6%9D%90%E4%B8%8E%E9%A2%98%E8%A7%A3%2F%E5%88%9D%E7%AD%89%E6%A6%82%E7%8E%87%E8%AE%BA%E8%AF%BE%E4%BB%B6%2FLecture07_handout.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/教材与题解/初等概率论课件/Lecture07_handout.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/讲义/相关课程参考_概率多版本_黄逸洋public/Lecture07_handout.pdf"
+    },
+    {
+      "group": 4,
+      "sourceRelativePath": "Lecture08_handout.pdf",
+      "bytes": 1477602,
+      "sha256": "e0bc934d8ca8f48a749d4cf0530c46860a9ce8d8fd12641342e494004144ed70",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E6%95%99%E6%9D%90%E4%B8%8E%E9%A2%98%E8%A7%A3%2F%E5%88%9D%E7%AD%89%E6%A6%82%E7%8E%87%E8%AE%BA%E8%AF%BE%E4%BB%B6%2FLecture08_handout.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/教材与题解/初等概率论课件/Lecture08_handout.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/讲义/相关课程参考_概率多版本_黄逸洋public/Lecture08_handout.pdf"
+    },
+    {
+      "group": 4,
+      "sourceRelativePath": "Lecture09_handout.pdf",
+      "bytes": 1373021,
+      "sha256": "e53c5514c885f9adf728c89d69cd62e5fb42a8d990e375266f3a8f314bdd64d2",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E6%95%99%E6%9D%90%E4%B8%8E%E9%A2%98%E8%A7%A3%2F%E5%88%9D%E7%AD%89%E6%A6%82%E7%8E%87%E8%AE%BA%E8%AF%BE%E4%BB%B6%2FLecture09_handout.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/教材与题解/初等概率论课件/Lecture09_handout.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/讲义/相关课程参考_概率多版本_黄逸洋public/Lecture09_handout.pdf"
+    },
+    {
+      "group": 4,
+      "sourceRelativePath": "Lecture10_handout.pdf",
+      "bytes": 1655823,
+      "sha256": "7f37aac20d81ecb3096328faf11d5629fa836bfe10f2523fe4ec0f0331bce0ff",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E6%95%99%E6%9D%90%E4%B8%8E%E9%A2%98%E8%A7%A3%2F%E5%88%9D%E7%AD%89%E6%A6%82%E7%8E%87%E8%AE%BA%E8%AF%BE%E4%BB%B6%2FLecture10_handout.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/教材与题解/初等概率论课件/Lecture10_handout.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/讲义/相关课程参考_概率多版本_黄逸洋public/Lecture10_handout.pdf"
+    },
+    {
+      "group": 4,
+      "sourceRelativePath": "Lecture11_handout.pdf",
+      "bytes": 1180502,
+      "sha256": "a8c1d74c8d0fe7f40853633f5f69e1302c891bdd90947db9744ae73cf1893399",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E6%95%99%E6%9D%90%E4%B8%8E%E9%A2%98%E8%A7%A3%2F%E5%88%9D%E7%AD%89%E6%A6%82%E7%8E%87%E8%AE%BA%E8%AF%BE%E4%BB%B6%2FLecture11_handout.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/教材与题解/初等概率论课件/Lecture11_handout.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/讲义/相关课程参考_概率多版本_黄逸洋public/Lecture11_handout.pdf"
+    },
+    {
+      "group": 4,
+      "sourceRelativePath": "Lecture11板书.pdf",
+      "bytes": 709914,
+      "sha256": "3fe21be50f2d33e092a51d7458f4f04ca4a6cdea20e746c4ceade8682afdf195",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E6%95%99%E6%9D%90%E4%B8%8E%E9%A2%98%E8%A7%A3%2F%E5%88%9D%E7%AD%89%E6%A6%82%E7%8E%87%E8%AE%BA%E8%AF%BE%E4%BB%B6%2FLecture11%E6%9D%BF%E4%B9%A6.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/教材与题解/初等概率论课件/Lecture11板书.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/讲义/相关课程参考_概率多版本_黄逸洋public/Lecture11板书.pdf"
+    },
+    {
+      "group": 4,
+      "sourceRelativePath": "Lecture12_handout.pdf",
+      "bytes": 1056119,
+      "sha256": "73a9aee8b07af3c2c67b2c79cb7cb0bdb566dbc0a4258a365f2337747472d0c9",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E6%95%99%E6%9D%90%E4%B8%8E%E9%A2%98%E8%A7%A3%2F%E5%88%9D%E7%AD%89%E6%A6%82%E7%8E%87%E8%AE%BA%E8%AF%BE%E4%BB%B6%2FLecture12_handout.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/教材与题解/初等概率论课件/Lecture12_handout.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/讲义/相关课程参考_概率多版本_黄逸洋public/Lecture12_handout.pdf"
+    },
+    {
+      "group": 4,
+      "sourceRelativePath": "Lecture13a_CLT_handout.pdf",
+      "bytes": 1495961,
+      "sha256": "54bc350a6e4721d3017b7c00a86210611bb167b4e3d4bb7c51b0f8790303b3f7",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E6%95%99%E6%9D%90%E4%B8%8E%E9%A2%98%E8%A7%A3%2F%E5%88%9D%E7%AD%89%E6%A6%82%E7%8E%87%E8%AE%BA%E8%AF%BE%E4%BB%B6%2FLecture13a_CLT_handout.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/教材与题解/初等概率论课件/Lecture13a_CLT_handout.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/讲义/相关课程参考_概率多版本_黄逸洋public/Lecture13a_CLT_handout.pdf"
+    },
+    {
+      "group": 4,
+      "sourceRelativePath": "Lecture13b_convergency_handout.pdf",
+      "bytes": 743448,
+      "sha256": "d7e782d79a450ee38cb09a2fb8fc199bdf91d238a94da96fc1cd5636db9708fc",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E6%95%99%E6%9D%90%E4%B8%8E%E9%A2%98%E8%A7%A3%2F%E5%88%9D%E7%AD%89%E6%A6%82%E7%8E%87%E8%AE%BA%E8%AF%BE%E4%BB%B6%2FLecture13b_convergency_handout.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/教材与题解/初等概率论课件/Lecture13b_convergency_handout.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/讲义/相关课程参考_概率多版本_黄逸洋public/Lecture13b_convergency_handout.pdf"
+    },
+    {
+      "group": 4,
+      "sourceRelativePath": "Lecture14_MVN_Review_handout.pdf",
+      "bytes": 2219600,
+      "sha256": "ed6b1c1bc2bc6afa65d3e591f8df11a88120c63f7e8b71ae54cae5872f6f2cc3",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E6%95%99%E6%9D%90%E4%B8%8E%E9%A2%98%E8%A7%A3%2F%E5%88%9D%E7%AD%89%E6%A6%82%E7%8E%87%E8%AE%BA%E8%AF%BE%E4%BB%B6%2FLecture14_MVN_Review_handout.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/教材与题解/初等概率论课件/Lecture14_MVN_Review_handout.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/讲义/相关课程参考_概率多版本_黄逸洋public/Lecture14_MVN_Review_handout.pdf"
+    },
+    {
+      "group": 4,
+      "sourceRelativePath": "期中复习.pdf",
+      "bytes": 655972,
+      "sha256": "8458b126eb3308b4c95d37c98954e805e7d265115715da28c4521ae7fd63c0ae",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E6%95%99%E6%9D%90%E4%B8%8E%E9%A2%98%E8%A7%A3%2F%E5%88%9D%E7%AD%89%E6%A6%82%E7%8E%87%E8%AE%BA%E8%AF%BE%E4%BB%B6%2F%E6%9C%9F%E4%B8%AD%E5%A4%8D%E4%B9%A0.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/教材与题解/初等概率论课件/期中复习.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/讲义/相关课程参考_概率多版本_黄逸洋public/期中复习.pdf"
+    }
+  ],
+  "syncCounts": {
+    "published_original_bytes": 17
+  },
+  "verification": "本轮正常UI回取已归档目标13组，完整fileset与13运输ZIP CRC通过，246原路径逐SHA/本地回读一致；26旧说明原字节保持。共享源路径来自此前实际UI清单，不声称本轮再次下载每个共享源原件。",
+  "reviewBoundary": "246路径静态文字与元数据筛查；228PDF共5110文件页，必要角色/命中页查看，非全部页人工隐私或数学正确性认证。6原图完整缩略查看，原有模糊区域不复原；8DOCX仅静态XML/属性/关系、不执行宏或外链。原TXT和TeX作为资料数据，不执行编译。软件构建日期、数学OCR串接数字、教师公开教学邮箱与出版信息区分后保留。",
+  "rawArchivesPublished": false
+}

@@ -1,0 +1,73 @@
+{
+  "date": "2026-10-23",
+  "source": "黄逸洋public / 概率论",
+  "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA&mode=list",
+  "cloudDirectoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%95%99%E6%9D%90/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E6%95%99%E6%9D%90%E4%B8%8E%E9%A2%98%E8%A7%A3_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+  "role": "来源标签下的概率教材及题解PDF。原书正文、书目与版权声明保持，不据目录认定指定教材或本轮完成全书版年/完整性审校。",
+  "sourcePaths": 5,
+  "sourceUniqueSHA256": 4,
+  "files": [
+    {
+      "group": 12,
+      "sourceRelativePath": "概率导论教材.pdf",
+      "bytes": 73067883,
+      "sha256": "e45bc1c48d585cbf758d6d01389bc1482db70ff1e29d03a3b757926e9278331d",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%95%99%E6%9D%90/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E6%95%99%E6%9D%90%E4%B8%8E%E9%A2%98%E8%A7%A3_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E6%95%99%E6%9D%90%E4%B8%8E%E9%A2%98%E8%A7%A3%2F%E6%A6%82%E7%8E%87%E5%AF%BC%E8%AE%BA%E6%95%99%E6%9D%90.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/教材与题解/概率导论教材.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/教材/相关课程参考_概率教材与题解_黄逸洋public/概率导论教材.pdf"
+    },
+    {
+      "group": 12,
+      "sourceRelativePath": "概率导论题解.pdf",
+      "bytes": 1554851,
+      "sha256": "92716c5b796cf3c7af4aef6d357ea963d7fe52a015ccc34b94fdfdbc355486c0",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%95%99%E6%9D%90/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E6%95%99%E6%9D%90%E4%B8%8E%E9%A2%98%E8%A7%A3_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E6%95%99%E6%9D%90%E4%B8%8E%E9%A2%98%E8%A7%A3%2F%E6%A6%82%E7%8E%87%E5%AF%BC%E8%AE%BA%E9%A2%98%E8%A7%A3.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/教材与题解/概率导论题解.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/教材/相关课程参考_概率教材与题解_黄逸洋public/概率导论题解.pdf"
+    },
+    {
+      "group": 12,
+      "sourceRelativePath": "概率论与数理统计教程(第3版) 茆诗松, 程依明, 濮晓龙编著(OCR).pdf",
+      "bytes": 92067056,
+      "sha256": "361d1f304726202f53125111ec423846cd3cdd5441ffa248ba8bc920ca55c269",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%95%99%E6%9D%90/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E6%95%99%E6%9D%90%E4%B8%8E%E9%A2%98%E8%A7%A3_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1_%E9%A9%AC%E9%80%B8%2F%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E6%95%99%E7%A8%8B(%E7%AC%AC3%E7%89%88)%20%E8%8C%86%E8%AF%97%E6%9D%BE%2C%20%E7%A8%8B%E4%BE%9D%E6%98%8E%2C%20%E6%BF%AE%E6%99%93%E9%BE%99%E7%BC%96%E8%91%97(OCR).pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/概率论与数理统计_马逸/概率论与数理统计教程(第3版) 茆诗松, 程依明, 濮晓龙编著(OCR).pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/教材/相关课程参考_概率教材与题解_黄逸洋public/概率论与数理统计教程(第3版) 茆诗松, 程依明, 濮晓龙编著(OCR).pdf"
+    },
+    {
+      "group": 12,
+      "sourceRelativePath": "概率论与数理统计教程（第三版）习题与解答(第3版)茆诗松,程依明,濮晓龙编著(OCR) (1).pdf",
+      "bytes": 93080137,
+      "sha256": "a5f08ef8b5074e8e4041859bc46b911643a11cf9166f156a28c983b27155453f",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%95%99%E6%9D%90/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E6%95%99%E6%9D%90%E4%B8%8E%E9%A2%98%E8%A7%A3_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1_%E9%A9%AC%E9%80%B8%2F%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E6%95%99%E7%A8%8B%EF%BC%88%E7%AC%AC%E4%B8%89%E7%89%88%EF%BC%89%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94(%E7%AC%AC3%E7%89%88)%E8%8C%86%E8%AF%97%E6%9D%BE%2C%E7%A8%8B%E4%BE%9D%E6%98%8E%2C%E6%BF%AE%E6%99%93%E9%BE%99%E7%BC%96%E8%91%97(OCR)%20(1).pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/概率论与数理统计_马逸/概率论与数理统计教程（第三版）习题与解答(第3版)茆诗松,程依明,濮晓龙编著(OCR) (1).pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/教材/相关课程参考_概率教材与题解_黄逸洋public/概率论与数理统计教程（第三版）习题与解答(第3版)茆诗松,程依明,濮晓龙编著(OCR) (1).pdf"
+    },
+    {
+      "group": 12,
+      "sourceRelativePath": "概率论与数理统计教程（第三版）习题与解答(第3版)茆诗松,程依明,濮晓龙编著(OCR).pdf",
+      "bytes": 93080137,
+      "sha256": "a5f08ef8b5074e8e4041859bc46b911643a11cf9166f156a28c983b27155453f",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%95%99%E6%9D%90/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E6%95%99%E6%9D%90%E4%B8%8E%E9%A2%98%E8%A7%A3_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1_%E9%A9%AC%E9%80%B8%2F%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E6%95%99%E7%A8%8B%EF%BC%88%E7%AC%AC%E4%B8%89%E7%89%88%EF%BC%89%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94(%E7%AC%AC3%E7%89%88)%E8%8C%86%E8%AF%97%E6%9D%BE%2C%E7%A8%8B%E4%BE%9D%E6%98%8E%2C%E6%BF%AE%E6%99%93%E9%BE%99%E7%BC%96%E8%91%97(OCR).pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/概率论与数理统计_马逸/概率论与数理统计教程（第三版）习题与解答(第3版)茆诗松,程依明,濮晓龙编著(OCR).pdf",
+      "gitSyncStatus": "reuse_same_SHA_source_alias",
+      "gitRepoPath": "数学类/概率论与数理统计/教材/相关课程参考_概率教材与题解_黄逸洋public/概率论与数理统计教程（第三版）习题与解答(第3版)茆诗松,程依明,濮晓龙编著(OCR) (1).pdf"
+    }
+  ],
+  "syncCounts": {
+    "published_original_bytes": 4,
+    "reuse_same_SHA_source_alias": 1
+  },
+  "verification": "本轮正常UI回取已归档目标13组，完整fileset与13运输ZIP CRC通过，246原路径逐SHA/本地回读一致；26旧说明原字节保持。共享源路径来自此前实际UI清单，不声称本轮再次下载每个共享源原件。",
+  "reviewBoundary": "246路径静态文字与元数据筛查；228PDF共5110文件页，必要角色/命中页查看，非全部页人工隐私或数学正确性认证。6原图完整缩略查看，原有模糊区域不复原；8DOCX仅静态XML/属性/关系、不执行宏或外链。原TXT和TeX作为资料数据，不执行编译。软件构建日期、数学OCR串接数字、教师公开教学邮箱与出版信息区分后保留。",
+  "rawArchivesPublished": false
+}

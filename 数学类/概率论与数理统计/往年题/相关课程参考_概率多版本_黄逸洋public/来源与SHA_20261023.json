@@ -1,0 +1,272 @@
+{
+  "date": "2026-10-23",
+  "source": "黄逸洋public / 概率论",
+  "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA&mode=list",
+  "cloudDirectoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+  "role": "多教师/年份标签的相关课程试题、样题、回忆版及参考解答；按原名保留，不把来源标签或回忆稿认证为本校本课官方试卷或标准答案。",
+  "sourcePaths": 23,
+  "sourceUniqueSHA256": 21,
+  "files": [
+    {
+      "group": 1,
+      "sourceRelativePath": "（搬运）初概-邓婉璐-25FallfinalExam_样题.pdf",
+      "bytes": 359037,
+      "sha256": "9a5e3a1b7b7e22a64c8bf7a6dcfc5a5d84870a69128242da4c356423ed404915",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E5%8F%82%E8%80%83%E8%AF%95%E9%A2%98%2F%EF%BC%88%E6%90%AC%E8%BF%90%EF%BC%89%E5%88%9D%E6%A6%82-%E9%82%93%E5%A9%89%E7%92%90-25FallfinalExam_%E6%A0%B7%E9%A2%98.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/参考试题/（搬运）初概-邓婉璐-25FallfinalExam_样题.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/往年题/相关课程参考_概率多版本_黄逸洋public/（搬运）初概-邓婉璐-25FallfinalExam_样题.pdf"
+    },
+    {
+      "group": 1,
+      "sourceRelativePath": "（搬运）初概-邓婉璐-25秋ProbmidtermExam_Sample.pdf.pdf",
+      "bytes": 146641,
+      "sha256": "6b96bcf48b544eae5e6d1793221c9cec9b1e34f182bd2d0bcad0d7909b5684b2",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E5%8F%82%E8%80%83%E8%AF%95%E9%A2%98%2F%EF%BC%88%E6%90%AC%E8%BF%90%EF%BC%89%E5%88%9D%E6%A6%82-%E9%82%93%E5%A9%89%E7%92%90-25%E7%A7%8BProbmidtermExam_Sample.pdf.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/参考试题/（搬运）初概-邓婉璐-25秋ProbmidtermExam_Sample.pdf.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/往年题/相关课程参考_概率多版本_黄逸洋public/（搬运）初概-邓婉璐-25秋ProbmidtermExam_Sample.pdf.pdf"
+    },
+    {
+      "group": 1,
+      "sourceRelativePath": "概率论与数理方程2022年样题.pdf",
+      "bytes": 502475,
+      "sha256": "21719a254a0acb7793ae30f4dd0f29928130dcfebc1f531a537cda90d553d813",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E5%8F%82%E8%80%83%E8%AF%95%E9%A2%98%2F%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B2022%E5%B9%B4%E6%A0%B7%E9%A2%98.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/参考试题/概率论与数理方程2022年样题.pdf",
+      "gitSyncStatus": "reuse_existing_exact_SHA",
+      "gitRepoPath": "数学类/概率论与数理统计/往年题/概统_mathsdream来源_20261023/2022秋-概统（王小群）-期末.pdf"
+    },
+    {
+      "group": 1,
+      "sourceRelativePath": "概率论与数理方程王小群2022年样题.pdf",
+      "bytes": 502475,
+      "sha256": "21719a254a0acb7793ae30f4dd0f29928130dcfebc1f531a537cda90d553d813",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E5%8F%82%E8%80%83%E8%AF%95%E9%A2%98%2F%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B%E7%8E%8B%E5%B0%8F%E7%BE%A42022%E5%B9%B4%E6%A0%B7%E9%A2%98.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/参考试题/概率论与数理方程王小群2022年样题.pdf",
+      "gitSyncStatus": "reuse_existing_exact_SHA",
+      "gitRepoPath": "数学类/概率论与数理统计/往年题/概统_mathsdream来源_20261023/2022秋-概统（王小群）-期末.pdf"
+    },
+    {
+      "group": 1,
+      "sourceRelativePath": "初等概率论往年题/2020-2021 Fall midterm Exam_Probability Theory.pdf",
+      "bytes": 288944,
+      "sha256": "4354b72acbb1e3476f7d336b901b99d68b69952944ca5b30f7b0d20979c651a7",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E5%8F%82%E8%80%83%E8%AF%95%E9%A2%98%2F%E5%88%9D%E7%AD%89%E6%A6%82%E7%8E%87%E8%AE%BA%E5%BE%80%E5%B9%B4%E9%A2%98%2F2020-2021%20Fall%20midterm%20Exam_Probability%20Theory.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/参考试题/初等概率论往年题/2020-2021 Fall midterm Exam_Probability Theory.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/往年题/相关课程参考_概率多版本_黄逸洋public/初等概率论往年题/2020-2021 Fall midterm Exam_Probability Theory.pdf"
+    },
+    {
+      "group": 1,
+      "sourceRelativePath": "初等概率论往年题/2020年初等概率论期中参考解答.pdf",
+      "bytes": 1007972,
+      "sha256": "5087d05028aa6a0c9dd0f7347e537a9138d874ccd55fc9c06fbd14d89e0585c3",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E5%8F%82%E8%80%83%E8%AF%95%E9%A2%98%2F%E5%88%9D%E7%AD%89%E6%A6%82%E7%8E%87%E8%AE%BA%E5%BE%80%E5%B9%B4%E9%A2%98%2F2020%E5%B9%B4%E5%88%9D%E7%AD%89%E6%A6%82%E7%8E%87%E8%AE%BA%E6%9C%9F%E4%B8%AD%E5%8F%82%E8%80%83%E8%A7%A3%E7%AD%94.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/参考试题/初等概率论往年题/2020年初等概率论期中参考解答.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/往年题/相关课程参考_概率多版本_黄逸洋public/初等概率论往年题/2020年初等概率论期中参考解答.pdf"
+    },
+    {
+      "group": 1,
+      "sourceRelativePath": "初等概率论往年题/2020年期中考试回忆.pdf",
+      "bytes": 1579317,
+      "sha256": "9d2495dce96fe8f75a480fe97433bd1eb8fbf30bc4050109061b01072aaa232c",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E5%8F%82%E8%80%83%E8%AF%95%E9%A2%98%2F%E5%88%9D%E7%AD%89%E6%A6%82%E7%8E%87%E8%AE%BA%E5%BE%80%E5%B9%B4%E9%A2%98%2F2020%E5%B9%B4%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E5%9B%9E%E5%BF%86.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/参考试题/初等概率论往年题/2020年期中考试回忆.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/往年题/相关课程参考_概率多版本_黄逸洋public/初等概率论往年题/2020年期中考试回忆.pdf"
+    },
+    {
+      "group": 1,
+      "sourceRelativePath": "初等概率论往年题/初等概率论-邓婉璐-2022秋期末-汪远.pdf",
+      "bytes": 278846,
+      "sha256": "d4a7fc7ab7034d53e5c2c5c84482a8d97fb8b97d53ca999de6d450bc9468d32a",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E5%8F%82%E8%80%83%E8%AF%95%E9%A2%98%2F%E5%88%9D%E7%AD%89%E6%A6%82%E7%8E%87%E8%AE%BA%E5%BE%80%E5%B9%B4%E9%A2%98%2F%E5%88%9D%E7%AD%89%E6%A6%82%E7%8E%87%E8%AE%BA-%E9%82%93%E5%A9%89%E7%92%90-2022%E7%A7%8B%E6%9C%9F%E6%9C%AB-%E6%B1%AA%E8%BF%9C.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/参考试题/初等概率论往年题/初等概率论-邓婉璐-2022秋期末-汪远.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/往年题/相关课程参考_概率多版本_黄逸洋public/初等概率论往年题/初等概率论-邓婉璐-2022秋期末-汪远.pdf"
+    },
+    {
+      "group": 1,
+      "sourceRelativePath": "初等概率论往年题/初等概率论-邓琬璐-2022-2023 Fall final exam.pdf",
+      "bytes": 485491,
+      "sha256": "0b27f822d92d63fb5fc80282d8e4fd1897e6186719d3dc9e10499452a609eb3b",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E5%8F%82%E8%80%83%E8%AF%95%E9%A2%98%2F%E5%88%9D%E7%AD%89%E6%A6%82%E7%8E%87%E8%AE%BA%E5%BE%80%E5%B9%B4%E9%A2%98%2F%E5%88%9D%E7%AD%89%E6%A6%82%E7%8E%87%E8%AE%BA-%E9%82%93%E7%90%AC%E7%92%90-2022-2023%20Fall%20final%20exam.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/参考试题/初等概率论往年题/初等概率论-邓琬璐-2022-2023 Fall final exam.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/往年题/相关课程参考_概率多版本_黄逸洋public/初等概率论往年题/初等概率论-邓琬璐-2022-2023 Fall final exam.pdf"
+    },
+    {
+      "group": 1,
+      "sourceRelativePath": "概率论往年题/概率论-侯琳-2021期中.pdf",
+      "bytes": 128512,
+      "sha256": "f2f2c266a6c416f28784ee8aa473cb9c7b8d205ec9ff5e0702453e90092ad5a4",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E5%8F%82%E8%80%83%E8%AF%95%E9%A2%98%2F%E6%A6%82%E7%8E%87%E8%AE%BA%E5%BE%80%E5%B9%B4%E9%A2%98%2F%E6%A6%82%E7%8E%87%E8%AE%BA-%E4%BE%AF%E7%90%B3-2021%E6%9C%9F%E4%B8%AD.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/参考试题/概率论往年题/概率论-侯琳-2021期中.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/往年题/相关课程参考_概率多版本_黄逸洋public/概率论往年题/概率论-侯琳-2021期中.pdf"
+    },
+    {
+      "group": 1,
+      "sourceRelativePath": "概率论往年题/概率论-侯琳-2022期末.pdf",
+      "bytes": 637397,
+      "sha256": "d5efbbfbdc6be633908ce42d8a7953ae31b373060bb338b5706feafcad1c824f",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E5%8F%82%E8%80%83%E8%AF%95%E9%A2%98%2F%E6%A6%82%E7%8E%87%E8%AE%BA%E5%BE%80%E5%B9%B4%E9%A2%98%2F%E6%A6%82%E7%8E%87%E8%AE%BA-%E4%BE%AF%E7%90%B3-2022%E6%9C%9F%E6%9C%AB.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/参考试题/概率论往年题/概率论-侯琳-2022期末.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/往年题/相关课程参考_概率多版本_黄逸洋public/概率论往年题/概率论-侯琳-2022期末.pdf"
+    },
+    {
+      "group": 1,
+      "sourceRelativePath": "概率论往年题/概率论-侯琳-2023期中样题.pdf",
+      "bytes": 89915,
+      "sha256": "1272f021a160290172e685a89e39677d94d45f96e0cbbf2eaae2dc8ae20958f9",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E5%8F%82%E8%80%83%E8%AF%95%E9%A2%98%2F%E6%A6%82%E7%8E%87%E8%AE%BA%E5%BE%80%E5%B9%B4%E9%A2%98%2F%E6%A6%82%E7%8E%87%E8%AE%BA-%E4%BE%AF%E7%90%B3-2023%E6%9C%9F%E4%B8%AD%E6%A0%B7%E9%A2%98.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/参考试题/概率论往年题/概率论-侯琳-2023期中样题.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/往年题/相关课程参考_概率多版本_黄逸洋public/概率论往年题/概率论-侯琳-2023期中样题.pdf"
+    },
+    {
+      "group": 1,
+      "sourceRelativePath": "概率论往年题/概率论-侯琳-2023秋期末样题.pdf",
+      "bytes": 75464,
+      "sha256": "d1fdd2b04969439cec2718a91315baa6ca79449edb350cafcb7422b1eb3d3f6e",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E5%8F%82%E8%80%83%E8%AF%95%E9%A2%98%2F%E6%A6%82%E7%8E%87%E8%AE%BA%E5%BE%80%E5%B9%B4%E9%A2%98%2F%E6%A6%82%E7%8E%87%E8%AE%BA-%E4%BE%AF%E7%90%B3-2023%E7%A7%8B%E6%9C%9F%E6%9C%AB%E6%A0%B7%E9%A2%98.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/参考试题/概率论往年题/概率论-侯琳-2023秋期末样题.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/往年题/相关课程参考_概率多版本_黄逸洋public/概率论往年题/概率论-侯琳-2023秋期末样题.pdf"
+    },
+    {
+      "group": 1,
+      "sourceRelativePath": "概率论往年题/概率论-侯琳-2023秋期末样题答案.pdf",
+      "bytes": 112628,
+      "sha256": "252de9756e4d3522caacbf5acbd9ee471b7c4e3692b81b6eb42249f5a23c3f71",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E5%8F%82%E8%80%83%E8%AF%95%E9%A2%98%2F%E6%A6%82%E7%8E%87%E8%AE%BA%E5%BE%80%E5%B9%B4%E9%A2%98%2F%E6%A6%82%E7%8E%87%E8%AE%BA-%E4%BE%AF%E7%90%B3-2023%E7%A7%8B%E6%9C%9F%E6%9C%AB%E6%A0%B7%E9%A2%98%E7%AD%94%E6%A1%88.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/参考试题/概率论往年题/概率论-侯琳-2023秋期末样题答案.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/往年题/相关课程参考_概率多版本_黄逸洋public/概率论往年题/概率论-侯琳-2023秋期末样题答案.pdf"
+    },
+    {
+      "group": 1,
+      "sourceRelativePath": "概率论往年题/概率论-侯琳-2023秋期中样题答案.pdf",
+      "bytes": 113605,
+      "sha256": "8de6dfebc91a94250d9123766b38a1f3b419034115fd0bfb7e689e1d9e4664b5",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E5%8F%82%E8%80%83%E8%AF%95%E9%A2%98%2F%E6%A6%82%E7%8E%87%E8%AE%BA%E5%BE%80%E5%B9%B4%E9%A2%98%2F%E6%A6%82%E7%8E%87%E8%AE%BA-%E4%BE%AF%E7%90%B3-2023%E7%A7%8B%E6%9C%9F%E4%B8%AD%E6%A0%B7%E9%A2%98%E7%AD%94%E6%A1%88.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/参考试题/概率论往年题/概率论-侯琳-2023秋期中样题答案.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/往年题/相关课程参考_概率多版本_黄逸洋public/概率论往年题/概率论-侯琳-2023秋期中样题答案.pdf"
+    },
+    {
+      "group": 1,
+      "sourceRelativePath": "概随往年题/概率论与随机过程-唐宏岩-2022期末.pdf",
+      "bytes": 204943,
+      "sha256": "399b717e32596585d35f58b33386cf2d30b6dde225ab3f612612ed737dcad8bc",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E5%8F%82%E8%80%83%E8%AF%95%E9%A2%98%2F%E6%A6%82%E9%9A%8F%E5%BE%80%E5%B9%B4%E9%A2%98%2F%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B-%E5%94%90%E5%AE%8F%E5%B2%A9-2022%E6%9C%9F%E6%9C%AB.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/参考试题/概随往年题/概率论与随机过程-唐宏岩-2022期末.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/往年题/相关课程参考_概率多版本_黄逸洋public/概随往年题/概率论与随机过程-唐宏岩-2022期末.pdf"
+    },
+    {
+      "group": 1,
+      "sourceRelativePath": "概随往年题/概率论与随机过程-唐宏岩-2023期中自测.pdf",
+      "bytes": 223963,
+      "sha256": "08c8d6c71b764eb1016a45b020a6f7e408c9724871b4c32244af50c9542bb296",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E5%8F%82%E8%80%83%E8%AF%95%E9%A2%98%2F%E6%A6%82%E9%9A%8F%E5%BE%80%E5%B9%B4%E9%A2%98%2F%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B-%E5%94%90%E5%AE%8F%E5%B2%A9-2023%E6%9C%9F%E4%B8%AD%E8%87%AA%E6%B5%8B.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/参考试题/概随往年题/概率论与随机过程-唐宏岩-2023期中自测.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/往年题/相关课程参考_概率多版本_黄逸洋public/概随往年题/概率论与随机过程-唐宏岩-2023期中自测.pdf"
+    },
+    {
+      "group": 1,
+      "sourceRelativePath": "概统往年题/概率论与数理统计-唐宏岩-2009期末.pdf",
+      "bytes": 311032,
+      "sha256": "dd5352677295c13ed181fa7fddcff25e756a2deb024680c5e258012b91884ef7",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E5%8F%82%E8%80%83%E8%AF%95%E9%A2%98%2F%E6%A6%82%E7%BB%9F%E5%BE%80%E5%B9%B4%E9%A2%98%2F%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1-%E5%94%90%E5%AE%8F%E5%B2%A9-2009%E6%9C%9F%E6%9C%AB.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/参考试题/概统往年题/概率论与数理统计-唐宏岩-2009期末.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/往年题/相关课程参考_概率多版本_黄逸洋public/概统往年题/概率论与数理统计-唐宏岩-2009期末.pdf"
+    },
+    {
+      "group": 1,
+      "sourceRelativePath": "概统往年题/概率论与数理统计-唐宏岩-2012期末.pdf",
+      "bytes": 71909,
+      "sha256": "c33221c10f54be3dfd5916e5049cea2953926c4be87d0f696d1de417a63be44f",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E5%8F%82%E8%80%83%E8%AF%95%E9%A2%98%2F%E6%A6%82%E7%BB%9F%E5%BE%80%E5%B9%B4%E9%A2%98%2F%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1-%E5%94%90%E5%AE%8F%E5%B2%A9-2012%E6%9C%9F%E6%9C%AB.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/参考试题/概统往年题/概率论与数理统计-唐宏岩-2012期末.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/往年题/相关课程参考_概率多版本_黄逸洋public/概统往年题/概率论与数理统计-唐宏岩-2012期末.pdf"
+    },
+    {
+      "group": 1,
+      "sourceRelativePath": "概统往年题/概率论与数理统计-唐宏岩-2022期末.pdf",
+      "bytes": 322614,
+      "sha256": "924c331760c6efae0db3b6c9c8344b4005b226a6b959c54e57e64a68d501e35b",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E5%8F%82%E8%80%83%E8%AF%95%E9%A2%98%2F%E6%A6%82%E7%BB%9F%E5%BE%80%E5%B9%B4%E9%A2%98%2F%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1-%E5%94%90%E5%AE%8F%E5%B2%A9-2022%E6%9C%9F%E6%9C%AB.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/参考试题/概统往年题/概率论与数理统计-唐宏岩-2022期末.pdf",
+      "gitSyncStatus": "reuse_existing_exact_SHA",
+      "gitRepoPath": "数学类/概率论与数理统计/往年题/概统_mathsdream来源_20261023/2022秋-概统（唐宏岩）-期末.pdf"
+    },
+    {
+      "group": 1,
+      "sourceRelativePath": "概统往年题/概率论整合版.pdf",
+      "bytes": 9464550,
+      "sha256": "848319351e8acd736dafedeb6c5af49ba9cf0273e5dac5eee144b47dcdf0b46d",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E5%8F%82%E8%80%83%E8%AF%95%E9%A2%98%2F%E6%A6%82%E7%BB%9F%E5%BE%80%E5%B9%B4%E9%A2%98%2F%E6%A6%82%E7%8E%87%E8%AE%BA%E6%95%B4%E5%90%88%E7%89%88.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/参考试题/概统往年题/概率论整合版.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/往年题/相关课程参考_概率多版本_黄逸洋public/概统往年题/概率论整合版.pdf"
+    },
+    {
+      "group": 1,
+      "sourceRelativePath": "概统往年题/概率统计2012期末.pdf",
+      "bytes": 56564,
+      "sha256": "30d8aeb5af20439eafd7243a35732f2d724ee757a9068b5552d83e7877c5e36a",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E5%8F%82%E8%80%83%E8%AF%95%E9%A2%98%2F%E6%A6%82%E7%BB%9F%E5%BE%80%E5%B9%B4%E9%A2%98%2F%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A12012%E6%9C%9F%E6%9C%AB.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/参考试题/概统往年题/概率统计2012期末.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/往年题/相关课程参考_概率多版本_黄逸洋public/概统往年题/概率统计2012期末.pdf"
+    },
+    {
+      "group": 1,
+      "sourceRelativePath": "概统往年题/概率统计2012期末参考解答.pdf",
+      "bytes": 71909,
+      "sha256": "c33221c10f54be3dfd5916e5049cea2953926c4be87d0f696d1de417a63be44f",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E5%8F%82%E8%80%83%E8%AF%95%E9%A2%98%2F%E6%A6%82%E7%BB%9F%E5%BE%80%E5%B9%B4%E9%A2%98%2F%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A12012%E6%9C%9F%E6%9C%AB%E5%8F%82%E8%80%83%E8%A7%A3%E7%AD%94.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/参考试题/概统往年题/概率统计2012期末参考解答.pdf",
+      "gitSyncStatus": "reuse_same_SHA_source_alias",
+      "gitRepoPath": "数学类/概率论与数理统计/往年题/相关课程参考_概率多版本_黄逸洋public/概统往年题/概率论与数理统计-唐宏岩-2012期末.pdf"
+    }
+  ],
+  "syncCounts": {
+    "published_original_bytes": 19,
+    "reuse_existing_exact_SHA": 3,
+    "reuse_same_SHA_source_alias": 1
+  },
+  "verification": "本轮正常UI回取已归档目标13组，完整fileset与13运输ZIP CRC通过，246原路径逐SHA/本地回读一致；26旧说明原字节保持。共享源路径来自此前实际UI清单，不声称本轮再次下载每个共享源原件。",
+  "reviewBoundary": "246路径静态文字与元数据筛查；228PDF共5110文件页，必要角色/命中页查看，非全部页人工隐私或数学正确性认证。6原图完整缩略查看，原有模糊区域不复原；8DOCX仅静态XML/属性/关系、不执行宏或外链。原TXT和TeX作为资料数据，不执行编译。软件构建日期、数学OCR串接数字、教师公开教学邮箱与出版信息区分后保留。",
+  "rawArchivesPublished": false
+}

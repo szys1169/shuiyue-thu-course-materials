@@ -1,0 +1,204 @@
+{
+  "date": "2026-10-23",
+  "source": "黄逸洋public / 概率论",
+  "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA&mode=list",
+  "cloudDirectoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E4%B9%A0%E9%A2%98%E8%AF%BE/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+  "role": "章节自测、习题课题面与参考解答，保留原来源层级及同名异字节，不承诺全部题目配套、完整学期或数学正确。",
+  "sourcePaths": 17,
+  "sourceUniqueSHA256": 17,
+  "files": [
+    {
+      "group": 3,
+      "sourceRelativePath": "概统习题课/第二次习题课解答.pdf",
+      "bytes": 369272,
+      "sha256": "7eba48a27f8547fc7f34f1f313df594a376fe617e4af72b63d5de9ddf4fb295a",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E4%B9%A0%E9%A2%98%E8%AF%BE/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E4%B9%A0%E9%A2%98%E4%B8%8E%E7%AD%94%E6%A1%88%2F%E6%A6%82%E7%BB%9F%E4%B9%A0%E9%A2%98%E8%AF%BE%2F%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%A7%A3%E7%AD%94.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/习题与答案/概统习题课/第二次习题课解答.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/习题课/相关课程参考_概率多版本_黄逸洋public/概统习题课/第二次习题课解答.pdf"
+    },
+    {
+      "group": 3,
+      "sourceRelativePath": "概统习题课/第二次习题课题目.pdf",
+      "bytes": 172005,
+      "sha256": "44fb550017e9f182c5a5314111b898daa3b76aeec331ae614f8834c4abb6e880",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E4%B9%A0%E9%A2%98%E8%AF%BE/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E4%B9%A0%E9%A2%98%E4%B8%8E%E7%AD%94%E6%A1%88%2F%E6%A6%82%E7%BB%9F%E4%B9%A0%E9%A2%98%E8%AF%BE%2F%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%B9%A0%E9%A2%98%E8%AF%BE%E9%A2%98%E7%9B%AE.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/习题与答案/概统习题课/第二次习题课题目.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/习题课/相关课程参考_概率多版本_黄逸洋public/概统习题课/第二次习题课题目.pdf"
+    },
+    {
+      "group": 3,
+      "sourceRelativePath": "概统习题课/第三次习题课解答.pdf",
+      "bytes": 437817,
+      "sha256": "7c5b1a086c93cbd1b665661dc1c8f61c12b2012d06d048075c0c9748bc58af71",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E4%B9%A0%E9%A2%98%E8%AF%BE/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E4%B9%A0%E9%A2%98%E4%B8%8E%E7%AD%94%E6%A1%88%2F%E6%A6%82%E7%BB%9F%E4%B9%A0%E9%A2%98%E8%AF%BE%2F%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%A7%A3%E7%AD%94.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/习题与答案/概统习题课/第三次习题课解答.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/习题课/相关课程参考_概率多版本_黄逸洋public/概统习题课/第三次习题课解答.pdf"
+    },
+    {
+      "group": 3,
+      "sourceRelativePath": "概统习题课/第三次习题课题目.pdf",
+      "bytes": 187292,
+      "sha256": "b40a8d46fd841efc0035788e6b24065817d728d6f75087844cdb11c5bfbe0092",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E4%B9%A0%E9%A2%98%E8%AF%BE/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E4%B9%A0%E9%A2%98%E4%B8%8E%E7%AD%94%E6%A1%88%2F%E6%A6%82%E7%BB%9F%E4%B9%A0%E9%A2%98%E8%AF%BE%2F%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%B9%A0%E9%A2%98%E8%AF%BE%E9%A2%98%E7%9B%AE.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/习题与答案/概统习题课/第三次习题课题目.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/习题课/相关课程参考_概率多版本_黄逸洋public/概统习题课/第三次习题课题目.pdf"
+    },
+    {
+      "group": 3,
+      "sourceRelativePath": "概统习题课/第一次习题课解答.pdf",
+      "bytes": 410014,
+      "sha256": "a2c4b6f8a9fd26bcc9df9715675f6240e25f0e9f2c2497df5e2757f0285cdb6b",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E4%B9%A0%E9%A2%98%E8%AF%BE/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E4%B9%A0%E9%A2%98%E4%B8%8E%E7%AD%94%E6%A1%88%2F%E6%A6%82%E7%BB%9F%E4%B9%A0%E9%A2%98%E8%AF%BE%2F%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%A7%A3%E7%AD%94.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/习题与答案/概统习题课/第一次习题课解答.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/习题课/相关课程参考_概率多版本_黄逸洋public/概统习题课/第一次习题课解答.pdf"
+    },
+    {
+      "group": 3,
+      "sourceRelativePath": "概统习题课/第一次习题课题目.pdf",
+      "bytes": 191909,
+      "sha256": "8571866c8b9019cebf887a86ae46c46219cfd40fdec6a0a128c96056c3b49eeb",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E4%B9%A0%E9%A2%98%E8%AF%BE/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E4%B9%A0%E9%A2%98%E4%B8%8E%E7%AD%94%E6%A1%88%2F%E6%A6%82%E7%BB%9F%E4%B9%A0%E9%A2%98%E8%AF%BE%2F%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B9%A0%E9%A2%98%E8%AF%BE%E9%A2%98%E7%9B%AE.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/习题与答案/概统习题课/第一次习题课题目.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/习题课/相关课程参考_概率多版本_黄逸洋public/概统习题课/第一次习题课题目.pdf"
+    },
+    {
+      "group": 3,
+      "sourceRelativePath": "梁恒/概率论 梁恒 2022春 第八周笔记 胡宇澄.pdf",
+      "bytes": 406707,
+      "sha256": "4f5a1627d44b22e299d2398f38bf271e667618bec21eeeb804b58233c3e1b420",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E4%B9%A0%E9%A2%98%E8%AF%BE/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E4%B9%A0%E9%A2%98%E4%B8%8E%E7%AD%94%E6%A1%88%2F%E6%A2%81%E6%81%92%2F%E6%A6%82%E7%8E%87%E8%AE%BA%20%E6%A2%81%E6%81%92%202022%E6%98%A5%20%E7%AC%AC%E5%85%AB%E5%91%A8%E7%AC%94%E8%AE%B0%20%E8%83%A1%E5%AE%87%E6%BE%84.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/习题与答案/梁恒/概率论 梁恒 2022春 第八周笔记 胡宇澄.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/习题课/相关课程参考_概率多版本_黄逸洋public/梁恒/概率论 梁恒 2022春 第八周笔记 胡宇澄.pdf"
+    },
+    {
+      "group": 3,
+      "sourceRelativePath": "梁恒/概率论 梁恒 2022春 第二周笔记 胡宇澄.pdf",
+      "bytes": 481115,
+      "sha256": "a8849fb1a8fb1f255709ab9ab1f4e89beeb35afc6ba246c222b04c896c8b8235",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E4%B9%A0%E9%A2%98%E8%AF%BE/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E4%B9%A0%E9%A2%98%E4%B8%8E%E7%AD%94%E6%A1%88%2F%E6%A2%81%E6%81%92%2F%E6%A6%82%E7%8E%87%E8%AE%BA%20%E6%A2%81%E6%81%92%202022%E6%98%A5%20%E7%AC%AC%E4%BA%8C%E5%91%A8%E7%AC%94%E8%AE%B0%20%E8%83%A1%E5%AE%87%E6%BE%84.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/习题与答案/梁恒/概率论 梁恒 2022春 第二周笔记 胡宇澄.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/习题课/相关课程参考_概率多版本_黄逸洋public/梁恒/概率论 梁恒 2022春 第二周笔记 胡宇澄.pdf"
+    },
+    {
+      "group": 3,
+      "sourceRelativePath": "梁恒/概率论 梁恒 2022春 第九周笔记 胡宇澄.pdf",
+      "bytes": 531524,
+      "sha256": "65a23c58b54d0d7d229b13c6fa15eee754f227acd47bd8379a6b37016cdbf0c4",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E4%B9%A0%E9%A2%98%E8%AF%BE/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E4%B9%A0%E9%A2%98%E4%B8%8E%E7%AD%94%E6%A1%88%2F%E6%A2%81%E6%81%92%2F%E6%A6%82%E7%8E%87%E8%AE%BA%20%E6%A2%81%E6%81%92%202022%E6%98%A5%20%E7%AC%AC%E4%B9%9D%E5%91%A8%E7%AC%94%E8%AE%B0%20%E8%83%A1%E5%AE%87%E6%BE%84.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/习题与答案/梁恒/概率论 梁恒 2022春 第九周笔记 胡宇澄.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/习题课/相关课程参考_概率多版本_黄逸洋public/梁恒/概率论 梁恒 2022春 第九周笔记 胡宇澄.pdf"
+    },
+    {
+      "group": 3,
+      "sourceRelativePath": "梁恒/概率论 梁恒 2022春 第六周笔记 胡宇澄.pdf",
+      "bytes": 703944,
+      "sha256": "79542f141e289c488e23fd438746d5fa782aab72f5f9adc016334f8db2dbe5a0",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E4%B9%A0%E9%A2%98%E8%AF%BE/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E4%B9%A0%E9%A2%98%E4%B8%8E%E7%AD%94%E6%A1%88%2F%E6%A2%81%E6%81%92%2F%E6%A6%82%E7%8E%87%E8%AE%BA%20%E6%A2%81%E6%81%92%202022%E6%98%A5%20%E7%AC%AC%E5%85%AD%E5%91%A8%E7%AC%94%E8%AE%B0%20%E8%83%A1%E5%AE%87%E6%BE%84.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/习题与答案/梁恒/概率论 梁恒 2022春 第六周笔记 胡宇澄.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/习题课/相关课程参考_概率多版本_黄逸洋public/梁恒/概率论 梁恒 2022春 第六周笔记 胡宇澄.pdf"
+    },
+    {
+      "group": 3,
+      "sourceRelativePath": "梁恒/概率论 梁恒 2022春 第七周笔记 胡宇澄.pdf",
+      "bytes": 644108,
+      "sha256": "2c9a6206ad716541c2648499048798f562ad0ff1d9224ffd580946e225a54ea0",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E4%B9%A0%E9%A2%98%E8%AF%BE/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E4%B9%A0%E9%A2%98%E4%B8%8E%E7%AD%94%E6%A1%88%2F%E6%A2%81%E6%81%92%2F%E6%A6%82%E7%8E%87%E8%AE%BA%20%E6%A2%81%E6%81%92%202022%E6%98%A5%20%E7%AC%AC%E4%B8%83%E5%91%A8%E7%AC%94%E8%AE%B0%20%E8%83%A1%E5%AE%87%E6%BE%84.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/习题与答案/梁恒/概率论 梁恒 2022春 第七周笔记 胡宇澄.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/习题课/相关课程参考_概率多版本_黄逸洋public/梁恒/概率论 梁恒 2022春 第七周笔记 胡宇澄.pdf"
+    },
+    {
+      "group": 3,
+      "sourceRelativePath": "梁恒/概率论 梁恒 2022春 第三周笔记 胡宇澄.pdf",
+      "bytes": 691279,
+      "sha256": "11b7b59dca37ef45750673dc63a01cd1f12080ae6727727c6e398a8fe178c2bb",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E4%B9%A0%E9%A2%98%E8%AF%BE/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E4%B9%A0%E9%A2%98%E4%B8%8E%E7%AD%94%E6%A1%88%2F%E6%A2%81%E6%81%92%2F%E6%A6%82%E7%8E%87%E8%AE%BA%20%E6%A2%81%E6%81%92%202022%E6%98%A5%20%E7%AC%AC%E4%B8%89%E5%91%A8%E7%AC%94%E8%AE%B0%20%E8%83%A1%E5%AE%87%E6%BE%84.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/习题与答案/梁恒/概率论 梁恒 2022春 第三周笔记 胡宇澄.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/习题课/相关课程参考_概率多版本_黄逸洋public/梁恒/概率论 梁恒 2022春 第三周笔记 胡宇澄.pdf"
+    },
+    {
+      "group": 3,
+      "sourceRelativePath": "梁恒/概率论 梁恒 2022春 第十二周笔记 胡宇澄.pdf",
+      "bytes": 768650,
+      "sha256": "4553f138c3a4909d5395f63fe54fe065b3160f5ce3a3f1a6ca4f3b9477e2a633",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E4%B9%A0%E9%A2%98%E8%AF%BE/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E4%B9%A0%E9%A2%98%E4%B8%8E%E7%AD%94%E6%A1%88%2F%E6%A2%81%E6%81%92%2F%E6%A6%82%E7%8E%87%E8%AE%BA%20%E6%A2%81%E6%81%92%202022%E6%98%A5%20%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%91%A8%E7%AC%94%E8%AE%B0%20%E8%83%A1%E5%AE%87%E6%BE%84.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/习题与答案/梁恒/概率论 梁恒 2022春 第十二周笔记 胡宇澄.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/习题课/相关课程参考_概率多版本_黄逸洋public/梁恒/概率论 梁恒 2022春 第十二周笔记 胡宇澄.pdf"
+    },
+    {
+      "group": 3,
+      "sourceRelativePath": "梁恒/概率论 梁恒 2022春 第十一周笔记 胡宇澄.pdf",
+      "bytes": 511104,
+      "sha256": "4f98e2a9e3fa1f50d0896c43613eab197839f5a7c482b1a5cd6773ed43bdfc35",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E4%B9%A0%E9%A2%98%E8%AF%BE/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E4%B9%A0%E9%A2%98%E4%B8%8E%E7%AD%94%E6%A1%88%2F%E6%A2%81%E6%81%92%2F%E6%A6%82%E7%8E%87%E8%AE%BA%20%E6%A2%81%E6%81%92%202022%E6%98%A5%20%E7%AC%AC%E5%8D%81%E4%B8%80%E5%91%A8%E7%AC%94%E8%AE%B0%20%E8%83%A1%E5%AE%87%E6%BE%84.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/习题与答案/梁恒/概率论 梁恒 2022春 第十一周笔记 胡宇澄.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/习题课/相关课程参考_概率多版本_黄逸洋public/梁恒/概率论 梁恒 2022春 第十一周笔记 胡宇澄.pdf"
+    },
+    {
+      "group": 3,
+      "sourceRelativePath": "梁恒/概率论 梁恒 2022春 第十周笔记 胡宇澄.pdf",
+      "bytes": 386143,
+      "sha256": "9067cda0cdc473de9afcfad57d47ee63b4028b35f1b0c19565326cb4543e6556",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E4%B9%A0%E9%A2%98%E8%AF%BE/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E4%B9%A0%E9%A2%98%E4%B8%8E%E7%AD%94%E6%A1%88%2F%E6%A2%81%E6%81%92%2F%E6%A6%82%E7%8E%87%E8%AE%BA%20%E6%A2%81%E6%81%92%202022%E6%98%A5%20%E7%AC%AC%E5%8D%81%E5%91%A8%E7%AC%94%E8%AE%B0%20%E8%83%A1%E5%AE%87%E6%BE%84.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/习题与答案/梁恒/概率论 梁恒 2022春 第十周笔记 胡宇澄.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/习题课/相关课程参考_概率多版本_黄逸洋public/梁恒/概率论 梁恒 2022春 第十周笔记 胡宇澄.pdf"
+    },
+    {
+      "group": 3,
+      "sourceRelativePath": "梁恒/概率论 梁恒 2022春 第四周笔记 胡宇澄.pdf",
+      "bytes": 433141,
+      "sha256": "284182a9c1be73866eed44102d839acf92af3f90074a3a8a45d7533c248ee773",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E4%B9%A0%E9%A2%98%E8%AF%BE/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E4%B9%A0%E9%A2%98%E4%B8%8E%E7%AD%94%E6%A1%88%2F%E6%A2%81%E6%81%92%2F%E6%A6%82%E7%8E%87%E8%AE%BA%20%E6%A2%81%E6%81%92%202022%E6%98%A5%20%E7%AC%AC%E5%9B%9B%E5%91%A8%E7%AC%94%E8%AE%B0%20%E8%83%A1%E5%AE%87%E6%BE%84.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/习题与答案/梁恒/概率论 梁恒 2022春 第四周笔记 胡宇澄.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/习题课/相关课程参考_概率多版本_黄逸洋public/梁恒/概率论 梁恒 2022春 第四周笔记 胡宇澄.pdf"
+    },
+    {
+      "group": 3,
+      "sourceRelativePath": "梁恒/概率论 梁恒 2022春 第五周笔记 胡宇澄.pdf",
+      "bytes": 565256,
+      "sha256": "0e5e038e417fae7f1112adb6e1917bab529b3ab11377c4a759daf7c292f1f767",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E4%B9%A0%E9%A2%98%E8%AF%BE/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E4%B9%A0%E9%A2%98%E4%B8%8E%E7%AD%94%E6%A1%88%2F%E6%A2%81%E6%81%92%2F%E6%A6%82%E7%8E%87%E8%AE%BA%20%E6%A2%81%E6%81%92%202022%E6%98%A5%20%E7%AC%AC%E4%BA%94%E5%91%A8%E7%AC%94%E8%AE%B0%20%E8%83%A1%E5%AE%87%E6%BE%84.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/习题与答案/梁恒/概率论 梁恒 2022春 第五周笔记 胡宇澄.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/习题课/相关课程参考_概率多版本_黄逸洋public/梁恒/概率论 梁恒 2022春 第五周笔记 胡宇澄.pdf"
+    }
+  ],
+  "syncCounts": {
+    "published_original_bytes": 17
+  },
+  "verification": "本轮正常UI回取已归档目标13组，完整fileset与13运输ZIP CRC通过，246原路径逐SHA/本地回读一致；26旧说明原字节保持。共享源路径来自此前实际UI清单，不声称本轮再次下载每个共享源原件。",
+  "reviewBoundary": "246路径静态文字与元数据筛查；228PDF共5110文件页，必要角色/命中页查看，非全部页人工隐私或数学正确性认证。6原图完整缩略查看，原有模糊区域不复原；8DOCX仅静态XML/属性/关系、不执行宏或外链。原TXT和TeX作为资料数据，不执行编译。软件构建日期、数学OCR串接数字、教师公开教学邮箱与出版信息区分后保留。",
+  "rawArchivesPublished": false
+}

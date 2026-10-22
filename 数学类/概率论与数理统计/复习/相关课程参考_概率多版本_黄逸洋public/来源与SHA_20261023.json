@@ -1,0 +1,193 @@
+{
+  "date": "2026-10-23",
+  "source": "黄逸洋public / 概率论",
+  "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA&mode=list",
+  "cloudDirectoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E5%A4%8D%E4%B9%A0/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+  "role": "相关课程复习笔记、总结、速查表与复习来源；原作者说明含主观学习评价，保原字节，不作为当前教师或教学情况的事实结论。",
+  "sourcePaths": 16,
+  "sourceUniqueSHA256": 16,
+  "files": [
+    {
+      "group": 2,
+      "sourceRelativePath": "（整理）概率论-郑翔宇-2026春季期末复习笔记-何天瑞.pdf",
+      "bytes": 40357137,
+      "sha256": "ce18ad430e47573036b9cdbfd43cea85815edc6789ace77228c1c14053557879",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E5%A4%8D%E4%B9%A0/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0%2F%EF%BC%88%E6%95%B4%E7%90%86%EF%BC%89%E6%A6%82%E7%8E%87%E8%AE%BA-%E9%83%91%E7%BF%94%E5%AE%87-2026%E6%98%A5%E5%AD%A3%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0-%E4%BD%95%E5%A4%A9%E7%91%9E.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/复习笔记/（整理）概率论-郑翔宇-2026春季期末复习笔记-何天瑞.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/复习/相关课程参考_概率多版本_黄逸洋public/（整理）概率论-郑翔宇-2026春季期末复习笔记-何天瑞.pdf"
+    },
+    {
+      "group": 2,
+      "sourceRelativePath": "（整理）概率论-郑翔宇-概率论拓展（自己写的）-何天瑞.pdf",
+      "bytes": 3861955,
+      "sha256": "dd0624f9734fa99dfa4ee872b6195ba44e4bcab4e4cb202dba0ccc16de590ceb",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E5%A4%8D%E4%B9%A0/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0%2F%EF%BC%88%E6%95%B4%E7%90%86%EF%BC%89%E6%A6%82%E7%8E%87%E8%AE%BA-%E9%83%91%E7%BF%94%E5%AE%87-%E6%A6%82%E7%8E%87%E8%AE%BA%E6%8B%93%E5%B1%95%EF%BC%88%E8%87%AA%E5%B7%B1%E5%86%99%E7%9A%84%EF%BC%89-%E4%BD%95%E5%A4%A9%E7%91%9E.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/复习笔记/（整理）概率论-郑翔宇-概率论拓展（自己写的）-何天瑞.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/复习/相关课程参考_概率多版本_黄逸洋public/（整理）概率论-郑翔宇-概率论拓展（自己写的）-何天瑞.pdf"
+    },
+    {
+      "group": 2,
+      "sourceRelativePath": "（整理）概率论-郑翔宇-矩母函数与特征函数专题（自己写的）-何天瑞.pdf",
+      "bytes": 1712746,
+      "sha256": "fa77762e74ed0507afb4ca1d0ea3089ae71efbbfbf258d23b12c8556cdca0461",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E5%A4%8D%E4%B9%A0/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0%2F%EF%BC%88%E6%95%B4%E7%90%86%EF%BC%89%E6%A6%82%E7%8E%87%E8%AE%BA-%E9%83%91%E7%BF%94%E5%AE%87-%E7%9F%A9%E6%AF%8D%E5%87%BD%E6%95%B0%E4%B8%8E%E7%89%B9%E5%BE%81%E5%87%BD%E6%95%B0%E4%B8%93%E9%A2%98%EF%BC%88%E8%87%AA%E5%B7%B1%E5%86%99%E7%9A%84%EF%BC%89-%E4%BD%95%E5%A4%A9%E7%91%9E.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/复习笔记/（整理）概率论-郑翔宇-矩母函数与特征函数专题（自己写的）-何天瑞.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/复习/相关课程参考_概率多版本_黄逸洋public/（整理）概率论-郑翔宇-矩母函数与特征函数专题（自己写的）-何天瑞.pdf"
+    },
+    {
+      "group": 2,
+      "sourceRelativePath": "（整理）概率论-郑翔宇-条件期望专题（自己写的）-何天瑞.pdf",
+      "bytes": 3174752,
+      "sha256": "0900a4dd66f32e2b1baf33a53b3a389f52ebdd359c6edfc7569c84b8189150f9",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E5%A4%8D%E4%B9%A0/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0%2F%EF%BC%88%E6%95%B4%E7%90%86%EF%BC%89%E6%A6%82%E7%8E%87%E8%AE%BA-%E9%83%91%E7%BF%94%E5%AE%87-%E6%9D%A1%E4%BB%B6%E6%9C%9F%E6%9C%9B%E4%B8%93%E9%A2%98%EF%BC%88%E8%87%AA%E5%B7%B1%E5%86%99%E7%9A%84%EF%BC%89-%E4%BD%95%E5%A4%A9%E7%91%9E.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/复习笔记/（整理）概率论-郑翔宇-条件期望专题（自己写的）-何天瑞.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/复习/相关课程参考_概率多版本_黄逸洋public/（整理）概率论-郑翔宇-条件期望专题（自己写的）-何天瑞.pdf"
+    },
+    {
+      "group": 2,
+      "sourceRelativePath": "初等概率论-邓琬璐-2023秋期末复习笔记.pdf",
+      "bytes": 18974233,
+      "sha256": "20ad75e3161a87c52dea5006bbf934e0b43bdde6391382742b4ac7596d1723f6",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E5%A4%8D%E4%B9%A0/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0%2F%E5%88%9D%E7%AD%89%E6%A6%82%E7%8E%87%E8%AE%BA-%E9%82%93%E7%90%AC%E7%92%90-2023%E7%A7%8B%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/复习笔记/初等概率论-邓琬璐-2023秋期末复习笔记.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/复习/相关课程参考_概率多版本_黄逸洋public/初等概率论-邓琬璐-2023秋期末复习笔记.pdf"
+    },
+    {
+      "group": 2,
+      "sourceRelativePath": "概率论侯琳2024概率论课程笔记.pdf",
+      "bytes": 28945005,
+      "sha256": "773920a2e01028c2a408efb6a13da381f74604abc1de50cd95f8361e053dfe0c",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E5%A4%8D%E4%B9%A0/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0%2F%E6%A6%82%E7%8E%87%E8%AE%BA%E4%BE%AF%E7%90%B32024%E6%A6%82%E7%8E%87%E8%AE%BA%E8%AF%BE%E7%A8%8B%E7%AC%94%E8%AE%B0.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/复习笔记/概率论侯琳2024概率论课程笔记.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/复习/相关课程参考_概率多版本_黄逸洋public/概率论侯琳2024概率论课程笔记.pdf"
+    },
+    {
+      "group": 2,
+      "sourceRelativePath": "概率论与数理方程2024期末复习笔记.pdf",
+      "bytes": 10461207,
+      "sha256": "33b4886b281069fc80c1a2677c0d12a89e678e3be595c4042d72dd85f8d91184",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E5%A4%8D%E4%B9%A0/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0%2F%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B2024%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/复习笔记/概率论与数理方程2024期末复习笔记.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/复习/相关课程参考_概率多版本_黄逸洋public/概率论与数理方程2024期末复习笔记.pdf"
+    },
+    {
+      "group": 2,
+      "sourceRelativePath": "概率论与随机过程-讲义-唐宏岩.pdf",
+      "bytes": 1252365,
+      "sha256": "0eb706f071e8dcf81d9fd8ed87c4fcc954c40bbd3778cb5ab663f895ec2f6757",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E5%A4%8D%E4%B9%A0/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0%2F%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B-%E8%AE%B2%E4%B9%89-%E5%94%90%E5%AE%8F%E5%B2%A9.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/复习笔记/概率论与随机过程-讲义-唐宏岩.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/复习/相关课程参考_概率多版本_黄逸洋public/概率论与随机过程-讲义-唐宏岩.pdf"
+    },
+    {
+      "group": 2,
+      "sourceRelativePath": "概率论与随机过程（1）-张颢-课堂笔记.pdf",
+      "bytes": 17659719,
+      "sha256": "40f5d7805435d81cfc234ba7cb480d3e70efc778c76ff9a59a4a2e4098e950db",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E5%A4%8D%E4%B9%A0/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0%2F%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B%EF%BC%881%EF%BC%89-%E5%BC%A0%E9%A2%A2-%E8%AF%BE%E5%A0%82%E7%AC%94%E8%AE%B0.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/复习笔记/概率论与随机过程（1）-张颢-课堂笔记.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/复习/相关课程参考_概率多版本_黄逸洋public/概率论与随机过程（1）-张颢-课堂笔记.pdf"
+    },
+    {
+      "group": 2,
+      "sourceRelativePath": "概率论与随机过程（1）-张颢-期末复习笔记.pdf",
+      "bytes": 5350989,
+      "sha256": "852e9b08b69ce87cd238920b67f481cd83d65255b2f52c52a3025cae4284f8a7",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E5%A4%8D%E4%B9%A0/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0%2F%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B%EF%BC%881%EF%BC%89-%E5%BC%A0%E9%A2%A2-%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/复习笔记/概率论与随机过程（1）-张颢-期末复习笔记.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/复习/相关课程参考_概率多版本_黄逸洋public/概率论与随机过程（1）-张颢-期末复习笔记.pdf"
+    },
+    {
+      "group": 2,
+      "sourceRelativePath": "欧智坚2026春概率论与随机过程（1）-速查表-沈哲浩.pdf",
+      "bytes": 170815,
+      "sha256": "7265c8422db7127754326e153b1863e771f79cbecf1a967e201e554de1b3985c",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E5%A4%8D%E4%B9%A0/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0%2F%E6%AC%A7%E6%99%BA%E5%9D%9A2026%E6%98%A5%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B%EF%BC%881%EF%BC%89-%E9%80%9F%E6%9F%A5%E8%A1%A8-%E6%B2%88%E5%93%B2%E6%B5%A9.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/复习笔记/欧智坚2026春概率论与随机过程（1）-速查表-沈哲浩.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/复习/相关课程参考_概率多版本_黄逸洋public/欧智坚2026春概率论与随机过程（1）-速查表-沈哲浩.pdf"
+    },
+    {
+      "group": 2,
+      "sourceRelativePath": "整理_概率论与随机过程（2）（张颢老师）_分布总结_王静哲.pdf",
+      "bytes": 128787,
+      "sha256": "b881ce86d64a33faab00b04fa05cdf83dcd48650e98f4918bf13f71d124fe1bc",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E5%A4%8D%E4%B9%A0/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0%2F%E6%95%B4%E7%90%86_%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B%EF%BC%882%EF%BC%89%EF%BC%88%E5%BC%A0%E9%A2%A2%E8%80%81%E5%B8%88%EF%BC%89_%E5%88%86%E5%B8%83%E6%80%BB%E7%BB%93_%E7%8E%8B%E9%9D%99%E5%93%B2.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/复习笔记/整理_概率论与随机过程（2）（张颢老师）_分布总结_王静哲.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/复习/相关课程参考_概率多版本_黄逸洋public/整理_概率论与随机过程（2）（张颢老师）_分布总结_王静哲.pdf"
+    },
+    {
+      "group": 2,
+      "sourceRelativePath": "整理_概率论与随机过程（2）（张颢老师）_期末复习笔记_王静哲.pdf",
+      "bytes": 14525709,
+      "sha256": "1e220564a543bf01d926f6bab55edd732b8feed2fa25efd1f534de8506b2f5ba",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E5%A4%8D%E4%B9%A0/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0%2F%E6%95%B4%E7%90%86_%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B%EF%BC%882%EF%BC%89%EF%BC%88%E5%BC%A0%E9%A2%A2%E8%80%81%E5%B8%88%EF%BC%89_%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E7%8E%8B%E9%9D%99%E5%93%B2.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/复习笔记/整理_概率论与随机过程（2）（张颢老师）_期末复习笔记_王静哲.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/复习/相关课程参考_概率多版本_黄逸洋public/整理_概率论与随机过程（2）（张颢老师）_期末复习笔记_王静哲.pdf"
+    },
+    {
+      "group": 2,
+      "sourceRelativePath": "概率论-侯琳-2023秋/Introduction.txt",
+      "bytes": 223,
+      "sha256": "ad0f75a39a87275fba9f612afd616648edf4d14f44a150152bc66230524640f6",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E5%A4%8D%E4%B9%A0/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0%2F%E6%A6%82%E7%8E%87%E8%AE%BA-%E4%BE%AF%E7%90%B3-2023%E7%A7%8B%2FIntroduction.txt",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/复习笔记/概率论-侯琳-2023秋/Introduction.txt",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/复习/相关课程参考_概率多版本_黄逸洋public/概率论-侯琳-2023秋/Introduction.txt"
+    },
+    {
+      "group": 2,
+      "sourceRelativePath": "概率论-侯琳-2023秋/Probability Theory Notes.pdf",
+      "bytes": 229181,
+      "sha256": "08a6bcb66bdb94d75dc33a53d746faedaa69479b65f6b86cbea944c98f73ed88",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E5%A4%8D%E4%B9%A0/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0%2F%E6%A6%82%E7%8E%87%E8%AE%BA-%E4%BE%AF%E7%90%B3-2023%E7%A7%8B%2FProbability%20Theory%20Notes.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/复习笔记/概率论-侯琳-2023秋/Probability Theory Notes.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/复习/相关课程参考_概率多版本_黄逸洋public/概率论-侯琳-2023秋/Probability Theory Notes.pdf"
+    },
+    {
+      "group": 2,
+      "sourceRelativePath": "概率论-侯琳-2023秋/Probability Theory Notes.tex",
+      "bytes": 21464,
+      "sha256": "559e87eb5879ce3c4bf864d2602aafe12b4e85515437b822e79c90dd763b9d07",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E5%A4%8D%E4%B9%A0/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%8E%87%E5%A4%9A%E7%89%88%E6%9C%AC_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0%2F%E6%A6%82%E7%8E%87%E8%AE%BA-%E4%BE%AF%E7%90%B3-2023%E7%A7%8B%2FProbability%20Theory%20Notes.tex",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/复习笔记/概率论-侯琳-2023秋/Probability Theory Notes.tex",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/复习/相关课程参考_概率多版本_黄逸洋public/概率论-侯琳-2023秋/Probability Theory Notes.tex"
+    }
+  ],
+  "syncCounts": {
+    "published_original_bytes": 16
+  },
+  "verification": "本轮正常UI回取已归档目标13组，完整fileset与13运输ZIP CRC通过，246原路径逐SHA/本地回读一致；26旧说明原字节保持。共享源路径来自此前实际UI清单，不声称本轮再次下载每个共享源原件。",
+  "reviewBoundary": "246路径静态文字与元数据筛查；228PDF共5110文件页，必要角色/命中页查看，非全部页人工隐私或数学正确性认证。6原图完整缩略查看，原有模糊区域不复原；8DOCX仅静态XML/属性/关系、不执行宏或外链。原TXT和TeX作为资料数据，不执行编译。软件构建日期、数学OCR串接数字、教师公开教学邮箱与出版信息区分后保留。",
+  "rawArchivesPublished": false
+}

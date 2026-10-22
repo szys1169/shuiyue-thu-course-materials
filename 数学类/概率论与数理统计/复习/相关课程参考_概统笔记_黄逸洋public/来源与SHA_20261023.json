@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-23",
+  "source": "黄逸洋public / 概率论",
+  "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA&mode=list",
+  "cloudDirectoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E5%A4%8D%E4%B9%A0/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%BB%9F%E7%AC%94%E8%AE%B0_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+  "role": "相关课程复习笔记、总结、速查表与复习来源；原作者说明含主观学习评价，保原字节，不作为当前教师或教学情况的事实结论。",
+  "sourcePaths": 4,
+  "sourceUniqueSHA256": 2,
+  "files": [
+    {
+      "group": 7,
+      "sourceRelativePath": "概率笔记thy2021 (1).pdf",
+      "bytes": 16103418,
+      "sha256": "4f2520682e3020a81f5bf6779f93cac9a97e79cfe4b162768a3b83c3222f6deb",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E5%A4%8D%E4%B9%A0/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%BB%9F%E7%AC%94%E8%AE%B0_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1_%E9%A9%AC%E9%80%B8%2F%E7%AC%94%E8%AE%B0%2F%E6%A6%82%E7%8E%87%E7%AC%94%E8%AE%B0thy2021%20(1).pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/概率论与数理统计_马逸/笔记/概率笔记thy2021 (1).pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/复习/相关课程参考_概统笔记_黄逸洋public/概率笔记thy2021 (1).pdf"
+    },
+    {
+      "group": 7,
+      "sourceRelativePath": "概率笔记thy2021.pdf",
+      "bytes": 16103418,
+      "sha256": "4f2520682e3020a81f5bf6779f93cac9a97e79cfe4b162768a3b83c3222f6deb",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E5%A4%8D%E4%B9%A0/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%BB%9F%E7%AC%94%E8%AE%B0_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1_%E9%A9%AC%E9%80%B8%2F%E7%AC%94%E8%AE%B0%2F%E6%A6%82%E7%8E%87%E7%AC%94%E8%AE%B0thy2021.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/概率论与数理统计_马逸/笔记/概率笔记thy2021.pdf",
+      "gitSyncStatus": "reuse_same_SHA_source_alias",
+      "gitRepoPath": "数学类/概率论与数理统计/复习/相关课程参考_概统笔记_黄逸洋public/概率笔记thy2021 (1).pdf"
+    },
+    {
+      "group": 7,
+      "sourceRelativePath": "统计笔记thy2021 (1).pdf",
+      "bytes": 15365160,
+      "sha256": "5842b274097fd58640bdd62b396f8c157f31edf43e55ae863916fca8fd4c0351",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E5%A4%8D%E4%B9%A0/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%BB%9F%E7%AC%94%E8%AE%B0_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1_%E9%A9%AC%E9%80%B8%2F%E7%AC%94%E8%AE%B0%2F%E7%BB%9F%E8%AE%A1%E7%AC%94%E8%AE%B0thy2021%20(1).pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/概率论与数理统计_马逸/笔记/统计笔记thy2021 (1).pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/复习/相关课程参考_概统笔记_黄逸洋public/统计笔记thy2021 (1).pdf"
+    },
+    {
+      "group": 7,
+      "sourceRelativePath": "统计笔记thy2021.pdf",
+      "bytes": 15365160,
+      "sha256": "5842b274097fd58640bdd62b396f8c157f31edf43e55ae863916fca8fd4c0351",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E5%A4%8D%E4%B9%A0/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%BB%9F%E7%AC%94%E8%AE%B0_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1_%E9%A9%AC%E9%80%B8%2F%E7%AC%94%E8%AE%B0%2F%E7%BB%9F%E8%AE%A1%E7%AC%94%E8%AE%B0thy2021.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/概率论与数理统计_马逸/笔记/统计笔记thy2021.pdf",
+      "gitSyncStatus": "reuse_same_SHA_source_alias",
+      "gitRepoPath": "数学类/概率论与数理统计/复习/相关课程参考_概统笔记_黄逸洋public/统计笔记thy2021 (1).pdf"
+    }
+  ],
+  "syncCounts": {
+    "published_original_bytes": 2,
+    "reuse_same_SHA_source_alias": 2
+  },
+  "verification": "本轮正常UI回取已归档目标13组，完整fileset与13运输ZIP CRC通过，246原路径逐SHA/本地回读一致；26旧说明原字节保持。共享源路径来自此前实际UI清单，不声称本轮再次下载每个共享源原件。",
+  "reviewBoundary": "246路径静态文字与元数据筛查；228PDF共5110文件页，必要角色/命中页查看，非全部页人工隐私或数学正确性认证。6原图完整缩略查看，原有模糊区域不复原；8DOCX仅静态XML/属性/关系、不执行宏或外链。原TXT和TeX作为资料数据，不执行编译。软件构建日期、数学OCR串接数字、教师公开教学邮箱与出版信息区分后保留。",
+  "rawArchivesPublished": false
+}

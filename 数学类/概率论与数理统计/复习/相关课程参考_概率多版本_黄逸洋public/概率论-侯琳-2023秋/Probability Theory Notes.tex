@@ -1,0 +1,432 @@
+\documentclass[a4paper]{article}
+\usepackage{amsmath}
+\usepackage{float}
+\usepackage{array}
+\usepackage{hyperref}
+\title{Probability Theory Notes}
+\author{Anonymous}
+\date{2023.8.26}
+\begin{document}
+\maketitle
+\tableofcontents
+
+\section{Fundamentals}
+\subsection{Axioms of probability (Kolmogorov axioms)}
+	\begin{enumerate}
+	\item Nonnegativity: the probability of an event is always a non-negative real number.
+$$P(E)\in R,P(E)\geq0$$
+	\item Unitarity: The probability of the entire sample space $\Omega$ is 1.
+$$P(\Omega)=1$$
+	\item Additivity: Any countable sequence of disjoint sets $E_1,E_2,\cdots$ satisfies
+$$P(\bigcup_{i=1}^{\infty}E_i)=\sum_{i=1}^{\infty}P(E_i)$$
+	\end{enumerate}
+
+\subsection{Conditional probability}
+	\begin{enumerate}
+	\item Definition: the probability of an event occurring, given that another event occurs.
+	\item Properties:
+$$P(A|B)=\frac{P(A\cap B)}{P(B)}$$
+$$P(\cap_{i=1}^nA_i)=P(A_1)P(A_2|A_1)P(A_3|A_1\cap A_2)\cdots P(A_n|\cap_{i=1}^nA_i)$$
+	\item Law of total probability: If $B_1,B_2,\cdots,B_n$ is a partition of a sample space $\Omega$, then for any event A, we have
+$$P(A)=P(A|B_1)+P(A|B_2)+\cdots+P(A|B_n)$$
+	\item Bayes' Rule: 
+$$P(B|A)=\frac{P(A|B)P(B)}{P(A)}$$
+$$P(B_i|A)=\frac{P(A|B_i)P(B_i)}{\sum_iP(A|B_i)P(B_i)}$$
+$$f_{X|Y}(x|y)=\frac{f_X(x)f_{Y|X}(y|x)}{f_Y(y)}$$
+$$f_{X|Y}(x|y)=\frac{f_X(x)f_{Y|X}(y|x)}{\int_{-\infty}^{\infty}f_X(t)f_{Y|X}(y|t)dt}$$
+	\end{enumerate}
+
+\subsection{Independence}
+	\begin{enumerate}
+	\item Definition: Two events A and B are independent if and only if 
+$$P(A\cap B)=P(A)P(B)$$
+	\item Properties:
+		\begin{enumerate}
+		\item If $A$ and $B$ are independent, then $A$ and $B^c$ are independent, $A^c$ and $B$ are independent, $A^c$ and $B^c$ are independent.
+		\item Disjoint events are not independent.
+		\item Necessary and sufficient condition:$F(x,y)=F(x)F(y)$; $f(x,y)=f(x)f(y)$; $\phi(x,y)=\phi(x)\phi(y)$
+		\end{enumerate}
+	\item Pairwise independence: A finite set of events $\{A_i\}_{i=1}^n$ is pairwise independent if every pair of events are independent.
+$$P(A_i\cap A_j)=P(A_i)P(A_j)$$
+	\item Mutual independence: A finite set of events $\{A_i\}_{i=1}^n$ is mutually independent if every event is independent of any intersection of the other events.
+$$P(\cap_{i\in S}A_i)=\prod_{i\in S}P(A_i)$$
+		For more than two events, a mutually independent set of events is pairwise independent, but the converse is not necessarily true. 
+	\item Conditional independence: If $P(A\cap B|C)=P(A|C)P(B|C)$, then $A$ and $B$ are conditionally independent given the condition $C$. Conditional independence can't bring independence, and vice versa.
+	\item Independence of random variables: If two random variables $X$ and $Y$ satisfies $P_{X,Y}(x,y)=p_X(x)P_Y(y)$, then $X$ and $Y$ are independent random variables. In this case, for any function $g(\cdot)$, $h(\cdot)$, $E[g(X)h(Y)]=E[g(X)]E[h(Y)]$.
+	\end{enumerate}
+
+
+\section{Measurements}
+\subsection{Expectation}
+	\begin{enumerate}
+	\item Definition: In a discrete case, when $\sum_{i=1}^\infty|x_i|p_i$ converges,
+$$E(X)=\sum_{i=1}^\infty x_ip_i$$ 
+In a continuous case,
+$$E(X)=\int_{-\infty}^{\infty}xf(x)dx$$ 
+Especially,
+$$E(g(x))=\int_{-\infty}^{\infty}g(x)f(x)dx$$
+	\item Properties:
+		\begin{enumerate}
+		\item $E(cX+d)=cE(X)+d$
+		\item $E(X_1+X_2+\cdots+X_n)=E(X_1)+E(X_2)+\cdots+E(X_n)$
+		\item Assuming $X_1, X_2, \cdots, X_n$ are independent, then
+$$E(X_1X_2\cdots X_n)=E(X_1)E(X_2)\cdots E(X_n)$$
+		\item Law of total expectation:
+$$E(X)=\sum_yP_Y(y)E(X|Y=y)$$
+$$E(Y)=E[E(Y|X)]$$
+		\end{enumerate}
+	\end{enumerate}
+
+\subsection{Variance}
+	\begin{enumerate}
+	\item Definition: $Var(X)=E[(X-EX)^2]=E(X^2)-E(X)^2$. The standard deviation $\sigma=\sqrt{Var(X)}$.
+	\item Properties:
+		\begin{enumerate}
+		\item $Var(X+c)=Var(X)$
+		\item $Var(cX+d)=c^2Var(X)$
+		\item Assuming $X_1, X_2, \cdots, X_n$ are independent, then 
+$$Var(X_1+X_2+\cdots+X_n)=Var(X_1)+Var(X_2)+\cdots+Var(X_n)$$
+		\item For any random variables $X_1, X_2, \cdots, X_n$,
+$$Var(X_1+X_2+\cdots+X_n)=\sum_{i=1}^nVar(X_i)+\sum_{1\leq i,j\leq n,i\neq j}Cov(X_i,X_j)$$
+		\item For independent and identical distributed random variables $X_1,X_2,\cdots,X_n$, 
+$$Var(\overline{X})=Var(\frac{X_1+X_2+\cdots+X_n}{n})=\frac{var(X)}{n}$$
+		\item For any $c\in R$,
+$$Var(X)=E(X-E(X))^2\leq E(X-c)^2$$
+		\item Law of total variance:
+$$Var(X)=E[Var(X|Y)]+Var[E(X|Y)]$$
+		\end{enumerate}
+	\end{enumerate}
+
+\subsection{Covariance}
+	\begin{enumerate}
+	\item Definition: $Cov(X,Y)=E[(X-EX)(Y-EY)]=E(XY)-E(X)E(Y)$.
+	\item Properties:
+		\begin{enumerate}
+		\item $Cov(X,X)=Var(X)$
+		\item $Cov(aX+b,cY+d)=acCov(X,Y)$
+		\item $Cov(X+Y,Z)=Cov(X,Z)+Cov(Y,Z)$
+		\item $Cov(X)=\sum\ \Rightarrow\ Cov(AX)=A\Sigma A^T$
+		\end{enumerate}
+	\end{enumerate}
+
+
+\subsection{Median}
+	\begin{enumerate}
+	\item Definition: 
+
+\ \ \ \ In a discrete case, if the data size is odd, the median of a dataset is the middle value, and if the data size is even, the median is usually defined as the arithmetic mean of the two middle values.
+
+\ \ \ \ In a continuous case, a median is defined as any real number $m$ that satisfies the inequalities:
+$$\int_{(-\infty,m]}dF(x)\geq\frac{1}{2}$$
+$$\int_{[m,+\infty]}dF(x)\geq\frac{1}{2}$$
+	\item Properties:
+		\begin{enumerate}
+		\item If the distribution has finite variance, then the distance between the median $\tilde X$ and the mean $\overline{X}$ is bounded by one standard deviation:
+$$|\overline{X}-\tilde{X}|\leq\sigma$$
+		\item If $\tilde{X}$ is a sample median, then it minimizes the arithmetic mean of the absolute deviations:
+$$E(|X-\tilde{X}|)\leq E(|X-c|), \forall c\in R$$
+		\end{enumerate}
+	\end{enumerate}
+
+\subsection{Mean absolute deviation}
+	\begin{enumerate}
+	\item Definition: Mean absolute deviation(MAD) is the average of the absolute deviations from the mean, which is $E(|X-\mu|)$.
+	\item Properties:
+		\begin{enumerate}
+		\item Mean absolute deviation is less than or equal to the standard deviation. For a normal distribution, the ratio of MAD and standard deviation is $\sqrt{\frac{2}{\pi}}\approx 0.7979$
+		\item The median is the point about which the average absolute deviation is minimized.
+		\end{enumerate}
+	\end{enumerate}
+
+\subsection{Skewness}
+	\begin{enumerate}
+	\item Definition: For a probability distribution, the skewness is $\frac{E(X-E(X))^3}{\sigma^3}$
+	\item Properties:
+		\begin{enumerate}
+		\item If the skewness is positive, the PDF curve leans leftward and the right tail is longer. If the skewness is negative, the PDF curve leans rightward and the left tail is longer.
+		\item A distribution with negative skewness can have its mean greater than or less than the median, and likewise for positive skewness.
+		\item A symmetric distribution has zero skewness. But zero skewness doesn't mean a symmetric distribution.
+		\end{enumerate}
+	\end{enumerate}
+
+\subsection{Kurtosis}
+	\begin{enumerate}
+	\item Definition: For a probability distribution, the kurtosis is $\frac{E(X-E(X))^4}{\sigma^4}$
+	\item Properties:
+		\begin{enumerate}
+		\item A higher value of kurtosis indicates a higher, sharper peak of PDF, while a lower value indicates a shorter, fatter peak.
+		\item The kurtosis of a standard normal distribution is 3.
+		\item The kurtosis of a uniform distribution is 1.8.
+		\item The kurtosis of an exponential distribution is 9.
+		\item The range of kurtosis is $[1,+\infty)$.
+		\end{enumerate}
+	\end{enumerate}
+
+\subsection{Other measurements}
+	\begin{enumerate}
+	\item Range: the difference between the largest and smallest values; the result of subtracting the sample maximum and minimum.
+	\item Interquartile range(IQR): the difference between the 75th and 25th percentiles of the data. It is used to describe statistical dispersion.
+	\item Mode: the value that appears most often in a dataset.
+	\end{enumerate}
+
+
+\section{Distributions}
+\subsection{Discrete random variable}
+	\subsubsection{Bernoulli distribution}
+		\begin{enumerate}
+		\item Definition:A discrete probability distribution of a random variable which takes the value 1 with probability $p$ and the value 0 with probability $1-p$. This is usually denoted as $X\sim B(1,p)$ or $X\sim B(p)$.
+		\item Expectation: $p$
+		\item Variance: $p(1-p)$
+		%\item Properties:
+		%	\begin{enumerate}
+		%	\item
+		%	\end{enumerate}
+		\end{enumerate}
+	\subsubsection{Binomial distribution}
+		\begin{enumerate}
+		\item Definition: In a binomial distribution with parameters $n$ and $p$, $P(X=k)=C^k_{n}p^k(1-p)^{n-k} (k\in\{0,1,\cdots,n\})$. This is usually denoted as $X\sim B(n,p)$.
+		\item Expectation: $p$
+		\item Variance: $p(1-p)$
+		\item Properties:
+			\begin{enumerate}
+			\item If $X_1,X_2,\cdots,X_n$ are independent Bernoulli random variables with parameter $p$, then $X_1+X_2+\cdots+X_n\sim B(n,p)$.
+			\item If $X,Y$ are independent and $X\sim B(n,p)$, $Y\sim B(m,p)$, then\\ $X+Y\sim B(m+n,p)$.
+			\item The integer $k_0$ that maximizes P(X=k) satisfies:
+\begin{equation*}
+	k_0=
+	\begin{cases}
+		(n+1)p,\ (n+1)p-1, \text{\ if (n+1)p is integer}\\
+		\lfloor (n+1)p\rfloor, \text{\ if (n+1)p is not integer}
+	\end{cases}
+\end{equation*}
+			\end{enumerate}
+		\end{enumerate}
+
+
+	\subsubsection{Multinomial distribution}
+		\begin{enumerate}
+		\item Definition: In a multinomial distribution with parameters $N$ and $p_1, p_2, \cdots, p_n$, the n-dimensional random vector $X$ follows this rule: 
+	$$P(X_i=k)=\sum_{k_1+k_2+\cdots+k_n=N, k_i=k}\frac{N!}{k_1!k_2!\cdots k_n}p_1^{k_1}p_2^{k_2}\cdots p_n^{k_n}$$
+		\item Expectation: $E(X_i)=np_i$
+		\item Variance: $Var(X_i)=np_i(1-p_i)$, $Cov(X_i,X_j)=-np_ip_j(i\neq j)$
+		\end{enumerate}
+
+
+	\subsubsection{Poisson distribution}
+		\begin{enumerate}
+		\item Definition: In a Poisson distribution with parameter $\lambda$, $P(X=i)=\frac{e^{-\lambda}\lambda^i}{i!}(i=0, 1, \cdots)$. This is usually denoted as $X\sim P(\lambda)$.
+		\item Expectation: $\lambda$
+		\item Variance: $\lambda$
+		\item Properties:
+			\begin{enumerate}
+			\item Asymptotic property: when $n$ is big and $p$ is small and $np=\lambda$ is a proper integer, then $$B(n,p)\sim P(\lambda)$$
+			\end{enumerate}
+		\end{enumerate}
+	\subsubsection{Geometric distribution}
+		\begin{enumerate}
+		\item Definition: In a geometric distribution with parameter $p$, $P(X=k)=p(1-p)^{k-1}(i=1, 2, \cdots)$. This is usually denoted as $X\sim G(p)$.
+		\item Expectation: $\frac{1}{p}$
+		\item Variance: $\frac{1-p}{p^2}$
+		\item Properties:
+			\begin{enumerate}
+			\item Memoryless property: For any positive integer $m$ and $n$,
+$$P(X>m+n|X>n)=P(X>m)$$
+			\end{enumerate}
+		\end{enumerate}
+	\subsubsection{Hypergeometric distribution}
+		\begin{enumerate}
+		\item Definition: In a hypergeometric distribution with parameter $n,M,N$, $P(X=k)=\frac{C_M^kC_{N-M}^{n-k}}{C_N^n}$. This is usually denoted as $X\sim H(n,M,N)$.
+		\item Expectation: $\frac{nM}{N}$
+		\item Variance: $\frac{Mn(N-M)(N-n)}{N^2(N-1)}$
+		\item Properties:
+			\begin{enumerate}
+			\item Asymptotic property: Let $p=\frac{M}{N}$, when $N\rightarrow\infty$, 
+$$H(n,M,N)\sim B(n,p)$$.
+			\end{enumerate}
+		\end{enumerate}
+
+
+\subsection{Continuous random variable}
+	\subsubsection{Uniform distribution}
+		\begin{enumerate}
+		\item Definition: In a uniform distribution with parameters $a$ and $b$, the probability density function is $f(x)=\frac{1}{b-a}(a\leq x\leq b)$. This is usually denoted as $X\sim U(a,b)$.
+		\item Expectation: $\frac{a+b}{2}$
+		\item Variance:	$\frac{(b-a)^2}{12}$
+		\end{enumerate}
+	\subsubsection{Normal distribution}
+		\begin{enumerate}
+		\item Definition: In a normal distribution with parameters $\mu$ and $\sigma$, the probability density function is 
+$$f(x)=\frac{1}{\sqrt{2\pi}\sigma}e^{-\frac{(x-\mu)^2}{2\sigma^2}}(-\infty<x<\infty)$$
+		\item Expectation: $\mu$
+		\item Variance:	$\sigma^2$
+		\item Properties:
+			\begin{enumerate}
+			\item If $X\sim N(\mu, \sigma^2)$, then $Y=aX+b\sim N(a\mu+b,a^2\sigma^2)$
+			\item If $X_1\sim N(\mu_1,\sigma_1^2)$, $X_2\sim N(\mu_2,\sigma_2^2)$, then 
+$$X_1+X_2\sim N(\mu_1+\mu_2,\sigma_1^2+\sigma_2^2)$$
+$$\frac{X_1}{X_2}\sim Cauchy(0,1)$$
+			\item if $X_1$ and $X_2$ are independent random variables and their sum $X_1+X_2$ has a normal distribution, then both $X_1$ and $X_2$ must be normal deviates.
+			\item The inflection points are $x=\mu-\sigma$ and $x=\mu+\sigma$.
+			\item $E(X^2)=\mu^2+\sigma^2$, $E[(X-\mu)^2]=\sigma^2$,\\$E(X^3)=\mu^3+3\mu \sigma^2$, $E[(X-\mu)^3)]=0$,\\$E(|X|)=\sqrt{\frac{2}{\pi}}$
+			\item For two normal random variable $X$ and $Y$ with mean $0$ and variance $\sigma^2$, $Y=X^2+Y^2$ follows an exponential distribution with parameter $
+\frac{1}{2\sigma^2}$, i.e. $Y\sim\varepsilon(\frac{1}{2\sigma^2})$. $f_Y(y)=\frac{1}{2\sigma^2}e^{-\frac{y}{2\sigma^2}},y\geq0$.\\
+Let $R=\sqrt{Y}=\sqrt{X^2+Y^2}$, then $f_R(r)=\frac{r}{\sigma^2}e^{-\frac{r^2}{2\sigma^2}}$. This is usually called $R$ follows a Rayleigh distribution.
+			\item If $X,Y\sim N(\mu_1,\mu_2,\sigma_1^2,\sigma_2^2,\rho)$, then $X,Y$ are independent $\Leftrightarrow$ $\rho=0$.
+			\end{enumerate}
+		
+		\item Multivariate normal distribution: for a k-dimensional multivariate normal random vector $\mathbf{x}$ with mean $\mathbf{\mu}$ and covariance matrix $\Sigma$, the probability density function is: 
+$$f(\mathbf{x})=\frac{1}{(2\pi)^\frac{k}{2}|\Sigma|^\frac{1}{2}}\exp\left(-\frac{1}{2}(\mathbf{x}-\mathbf{\mu})\Sigma^{-1}(\mathbf{x}-\mathbf{\mu})\right)$$
+especially, in the bivariate case, let $\sigma_X$, $\sigma_Y$ be the variance and $\rho$ be the covariance, then
+$$f(x,y)=\frac{1}{2\pi\sigma_X\sigma_Y\sqrt{1-\rho^2}}\exp\left(-\frac{1}{2(1-\rho^2)}\left[(\frac{x-\mu_1}{\sigma_X})^2-2\rho(\frac{x-\mu_1}{\sigma_X})(\frac{y-\mu_2}{\sigma_Y})+(\frac{y-\mu_2}{\sigma_Y})^2\right]\right)$$
+$$Y|X\sim N(\mu_2+\rho\frac{\sigma_2}{\sigma_1}(x-\mu_1),(1-\rho^2)\sigma_2^2)$$
+		\end{enumerate}
+$$X+Y\sim N(\mu_1+\mu_2,\sigma_1^2+\sigma_2^2+2\rho\sigma_1\sigma_2)$$
+	\subsubsection{Exponential distribution}
+		\begin{enumerate}
+		\item Definition: In an exponential distribution with parameter $\lambda$, the probability density function is 
+$$f(x)=\lambda e^{-\lambda x}(0\leq x<\infty)$$
+This is usually denoted as $X\sim \varepsilon(\lambda)$.
+		\item Expectation: $\frac{1}{\lambda}$
+		\item Variance:	$\frac{1}{\lambda^2}$
+		\item Properties:
+			\begin{enumerate}
+			\item Memoryless property: For any positive real number $m$ and $n$,
+$$P(X>m+n|X>n)=P(X>m)$$
+			\end{enumerate}
+		\end{enumerate}
+	\subsubsection{Chi-squared distribution}
+		\begin{enumerate}
+		\item Definition: If $Z_1,Z_2,\cdots,Z_k$ are independent, standard normal random variables, then the sum of their squares, $Q=\sum_{i=1}^kZ_i^2$ is distributed according to the chi-square distribution with $k$ degrees of freedom. This is usually denoted as $Q\sim\chi^2(k)$  
+		\item Expectation: $k$
+		\item Variance: $2k$
+		\item Properties:
+			\begin{enumerate}
+			\item Probability density function:
+$$f(x)=\frac{1}{2^{\frac{k}{2}}\Gamma(\frac{k}{2})}x^{\frac{k}{2}-1}\mathrm{e}^{-\frac{x}{2}}(x>0)$$
+			\item Additivity: If $X_1\sim\chi^2(k_1), X_2\sim\chi^2(k_2)$, then $X_1+X_2\sim\chi^2(k_1+k_2)$
+			\end{enumerate}
+		\end{enumerate}
+	\subsubsection{t-distribution}
+		\begin{enumerate}
+		\item Definition: If $X\sim N(0,1)$,$Y\sim \chi_n^2$ and $X$ and $Y$ are independent, then $T=\frac{X}{\sqrt{\frac{Y}{n}}}$ is a t-deviate with $n$ degrees of freedom. This is usually denoted as $T\sim t_n$
+		\item Properties:
+			\begin{enumerate}
+			\item Probability density function:
+$$f(x)=\frac{\Gamma(\frac{k+1}{2})}{\sqrt{k\pi}\Gamma(\frac{k}{2})}\left(1+\frac{x^2}{k}\right)^{-\frac{k+1}{2}}$$
+			\end{enumerate}
+		\end{enumerate}
+	\subsubsection{f-distribution}
+		\begin{enumerate}
+		\item Definition: If $X\sim \chi_m^2$,$Y\sim \chi_n^2$ and $X$ and $Y$ are independent, then $F=\frac{X}{m}/\frac{Y}{n}$ is a f-deviate with $m$ and $n$ degrees of freedom. This is usually denoted as $F\sim f_{m,n}$.
+		\item Properties:
+			\begin{enumerate}
+			\item Probability density function:
+$$f(x)=\frac{\Gamma(\frac{m+n}{2})m^{\frac{m}{2}}n^{\frac{n}{2}}x^{\frac{m}{2}-1}}{\Gamma(\frac{m}{2})\Gamma(\frac{n}{2})(mx+n)^{\frac{m+n}{2}}},\ x\geq0$$
+			\end{enumerate}
+		\end{enumerate}
+
+
+\section{Moment Generating Function}
+For a random variable $X$, the moment generating function is $M_X(t)=E[e^{tX}]$.
+\subsection{Properties}
+\begin{enumerate}
+\item $M_X(t)=1+tE(X)+\frac{1}{2!}t^2E(X^2)+\frac{1}{3!}t^3E(X^3)+\cdots+\frac{1}{n!}t^nE(X^n)$
+\item $E(X^n)=M_X^{(n)}(0)$
+\item $M_{\alpha X+\beta}=e^{\beta t}M_X(\alpha t)$
+\item For independent random variables $X_1,X_2,\cdots,X_n$,let $S=\sum_{i=1}^nX_i$, then $M_S(t)=M_{X_1}(t)M_{X_2}(t)\cdots M_{X_n}(t)$
+\item When X only takes nonnegative integer values, then $P(X=0)=\lim_{s\to -\infty}M(s)$
+\item If $M_X(t)$ can be written as $M_X(t)=\sum p_ke^{kt}$, then $P(X=k)=p_k$
+\end{enumerate}
+
+
+\section{Useful conclusions}
+
+\begin{table}[H]
+	\renewcommand\arraystretch{2}%表格行高变为2倍
+	\begin{centering}
+		\begin{tabular}{|c|c|c|c|c|c|}
+		\hline
+		Distribution& PDF & Expectation & Variance	& MGF & C.F\\ 	
+		\hline
+		Uniform& $\frac{1}{b-a}$ & $\frac{a+b}{2}$ & $\frac{(b-a)^2}{12}$ &
+ $\frac{e^{tb}-e^{ta}}{t(b-a)}$ & $\frac{e^{itb}-e^{ita}}{it(b-a)}$ \\
+		\hline
+		Bernoulli& $$ & $p$ & $p(1-p)$ & $1-p+pe^t$ & $1-p+pe^{it}$ \\
+		\hline
+		Binomial& $$ & $np$ & $np(1-p)$ & $(1-p+pe^t)^n$ & $(1-p+pe^{it})^n$ \\
+		\hline
+		Poisson& $$ & $\lambda$ & $\lambda$ & $e^{\lambda(e^t-1)}$ & $e^{\lambda(e^{it}-1)}$ \\
+		\hline
+		Geometric& $$ & $\frac{1}{p}$ & $\frac{1-p}{p^2}$ &
+ $\frac{pe^t}{1-(1-p)e^t}$ & $\frac{pe^{it}}{1-(1-p)e^{it}}$ \\
+		\hline
+		Gaussian& $$ & $\mu$ & $\sigma^2$ &
+ $e^{\mu t+\frac{1}{2}\sigma^2t^2}$ & $e^{i\mu t-\frac{1}{2}\sigma^2t^2}$ \\
+		\hline
+		Exponential& $$ & $\frac{1}{\lambda}$ & $\frac{1}{\lambda^2}$ & $\frac{1}{1-\frac{t}{\lambda}}$ & $\frac{1}{1-\frac{it}{\lambda}}$ \\
+		\hline		
+		\end{tabular}
+	\end{centering}
+\end{table}
+
+\subsection{Inequalities}
+	\begin{enumerate}
+	\item Markov's inequality: for a nonnegative random variable X and any positive number a,
+$$P(X\geq a)\leq \frac{E(X)}{a}$$
+	\item Chebyshev's inequality: for a random variable X with finite expectation and any positive number a, $$P(|X-E(X)|\geq a)\leq \frac{Var(X)}{a^2}$$
+	\item Jensen's inequality: let $f: R\to R$ be a convex function and $X$ a random variable with finite expectation, then$$f(E(X))\leq E(f(X))$$
+Let $f(x)=x^2$, we get:
+$$(E(X))^2\leq E(X^2)$$
+	\item Cauchy-Schwarz inequality:$$|E(XY)|^2\leq E(X^2)E(Y^2)$$
+	\end{enumerate}
+
+\subsection{Calculation}
+	\begin{enumerate}
+	\item Maximum of multiple random variables: let $X=max\{X_1,X_2,\cdots,X_n\}$ and $F_X(x)$ be the cumulative distribution function, then the CDF of $X$ is
+$$F(x)=F_{X_1}(x)F_{X_2}(x)\cdots F_{X_n}(x)$$
+By differential or difference, we can get $f_X(x)$.
+	\item Minimum of multiple random variables: let $X=min\{X_1,X_2,\cdots,X_n\}$ and $F_X(x)$ be the cumulative distribution function, then the CDF of $X$ is
+$$F(x)=1-[1-F_{X_1}(x)][1-F_{X_2}(x)]\cdots[1-F_{X_n}(x)]$$
+	\item Let $X_1$, $X-2$, ..., $X_n$ be i.i.d random variables with CDF $F(x)$ and PDF $f(x)$, then 
+the joint pdf of $X_{(1)}$ and $X_{(n)}$ is 
+$$f(x,y)=n(n-1)[F(y)-F(x)]^{n-2}f(y)f(x)(y>x)$$
+	\item PDF of the function of random variable: let $X$ be a random variable and $f_X(x)$ be the PDF, then for $Y=g(X)$($g(x)$ is monotonic), the PDF is 
+$$f_Y(Y)=f_X(h(y))|h'(y)|$$ where $h(y)$ is the inverse function of $g(x)$. 
+
+\ \ \ \ Generally, if $g(x)$ is not monotonic, for every monitonic interval, let the inverse function of $g(x)$ be $h_i(y)$, then the PDF of $Y$ is 
+$$f_Y(Y)=\sum_i f_X(h_i(y))|h_i'(y)|$$
+	\item When $Y=aX+b$, then the pdf of $X$ and $Y$ satisfies:
+$$f_Y(y)=\frac{1}{|a|}f_X(\frac{y-b}{a})$$
+	\item Let the joint pdf of $X$, $Y$ be $f(x,y)$. If $x=x(u,v)$, $y=y(u,v)$, then the joint pdf of $U$, $V$ is
+$$g(u,v)=f(x(u,v),y(u,v))|\frac{\partial(x,y)}{\partial(u,v)}|$$
+	\item For random variables $X$ and $Y$, the pdf of $X+Y$ is \\
+$f(k)=\int_{-\infty}^\infty f(x,k-x)dx$
+	\item For random variables $X$ and $Y$, the pdf of $X-Y$ is \\
+$f(k)=\int_{-\infty}^\infty f(x,x-k)dx$
+	\item For random variables $X$ and $Y$, the pdf of $Y/X$ is 
+$f(k)=\int_{-\infty}^\infty|x|f(x,kx)dx$
+	\item For random variables $X$ and $Y$, the pdf of $XY$ is 
+$f(k)=\int_{-\infty}^\infty\frac{1}{|x|}f(x,\frac{k}{x})dx$
+	\end{enumerate}
+
+\subsection{Combinatorics}
+	\begin{enumerate}
+	\item Binomial expansion:
+$$(x+y)^n=\sum_{i=0}^nC_n^ix^iy^{n-i}$$
+$$\sum_{k=0}^nC_n^kp^k(1-p)^{n-k}=1$$
+	\item Multinomial expansion:
+$$(x_1+x_2+\cdots+x_m)^n=\sum\limits_{k_1+k_2+\cdots+k_m=n;k_1,k_2,\cdots,k_m\geq0}\frac{n!}{k_1!k_2!\cdots k_m!}x_1^{k_1}x_2^{k_2}\cdots x_m^{k_m}$$
+	\item $C_n^0+C_n^2+C_n^4+\cdots+C_n^m=2^{n-1}$, for even $n$, $m=n$, for odd $n$, $m=n-1$.
+	\item $C_n^1+C_n^3+C_n^5+\cdots+C_n^m=2^{n-1}$, for even $n$, $m=n-1$, for odd $n$, $m=n$.
+	\item $C_m^n=C_{m-1}^{n-1}+C_{m-1}^n$
+	\item $C_{n}^{n}+C_{n+1}^{n}+C_{n+2}^{n}+\cdots+C_{m}^{n}=C_{m+1}^{n+1}$
+	\item $(C_n^0)^2+(C_n^1)^2+\cdots+(C_n^n)^2=C_{2n}^n$
+	\end{enumerate}
+
+
+\end{document}
+
+
+
+
+

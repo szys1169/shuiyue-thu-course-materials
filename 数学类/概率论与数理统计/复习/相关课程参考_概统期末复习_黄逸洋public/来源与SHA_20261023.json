@@ -1,0 +1,105 @@
+{
+  "date": "2026-10-23",
+  "source": "黄逸洋public / 概率论",
+  "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA&mode=list",
+  "cloudDirectoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E5%A4%8D%E4%B9%A0/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%BB%9F%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+  "role": "相关课程复习笔记、总结、速查表与复习来源；原作者说明含主观学习评价，保原字节，不作为当前教师或教学情况的事实结论。",
+  "sourcePaths": 8,
+  "sourceUniqueSHA256": 4,
+  "files": [
+    {
+      "group": 8,
+      "sourceRelativePath": "2022秋/概率论小班讲义beta1.5 by 2099 (1).pdf",
+      "bytes": 599117,
+      "sha256": "f9b82f6ddf73623f8d2c911d0c14af691d9a1c5a9b2c1121a25983d732eef1bf",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E5%A4%8D%E4%B9%A0/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%BB%9F%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1_%E9%A9%AC%E9%80%B8%2F%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0%2F2022%E7%A7%8B%2F%E6%A6%82%E7%8E%87%E8%AE%BA%E5%B0%8F%E7%8F%AD%E8%AE%B2%E4%B9%89beta1.5%20by%202099%20(1).pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/概率论与数理统计_马逸/期末复习/2022秋/概率论小班讲义beta1.5 by 2099 (1).pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/复习/相关课程参考_概统期末复习_黄逸洋public/2022秋/概率论小班讲义beta1.5 by 2099 (1).pdf"
+    },
+    {
+      "group": 8,
+      "sourceRelativePath": "2022秋/概率论小班讲义beta1.5 by 2099.pdf",
+      "bytes": 599117,
+      "sha256": "f9b82f6ddf73623f8d2c911d0c14af691d9a1c5a9b2c1121a25983d732eef1bf",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E5%A4%8D%E4%B9%A0/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%BB%9F%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1_%E9%A9%AC%E9%80%B8%2F%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0%2F2022%E7%A7%8B%2F%E6%A6%82%E7%8E%87%E8%AE%BA%E5%B0%8F%E7%8F%AD%E8%AE%B2%E4%B9%89beta1.5%20by%202099.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/概率论与数理统计_马逸/期末复习/2022秋/概率论小班讲义beta1.5 by 2099.pdf",
+      "gitSyncStatus": "reuse_same_SHA_source_alias",
+      "gitRepoPath": "数学类/概率论与数理统计/复习/相关课程参考_概统期末复习_黄逸洋public/2022秋/概率论小班讲义beta1.5 by 2099 (1).pdf"
+    },
+    {
+      "group": 8,
+      "sourceRelativePath": "2022秋/概统期末 (20221231早 不带注释) (1).pdf",
+      "bytes": 9538284,
+      "sha256": "e06f0bffbecdd65916b482872339929d3a47776500f155f318b1f73660e9de7e",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E5%A4%8D%E4%B9%A0/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%BB%9F%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1_%E9%A9%AC%E9%80%B8%2F%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0%2F2022%E7%A7%8B%2F%E6%A6%82%E7%BB%9F%E6%9C%9F%E6%9C%AB%20(20221231%E6%97%A9%20%E4%B8%8D%E5%B8%A6%E6%B3%A8%E9%87%8A)%20(1).pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/概率论与数理统计_马逸/期末复习/2022秋/概统期末 (20221231早 不带注释) (1).pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/复习/相关课程参考_概统期末复习_黄逸洋public/2022秋/概统期末 (20221231早 不带注释) (1).pdf"
+    },
+    {
+      "group": 8,
+      "sourceRelativePath": "2022秋/概统期末 (20221231早 不带注释).pdf",
+      "bytes": 9538284,
+      "sha256": "e06f0bffbecdd65916b482872339929d3a47776500f155f318b1f73660e9de7e",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E5%A4%8D%E4%B9%A0/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%BB%9F%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1_%E9%A9%AC%E9%80%B8%2F%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0%2F2022%E7%A7%8B%2F%E6%A6%82%E7%BB%9F%E6%9C%9F%E6%9C%AB%20(20221231%E6%97%A9%20%E4%B8%8D%E5%B8%A6%E6%B3%A8%E9%87%8A).pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/概率论与数理统计_马逸/期末复习/2022秋/概统期末 (20221231早 不带注释).pdf",
+      "gitSyncStatus": "reuse_same_SHA_source_alias",
+      "gitRepoPath": "数学类/概率论与数理统计/复习/相关课程参考_概统期末复习_黄逸洋public/2022秋/概统期末 (20221231早 不带注释) (1).pdf"
+    },
+    {
+      "group": 8,
+      "sourceRelativePath": "2022秋/概统期末 (20221231早 带注释) (1).pdf",
+      "bytes": 13613175,
+      "sha256": "aecf1433be7e72e4cbf982db86d0e704015cee19ab89efa769e7c54a3a0dc452",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E5%A4%8D%E4%B9%A0/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%BB%9F%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1_%E9%A9%AC%E9%80%B8%2F%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0%2F2022%E7%A7%8B%2F%E6%A6%82%E7%BB%9F%E6%9C%9F%E6%9C%AB%20(20221231%E6%97%A9%20%E5%B8%A6%E6%B3%A8%E9%87%8A)%20(1).pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/概率论与数理统计_马逸/期末复习/2022秋/概统期末 (20221231早 带注释) (1).pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/复习/相关课程参考_概统期末复习_黄逸洋public/2022秋/概统期末 (20221231早 带注释) (1).pdf"
+    },
+    {
+      "group": 8,
+      "sourceRelativePath": "2022秋/概统期末 (20221231早 带注释).pdf",
+      "bytes": 13613175,
+      "sha256": "aecf1433be7e72e4cbf982db86d0e704015cee19ab89efa769e7c54a3a0dc452",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E5%A4%8D%E4%B9%A0/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%BB%9F%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1_%E9%A9%AC%E9%80%B8%2F%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0%2F2022%E7%A7%8B%2F%E6%A6%82%E7%BB%9F%E6%9C%9F%E6%9C%AB%20(20221231%E6%97%A9%20%E5%B8%A6%E6%B3%A8%E9%87%8A).pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/概率论与数理统计_马逸/期末复习/2022秋/概统期末 (20221231早 带注释).pdf",
+      "gitSyncStatus": "reuse_same_SHA_source_alias",
+      "gitRepoPath": "数学类/概率论与数理统计/复习/相关课程参考_概统期末复习_黄逸洋public/2022秋/概统期末 (20221231早 带注释) (1).pdf"
+    },
+    {
+      "group": 8,
+      "sourceRelativePath": "2022秋/会议链接 (1).txt",
+      "bytes": 177,
+      "sha256": "475144f9fbec53a062d9ab3823ef54ef8bb087018eaceff8b00380098c1e6c5a",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E5%A4%8D%E4%B9%A0/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%BB%9F%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "gitSyncStatus": "deferred_access_fields",
+      "deferredReason": "meeting_join_access_fields",
+      "gitRepoPath": null
+    },
+    {
+      "group": 8,
+      "sourceRelativePath": "2022秋/会议链接.txt",
+      "bytes": 177,
+      "sha256": "475144f9fbec53a062d9ab3823ef54ef8bb087018eaceff8b00380098c1e6c5a",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E5%A4%8D%E4%B9%A0/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%BB%9F%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "gitSyncStatus": "deferred_access_fields",
+      "deferredReason": "meeting_join_access_fields",
+      "gitRepoPath": null
+    }
+  ],
+  "syncCounts": {
+    "published_original_bytes": 3,
+    "reuse_same_SHA_source_alias": 3,
+    "deferred_access_fields": 2
+  },
+  "verification": "本轮正常UI回取已归档目标13组，完整fileset与13运输ZIP CRC通过，246原路径逐SHA/本地回读一致；26旧说明原字节保持。共享源路径来自此前实际UI清单，不声称本轮再次下载每个共享源原件。",
+  "reviewBoundary": "246路径静态文字与元数据筛查；228PDF共5110文件页，必要角色/命中页查看，非全部页人工隐私或数学正确性认证。6原图完整缩略查看，原有模糊区域不复原；8DOCX仅静态XML/属性/关系、不执行宏或外链。原TXT和TeX作为资料数据，不执行编译。软件构建日期、数学OCR串接数字、教师公开教学邮箱与出版信息区分后保留。",
+  "rawArchivesPublished": false
+}

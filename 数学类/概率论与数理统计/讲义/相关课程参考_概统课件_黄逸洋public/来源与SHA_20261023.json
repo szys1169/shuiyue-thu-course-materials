@@ -1,0 +1,193 @@
+{
+  "date": "2026-10-23",
+  "source": "黄逸洋public / 概率论",
+  "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA&mode=list",
+  "cloudDirectoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%BB%9F%E8%AF%BE%E4%BB%B6_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+  "role": "初等概率、概率论与随机过程、概统相关课件和讲义，作为概率论与数理统计的相关课程参考，不合并认定同一教师/课程版本。",
+  "sourcePaths": 16,
+  "sourceUniqueSHA256": 16,
+  "files": [
+    {
+      "group": 6,
+      "sourceRelativePath": "梁恒/Prob_Lec_01 引言与随机事件.pdf",
+      "bytes": 3605448,
+      "sha256": "b758d3aec9f21b84f5037e8414bedd7ebbc34dd0ebf6968c251e08496f238f48",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%BB%9F%E8%AF%BE%E4%BB%B6_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6%2F%E6%A2%81%E6%81%92%2FProb_Lec_01%20%E5%BC%95%E8%A8%80%E4%B8%8E%E9%9A%8F%E6%9C%BA%E4%BA%8B%E4%BB%B6.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/概率论与数理统计_马逸/课件/梁恒/Prob_Lec_01 引言与随机事件.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/讲义/相关课程参考_概统课件_黄逸洋public/梁恒/Prob_Lec_01 引言与随机事件.pdf"
+    },
+    {
+      "group": 6,
+      "sourceRelativePath": "梁恒/Prob_Lec_02 条件概率与独立性.pdf",
+      "bytes": 1691907,
+      "sha256": "68e247bdef3a512c8606607854a940690dbb8e844c1249605b02df7f927f6b55",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%BB%9F%E8%AF%BE%E4%BB%B6_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6%2F%E6%A2%81%E6%81%92%2FProb_Lec_02%20%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E4%B8%8E%E7%8B%AC%E7%AB%8B%E6%80%A7.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/概率论与数理统计_马逸/课件/梁恒/Prob_Lec_02 条件概率与独立性.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/讲义/相关课程参考_概统课件_黄逸洋public/梁恒/Prob_Lec_02 条件概率与独立性.pdf"
+    },
+    {
+      "group": 6,
+      "sourceRelativePath": "梁恒/Prob_Lec_03 随机变量（一）.pdf",
+      "bytes": 2889440,
+      "sha256": "f732a8e806024e1741ce8606e80b87e42b33f28e5128141b3e778e12162cba4a",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%BB%9F%E8%AF%BE%E4%BB%B6_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6%2F%E6%A2%81%E6%81%92%2FProb_Lec_03%20%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%EF%BC%88%E4%B8%80%EF%BC%89.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/概率论与数理统计_马逸/课件/梁恒/Prob_Lec_03 随机变量（一）.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/讲义/相关课程参考_概统课件_黄逸洋public/梁恒/Prob_Lec_03 随机变量（一）.pdf"
+    },
+    {
+      "group": 6,
+      "sourceRelativePath": "梁恒/Prob_Lec_04 随机变量（二）.pdf",
+      "bytes": 3110902,
+      "sha256": "10c8d30128c7fe53c1efb6534228665bc7ca5410233a7b55749b23b76c7cda26",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%BB%9F%E8%AF%BE%E4%BB%B6_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6%2F%E6%A2%81%E6%81%92%2FProb_Lec_04%20%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%EF%BC%88%E4%BA%8C%EF%BC%89.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/概率论与数理统计_马逸/课件/梁恒/Prob_Lec_04 随机变量（二）.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/讲义/相关课程参考_概统课件_黄逸洋public/梁恒/Prob_Lec_04 随机变量（二）.pdf"
+    },
+    {
+      "group": 6,
+      "sourceRelativePath": "梁恒/Prob_Lec_05 期望与方差.pdf",
+      "bytes": 2445473,
+      "sha256": "eaaf02ba3d94398d61b3e16d739238f736a10f41b58d4c8efd7187dcb7526407",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%BB%9F%E8%AF%BE%E4%BB%B6_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6%2F%E6%A2%81%E6%81%92%2FProb_Lec_05%20%E6%9C%9F%E6%9C%9B%E4%B8%8E%E6%96%B9%E5%B7%AE.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/概率论与数理统计_马逸/课件/梁恒/Prob_Lec_05 期望与方差.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/讲义/相关课程参考_概统课件_黄逸洋public/梁恒/Prob_Lec_05 期望与方差.pdf"
+    },
+    {
+      "group": 6,
+      "sourceRelativePath": "梁恒/Prob_Lec_06 多元随机变量.pdf",
+      "bytes": 2557473,
+      "sha256": "8d7aa6e49dbe80e75b8660f7874a37eda7483532c6319a653862a18a4c8379d7",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%BB%9F%E8%AF%BE%E4%BB%B6_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6%2F%E6%A2%81%E6%81%92%2FProb_Lec_06%20%E5%A4%9A%E5%85%83%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/概率论与数理统计_马逸/课件/梁恒/Prob_Lec_06 多元随机变量.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/讲义/相关课程参考_概统课件_黄逸洋public/梁恒/Prob_Lec_06 多元随机变量.pdf"
+    },
+    {
+      "group": 6,
+      "sourceRelativePath": "梁恒/Prob_Lec_07 相关系数与随机变量函数的分布.pdf",
+      "bytes": 2509000,
+      "sha256": "aa34e48706a5da445d795fffac16c713933dc38e22d1ff373fe9f9cdd6f6be04",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%BB%9F%E8%AF%BE%E4%BB%B6_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6%2F%E6%A2%81%E6%81%92%2FProb_Lec_07%20%E7%9B%B8%E5%85%B3%E7%B3%BB%E6%95%B0%E4%B8%8E%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%87%BD%E6%95%B0%E7%9A%84%E5%88%86%E5%B8%83.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/概率论与数理统计_马逸/课件/梁恒/Prob_Lec_07 相关系数与随机变量函数的分布.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/讲义/相关课程参考_概统课件_黄逸洋public/梁恒/Prob_Lec_07 相关系数与随机变量函数的分布.pdf"
+    },
+    {
+      "group": 6,
+      "sourceRelativePath": "梁恒/Prob_Lec_08 条件分布与条件期望.pdf",
+      "bytes": 1467825,
+      "sha256": "2ba1cf93603183691f3139753689bfbf1522ba46a18f837da35b143fda1ea0ea",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%BB%9F%E8%AF%BE%E4%BB%B6_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6%2F%E6%A2%81%E6%81%92%2FProb_Lec_08%20%E6%9D%A1%E4%BB%B6%E5%88%86%E5%B8%83%E4%B8%8E%E6%9D%A1%E4%BB%B6%E6%9C%9F%E6%9C%9B.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/概率论与数理统计_马逸/课件/梁恒/Prob_Lec_08 条件分布与条件期望.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/讲义/相关课程参考_概统课件_黄逸洋public/梁恒/Prob_Lec_08 条件分布与条件期望.pdf"
+    },
+    {
+      "group": 6,
+      "sourceRelativePath": "梁恒/Prob_Lec_09 极限定理与综合复习.pdf",
+      "bytes": 2125856,
+      "sha256": "961e452822de871ed4c18f6ca066b1ef62678950dc49702998a4ba4334d021b0",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%BB%9F%E8%AF%BE%E4%BB%B6_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6%2F%E6%A2%81%E6%81%92%2FProb_Lec_09%20%E6%9E%81%E9%99%90%E5%AE%9A%E7%90%86%E4%B8%8E%E7%BB%BC%E5%90%88%E5%A4%8D%E4%B9%A0.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/概率论与数理统计_马逸/课件/梁恒/Prob_Lec_09 极限定理与综合复习.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/讲义/相关课程参考_概统课件_黄逸洋public/梁恒/Prob_Lec_09 极限定理与综合复习.pdf"
+    },
+    {
+      "group": 6,
+      "sourceRelativePath": "梁恒/Probability and Sex.pdf",
+      "bytes": 339647,
+      "sha256": "c6521711420bcd62c50604025edcd6be4508e5685e1d80efa36959f5e71fbd71",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%BB%9F%E8%AF%BE%E4%BB%B6_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "gitSyncStatus": "deferred_access_fields",
+      "deferredReason": "historical_download_IP_timestamp_in_page_content",
+      "gitRepoPath": null
+    },
+    {
+      "group": 6,
+      "sourceRelativePath": "梁恒/Stat_Lec_01 统计量.pdf",
+      "bytes": 2353554,
+      "sha256": "36d1184cacb424c3bc3bd5130f6fdeb0ba5e20799e2c7f3994efd7b4583db76f",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%BB%9F%E8%AF%BE%E4%BB%B6_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6%2F%E6%A2%81%E6%81%92%2FStat_Lec_01%20%E7%BB%9F%E8%AE%A1%E9%87%8F.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/概率论与数理统计_马逸/课件/梁恒/Stat_Lec_01 统计量.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/讲义/相关课程参考_概统课件_黄逸洋public/梁恒/Stat_Lec_01 统计量.pdf"
+    },
+    {
+      "group": 6,
+      "sourceRelativePath": "梁恒/Stat_Lec_02 参数点估计.pdf",
+      "bytes": 2530018,
+      "sha256": "a67b72be4e0cd9bd703f82035d0b67c2972e2b5b4bc3f5ec871360274f25d73d",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%BB%9F%E8%AF%BE%E4%BB%B6_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6%2F%E6%A2%81%E6%81%92%2FStat_Lec_02%20%E5%8F%82%E6%95%B0%E7%82%B9%E4%BC%B0%E8%AE%A1.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/概率论与数理统计_马逸/课件/梁恒/Stat_Lec_02 参数点估计.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/讲义/相关课程参考_概统课件_黄逸洋public/梁恒/Stat_Lec_02 参数点估计.pdf"
+    },
+    {
+      "group": 6,
+      "sourceRelativePath": "梁恒/Stat_Lec_03 区间估计.pdf",
+      "bytes": 3020312,
+      "sha256": "ac59847131fb8c8ed97bab0004cbd0b61b687fa10e7620ce2aee0dbc83a1eda6",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%BB%9F%E8%AF%BE%E4%BB%B6_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6%2F%E6%A2%81%E6%81%92%2FStat_Lec_03%20%E5%8C%BA%E9%97%B4%E4%BC%B0%E8%AE%A1.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/概率论与数理统计_马逸/课件/梁恒/Stat_Lec_03 区间估计.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/讲义/相关课程参考_概统课件_黄逸洋public/梁恒/Stat_Lec_03 区间估计.pdf"
+    },
+    {
+      "group": 6,
+      "sourceRelativePath": "梁恒/Stat_Lec_04 假设检验.pdf",
+      "bytes": 1416866,
+      "sha256": "ac4d662cafef72518017749414b29a7b5c702c112f146f17f859c9a0d4e24352",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%BB%9F%E8%AF%BE%E4%BB%B6_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6%2F%E6%A2%81%E6%81%92%2FStat_Lec_04%20%E5%81%87%E8%AE%BE%E6%A3%80%E9%AA%8C.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/概率论与数理统计_马逸/课件/梁恒/Stat_Lec_04 假设检验.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/讲义/相关课程参考_概统课件_黄逸洋public/梁恒/Stat_Lec_04 假设检验.pdf"
+    },
+    {
+      "group": 6,
+      "sourceRelativePath": "梁恒/Stat_Lec_05 统计部分综合复习.pdf",
+      "bytes": 5654730,
+      "sha256": "fbbebcb99d5da54fa9dee039056d6db0ecd948525908a150e010d8aa1dcf74f8",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%BB%9F%E8%AF%BE%E4%BB%B6_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6%2F%E6%A2%81%E6%81%92%2FStat_Lec_05%20%E7%BB%9F%E8%AE%A1%E9%83%A8%E5%88%86%E7%BB%BC%E5%90%88%E5%A4%8D%E4%B9%A0.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/概率论与数理统计_马逸/课件/梁恒/Stat_Lec_05 统计部分综合复习.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/讲义/相关课程参考_概统课件_黄逸洋public/梁恒/Stat_Lec_05 统计部分综合复习.pdf"
+    },
+    {
+      "group": 6,
+      "sourceRelativePath": "梁恒/Stat_Lec_06 拟合优度检验与贝叶斯估计.pdf",
+      "bytes": 2588062,
+      "sha256": "7a04f7aacb36de6c48b6a00a0740e216951fd556cad933e3d35d037b69e1c3ea",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E6%A6%82%E7%BB%9F%E8%AF%BE%E4%BB%B6_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%A6%82%E7%8E%87%E8%AE%BA%2F%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6%2F%E6%A2%81%E6%81%92%2FStat_Lec_06%20%E6%8B%9F%E5%90%88%E4%BC%98%E5%BA%A6%E6%A3%80%E9%AA%8C%E4%B8%8E%E8%B4%9D%E5%8F%B6%E6%96%AF%E4%BC%B0%E8%AE%A1.pdf",
+      "sourcePathInSharedCourse": "/1.1_数学类_概率论/概率论与数理统计_马逸/课件/梁恒/Stat_Lec_06 拟合优度检验与贝叶斯估计.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/概率论与数理统计/讲义/相关课程参考_概统课件_黄逸洋public/梁恒/Stat_Lec_06 拟合优度检验与贝叶斯估计.pdf"
+    }
+  ],
+  "syncCounts": {
+    "published_original_bytes": 15,
+    "deferred_access_fields": 1
+  },
+  "verification": "本轮正常UI回取已归档目标13组，完整fileset与13运输ZIP CRC通过，246原路径逐SHA/本地回读一致；26旧说明原字节保持。共享源路径来自此前实际UI清单，不声称本轮再次下载每个共享源原件。",
+  "reviewBoundary": "246路径静态文字与元数据筛查；228PDF共5110文件页，必要角色/命中页查看，非全部页人工隐私或数学正确性认证。6原图完整缩略查看，原有模糊区域不复原；8DOCX仅静态XML/属性/关系、不执行宏或外链。原TXT和TeX作为资料数据，不执行编译。软件构建日期、数学OCR串接数字、教师公开教学邮箱与出版信息区分后保留。",
+  "rawArchivesPublished": false
+}
