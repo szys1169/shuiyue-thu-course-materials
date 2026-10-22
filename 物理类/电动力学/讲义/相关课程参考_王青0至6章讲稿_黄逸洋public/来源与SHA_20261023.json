@@ -1,0 +1,97 @@
+{
+  "date": "2026-10-23",
+  "source": "黄逸洋public",
+  "course": "电动力学",
+  "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.3_%E7%94%B5%E7%B1%BB_%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6%2F%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6-%E7%8E%8B%E9%9D%92-2025%E6%98%A5%E6%89%80%E6%9C%89%E8%AE%B2%E4%B9%89PPT%E8%AE%A8%E8%AE%BA%E9%97%AE%E9%A2%98%E4%BB%A5%E5%8F%8A%E4%B8%89%E6%AC%A1%E8%80%83%E8%AF%95%E7%9A%84%E5%87%86%E5%A4%87%E6%95%B4%E7%90%86%E8%B5%84%E6%96%99%2FLecture%20Handouts&mode=list",
+  "cloudDirectoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E7%8E%8B%E9%9D%920%E8%87%B36%E7%AB%A0%E8%AE%B2%E7%A8%BF_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+  "role": "历史讲稿、课件及笔记来源，原页序和图示保持，不据来源年份断言当前课程指定材料。",
+  "files": [
+    {
+      "group": 8,
+      "sourceFileName": "ELECLEC0.pdf",
+      "sourcePathInSharedCourse": "电动力学-王青-2025春所有讲义PPT讨论问题以及三次考试的准备整理资料/Lecture Handouts/ELECLEC0.pdf",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.3_%E7%94%B5%E7%B1%BB_%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6%2F%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6-%E7%8E%8B%E9%9D%92-2025%E6%98%A5%E6%89%80%E6%9C%89%E8%AE%B2%E4%B9%89PPT%E8%AE%A8%E8%AE%BA%E9%97%AE%E9%A2%98%E4%BB%A5%E5%8F%8A%E4%B8%89%E6%AC%A1%E8%80%83%E8%AF%95%E7%9A%84%E5%87%86%E5%A4%87%E6%95%B4%E7%90%86%E8%B5%84%E6%96%99%2FLecture%20Handouts%2FELECLEC0.pdf",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E7%8E%8B%E9%9D%920%E8%87%B36%E7%AB%A0%E8%AE%B2%E7%A8%BF_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "bytes": 127506,
+      "sha256": "11fd03a883be91111b0305da67af6461bd5bc5bc1e6f5ea300b97a08c0a4c24f",
+      "PDFFilePages": 9,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "物理类/电动力学/讲义/相关课程参考_王青0至6章讲稿_黄逸洋public/ELECLEC0.pdf"
+    },
+    {
+      "group": 8,
+      "sourceFileName": "ELECLEC1.pdf",
+      "sourcePathInSharedCourse": "电动力学-王青-2025春所有讲义PPT讨论问题以及三次考试的准备整理资料/Lecture Handouts/ELECLEC1.pdf",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.3_%E7%94%B5%E7%B1%BB_%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6%2F%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6-%E7%8E%8B%E9%9D%92-2025%E6%98%A5%E6%89%80%E6%9C%89%E8%AE%B2%E4%B9%89PPT%E8%AE%A8%E8%AE%BA%E9%97%AE%E9%A2%98%E4%BB%A5%E5%8F%8A%E4%B8%89%E6%AC%A1%E8%80%83%E8%AF%95%E7%9A%84%E5%87%86%E5%A4%87%E6%95%B4%E7%90%86%E8%B5%84%E6%96%99%2FLecture%20Handouts%2FELECLEC1.pdf",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E7%8E%8B%E9%9D%920%E8%87%B36%E7%AB%A0%E8%AE%B2%E7%A8%BF_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "bytes": 198471,
+      "sha256": "e1425813b4c2f65bf0e282a5d3c0b2d56ff8b19f64f084ea07dfe090ef6bed47",
+      "PDFFilePages": 13,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "物理类/电动力学/讲义/相关课程参考_王青0至6章讲稿_黄逸洋public/ELECLEC1.pdf"
+    },
+    {
+      "group": 8,
+      "sourceFileName": "ELECLEC2.pdf",
+      "sourcePathInSharedCourse": "电动力学-王青-2025春所有讲义PPT讨论问题以及三次考试的准备整理资料/Lecture Handouts/ELECLEC2.pdf",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.3_%E7%94%B5%E7%B1%BB_%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6%2F%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6-%E7%8E%8B%E9%9D%92-2025%E6%98%A5%E6%89%80%E6%9C%89%E8%AE%B2%E4%B9%89PPT%E8%AE%A8%E8%AE%BA%E9%97%AE%E9%A2%98%E4%BB%A5%E5%8F%8A%E4%B8%89%E6%AC%A1%E8%80%83%E8%AF%95%E7%9A%84%E5%87%86%E5%A4%87%E6%95%B4%E7%90%86%E8%B5%84%E6%96%99%2FLecture%20Handouts%2FELECLEC2.pdf",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E7%8E%8B%E9%9D%920%E8%87%B36%E7%AB%A0%E8%AE%B2%E7%A8%BF_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "bytes": 254782,
+      "sha256": "00402e38ded30dcdf6d391f9d88805adf9df80849d58391b0f1fc9445fdf8453",
+      "PDFFilePages": 23,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "物理类/电动力学/讲义/相关课程参考_王青0至6章讲稿_黄逸洋public/ELECLEC2.pdf"
+    },
+    {
+      "group": 8,
+      "sourceFileName": "ELECLEC3.pdf",
+      "sourcePathInSharedCourse": "电动力学-王青-2025春所有讲义PPT讨论问题以及三次考试的准备整理资料/Lecture Handouts/ELECLEC3.pdf",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.3_%E7%94%B5%E7%B1%BB_%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6%2F%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6-%E7%8E%8B%E9%9D%92-2025%E6%98%A5%E6%89%80%E6%9C%89%E8%AE%B2%E4%B9%89PPT%E8%AE%A8%E8%AE%BA%E9%97%AE%E9%A2%98%E4%BB%A5%E5%8F%8A%E4%B8%89%E6%AC%A1%E8%80%83%E8%AF%95%E7%9A%84%E5%87%86%E5%A4%87%E6%95%B4%E7%90%86%E8%B5%84%E6%96%99%2FLecture%20Handouts%2FELECLEC3.pdf",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E7%8E%8B%E9%9D%920%E8%87%B36%E7%AB%A0%E8%AE%B2%E7%A8%BF_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "bytes": 200892,
+      "sha256": "2cdcc75966d954a9eaddc5adc191756a3337c457280d0560064c295261f864f3",
+      "PDFFilePages": 16,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "物理类/电动力学/讲义/相关课程参考_王青0至6章讲稿_黄逸洋public/ELECLEC3.pdf"
+    },
+    {
+      "group": 8,
+      "sourceFileName": "ELECLEC4.pdf",
+      "sourcePathInSharedCourse": "电动力学-王青-2025春所有讲义PPT讨论问题以及三次考试的准备整理资料/Lecture Handouts/ELECLEC4.pdf",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.3_%E7%94%B5%E7%B1%BB_%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6%2F%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6-%E7%8E%8B%E9%9D%92-2025%E6%98%A5%E6%89%80%E6%9C%89%E8%AE%B2%E4%B9%89PPT%E8%AE%A8%E8%AE%BA%E9%97%AE%E9%A2%98%E4%BB%A5%E5%8F%8A%E4%B8%89%E6%AC%A1%E8%80%83%E8%AF%95%E7%9A%84%E5%87%86%E5%A4%87%E6%95%B4%E7%90%86%E8%B5%84%E6%96%99%2FLecture%20Handouts%2FELECLEC4.pdf",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E7%8E%8B%E9%9D%920%E8%87%B36%E7%AB%A0%E8%AE%B2%E7%A8%BF_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "bytes": 171664,
+      "sha256": "b3afdd6b4ffbd61669f603bff4ed3516b855e20b503c78db7352c4902ae64d5e",
+      "PDFFilePages": 10,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "物理类/电动力学/讲义/相关课程参考_王青0至6章讲稿_黄逸洋public/ELECLEC4.pdf"
+    },
+    {
+      "group": 8,
+      "sourceFileName": "ELECLEC5.pdf",
+      "sourcePathInSharedCourse": "电动力学-王青-2025春所有讲义PPT讨论问题以及三次考试的准备整理资料/Lecture Handouts/ELECLEC5.pdf",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.3_%E7%94%B5%E7%B1%BB_%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6%2F%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6-%E7%8E%8B%E9%9D%92-2025%E6%98%A5%E6%89%80%E6%9C%89%E8%AE%B2%E4%B9%89PPT%E8%AE%A8%E8%AE%BA%E9%97%AE%E9%A2%98%E4%BB%A5%E5%8F%8A%E4%B8%89%E6%AC%A1%E8%80%83%E8%AF%95%E7%9A%84%E5%87%86%E5%A4%87%E6%95%B4%E7%90%86%E8%B5%84%E6%96%99%2FLecture%20Handouts%2FELECLEC5.pdf",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E7%8E%8B%E9%9D%920%E8%87%B36%E7%AB%A0%E8%AE%B2%E7%A8%BF_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "bytes": 195371,
+      "sha256": "e3764713e14ec49e1ac388d6c7c832780badf663193157623c2a69e4516cedac",
+      "PDFFilePages": 14,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "物理类/电动力学/讲义/相关课程参考_王青0至6章讲稿_黄逸洋public/ELECLEC5.pdf"
+    },
+    {
+      "group": 8,
+      "sourceFileName": "ELECLEC6.pdf",
+      "sourcePathInSharedCourse": "电动力学-王青-2025春所有讲义PPT讨论问题以及三次考试的准备整理资料/Lecture Handouts/ELECLEC6.pdf",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.3_%E7%94%B5%E7%B1%BB_%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6%2F%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6-%E7%8E%8B%E9%9D%92-2025%E6%98%A5%E6%89%80%E6%9C%89%E8%AE%B2%E4%B9%89PPT%E8%AE%A8%E8%AE%BA%E9%97%AE%E9%A2%98%E4%BB%A5%E5%8F%8A%E4%B8%89%E6%AC%A1%E8%80%83%E8%AF%95%E7%9A%84%E5%87%86%E5%A4%87%E6%95%B4%E7%90%86%E8%B5%84%E6%96%99%2FLecture%20Handouts%2FELECLEC6.pdf",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E7%8E%8B%E9%9D%920%E8%87%B36%E7%AB%A0%E8%AE%B2%E7%A8%BF_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "bytes": 215586,
+      "sha256": "f7ca419130aaa079d44738e87ce75ef2c8f966a4f9de5eb6c6cedcd413cdd7bc",
+      "PDFFilePages": 15,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "物理类/电动力学/讲义/相关课程参考_王青0至6章讲稿_黄逸洋public/ELECLEC6.pdf"
+    }
+  ],
+  "verification": "仅核本轮已归档的52个本地原件逐尺寸/SHA并联结实际云盘来源清单；本批未重新下载全部云盘原件或作云盘写入。本地52原件及33旧说明保持原字节，仓库来源说明据本次检查派生。电子电路另6报告待核、DS_Store和其它未归档原件不在本批。",
+  "reviewBoundary": "52候选独立做静态筛查：42PDF共999文件页核文字、Info/XMP、批注/表单/附件，85必要首末、身份空栏与角色页实际查看；10旧DOC按FIB/CLX核正文及OLE属性/Table字符串，46恢复内嵌栅格图以联系表查看，其中身份栏另放大核对。不是999页全部人工隐私审读、完整旧Office版式渲染或答案正确性认证。未执行宏、对象、源码、公式或外链。公开教学联系、正常作者署名和软件Producer有效日期不当私人值一刀切剔除。",
+  "rawArchivesPublished": false
+}

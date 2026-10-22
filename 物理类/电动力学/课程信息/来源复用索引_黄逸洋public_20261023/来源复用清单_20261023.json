@@ -1,0 +1,100 @@
+{
+  "source": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.3_%E7%94%B5%E7%B1%BB_%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6&mode=list",
+  "localSHA": [
+    {
+      "source": "电动力学-王青-2025春所有讲义PPT讨论问题以及三次考试的准备整理资料/PPT/lecture-student.pdf",
+      "sha256": "51912f809b52eea0fd1d35e7f1c237f23c6039d145dc5d5869ed09de5be9c74e",
+      "existing": "讲义\\王青_年份未核\\王青电动力学课件.pdf",
+      "bytes": 10713591
+    },
+    {
+      "source": "电动力学-王青-2025春所有讲义PPT讨论问题以及三次考试的准备整理资料/Exams/EXAM22-3.pdf",
+      "sha256": "a61a16e52f0f47719e81951075697b2419bb3cabb6bfb2cf79f8dbc1791fc7b6",
+      "existing": "往年题\\2022春\\EXAM22-3.pdf",
+      "bytes": 188377
+    },
+    {
+      "source": "电动力学-王青-2025春所有讲义PPT讨论问题以及三次考试的准备整理资料/Exams/EXAM22-2.pdf.pdf",
+      "sha256": "a56d4e56bec1c0660b89ff1c71a84d74aa7c13ceb01fe7d8b88cfd0594ee74f2",
+      "existing": "往年题\\2022春\\EXAM22-2.pdf",
+      "bytes": 161372
+    }
+  ],
+  "cloudUIPaths": [
+    {
+      "existing": "讲义\\王青_年份未核\\王青电动力学课件.pdf",
+      "preview": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6/%E8%AE%B2%E4%B9%89/%E7%8E%8B%E9%9D%92_%E5%B9%B4%E4%BB%BD%E6%9C%AA%E6%A0%B8/%E7%8E%8B%E9%9D%92%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6%E8%AF%BE%E4%BB%B6.pdf",
+      "uiExists": true
+    },
+    {
+      "existing": "往年题/2022春/EXAM22-2.pdf",
+      "preview": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6/%E5%BE%80%E5%B9%B4%E9%A2%98/2022%E6%98%A5/EXAM22-2.pdf",
+      "uiExists": true
+    },
+    {
+      "existing": "往年题/2022春/EXAM22-3.pdf",
+      "preview": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6/%E5%BE%80%E5%B9%B4%E9%A2%98/2022%E6%98%A5/EXAM22-3.pdf",
+      "uiExists": true
+    }
+  ],
+  "newGroups": [
+    {
+      "category": "讲义",
+      "target": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E7%8E%8B%E9%9D%922025%E8%AF%BE%E4%BB%B6%E5%88%86%E5%91%A8%E7%89%88_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "files": 14
+    },
+    {
+      "category": "讲义",
+      "target": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E7%8E%8B%E9%9D%920%E8%87%B36%E7%AB%A0%E8%AE%B2%E7%A8%BF_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "files": 7
+    },
+    {
+      "category": "习题与解答",
+      "target": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E9%83%AD%E7%A1%95%E9%B8%BF%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "files": 1
+    },
+    {
+      "category": "往年题",
+      "target": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_2022%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%80%83%E8%AF%95_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "files": 1
+    },
+    {
+      "category": "复习",
+      "target": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6/%E5%A4%8D%E4%B9%A0/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E7%94%B5%E5%8A%A8%E6%9C%9F%E6%9C%AB%E6%89%8B%E5%86%99%E6%95%B4%E7%90%86_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "files": 1
+    }
+  ],
+  "GitSyncVerification20261023": {
+    "historicalSourceEntries": 3,
+    "existingGitExactSHAPaths": 2,
+    "historicalCanonicalLecturePathNotTrackedInCurrentGit": 1,
+    "freshRawDownloadsInThisBatch": 0,
+    "checks": [
+      {
+        "repoPath": "物理类/电动力学/讲义/王青_年份未核/王青电动力学课件.pdf",
+        "expectedBytes": 10713591,
+        "expectedSHA256": "51912f809b52eea0fd1d35e7f1c237f23c6039d145dc5d5869ed09de5be9c74e",
+        "tracked": false,
+        "sameAsExpectedSHA": false,
+        "sourcePath": "电动力学-王青-2025春所有讲义PPT讨论问题以及三次考试的准备整理资料/PPT/lecture-student.pdf"
+      },
+      {
+        "repoPath": "物理类/电动力学/往年题/2022春/EXAM22-3.pdf",
+        "expectedBytes": 188377,
+        "expectedSHA256": "a61a16e52f0f47719e81951075697b2419bb3cabb6bfb2cf79f8dbc1791fc7b6",
+        "tracked": true,
+        "sameAsExpectedSHA": true,
+        "sourcePath": "电动力学-王青-2025春所有讲义PPT讨论问题以及三次考试的准备整理资料/Exams/EXAM22-3.pdf"
+      },
+      {
+        "repoPath": "物理类/电动力学/往年题/2022春/EXAM22-2.pdf",
+        "expectedBytes": 161372,
+        "expectedSHA256": "a56d4e56bec1c0660b89ff1c71a84d74aa7c13ceb01fe7d8b88cfd0594ee74f2",
+        "tracked": true,
+        "sameAsExpectedSHA": true,
+        "sourcePath": "电动力学-王青-2025春所有讲义PPT讨论问题以及三次考试的准备整理资料/Exams/EXAM22-2.pdf.pdf"
+      }
+    ],
+    "boundary": "本地/cloud既有复用与Git状态分开记录；本批不新增旧总课件原文，不声称3原件本批重读/回取。"
+  }
+}

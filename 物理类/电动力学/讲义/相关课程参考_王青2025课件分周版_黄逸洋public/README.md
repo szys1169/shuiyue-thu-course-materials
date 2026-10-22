@@ -1,0 +1,28 @@
+# 电动力学：黄逸洋public讲义来源
+
+来源：[共享目录](https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.3_%E7%94%B5%E7%B1%BB_%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6%2F%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6-%E7%8E%8B%E9%9D%92-2025%E6%98%A5%E6%89%80%E6%9C%89%E8%AE%B2%E4%B9%89PPT%E8%AE%A8%E8%AE%BA%E9%97%AE%E9%A2%98%E4%BB%A5%E5%8F%8A%E4%B8%89%E6%AC%A1%E8%80%83%E8%AF%95%E7%9A%84%E5%87%86%E5%A4%87%E6%95%B4%E7%90%86%E8%B5%84%E6%96%99%2FPPT&mode=list)，对应[已归档云盘分组](https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E7%8E%8B%E9%9D%922025%E8%AF%BE%E4%BB%B6%E5%88%86%E5%91%A8%E7%89%88_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic)。
+
+历史讲稿、课件及笔记来源，原页序和图示保持，不据来源年份断言当前课程指定材料。
+
+- [lecture-2025-1stWeek.pdf](lecture-2025-1stWeek.pdf)：原字节，47文件页。
+- [lecture-2025-2ndWeek.pdf](lecture-2025-2ndWeek.pdf)：原字节，64文件页。
+- [lecture-2025-3rdWeek.pdf](lecture-2025-3rdWeek.pdf)：原字节，65文件页。
+- [lecture-2025-4thWeek.pdf](lecture-2025-4thWeek.pdf)：原字节，56文件页。
+- [lecture-2025-5thWeek.pdf](lecture-2025-5thWeek.pdf)：原字节，19文件页。
+- [lecture-2025-6thWeek.pdf](lecture-2025-6thWeek.pdf)：原字节，32文件页。
+- [lecture-2025-7thWeek.pdf](lecture-2025-7thWeek.pdf)：原字节，63文件页。
+- [lecture-2025-8thWeek.pdf](lecture-2025-8thWeek.pdf)：原字节，29文件页。
+- [lecture-2025-9thWeek.pdf](lecture-2025-9thWeek.pdf)：原字节，34文件页。
+- [lecture-2025-10thWeek.pdf](lecture-2025-10thWeek.pdf)：原字节，49文件页。
+- [lecture-2025-13thWeek.pdf](lecture-2025-13thWeek.pdf)：原字节，42文件页。
+- [lecture-2025-14thWeek.pdf](lecture-2025-14thWeek.pdf)：原字节，29文件页。
+- [lecture-2025-15thWeek.pdf](lecture-2025-15thWeek.pdf)：原字节，62文件页。
+- [lecture-2025-纯习题.pdf](lecture-2025-%E7%BA%AF%E4%B9%A0%E9%A2%98.pdf)：原字节，22文件页。
+
+[逐件来源与SHA](来源与SHA_20261023.json)。
+
+仅核本轮已归档的52个本地原件逐尺寸/SHA并联结实际云盘来源清单；本批未重新下载全部云盘原件或作云盘写入。本地52原件及33旧说明保持原字节，仓库来源说明据本次检查派生。电子电路另6报告待核、DS_Store和其它未归档原件不在本批。
+
+52候选独立做静态筛查：42PDF共999文件页核文字、Info/XMP、批注/表单/附件，85必要首末、身份空栏与角色页实际查看；10旧DOC按FIB/CLX核正文及OLE属性/Table字符串，46恢复内嵌栅格图以联系表查看，其中身份栏另放大核对。不是999页全部人工隐私审读、完整旧Office版式渲染或答案正确性认证。未执行宏、对象、源码、公式或外链。公开教学联系、正常作者署名和软件Producer有效日期不当私人值一刀切剔除。
+
+源文件中的既有留白、题解和标记不作修订。原ZIP/RAR、下载过程或审阅文件不发布。
