@@ -1,0 +1,1238 @@
+{
+  "source": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E4%BD%9C%E4%B8%9A%E5%92%8C%E7%AD%94%E6%A1%88%2F%E7%AC%AC9%E8%AE%B2%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%E5%92%8C%E4%BD%9C%E4%B8%9A%E6%80%BB%E7%BB%93(%E6%B5%81%E5%9F%9F%E6%B1%87%E6%B5%81%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%A1%E7%AE%972).pdf",
+  "sourceLabel": "黄逸洋public / 水文学_马逸",
+  "role": "流域产汇流、水文统计、设计洪水与地下水等题目和不同来源参考，原有版本分别保留；包含课堂题图与静态计算源码，未执行、未核数学正确性。",
+  "items": [
+    {
+      "sourceAlias": "H0001",
+      "originalName": "第9讲参考答案和作业总结(流域汇流分析与计算2).pdf",
+      "bytes": 407600,
+      "sha256": "2dabee266df610300596d16d0571f432ae222854b4c5877d49c35d68bdcf5b65",
+      "relativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/作业和答案/第9讲参考答案和作业总结(流域汇流分析与计算2).pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E4%BD%9C%E4%B8%9A%E5%92%8C%E7%AD%94%E6%A1%88%2F%E7%AC%AC9%E8%AE%B2%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%E5%92%8C%E4%BD%9C%E4%B8%9A%E6%80%BB%E7%BB%93(%E6%B5%81%E5%9F%9F%E6%B1%87%E6%B5%81%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%A1%E7%AE%972).pdf",
+      "sourcePath": "水文学_马逸/作业和答案/第9讲参考答案和作业总结(流域汇流分析与计算2).pdf"
+    },
+    {
+      "sourceAlias": "H0002",
+      "originalName": "第9讲参考答案和作业总结(流域汇流分析与计算1).pdf",
+      "bytes": 321520,
+      "sha256": "b039b5c2357d9e37965c38096ac1c2952bcf8fe870631881914d1170d1620f35",
+      "relativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/作业和答案/第9讲参考答案和作业总结(流域汇流分析与计算1).pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E4%BD%9C%E4%B8%9A%E5%92%8C%E7%AD%94%E6%A1%88%2F%E7%AC%AC9%E8%AE%B2%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%E5%92%8C%E4%BD%9C%E4%B8%9A%E6%80%BB%E7%BB%93(%E6%B5%81%E5%9F%9F%E6%B1%87%E6%B5%81%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%A1%E7%AE%971).pdf",
+      "sourcePath": "水文学_马逸/作业和答案/第9讲参考答案和作业总结(流域汇流分析与计算1).pdf"
+    },
+    {
+      "sourceAlias": "H0003",
+      "originalName": "第8讲课后作业_参考答案和作业总结(流域产流分析和计算).pdf",
+      "bytes": 1268630,
+      "sha256": "4f3885e822392b06a885adaa8399e0baa1c9a87ce2622f19374e376457637a1e",
+      "relativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/作业和答案/第8讲课后作业_参考答案和作业总结(流域产流分析和计算).pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E4%BD%9C%E4%B8%9A%E5%92%8C%E7%AD%94%E6%A1%88%2F%E7%AC%AC8%E8%AE%B2%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A_%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%E5%92%8C%E4%BD%9C%E4%B8%9A%E6%80%BB%E7%BB%93(%E6%B5%81%E5%9F%9F%E4%BA%A7%E6%B5%81%E5%88%86%E6%9E%90%E5%92%8C%E8%AE%A1%E7%AE%97).pdf",
+      "sourcePath": "水文学_马逸/作业和答案/第8讲课后作业_参考答案和作业总结(流域产流分析和计算).pdf"
+    },
+    {
+      "sourceAlias": "H0004",
+      "originalName": "第8讲课后作业_参考答案(河川径流).pdf",
+      "bytes": 282408,
+      "sha256": "e577bcfea2dd8ef6db270feef86437bbddd2cf716b02cebb006046d897a10aea",
+      "relativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/作业和答案/第8讲课后作业_参考答案(河川径流).pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E4%BD%9C%E4%B8%9A%E5%92%8C%E7%AD%94%E6%A1%88%2F%E7%AC%AC8%E8%AE%B2%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A_%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88(%E6%B2%B3%E5%B7%9D%E5%BE%84%E6%B5%81).pdf",
+      "sourcePath": "水文学_马逸/作业和答案/第8讲课后作业_参考答案(河川径流).pdf"
+    },
+    {
+      "sourceAlias": "H0005",
+      "originalName": "第6讲课后作业_参考答案(河渠、井).pdf",
+      "bytes": 7054879,
+      "sha256": "f8c189f848e70fbb4f4c2fc8533974a5428e028e582b0f9a8fe96f5a5eda7385",
+      "relativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/作业和答案/第6讲课后作业_参考答案(河渠、井).pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E4%BD%9C%E4%B8%9A%E5%92%8C%E7%AD%94%E6%A1%88%2F%E7%AC%AC6%E8%AE%B2%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A_%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88(%E6%B2%B3%E6%B8%A0%E3%80%81%E4%BA%95).pdf",
+      "sourcePath": "水文学_马逸/作业和答案/第6讲课后作业_参考答案(河渠、井).pdf"
+    },
+    {
+      "sourceAlias": "H0006",
+      "originalName": "第4讲课后作业_参考答案(土壤水分运动方程).pdf",
+      "bytes": 324240,
+      "sha256": "9b7191a45ae2e8d32b9448d47116070deca375e74090729132afa985decef5be",
+      "relativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/作业和答案/第4讲课后作业_参考答案(土壤水分运动方程).pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E4%BD%9C%E4%B8%9A%E5%92%8C%E7%AD%94%E6%A1%88%2F%E7%AC%AC4%E8%AE%B2%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A_%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88(%E5%9C%9F%E5%A3%A4%E6%B0%B4%E5%88%86%E8%BF%90%E5%8A%A8%E6%96%B9%E7%A8%8B).pdf",
+      "sourcePath": "水文学_马逸/作业和答案/第4讲课后作业_参考答案(土壤水分运动方程).pdf"
+    },
+    {
+      "sourceAlias": "H0007",
+      "originalName": "第3讲课后作业_参考答案和作业总结1019.pdf",
+      "bytes": 524448,
+      "sha256": "fbdc5ea7727c59e0fa9002221fa95fa50c7adf85fe6a31d983a34d3e3661acc7",
+      "relativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/作业和答案/第3讲课后作业_参考答案和作业总结1019.pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E4%BD%9C%E4%B8%9A%E5%92%8C%E7%AD%94%E6%A1%88%2F%E7%AC%AC3%E8%AE%B2%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A_%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%E5%92%8C%E4%BD%9C%E4%B8%9A%E6%80%BB%E7%BB%931019.pdf",
+      "sourcePath": "水文学_马逸/作业和答案/第3讲课后作业_参考答案和作业总结1019.pdf"
+    },
+    {
+      "sourceAlias": "H0008",
+      "originalName": "第2讲课后作业_参考答案和作业总结1019.pdf",
+      "bytes": 244298,
+      "sha256": "0ce4bdcda77e3a8faf0bf5306faa028e374161cada78e14646a874d6e1a13211",
+      "relativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/作业和答案/第2讲课后作业_参考答案和作业总结1019.pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E4%BD%9C%E4%B8%9A%E5%92%8C%E7%AD%94%E6%A1%88%2F%E7%AC%AC2%E8%AE%B2%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A_%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%E5%92%8C%E4%BD%9C%E4%B8%9A%E6%80%BB%E7%BB%931019.pdf",
+      "sourcePath": "水文学_马逸/作业和答案/第2讲课后作业_参考答案和作业总结1019.pdf"
+    },
+    {
+      "sourceAlias": "H0009",
+      "originalName": "第1讲课后作业_参考答案和作业总结1009.pdf",
+      "bytes": 500619,
+      "sha256": "380491650cff72ff29d902c8fa76f5e5c736b05c83c6f2279c9961d8aebd38a9",
+      "relativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/作业和答案/第1讲课后作业_参考答案和作业总结1009.pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E4%BD%9C%E4%B8%9A%E5%92%8C%E7%AD%94%E6%A1%88%2F%E7%AC%AC1%E8%AE%B2%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A_%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%E5%92%8C%E4%BD%9C%E4%B8%9A%E6%80%BB%E7%BB%931009.pdf",
+      "sourcePath": "水文学_马逸/作业和答案/第1讲课后作业_参考答案和作业总结1009.pdf"
+    },
+    {
+      "sourceAlias": "H0010",
+      "originalName": "第13讲设计洪水二课后作业_参考答案和作业总结.pdf",
+      "bytes": 832102,
+      "sha256": "a31d1607633319363c6b5a4ce273899c275f92dfae33de25f336709d60863f14",
+      "relativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/作业和答案/第13讲设计洪水二课后作业_参考答案和作业总结.pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E4%BD%9C%E4%B8%9A%E5%92%8C%E7%AD%94%E6%A1%88%2F%E7%AC%AC13%E8%AE%B2%E8%AE%BE%E8%AE%A1%E6%B4%AA%E6%B0%B4%E4%BA%8C%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A_%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%E5%92%8C%E4%BD%9C%E4%B8%9A%E6%80%BB%E7%BB%93.pdf",
+      "sourcePath": "水文学_马逸/作业和答案/第13讲设计洪水二课后作业_参考答案和作业总结.pdf"
+    },
+    {
+      "sourceAlias": "H0011",
+      "originalName": "第13讲设计洪水三课后作业_参考答案和作业总结.pdf",
+      "bytes": 413170,
+      "sha256": "8d4d64e2d2e22a9a7eacbcf676e7037b3ad83e9be56c22b56ca86a80ef8715d6",
+      "relativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/作业和答案/第13讲设计洪水三课后作业_参考答案和作业总结.pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E4%BD%9C%E4%B8%9A%E5%92%8C%E7%AD%94%E6%A1%88%2F%E7%AC%AC13%E8%AE%B2%E8%AE%BE%E8%AE%A1%E6%B4%AA%E6%B0%B4%E4%B8%89%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A_%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%E5%92%8C%E4%BD%9C%E4%B8%9A%E6%80%BB%E7%BB%93.pdf",
+      "sourcePath": "水文学_马逸/作业和答案/第13讲设计洪水三课后作业_参考答案和作业总结.pdf"
+    },
+    {
+      "sourceAlias": "H0012",
+      "originalName": "第12讲设计洪水一课后作业_参考答案和作业总结.pdf",
+      "bytes": 719094,
+      "sha256": "86f7f025106bab839dfecaa0ea5a7dc2c4496aaa22533e6c58c64b53bace49ba",
+      "relativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/作业和答案/第12讲设计洪水一课后作业_参考答案和作业总结.pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E4%BD%9C%E4%B8%9A%E5%92%8C%E7%AD%94%E6%A1%88%2F%E7%AC%AC12%E8%AE%B2%E8%AE%BE%E8%AE%A1%E6%B4%AA%E6%B0%B4%E4%B8%80%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A_%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%E5%92%8C%E4%BD%9C%E4%B8%9A%E6%80%BB%E7%BB%93.pdf",
+      "sourcePath": "水文学_马逸/作业和答案/第12讲设计洪水一课后作业_参考答案和作业总结.pdf"
+    },
+    {
+      "sourceAlias": "H0013",
+      "originalName": "第11讲设计年径流课后作业_参考答案和作业总结.pdf",
+      "bytes": 328641,
+      "sha256": "5221a280de9cc2e83e267c68a5467babd67902edba80f1c864e452d7862dae7d",
+      "relativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/作业和答案/第11讲设计年径流课后作业_参考答案和作业总结.pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E4%BD%9C%E4%B8%9A%E5%92%8C%E7%AD%94%E6%A1%88%2F%E7%AC%AC11%E8%AE%B2%E8%AE%BE%E8%AE%A1%E5%B9%B4%E5%BE%84%E6%B5%81%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A_%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%E5%92%8C%E4%BD%9C%E4%B8%9A%E6%80%BB%E7%BB%93.pdf",
+      "sourcePath": "水文学_马逸/作业和答案/第11讲设计年径流课后作业_参考答案和作业总结.pdf"
+    },
+    {
+      "sourceAlias": "H0014",
+      "originalName": "第11讲水文统计课后作业_参考答案和作业总结 .pdf",
+      "bytes": 323159,
+      "sha256": "7a009cbf86f6ad6a5f1bc5c2c0fff3f45e20aaca23be52c40d36fc1364e1c86c",
+      "relativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/作业和答案/第11讲水文统计课后作业_参考答案和作业总结 .pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E4%BD%9C%E4%B8%9A%E5%92%8C%E7%AD%94%E6%A1%88%2F%E7%AC%AC11%E8%AE%B2%E6%B0%B4%E6%96%87%E7%BB%9F%E8%AE%A1%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A_%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%E5%92%8C%E4%BD%9C%E4%B8%9A%E6%80%BB%E7%BB%93%20.pdf",
+      "sourcePath": "水文学_马逸/作业和答案/第11讲水文统计课后作业_参考答案和作业总结 .pdf"
+    },
+    {
+      "sourceAlias": "H0015",
+      "originalName": "第10讲课后作业_参考答案和作业总结(水文预报).pdf",
+      "bytes": 504900,
+      "sha256": "7d93cfb3e8da4a040f968227e626fcb98468766e02a370a5f22107efa0488904",
+      "relativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/作业和答案/第10讲课后作业_参考答案和作业总结(水文预报).pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E4%BD%9C%E4%B8%9A%E5%92%8C%E7%AD%94%E6%A1%88%2F%E7%AC%AC10%E8%AE%B2%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A_%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%E5%92%8C%E4%BD%9C%E4%B8%9A%E6%80%BB%E7%BB%93(%E6%B0%B4%E6%96%87%E9%A2%84%E6%8A%A5).pdf",
+      "sourcePath": "水文学_马逸/作业和答案/第10讲课后作业_参考答案和作业总结(水文预报).pdf"
+    },
+    {
+      "sourceAlias": "H0040",
+      "originalName": "第9讲课后作业_参考答案和作业总结.pdf",
+      "bytes": 786044,
+      "sha256": "1a09d8156c4bf67e11579020b65f396632f36dff72741c67b3b163802893487a",
+      "relativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/第9讲课后作业_参考答案和作业总结.pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F4.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99-%E6%B0%B4%E6%96%87%E5%AD%A6%E4%BD%9C%E4%B8%9A%E5%8F%8A%E7%AD%94%E6%A1%88%2F%E7%AC%AC9%E8%AE%B2%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A_%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%E5%92%8C%E4%BD%9C%E4%B8%9A%E6%80%BB%E7%BB%93.pdf",
+      "sourcePath": "水文学_马逸/4.往届资料-水文学作业及答案/第9讲课后作业_参考答案和作业总结.pdf"
+    },
+    {
+      "sourceAlias": "H0041",
+      "originalName": "第8讲课后作业_参考答案和作业总结.pdf",
+      "bytes": 676494,
+      "sha256": "bd201802e151a7d8404bc08532712a6480e345ac0239a90e1079d07212e2e427",
+      "relativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/第8讲课后作业_参考答案和作业总结.pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F4.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99-%E6%B0%B4%E6%96%87%E5%AD%A6%E4%BD%9C%E4%B8%9A%E5%8F%8A%E7%AD%94%E6%A1%88%2F%E7%AC%AC8%E8%AE%B2%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A_%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%E5%92%8C%E4%BD%9C%E4%B8%9A%E6%80%BB%E7%BB%93.pdf",
+      "sourcePath": "水文学_马逸/4.往届资料-水文学作业及答案/第8讲课后作业_参考答案和作业总结.pdf"
+    },
+    {
+      "sourceAlias": "H0042",
+      "originalName": "第7讲课后作业_参考答案和作业总结.pdf",
+      "bytes": 534154,
+      "sha256": "1bb3d38027bd264d428beb0d5b483037f6b614a0d3dc18446916137d7eaa254e",
+      "relativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/第7讲课后作业_参考答案和作业总结.pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F4.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99-%E6%B0%B4%E6%96%87%E5%AD%A6%E4%BD%9C%E4%B8%9A%E5%8F%8A%E7%AD%94%E6%A1%88%2F%E7%AC%AC7%E8%AE%B2%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A_%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%E5%92%8C%E4%BD%9C%E4%B8%9A%E6%80%BB%E7%BB%93.pdf",
+      "sourcePath": "水文学_马逸/4.往届资料-水文学作业及答案/第7讲课后作业_参考答案和作业总结.pdf"
+    },
+    {
+      "sourceAlias": "H0043",
+      "originalName": "第14讲课后作业_参考答案和作业总结(设计洪水三).pdf",
+      "bytes": 229840,
+      "sha256": "b525e81a83182fb546b7545e2cdc566689a9e5d0b0960277e54ec34b6cacc02c",
+      "relativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/第14讲课后作业_参考答案和作业总结(设计洪水三).pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F4.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99-%E6%B0%B4%E6%96%87%E5%AD%A6%E4%BD%9C%E4%B8%9A%E5%8F%8A%E7%AD%94%E6%A1%88%2F%E7%AC%AC14%E8%AE%B2%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A_%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%E5%92%8C%E4%BD%9C%E4%B8%9A%E6%80%BB%E7%BB%93(%E8%AE%BE%E8%AE%A1%E6%B4%AA%E6%B0%B4%E4%B8%89).pdf",
+      "sourcePath": "水文学_马逸/4.往届资料-水文学作业及答案/第14讲课后作业_参考答案和作业总结(设计洪水三).pdf"
+    },
+    {
+      "sourceAlias": "H0044",
+      "originalName": "第13讲课后作业_参考答案和作业总结(设计洪水二）.pdf",
+      "bytes": 524964,
+      "sha256": "472fabb994cb4a0bef0660f31ce23fc528813a5505796b8121646c025c7efddd",
+      "relativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/第13讲课后作业_参考答案和作业总结(设计洪水二）.pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F4.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99-%E6%B0%B4%E6%96%87%E5%AD%A6%E4%BD%9C%E4%B8%9A%E5%8F%8A%E7%AD%94%E6%A1%88%2F%E7%AC%AC13%E8%AE%B2%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A_%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%E5%92%8C%E4%BD%9C%E4%B8%9A%E6%80%BB%E7%BB%93(%E8%AE%BE%E8%AE%A1%E6%B4%AA%E6%B0%B4%E4%BA%8C%EF%BC%89.pdf",
+      "sourcePath": "水文学_马逸/4.往届资料-水文学作业及答案/第13讲课后作业_参考答案和作业总结(设计洪水二）.pdf"
+    },
+    {
+      "sourceAlias": "H0045",
+      "originalName": "第12讲课后作业_参考答案和作业总结(设计洪水一）.pdf",
+      "bytes": 700508,
+      "sha256": "7593968eb753603785edc25135eaba66ae3d1562f80a6e3451252456ba34ca6c",
+      "relativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/第12讲课后作业_参考答案和作业总结(设计洪水一）.pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F4.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99-%E6%B0%B4%E6%96%87%E5%AD%A6%E4%BD%9C%E4%B8%9A%E5%8F%8A%E7%AD%94%E6%A1%88%2F%E7%AC%AC12%E8%AE%B2%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A_%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%E5%92%8C%E4%BD%9C%E4%B8%9A%E6%80%BB%E7%BB%93(%E8%AE%BE%E8%AE%A1%E6%B4%AA%E6%B0%B4%E4%B8%80%EF%BC%89.pdf",
+      "sourcePath": "水文学_马逸/4.往届资料-水文学作业及答案/第12讲课后作业_参考答案和作业总结(设计洪水一）.pdf"
+    },
+    {
+      "sourceAlias": "H0046",
+      "originalName": "第11讲课后作业_参考答案和作业总结(设计年径流).pdf",
+      "bytes": 283213,
+      "sha256": "d53f115b6624286b6976b66f185d738ffa0ec4350f7fc8be2a5d8a8a167da8c0",
+      "relativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/第11讲课后作业_参考答案和作业总结(设计年径流).pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F4.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99-%E6%B0%B4%E6%96%87%E5%AD%A6%E4%BD%9C%E4%B8%9A%E5%8F%8A%E7%AD%94%E6%A1%88%2F%E7%AC%AC11%E8%AE%B2%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A_%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%E5%92%8C%E4%BD%9C%E4%B8%9A%E6%80%BB%E7%BB%93(%E8%AE%BE%E8%AE%A1%E5%B9%B4%E5%BE%84%E6%B5%81).pdf",
+      "sourcePath": "水文学_马逸/4.往届资料-水文学作业及答案/第11讲课后作业_参考答案和作业总结(设计年径流).pdf"
+    },
+    {
+      "sourceAlias": "H0047",
+      "originalName": "第10讲课后作业_参考答案和作业总结(水文统计).pdf",
+      "bytes": 564672,
+      "sha256": "1c7d9b16f1e8df7c9d78c21b81045a41aa83c3d71be96ddec8724664429e1032",
+      "relativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/第10讲课后作业_参考答案和作业总结(水文统计).pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F4.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99-%E6%B0%B4%E6%96%87%E5%AD%A6%E4%BD%9C%E4%B8%9A%E5%8F%8A%E7%AD%94%E6%A1%88%2F%E7%AC%AC10%E8%AE%B2%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A_%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%E5%92%8C%E4%BD%9C%E4%B8%9A%E6%80%BB%E7%BB%93(%E6%B0%B4%E6%96%87%E7%BB%9F%E8%AE%A1).pdf",
+      "sourcePath": "水文学_马逸/4.往届资料-水文学作业及答案/第10讲课后作业_参考答案和作业总结(水文统计).pdf"
+    },
+    {
+      "sourceAlias": "H0048",
+      "originalName": "第9讲课后作业_水文预报_20060469.pdf",
+      "bytes": 104845,
+      "sha256": "7e2f8dc5d55db1b495cf96e244b6230cb9bc778bd5a1ec6021a7e98d424246a1",
+      "relativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/参考答案/第9讲课后作业_水文预报_20060469.pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F4.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99-%E6%B0%B4%E6%96%87%E5%AD%A6%E4%BD%9C%E4%B8%9A%E5%8F%8A%E7%AD%94%E6%A1%88%2F%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%2F%E7%AC%AC9%E8%AE%B2%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A_%E6%B0%B4%E6%96%87%E9%A2%84%E6%8A%A5_20060469.pdf",
+      "sourcePath": "水文学_马逸/4.往届资料-水文学作业及答案/参考答案/第9讲课后作业_水文预报_20060469.pdf"
+    },
+    {
+      "sourceAlias": "H0049",
+      "originalName": "第9讲课后作业_参考答案和作业总结.pdf",
+      "bytes": 623716,
+      "sha256": "22526c3e867dae066cc0f4c71dcf9ff3b8328fe429014aebf3da17585b511a16",
+      "relativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/参考答案/第9讲课后作业_参考答案和作业总结.pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F4.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99-%E6%B0%B4%E6%96%87%E5%AD%A6%E4%BD%9C%E4%B8%9A%E5%8F%8A%E7%AD%94%E6%A1%88%2F%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%2F%E7%AC%AC9%E8%AE%B2%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A_%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%E5%92%8C%E4%BD%9C%E4%B8%9A%E6%80%BB%E7%BB%93.pdf",
+      "sourcePath": "水文学_马逸/4.往届资料-水文学作业及答案/参考答案/第9讲课后作业_参考答案和作业总结.pdf"
+    },
+    {
+      "sourceAlias": "H0050",
+      "originalName": "第8讲课后作业_参考答案和作业总结.pdf",
+      "bytes": 354290,
+      "sha256": "fcb704483af682c266519a40494aa4ec38cca2b019ef7cd9f51f9940c0c711e5",
+      "relativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/参考答案/第8讲课后作业_参考答案和作业总结.pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F4.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99-%E6%B0%B4%E6%96%87%E5%AD%A6%E4%BD%9C%E4%B8%9A%E5%8F%8A%E7%AD%94%E6%A1%88%2F%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%2F%E7%AC%AC8%E8%AE%B2%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A_%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%E5%92%8C%E4%BD%9C%E4%B8%9A%E6%80%BB%E7%BB%93.pdf",
+      "sourcePath": "水文学_马逸/4.往届资料-水文学作业及答案/参考答案/第8讲课后作业_参考答案和作业总结.pdf"
+    },
+    {
+      "sourceAlias": "H0051",
+      "originalName": "第7讲课后作业_参考答案和作业总结.pdf",
+      "bytes": 370778,
+      "sha256": "edd44f09e5f85b124a7de89ff6edcc7fb0354e6282d86c11afbdee80eb39e7cf",
+      "relativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/参考答案/第7讲课后作业_参考答案和作业总结.pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F4.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99-%E6%B0%B4%E6%96%87%E5%AD%A6%E4%BD%9C%E4%B8%9A%E5%8F%8A%E7%AD%94%E6%A1%88%2F%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%2F%E7%AC%AC7%E8%AE%B2%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A_%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%E5%92%8C%E4%BD%9C%E4%B8%9A%E6%80%BB%E7%BB%93.pdf",
+      "sourcePath": "水文学_马逸/4.往届资料-水文学作业及答案/参考答案/第7讲课后作业_参考答案和作业总结.pdf"
+    },
+    {
+      "sourceAlias": "H0052",
+      "originalName": "第6讲课后作业_流域水文模型.pdf",
+      "bytes": 77853,
+      "sha256": "991caa837373bb10ac3a8ca5ad6f4618ac8e07dca41d443c53c0b7ce79649654",
+      "relativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/参考答案/第6讲课后作业_流域水文模型.pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F4.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99-%E6%B0%B4%E6%96%87%E5%AD%A6%E4%BD%9C%E4%B8%9A%E5%8F%8A%E7%AD%94%E6%A1%88%2F%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%2F%E7%AC%AC6%E8%AE%B2%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A_%E6%B5%81%E5%9F%9F%E6%B0%B4%E6%96%87%E6%A8%A1%E5%9E%8B.pdf",
+      "sourcePath": "水文学_马逸/4.往届资料-水文学作业及答案/参考答案/第6讲课后作业_流域水文模型.pdf"
+    },
+    {
+      "sourceAlias": "H0053",
+      "originalName": "第6讲课后作业_参考答案和作业总结.pdf",
+      "bytes": 335543,
+      "sha256": "37ee5b83c9f6202be72371461e3e499c4c5d797ed200d629900a9573addcd400",
+      "relativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/参考答案/第6讲课后作业_参考答案和作业总结.pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F4.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99-%E6%B0%B4%E6%96%87%E5%AD%A6%E4%BD%9C%E4%B8%9A%E5%8F%8A%E7%AD%94%E6%A1%88%2F%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%2F%E7%AC%AC6%E8%AE%B2%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A_%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%E5%92%8C%E4%BD%9C%E4%B8%9A%E6%80%BB%E7%BB%93.pdf",
+      "sourcePath": "水文学_马逸/4.往届资料-水文学作业及答案/参考答案/第6讲课后作业_参考答案和作业总结.pdf"
+    },
+    {
+      "sourceAlias": "H0054",
+      "originalName": "第5讲课后作业_参考答案和作业总结_697105386.pdf",
+      "bytes": 165672,
+      "sha256": "6d7a8a294571c737a8ae1245ef0ac7bdd963f938a7f9bfae08c418b812a313d4",
+      "relativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/参考答案/第5讲课后作业_参考答案和作业总结_697105386.pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F4.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99-%E6%B0%B4%E6%96%87%E5%AD%A6%E4%BD%9C%E4%B8%9A%E5%8F%8A%E7%AD%94%E6%A1%88%2F%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%2F%E7%AC%AC5%E8%AE%B2%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A_%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%E5%92%8C%E4%BD%9C%E4%B8%9A%E6%80%BB%E7%BB%93_697105386.pdf",
+      "sourcePath": "水文学_马逸/4.往届资料-水文学作业及答案/参考答案/第5讲课后作业_参考答案和作业总结_697105386.pdf"
+    },
+    {
+      "sourceAlias": "H0055",
+      "originalName": "第4讲课后作业_参考答案和作业总结.pdf",
+      "bytes": 278277,
+      "sha256": "33b66388cbfe506fb82c5746ba8b9d605f6aee800416f61ee438269700e1160d",
+      "relativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/参考答案/第4讲课后作业_参考答案和作业总结.pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F4.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99-%E6%B0%B4%E6%96%87%E5%AD%A6%E4%BD%9C%E4%B8%9A%E5%8F%8A%E7%AD%94%E6%A1%88%2F%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%2F%E7%AC%AC4%E8%AE%B2%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A_%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%E5%92%8C%E4%BD%9C%E4%B8%9A%E6%80%BB%E7%BB%93.pdf",
+      "sourcePath": "水文学_马逸/4.往届资料-水文学作业及答案/参考答案/第4讲课后作业_参考答案和作业总结.pdf"
+    },
+    {
+      "sourceAlias": "H0056",
+      "originalName": "第3讲课后作业_参考答案和作业总结.pdf",
+      "bytes": 177176,
+      "sha256": "d44761fd93468b76feec495906dcfb0552cba36b0e7c9404703aec06cd05c7c3",
+      "relativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/参考答案/第3讲课后作业_参考答案和作业总结.pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F4.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99-%E6%B0%B4%E6%96%87%E5%AD%A6%E4%BD%9C%E4%B8%9A%E5%8F%8A%E7%AD%94%E6%A1%88%2F%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%2F%E7%AC%AC3%E8%AE%B2%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A_%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%E5%92%8C%E4%BD%9C%E4%B8%9A%E6%80%BB%E7%BB%93.pdf",
+      "sourcePath": "水文学_马逸/4.往届资料-水文学作业及答案/参考答案/第3讲课后作业_参考答案和作业总结.pdf"
+    },
+    {
+      "sourceAlias": "H0057",
+      "originalName": "第2讲课后作业_参考答案和作业总结.pdf",
+      "bytes": 161106,
+      "sha256": "877e3012413e4c0009c40c657bc47526d9209fddd8b9a715fa8b6b879663fbe8",
+      "relativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/参考答案/第2讲课后作业_参考答案和作业总结.pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F4.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99-%E6%B0%B4%E6%96%87%E5%AD%A6%E4%BD%9C%E4%B8%9A%E5%8F%8A%E7%AD%94%E6%A1%88%2F%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%2F%E7%AC%AC2%E8%AE%B2%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A_%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%E5%92%8C%E4%BD%9C%E4%B8%9A%E6%80%BB%E7%BB%93.pdf",
+      "sourcePath": "水文学_马逸/4.往届资料-水文学作业及答案/参考答案/第2讲课后作业_参考答案和作业总结.pdf"
+    },
+    {
+      "sourceAlias": "H0058",
+      "originalName": "第1讲课后作业_参考答案和作业总结.pdf",
+      "bytes": 656175,
+      "sha256": "a2dedaa250fb23c623a5c298916127fd211bba5afe8481d46fba49035db6e1f0",
+      "relativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/参考答案/第1讲课后作业_参考答案和作业总结.pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F4.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99-%E6%B0%B4%E6%96%87%E5%AD%A6%E4%BD%9C%E4%B8%9A%E5%8F%8A%E7%AD%94%E6%A1%88%2F%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%2F%E7%AC%AC1%E8%AE%B2%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A_%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%E5%92%8C%E4%BD%9C%E4%B8%9A%E6%80%BB%E7%BB%93.pdf",
+      "sourcePath": "水文学_马逸/4.往届资料-水文学作业及答案/参考答案/第1讲课后作业_参考答案和作业总结.pdf"
+    },
+    {
+      "sourceAlias": "H0059",
+      "originalName": "第14讲课后作业_设计洪水3_371208710.pdf",
+      "bytes": 66209,
+      "sha256": "4e88615f9bfbeb4afa83654ad76302ef9efc16eb9f60b2219ece08263113b4f1",
+      "relativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/参考答案/第14讲课后作业_设计洪水3_371208710.pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F4.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99-%E6%B0%B4%E6%96%87%E5%AD%A6%E4%BD%9C%E4%B8%9A%E5%8F%8A%E7%AD%94%E6%A1%88%2F%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%2F%E7%AC%AC14%E8%AE%B2%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A_%E8%AE%BE%E8%AE%A1%E6%B4%AA%E6%B0%B43_371208710.pdf",
+      "sourcePath": "水文学_马逸/4.往届资料-水文学作业及答案/参考答案/第14讲课后作业_设计洪水3_371208710.pdf"
+    },
+    {
+      "sourceAlias": "H0060",
+      "originalName": "第14讲课后作业_参考答案和作业总结_104601737.pdf",
+      "bytes": 73053,
+      "sha256": "ded7d6d252f0908bf98e66a1e76332285433d8bddebf7574a9ffd8413e09efaa",
+      "relativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/参考答案/第14讲课后作业_参考答案和作业总结_104601737.pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F4.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99-%E6%B0%B4%E6%96%87%E5%AD%A6%E4%BD%9C%E4%B8%9A%E5%8F%8A%E7%AD%94%E6%A1%88%2F%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%2F%E7%AC%AC14%E8%AE%B2%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A_%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%E5%92%8C%E4%BD%9C%E4%B8%9A%E6%80%BB%E7%BB%93_104601737.pdf",
+      "sourcePath": "水文学_马逸/4.往届资料-水文学作业及答案/参考答案/第14讲课后作业_参考答案和作业总结_104601737.pdf"
+    },
+    {
+      "sourceAlias": "H0061",
+      "originalName": "第13讲课后作业_设计洪水2_924903200.pdf",
+      "bytes": 124436,
+      "sha256": "81a7f7d7e2db153b56771ddbb640dda7596f60e9d31ebc0f0be5b9126896ada8",
+      "relativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/参考答案/第13讲课后作业_设计洪水2_924903200.pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F4.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99-%E6%B0%B4%E6%96%87%E5%AD%A6%E4%BD%9C%E4%B8%9A%E5%8F%8A%E7%AD%94%E6%A1%88%2F%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%2F%E7%AC%AC13%E8%AE%B2%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A_%E8%AE%BE%E8%AE%A1%E6%B4%AA%E6%B0%B42_924903200.pdf",
+      "sourcePath": "水文学_马逸/4.往届资料-水文学作业及答案/参考答案/第13讲课后作业_设计洪水2_924903200.pdf"
+    },
+    {
+      "sourceAlias": "H0062",
+      "originalName": "第13讲课后作业_参考答案和作业总结_119105769.pdf",
+      "bytes": 392231,
+      "sha256": "1a305c1a46485bed9a32f1c0a6f59265649859244511d164ab3a5f9a3c4beb89",
+      "relativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/参考答案/第13讲课后作业_参考答案和作业总结_119105769.pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F4.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99-%E6%B0%B4%E6%96%87%E5%AD%A6%E4%BD%9C%E4%B8%9A%E5%8F%8A%E7%AD%94%E6%A1%88%2F%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%2F%E7%AC%AC13%E8%AE%B2%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A_%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%E5%92%8C%E4%BD%9C%E4%B8%9A%E6%80%BB%E7%BB%93_119105769.pdf",
+      "sourcePath": "水文学_马逸/4.往届资料-水文学作业及答案/参考答案/第13讲课后作业_参考答案和作业总结_119105769.pdf"
+    },
+    {
+      "sourceAlias": "H0063",
+      "originalName": "第12讲课后作业_设计洪水1_128604158.pdf",
+      "bytes": 56665,
+      "sha256": "7692c0acf6fad68b7e1b0ec274f724ec0fcba76b28f51c01d73f070f7c298ece",
+      "relativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/参考答案/第12讲课后作业_设计洪水1_128604158.pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F4.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99-%E6%B0%B4%E6%96%87%E5%AD%A6%E4%BD%9C%E4%B8%9A%E5%8F%8A%E7%AD%94%E6%A1%88%2F%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%2F%E7%AC%AC12%E8%AE%B2%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A_%E8%AE%BE%E8%AE%A1%E6%B4%AA%E6%B0%B41_128604158.pdf",
+      "sourcePath": "水文学_马逸/4.往届资料-水文学作业及答案/参考答案/第12讲课后作业_设计洪水1_128604158.pdf"
+    },
+    {
+      "sourceAlias": "H0064",
+      "originalName": "第12讲课后作业_参考答案和作业总结_24106543.pdf",
+      "bytes": 574253,
+      "sha256": "ef43200ebe45fe8d7f3a9e9da00144eefe0ff0c85af3d143df60ea2921d2ead0",
+      "relativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/参考答案/第12讲课后作业_参考答案和作业总结_24106543.pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F4.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99-%E6%B0%B4%E6%96%87%E5%AD%A6%E4%BD%9C%E4%B8%9A%E5%8F%8A%E7%AD%94%E6%A1%88%2F%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%2F%E7%AC%AC12%E8%AE%B2%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A_%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%E5%92%8C%E4%BD%9C%E4%B8%9A%E6%80%BB%E7%BB%93_24106543.pdf",
+      "sourcePath": "水文学_马逸/4.往届资料-水文学作业及答案/参考答案/第12讲课后作业_参考答案和作业总结_24106543.pdf"
+    },
+    {
+      "sourceAlias": "H0065",
+      "originalName": "第11讲课后作业_设计年径流_935403130.pdf",
+      "bytes": 89670,
+      "sha256": "2bdbe69bac737d9b25f108b3c30af43e7f84ec4e4fdf5ea8744d6d3f31942fbf",
+      "relativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/参考答案/第11讲课后作业_设计年径流_935403130.pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F4.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99-%E6%B0%B4%E6%96%87%E5%AD%A6%E4%BD%9C%E4%B8%9A%E5%8F%8A%E7%AD%94%E6%A1%88%2F%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%2F%E7%AC%AC11%E8%AE%B2%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A_%E8%AE%BE%E8%AE%A1%E5%B9%B4%E5%BE%84%E6%B5%81_935403130.pdf",
+      "sourcePath": "水文学_马逸/4.往届资料-水文学作业及答案/参考答案/第11讲课后作业_设计年径流_935403130.pdf"
+    },
+    {
+      "sourceAlias": "H0066",
+      "originalName": "第11讲课后作业_参考答案和作业总结_468502231.pdf",
+      "bytes": 121931,
+      "sha256": "f162d99cd23501d37f8f510fa8430cb17c4eb4819a2eb74b335269f98d118d4f",
+      "relativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/参考答案/第11讲课后作业_参考答案和作业总结_468502231.pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F4.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99-%E6%B0%B4%E6%96%87%E5%AD%A6%E4%BD%9C%E4%B8%9A%E5%8F%8A%E7%AD%94%E6%A1%88%2F%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%2F%E7%AC%AC11%E8%AE%B2%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A_%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%E5%92%8C%E4%BD%9C%E4%B8%9A%E6%80%BB%E7%BB%93_468502231.pdf",
+      "sourcePath": "水文学_马逸/4.往届资料-水文学作业及答案/参考答案/第11讲课后作业_参考答案和作业总结_468502231.pdf"
+    },
+    {
+      "sourceAlias": "H0067",
+      "originalName": "第10讲课后作业_水文统计_935605928.pdf",
+      "bytes": 75443,
+      "sha256": "47cbb48fe6b8fa11c4c154d96e7d82030098800312443074e3bb7164158ff295",
+      "relativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/参考答案/第10讲课后作业_水文统计_935605928.pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F4.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99-%E6%B0%B4%E6%96%87%E5%AD%A6%E4%BD%9C%E4%B8%9A%E5%8F%8A%E7%AD%94%E6%A1%88%2F%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%2F%E7%AC%AC10%E8%AE%B2%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A_%E6%B0%B4%E6%96%87%E7%BB%9F%E8%AE%A1_935605928.pdf",
+      "sourcePath": "水文学_马逸/4.往届资料-水文学作业及答案/参考答案/第10讲课后作业_水文统计_935605928.pdf"
+    },
+    {
+      "sourceAlias": "H0068",
+      "originalName": "第10讲课后作业_参考答案和作业总结_435403197.pdf",
+      "bytes": 300619,
+      "sha256": "58f633b2158496b9a1ad8a052bc7bc8ea326af37f0d64b34f6584151f045896e",
+      "relativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/参考答案/第10讲课后作业_参考答案和作业总结_435403197.pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F4.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99-%E6%B0%B4%E6%96%87%E5%AD%A6%E4%BD%9C%E4%B8%9A%E5%8F%8A%E7%AD%94%E6%A1%88%2F%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%2F%E7%AC%AC10%E8%AE%B2%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A_%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%E5%92%8C%E4%BD%9C%E4%B8%9A%E6%80%BB%E7%BB%93_435403197.pdf",
+      "sourcePath": "水文学_马逸/4.往届资料-水文学作业及答案/参考答案/第10讲课后作业_参考答案和作业总结_435403197.pdf"
+    },
+    {
+      "sourceAlias": "H0069",
+      "originalName": "第10章课后作业之三_235409063.pdf",
+      "bytes": 81987,
+      "sha256": "bf1e86776922511cbf6b1e7f97bd53854baa79701cdf80567b14f1ff4a430436",
+      "relativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/参考答案/第10章课后作业之三_235409063.pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F4.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99-%E6%B0%B4%E6%96%87%E5%AD%A6%E4%BD%9C%E4%B8%9A%E5%8F%8A%E7%AD%94%E6%A1%88%2F%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%2F%E7%AC%AC10%E7%AB%A0%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A%E4%B9%8B%E4%B8%89_235409063.pdf",
+      "sourcePath": "水文学_马逸/4.往届资料-水文学作业及答案/参考答案/第10章课后作业之三_235409063.pdf"
+    },
+    {
+      "sourceAlias": "H0072",
+      "originalName": "适线法.rtf",
+      "bytes": 5020,
+      "sha256": "7ae5bb504d48e08026fabe7ecd992c8739bd43512bded064f0f271777b3fabf7",
+      "relativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/习题(最新答案)/适线法.rtf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F4.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99-%E6%B0%B4%E6%96%87%E5%AD%A6%E4%BD%9C%E4%B8%9A%E5%8F%8A%E7%AD%94%E6%A1%88%2F%E4%B9%A0%E9%A2%98(%E6%9C%80%E6%96%B0%E7%AD%94%E6%A1%88)%2F%E9%80%82%E7%BA%BF%E6%B3%95.rtf",
+      "sourcePath": "水文学_马逸/4.往届资料-水文学作业及答案/习题(最新答案)/适线法.rtf"
+    },
+    {
+      "sourceAlias": "H0076",
+      "originalName": "第6讲课后作业_参考答案和作业总结.pdf",
+      "bytes": 556122,
+      "sha256": "335fa738099e729591184580c7a37d3c8785c383b708235170976877dc1d43ba",
+      "relativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/习题(最新答案)/第6讲课后作业_参考答案和作业总结.pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F4.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99-%E6%B0%B4%E6%96%87%E5%AD%A6%E4%BD%9C%E4%B8%9A%E5%8F%8A%E7%AD%94%E6%A1%88%2F%E4%B9%A0%E9%A2%98(%E6%9C%80%E6%96%B0%E7%AD%94%E6%A1%88)%2F%E7%AC%AC6%E8%AE%B2%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A_%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%E5%92%8C%E4%BD%9C%E4%B8%9A%E6%80%BB%E7%BB%93.pdf",
+      "sourcePath": "水文学_马逸/4.往届资料-水文学作业及答案/习题(最新答案)/第6讲课后作业_参考答案和作业总结.pdf"
+    },
+    {
+      "sourceAlias": "H0077",
+      "originalName": "第5讲课后作业_参考答案和作业总结.pdf",
+      "bytes": 216847,
+      "sha256": "cc92ecd59e61075123277bf8b2819f946be1a7aa354ea351e9abd095ad0cc17d",
+      "relativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/习题(最新答案)/第5讲课后作业_参考答案和作业总结.pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F4.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99-%E6%B0%B4%E6%96%87%E5%AD%A6%E4%BD%9C%E4%B8%9A%E5%8F%8A%E7%AD%94%E6%A1%88%2F%E4%B9%A0%E9%A2%98(%E6%9C%80%E6%96%B0%E7%AD%94%E6%A1%88)%2F%E7%AC%AC5%E8%AE%B2%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A_%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%E5%92%8C%E4%BD%9C%E4%B8%9A%E6%80%BB%E7%BB%93.pdf",
+      "sourcePath": "水文学_马逸/4.往届资料-水文学作业及答案/习题(最新答案)/第5讲课后作业_参考答案和作业总结.pdf"
+    },
+    {
+      "sourceAlias": "H0078",
+      "originalName": "第4讲课后作业_参考答案和作业总结.pdf",
+      "bytes": 655029,
+      "sha256": "5f9b3370667538cf88fa84bbc070e524600201b6f71094564ae39366292e55e1",
+      "relativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/习题(最新答案)/第4讲课后作业_参考答案和作业总结.pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F4.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99-%E6%B0%B4%E6%96%87%E5%AD%A6%E4%BD%9C%E4%B8%9A%E5%8F%8A%E7%AD%94%E6%A1%88%2F%E4%B9%A0%E9%A2%98(%E6%9C%80%E6%96%B0%E7%AD%94%E6%A1%88)%2F%E7%AC%AC4%E8%AE%B2%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A_%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%E5%92%8C%E4%BD%9C%E4%B8%9A%E6%80%BB%E7%BB%93.pdf",
+      "sourcePath": "水文学_马逸/4.往届资料-水文学作业及答案/习题(最新答案)/第4讲课后作业_参考答案和作业总结.pdf"
+    },
+    {
+      "sourceAlias": "H0079",
+      "originalName": "第3讲课后作业_参考答案和作业总结.pdf",
+      "bytes": 413935,
+      "sha256": "8ad2d9073feef29252530dd74604990677e4f4b3ec9de571300bb30e3e21ac78",
+      "relativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/习题(最新答案)/第3讲课后作业_参考答案和作业总结.pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F4.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99-%E6%B0%B4%E6%96%87%E5%AD%A6%E4%BD%9C%E4%B8%9A%E5%8F%8A%E7%AD%94%E6%A1%88%2F%E4%B9%A0%E9%A2%98(%E6%9C%80%E6%96%B0%E7%AD%94%E6%A1%88)%2F%E7%AC%AC3%E8%AE%B2%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A_%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%E5%92%8C%E4%BD%9C%E4%B8%9A%E6%80%BB%E7%BB%93.pdf",
+      "sourcePath": "水文学_马逸/4.往届资料-水文学作业及答案/习题(最新答案)/第3讲课后作业_参考答案和作业总结.pdf"
+    },
+    {
+      "sourceAlias": "H0080",
+      "originalName": "第2讲课后作业_参考答案和作业总结.pdf",
+      "bytes": 288479,
+      "sha256": "b97f96d4b0f22fb6cc1482fef94515d38c175da555886ad6e0c0ec1093b6187c",
+      "relativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/习题(最新答案)/第2讲课后作业_参考答案和作业总结.pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F4.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99-%E6%B0%B4%E6%96%87%E5%AD%A6%E4%BD%9C%E4%B8%9A%E5%8F%8A%E7%AD%94%E6%A1%88%2F%E4%B9%A0%E9%A2%98(%E6%9C%80%E6%96%B0%E7%AD%94%E6%A1%88)%2F%E7%AC%AC2%E8%AE%B2%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A_%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%E5%92%8C%E4%BD%9C%E4%B8%9A%E6%80%BB%E7%BB%93.pdf",
+      "sourcePath": "水文学_马逸/4.往届资料-水文学作业及答案/习题(最新答案)/第2讲课后作业_参考答案和作业总结.pdf"
+    },
+    {
+      "sourceAlias": "H0086",
+      "originalName": "两次课堂练习参考答案.pdf",
+      "bytes": 485093,
+      "sha256": "a7aba8b955091b19aeaa0836580c422e1ddb9ed6ed9a5aabcfeb50a12db068f9",
+      "relativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/习题(最新答案)/两次课堂练习参考答案.pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F4.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99-%E6%B0%B4%E6%96%87%E5%AD%A6%E4%BD%9C%E4%B8%9A%E5%8F%8A%E7%AD%94%E6%A1%88%2F%E4%B9%A0%E9%A2%98(%E6%9C%80%E6%96%B0%E7%AD%94%E6%A1%88)%2F%E4%B8%A4%E6%AC%A1%E8%AF%BE%E5%A0%82%E7%BB%83%E4%B9%A0%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+      "sourcePath": "水文学_马逸/4.往届资料-水文学作业及答案/习题(最新答案)/两次课堂练习参考答案.pdf"
+    },
+    {
+      "sourceAlias": "H0087",
+      "originalName": "Muskingum Method.py",
+      "bytes": 2010,
+      "sha256": "eae559ae2eb89b06108b863d8ae9873ca4eb97dd386d44c64b4e433439ce217a",
+      "relativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/习题(最新答案)/Muskingum Method.py",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F4.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99-%E6%B0%B4%E6%96%87%E5%AD%A6%E4%BD%9C%E4%B8%9A%E5%8F%8A%E7%AD%94%E6%A1%88%2F%E4%B9%A0%E9%A2%98(%E6%9C%80%E6%96%B0%E7%AD%94%E6%A1%88)%2FMuskingum%20Method.py",
+      "sourcePath": "水文学_马逸/4.往届资料-水文学作业及答案/习题(最新答案)/Muskingum Method.py"
+    },
+    {
+      "sourceAlias": "H0115",
+      "originalName": "5.PNG",
+      "bytes": 77190,
+      "sha256": "7ddbe76ef6e7e189e3a3d0a9c9232d151ab60a81e547b6a213d3ad4e1f617dd4",
+      "relativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/5.水文学原理及应用往届资料/作业/5.PNG",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F4.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99-%E6%B0%B4%E6%96%87%E5%AD%A6%E4%BD%9C%E4%B8%9A%E5%8F%8A%E7%AD%94%E6%A1%88%2F5.%E6%B0%B4%E6%96%87%E5%AD%A6%E5%8E%9F%E7%90%86%E5%8F%8A%E5%BA%94%E7%94%A8%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E4%BD%9C%E4%B8%9A%2F5.PNG",
+      "sourcePath": "水文学_马逸/4.往届资料-水文学作业及答案/5.水文学原理及应用往届资料/作业/5.PNG"
+    },
+    {
+      "sourceAlias": "H0116",
+      "originalName": "4.PNG",
+      "bytes": 55111,
+      "sha256": "c9b541f51745011998cc8624359fd1ad7b1e0293f7c80ee9833f122e81ea0bc9",
+      "relativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/5.水文学原理及应用往届资料/作业/4.PNG",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F4.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99-%E6%B0%B4%E6%96%87%E5%AD%A6%E4%BD%9C%E4%B8%9A%E5%8F%8A%E7%AD%94%E6%A1%88%2F5.%E6%B0%B4%E6%96%87%E5%AD%A6%E5%8E%9F%E7%90%86%E5%8F%8A%E5%BA%94%E7%94%A8%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E4%BD%9C%E4%B8%9A%2F4.PNG",
+      "sourcePath": "水文学_马逸/4.往届资料-水文学作业及答案/5.水文学原理及应用往届资料/作业/4.PNG"
+    },
+    {
+      "sourceAlias": "H0117",
+      "originalName": "3.PNG",
+      "bytes": 66788,
+      "sha256": "c1a7ca6d18fec93b03c9b398701cb8feac7cb73b4e5e4c0c20974e8f95dea23f",
+      "relativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/5.水文学原理及应用往届资料/作业/3.PNG",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F4.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99-%E6%B0%B4%E6%96%87%E5%AD%A6%E4%BD%9C%E4%B8%9A%E5%8F%8A%E7%AD%94%E6%A1%88%2F5.%E6%B0%B4%E6%96%87%E5%AD%A6%E5%8E%9F%E7%90%86%E5%8F%8A%E5%BA%94%E7%94%A8%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E4%BD%9C%E4%B8%9A%2F3.PNG",
+      "sourcePath": "水文学_马逸/4.往届资料-水文学作业及答案/5.水文学原理及应用往届资料/作业/3.PNG"
+    },
+    {
+      "sourceAlias": "H0118",
+      "originalName": "2.PNG",
+      "bytes": 77233,
+      "sha256": "b8c4a94bd04f506a2a2c78dd34cc9639f5b9a27c2dd1c7e874099d5f26196282",
+      "relativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/5.水文学原理及应用往届资料/作业/2.PNG",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F4.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99-%E6%B0%B4%E6%96%87%E5%AD%A6%E4%BD%9C%E4%B8%9A%E5%8F%8A%E7%AD%94%E6%A1%88%2F5.%E6%B0%B4%E6%96%87%E5%AD%A6%E5%8E%9F%E7%90%86%E5%8F%8A%E5%BA%94%E7%94%A8%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E4%BD%9C%E4%B8%9A%2F2.PNG",
+      "sourcePath": "水文学_马逸/4.往届资料-水文学作业及答案/5.水文学原理及应用往届资料/作业/2.PNG"
+    },
+    {
+      "sourceAlias": "H0119",
+      "originalName": "1.PNG",
+      "bytes": 82976,
+      "sha256": "8c0fae9b8d6f9ae6435acbe88b87ac4375a267bcb8349eda601e73fa2674d9b2",
+      "relativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/5.水文学原理及应用往届资料/作业/1.PNG",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F4.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99-%E6%B0%B4%E6%96%87%E5%AD%A6%E4%BD%9C%E4%B8%9A%E5%8F%8A%E7%AD%94%E6%A1%88%2F5.%E6%B0%B4%E6%96%87%E5%AD%A6%E5%8E%9F%E7%90%86%E5%8F%8A%E5%BA%94%E7%94%A8%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E4%BD%9C%E4%B8%9A%2F1.PNG",
+      "sourcePath": "水文学_马逸/4.往届资料-水文学作业及答案/5.水文学原理及应用往届资料/作业/1.PNG"
+    }
+  ],
+  "sameSHAOtherSourcePaths": [
+    {
+      "sourceAlias": "H0073",
+      "sourcePath": "水文学_马逸/4.往届资料-水文学作业及答案/习题(最新答案)/第9讲课后作业_参考答案和作业总结.pdf",
+      "bytes": 786044,
+      "sha256": "1a09d8156c4bf67e11579020b65f396632f36dff72741c67b3b163802893487a",
+      "sameAsRelativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/第9讲课后作业_参考答案和作业总结.pdf"
+    },
+    {
+      "sourceAlias": "H0074",
+      "sourcePath": "水文学_马逸/4.往届资料-水文学作业及答案/习题(最新答案)/第8讲课后作业_参考答案和作业总结.pdf",
+      "bytes": 676494,
+      "sha256": "bd201802e151a7d8404bc08532712a6480e345ac0239a90e1079d07212e2e427",
+      "sameAsRelativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/第8讲课后作业_参考答案和作业总结.pdf"
+    },
+    {
+      "sourceAlias": "H0075",
+      "sourcePath": "水文学_马逸/4.往届资料-水文学作业及答案/习题(最新答案)/第7讲课后作业_参考答案和作业总结.pdf",
+      "bytes": 534154,
+      "sha256": "1bb3d38027bd264d428beb0d5b483037f6b614a0d3dc18446916137d7eaa254e",
+      "sameAsRelativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/第7讲课后作业_参考答案和作业总结.pdf"
+    },
+    {
+      "sourceAlias": "H0081",
+      "sourcePath": "水文学_马逸/4.往届资料-水文学作业及答案/习题(最新答案)/第14讲课后作业_参考答案和作业总结(设计洪水三).pdf",
+      "bytes": 229840,
+      "sha256": "b525e81a83182fb546b7545e2cdc566689a9e5d0b0960277e54ec34b6cacc02c",
+      "sameAsRelativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/第14讲课后作业_参考答案和作业总结(设计洪水三).pdf"
+    },
+    {
+      "sourceAlias": "H0082",
+      "sourcePath": "水文学_马逸/4.往届资料-水文学作业及答案/习题(最新答案)/第13讲课后作业_参考答案和作业总结(设计洪水二）.pdf",
+      "bytes": 524964,
+      "sha256": "472fabb994cb4a0bef0660f31ce23fc528813a5505796b8121646c025c7efddd",
+      "sameAsRelativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/第13讲课后作业_参考答案和作业总结(设计洪水二）.pdf"
+    },
+    {
+      "sourceAlias": "H0083",
+      "sourcePath": "水文学_马逸/4.往届资料-水文学作业及答案/习题(最新答案)/第12讲课后作业_参考答案和作业总结(设计洪水一）.pdf",
+      "bytes": 700508,
+      "sha256": "7593968eb753603785edc25135eaba66ae3d1562f80a6e3451252456ba34ca6c",
+      "sameAsRelativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/第12讲课后作业_参考答案和作业总结(设计洪水一）.pdf"
+    },
+    {
+      "sourceAlias": "H0084",
+      "sourcePath": "水文学_马逸/4.往届资料-水文学作业及答案/习题(最新答案)/第11讲课后作业_参考答案和作业总结(设计年径流).pdf",
+      "bytes": 283213,
+      "sha256": "d53f115b6624286b6976b66f185d738ffa0ec4350f7fc8be2a5d8a8a167da8c0",
+      "sameAsRelativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/第11讲课后作业_参考答案和作业总结(设计年径流).pdf"
+    },
+    {
+      "sourceAlias": "H0085",
+      "sourcePath": "水文学_马逸/4.往届资料-水文学作业及答案/习题(最新答案)/第10讲课后作业_参考答案和作业总结(水文统计).pdf",
+      "bytes": 564672,
+      "sha256": "1c7d9b16f1e8df7c9d78c21b81045a41aa83c3d71be96ddec8724664429e1032",
+      "sameAsRelativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/第10讲课后作业_参考答案和作业总结(水文统计).pdf"
+    },
+    {
+      "sourceAlias": "H0093",
+      "sourcePath": "水文学_马逸/4.往届资料-水文学作业及答案/两次课堂练习参考答案.pdf",
+      "bytes": 485093,
+      "sha256": "a7aba8b955091b19aeaa0836580c422e1ddb9ed6ed9a5aabcfeb50a12db068f9",
+      "sameAsRelativeTarget": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/习题(最新答案)/两次课堂练习参考答案.pdf"
+    }
+  ],
+  "boundary": "原名和原始内容保持；仅明确标名的两个源码副本按字段清单改输入路径。未执行源码、宏、软件或外链；软件包、缓存及已填身份批改稿未纳本组。",
+  "gitSyncDate": "2026-10-23",
+  "gitFiles": [
+    {
+      "sourceLabel": "H0001",
+      "sourceFileName": "第9讲参考答案和作业总结(流域汇流分析与计算2).pdf",
+      "bytes": 407600,
+      "sha256": "2dabee266df610300596d16d0571f432ae222854b4c5877d49c35d68bdcf5b65",
+      "PDFFilePages": 6,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/作业和答案/第9讲参考答案和作业总结(流域汇流分析与计算2).pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0002",
+      "sourceFileName": "第9讲参考答案和作业总结(流域汇流分析与计算1).pdf",
+      "bytes": 321520,
+      "sha256": "b039b5c2357d9e37965c38096ac1c2952bcf8fe870631881914d1170d1620f35",
+      "PDFFilePages": 5,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/作业和答案/第9讲参考答案和作业总结(流域汇流分析与计算1).pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0003",
+      "sourceFileName": "第8讲课后作业_参考答案和作业总结(流域产流分析和计算).pdf",
+      "bytes": 1268630,
+      "sha256": "4f3885e822392b06a885adaa8399e0baa1c9a87ce2622f19374e376457637a1e",
+      "PDFFilePages": 7,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/作业和答案/第8讲课后作业_参考答案和作业总结(流域产流分析和计算).pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0004",
+      "sourceFileName": "第8讲课后作业_参考答案(河川径流).pdf",
+      "bytes": 282408,
+      "sha256": "e577bcfea2dd8ef6db270feef86437bbddd2cf716b02cebb006046d897a10aea",
+      "PDFFilePages": 4,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/作业和答案/第8讲课后作业_参考答案(河川径流).pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0005",
+      "sourceFileName": "第6讲课后作业_参考答案(河渠、井).pdf",
+      "bytes": 7054879,
+      "sha256": "f8c189f848e70fbb4f4c2fc8533974a5428e028e582b0f9a8fe96f5a5eda7385",
+      "PDFFilePages": 23,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/作业和答案/第6讲课后作业_参考答案(河渠、井).pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0006",
+      "sourceFileName": "第4讲课后作业_参考答案(土壤水分运动方程).pdf",
+      "bytes": 324240,
+      "sha256": "9b7191a45ae2e8d32b9448d47116070deca375e74090729132afa985decef5be",
+      "PDFFilePages": 2,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/作业和答案/第4讲课后作业_参考答案(土壤水分运动方程).pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0007",
+      "sourceFileName": "第3讲课后作业_参考答案和作业总结1019.pdf",
+      "bytes": 524448,
+      "sha256": "fbdc5ea7727c59e0fa9002221fa95fa50c7adf85fe6a31d983a34d3e3661acc7",
+      "PDFFilePages": 7,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/作业和答案/第3讲课后作业_参考答案和作业总结1019.pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0008",
+      "sourceFileName": "第2讲课后作业_参考答案和作业总结1019.pdf",
+      "bytes": 244298,
+      "sha256": "0ce4bdcda77e3a8faf0bf5306faa028e374161cada78e14646a874d6e1a13211",
+      "PDFFilePages": 5,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/作业和答案/第2讲课后作业_参考答案和作业总结1019.pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0009",
+      "sourceFileName": "第1讲课后作业_参考答案和作业总结1009.pdf",
+      "bytes": 500619,
+      "sha256": "380491650cff72ff29d902c8fa76f5e5c736b05c83c6f2279c9961d8aebd38a9",
+      "PDFFilePages": 5,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/作业和答案/第1讲课后作业_参考答案和作业总结1009.pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0010",
+      "sourceFileName": "第13讲设计洪水二课后作业_参考答案和作业总结.pdf",
+      "bytes": 832102,
+      "sha256": "a31d1607633319363c6b5a4ce273899c275f92dfae33de25f336709d60863f14",
+      "PDFFilePages": 5,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/作业和答案/第13讲设计洪水二课后作业_参考答案和作业总结.pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0011",
+      "sourceFileName": "第13讲设计洪水三课后作业_参考答案和作业总结.pdf",
+      "bytes": 413170,
+      "sha256": "8d4d64e2d2e22a9a7eacbcf676e7037b3ad83e9be56c22b56ca86a80ef8715d6",
+      "PDFFilePages": 4,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/作业和答案/第13讲设计洪水三课后作业_参考答案和作业总结.pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0012",
+      "sourceFileName": "第12讲设计洪水一课后作业_参考答案和作业总结.pdf",
+      "bytes": 719094,
+      "sha256": "86f7f025106bab839dfecaa0ea5a7dc2c4496aaa22533e6c58c64b53bace49ba",
+      "PDFFilePages": 6,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/作业和答案/第12讲设计洪水一课后作业_参考答案和作业总结.pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0013",
+      "sourceFileName": "第11讲设计年径流课后作业_参考答案和作业总结.pdf",
+      "bytes": 328641,
+      "sha256": "5221a280de9cc2e83e267c68a5467babd67902edba80f1c864e452d7862dae7d",
+      "PDFFilePages": 5,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/作业和答案/第11讲设计年径流课后作业_参考答案和作业总结.pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0014",
+      "sourceFileName": "第11讲水文统计课后作业_参考答案和作业总结 .pdf",
+      "bytes": 323159,
+      "sha256": "7a009cbf86f6ad6a5f1bc5c2c0fff3f45e20aaca23be52c40d36fc1364e1c86c",
+      "PDFFilePages": 5,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/作业和答案/第11讲水文统计课后作业_参考答案和作业总结 .pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0015",
+      "sourceFileName": "第10讲课后作业_参考答案和作业总结(水文预报).pdf",
+      "bytes": 504900,
+      "sha256": "7d93cfb3e8da4a040f968227e626fcb98468766e02a370a5f22107efa0488904",
+      "PDFFilePages": 7,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/作业和答案/第10讲课后作业_参考答案和作业总结(水文预报).pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0040",
+      "sourceFileName": "第9讲课后作业_参考答案和作业总结.pdf",
+      "bytes": 786044,
+      "sha256": "1a09d8156c4bf67e11579020b65f396632f36dff72741c67b3b163802893487a",
+      "PDFFilePages": 6,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/第9讲课后作业_参考答案和作业总结.pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0041",
+      "sourceFileName": "第8讲课后作业_参考答案和作业总结.pdf",
+      "bytes": 676494,
+      "sha256": "bd201802e151a7d8404bc08532712a6480e345ac0239a90e1079d07212e2e427",
+      "PDFFilePages": 6,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/第8讲课后作业_参考答案和作业总结.pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0042",
+      "sourceFileName": "第7讲课后作业_参考答案和作业总结.pdf",
+      "bytes": 534154,
+      "sha256": "1bb3d38027bd264d428beb0d5b483037f6b614a0d3dc18446916137d7eaa254e",
+      "PDFFilePages": 5,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/第7讲课后作业_参考答案和作业总结.pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0043",
+      "sourceFileName": "第14讲课后作业_参考答案和作业总结(设计洪水三).pdf",
+      "bytes": 229840,
+      "sha256": "b525e81a83182fb546b7545e2cdc566689a9e5d0b0960277e54ec34b6cacc02c",
+      "PDFFilePages": 3,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/第14讲课后作业_参考答案和作业总结(设计洪水三).pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0044",
+      "sourceFileName": "第13讲课后作业_参考答案和作业总结(设计洪水二）.pdf",
+      "bytes": 524964,
+      "sha256": "472fabb994cb4a0bef0660f31ce23fc528813a5505796b8121646c025c7efddd",
+      "PDFFilePages": 5,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/第13讲课后作业_参考答案和作业总结(设计洪水二）.pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0045",
+      "sourceFileName": "第12讲课后作业_参考答案和作业总结(设计洪水一）.pdf",
+      "bytes": 700508,
+      "sha256": "7593968eb753603785edc25135eaba66ae3d1562f80a6e3451252456ba34ca6c",
+      "PDFFilePages": 6,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/第12讲课后作业_参考答案和作业总结(设计洪水一）.pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0046",
+      "sourceFileName": "第11讲课后作业_参考答案和作业总结(设计年径流).pdf",
+      "bytes": 283213,
+      "sha256": "d53f115b6624286b6976b66f185d738ffa0ec4350f7fc8be2a5d8a8a167da8c0",
+      "PDFFilePages": 3,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/第11讲课后作业_参考答案和作业总结(设计年径流).pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0047",
+      "sourceFileName": "第10讲课后作业_参考答案和作业总结(水文统计).pdf",
+      "bytes": 564672,
+      "sha256": "1c7d9b16f1e8df7c9d78c21b81045a41aa83c3d71be96ddec8724664429e1032",
+      "PDFFilePages": 4,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/第10讲课后作业_参考答案和作业总结(水文统计).pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0048",
+      "sourceFileName": "第9讲课后作业_水文预报_20060469.pdf",
+      "bytes": 104845,
+      "sha256": "7e2f8dc5d55db1b495cf96e244b6230cb9bc778bd5a1ec6021a7e98d424246a1",
+      "PDFFilePages": 1,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/参考答案/第9讲课后作业_水文预报_20060469.pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0049",
+      "sourceFileName": "第9讲课后作业_参考答案和作业总结.pdf",
+      "bytes": 623716,
+      "sha256": "22526c3e867dae066cc0f4c71dcf9ff3b8328fe429014aebf3da17585b511a16",
+      "PDFFilePages": 6,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/参考答案/第9讲课后作业_参考答案和作业总结.pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0050",
+      "sourceFileName": "第8讲课后作业_参考答案和作业总结.pdf",
+      "bytes": 354290,
+      "sha256": "fcb704483af682c266519a40494aa4ec38cca2b019ef7cd9f51f9940c0c711e5",
+      "PDFFilePages": 4,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/参考答案/第8讲课后作业_参考答案和作业总结.pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0051",
+      "sourceFileName": "第7讲课后作业_参考答案和作业总结.pdf",
+      "bytes": 370778,
+      "sha256": "edd44f09e5f85b124a7de89ff6edcc7fb0354e6282d86c11afbdee80eb39e7cf",
+      "PDFFilePages": 3,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/参考答案/第7讲课后作业_参考答案和作业总结.pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0052",
+      "sourceFileName": "第6讲课后作业_流域水文模型.pdf",
+      "bytes": 77853,
+      "sha256": "991caa837373bb10ac3a8ca5ad6f4618ac8e07dca41d443c53c0b7ce79649654",
+      "PDFFilePages": 1,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/参考答案/第6讲课后作业_流域水文模型.pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0053",
+      "sourceFileName": "第6讲课后作业_参考答案和作业总结.pdf",
+      "bytes": 335543,
+      "sha256": "37ee5b83c9f6202be72371461e3e499c4c5d797ed200d629900a9573addcd400",
+      "PDFFilePages": 4,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/参考答案/第6讲课后作业_参考答案和作业总结.pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0054",
+      "sourceFileName": "第5讲课后作业_参考答案和作业总结_697105386.pdf",
+      "bytes": 165672,
+      "sha256": "6d7a8a294571c737a8ae1245ef0ac7bdd963f938a7f9bfae08c418b812a313d4",
+      "PDFFilePages": 3,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/参考答案/第5讲课后作业_参考答案和作业总结_697105386.pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0055",
+      "sourceFileName": "第4讲课后作业_参考答案和作业总结.pdf",
+      "bytes": 278277,
+      "sha256": "33b66388cbfe506fb82c5746ba8b9d605f6aee800416f61ee438269700e1160d",
+      "PDFFilePages": 3,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/参考答案/第4讲课后作业_参考答案和作业总结.pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0056",
+      "sourceFileName": "第3讲课后作业_参考答案和作业总结.pdf",
+      "bytes": 177176,
+      "sha256": "d44761fd93468b76feec495906dcfb0552cba36b0e7c9404703aec06cd05c7c3",
+      "PDFFilePages": 4,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/参考答案/第3讲课后作业_参考答案和作业总结.pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0057",
+      "sourceFileName": "第2讲课后作业_参考答案和作业总结.pdf",
+      "bytes": 161106,
+      "sha256": "877e3012413e4c0009c40c657bc47526d9209fddd8b9a715fa8b6b879663fbe8",
+      "PDFFilePages": 4,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/参考答案/第2讲课后作业_参考答案和作业总结.pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0058",
+      "sourceFileName": "第1讲课后作业_参考答案和作业总结.pdf",
+      "bytes": 656175,
+      "sha256": "a2dedaa250fb23c623a5c298916127fd211bba5afe8481d46fba49035db6e1f0",
+      "PDFFilePages": 5,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/参考答案/第1讲课后作业_参考答案和作业总结.pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0059",
+      "sourceFileName": "第14讲课后作业_设计洪水3_371208710.pdf",
+      "bytes": 66209,
+      "sha256": "4e88615f9bfbeb4afa83654ad76302ef9efc16eb9f60b2219ece08263113b4f1",
+      "PDFFilePages": 1,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/参考答案/第14讲课后作业_设计洪水3_371208710.pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0060",
+      "sourceFileName": "第14讲课后作业_参考答案和作业总结_104601737.pdf",
+      "bytes": 73053,
+      "sha256": "ded7d6d252f0908bf98e66a1e76332285433d8bddebf7574a9ffd8413e09efaa",
+      "PDFFilePages": 1,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/参考答案/第14讲课后作业_参考答案和作业总结_104601737.pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0061",
+      "sourceFileName": "第13讲课后作业_设计洪水2_924903200.pdf",
+      "bytes": 124436,
+      "sha256": "81a7f7d7e2db153b56771ddbb640dda7596f60e9d31ebc0f0be5b9126896ada8",
+      "PDFFilePages": 1,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/参考答案/第13讲课后作业_设计洪水2_924903200.pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0062",
+      "sourceFileName": "第13讲课后作业_参考答案和作业总结_119105769.pdf",
+      "bytes": 392231,
+      "sha256": "1a305c1a46485bed9a32f1c0a6f59265649859244511d164ab3a5f9a3c4beb89",
+      "PDFFilePages": 3,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/参考答案/第13讲课后作业_参考答案和作业总结_119105769.pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0063",
+      "sourceFileName": "第12讲课后作业_设计洪水1_128604158.pdf",
+      "bytes": 56665,
+      "sha256": "7692c0acf6fad68b7e1b0ec274f724ec0fcba76b28f51c01d73f070f7c298ece",
+      "PDFFilePages": 1,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/参考答案/第12讲课后作业_设计洪水1_128604158.pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0064",
+      "sourceFileName": "第12讲课后作业_参考答案和作业总结_24106543.pdf",
+      "bytes": 574253,
+      "sha256": "ef43200ebe45fe8d7f3a9e9da00144eefe0ff0c85af3d143df60ea2921d2ead0",
+      "PDFFilePages": 5,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/参考答案/第12讲课后作业_参考答案和作业总结_24106543.pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0065",
+      "sourceFileName": "第11讲课后作业_设计年径流_935403130.pdf",
+      "bytes": 89670,
+      "sha256": "2bdbe69bac737d9b25f108b3c30af43e7f84ec4e4fdf5ea8744d6d3f31942fbf",
+      "PDFFilePages": 1,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/参考答案/第11讲课后作业_设计年径流_935403130.pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0066",
+      "sourceFileName": "第11讲课后作业_参考答案和作业总结_468502231.pdf",
+      "bytes": 121931,
+      "sha256": "f162d99cd23501d37f8f510fa8430cb17c4eb4819a2eb74b335269f98d118d4f",
+      "PDFFilePages": 2,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/参考答案/第11讲课后作业_参考答案和作业总结_468502231.pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0067",
+      "sourceFileName": "第10讲课后作业_水文统计_935605928.pdf",
+      "bytes": 75443,
+      "sha256": "47cbb48fe6b8fa11c4c154d96e7d82030098800312443074e3bb7164158ff295",
+      "PDFFilePages": 1,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/参考答案/第10讲课后作业_水文统计_935605928.pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0068",
+      "sourceFileName": "第10讲课后作业_参考答案和作业总结_435403197.pdf",
+      "bytes": 300619,
+      "sha256": "58f633b2158496b9a1ad8a052bc7bc8ea326af37f0d64b34f6584151f045896e",
+      "PDFFilePages": 4,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/参考答案/第10讲课后作业_参考答案和作业总结_435403197.pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0069",
+      "sourceFileName": "第10章课后作业之三_235409063.pdf",
+      "bytes": 81987,
+      "sha256": "bf1e86776922511cbf6b1e7f97bd53854baa79701cdf80567b14f1ff4a430436",
+      "PDFFilePages": 1,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/参考答案/第10章课后作业之三_235409063.pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0072",
+      "sourceFileName": "适线法.rtf",
+      "bytes": 5020,
+      "sha256": "7ae5bb504d48e08026fabe7ecd992c8739bd43512bded064f0f271777b3fabf7",
+      "PDFFilePages": null,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/习题(最新答案)/适线法.rtf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0076",
+      "sourceFileName": "第6讲课后作业_参考答案和作业总结.pdf",
+      "bytes": 556122,
+      "sha256": "335fa738099e729591184580c7a37d3c8785c383b708235170976877dc1d43ba",
+      "PDFFilePages": 7,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/习题(最新答案)/第6讲课后作业_参考答案和作业总结.pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0077",
+      "sourceFileName": "第5讲课后作业_参考答案和作业总结.pdf",
+      "bytes": 216847,
+      "sha256": "cc92ecd59e61075123277bf8b2819f946be1a7aa354ea351e9abd095ad0cc17d",
+      "PDFFilePages": 4,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/习题(最新答案)/第5讲课后作业_参考答案和作业总结.pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0078",
+      "sourceFileName": "第4讲课后作业_参考答案和作业总结.pdf",
+      "bytes": 655029,
+      "sha256": "5f9b3370667538cf88fa84bbc070e524600201b6f71094564ae39366292e55e1",
+      "PDFFilePages": 5,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/习题(最新答案)/第4讲课后作业_参考答案和作业总结.pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0079",
+      "sourceFileName": "第3讲课后作业_参考答案和作业总结.pdf",
+      "bytes": 413935,
+      "sha256": "8ad2d9073feef29252530dd74604990677e4f4b3ec9de571300bb30e3e21ac78",
+      "PDFFilePages": 6,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/习题(最新答案)/第3讲课后作业_参考答案和作业总结.pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0080",
+      "sourceFileName": "第2讲课后作业_参考答案和作业总结.pdf",
+      "bytes": 288479,
+      "sha256": "b97f96d4b0f22fb6cc1482fef94515d38c175da555886ad6e0c0ec1093b6187c",
+      "PDFFilePages": 5,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/习题(最新答案)/第2讲课后作业_参考答案和作业总结.pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0086",
+      "sourceFileName": "两次课堂练习参考答案.pdf",
+      "bytes": 485093,
+      "sha256": "a7aba8b955091b19aeaa0836580c422e1ddb9ed6ed9a5aabcfeb50a12db068f9",
+      "PDFFilePages": 3,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/习题(最新答案)/两次课堂练习参考答案.pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0087",
+      "sourceFileName": "Muskingum Method.py",
+      "bytes": 2010,
+      "sha256": "eae559ae2eb89b06108b863d8ae9873ca4eb97dd386d44c64b4e433439ce217a",
+      "PDFFilePages": null,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/习题(最新答案)/Muskingum Method.py",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0115",
+      "sourceFileName": "5.PNG",
+      "bytes": 77190,
+      "sha256": "7ddbe76ef6e7e189e3a3d0a9c9232d151ab60a81e547b6a213d3ad4e1f617dd4",
+      "PDFFilePages": null,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/5.水文学原理及应用往届资料/作业/5.PNG",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0116",
+      "sourceFileName": "4.PNG",
+      "bytes": 55111,
+      "sha256": "c9b541f51745011998cc8624359fd1ad7b1e0293f7c80ee9833f122e81ea0bc9",
+      "PDFFilePages": null,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/5.水文学原理及应用往届资料/作业/4.PNG",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0117",
+      "sourceFileName": "3.PNG",
+      "bytes": 66788,
+      "sha256": "c1a7ca6d18fec93b03c9b398701cb8feac7cb73b4e5e4c0c20974e8f95dea23f",
+      "PDFFilePages": null,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/5.水文学原理及应用往届资料/作业/3.PNG",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0118",
+      "sourceFileName": "2.PNG",
+      "bytes": 77233,
+      "sha256": "b8c4a94bd04f506a2a2c78dd34cc9639f5b9a27c2dd1c7e874099d5f26196282",
+      "PDFFilePages": null,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/5.水文学原理及应用往届资料/作业/2.PNG",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0119",
+      "sourceFileName": "1.PNG",
+      "bytes": 82976,
+      "sha256": "8c0fae9b8d6f9ae6435acbe88b87ac4375a267bcb8349eda601e73fa2674d9b2",
+      "PDFFilePages": null,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/习题与解答/相关课程参考_水文作业题目与参考_黄逸洋public/4.往届资料-水文学作业及答案/5.水文学原理及应用往届资料/作业/1.PNG",
+      "gitSyncStatus": "published_original_bytes"
+    }
+  ],
+  "gitScope": "本次Git同步106个原字节学习文件、2个已明确标名“移除私人输入路径的整理副本”的Python源码，以及12份来源说明。两副本仅将绝对CSV输入路径改为唯一匹配的同目录文件名，原SHA与副本SHA分别记录，未执行源码、宏、公式或模型。其它来源同SHA别名继续在清单关联；未发布原包、身份暂缓项及过程材料。",
+  "gitReviewBoundary": "63个PDF合计1025文件页均静态提取文字与元信息，实际查看132个角色/考试页（其中考试组5件24页全看），未称1025页全部视觉审查；70个去重内嵌及原PNG图像实际查看，含透明图白底复核。4旧XLS共18工作表15830个存储单元格静态解析；5XLSX全包XML/CRC静态读取，未计算公式。两PPTX及一DOCX全部45+3媒体（去重）视读，无嵌入执行；全部源码只读不执行。CSV数字命中为体积含水率列小数，不作个人编号。两源码整理副本仅已唯一同目录CSV输入路径改文件名，原/副本SHA分列，沿上游其它字节守恒证据，当前副本与配套CSV独立核SHA，不读已暂缓原源码。 云盘证据沿上游逐名及8代表文件SHA验收，不称120文件全部本次cloudSHA回取。题目参考不认标准答案，原页序圈记保持；教材版权年未证不补。"
+}

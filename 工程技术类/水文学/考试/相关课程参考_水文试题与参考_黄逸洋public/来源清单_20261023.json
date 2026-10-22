@@ -1,0 +1,143 @@
+{
+  "source": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E4%BD%9C%E4%B8%9A%E5%92%8C%E7%AD%94%E6%A1%88%2F%E7%AC%AC9%E8%AE%B2%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%E5%92%8C%E4%BD%9C%E4%B8%9A%E6%80%BB%E7%BB%93(%E6%B5%81%E5%9F%9F%E6%B1%87%E6%B5%81%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%A1%E7%AE%972).pdf",
+  "sourceLabel": "黄逸洋public / 水文学_马逸",
+  "role": "来源期中及期末目录中的试题和参考。六页地下水试卷含不同卷面与排印参考，三页2011_Sol为手写参考；2008同字节题卷在两来源位置出现，仅保存一份并记录关联。来源目录标签与卷面角色分别理解。",
+  "items": [
+    {
+      "sourceAlias": "H0018",
+      "originalName": "2008水文学(1)A卷.pdf",
+      "bytes": 257941,
+      "sha256": "756304e266cbbcf711c160d93c68e65a29a9c21f705059d9a40de68c9385f89d",
+      "relativeTarget": "工程技术类/水文学/考试/相关课程参考_水文试题与参考_黄逸洋public/2008水文学(1)A卷.pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F7.%E6%B0%B4%E6%96%87%E5%AD%A6%E6%9C%9F%E6%9C%AB%2F2008%E6%B0%B4%E6%96%87%E5%AD%A6(1)A%E5%8D%B7.pdf",
+      "sourcePath": "水文学_马逸/7.水文学期末/2008水文学(1)A卷.pdf"
+    },
+    {
+      "sourceAlias": "H0019",
+      "originalName": "2008水文学(1)A卷-参考答案.pdf",
+      "bytes": 155384,
+      "sha256": "34d1a690891c09563e3eb53e5083233171b7fa0ccf6a238ae2bf88993f70e0a8",
+      "relativeTarget": "工程技术类/水文学/考试/相关课程参考_水文试题与参考_黄逸洋public/2008水文学(1)A卷-参考答案.pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F7.%E6%B0%B4%E6%96%87%E5%AD%A6%E6%9C%9F%E6%9C%AB%2F2008%E6%B0%B4%E6%96%87%E5%AD%A6(1)A%E5%8D%B7-%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+      "sourcePath": "水文学_马逸/7.水文学期末/2008水文学(1)A卷-参考答案.pdf"
+    },
+    {
+      "sourceAlias": "H0021",
+      "originalName": "地下水文学部分试卷.pdf",
+      "bytes": 18224524,
+      "sha256": "e682e7bd5fb305c96e113439c4683699564d50d4cfdbabc733c451d7e63102a5",
+      "relativeTarget": "工程技术类/水文学/考试/相关课程参考_水文试题与参考_黄逸洋public/地下水文学部分试卷.pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F6.%E6%B0%B4%E6%96%87%E5%AD%A6%E6%9C%9F%E4%B8%AD%2F%E5%9C%B0%E4%B8%8B%E6%B0%B4%E6%96%87%E5%AD%A6%E9%83%A8%E5%88%86%E8%AF%95%E5%8D%B7.pdf",
+      "sourcePath": "水文学_马逸/6.水文学期中/地下水文学部分试卷.pdf"
+    },
+    {
+      "sourceAlias": "H0024",
+      "originalName": "2011_Sol.pdf",
+      "bytes": 1166871,
+      "sha256": "bdea02b43f06bb144a6b0dc72f29cbefb25c8acb0a26355599f89421bda0f65e",
+      "relativeTarget": "工程技术类/水文学/考试/相关课程参考_水文试题与参考_黄逸洋public/2011_Sol.pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F6.%E6%B0%B4%E6%96%87%E5%AD%A6%E6%9C%9F%E4%B8%AD%2F2011_Sol.pdf",
+      "sourcePath": "水文学_马逸/6.水文学期中/2011_Sol.pdf"
+    },
+    {
+      "sourceAlias": "H0025",
+      "originalName": "2008水文期中考试题目-参考答案.pdf",
+      "bytes": 219110,
+      "sha256": "0f114921e0305403933013f76a63f5bfd826122af896c08e4d43c1449ea8d4a0",
+      "relativeTarget": "工程技术类/水文学/考试/相关课程参考_水文试题与参考_黄逸洋public/2008水文期中考试题目-参考答案.pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F6.%E6%B0%B4%E6%96%87%E5%AD%A6%E6%9C%9F%E4%B8%AD%2F2008%E6%B0%B4%E6%96%87%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE-%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+      "sourcePath": "水文学_马逸/6.水文学期中/2008水文期中考试题目-参考答案.pdf"
+    }
+  ],
+  "sameSHAOtherSourcePaths": [
+    {
+      "sourceAlias": "H0026",
+      "sourcePath": "水文学_马逸/6.水文学期中/2008水文学(1)A卷.pdf",
+      "bytes": 257941,
+      "sha256": "756304e266cbbcf711c160d93c68e65a29a9c21f705059d9a40de68c9385f89d",
+      "sameAsRelativeTarget": "工程技术类/水文学/考试/相关课程参考_水文试题与参考_黄逸洋public/2008水文学(1)A卷.pdf"
+    },
+    {
+      "sourceAlias": "H0027",
+      "sourcePath": "水文学_马逸/6.水文学期中/2008水文学(1)A卷-参考答案.pdf",
+      "bytes": 155384,
+      "sha256": "34d1a690891c09563e3eb53e5083233171b7fa0ccf6a238ae2bf88993f70e0a8",
+      "sameAsRelativeTarget": "工程技术类/水文学/考试/相关课程参考_水文试题与参考_黄逸洋public/2008水文学(1)A卷-参考答案.pdf"
+    },
+    {
+      "sourceAlias": "H0094",
+      "sourcePath": "水文学_马逸/4.往届资料-水文学作业及答案/5.水文学原理及应用往届资料/试题/两份水文试卷.pdf",
+      "bytes": 18224524,
+      "sha256": "e682e7bd5fb305c96e113439c4683699564d50d4cfdbabc733c451d7e63102a5",
+      "sameAsRelativeTarget": "工程技术类/水文学/考试/相关课程参考_水文试题与参考_黄逸洋public/地下水文学部分试卷.pdf"
+    },
+    {
+      "sourceAlias": "H0095",
+      "sourcePath": "水文学_马逸/4.往届资料-水文学作业及答案/5.水文学原理及应用往届资料/试题/2011_Sol.pdf",
+      "bytes": 1166871,
+      "sha256": "bdea02b43f06bb144a6b0dc72f29cbefb25c8acb0a26355599f89421bda0f65e",
+      "sameAsRelativeTarget": "工程技术类/水文学/考试/相关课程参考_水文试题与参考_黄逸洋public/2011_Sol.pdf"
+    }
+  ],
+  "boundary": "原名和原始内容保持；仅明确标名的两个源码副本按字段清单改输入路径。未执行源码、宏、软件或外链；软件包、缓存及已填身份批改稿未纳本组。",
+  "gitSyncDate": "2026-10-23",
+  "gitFiles": [
+    {
+      "sourceLabel": "H0018",
+      "sourceFileName": "2008水文学(1)A卷.pdf",
+      "bytes": 257941,
+      "sha256": "756304e266cbbcf711c160d93c68e65a29a9c21f705059d9a40de68c9385f89d",
+      "PDFFilePages": 5,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/考试/相关课程参考_水文试题与参考_黄逸洋public/2008水文学(1)A卷.pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0019",
+      "sourceFileName": "2008水文学(1)A卷-参考答案.pdf",
+      "bytes": 155384,
+      "sha256": "34d1a690891c09563e3eb53e5083233171b7fa0ccf6a238ae2bf88993f70e0a8",
+      "PDFFilePages": 5,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/考试/相关课程参考_水文试题与参考_黄逸洋public/2008水文学(1)A卷-参考答案.pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0021",
+      "sourceFileName": "地下水文学部分试卷.pdf",
+      "bytes": 18224524,
+      "sha256": "e682e7bd5fb305c96e113439c4683699564d50d4cfdbabc733c451d7e63102a5",
+      "PDFFilePages": 6,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/考试/相关课程参考_水文试题与参考_黄逸洋public/地下水文学部分试卷.pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0024",
+      "sourceFileName": "2011_Sol.pdf",
+      "bytes": 1166871,
+      "sha256": "bdea02b43f06bb144a6b0dc72f29cbefb25c8acb0a26355599f89421bda0f65e",
+      "PDFFilePages": 3,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/考试/相关课程参考_水文试题与参考_黄逸洋public/2011_Sol.pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0025",
+      "sourceFileName": "2008水文期中考试题目-参考答案.pdf",
+      "bytes": 219110,
+      "sha256": "0f114921e0305403933013f76a63f5bfd826122af896c08e4d43c1449ea8d4a0",
+      "PDFFilePages": 5,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/考试/相关课程参考_水文试题与参考_黄逸洋public/2008水文期中考试题目-参考答案.pdf",
+      "gitSyncStatus": "published_original_bytes"
+    }
+  ],
+  "gitScope": "本次Git同步106个原字节学习文件、2个已明确标名“移除私人输入路径的整理副本”的Python源码，以及12份来源说明。两副本仅将绝对CSV输入路径改为唯一匹配的同目录文件名，原SHA与副本SHA分别记录，未执行源码、宏、公式或模型。其它来源同SHA别名继续在清单关联；未发布原包、身份暂缓项及过程材料。",
+  "gitReviewBoundary": "63个PDF合计1025文件页均静态提取文字与元信息，实际查看132个角色/考试页（其中考试组5件24页全看），未称1025页全部视觉审查；70个去重内嵌及原PNG图像实际查看，含透明图白底复核。4旧XLS共18工作表15830个存储单元格静态解析；5XLSX全包XML/CRC静态读取，未计算公式。两PPTX及一DOCX全部45+3媒体（去重）视读，无嵌入执行；全部源码只读不执行。CSV数字命中为体积含水率列小数，不作个人编号。两源码整理副本仅已唯一同目录CSV输入路径改文件名，原/副本SHA分列，沿上游其它字节守恒证据，当前副本与配套CSV独立核SHA，不读已暂缓原源码。 云盘证据沿上游逐名及8代表文件SHA验收，不称120文件全部本次cloudSHA回取。题目参考不认标准答案，原页序圈记保持；教材版权年未证不补。"
+}

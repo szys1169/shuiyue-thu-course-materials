@@ -1,0 +1,175 @@
+{\rtf1\ansi\ansicpg936\cocoartf1561\cocoasubrtf200
+{\fonttbl\f0\fnil\fcharset0 Menlo-Italic;\f1\fnil\fcharset0 Menlo-Bold;\f2\fnil\fcharset0 Menlo-Regular;
+}
+{\colortbl;\red255\green255\blue255;\red109\green109\blue109;\red0\green0\blue109;\red0\green0\blue254;
+\red14\green110\blue109;\red82\green0\blue135;}
+{\*\expandedcolortbl;;\csgenericrgb\c42745\c42745\c42745;\csgenericrgb\c0\c0\c42745;\csgenericrgb\c0\c0\c99608;
+\csgenericrgb\c5490\c43137\c42745;\csgenericrgb\c32157\c0\c52941;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww16680\viewh10340\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\i\fs24 \cf2 # coding: utf-8\
+
+\f1\i0\b \cf3 from 
+\f2\b0 \cf0 sympy 
+\f1\b \cf3 import 
+\f2\b0 \cf0 diff\
+
+\f1\b \cf3 from 
+\f2\b0 \cf0 scipy 
+\f1\b \cf3 import 
+\f2\b0 \cf0 optimize\
+
+\f1\b \cf3 from 
+\f2\b0 \cf0 scipy 
+\f1\b \cf3 import 
+\f2\b0 \cf0 integrate\
+
+\f1\b \cf3 import 
+\f2\b0 \cf0 scipy\
+
+\f1\b \cf3 import 
+\f2\b0 \cf0 matplotlib.pyplot\
+
+\f1\b \cf3 import 
+\f2\b0 \cf0 numpy 
+\f1\b \cf3 as 
+\f2\b0 \cf0 np\
+\
+
+\f1\b \cf3 import 
+\f2\b0 \cf0 math\
+\
+pi = np.array([\cf4 0.0040\cf0 ,\cf4 0.0080\cf0 ,\cf4 0.0202\cf0 ,\cf4 0.0611\cf0 ,\cf4 0.1019\cf0 ,\
+               \cf4 0.1427\cf0 ,\cf4 0.1835\cf0 ,\cf4 0.2244\cf0 ,\cf4 0.2652\cf0 ,\cf4 0.3060\cf0 ,\
+               \cf4 0.3468\cf0 ,\cf4 0.3877\cf0 ,\cf4 0.4285\cf0 ,\cf4 0.4693\cf0 ,\cf4 0.5101\cf0 ,\
+               \cf4 0.5509\cf0 ,\cf4 0.5918\cf0 ,\cf4 0.6326\cf0 ,\cf4 0.6734\cf0 ,\cf4 0.7142\cf0 ,\
+               \cf4 0.7551\cf0 ,\cf4 0.7959\cf0 ,\cf4 0.8367\cf0 ,\cf4 0.8775\cf0 ,\cf4 0.9184\cf0 ,\
+               \cf4 0.9592\cf0 ])\
+Qi = np.array([\cf4 4095\cf0 ,\cf4 3470\cf0 ,\cf4 3100\cf0 ,\cf4 1820\cf0 ,\cf4 1750\cf0 ,\
+               \cf4 1450\cf0 ,\cf4 896\cf0 ,\cf4 894\cf0 ,\cf4 690\cf0 ,\cf4 625\cf0 ,\
+               \cf4 358\cf0 ,\cf4 327\cf0 ,\cf4 304\cf0 ,\cf4 180\cf0 ,\cf4 169\cf0 ,\
+               \cf4 143\cf0 ,\cf4 131\cf0 ,\cf4 124\cf0 ,\cf4 119\cf0 ,\cf4 116\cf0 ,\
+               \cf4 106\cf0 ,\cf4 99.6\cf0 ,\cf4 68\cf0 ,\cf4 57.3\cf0 ,\cf4 42.6\cf0 ,\
+               \cf4 31.2\cf0 ])\
+\
+
+\f1\b \cf3 def 
+\f2\b0 \cf0 fim(x):\
+    sum = \cf4 0\
+    
+\f1\b \cf3 def 
+\f2\b0 \cf0 p3(q):\
+        
+\f1\b \cf3 return 
+\f2\b0 \cf0 np.power(x[\cf4 1\cf0 ], x[\cf4 0\cf0 ]) / scipy.special.gamma(x[\cf4 0\cf0 ]) * (\
+        np.power((q - x[\cf4 2\cf0 ]), x[\cf4 0\cf0 ] - \cf4 1\cf0 )) * np.exp(-x[\cf4 1\cf0 ] * (q - x[\cf4 2\cf0 ]))\
+\
+    
+\f1\b \cf3 for 
+\f2\b0 \cf0 i 
+\f1\b \cf3 in 
+\f2\b0 range\cf0 (\cf4 0\cf0 ,\cf4 26\cf0 ):\
+        sum += (\
+            (scipy.integrate.quad(p3,Qi[i],np.inf)[\cf4 0\cf0 ]-pi[i])**\cf4 2\
+        \cf0 )\
+    
+\f1\b \cf3 return 
+\f2\b0 \cf0 sum\
+\
+cons = (\{
+\f1\b \cf5 'type'
+\f2\b0 \cf0 :
+\f1\b \cf5 'ineq'
+\f2\b0 \cf0 ,
+\f1\b \cf5 'fun'
+\f2\b0 \cf0 :
+\f1\b \cf3 lambda 
+\f2\b0 \cf0 x: -x[\cf4 2\cf0 ]+\cf4 31.1\cf0 \},\
+        \{
+\f1\b \cf5 'type'
+\f2\b0 \cf0 :
+\f1\b \cf5 'ineq'
+\f2\b0 \cf0 ,
+\f1\b \cf5 'fun'
+\f2\b0 \cf0 :
+\f1\b \cf3 lambda 
+\f2\b0 \cf0 x: x[\cf4 1\cf0 ]\})\
+\
+re = optimize.minimize(fim,(\cf4 0.77\cf0 ,\cf4 0.019\cf0 ,\cf4 31.1\cf0 ),\cf6 constraints\cf0 =cons)\
+FitFunc = re.x\
+\
+\cf3 print\cf0 (re)\
+\cf3 print\cf0 (FitFunc)\
+\
+
+\f1\b \cf3 def 
+\f2\b0 \cf0 p3(q):\
+    
+\f1\b \cf3 return 
+\f2\b0 \cf0 np.power(FitFunc[\cf4 1\cf0 ], FitFunc[\cf4 0\cf0 ]) / scipy.special.gamma(FitFunc[\cf4 0\cf0 ]) *(np.power((q - FitFunc[\cf4 2\cf0 ]), FitFunc[\cf4 0\cf0 ] - \cf4 1\cf0 )) * np.exp(-FitFunc[\cf4 1\cf0 ] * (q - FitFunc[\cf4 2\cf0 ]))\
+\
+Q1 = np.linspace(\cf4 32\cf0 ,\cf4 5000\cf0 ,\cf4 500\cf0 )\
+p1 = []\
+\
+
+\f1\b \cf3 for 
+\f2\b0 \cf0 i 
+\f1\b \cf3 in 
+\f2\b0 range\cf0 (\cf4 0\cf0 ,\cf4 500\cf0 ):\
+    p1.append(scipy.integrate.quad(p3,Q1[i],np.inf)[\cf4 0\cf0 ])\
+\
+\cf3 print\cf0 (p1)\
+\
+
+\f1\b \cf3 def 
+\f2\b0 \cf0 p(q):\
+    
+\f1\b \cf3 return 
+\f2\b0 \cf0 scipy.integrate.quad(p3,q,np.inf)[\cf4 0\cf0 ]-\cf4 0.01\
+\
+\cf0 result = scipy.optimize.fsolve(p,\cf4 4000\cf0 )\
+\cf3 print\cf0 (result)\
+\
+
+\f1\b \cf5 '''\
+matplotlib.pyplot.xlabel('t/h')\
+matplotlib.pyplot.ylabel('infiltration rate/($mm\\cdot h^\{-1\}$)')\
+matplotlib.pyplot.xlim(0,18)\
+matplotlib.pyplot.xticks(np.linspace(0,18,19))\
+matplotlib.pyplot.yticks(np.linspace(0,50,11))\
+'''\
+\
+\
+
+\f0\i\b0 \cf2 #matplotlib.pyplot.scatter(x,y,marker='+',color='r',label='observation')\
+\
+\
+
+\f2\i0 \cf0 matplotlib.pyplot.plot(p1,Q1,\cf6 linewidth\cf0 =\cf4 0.5\cf0 ,\cf6 color\cf0 =
+\f1\b \cf5 'r'
+\f2\b0 \cf0 )\
+matplotlib.pyplot.scatter(pi,Qi,\cf6 s\cf0 =\cf4 0.5\cf0 )\
+matplotlib.pyplot.ylabel(
+\f1\b \cf5 'Q/($m^3/s$)'
+\f2\b0 \cf0 )\
+matplotlib.pyplot.xlabel(
+\f1\b \cf5 'p'
+\f2\b0 \cf0 )\
+\
+
+\f1\b \cf5 '''\
+matplotlib.pyplot.plot(x1,y1,linewidth=0.5,linestyle="--",color='r')\
+matplotlib.pyplot.annotate('3.60',xy=(0,3.6),xytext=(-1.2,2.7),color='red')\
+\
+matplotlib.pyplot.legend()\
+\
+'''\
+\
+
+\f2\b0 \cf0 matplotlib.pyplot.grid(
+\f1\b \cf3 True
+\f2\b0 \cf0 )\
+matplotlib.pyplot.show()\
+\
+}

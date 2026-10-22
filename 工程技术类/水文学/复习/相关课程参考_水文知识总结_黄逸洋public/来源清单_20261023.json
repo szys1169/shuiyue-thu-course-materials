@@ -1,0 +1,62 @@
+{
+  "source": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E4%BD%9C%E4%B8%9A%E5%92%8C%E7%AD%94%E6%A1%88%2F%E7%AC%AC9%E8%AE%B2%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%E5%92%8C%E4%BD%9C%E4%B8%9A%E6%80%BB%E7%BB%93(%E6%B5%81%E5%9F%9F%E6%B1%87%E6%B5%81%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%A1%E7%AE%972).pdf",
+  "sourceLabel": "黄逸洋public / 水文学_马逸",
+  "role": "流域与地下水知识整理，按现有来源与版本使用，不作为当前考试范围承诺。",
+  "items": [
+    {
+      "sourceAlias": "H0020",
+      "originalName": "流域水文学知识总结.pdf",
+      "bytes": 16214932,
+      "sha256": "dc92286e1fbab3562ccdb6e8dbc3b65cf6c93a99097d78e11c4c4ae1d1843294",
+      "relativeTarget": "工程技术类/水文学/复习/相关课程参考_水文知识总结_黄逸洋public/流域水文学知识总结.pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F6.%E6%B0%B4%E6%96%87%E5%AD%A6%E6%9C%9F%E4%B8%AD%2F%E6%B5%81%E5%9F%9F%E6%B0%B4%E6%96%87%E5%AD%A6%E7%9F%A5%E8%AF%86%E6%80%BB%E7%BB%93.pdf",
+      "sourcePath": "水文学_马逸/6.水文学期中/流域水文学知识总结.pdf"
+    },
+    {
+      "sourceAlias": "H0022",
+      "originalName": "地下水文学知识总结.pdf",
+      "bytes": 4503092,
+      "sha256": "b7445cdaad21faa9e14a4f43bf009b9c55a6c4fbde7ffa13f24517bd871799eb",
+      "relativeTarget": "工程技术类/水文学/复习/相关课程参考_水文知识总结_黄逸洋public/地下水文学知识总结.pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F6.%E6%B0%B4%E6%96%87%E5%AD%A6%E6%9C%9F%E4%B8%AD%2F%E5%9C%B0%E4%B8%8B%E6%B0%B4%E6%96%87%E5%AD%A6%E7%9F%A5%E8%AF%86%E6%80%BB%E7%BB%93.pdf",
+      "sourcePath": "水文学_马逸/6.水文学期中/地下水文学知识总结.pdf"
+    }
+  ],
+  "sameSHAOtherSourcePaths": [
+    {
+      "sourceAlias": "H0096",
+      "sourcePath": "水文学_马逸/4.往届资料-水文学作业及答案/5.水文学原理及应用往届资料/水文学原理及其应用知识总结.pdf",
+      "bytes": 4503092,
+      "sha256": "b7445cdaad21faa9e14a4f43bf009b9c55a6c4fbde7ffa13f24517bd871799eb",
+      "sameAsRelativeTarget": "工程技术类/水文学/复习/相关课程参考_水文知识总结_黄逸洋public/地下水文学知识总结.pdf"
+    }
+  ],
+  "boundary": "原名和原始内容保持；仅明确标名的两个源码副本按字段清单改输入路径。未执行源码、宏、软件或外链；软件包、缓存及已填身份批改稿未纳本组。",
+  "gitSyncDate": "2026-10-23",
+  "gitFiles": [
+    {
+      "sourceLabel": "H0020",
+      "sourceFileName": "流域水文学知识总结.pdf",
+      "bytes": 16214932,
+      "sha256": "dc92286e1fbab3562ccdb6e8dbc3b65cf6c93a99097d78e11c4c4ae1d1843294",
+      "PDFFilePages": 56,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/复习/相关课程参考_水文知识总结_黄逸洋public/流域水文学知识总结.pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0022",
+      "sourceFileName": "地下水文学知识总结.pdf",
+      "bytes": 4503092,
+      "sha256": "b7445cdaad21faa9e14a4f43bf009b9c55a6c4fbde7ffa13f24517bd871799eb",
+      "PDFFilePages": 34,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/复习/相关课程参考_水文知识总结_黄逸洋public/地下水文学知识总结.pdf",
+      "gitSyncStatus": "published_original_bytes"
+    }
+  ],
+  "gitScope": "本次Git同步106个原字节学习文件、2个已明确标名“移除私人输入路径的整理副本”的Python源码，以及12份来源说明。两副本仅将绝对CSV输入路径改为唯一匹配的同目录文件名，原SHA与副本SHA分别记录，未执行源码、宏、公式或模型。其它来源同SHA别名继续在清单关联；未发布原包、身份暂缓项及过程材料。",
+  "gitReviewBoundary": "63个PDF合计1025文件页均静态提取文字与元信息，实际查看132个角色/考试页（其中考试组5件24页全看），未称1025页全部视觉审查；70个去重内嵌及原PNG图像实际查看，含透明图白底复核。4旧XLS共18工作表15830个存储单元格静态解析；5XLSX全包XML/CRC静态读取，未计算公式。两PPTX及一DOCX全部45+3媒体（去重）视读，无嵌入执行；全部源码只读不执行。CSV数字命中为体积含水率列小数，不作个人编号。两源码整理副本仅已唯一同目录CSV输入路径改文件名，原/副本SHA分列，沿上游其它字节守恒证据，当前副本与配套CSV独立核SHA，不读已暂缓原源码。 云盘证据沿上游逐名及8代表文件SHA验收，不称120文件全部本次cloudSHA回取。题目参考不认标准答案，原页序圈记保持；教材版权年未证不补。"
+}

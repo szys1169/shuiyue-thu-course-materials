@@ -1,0 +1,900 @@
+{
+  "source": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E4%BD%9C%E4%B8%9A%E5%92%8C%E7%AD%94%E6%A1%88%2F%E7%AC%AC9%E8%AE%B2%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%E5%92%8C%E4%BD%9C%E4%B8%9A%E6%80%BB%E7%BB%93(%E6%B5%81%E5%9F%9F%E6%B1%87%E6%B5%81%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%A1%E7%AE%972).pdf",
+  "sourceLabel": "黄逸洋public / 水文学_马逸",
+  "role": "历史实验数据表、CSV、图像及拟合源码。数据仅作来源参考，不作为用户本人实测；两件明确标名的源码整理副本仅将已唯一匹配同目录CSV的私人绝对输入路径改为文件名，其余字节保持，未执行。本次Git同步已静态解析4件旧XLS全部18工作表15830个存储单元格，未执行公式。",
+  "items": [
+    {
+      "sourceAlias": "H0097",
+      "originalName": "实验数据.xls",
+      "bytes": 176128,
+      "sha256": "462d9bfef45efad005044ceef246c99ba4e4ae64b9f7bd6286ddb2e6d1ad510e",
+      "relativeTarget": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/历史实验数据/实验数据.xls",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F4.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99-%E6%B0%B4%E6%96%87%E5%AD%A6%E4%BD%9C%E4%B8%9A%E5%8F%8A%E7%AD%94%E6%A1%88%2F5.%E6%B0%B4%E6%96%87%E5%AD%A6%E5%8E%9F%E7%90%86%E5%8F%8A%E5%BA%94%E7%94%A8%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E5%BE%80%E6%9C%9F%E8%B5%84%E6%96%99%2F%E5%AE%9E%E9%AA%8C%E6%95%B0%E6%8D%AE.xls",
+      "sourcePath": "水文学_马逸/4.往届资料-水文学作业及答案/5.水文学原理及应用往届资料/往期资料/实验数据.xls"
+    },
+    {
+      "sourceAlias": "H0101",
+      "originalName": "Untitled.m",
+      "bytes": 835,
+      "sha256": "55b4cf59014c5d5f3ff46dcf15b7b519ba30d08b846b74e753cc235809ddf562",
+      "relativeTarget": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/历史实验数据/Untitled.m",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F4.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99-%E6%B0%B4%E6%96%87%E5%AD%A6%E4%BD%9C%E4%B8%9A%E5%8F%8A%E7%AD%94%E6%A1%88%2F5.%E6%B0%B4%E6%96%87%E5%AD%A6%E5%8E%9F%E7%90%86%E5%8F%8A%E5%BA%94%E7%94%A8%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E5%BE%80%E6%9C%9F%E8%B5%84%E6%96%99%2FUntitled.m",
+      "sourcePath": "水文学_马逸/4.往届资料-水文学作业及答案/5.水文学原理及应用往届资料/往期资料/Untitled.m"
+    },
+    {
+      "sourceAlias": "H0102",
+      "originalName": "2017-实验数据.xls",
+      "bytes": 131072,
+      "sha256": "67116de403c978d48c25a9c9011ed8feae32a20bc717e49f3208f06c199849dd",
+      "relativeTarget": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/历史实验数据/2017-实验数据.xls",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F4.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99-%E6%B0%B4%E6%96%87%E5%AD%A6%E4%BD%9C%E4%B8%9A%E5%8F%8A%E7%AD%94%E6%A1%88%2F5.%E6%B0%B4%E6%96%87%E5%AD%A6%E5%8E%9F%E7%90%86%E5%8F%8A%E5%BA%94%E7%94%A8%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E5%BE%80%E6%9C%9F%E8%B5%84%E6%96%99%2F2017-%E5%AE%9E%E9%AA%8C%E6%95%B0%E6%8D%AE.xls",
+      "sourcePath": "水文学_马逸/4.往届资料-水文学作业及答案/5.水文学原理及应用往届资料/往期资料/2017-实验数据.xls"
+    },
+    {
+      "sourceAlias": "H0103",
+      "originalName": "2015-实验数据（供参考）.xls",
+      "bytes": 162304,
+      "sha256": "4fe45d8870a3681f64d554356cd701dab524987b1813dc1bfd6d6e819e24cc0f",
+      "relativeTarget": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/历史实验数据/2015-实验数据（供参考）.xls",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F4.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99-%E6%B0%B4%E6%96%87%E5%AD%A6%E4%BD%9C%E4%B8%9A%E5%8F%8A%E7%AD%94%E6%A1%88%2F5.%E6%B0%B4%E6%96%87%E5%AD%A6%E5%8E%9F%E7%90%86%E5%8F%8A%E5%BA%94%E7%94%A8%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E5%BE%80%E6%9C%9F%E8%B5%84%E6%96%99%2F2015-%E5%AE%9E%E9%AA%8C%E6%95%B0%E6%8D%AE%EF%BC%88%E4%BE%9B%E5%8F%82%E8%80%83%EF%BC%89.xls",
+      "sourcePath": "水文学_马逸/4.往届资料-水文学作业及答案/5.水文学原理及应用往届资料/往期资料/2015-实验数据（供参考）.xls"
+    },
+    {
+      "sourceAlias": "H0104",
+      "originalName": "2014-实验数据（供参考）.xls",
+      "bytes": 147456,
+      "sha256": "e41eed001243003524cebed1f8ba8a9f76977e9addf8203b60aafd84ed0e5f1a",
+      "relativeTarget": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/历史实验数据/2014-实验数据（供参考）.xls",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6%2F%E6%B0%B4%E6%96%87%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F4.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99-%E6%B0%B4%E6%96%87%E5%AD%A6%E4%BD%9C%E4%B8%9A%E5%8F%8A%E7%AD%94%E6%A1%88%2F5.%E6%B0%B4%E6%96%87%E5%AD%A6%E5%8E%9F%E7%90%86%E5%8F%8A%E5%BA%94%E7%94%A8%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E5%BE%80%E6%9C%9F%E8%B5%84%E6%96%99%2F2014-%E5%AE%9E%E9%AA%8C%E6%95%B0%E6%8D%AE%EF%BC%88%E4%BE%9B%E5%8F%82%E8%80%83%EF%BC%89.xls",
+      "sourcePath": "水文学_马逸/4.往届资料-水文学作业及答案/5.水文学原理及应用往届资料/往期资料/2014-实验数据（供参考）.xls"
+    },
+    {
+      "sourceAlias": "H0106M001",
+      "originalName": "张力计VS自动.png",
+      "bytes": 23768,
+      "sha256": "1b96216b31c4f7a7ed9c3205f5b30eb57fdba258b8810f4e49d442f6df96582d",
+      "relativeTarget": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/拟合与配套数据/张力计VS自动.png",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6&mode=list",
+      "sourceArchiveAlias": "H0106",
+      "archiveMember": "水文实验(rar)/张力计VS自动.png",
+      "sourceArchiveSHA": "012487df2c456c28a226bf14471a73153664f01f029225473fa7a6af51f00859"
+    },
+    {
+      "sourceAlias": "H0106M002",
+      "originalName": "WP4C_sum.xlsx",
+      "bytes": 15786,
+      "sha256": "43d48b38a759175dac1b0f5594d2e0ba6cd3f0c75681ba33736d9d6586eba916",
+      "relativeTarget": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/拟合与配套数据/WP4C_sum.xlsx",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6&mode=list",
+      "sourceArchiveAlias": "H0106",
+      "archiveMember": "水文实验(rar)/WP4C_sum.xlsx",
+      "sourceArchiveSHA": "012487df2c456c28a226bf14471a73153664f01f029225473fa7a6af51f00859"
+    },
+    {
+      "sourceAlias": "H0106M004",
+      "originalName": "(1-1)拟合.png",
+      "bytes": 43583,
+      "sha256": "ad69505f420f7361f0a407d7d5ce6f2411a7c7ad223c23963834dc1f45d4ec97",
+      "relativeTarget": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/拟合与配套数据/(1-1)拟合.png",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6&mode=list",
+      "sourceArchiveAlias": "H0106",
+      "archiveMember": "水文实验(rar)/(1-1)拟合.png",
+      "sourceArchiveSHA": "012487df2c456c28a226bf14471a73153664f01f029225473fa7a6af51f00859"
+    },
+    {
+      "sourceAlias": "H0106M005",
+      "originalName": "粘土1.35.png",
+      "bytes": 49287,
+      "sha256": "a88db551706ad87a5811210bd4b14db95b59665567d8b50fe5daa39962d99a0d",
+      "relativeTarget": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/拟合与配套数据/粘土1.35.png",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6&mode=list",
+      "sourceArchiveAlias": "H0106",
+      "archiveMember": "水文实验(rar)/粘土1.35.png",
+      "sourceArchiveSHA": "012487df2c456c28a226bf14471a73153664f01f029225473fa7a6af51f00859"
+    },
+    {
+      "sourceAlias": "H0106M006",
+      "originalName": "自动数据_sum.xlsx",
+      "bytes": 184490,
+      "sha256": "ee72c129b62b38b74cf171abafa45a66f1998502a762afb5669478ad81eecab5",
+      "relativeTarget": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/拟合与配套数据/自动数据_sum.xlsx",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6&mode=list",
+      "sourceArchiveAlias": "H0106",
+      "archiveMember": "水文实验(rar)/自动数据_sum.xlsx",
+      "sourceArchiveSHA": "012487df2c456c28a226bf14471a73153664f01f029225473fa7a6af51f00859"
+    },
+    {
+      "sourceAlias": "H0106M007",
+      "originalName": "拟合结果.PNG",
+      "bytes": 16026,
+      "sha256": "0764d6221176f6c620932e4f0d70e3cdf312dd69db85bb0b36f48469b6daef1b",
+      "relativeTarget": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/拟合与配套数据/拟合结果.PNG",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6&mode=list",
+      "sourceArchiveAlias": "H0106",
+      "archiveMember": "水文实验(rar)/拟合结果.PNG",
+      "sourceArchiveSHA": "012487df2c456c28a226bf14471a73153664f01f029225473fa7a6af51f00859"
+    },
+    {
+      "sourceAlias": "H0106M009",
+      "originalName": "粘土1.45.png",
+      "bytes": 52479,
+      "sha256": "b8de31e3724c5305b0dfc73579a212139fac9e2a86acfe2d5613154ca700469d",
+      "relativeTarget": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/拟合与配套数据/粘土1.45.png",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6&mode=list",
+      "sourceArchiveAlias": "H0106",
+      "archiveMember": "水文实验(rar)/粘土1.45.png",
+      "sourceArchiveSHA": "012487df2c456c28a226bf14471a73153664f01f029225473fa7a6af51f00859"
+    },
+    {
+      "sourceAlias": "H0106M010",
+      "originalName": "自动数据_sum.csv",
+      "bytes": 186159,
+      "sha256": "57e651d5336f32e47f55236dc09cc456c2e59f11296b87a81dfa8a77140586c9",
+      "relativeTarget": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/拟合与配套数据/自动数据_sum.csv",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6&mode=list",
+      "sourceArchiveAlias": "H0106",
+      "archiveMember": "水文实验(rar)/自动数据_sum.csv",
+      "sourceArchiveSHA": "012487df2c456c28a226bf14471a73153664f01f029225473fa7a6af51f00859"
+    },
+    {
+      "sourceAlias": "H0106M011",
+      "originalName": "砂壤土1.35_张力计(3).png",
+      "bytes": 32813,
+      "sha256": "08c96c3f0168f725b7748b5f43cadb51c31853a3f6689aa4a0a300daae78b46c",
+      "relativeTarget": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/拟合与配套数据/砂壤土1.35_张力计(3).png",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6&mode=list",
+      "sourceArchiveAlias": "H0106",
+      "archiveMember": "水文实验(rar)/砂壤土1.35_张力计(3).png",
+      "sourceArchiveSHA": "012487df2c456c28a226bf14471a73153664f01f029225473fa7a6af51f00859"
+    },
+    {
+      "sourceAlias": "H0106M012",
+      "originalName": "VSA(对数坐标系).png",
+      "bytes": 73948,
+      "sha256": "b1e01845e74186ad6ff462b6101a5d9cdc2df8c33d21e57bb82ec93ab8652417",
+      "relativeTarget": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/拟合与配套数据/VSA(对数坐标系).png",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6&mode=list",
+      "sourceArchiveAlias": "H0106",
+      "archiveMember": "水文实验(rar)/VSA(对数坐标系).png",
+      "sourceArchiveSHA": "012487df2c456c28a226bf14471a73153664f01f029225473fa7a6af51f00859"
+    },
+    {
+      "sourceAlias": "H0106M013",
+      "originalName": "砂壤土1.45_张力计(1).png",
+      "bytes": 35281,
+      "sha256": "1fa2aa302d2c11d524effc02cd23cd545405f451376c5371aae23c8b0ee96748",
+      "relativeTarget": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/拟合与配套数据/砂壤土1.45_张力计(1).png",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6&mode=list",
+      "sourceArchiveAlias": "H0106",
+      "archiveMember": "水文实验(rar)/砂壤土1.45_张力计(1).png",
+      "sourceArchiveSHA": "012487df2c456c28a226bf14471a73153664f01f029225473fa7a6af51f00859"
+    },
+    {
+      "sourceAlias": "H0106M014",
+      "originalName": "VSA(常用坐标系).png",
+      "bytes": 72204,
+      "sha256": "64ee5fd12b9ff67886ee6a6f77f56bbad5433ffe37b6c4854963bbc862f43487",
+      "relativeTarget": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/拟合与配套数据/VSA(常用坐标系).png",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6&mode=list",
+      "sourceArchiveAlias": "H0106",
+      "archiveMember": "水文实验(rar)/VSA(常用坐标系).png",
+      "sourceArchiveSHA": "012487df2c456c28a226bf14471a73153664f01f029225473fa7a6af51f00859"
+    },
+    {
+      "sourceAlias": "H0106M015",
+      "originalName": "自动记录数据.png",
+      "bytes": 43753,
+      "sha256": "2a22fce944ca7820de678547e71c68c03732932be9acdc764f5d393bbdf85447",
+      "relativeTarget": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/拟合与配套数据/自动记录数据.png",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6&mode=list",
+      "sourceArchiveAlias": "H0106",
+      "archiveMember": "水文实验(rar)/自动记录数据.png",
+      "sourceArchiveSHA": "012487df2c456c28a226bf14471a73153664f01f029225473fa7a6af51f00859"
+    },
+    {
+      "sourceAlias": "H0106M016",
+      "originalName": "粘土1.35_张力计(4).png",
+      "bytes": 31440,
+      "sha256": "ec1b4c45737e9e07a937ff0fc18c65c61848eeed31a441c4f5f84643076e5fd1",
+      "relativeTarget": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/拟合与配套数据/粘土1.35_张力计(4).png",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6&mode=list",
+      "sourceArchiveAlias": "H0106",
+      "archiveMember": "水文实验(rar)/粘土1.35_张力计(4).png",
+      "sourceArchiveSHA": "012487df2c456c28a226bf14471a73153664f01f029225473fa7a6af51f00859"
+    },
+    {
+      "sourceAlias": "H0106M017",
+      "originalName": "砂壤土1.35_WP4C(3).png",
+      "bytes": 63966,
+      "sha256": "b14a295a49f28fea72ee3cc22af5b96490e6b8fda869a7e4f44eddeb92bc356b",
+      "relativeTarget": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/拟合与配套数据/砂壤土1.35_WP4C(3).png",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6&mode=list",
+      "sourceArchiveAlias": "H0106",
+      "archiveMember": "水文实验(rar)/砂壤土1.35_WP4C(3).png",
+      "sourceArchiveSHA": "012487df2c456c28a226bf14471a73153664f01f029225473fa7a6af51f00859"
+    },
+    {
+      "sourceAlias": "H0106M018",
+      "originalName": "WP4C数据处理.xlsx",
+      "bytes": 38440,
+      "sha256": "576967c29b69eef372e0ed08a86a4ee0d9b952f1176d8a040162d637f560837b",
+      "relativeTarget": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/拟合与配套数据/WP4C数据处理.xlsx",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6&mode=list",
+      "sourceArchiveAlias": "H0106",
+      "archiveMember": "水文实验(rar)/WP4C数据处理.xlsx",
+      "sourceArchiveSHA": "012487df2c456c28a226bf14471a73153664f01f029225473fa7a6af51f00859"
+    },
+    {
+      "sourceAlias": "H0106M019",
+      "originalName": "张力计VS自动记录.png",
+      "bytes": 69634,
+      "sha256": "8018e3f3de6f84bbe7b921e918f0cc6d620cf69de37ddf1f6b02fcf0a2089ba3",
+      "relativeTarget": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/拟合与配套数据/张力计VS自动记录.png",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6&mode=list",
+      "sourceArchiveAlias": "H0106",
+      "archiveMember": "水文实验(rar)/张力计VS自动记录.png",
+      "sourceArchiveSHA": "012487df2c456c28a226bf14471a73153664f01f029225473fa7a6af51f00859"
+    },
+    {
+      "sourceAlias": "H0106M020",
+      "originalName": "VSA_sum.csv",
+      "bytes": 6301,
+      "sha256": "b197eff3130f3227eac61c70d254d37aac36990c0e89ab30460ceb4d85db7652",
+      "relativeTarget": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/拟合与配套数据/VSA_sum.csv",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6&mode=list",
+      "sourceArchiveAlias": "H0106",
+      "archiveMember": "水文实验(rar)/VSA_sum.csv",
+      "sourceArchiveSHA": "012487df2c456c28a226bf14471a73153664f01f029225473fa7a6af51f00859"
+    },
+    {
+      "sourceAlias": "H0106M021",
+      "originalName": "粘土1.45_WP4C(2).png",
+      "bytes": 61383,
+      "sha256": "9e576fc0490e8a94d6fcd6e63fe7070dc6aa051135f11d0e903c2d1fe5ac3d53",
+      "relativeTarget": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/拟合与配套数据/粘土1.45_WP4C(2).png",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6&mode=list",
+      "sourceArchiveAlias": "H0106",
+      "archiveMember": "水文实验(rar)/粘土1.45_WP4C(2).png",
+      "sourceArchiveSHA": "012487df2c456c28a226bf14471a73153664f01f029225473fa7a6af51f00859"
+    },
+    {
+      "sourceAlias": "H0106M022",
+      "originalName": "砂壤土1.45.png",
+      "bytes": 33743,
+      "sha256": "72a3fce500b23c7018097a00d610fb0f897bac81dd1d033c9aeac17c0f8094ec",
+      "relativeTarget": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/拟合与配套数据/砂壤土1.45.png",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6&mode=list",
+      "sourceArchiveAlias": "H0106",
+      "archiveMember": "水文实验(rar)/砂壤土1.45.png",
+      "sourceArchiveSHA": "012487df2c456c28a226bf14471a73153664f01f029225473fa7a6af51f00859"
+    },
+    {
+      "sourceAlias": "H0106M023",
+      "originalName": "砂壤土1.45_WP4C(1).png",
+      "bytes": 42579,
+      "sha256": "9c672e7a5faefad7bd23b307ca0834974d84a9edc135fbd5eafbe775a430853c",
+      "relativeTarget": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/拟合与配套数据/砂壤土1.45_WP4C(1).png",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6&mode=list",
+      "sourceArchiveAlias": "H0106",
+      "archiveMember": "水文实验(rar)/砂壤土1.45_WP4C(1).png",
+      "sourceArchiveSHA": "012487df2c456c28a226bf14471a73153664f01f029225473fa7a6af51f00859"
+    },
+    {
+      "sourceAlias": "H0106M024",
+      "originalName": "粘土1.45_张力计(2).png",
+      "bytes": 33996,
+      "sha256": "6f2f4dea93f286c7742847b192cc2152f4077e360aa4c7b12a06a939f19f929e",
+      "relativeTarget": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/拟合与配套数据/粘土1.45_张力计(2).png",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6&mode=list",
+      "sourceArchiveAlias": "H0106",
+      "archiveMember": "水文实验(rar)/粘土1.45_张力计(2).png",
+      "sourceArchiveSHA": "012487df2c456c28a226bf14471a73153664f01f029225473fa7a6af51f00859"
+    },
+    {
+      "sourceAlias": "H0106M025",
+      "originalName": "砂壤土1.35.png",
+      "bytes": 46984,
+      "sha256": "b38f6271ba451c3b90829065bd45034fc36c3e0fbf50226c3d08495d1b1dbec8",
+      "relativeTarget": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/拟合与配套数据/砂壤土1.35.png",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6&mode=list",
+      "sourceArchiveAlias": "H0106",
+      "archiveMember": "水文实验(rar)/砂壤土1.35.png",
+      "sourceArchiveSHA": "012487df2c456c28a226bf14471a73153664f01f029225473fa7a6af51f00859"
+    },
+    {
+      "sourceAlias": "H0106M026",
+      "originalName": "VSA_sum.xlsx",
+      "bytes": 16273,
+      "sha256": "5b52c4b522381a674cc6970150318008ef035b926494d015f300d7ee7cc889cf",
+      "relativeTarget": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/拟合与配套数据/VSA_sum.xlsx",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6&mode=list",
+      "sourceArchiveAlias": "H0106",
+      "archiveMember": "水文实验(rar)/VSA_sum.xlsx",
+      "sourceArchiveSHA": "012487df2c456c28a226bf14471a73153664f01f029225473fa7a6af51f00859"
+    },
+    {
+      "sourceAlias": "H0106M027",
+      "originalName": "WP4C_sum.csv",
+      "bytes": 6876,
+      "sha256": "e6d510354d04f51c2f3f1eb1d5e04e70fe0c69e1705efa09fb04713aac6d54a7",
+      "relativeTarget": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/拟合与配套数据/WP4C_sum.csv",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6&mode=list",
+      "sourceArchiveAlias": "H0106",
+      "archiveMember": "水文实验(rar)/WP4C_sum.csv",
+      "sourceArchiveSHA": "012487df2c456c28a226bf14471a73153664f01f029225473fa7a6af51f00859"
+    },
+    {
+      "sourceAlias": "H0106M028",
+      "originalName": "张力计_sum.csv",
+      "bytes": 7214,
+      "sha256": "a70b2e1b05c19cdf8c656d4e017818f6778d8a6d065aac6b17df022716088341",
+      "relativeTarget": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/拟合与配套数据/张力计_sum.csv",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6&mode=list",
+      "sourceArchiveAlias": "H0106",
+      "archiveMember": "水文实验(rar)/张力计_sum.csv",
+      "sourceArchiveSHA": "012487df2c456c28a226bf14471a73153664f01f029225473fa7a6af51f00859"
+    },
+    {
+      "sourceAlias": "H0106M029",
+      "originalName": "粘土1.35_WP4C(4).png",
+      "bytes": 56542,
+      "sha256": "d5a84cc6ba400252c4c60af95b050a1a9e0d42a95c8779416ca67e7cbb395fda",
+      "relativeTarget": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/拟合与配套数据/粘土1.35_WP4C(4).png",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6&mode=list",
+      "sourceArchiveAlias": "H0106",
+      "archiveMember": "水文实验(rar)/粘土1.35_WP4C(4).png",
+      "sourceArchiveSHA": "012487df2c456c28a226bf14471a73153664f01f029225473fa7a6af51f00859"
+    },
+    {
+      "sourceAlias": "H0106M030",
+      "originalName": "张力计_sum.xlsx",
+      "bytes": 17616,
+      "sha256": "7ceaf3330b9c7f53f2553aa4d0899fd29e6d4cd4a84ddd515b969d22afcda6ae",
+      "relativeTarget": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/拟合与配套数据/张力计_sum.xlsx",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6&mode=list",
+      "sourceArchiveAlias": "H0106",
+      "archiveMember": "水文实验(rar)/张力计_sum.xlsx",
+      "sourceArchiveSHA": "012487df2c456c28a226bf14471a73153664f01f029225473fa7a6af51f00859"
+    },
+    {
+      "sourceAlias": "H0106M003D",
+      "originalName": "VG_model_fit（移除私人输入路径的整理副本）.py",
+      "bytes": 1972,
+      "sha256": "da635f8d746c6c43bbc39d27715f6a1ac6d99d6b4d92ad2303ccadd3ef20e378",
+      "relativeTarget": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/拟合与配套数据/VG_model_fit（移除私人输入路径的整理副本）.py",
+      "kind": "derivedPrivatePathOnly",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6&mode=list",
+      "derivation": {
+        "sourceAliases": [
+          "H0106M003",
+          "H0114"
+        ],
+        "sourceBytes": 2000,
+        "sourceSHA256": "6e179432cf7d91551c39a099f5baf8fcad2b5aa30cc1bfe6d83b1fb6f7df2708",
+        "derivedBytes": 1972,
+        "derivedSHA256": "da635f8d746c6c43bbc39d27715f6a1ac6d99d6b4d92ad2303ccadd3ef20e378",
+        "changedFields": "exact absolute CSV input strings only",
+        "encoding": "UTF-8 preserved",
+        "allOtherBytesUnchanged": true,
+        "changes": [
+          {
+            "inputBasename": "张力计_sum.csv",
+            "matchingAlias": "H0106M028",
+            "inputSHA256": "a70b2e1b05c19cdf8c656d4e017818f6778d8a6d065aac6b17df022716088341",
+            "oldPathSHA256": "d7250bfe533b90fc5e110e022f5e0df2356b424cfd1a819e3c5bf26b871f9285",
+            "replacement": "basename only"
+          }
+        ],
+        "executed": false
+      }
+    },
+    {
+      "sourceAlias": "H0106M008D",
+      "originalName": "comparsion（移除私人输入路径的整理副本）.py",
+      "bytes": 5504,
+      "sha256": "c4441da380be0e7089fc53c75786c3d17e7ea2a78fc052e5e03d2f10f6a26e31",
+      "relativeTarget": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/拟合与配套数据/comparsion（移除私人输入路径的整理副本）.py",
+      "kind": "derivedPrivatePathOnly",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E6%96%87%E5%AD%A6&mode=list",
+      "derivation": {
+        "sourceAliases": [
+          "H0106M008"
+        ],
+        "sourceBytes": 5616,
+        "sourceSHA256": "7a1731b12696966a80b133442d10f2c54352b821dcbc43a021f8a47b8931652a",
+        "derivedBytes": 5504,
+        "derivedSHA256": "c4441da380be0e7089fc53c75786c3d17e7ea2a78fc052e5e03d2f10f6a26e31",
+        "changedFields": "exact absolute CSV input strings only",
+        "encoding": "UTF-8 preserved",
+        "allOtherBytesUnchanged": true,
+        "changes": [
+          {
+            "inputBasename": "VSA_sum.csv",
+            "matchingAlias": "H0106M020",
+            "inputSHA256": "b197eff3130f3227eac61c70d254d37aac36990c0e89ab30460ceb4d85db7652",
+            "oldPathSHA256": "7bf20d1f3fc84d93bfe57adb7b0d5849cad60dfbd78180498ccaf2f7479b6aca",
+            "replacement": "basename only"
+          },
+          {
+            "inputBasename": "自动数据_sum.csv",
+            "matchingAlias": "H0106M010",
+            "inputSHA256": "57e651d5336f32e47f55236dc09cc456c2e59f11296b87a81dfa8a77140586c9",
+            "oldPathSHA256": "5c17def02678dc21e489dafdf44834be6d894076789d853ccd727240948e1907",
+            "replacement": "basename only"
+          },
+          {
+            "inputBasename": "张力计_sum.csv",
+            "matchingAlias": "H0106M028",
+            "inputSHA256": "a70b2e1b05c19cdf8c656d4e017818f6778d8a6d065aac6b17df022716088341",
+            "oldPathSHA256": "d7250bfe533b90fc5e110e022f5e0df2356b424cfd1a819e3c5bf26b871f9285",
+            "replacement": "basename only"
+          },
+          {
+            "inputBasename": "WP4C_sum.csv",
+            "matchingAlias": "H0106M027",
+            "inputSHA256": "e6d510354d04f51c2f3f1eb1d5e04e70fe0c69e1705efa09fb04713aac6d54a7",
+            "oldPathSHA256": "1989ad3bf1d45a8b065e2aaa1ccda47cc506bbede9ee8a75ca92c935aadeac22",
+            "replacement": "basename only"
+          }
+        ],
+        "executed": false
+      }
+    }
+  ],
+  "sameSHAOtherSourcePaths": [],
+  "boundary": "原名和原始内容保持；仅明确标名的两个源码副本按字段清单改输入路径。未执行源码、宏、软件或外链；软件包、缓存及已填身份批改稿未纳本组。",
+  "gitSyncDate": "2026-10-23",
+  "gitFiles": [
+    {
+      "sourceLabel": "H0097",
+      "sourceFileName": "实验数据.xls",
+      "bytes": 176128,
+      "sha256": "462d9bfef45efad005044ceef246c99ba4e4ae64b9f7bd6286ddb2e6d1ad510e",
+      "PDFFilePages": null,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/历史实验数据/实验数据.xls",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0101",
+      "sourceFileName": "Untitled.m",
+      "bytes": 835,
+      "sha256": "55b4cf59014c5d5f3ff46dcf15b7b519ba30d08b846b74e753cc235809ddf562",
+      "PDFFilePages": null,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/历史实验数据/Untitled.m",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0102",
+      "sourceFileName": "2017-实验数据.xls",
+      "bytes": 131072,
+      "sha256": "67116de403c978d48c25a9c9011ed8feae32a20bc717e49f3208f06c199849dd",
+      "PDFFilePages": null,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/历史实验数据/2017-实验数据.xls",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0103",
+      "sourceFileName": "2015-实验数据（供参考）.xls",
+      "bytes": 162304,
+      "sha256": "4fe45d8870a3681f64d554356cd701dab524987b1813dc1bfd6d6e819e24cc0f",
+      "PDFFilePages": null,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/历史实验数据/2015-实验数据（供参考）.xls",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0104",
+      "sourceFileName": "2014-实验数据（供参考）.xls",
+      "bytes": 147456,
+      "sha256": "e41eed001243003524cebed1f8ba8a9f76977e9addf8203b60aafd84ed0e5f1a",
+      "PDFFilePages": null,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/历史实验数据/2014-实验数据（供参考）.xls",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0106M001",
+      "sourceFileName": "张力计VS自动.png",
+      "bytes": 23768,
+      "sha256": "1b96216b31c4f7a7ed9c3205f5b30eb57fdba258b8810f4e49d442f6df96582d",
+      "PDFFilePages": null,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/拟合与配套数据/张力计VS自动.png",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0106M002",
+      "sourceFileName": "WP4C_sum.xlsx",
+      "bytes": 15786,
+      "sha256": "43d48b38a759175dac1b0f5594d2e0ba6cd3f0c75681ba33736d9d6586eba916",
+      "PDFFilePages": null,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/拟合与配套数据/WP4C_sum.xlsx",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0106M004",
+      "sourceFileName": "(1-1)拟合.png",
+      "bytes": 43583,
+      "sha256": "ad69505f420f7361f0a407d7d5ce6f2411a7c7ad223c23963834dc1f45d4ec97",
+      "PDFFilePages": null,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/拟合与配套数据/(1-1)拟合.png",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0106M005",
+      "sourceFileName": "粘土1.35.png",
+      "bytes": 49287,
+      "sha256": "a88db551706ad87a5811210bd4b14db95b59665567d8b50fe5daa39962d99a0d",
+      "PDFFilePages": null,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/拟合与配套数据/粘土1.35.png",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0106M006",
+      "sourceFileName": "自动数据_sum.xlsx",
+      "bytes": 184490,
+      "sha256": "ee72c129b62b38b74cf171abafa45a66f1998502a762afb5669478ad81eecab5",
+      "PDFFilePages": null,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/拟合与配套数据/自动数据_sum.xlsx",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0106M007",
+      "sourceFileName": "拟合结果.PNG",
+      "bytes": 16026,
+      "sha256": "0764d6221176f6c620932e4f0d70e3cdf312dd69db85bb0b36f48469b6daef1b",
+      "PDFFilePages": null,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/拟合与配套数据/拟合结果.PNG",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0106M009",
+      "sourceFileName": "粘土1.45.png",
+      "bytes": 52479,
+      "sha256": "b8de31e3724c5305b0dfc73579a212139fac9e2a86acfe2d5613154ca700469d",
+      "PDFFilePages": null,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/拟合与配套数据/粘土1.45.png",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0106M010",
+      "sourceFileName": "自动数据_sum.csv",
+      "bytes": 186159,
+      "sha256": "57e651d5336f32e47f55236dc09cc456c2e59f11296b87a81dfa8a77140586c9",
+      "PDFFilePages": null,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/拟合与配套数据/自动数据_sum.csv",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0106M011",
+      "sourceFileName": "砂壤土1.35_张力计(3).png",
+      "bytes": 32813,
+      "sha256": "08c96c3f0168f725b7748b5f43cadb51c31853a3f6689aa4a0a300daae78b46c",
+      "PDFFilePages": null,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/拟合与配套数据/砂壤土1.35_张力计(3).png",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0106M012",
+      "sourceFileName": "VSA(对数坐标系).png",
+      "bytes": 73948,
+      "sha256": "b1e01845e74186ad6ff462b6101a5d9cdc2df8c33d21e57bb82ec93ab8652417",
+      "PDFFilePages": null,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/拟合与配套数据/VSA(对数坐标系).png",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0106M013",
+      "sourceFileName": "砂壤土1.45_张力计(1).png",
+      "bytes": 35281,
+      "sha256": "1fa2aa302d2c11d524effc02cd23cd545405f451376c5371aae23c8b0ee96748",
+      "PDFFilePages": null,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/拟合与配套数据/砂壤土1.45_张力计(1).png",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0106M014",
+      "sourceFileName": "VSA(常用坐标系).png",
+      "bytes": 72204,
+      "sha256": "64ee5fd12b9ff67886ee6a6f77f56bbad5433ffe37b6c4854963bbc862f43487",
+      "PDFFilePages": null,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/拟合与配套数据/VSA(常用坐标系).png",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0106M015",
+      "sourceFileName": "自动记录数据.png",
+      "bytes": 43753,
+      "sha256": "2a22fce944ca7820de678547e71c68c03732932be9acdc764f5d393bbdf85447",
+      "PDFFilePages": null,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/拟合与配套数据/自动记录数据.png",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0106M016",
+      "sourceFileName": "粘土1.35_张力计(4).png",
+      "bytes": 31440,
+      "sha256": "ec1b4c45737e9e07a937ff0fc18c65c61848eeed31a441c4f5f84643076e5fd1",
+      "PDFFilePages": null,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/拟合与配套数据/粘土1.35_张力计(4).png",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0106M017",
+      "sourceFileName": "砂壤土1.35_WP4C(3).png",
+      "bytes": 63966,
+      "sha256": "b14a295a49f28fea72ee3cc22af5b96490e6b8fda869a7e4f44eddeb92bc356b",
+      "PDFFilePages": null,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/拟合与配套数据/砂壤土1.35_WP4C(3).png",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0106M018",
+      "sourceFileName": "WP4C数据处理.xlsx",
+      "bytes": 38440,
+      "sha256": "576967c29b69eef372e0ed08a86a4ee0d9b952f1176d8a040162d637f560837b",
+      "PDFFilePages": null,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/拟合与配套数据/WP4C数据处理.xlsx",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0106M019",
+      "sourceFileName": "张力计VS自动记录.png",
+      "bytes": 69634,
+      "sha256": "8018e3f3de6f84bbe7b921e918f0cc6d620cf69de37ddf1f6b02fcf0a2089ba3",
+      "PDFFilePages": null,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/拟合与配套数据/张力计VS自动记录.png",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0106M020",
+      "sourceFileName": "VSA_sum.csv",
+      "bytes": 6301,
+      "sha256": "b197eff3130f3227eac61c70d254d37aac36990c0e89ab30460ceb4d85db7652",
+      "PDFFilePages": null,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/拟合与配套数据/VSA_sum.csv",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0106M021",
+      "sourceFileName": "粘土1.45_WP4C(2).png",
+      "bytes": 61383,
+      "sha256": "9e576fc0490e8a94d6fcd6e63fe7070dc6aa051135f11d0e903c2d1fe5ac3d53",
+      "PDFFilePages": null,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/拟合与配套数据/粘土1.45_WP4C(2).png",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0106M022",
+      "sourceFileName": "砂壤土1.45.png",
+      "bytes": 33743,
+      "sha256": "72a3fce500b23c7018097a00d610fb0f897bac81dd1d033c9aeac17c0f8094ec",
+      "PDFFilePages": null,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/拟合与配套数据/砂壤土1.45.png",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0106M023",
+      "sourceFileName": "砂壤土1.45_WP4C(1).png",
+      "bytes": 42579,
+      "sha256": "9c672e7a5faefad7bd23b307ca0834974d84a9edc135fbd5eafbe775a430853c",
+      "PDFFilePages": null,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/拟合与配套数据/砂壤土1.45_WP4C(1).png",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0106M024",
+      "sourceFileName": "粘土1.45_张力计(2).png",
+      "bytes": 33996,
+      "sha256": "6f2f4dea93f286c7742847b192cc2152f4077e360aa4c7b12a06a939f19f929e",
+      "PDFFilePages": null,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/拟合与配套数据/粘土1.45_张力计(2).png",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0106M025",
+      "sourceFileName": "砂壤土1.35.png",
+      "bytes": 46984,
+      "sha256": "b38f6271ba451c3b90829065bd45034fc36c3e0fbf50226c3d08495d1b1dbec8",
+      "PDFFilePages": null,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/拟合与配套数据/砂壤土1.35.png",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0106M026",
+      "sourceFileName": "VSA_sum.xlsx",
+      "bytes": 16273,
+      "sha256": "5b52c4b522381a674cc6970150318008ef035b926494d015f300d7ee7cc889cf",
+      "PDFFilePages": null,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/拟合与配套数据/VSA_sum.xlsx",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0106M027",
+      "sourceFileName": "WP4C_sum.csv",
+      "bytes": 6876,
+      "sha256": "e6d510354d04f51c2f3f1eb1d5e04e70fe0c69e1705efa09fb04713aac6d54a7",
+      "PDFFilePages": null,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/拟合与配套数据/WP4C_sum.csv",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0106M028",
+      "sourceFileName": "张力计_sum.csv",
+      "bytes": 7214,
+      "sha256": "a70b2e1b05c19cdf8c656d4e017818f6778d8a6d065aac6b17df022716088341",
+      "PDFFilePages": null,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/拟合与配套数据/张力计_sum.csv",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0106M029",
+      "sourceFileName": "粘土1.35_WP4C(4).png",
+      "bytes": 56542,
+      "sha256": "d5a84cc6ba400252c4c60af95b050a1a9e0d42a95c8779416ca67e7cbb395fda",
+      "PDFFilePages": null,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/拟合与配套数据/粘土1.35_WP4C(4).png",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0106M030",
+      "sourceFileName": "张力计_sum.xlsx",
+      "bytes": 17616,
+      "sha256": "7ceaf3330b9c7f53f2553aa4d0899fd29e6d4cd4a84ddd515b969d22afcda6ae",
+      "PDFFilePages": null,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/拟合与配套数据/张力计_sum.xlsx",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "H0106M003D",
+      "sourceFileName": "VG_model_fit（移除私人输入路径的整理副本）.py",
+      "bytes": 1972,
+      "sha256": "da635f8d746c6c43bbc39d27715f6a1ac6d99d6b4d92ad2303ccadd3ef20e378",
+      "PDFFilePages": null,
+      "kind": "derivedPrivatePathOnly",
+      "gitRepoPath": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/拟合与配套数据/VG_model_fit（移除私人输入路径的整理副本）.py",
+      "gitSyncStatus": "published_metadata_cleaned_copy",
+      "derivation": {
+        "sourceAliases": [
+          "H0106M003",
+          "H0114"
+        ],
+        "sourceBytes": 2000,
+        "sourceSHA256": "6e179432cf7d91551c39a099f5baf8fcad2b5aa30cc1bfe6d83b1fb6f7df2708",
+        "derivedBytes": 1972,
+        "derivedSHA256": "da635f8d746c6c43bbc39d27715f6a1ac6d99d6b4d92ad2303ccadd3ef20e378",
+        "changedFields": "exact absolute CSV input strings only",
+        "encoding": "UTF-8 preserved",
+        "allOtherBytesUnchanged": true,
+        "changes": [
+          {
+            "inputBasename": "张力计_sum.csv",
+            "matchingAlias": "H0106M028",
+            "inputSHA256": "a70b2e1b05c19cdf8c656d4e017818f6778d8a6d065aac6b17df022716088341",
+            "oldPathSHA256": "d7250bfe533b90fc5e110e022f5e0df2356b424cfd1a819e3c5bf26b871f9285",
+            "replacement": "basename only"
+          }
+        ],
+        "executed": false
+      }
+    },
+    {
+      "sourceLabel": "H0106M008D",
+      "sourceFileName": "comparsion（移除私人输入路径的整理副本）.py",
+      "bytes": 5504,
+      "sha256": "c4441da380be0e7089fc53c75786c3d17e7ea2a78fc052e5e03d2f10f6a26e31",
+      "PDFFilePages": null,
+      "kind": "derivedPrivatePathOnly",
+      "gitRepoPath": "工程技术类/水文学/作业参考/相关课程参考_水文实验数据与拟合_黄逸洋public/拟合与配套数据/comparsion（移除私人输入路径的整理副本）.py",
+      "gitSyncStatus": "published_metadata_cleaned_copy",
+      "derivation": {
+        "sourceAliases": [
+          "H0106M008"
+        ],
+        "sourceBytes": 5616,
+        "sourceSHA256": "7a1731b12696966a80b133442d10f2c54352b821dcbc43a021f8a47b8931652a",
+        "derivedBytes": 5504,
+        "derivedSHA256": "c4441da380be0e7089fc53c75786c3d17e7ea2a78fc052e5e03d2f10f6a26e31",
+        "changedFields": "exact absolute CSV input strings only",
+        "encoding": "UTF-8 preserved",
+        "allOtherBytesUnchanged": true,
+        "changes": [
+          {
+            "inputBasename": "VSA_sum.csv",
+            "matchingAlias": "H0106M020",
+            "inputSHA256": "b197eff3130f3227eac61c70d254d37aac36990c0e89ab30460ceb4d85db7652",
+            "oldPathSHA256": "7bf20d1f3fc84d93bfe57adb7b0d5849cad60dfbd78180498ccaf2f7479b6aca",
+            "replacement": "basename only"
+          },
+          {
+            "inputBasename": "自动数据_sum.csv",
+            "matchingAlias": "H0106M010",
+            "inputSHA256": "57e651d5336f32e47f55236dc09cc456c2e59f11296b87a81dfa8a77140586c9",
+            "oldPathSHA256": "5c17def02678dc21e489dafdf44834be6d894076789d853ccd727240948e1907",
+            "replacement": "basename only"
+          },
+          {
+            "inputBasename": "张力计_sum.csv",
+            "matchingAlias": "H0106M028",
+            "inputSHA256": "a70b2e1b05c19cdf8c656d4e017818f6778d8a6d065aac6b17df022716088341",
+            "oldPathSHA256": "d7250bfe533b90fc5e110e022f5e0df2356b424cfd1a819e3c5bf26b871f9285",
+            "replacement": "basename only"
+          },
+          {
+            "inputBasename": "WP4C_sum.csv",
+            "matchingAlias": "H0106M027",
+            "inputSHA256": "e6d510354d04f51c2f3f1eb1d5e04e70fe0c69e1705efa09fb04713aac6d54a7",
+            "oldPathSHA256": "1989ad3bf1d45a8b065e2aaa1ccda47cc506bbede9ee8a75ca92c935aadeac22",
+            "replacement": "basename only"
+          }
+        ],
+        "executed": false
+      }
+    }
+  ],
+  "gitScope": "本次Git同步106个原字节学习文件、2个已明确标名“移除私人输入路径的整理副本”的Python源码，以及12份来源说明。两副本仅将绝对CSV输入路径改为唯一匹配的同目录文件名，原SHA与副本SHA分别记录，未执行源码、宏、公式或模型。其它来源同SHA别名继续在清单关联；未发布原包、身份暂缓项及过程材料。",
+  "gitReviewBoundary": "63个PDF合计1025文件页均静态提取文字与元信息，实际查看132个角色/考试页（其中考试组5件24页全看），未称1025页全部视觉审查；70个去重内嵌及原PNG图像实际查看，含透明图白底复核。4旧XLS共18工作表15830个存储单元格静态解析；5XLSX全包XML/CRC静态读取，未计算公式。两PPTX及一DOCX全部45+3媒体（去重）视读，无嵌入执行；全部源码只读不执行。CSV数字命中为体积含水率列小数，不作个人编号。两源码整理副本仅已唯一同目录CSV输入路径改文件名，原/副本SHA分列，沿上游其它字节守恒证据，当前副本与配套CSV独立核SHA，不读已暂缓原源码。 云盘证据沿上游逐名及8代表文件SHA验收，不称120文件全部本次cloudSHA回取。题目参考不认标准答案，原页序圈记保持；教材版权年未证不补。"
+}
