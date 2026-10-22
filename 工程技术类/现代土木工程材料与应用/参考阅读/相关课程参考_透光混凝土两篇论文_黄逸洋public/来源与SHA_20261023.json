@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-23",
+  "source": "黄逸洋public",
+  "course": "现代土木工程材料与应用",
+  "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E7%8E%B0%E4%BB%A3%E5%9C%9F%E6%9C%A8%E5%B7%A5%E7%A8%8B%E6%9D%90%E6%96%99%E4%B8%8E%E5%BA%94%E7%94%A8&mode=list",
+  "cloudDirectoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E5%B7%A5%E7%A8%8B%E6%8A%80%E6%9C%AF%E7%B1%BB/%E7%8E%B0%E4%BB%A3%E5%9C%9F%E6%9C%A8%E5%B7%A5%E7%A8%8B%E6%9D%90%E6%96%99%E4%B8%8E%E5%BA%94%E7%94%A8/%E5%8F%82%E8%80%83%E9%98%85%E8%AF%BB/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E9%80%8F%E5%85%89%E6%B7%B7%E5%87%9D%E5%9C%9F%E4%B8%A4%E7%AF%87%E8%AE%BA%E6%96%87_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+  "role": "两份透光混凝土参考论文，保原题名、作者、学术引用与原排版的相邻论文续文；不据来源用途认指定教材或课程正式讲义。",
+  "files": [
+    {
+      "sourceLabel": "M11",
+      "group": 2,
+      "sourceFileName": "透光混凝土的制备研究及应用进展_冯威.pdf",
+      "sameSHAArchiveMemberPathCount": 3,
+      "bytes": 133284,
+      "sha256": "49141c88c254edcb8e10cce50eb29b36f35feffe6335aa534da826cacd3cb265",
+      "PDFFilePages": 2,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/现代土木工程材料与应用/参考阅读/相关课程参考_透光混凝土两篇论文_黄逸洋public/透光混凝土的制备研究及应用进展_冯威.pdf"
+    },
+    {
+      "sourceLabel": "M12",
+      "group": 2,
+      "sourceFileName": "透光混凝土制备_性能以及应用综述_王淑.pdf",
+      "sameSHAArchiveMemberPathCount": 3,
+      "bytes": 1356642,
+      "sha256": "7c5820698ee12c5cc3932ae726b3d6319d6ea838b108170519b58c0405811158",
+      "PDFFilePages": 4,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/现代土木工程材料与应用/参考阅读/相关课程参考_透光混凝土两篇论文_黄逸洋public/透光混凝土制备_性能以及应用综述_王淑.pdf"
+    }
+  ],
+  "verification": "只核当前已归档的12个本地原件，并引用既有云盘归档路径证据；本批没有重新下载全部云盘原件、读取原ZIP或作云盘写入。12原件和4本地旧说明保持原字节。上游8份身份材料不纳入、不读取或新增发布；公开仅记录本12个代表原件，别名只给数量，不抄私有筛查或未纳入的原名清单。",
+  "reviewBoundary": "本批12候选独立逐SHA核验；3PDF全部8文件页实际渲染查看，9DOCX核正文XML、core属性、外部关系及唯一内嵌图，未执行宏、公式、对象或外链；未做全部DOCX版式渲染，不认证参考答案正确性。论文参考文献中的专利编号据上下文区分，不当学生编号。论文PDF含相邻文章的接排/续文片段，保整文件原字节，不拆页或补页。",
+  "rawArchivesPublished": false
+}
