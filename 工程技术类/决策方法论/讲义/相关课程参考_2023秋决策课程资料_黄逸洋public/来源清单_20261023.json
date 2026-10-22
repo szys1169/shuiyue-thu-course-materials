@@ -1,0 +1,178 @@
+{
+  "sourceRoot": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.9_%E5%B7%A5%E7%89%A9%E7%B1%BB_%E5%86%B3%E7%AD%96%E6%96%B9%E6%B3%95%E8%AE%BA&mode=list",
+  "sourceLabel": "黄逸洋public / 决策方法论",
+  "role": "来源目录标“陈涛-2023秋”，实际抽样封面课程老师列张辉、陈涛、张小乐；部分页日期2023年9月及2024年1月。涵盖马尔可夫决策、数值与策略迭代、回归、离散数据及智能决策等。Poisson示例Notebook与CSV保持同目录相对依赖，保留已有输出，未运行。",
+  "items": [
+    {
+      "sourceAlias": "D0002",
+      "sourcePath": "决策方法论-陈涛-2023秋-课件/1引言.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.9_%E5%B7%A5%E7%89%A9%E7%B1%BB_%E5%86%B3%E7%AD%96%E6%96%B9%E6%B3%95%E8%AE%BA%2F%E5%86%B3%E7%AD%96%E6%96%B9%E6%B3%95%E8%AE%BA-%E9%99%88%E6%B6%9B-2023%E7%A7%8B-%E8%AF%BE%E4%BB%B6%2F1%E5%BC%95%E8%A8%80.pdf",
+      "originalName": "1引言.pdf",
+      "bytes": 4382238,
+      "sha256": "17bfe5e194d7944084c90335084c0a5fc92d76eb8b9feb9f5326ee560682c171",
+      "relativeTarget": "工程技术类/决策方法论/讲义/相关课程参考_2023秋决策课程资料_黄逸洋public/1引言.pdf",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "D0003",
+      "sourcePath": "决策方法论-陈涛-2023秋-课件/2基本概念与知识.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.9_%E5%B7%A5%E7%89%A9%E7%B1%BB_%E5%86%B3%E7%AD%96%E6%96%B9%E6%B3%95%E8%AE%BA%2F%E5%86%B3%E7%AD%96%E6%96%B9%E6%B3%95%E8%AE%BA-%E9%99%88%E6%B6%9B-2023%E7%A7%8B-%E8%AF%BE%E4%BB%B6%2F2%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5%E4%B8%8E%E7%9F%A5%E8%AF%86.pdf",
+      "originalName": "2基本概念与知识.pdf",
+      "bytes": 1242267,
+      "sha256": "19b6da5ab09789e3fb9407add36d86d8a9fdf400e170e5bf1847a2f0234fc175",
+      "relativeTarget": "工程技术类/决策方法论/讲义/相关课程参考_2023秋决策课程资料_黄逸洋public/2基本概念与知识.pdf",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "D0004",
+      "sourcePath": "决策方法论-陈涛-2023秋-课件/3马尔科夫决策过程.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.9_%E5%B7%A5%E7%89%A9%E7%B1%BB_%E5%86%B3%E7%AD%96%E6%96%B9%E6%B3%95%E8%AE%BA%2F%E5%86%B3%E7%AD%96%E6%96%B9%E6%B3%95%E8%AE%BA-%E9%99%88%E6%B6%9B-2023%E7%A7%8B-%E8%AF%BE%E4%BB%B6%2F3%E9%A9%AC%E5%B0%94%E7%A7%91%E5%A4%AB%E5%86%B3%E7%AD%96%E8%BF%87%E7%A8%8B.pdf",
+      "originalName": "3马尔科夫决策过程.pdf",
+      "bytes": 1326572,
+      "sha256": "3e6808bcb67d1f3216fce4426bd1fbbc023c6d3032af29d30cc6eff3db55a7c1",
+      "relativeTarget": "工程技术类/决策方法论/讲义/相关课程参考_2023秋决策课程资料_黄逸洋public/3马尔科夫决策过程.pdf",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "D0005",
+      "sourcePath": "决策方法论-陈涛-2023秋-课件/4有限阶段+折扣成本问题.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.9_%E5%B7%A5%E7%89%A9%E7%B1%BB_%E5%86%B3%E7%AD%96%E6%96%B9%E6%B3%95%E8%AE%BA%2F%E5%86%B3%E7%AD%96%E6%96%B9%E6%B3%95%E8%AE%BA-%E9%99%88%E6%B6%9B-2023%E7%A7%8B-%E8%AF%BE%E4%BB%B6%2F4%E6%9C%89%E9%99%90%E9%98%B6%E6%AE%B5%2B%E6%8A%98%E6%89%A3%E6%88%90%E6%9C%AC%E9%97%AE%E9%A2%98.pdf",
+      "originalName": "4有限阶段+折扣成本问题.pdf",
+      "bytes": 993438,
+      "sha256": "86820183c94323cc8261824a298f8c11ef18e79c5f1095c9c6b33e45d816a538",
+      "relativeTarget": "工程技术类/决策方法论/讲义/相关课程参考_2023秋决策课程资料_黄逸洋public/4有限阶段+折扣成本问题.pdf",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "D0006",
+      "sourcePath": "决策方法论-陈涛-2023秋-课件/5数值迭代.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.9_%E5%B7%A5%E7%89%A9%E7%B1%BB_%E5%86%B3%E7%AD%96%E6%96%B9%E6%B3%95%E8%AE%BA%2F%E5%86%B3%E7%AD%96%E6%96%B9%E6%B3%95%E8%AE%BA-%E9%99%88%E6%B6%9B-2023%E7%A7%8B-%E8%AF%BE%E4%BB%B6%2F5%E6%95%B0%E5%80%BC%E8%BF%AD%E4%BB%A3.pdf",
+      "originalName": "5数值迭代.pdf",
+      "bytes": 1065978,
+      "sha256": "c36b4baaca3983c8601b2cbe7bae8e212a08b1d71922c1c613fcb89e9a20ecc5",
+      "relativeTarget": "工程技术类/决策方法论/讲义/相关课程参考_2023秋决策课程资料_黄逸洋public/5数值迭代.pdf",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "D0007",
+      "sourcePath": "决策方法论-陈涛-2023秋-课件/6高斯-塞得尔数值迭代.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.9_%E5%B7%A5%E7%89%A9%E7%B1%BB_%E5%86%B3%E7%AD%96%E6%96%B9%E6%B3%95%E8%AE%BA%2F%E5%86%B3%E7%AD%96%E6%96%B9%E6%B3%95%E8%AE%BA-%E9%99%88%E6%B6%9B-2023%E7%A7%8B-%E8%AF%BE%E4%BB%B6%2F6%E9%AB%98%E6%96%AF-%E5%A1%9E%E5%BE%97%E5%B0%94%E6%95%B0%E5%80%BC%E8%BF%AD%E4%BB%A3.pdf",
+      "originalName": "6高斯-塞得尔数值迭代.pdf",
+      "bytes": 1200378,
+      "sha256": "8fa84a19ffa42dc4a87e4e1774a25de2cd55c9e355d00676660719979fd2118b",
+      "relativeTarget": "工程技术类/决策方法论/讲义/相关课程参考_2023秋决策课程资料_黄逸洋public/6高斯-塞得尔数值迭代.pdf",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "D0008",
+      "sourcePath": "决策方法论-陈涛-2023秋-课件/7策略迭代.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.9_%E5%B7%A5%E7%89%A9%E7%B1%BB_%E5%86%B3%E7%AD%96%E6%96%B9%E6%B3%95%E8%AE%BA%2F%E5%86%B3%E7%AD%96%E6%96%B9%E6%B3%95%E8%AE%BA-%E9%99%88%E6%B6%9B-2023%E7%A7%8B-%E8%AF%BE%E4%BB%B6%2F7%E7%AD%96%E7%95%A5%E8%BF%AD%E4%BB%A3.pdf",
+      "originalName": "7策略迭代.pdf",
+      "bytes": 1146542,
+      "sha256": "b0d80e0d0f65bb05ce1e1ab71a0186b847e0811c431a5dd5a277394d95fc75ba",
+      "relativeTarget": "工程技术类/决策方法论/讲义/相关课程参考_2023秋决策课程资料_黄逸洋public/7策略迭代.pdf",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "D0009",
+      "sourcePath": "决策方法论-陈涛-2023秋-课件/8课程设计.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.9_%E5%B7%A5%E7%89%A9%E7%B1%BB_%E5%86%B3%E7%AD%96%E6%96%B9%E6%B3%95%E8%AE%BA%2F%E5%86%B3%E7%AD%96%E6%96%B9%E6%B3%95%E8%AE%BA-%E9%99%88%E6%B6%9B-2023%E7%A7%8B-%E8%AF%BE%E4%BB%B6%2F8%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1.pdf",
+      "originalName": "8课程设计.pdf",
+      "bytes": 2161526,
+      "sha256": "407e331af03f473f00226d282211d379c939582fbb7425b48f04059ad0190ab6",
+      "relativeTarget": "工程技术类/决策方法论/讲义/相关课程参考_2023秋决策课程资料_黄逸洋public/8课程设计.pdf",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "D0010",
+      "sourcePath": "决策方法论-陈涛-2023秋-课件/8线性回归_v2.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.9_%E5%B7%A5%E7%89%A9%E7%B1%BB_%E5%86%B3%E7%AD%96%E6%96%B9%E6%B3%95%E8%AE%BA%2F%E5%86%B3%E7%AD%96%E6%96%B9%E6%B3%95%E8%AE%BA-%E9%99%88%E6%B6%9B-2023%E7%A7%8B-%E8%AF%BE%E4%BB%B6%2F8%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92_v2.pdf",
+      "originalName": "8线性回归_v2.pdf",
+      "bytes": 2791245,
+      "sha256": "0e41db849d914c62f99754057957b96a1d993adb33eb71647149d86d1b6d6c26",
+      "relativeTarget": "工程技术类/决策方法论/讲义/相关课程参考_2023秋决策课程资料_黄逸洋public/8线性回归_v2.pdf",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "D0011",
+      "sourcePath": "决策方法论-陈涛-2023秋-课件/9离散数据.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.9_%E5%B7%A5%E7%89%A9%E7%B1%BB_%E5%86%B3%E7%AD%96%E6%96%B9%E6%B3%95%E8%AE%BA%2F%E5%86%B3%E7%AD%96%E6%96%B9%E6%B3%95%E8%AE%BA-%E9%99%88%E6%B6%9B-2023%E7%A7%8B-%E8%AF%BE%E4%BB%B6%2F9%E7%A6%BB%E6%95%A3%E6%95%B0%E6%8D%AE.pdf",
+      "originalName": "9离散数据.pdf",
+      "bytes": 2619653,
+      "sha256": "f34514d9739d4ccac1fb0d125499d90e909f396bad021c1d056a1fa375d662be",
+      "relativeTarget": "工程技术类/决策方法论/讲义/相关课程参考_2023秋决策课程资料_黄逸洋public/9离散数据.pdf",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "D0012",
+      "sourcePath": "决策方法论-陈涛-2023秋-课件/10广义线性回归.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.9_%E5%B7%A5%E7%89%A9%E7%B1%BB_%E5%86%B3%E7%AD%96%E6%96%B9%E6%B3%95%E8%AE%BA%2F%E5%86%B3%E7%AD%96%E6%96%B9%E6%B3%95%E8%AE%BA-%E9%99%88%E6%B6%9B-2023%E7%A7%8B-%E8%AF%BE%E4%BB%B6%2F10%E5%B9%BF%E4%B9%89%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92.pdf",
+      "originalName": "10广义线性回归.pdf",
+      "bytes": 3867093,
+      "sha256": "dde3be44455ce7b42f1c64e00d9471f9bcfeb50e663e809e7e56dc24d4bff49a",
+      "relativeTarget": "工程技术类/决策方法论/讲义/相关课程参考_2023秋决策课程资料_黄逸洋public/10广义线性回归.pdf",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "D0013",
+      "sourcePath": "决策方法论-陈涛-2023秋-课件/11多目标优化简介.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.9_%E5%B7%A5%E7%89%A9%E7%B1%BB_%E5%86%B3%E7%AD%96%E6%96%B9%E6%B3%95%E8%AE%BA%2F%E5%86%B3%E7%AD%96%E6%96%B9%E6%B3%95%E8%AE%BA-%E9%99%88%E6%B6%9B-2023%E7%A7%8B-%E8%AF%BE%E4%BB%B6%2F11%E5%A4%9A%E7%9B%AE%E6%A0%87%E4%BC%98%E5%8C%96%E7%AE%80%E4%BB%8B.pdf",
+      "originalName": "11多目标优化简介.pdf",
+      "bytes": 2477223,
+      "sha256": "2e4c428cb24e194de4667c99fd8a494cd247ebbeec0f64a8ede7c310e6f54283",
+      "relativeTarget": "工程技术类/决策方法论/讲义/相关课程参考_2023秋决策课程资料_黄逸洋public/11多目标优化简介.pdf",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "D0015",
+      "sourcePath": "决策方法论-陈涛-2023秋-课件/决策方法学-AI-第二部分.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.9_%E5%B7%A5%E7%89%A9%E7%B1%BB_%E5%86%B3%E7%AD%96%E6%96%B9%E6%B3%95%E8%AE%BA%2F%E5%86%B3%E7%AD%96%E6%96%B9%E6%B3%95%E8%AE%BA-%E9%99%88%E6%B6%9B-2023%E7%A7%8B-%E8%AF%BE%E4%BB%B6%2F%E5%86%B3%E7%AD%96%E6%96%B9%E6%B3%95%E5%AD%A6-AI-%E7%AC%AC%E4%BA%8C%E9%83%A8%E5%88%86.pdf",
+      "originalName": "决策方法学-AI-第二部分.pdf",
+      "bytes": 5632038,
+      "sha256": "a7056a7c490bf1887831b544d77e8bff529994e195b5aa5084e5deb09cade92a",
+      "relativeTarget": "工程技术类/决策方法论/讲义/相关课程参考_2023秋决策课程资料_黄逸洋public/决策方法学-AI-第二部分.pdf",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "D0016",
+      "sourcePath": "决策方法论-陈涛-2023秋-课件/决策方法学-AI-第一部分.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.9_%E5%B7%A5%E7%89%A9%E7%B1%BB_%E5%86%B3%E7%AD%96%E6%96%B9%E6%B3%95%E8%AE%BA%2F%E5%86%B3%E7%AD%96%E6%96%B9%E6%B3%95%E8%AE%BA-%E9%99%88%E6%B6%9B-2023%E7%A7%8B-%E8%AF%BE%E4%BB%B6%2F%E5%86%B3%E7%AD%96%E6%96%B9%E6%B3%95%E5%AD%A6-AI-%E7%AC%AC%E4%B8%80%E9%83%A8%E5%88%86.pdf",
+      "originalName": "决策方法学-AI-第一部分.pdf",
+      "bytes": 3215102,
+      "sha256": "e51b5c2a9d3fdae2906d88d5b02bc1dc81233ae0d647a32df536e13b27d499b1",
+      "relativeTarget": "工程技术类/决策方法论/讲义/相关课程参考_2023秋决策课程资料_黄逸洋public/决策方法学-AI-第一部分.pdf",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "D0018",
+      "sourcePath": "决策方法论-陈涛-2023秋-课件/最大似然估计的渐近正态性.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.9_%E5%B7%A5%E7%89%A9%E7%B1%BB_%E5%86%B3%E7%AD%96%E6%96%B9%E6%B3%95%E8%AE%BA%2F%E5%86%B3%E7%AD%96%E6%96%B9%E6%B3%95%E8%AE%BA-%E9%99%88%E6%B6%9B-2023%E7%A7%8B-%E8%AF%BE%E4%BB%B6%2F%E6%9C%80%E5%A4%A7%E4%BC%BC%E7%84%B6%E4%BC%B0%E8%AE%A1%E7%9A%84%E6%B8%90%E8%BF%91%E6%AD%A3%E6%80%81%E6%80%A7.pdf",
+      "originalName": "最大似然估计的渐近正态性.pdf",
+      "bytes": 406741,
+      "sha256": "add8d5d52a7b32123ac0ef2664f92d1a44a8b655f9e9a249769180b32afe132d",
+      "relativeTarget": "工程技术类/决策方法论/讲义/相关课程参考_2023秋决策课程资料_黄逸洋public/最大似然估计的渐近正态性.pdf",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "D0024",
+      "sourcePath": "决策方法论-陈涛-2023秋-课件/example_Poisson/Bicycle_counting.ipynb",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.9_%E5%B7%A5%E7%89%A9%E7%B1%BB_%E5%86%B3%E7%AD%96%E6%96%B9%E6%B3%95%E8%AE%BA%2F%E5%86%B3%E7%AD%96%E6%96%B9%E6%B3%95%E8%AE%BA-%E9%99%88%E6%B6%9B-2023%E7%A7%8B-%E8%AF%BE%E4%BB%B6%2Fexample_Poisson%2FBicycle_counting.ipynb",
+      "originalName": "Bicycle_counting.ipynb",
+      "bytes": 88204,
+      "sha256": "d8db4b7041fe8255ac2cb295649f0c88ab0df5fa40ab4e3b6651caddd5fb9685",
+      "relativeTarget": "工程技术类/决策方法论/讲义/相关课程参考_2023秋决策课程资料_黄逸洋public/example_Poisson/Bicycle_counting.ipynb",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "D0025",
+      "sourcePath": "决策方法论-陈涛-2023秋-课件/example_Poisson/nyc_bb_bicyclist_counts.csv",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.9_%E5%B7%A5%E7%89%A9%E7%B1%BB_%E5%86%B3%E7%AD%96%E6%96%B9%E6%B3%95%E8%AE%BA%2F%E5%86%B3%E7%AD%96%E6%96%B9%E6%B3%95%E8%AE%BA-%E9%99%88%E6%B6%9B-2023%E7%A7%8B-%E8%AF%BE%E4%BB%B6%2Fexample_Poisson%2Fnyc_bb_bicyclist_counts.csv",
+      "originalName": "nyc_bb_bicyclist_counts.csv",
+      "bytes": 5724,
+      "sha256": "9e8efd73bf8ba7a81fdea62ab5f44aa9dbf2b400ef80adda198f6d68135727e8",
+      "relativeTarget": "工程技术类/决策方法论/讲义/相关课程参考_2023秋决策课程资料_黄逸洋public/example_Poisson/nyc_bb_bicyclist_counts.csv",
+      "kind": "learningOriginal"
+    }
+  ],
+  "boundary": "原件字节、文件名及必要配套相对路径保持；未执行源码、Notebook、TeX、宏或外链。4件填写编号作业及其源稿留过程，未纳上传。实际视觉16页，非全部课程页审校。"
+}

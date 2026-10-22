@@ -1,0 +1,28 @@
+{
+  "sourceRoot": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.9_%E5%B7%A5%E7%89%A9%E7%B1%BB_%E5%86%B3%E7%AD%96%E6%96%B9%E6%B3%95%E8%AE%BA&mode=list",
+  "sourceLabel": "黄逸洋public / 决策方法论",
+  "role": "课程总结复习课件与8页个人手写复习笔记分别保存。手写稿作者未核，来源学期仅原目录标签，不作为当前考试范围或标准答案。",
+  "items": [
+    {
+      "sourceAlias": "D0001",
+      "sourcePath": "决策方法论-陈涛-2023秋-期末复习笔记.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.9_%E5%B7%A5%E7%89%A9%E7%B1%BB_%E5%86%B3%E7%AD%96%E6%96%B9%E6%B3%95%E8%AE%BA%2F%E5%86%B3%E7%AD%96%E6%96%B9%E6%B3%95%E8%AE%BA-%E9%99%88%E6%B6%9B-2023%E7%A7%8B-%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0.pdf",
+      "originalName": "决策方法论-陈涛-2023秋-期末复习笔记.pdf",
+      "bytes": 1495575,
+      "sha256": "383190c4f48c7e5ba2ff33fb5084131795b9b62e1a70311990614362b0076f90",
+      "relativeTarget": "工程技术类/决策方法论/复习/相关课程参考_决策课程复习与手写笔记_黄逸洋public/决策方法论-陈涛-2023秋-期末复习笔记.pdf",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "D0014",
+      "sourcePath": "决策方法论-陈涛-2023秋-课件/16课程总结及复习重点.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.9_%E5%B7%A5%E7%89%A9%E7%B1%BB_%E5%86%B3%E7%AD%96%E6%96%B9%E6%B3%95%E8%AE%BA%2F%E5%86%B3%E7%AD%96%E6%96%B9%E6%B3%95%E8%AE%BA-%E9%99%88%E6%B6%9B-2023%E7%A7%8B-%E8%AF%BE%E4%BB%B6%2F16%E8%AF%BE%E7%A8%8B%E6%80%BB%E7%BB%93%E5%8F%8A%E5%A4%8D%E4%B9%A0%E9%87%8D%E7%82%B9.pdf",
+      "originalName": "16课程总结及复习重点.pdf",
+      "bytes": 813744,
+      "sha256": "55b6601c20849f9bf16a7f22c468aa934be75b11a97a2704f03fdaaf152428fd",
+      "relativeTarget": "工程技术类/决策方法论/复习/相关课程参考_决策课程复习与手写笔记_黄逸洋public/16课程总结及复习重点.pdf",
+      "kind": "learningOriginal"
+    }
+  ],
+  "boundary": "原件字节、文件名及必要配套相对路径保持；未执行源码、Notebook、TeX、宏或外链。4件填写编号作业及其源稿留过程，未纳上传。实际视觉16页，非全部课程页审校。"
+}
