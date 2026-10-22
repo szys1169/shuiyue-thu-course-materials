@@ -1,0 +1,189 @@
+{
+  "sourceRoot": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E5%B7%A5%E5%BB%BA%E7%AD%91%E5%AD%A6&mode=list",
+  "role": "教材章节扫描节选，部分原页含圈记与边注，来源标题第1章内含书封；不作为教师课件认证",
+  "items": [
+    {
+      "sourceAlias": "W0060",
+      "originalName": "第1章 目录+绪论.pdf",
+      "bytes": 6275125,
+      "sha256": "8c01bb11d5c1ef0e8bbd44b676074d90de54dbee94dc499e4d0610f87187ced7",
+      "relativeTarget": "工程技术类/水工建筑学/教材/相关课程参考_水工建筑学章节扫描与注记_黄逸洋public/第1章 目录+绪论.pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E5%B7%A5%E5%BB%BA%E7%AD%91%E5%AD%A6%2F%E6%B0%B4%E5%B7%A5%E5%BB%BA%E7%AD%91%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E7%AC%AC1%E7%AB%A0%20%E7%9B%AE%E5%BD%95%2B%E7%BB%AA%E8%AE%BA.pdf",
+      "sourcePath": "水工建筑学_马逸/第1章 目录+绪论.pdf"
+    },
+    {
+      "sourceAlias": "W0062",
+      "originalName": "第2章 水利水电工程引论.pdf",
+      "bytes": 20569321,
+      "sha256": "e2ae6d46555891e4eca6f04bdcd942eebd8d956ec1912f065958c57a3344c94e",
+      "relativeTarget": "工程技术类/水工建筑学/教材/相关课程参考_水工建筑学章节扫描与注记_黄逸洋public/第2章 水利水电工程引论.pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E5%B7%A5%E5%BB%BA%E7%AD%91%E5%AD%A6%2F%E6%B0%B4%E5%B7%A5%E5%BB%BA%E7%AD%91%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E7%AC%AC2%E7%AB%A0%20%E6%B0%B4%E5%88%A9%E6%B0%B4%E7%94%B5%E5%B7%A5%E7%A8%8B%E5%BC%95%E8%AE%BA.pdf",
+      "sourcePath": "水工建筑学_马逸/第2章 水利水电工程引论.pdf"
+    },
+    {
+      "sourceAlias": "W0063",
+      "originalName": "第3章 重力坝.pdf",
+      "bytes": 81229350,
+      "sha256": "3083db502b70a6008bc43f6fd40a9e1c1de65914db08ffb52128a4d532bd2969",
+      "relativeTarget": "工程技术类/水工建筑学/教材/相关课程参考_水工建筑学章节扫描与注记_黄逸洋public/第3章 重力坝.pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E5%B7%A5%E5%BB%BA%E7%AD%91%E5%AD%A6%2F%E6%B0%B4%E5%B7%A5%E5%BB%BA%E7%AD%91%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E7%AC%AC3%E7%AB%A0%20%E9%87%8D%E5%8A%9B%E5%9D%9D.pdf",
+      "sourcePath": "水工建筑学_马逸/第3章 重力坝.pdf"
+    },
+    {
+      "sourceAlias": "W0065",
+      "originalName": "第4章 拱坝.pdf",
+      "bytes": 60015188,
+      "sha256": "c530589f4d5832e719ba7a0b78029a58a1f539584cf2d08a549e67f9c9fe80bc",
+      "relativeTarget": "工程技术类/水工建筑学/教材/相关课程参考_水工建筑学章节扫描与注记_黄逸洋public/第4章 拱坝.pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E5%B7%A5%E5%BB%BA%E7%AD%91%E5%AD%A6%2F%E6%B0%B4%E5%B7%A5%E5%BB%BA%E7%AD%91%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E7%AC%AC4%E7%AB%A0%20%E6%8B%B1%E5%9D%9D.pdf",
+      "sourcePath": "水工建筑学_马逸/第4章 拱坝.pdf"
+    },
+    {
+      "sourceAlias": "W0067",
+      "originalName": "第5章 土石坝.pdf",
+      "bytes": 52326407,
+      "sha256": "ed703bb090d4a9ccb5b61d0f1187fdc61c5ab903d33fd0c92ab2029e4325f155",
+      "relativeTarget": "工程技术类/水工建筑学/教材/相关课程参考_水工建筑学章节扫描与注记_黄逸洋public/第5章 土石坝.pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E5%B7%A5%E5%BB%BA%E7%AD%91%E5%AD%A6%2F%E6%B0%B4%E5%B7%A5%E5%BB%BA%E7%AD%91%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E7%AC%AC5%E7%AB%A0%20%E5%9C%9F%E7%9F%B3%E5%9D%9D.pdf",
+      "sourcePath": "水工建筑学_马逸/第5章 土石坝.pdf"
+    },
+    {
+      "sourceAlias": "W0069",
+      "originalName": "第6章 水闸.pdf",
+      "bytes": 31325605,
+      "sha256": "eeb6e9e962dd9d75cc645265297440838193819aca75cd0f0561764c56cf76c5",
+      "relativeTarget": "工程技术类/水工建筑学/教材/相关课程参考_水工建筑学章节扫描与注记_黄逸洋public/第6章 水闸.pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E5%B7%A5%E5%BB%BA%E7%AD%91%E5%AD%A6%2F%E6%B0%B4%E5%B7%A5%E5%BB%BA%E7%AD%91%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E7%AC%AC6%E7%AB%A0%20%E6%B0%B4%E9%97%B8.pdf",
+      "sourcePath": "水工建筑学_马逸/第6章 水闸.pdf"
+    },
+    {
+      "sourceAlias": "W0070",
+      "originalName": "第7章 岸边溢洪道.pdf",
+      "bytes": 15396184,
+      "sha256": "6076b158cdf8602dbd7fb96beac1399ecbe3275a38308c6ef2b753dc18c5917d",
+      "relativeTarget": "工程技术类/水工建筑学/教材/相关课程参考_水工建筑学章节扫描与注记_黄逸洋public/第7章 岸边溢洪道.pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E5%B7%A5%E5%BB%BA%E7%AD%91%E5%AD%A6%2F%E6%B0%B4%E5%B7%A5%E5%BB%BA%E7%AD%91%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E7%AC%AC7%E7%AB%A0%20%E5%B2%B8%E8%BE%B9%E6%BA%A2%E6%B4%AA%E9%81%93.pdf",
+      "sourcePath": "水工建筑学_马逸/第7章 岸边溢洪道.pdf"
+    }
+  ],
+  "sameSHAOtherSourcePaths": [
+    {
+      "sourceAlias": "W0059",
+      "sourcePath": "水工建筑学_马逸/第1章 目录+绪论 (1).pdf",
+      "bytes": 6275125,
+      "sha256": "8c01bb11d5c1ef0e8bbd44b676074d90de54dbee94dc499e4d0610f87187ced7",
+      "sameAsRelativeTarget": "工程技术类/水工建筑学/教材/相关课程参考_水工建筑学章节扫描与注记_黄逸洋public/第1章 目录+绪论.pdf"
+    },
+    {
+      "sourceAlias": "W0061",
+      "sourcePath": "水工建筑学_马逸/第2章 水利水电工程引论 (1).pdf",
+      "bytes": 20569321,
+      "sha256": "e2ae6d46555891e4eca6f04bdcd942eebd8d956ec1912f065958c57a3344c94e",
+      "sameAsRelativeTarget": "工程技术类/水工建筑学/教材/相关课程参考_水工建筑学章节扫描与注记_黄逸洋public/第2章 水利水电工程引论.pdf"
+    },
+    {
+      "sourceAlias": "W0064",
+      "sourcePath": "水工建筑学_马逸/第4章 拱坝 (1).pdf",
+      "bytes": 60015188,
+      "sha256": "c530589f4d5832e719ba7a0b78029a58a1f539584cf2d08a549e67f9c9fe80bc",
+      "sameAsRelativeTarget": "工程技术类/水工建筑学/教材/相关课程参考_水工建筑学章节扫描与注记_黄逸洋public/第4章 拱坝.pdf"
+    },
+    {
+      "sourceAlias": "W0066",
+      "sourcePath": "水工建筑学_马逸/第5章 土石坝 (1).pdf",
+      "bytes": 52326407,
+      "sha256": "ed703bb090d4a9ccb5b61d0f1187fdc61c5ab903d33fd0c92ab2029e4325f155",
+      "sameAsRelativeTarget": "工程技术类/水工建筑学/教材/相关课程参考_水工建筑学章节扫描与注记_黄逸洋public/第5章 土石坝.pdf"
+    },
+    {
+      "sourceAlias": "W0068",
+      "sourcePath": "水工建筑学_马逸/第6章 水闸 (1).pdf",
+      "bytes": 31325605,
+      "sha256": "eeb6e9e962dd9d75cc645265297440838193819aca75cd0f0561764c56cf76c5",
+      "sameAsRelativeTarget": "工程技术类/水工建筑学/教材/相关课程参考_水工建筑学章节扫描与注记_黄逸洋public/第6章 水闸.pdf"
+    }
+  ],
+  "boundary": "来源原包仅本地静态展开后保存散件，未执行软件、源码、宏或外链；原元数据和扫描状态保留，只有明确标名的回忆DOCX整理副本按清单移除一个编号账号字段。",
+  "gitSyncDate": "2026-10-23",
+  "gitFiles": [
+    {
+      "sourceLabel": "W0060",
+      "sourceFileName": "第1章 目录+绪论.pdf",
+      "bytes": 6275125,
+      "sha256": "8c01bb11d5c1ef0e8bbd44b676074d90de54dbee94dc499e4d0610f87187ced7",
+      "PDFFilePages": 31,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水工建筑学/教材/相关课程参考_水工建筑学章节扫描与注记_黄逸洋public/第1章 目录+绪论.pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "W0062",
+      "sourceFileName": "第2章 水利水电工程引论.pdf",
+      "bytes": 20569321,
+      "sha256": "e2ae6d46555891e4eca6f04bdcd942eebd8d956ec1912f065958c57a3344c94e",
+      "PDFFilePages": 29,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水工建筑学/教材/相关课程参考_水工建筑学章节扫描与注记_黄逸洋public/第2章 水利水电工程引论.pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "W0063",
+      "sourceFileName": "第3章 重力坝.pdf",
+      "bytes": 81229350,
+      "sha256": "3083db502b70a6008bc43f6fd40a9e1c1de65914db08ffb52128a4d532bd2969",
+      "PDFFilePages": 132,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水工建筑学/教材/相关课程参考_水工建筑学章节扫描与注记_黄逸洋public/第3章 重力坝.pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "W0065",
+      "sourceFileName": "第4章 拱坝.pdf",
+      "bytes": 60015188,
+      "sha256": "c530589f4d5832e719ba7a0b78029a58a1f539584cf2d08a549e67f9c9fe80bc",
+      "PDFFilePages": 101,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水工建筑学/教材/相关课程参考_水工建筑学章节扫描与注记_黄逸洋public/第4章 拱坝.pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "W0067",
+      "sourceFileName": "第5章 土石坝.pdf",
+      "bytes": 52326407,
+      "sha256": "ed703bb090d4a9ccb5b61d0f1187fdc61c5ab903d33fd0c92ab2029e4325f155",
+      "PDFFilePages": 78,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水工建筑学/教材/相关课程参考_水工建筑学章节扫描与注记_黄逸洋public/第5章 土石坝.pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "W0069",
+      "sourceFileName": "第6章 水闸.pdf",
+      "bytes": 31325605,
+      "sha256": "eeb6e9e962dd9d75cc645265297440838193819aca75cd0f0561764c56cf76c5",
+      "PDFFilePages": 53,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水工建筑学/教材/相关课程参考_水工建筑学章节扫描与注记_黄逸洋public/第6章 水闸.pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "W0070",
+      "sourceFileName": "第7章 岸边溢洪道.pdf",
+      "bytes": 15396184,
+      "sha256": "6076b158cdf8602dbd7fb96beac1399ecbe3275a38308c6ef2b753dc18c5917d",
+      "PDFFilePages": 27,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水工建筑学/教材/相关课程参考_水工建筑学章节扫描与注记_黄逸洋public/第7章 岸边溢洪道.pdf",
+      "gitSyncStatus": "published_original_bytes"
+    }
+  ],
+  "gitScope": "本次Git同步69个原字节学习文件及1个已标名“移除个人元数据的整理副本”的DOCX，另发布14份来源说明。整理副本仅移除docProps/core.xml的dc:creator编号账号，原SHA与副本SHA分别记录；其余part字节SHA守恒沿上游逐part验收证据，本次独立核副本SHA、包CRC与creator为空，未重读未纳入的原件。不将整理副本称原字节；未发布原包、密码、身份暂缓原件或过程材料。",
+  "gitReviewBoundary": "19PDF共3826页全提取文本/metadata，38首尾角色页及19页混合题解全件（重叠2页，合55不同PDF页）实际视读；90unique raster图像联系表视读、三张空身份栏作业照片放大检查；OOXML各XML/core/rels包CRC静态核，无宏/公式/INP/CAE求解/外链执行。7CAE仅ABQTSA头及可提取ASCII/UTF16字符串检查，未原应用打开或渲染，不称完整对象净审。 云盘证据沿上游逐名及8代表文件SHA验收，不称84文件全部本次cloudSHA回取。八卷手册与教材章节保原扫描、圈记和缺封面边界，不补未证完整性或当前指定教材；回忆及题解不认标准答案。"
+}

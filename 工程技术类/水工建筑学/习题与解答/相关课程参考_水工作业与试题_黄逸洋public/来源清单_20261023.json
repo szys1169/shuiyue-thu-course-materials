@@ -1,0 +1,55 @@
+{
+  "sourceRoot": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E5%B7%A5%E5%BB%BA%E7%AD%91%E5%AD%A6&mode=list",
+  "role": "19页混合作业题、参考推导及空白试题和排印答案，原页序保留，未核正确性",
+  "items": [
+    {
+      "sourceAlias": "W0038",
+      "originalName": "水工作业及试题.pdf",
+      "bytes": 4143586,
+      "sha256": "6fb03bebeb35dbc0822d4b32de8a73b39bc6580c8dbbe121eb1c72c3c28a1195",
+      "relativeTarget": "工程技术类/水工建筑学/习题与解答/相关课程参考_水工作业与试题_黄逸洋public/水工作业及试题.pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E5%B7%A5%E5%BB%BA%E7%AD%91%E5%AD%A6%2F%E6%B0%B4%E5%B7%A5%E5%BB%BA%E7%AD%91%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E6%B0%B4%E5%B7%A5%E5%BB%BA%E7%AD%91%E5%AD%A6%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%B5%84%E6%96%99%2F%E6%B0%B4%E5%B7%A5%E4%BD%9C%E4%B8%9A%E5%8F%8A%E8%AF%95%E9%A2%98.pdf",
+      "sourcePath": "水工建筑学_马逸/水工建筑学期末考试资料/水工作业及试题.pdf"
+    }
+  ],
+  "sameSHAOtherSourcePaths": [
+    {
+      "sourceAlias": "W0076",
+      "sourcePath": "水工建筑学_马逸/考试资料/水工作业及试题.pdf",
+      "bytes": 4143586,
+      "sha256": "6fb03bebeb35dbc0822d4b32de8a73b39bc6580c8dbbe121eb1c72c3c28a1195",
+      "sameAsRelativeTarget": "工程技术类/水工建筑学/习题与解答/相关课程参考_水工作业与试题_黄逸洋public/水工作业及试题.pdf"
+    },
+    {
+      "sourceAlias": "W0037",
+      "sourcePath": "水工建筑学_马逸/水工建筑学期末考试资料/水工作业及试题 (1).pdf",
+      "bytes": 4143586,
+      "sha256": "6fb03bebeb35dbc0822d4b32de8a73b39bc6580c8dbbe121eb1c72c3c28a1195",
+      "sameAsRelativeTarget": "工程技术类/水工建筑学/习题与解答/相关课程参考_水工作业与试题_黄逸洋public/水工作业及试题.pdf"
+    },
+    {
+      "sourceAlias": "W0075",
+      "sourcePath": "水工建筑学_马逸/考试资料/水工作业及试题 (1).pdf",
+      "bytes": 4143586,
+      "sha256": "6fb03bebeb35dbc0822d4b32de8a73b39bc6580c8dbbe121eb1c72c3c28a1195",
+      "sameAsRelativeTarget": "工程技术类/水工建筑学/习题与解答/相关课程参考_水工作业与试题_黄逸洋public/水工作业及试题.pdf"
+    }
+  ],
+  "boundary": "来源原包仅本地静态展开后保存散件，未执行软件、源码、宏或外链；原元数据和扫描状态保留，只有明确标名的回忆DOCX整理副本按清单移除一个编号账号字段。",
+  "gitSyncDate": "2026-10-23",
+  "gitFiles": [
+    {
+      "sourceLabel": "W0038",
+      "sourceFileName": "水工作业及试题.pdf",
+      "bytes": 4143586,
+      "sha256": "6fb03bebeb35dbc0822d4b32de8a73b39bc6580c8dbbe121eb1c72c3c28a1195",
+      "PDFFilePages": 19,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水工建筑学/习题与解答/相关课程参考_水工作业与试题_黄逸洋public/水工作业及试题.pdf",
+      "gitSyncStatus": "published_original_bytes"
+    }
+  ],
+  "gitScope": "本次Git同步69个原字节学习文件及1个已标名“移除个人元数据的整理副本”的DOCX，另发布14份来源说明。整理副本仅移除docProps/core.xml的dc:creator编号账号，原SHA与副本SHA分别记录；其余part字节SHA守恒沿上游逐part验收证据，本次独立核副本SHA、包CRC与creator为空，未重读未纳入的原件。不将整理副本称原字节；未发布原包、密码、身份暂缓原件或过程材料。",
+  "gitReviewBoundary": "19PDF共3826页全提取文本/metadata，38首尾角色页及19页混合题解全件（重叠2页，合55不同PDF页）实际视读；90unique raster图像联系表视读、三张空身份栏作业照片放大检查；OOXML各XML/core/rels包CRC静态核，无宏/公式/INP/CAE求解/外链执行。7CAE仅ABQTSA头及可提取ASCII/UTF16字符串检查，未原应用打开或渲染，不称完整对象净审。 云盘证据沿上游逐名及8代表文件SHA验收，不称84文件全部本次cloudSHA回取。八卷手册与教材章节保原扫描、圈记和缺封面边界，不补未证完整性或当前指定教材；回忆及题解不认标准答案。"
+}

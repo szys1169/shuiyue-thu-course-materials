@@ -1,0 +1,485 @@
+{
+  "sourceRoot": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E5%B7%A5%E5%BB%BA%E7%AD%91%E5%AD%A6&mode=list",
+  "role": "来源2018年作业标签的题面、数据、重力坝建模示例和CAE模型；软件未运行",
+  "items": [
+    {
+      "sourceAlias": "W0018",
+      "originalName": "978204974_11_大作业选题2017.docx",
+      "bytes": 66561,
+      "sha256": "d407b2222db5faf3c79b59c87ee6f3ebb72d37efd3354bdb2de49cf2090303b6",
+      "relativeTarget": "工程技术类/水工建筑学/作业/相关课程参考_水工题面与建模示例_黄逸洋public/题面/978204974_11_大作业选题2017.docx",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E5%B7%A5%E5%BB%BA%E7%AD%91%E5%AD%A6%2F%E6%B0%B4%E5%B7%A5%E5%BB%BA%E7%AD%91%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E4%BD%9C%E4%B8%9A%2F978204974_11_%E5%A4%A7%E4%BD%9C%E4%B8%9A%E9%80%89%E9%A2%982017.docx",
+      "sourcePath": "水工建筑学_马逸/作业/978204974_11_大作业选题2017.docx"
+    },
+    {
+      "sourceAlias": "W0001",
+      "originalName": "Abaqus.pdf",
+      "bytes": 19056653,
+      "sha256": "5bc035b230eb26c85c423bf47e4f5a9186721daad907ecd7bf926bdb876106cd",
+      "relativeTarget": "工程技术类/水工建筑学/作业/相关课程参考_水工题面与建模示例_黄逸洋public/2018年作业/Abaqus.pdf",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E5%B7%A5%E5%BB%BA%E7%AD%91%E5%AD%A6%2F%E6%B0%B4%E5%B7%A5%E5%BB%BA%E7%AD%91%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E4%BD%9C%E4%B8%9A%2F2018%E5%B9%B4%E4%BD%9C%E4%B8%9A%2FAbaqus.pdf",
+      "sourcePath": "水工建筑学_马逸/作业/2018年作业/Abaqus.pdf"
+    },
+    {
+      "sourceAlias": "W0002",
+      "originalName": "train.xlsx",
+      "bytes": 52967,
+      "sha256": "fa48928e55c05ec3647b45bd905f7c68ac438b2a3502ca2a55ca67682ba0a52d",
+      "relativeTarget": "工程技术类/水工建筑学/作业/相关课程参考_水工题面与建模示例_黄逸洋public/2018年作业/train.xlsx",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E5%B7%A5%E5%BB%BA%E7%AD%91%E5%AD%A6%2F%E6%B0%B4%E5%B7%A5%E5%BB%BA%E7%AD%91%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E4%BD%9C%E4%B8%9A%2F2018%E5%B9%B4%E4%BD%9C%E4%B8%9A%2Ftrain.xlsx",
+      "sourcePath": "水工建筑学_马逸/作业/2018年作业/train.xlsx"
+    },
+    {
+      "sourceAlias": "W0003M003",
+      "originalName": "GravDam.cae",
+      "bytes": 2342912,
+      "sha256": "a69535c78b10c5aec6121ef7d761caf97a8622350d4fc82ad3c31a3df930e290",
+      "relativeTarget": "工程技术类/水工建筑学/作业/相关课程参考_水工题面与建模示例_黄逸洋public/2018年作业/原包模型/GravDam.cae",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E5%B7%A5%E5%BB%BA%E7%AD%91%E5%AD%A6&mode=list",
+      "sourceArchiveAlias": "W0003",
+      "archiveMember": "GravDam.cae",
+      "archiveOriginalSHA": "da0356a3d2c54e46e1ed6e136550834d08e74640997fdb2a9a07b5cb341ea995"
+    },
+    {
+      "sourceAlias": "W0003M004",
+      "originalName": "GravDam_10m.cae",
+      "bytes": 2281472,
+      "sha256": "9bb2fed59f91ae03520cbbdd3663e9bd1455b1946cc18c099d5b809f085e48bb",
+      "relativeTarget": "工程技术类/水工建筑学/作业/相关课程参考_水工题面与建模示例_黄逸洋public/2018年作业/原包模型/GravDam_10m.cae",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E5%B7%A5%E5%BB%BA%E7%AD%91%E5%AD%A6&mode=list",
+      "sourceArchiveAlias": "W0003",
+      "archiveMember": "GravDam_10m.cae",
+      "archiveOriginalSHA": "da0356a3d2c54e46e1ed6e136550834d08e74640997fdb2a9a07b5cb341ea995"
+    },
+    {
+      "sourceAlias": "W0003M005",
+      "originalName": "GravDam_20m.cae",
+      "bytes": 2215936,
+      "sha256": "7d298559eecf715fe8c443135d3ac9f947c41d2ac0a6530139076f8f787904c4",
+      "relativeTarget": "工程技术类/水工建筑学/作业/相关课程参考_水工题面与建模示例_黄逸洋public/2018年作业/原包模型/GravDam_20m.cae",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E5%B7%A5%E5%BB%BA%E7%AD%91%E5%AD%A6&mode=list",
+      "sourceArchiveAlias": "W0003",
+      "archiveMember": "GravDam_20m.cae",
+      "archiveOriginalSHA": "da0356a3d2c54e46e1ed6e136550834d08e74640997fdb2a9a07b5cb341ea995"
+    },
+    {
+      "sourceAlias": "W0003M006",
+      "originalName": "GravDam_30m.cae",
+      "bytes": 2138112,
+      "sha256": "33341874e4f4961ac3b8f90594e55b18ba12e5fadb5224174d2209f46ffeed8b",
+      "relativeTarget": "工程技术类/水工建筑学/作业/相关课程参考_水工题面与建模示例_黄逸洋public/2018年作业/原包模型/GravDam_30m.cae",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E5%B7%A5%E5%BB%BA%E7%AD%91%E5%AD%A6&mode=list",
+      "sourceArchiveAlias": "W0003",
+      "archiveMember": "GravDam_30m.cae",
+      "archiveOriginalSHA": "da0356a3d2c54e46e1ed6e136550834d08e74640997fdb2a9a07b5cb341ea995"
+    },
+    {
+      "sourceAlias": "W0003M007",
+      "originalName": "GravDam_40m.cae",
+      "bytes": 2027520,
+      "sha256": "c0e98351c77596488e4ef44db6744b5dc96ad30a8659b926a444495228f48260",
+      "relativeTarget": "工程技术类/水工建筑学/作业/相关课程参考_水工题面与建模示例_黄逸洋public/2018年作业/原包模型/GravDam_40m.cae",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E5%B7%A5%E5%BB%BA%E7%AD%91%E5%AD%A6&mode=list",
+      "sourceArchiveAlias": "W0003",
+      "archiveMember": "GravDam_40m.cae",
+      "archiveOriginalSHA": "da0356a3d2c54e46e1ed6e136550834d08e74640997fdb2a9a07b5cb341ea995"
+    },
+    {
+      "sourceAlias": "W0003M001",
+      "originalName": "GravDam_50m.cae",
+      "bytes": 1937408,
+      "sha256": "9f905d9b105a7f01d13e7e742981bd8b4c1e000d1b04f892a9c55e7a6402b471",
+      "relativeTarget": "工程技术类/水工建筑学/作业/相关课程参考_水工题面与建模示例_黄逸洋public/2018年作业/原包模型/GravDam_50m.cae",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E5%B7%A5%E5%BB%BA%E7%AD%91%E5%AD%A6&mode=list",
+      "sourceArchiveAlias": "W0003",
+      "archiveMember": "GravDam_50m.cae",
+      "archiveOriginalSHA": "da0356a3d2c54e46e1ed6e136550834d08e74640997fdb2a9a07b5cb341ea995"
+    },
+    {
+      "sourceAlias": "W0004",
+      "originalName": "第10次作业：土石坝02.docx",
+      "bytes": 512029,
+      "sha256": "a4f4267d85e48f73672d4b5d9feca988d4ebb98dd5310219415175bf5417c773",
+      "relativeTarget": "工程技术类/水工建筑学/作业/相关课程参考_水工题面与建模示例_黄逸洋public/2018年作业/第10次作业：土石坝02.docx",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E5%B7%A5%E5%BB%BA%E7%AD%91%E5%AD%A6%2F%E6%B0%B4%E5%B7%A5%E5%BB%BA%E7%AD%91%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E4%BD%9C%E4%B8%9A%2F2018%E5%B9%B4%E4%BD%9C%E4%B8%9A%2F%E7%AC%AC10%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%9C%9F%E7%9F%B3%E5%9D%9D02.docx",
+      "sourcePath": "水工建筑学_马逸/作业/2018年作业/第10次作业：土石坝02.docx"
+    },
+    {
+      "sourceAlias": "W0005",
+      "originalName": "第10次作业：土石坝03.docx",
+      "bytes": 878364,
+      "sha256": "f9a01e3a385f7881328037c43137c6c46187821f15f7aeee3152ad09138b0a37",
+      "relativeTarget": "工程技术类/水工建筑学/作业/相关课程参考_水工题面与建模示例_黄逸洋public/2018年作业/第10次作业：土石坝03.docx",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E5%B7%A5%E5%BB%BA%E7%AD%91%E5%AD%A6%2F%E6%B0%B4%E5%B7%A5%E5%BB%BA%E7%AD%91%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E4%BD%9C%E4%B8%9A%2F2018%E5%B9%B4%E4%BD%9C%E4%B8%9A%2F%E7%AC%AC10%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%9C%9F%E7%9F%B3%E5%9D%9D03.docx",
+      "sourcePath": "水工建筑学_马逸/作业/2018年作业/第10次作业：土石坝03.docx"
+    },
+    {
+      "sourceAlias": "W0006",
+      "originalName": "第12次作业：河岸溢洪道.docx",
+      "bytes": 445060,
+      "sha256": "eb567fc93f57a88767ce165a7d8de1f49a19f9220dc2f5f8bd626421b1ea7be6",
+      "relativeTarget": "工程技术类/水工建筑学/作业/相关课程参考_水工题面与建模示例_黄逸洋public/2018年作业/第12次作业：河岸溢洪道.docx",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E5%B7%A5%E5%BB%BA%E7%AD%91%E5%AD%A6%2F%E6%B0%B4%E5%B7%A5%E5%BB%BA%E7%AD%91%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E4%BD%9C%E4%B8%9A%2F2018%E5%B9%B4%E4%BD%9C%E4%B8%9A%2F%E7%AC%AC12%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E6%B2%B3%E5%B2%B8%E6%BA%A2%E6%B4%AA%E9%81%93.docx",
+      "sourcePath": "水工建筑学_马逸/作业/2018年作业/第12次作业：河岸溢洪道.docx"
+    },
+    {
+      "sourceAlias": "W0007",
+      "originalName": "第13次作业：水工隧洞.docx",
+      "bytes": 562453,
+      "sha256": "d4e87c6b3d79c488668c69dfee083b0144bc90315cd5bb627a14c774528ba3f1",
+      "relativeTarget": "工程技术类/水工建筑学/作业/相关课程参考_水工题面与建模示例_黄逸洋public/2018年作业/第13次作业：水工隧洞.docx",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E5%B7%A5%E5%BB%BA%E7%AD%91%E5%AD%A6%2F%E6%B0%B4%E5%B7%A5%E5%BB%BA%E7%AD%91%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E4%BD%9C%E4%B8%9A%2F2018%E5%B9%B4%E4%BD%9C%E4%B8%9A%2F%E7%AC%AC13%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E6%B0%B4%E5%B7%A5%E9%9A%A7%E6%B4%9E.docx",
+      "sourcePath": "水工建筑学_马逸/作业/2018年作业/第13次作业：水工隧洞.docx"
+    },
+    {
+      "sourceAlias": "W0008",
+      "originalName": "第14次作业：土基上的水闸.docx",
+      "bytes": 691122,
+      "sha256": "c936acd81150976faba00d1f710b56a61b8f78f720117b5f873ad32f5331ae4a",
+      "relativeTarget": "工程技术类/水工建筑学/作业/相关课程参考_水工题面与建模示例_黄逸洋public/2018年作业/第14次作业：土基上的水闸.docx",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E5%B7%A5%E5%BB%BA%E7%AD%91%E5%AD%A6%2F%E6%B0%B4%E5%B7%A5%E5%BB%BA%E7%AD%91%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E4%BD%9C%E4%B8%9A%2F2018%E5%B9%B4%E4%BD%9C%E4%B8%9A%2F%E7%AC%AC14%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%9C%9F%E5%9F%BA%E4%B8%8A%E7%9A%84%E6%B0%B4%E9%97%B8.docx",
+      "sourcePath": "水工建筑学_马逸/作业/2018年作业/第14次作业：土基上的水闸.docx"
+    },
+    {
+      "sourceAlias": "W0009",
+      "originalName": "第15次作业：闸门.docx",
+      "bytes": 460960,
+      "sha256": "3d036ffe47ebd8cbe702edb14c79d8b0a7bb54613c3119099fd60f28012123b8",
+      "relativeTarget": "工程技术类/水工建筑学/作业/相关课程参考_水工题面与建模示例_黄逸洋public/2018年作业/第15次作业：闸门.docx",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E5%B7%A5%E5%BB%BA%E7%AD%91%E5%AD%A6%2F%E6%B0%B4%E5%B7%A5%E5%BB%BA%E7%AD%91%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E4%BD%9C%E4%B8%9A%2F2018%E5%B9%B4%E4%BD%9C%E4%B8%9A%2F%E7%AC%AC15%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E9%97%B8%E9%97%A8.docx",
+      "sourcePath": "水工建筑学_马逸/作业/2018年作业/第15次作业：闸门.docx"
+    },
+    {
+      "sourceAlias": "W0010",
+      "originalName": "第1次作业：绪论.docx",
+      "bytes": 104587,
+      "sha256": "92211063692f7f0d5d4ad6df44bdc70246cb944b0b285560c62d9ac2560ab7cf",
+      "relativeTarget": "工程技术类/水工建筑学/作业/相关课程参考_水工题面与建模示例_黄逸洋public/2018年作业/第1次作业：绪论.docx",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E5%B7%A5%E5%BB%BA%E7%AD%91%E5%AD%A6%2F%E6%B0%B4%E5%B7%A5%E5%BB%BA%E7%AD%91%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E4%BD%9C%E4%B8%9A%2F2018%E5%B9%B4%E4%BD%9C%E4%B8%9A%2F%E7%AC%AC1%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E7%BB%AA%E8%AE%BA.docx",
+      "sourcePath": "水工建筑学_马逸/作业/2018年作业/第1次作业：绪论.docx"
+    },
+    {
+      "sourceAlias": "W0011",
+      "originalName": "第3次作业：重力坝02.docx",
+      "bytes": 391532,
+      "sha256": "a829296d704ec35cd7edf5dd2c3ee23f063abe29e00827b8c0edc84aac2b79e7",
+      "relativeTarget": "工程技术类/水工建筑学/作业/相关课程参考_水工题面与建模示例_黄逸洋public/2018年作业/第3次作业：重力坝02.docx",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E5%B7%A5%E5%BB%BA%E7%AD%91%E5%AD%A6%2F%E6%B0%B4%E5%B7%A5%E5%BB%BA%E7%AD%91%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E4%BD%9C%E4%B8%9A%2F2018%E5%B9%B4%E4%BD%9C%E4%B8%9A%2F%E7%AC%AC3%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E9%87%8D%E5%8A%9B%E5%9D%9D02.docx",
+      "sourcePath": "水工建筑学_马逸/作业/2018年作业/第3次作业：重力坝02.docx"
+    },
+    {
+      "sourceAlias": "W0012",
+      "originalName": "第4次作业：重力坝03.docx",
+      "bytes": 194638,
+      "sha256": "61281ec67dc244a3cd771ab55f33ef45bfcff71f35d48e0b90d7d23ecc3bfe91",
+      "relativeTarget": "工程技术类/水工建筑学/作业/相关课程参考_水工题面与建模示例_黄逸洋public/2018年作业/第4次作业：重力坝03.docx",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E5%B7%A5%E5%BB%BA%E7%AD%91%E5%AD%A6%2F%E6%B0%B4%E5%B7%A5%E5%BB%BA%E7%AD%91%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E4%BD%9C%E4%B8%9A%2F2018%E5%B9%B4%E4%BD%9C%E4%B8%9A%2F%E7%AC%AC4%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E9%87%8D%E5%8A%9B%E5%9D%9D03.docx",
+      "sourcePath": "水工建筑学_马逸/作业/2018年作业/第4次作业：重力坝03.docx"
+    },
+    {
+      "sourceAlias": "W0013",
+      "originalName": "第5次作业：重力坝04.docx",
+      "bytes": 72650,
+      "sha256": "ff3faa56f495184fa4027e7094893b779318d30868b8aa69bbcfd4041b983603",
+      "relativeTarget": "工程技术类/水工建筑学/作业/相关课程参考_水工题面与建模示例_黄逸洋public/2018年作业/第5次作业：重力坝04.docx",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E5%B7%A5%E5%BB%BA%E7%AD%91%E5%AD%A6%2F%E6%B0%B4%E5%B7%A5%E5%BB%BA%E7%AD%91%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E4%BD%9C%E4%B8%9A%2F2018%E5%B9%B4%E4%BD%9C%E4%B8%9A%2F%E7%AC%AC5%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E9%87%8D%E5%8A%9B%E5%9D%9D04.docx",
+      "sourcePath": "水工建筑学_马逸/作业/2018年作业/第5次作业：重力坝04.docx"
+    },
+    {
+      "sourceAlias": "W0014",
+      "originalName": "第6次作业：拱坝01.docx",
+      "bytes": 355764,
+      "sha256": "35b2380539bbbae1ba3603ae4160cc40ac16654f5ed820b32fa5622a42e43d0c",
+      "relativeTarget": "工程技术类/水工建筑学/作业/相关课程参考_水工题面与建模示例_黄逸洋public/2018年作业/第6次作业：拱坝01.docx",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E5%B7%A5%E5%BB%BA%E7%AD%91%E5%AD%A6%2F%E6%B0%B4%E5%B7%A5%E5%BB%BA%E7%AD%91%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E4%BD%9C%E4%B8%9A%2F2018%E5%B9%B4%E4%BD%9C%E4%B8%9A%2F%E7%AC%AC6%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E6%8B%B1%E5%9D%9D01.docx",
+      "sourcePath": "水工建筑学_马逸/作业/2018年作业/第6次作业：拱坝01.docx"
+    },
+    {
+      "sourceAlias": "W0015",
+      "originalName": "第7次作业：拱坝02.docx",
+      "bytes": 203188,
+      "sha256": "691881eae8fc4726d5c53d37b06b713fb4c3937436ef755d9cecbc80487a2b5b",
+      "relativeTarget": "工程技术类/水工建筑学/作业/相关课程参考_水工题面与建模示例_黄逸洋public/2018年作业/第7次作业：拱坝02.docx",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E5%B7%A5%E5%BB%BA%E7%AD%91%E5%AD%A6%2F%E6%B0%B4%E5%B7%A5%E5%BB%BA%E7%AD%91%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E4%BD%9C%E4%B8%9A%2F2018%E5%B9%B4%E4%BD%9C%E4%B8%9A%2F%E7%AC%AC7%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E6%8B%B1%E5%9D%9D02.docx",
+      "sourcePath": "水工建筑学_马逸/作业/2018年作业/第7次作业：拱坝02.docx"
+    },
+    {
+      "sourceAlias": "W0016",
+      "originalName": "第8次作业：拱坝03.docx",
+      "bytes": 363242,
+      "sha256": "4cf7f37675cff483bc7c0a7e12ceb9ec616f9ebbab50a185a0df5c28baeb84f6",
+      "relativeTarget": "工程技术类/水工建筑学/作业/相关课程参考_水工题面与建模示例_黄逸洋public/2018年作业/第8次作业：拱坝03.docx",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E5%B7%A5%E5%BB%BA%E7%AD%91%E5%AD%A6%2F%E6%B0%B4%E5%B7%A5%E5%BB%BA%E7%AD%91%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E4%BD%9C%E4%B8%9A%2F2018%E5%B9%B4%E4%BD%9C%E4%B8%9A%2F%E7%AC%AC8%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E6%8B%B1%E5%9D%9D03.docx",
+      "sourcePath": "水工建筑学_马逸/作业/2018年作业/第8次作业：拱坝03.docx"
+    },
+    {
+      "sourceAlias": "W0017",
+      "originalName": "第9次作业：土石坝01.docx",
+      "bytes": 379308,
+      "sha256": "60cd580e7cf6885fa34f5a8c73b7f678409cb48e61aee5ee79dba45d45d4f486",
+      "relativeTarget": "工程技术类/水工建筑学/作业/相关课程参考_水工题面与建模示例_黄逸洋public/2018年作业/第9次作业：土石坝01.docx",
+      "kind": "learningOriginal",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%B0%B4%E5%B7%A5%E5%BB%BA%E7%AD%91%E5%AD%A6%2F%E6%B0%B4%E5%B7%A5%E5%BB%BA%E7%AD%91%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E4%BD%9C%E4%B8%9A%2F2018%E5%B9%B4%E4%BD%9C%E4%B8%9A%2F%E7%AC%AC9%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%9C%9F%E7%9F%B3%E5%9D%9D01.docx",
+      "sourcePath": "水工建筑学_马逸/作业/2018年作业/第9次作业：土石坝01.docx"
+    }
+  ],
+  "sameSHAOtherSourcePaths": [],
+  "boundary": "来源原包仅本地静态展开后保存散件，未执行软件、源码、宏或外链；原元数据和扫描状态保留，只有明确标名的回忆DOCX整理副本按清单移除一个编号账号字段。",
+  "gitSyncDate": "2026-10-23",
+  "gitFiles": [
+    {
+      "sourceLabel": "W0018",
+      "sourceFileName": "978204974_11_大作业选题2017.docx",
+      "bytes": 66561,
+      "sha256": "d407b2222db5faf3c79b59c87ee6f3ebb72d37efd3354bdb2de49cf2090303b6",
+      "PDFFilePages": null,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水工建筑学/作业/相关课程参考_水工题面与建模示例_黄逸洋public/题面/978204974_11_大作业选题2017.docx",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "W0001",
+      "sourceFileName": "Abaqus.pdf",
+      "bytes": 19056653,
+      "sha256": "5bc035b230eb26c85c423bf47e4f5a9186721daad907ecd7bf926bdb876106cd",
+      "PDFFilePages": 19,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水工建筑学/作业/相关课程参考_水工题面与建模示例_黄逸洋public/2018年作业/Abaqus.pdf",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "W0002",
+      "sourceFileName": "train.xlsx",
+      "bytes": 52967,
+      "sha256": "fa48928e55c05ec3647b45bd905f7c68ac438b2a3502ca2a55ca67682ba0a52d",
+      "PDFFilePages": null,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水工建筑学/作业/相关课程参考_水工题面与建模示例_黄逸洋public/2018年作业/train.xlsx",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "W0003M003",
+      "sourceFileName": "GravDam.cae",
+      "bytes": 2342912,
+      "sha256": "a69535c78b10c5aec6121ef7d761caf97a8622350d4fc82ad3c31a3df930e290",
+      "PDFFilePages": null,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水工建筑学/作业/相关课程参考_水工题面与建模示例_黄逸洋public/2018年作业/原包模型/GravDam.cae",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "W0003M004",
+      "sourceFileName": "GravDam_10m.cae",
+      "bytes": 2281472,
+      "sha256": "9bb2fed59f91ae03520cbbdd3663e9bd1455b1946cc18c099d5b809f085e48bb",
+      "PDFFilePages": null,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水工建筑学/作业/相关课程参考_水工题面与建模示例_黄逸洋public/2018年作业/原包模型/GravDam_10m.cae",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "W0003M005",
+      "sourceFileName": "GravDam_20m.cae",
+      "bytes": 2215936,
+      "sha256": "7d298559eecf715fe8c443135d3ac9f947c41d2ac0a6530139076f8f787904c4",
+      "PDFFilePages": null,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水工建筑学/作业/相关课程参考_水工题面与建模示例_黄逸洋public/2018年作业/原包模型/GravDam_20m.cae",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "W0003M006",
+      "sourceFileName": "GravDam_30m.cae",
+      "bytes": 2138112,
+      "sha256": "33341874e4f4961ac3b8f90594e55b18ba12e5fadb5224174d2209f46ffeed8b",
+      "PDFFilePages": null,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水工建筑学/作业/相关课程参考_水工题面与建模示例_黄逸洋public/2018年作业/原包模型/GravDam_30m.cae",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "W0003M007",
+      "sourceFileName": "GravDam_40m.cae",
+      "bytes": 2027520,
+      "sha256": "c0e98351c77596488e4ef44db6744b5dc96ad30a8659b926a444495228f48260",
+      "PDFFilePages": null,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水工建筑学/作业/相关课程参考_水工题面与建模示例_黄逸洋public/2018年作业/原包模型/GravDam_40m.cae",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "W0003M001",
+      "sourceFileName": "GravDam_50m.cae",
+      "bytes": 1937408,
+      "sha256": "9f905d9b105a7f01d13e7e742981bd8b4c1e000d1b04f892a9c55e7a6402b471",
+      "PDFFilePages": null,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水工建筑学/作业/相关课程参考_水工题面与建模示例_黄逸洋public/2018年作业/原包模型/GravDam_50m.cae",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "W0004",
+      "sourceFileName": "第10次作业：土石坝02.docx",
+      "bytes": 512029,
+      "sha256": "a4f4267d85e48f73672d4b5d9feca988d4ebb98dd5310219415175bf5417c773",
+      "PDFFilePages": null,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水工建筑学/作业/相关课程参考_水工题面与建模示例_黄逸洋public/2018年作业/第10次作业：土石坝02.docx",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "W0005",
+      "sourceFileName": "第10次作业：土石坝03.docx",
+      "bytes": 878364,
+      "sha256": "f9a01e3a385f7881328037c43137c6c46187821f15f7aeee3152ad09138b0a37",
+      "PDFFilePages": null,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水工建筑学/作业/相关课程参考_水工题面与建模示例_黄逸洋public/2018年作业/第10次作业：土石坝03.docx",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "W0006",
+      "sourceFileName": "第12次作业：河岸溢洪道.docx",
+      "bytes": 445060,
+      "sha256": "eb567fc93f57a88767ce165a7d8de1f49a19f9220dc2f5f8bd626421b1ea7be6",
+      "PDFFilePages": null,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水工建筑学/作业/相关课程参考_水工题面与建模示例_黄逸洋public/2018年作业/第12次作业：河岸溢洪道.docx",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "W0007",
+      "sourceFileName": "第13次作业：水工隧洞.docx",
+      "bytes": 562453,
+      "sha256": "d4e87c6b3d79c488668c69dfee083b0144bc90315cd5bb627a14c774528ba3f1",
+      "PDFFilePages": null,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水工建筑学/作业/相关课程参考_水工题面与建模示例_黄逸洋public/2018年作业/第13次作业：水工隧洞.docx",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "W0008",
+      "sourceFileName": "第14次作业：土基上的水闸.docx",
+      "bytes": 691122,
+      "sha256": "c936acd81150976faba00d1f710b56a61b8f78f720117b5f873ad32f5331ae4a",
+      "PDFFilePages": null,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水工建筑学/作业/相关课程参考_水工题面与建模示例_黄逸洋public/2018年作业/第14次作业：土基上的水闸.docx",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "W0009",
+      "sourceFileName": "第15次作业：闸门.docx",
+      "bytes": 460960,
+      "sha256": "3d036ffe47ebd8cbe702edb14c79d8b0a7bb54613c3119099fd60f28012123b8",
+      "PDFFilePages": null,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水工建筑学/作业/相关课程参考_水工题面与建模示例_黄逸洋public/2018年作业/第15次作业：闸门.docx",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "W0010",
+      "sourceFileName": "第1次作业：绪论.docx",
+      "bytes": 104587,
+      "sha256": "92211063692f7f0d5d4ad6df44bdc70246cb944b0b285560c62d9ac2560ab7cf",
+      "PDFFilePages": null,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水工建筑学/作业/相关课程参考_水工题面与建模示例_黄逸洋public/2018年作业/第1次作业：绪论.docx",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "W0011",
+      "sourceFileName": "第3次作业：重力坝02.docx",
+      "bytes": 391532,
+      "sha256": "a829296d704ec35cd7edf5dd2c3ee23f063abe29e00827b8c0edc84aac2b79e7",
+      "PDFFilePages": null,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水工建筑学/作业/相关课程参考_水工题面与建模示例_黄逸洋public/2018年作业/第3次作业：重力坝02.docx",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "W0012",
+      "sourceFileName": "第4次作业：重力坝03.docx",
+      "bytes": 194638,
+      "sha256": "61281ec67dc244a3cd771ab55f33ef45bfcff71f35d48e0b90d7d23ecc3bfe91",
+      "PDFFilePages": null,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水工建筑学/作业/相关课程参考_水工题面与建模示例_黄逸洋public/2018年作业/第4次作业：重力坝03.docx",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "W0013",
+      "sourceFileName": "第5次作业：重力坝04.docx",
+      "bytes": 72650,
+      "sha256": "ff3faa56f495184fa4027e7094893b779318d30868b8aa69bbcfd4041b983603",
+      "PDFFilePages": null,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水工建筑学/作业/相关课程参考_水工题面与建模示例_黄逸洋public/2018年作业/第5次作业：重力坝04.docx",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "W0014",
+      "sourceFileName": "第6次作业：拱坝01.docx",
+      "bytes": 355764,
+      "sha256": "35b2380539bbbae1ba3603ae4160cc40ac16654f5ed820b32fa5622a42e43d0c",
+      "PDFFilePages": null,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水工建筑学/作业/相关课程参考_水工题面与建模示例_黄逸洋public/2018年作业/第6次作业：拱坝01.docx",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "W0015",
+      "sourceFileName": "第7次作业：拱坝02.docx",
+      "bytes": 203188,
+      "sha256": "691881eae8fc4726d5c53d37b06b713fb4c3937436ef755d9cecbc80487a2b5b",
+      "PDFFilePages": null,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水工建筑学/作业/相关课程参考_水工题面与建模示例_黄逸洋public/2018年作业/第7次作业：拱坝02.docx",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "W0016",
+      "sourceFileName": "第8次作业：拱坝03.docx",
+      "bytes": 363242,
+      "sha256": "4cf7f37675cff483bc7c0a7e12ceb9ec616f9ebbab50a185a0df5c28baeb84f6",
+      "PDFFilePages": null,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水工建筑学/作业/相关课程参考_水工题面与建模示例_黄逸洋public/2018年作业/第8次作业：拱坝03.docx",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "W0017",
+      "sourceFileName": "第9次作业：土石坝01.docx",
+      "bytes": 379308,
+      "sha256": "60cd580e7cf6885fa34f5a8c73b7f678409cb48e61aee5ee79dba45d45d4f486",
+      "PDFFilePages": null,
+      "kind": "learningOriginal",
+      "gitRepoPath": "工程技术类/水工建筑学/作业/相关课程参考_水工题面与建模示例_黄逸洋public/2018年作业/第9次作业：土石坝01.docx",
+      "gitSyncStatus": "published_original_bytes"
+    }
+  ],
+  "gitScope": "本次Git同步69个原字节学习文件及1个已标名“移除个人元数据的整理副本”的DOCX，另发布14份来源说明。整理副本仅移除docProps/core.xml的dc:creator编号账号，原SHA与副本SHA分别记录；其余part字节SHA守恒沿上游逐part验收证据，本次独立核副本SHA、包CRC与creator为空，未重读未纳入的原件。不将整理副本称原字节；未发布原包、密码、身份暂缓原件或过程材料。",
+  "gitReviewBoundary": "19PDF共3826页全提取文本/metadata，38首尾角色页及19页混合题解全件（重叠2页，合55不同PDF页）实际视读；90unique raster图像联系表视读、三张空身份栏作业照片放大检查；OOXML各XML/core/rels包CRC静态核，无宏/公式/INP/CAE求解/外链执行。7CAE仅ABQTSA头及可提取ASCII/UTF16字符串检查，未原应用打开或渲染，不称完整对象净审。 云盘证据沿上游逐名及8代表文件SHA验收，不称84文件全部本次cloudSHA回取。八卷手册与教材章节保原扫描、圈记和缺封面边界，不补未证完整性或当前指定教材；回忆及题解不认标准答案。"
+}
