@@ -1,0 +1,1 @@
+b=xlsread('data.xlsx','sheet1','A2');

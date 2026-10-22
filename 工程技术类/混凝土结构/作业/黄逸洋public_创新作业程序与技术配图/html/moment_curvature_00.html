@@ -1,0 +1,355 @@
+
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+   <!--
+This HTML was auto-generated from MATLAB code.
+To make changes, update the MATLAB code and republish this document.
+      --><title>moment_curvature_00</title><meta name="generator" content="MATLAB 8.6"><link rel="schema.DC" href="http://purl.org/dc/elements/1.1/"><meta name="DC.date" content="2017-12-09"><meta name="DC.source" content="moment_curvature_00.m"><style type="text/css">
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,font,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:transparent}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:'';content:none}:focus{outine:0}ins{text-decoration:none}del{text-decoration:line-through}table{border-collapse:collapse;border-spacing:0}
+
+html { min-height:100%; margin-bottom:1px; }
+html body { height:100%; margin:0px; font-family:Arial, Helvetica, sans-serif; font-size:10px; color:#000; line-height:140%; background:#fff none; overflow-y:scroll; }
+html body td { vertical-align:top; text-align:left; }
+
+h1 { padding:0px; margin:0px 0px 25px; font-family:Arial, Helvetica, sans-serif; font-size:1.5em; color:#d55000; line-height:100%; font-weight:normal; }
+h2 { padding:0px; margin:0px 0px 8px; font-family:Arial, Helvetica, sans-serif; font-size:1.2em; color:#000; font-weight:bold; line-height:140%; border-bottom:1px solid #d6d4d4; display:block; }
+h3 { padding:0px; margin:0px 0px 5px; font-family:Arial, Helvetica, sans-serif; font-size:1.1em; color:#000; font-weight:bold; line-height:140%; }
+
+a { color:#005fce; text-decoration:none; }
+a:hover { color:#005fce; text-decoration:underline; }
+a:visited { color:#004aa0; text-decoration:none; }
+
+p { padding:0px; margin:0px 0px 20px; }
+img { padding:0px; margin:0px 0px 20px; border:none; }
+p img, pre img, tt img, li img, h1 img, h2 img { margin-bottom:0px; } 
+
+ul { padding:0px; margin:0px 0px 20px 23px; list-style:square; }
+ul li { padding:0px; margin:0px 0px 7px 0px; }
+ul li ul { padding:5px 0px 0px; margin:0px 0px 7px 23px; }
+ul li ol li { list-style:decimal; }
+ol { padding:0px; margin:0px 0px 20px 0px; list-style:decimal; }
+ol li { padding:0px; margin:0px 0px 7px 23px; list-style-type:decimal; }
+ol li ol { padding:5px 0px 0px; margin:0px 0px 7px 0px; }
+ol li ol li { list-style-type:lower-alpha; }
+ol li ul { padding-top:7px; }
+ol li ul li { list-style:square; }
+
+.content { font-size:1.2em; line-height:140%; padding: 20px; }
+
+pre, code { font-size:12px; }
+tt { font-size: 1.2em; }
+pre { margin:0px 0px 20px; }
+pre.codeinput { padding:10px; border:1px solid #d3d3d3; background:#f7f7f7; }
+pre.codeoutput { padding:10px 11px; margin:0px 0px 20px; color:#4c4c4c; }
+pre.error { color:red; }
+
+@media print { pre.codeinput, pre.codeoutput { word-wrap:break-word; width:100%; } }
+
+span.keyword { color:#0000FF }
+span.comment { color:#228B22 }
+span.string { color:#A020F0 }
+span.untermstring { color:#B20000 }
+span.syscmd { color:#B28C00 }
+
+.footer { width:auto; padding:10px 0px; margin:25px 0px 0px; border-top:1px dotted #878787; font-size:0.8em; line-height:140%; font-style:italic; color:#878787; text-align:left; float:none; }
+.footer p { margin:0px; }
+.footer a { color:#878787; }
+.footer a:hover { color:#878787; text-decoration:underline; }
+.footer a:visited { color:#878787; }
+
+table th { padding:7px 5px; text-align:left; vertical-align:middle; border: 1px solid #d6d4d4; font-weight:bold; }
+table td { padding:7px 5px; text-align:left; vertical-align:top; border:1px solid #d6d4d4; }
+
+
+
+
+
+  </style></head><body><div class="content"><pre class="codeinput">fprintf(<span class="string">'************************************\n'</span>);
+fprintf(<span class="string">'&#27426;&#36814;&#20351;&#29992;&#21016;&#27888;&#32534;&#20889;&#30340;&#24367;&#30697;-&#26354;&#29575;&#26354;&#32447;&#27714;&#35299;&#22120;&#65281;\n'</span>);
+fprintf(<span class="string">'************************************\n'</span>);
+fprintf(<span class="string">'\n'</span>);
+fprintf(<span class="string">'&#28151;&#20957;&#22303;&#30456;&#20851;&#21442;&#25968;&#35831;&#21442;&#32771;&#21494;&#21015;&#24179;&#32769;&#24072;&#25945;&#26448;P25&#30340;&#34920;2-3&#21450;&#38468;&#34920;2-1\n'</span>);
+fprintf(<span class="string">'&#21463;&#21387;&#30340;&#36807;&#38215;&#28023;&#26354;&#32447;&#30456;&#20851;&#21442;&#25968;&#65292;&#35831;&#21442;&#32771;&#21494;&#21015;&#24179;&#32769;&#24072;&#25945;&#26448;P33&#30340;&#34920;2-4\n'</span>);
+fprintf(<span class="string">'&#21463;&#25289;&#30340;&#36807;&#38215;&#28023;&#26354;&#32447;&#30456;&#20851;&#21442;&#25968;&#65292;&#35831;&#21442;&#32771;&#21494;&#21015;&#24179;&#32769;&#24072;&#25945;&#26448;P38&#30340;&#34920;2-7\n'</span>);
+
+<span class="comment">%&#22522;&#26412;&#21442;&#25968;&#20174;&#21516;&#30446;&#24405;&#19979;&#30340;data.xlsx&#20013;&#35835;&#21462;</span>
+
+b=xlsread(<span class="string">'data.xlsx'</span>,<span class="string">'sheet1'</span>,<span class="string">'B1'</span>);
+h=xlsread(<span class="string">'data.xlsx'</span>,<span class="string">'sheet1'</span>,<span class="string">'B2'</span>);
+h0=xlsread(<span class="string">'data.xlsx'</span>,<span class="string">'sheet1'</span>,<span class="string">'B3'</span>);
+fc=xlsread(<span class="string">'data.xlsx'</span>,<span class="string">'sheet1'</span>,<span class="string">'B4'</span>);
+ft=xlsread(<span class="string">'data.xlsx'</span>,<span class="string">'sheet1'</span>,<span class="string">'B5'</span>);
+alpha=xlsread(<span class="string">'data.xlsx'</span>,<span class="string">'sheet1'</span>,<span class="string">'B6'</span>);
+beta=xlsread(<span class="string">'data.xlsx'</span>,<span class="string">'sheet1'</span>,<span class="string">'B7'</span>);
+fy=xlsread(<span class="string">'data.xlsx'</span>,<span class="string">'sheet1'</span>,<span class="string">'B8'</span>);
+d=xlsread(<span class="string">'data.xlsx'</span>,<span class="string">'sheet1'</span>,<span class="string">'B9'</span>);
+n=xlsread(<span class="string">'data.xlsx'</span>,<span class="string">'sheet1'</span>,<span class="string">'B10'</span>);
+e0=xlsread(<span class="string">'data.xlsx'</span>,<span class="string">'sheet1'</span>,<span class="string">'B11'</span>);
+aa=xlsread(<span class="string">'data.xlsx'</span>,<span class="string">'sheet1'</span>,<span class="string">'B12'</span>);
+ad=xlsread(<span class="string">'data.xlsx'</span>,<span class="string">'sheet1'</span>,<span class="string">'B13'</span>);
+et0=xlsread(<span class="string">'data.xlsx'</span>,<span class="string">'sheet1'</span>,<span class="string">'B14'</span>);
+at=xlsread(<span class="string">'data.xlsx'</span>,<span class="string">'sheet1'</span>,<span class="string">'B15'</span>);
+
+<span class="comment">%&#39318;&#20808;&#35745;&#31639;&#26497;&#38480;&#24367;&#30697;Mu</span>
+as=n*pi/4*d^2;
+x=fy*as/fc/b;
+mu=fy*as*(h0-0.5*x);
+
+<span class="comment">%&#24314;&#31435;&#26679;&#26412;&#38598;&#21512;</span>
+phij=zeros(1,1000);
+mj=zeros(1,1000);
+
+<span class="comment">%&#30830;&#23450;&#24490;&#29615;&#26497;&#38480;</span>
+k1=alpha*beta;
+xnmax=fy*as/k1/fc/b;
+ecmax=0.0033;<span class="comment">%&#19968;&#33324;&#28151;&#20957;&#22303;&#26497;&#38480;&#21387;&#24212;&#21464;3300&#24494;&#24212;&#21464;</span>
+phimax=ecmax/xnmax;
+ES=2.06*10^8;<span class="comment">%&#38050;&#31563;&#24377;&#24615;&#27169;&#37327;&#65292;&#21333;&#20301;&#20026;kPa</span>
+
+fprintf(<span class="string">'\n'</span>);
+fprintf(<span class="string">'&#20027;&#31243;&#24207;&#36816;&#31639;&#22823;&#32422;&#25345;&#32493;30&#31186;&#65292;&#35831;&#32784;&#24515;&#31561;&#24453;...\n'</span>);
+
+<span class="comment">%&#24490;&#29615;&#33258;&#23567;&#21040;&#22823;&#29983;&#25104;&#966;&#65292;ec&#22312;&#19978;&#19979;&#30028;&#20043;&#38388;&#20108;&#20998;&#27861;&#36845;&#20195;&#65292;&#30452;&#21040;&#25289;&#21387;&#21147;&#24046;&#25910;&#25947;&#21040;&#39044;&#23450;&#20540;</span>
+<span class="keyword">for</span> i=1:1000
+    phij(i)=i/1000*phimax;
+    ecd=0;
+    ecu=phij(i)*h0;
+    <span class="keyword">while</span> 1
+        ec=0.5*(ecd+ecu);
+        xn=ec/phij(i);
+        es=phij(i)*(h0-xn);
+
+        <span class="comment">%&#39318;&#20808;&#27714;&#21463;&#21387;&#30456;&#20851;&#30340;&#21442;&#25968;</span>
+
+        y=0:xn/1000:xn;<span class="comment">%&#29992;&#26799;&#24418;&#38754;&#31215;&#27714;&#21644;&#27169;&#25311;&#31215;&#20998;&#65292;&#39318;&#20808;&#21010;&#20998;&#20026;1000&#20010;&#21306;&#38388;</span>
+        ecy=phij(i)*y;
+        sigmac=zeros(1,1001);<span class="comment">%&#29992;&#36807;&#38215;&#28023;&#26354;&#32447;&#20316;&#20026;&#21463;&#21387;&#26102;&#30340;&#26412;&#26500;&#27169;&#22411;&#65292;&#27714;&#21462;&#28151;&#20957;&#22303;&#24212;&#21147;&#65292;&#20197;&#20415;&#27714;&#24635;&#21387;&#21147;</span>
+        <span class="keyword">for</span> j=1:1001
+            v=ecy(j)/e0;
+            <span class="keyword">if</span> (v&lt;=1)
+                sigmac(j)=fc*(aa*v+(3-2*aa)*v^2+(aa-2)*v^3);
+            <span class="keyword">else</span>
+                sigmac(j)=fc*v/(ad*(v-1)^2+v);
+            <span class="keyword">end</span>
+        <span class="keyword">end</span>
+
+        C=trapz(y,sigmac*b);<span class="comment">%&#29992;&#26799;&#24418;&#38754;&#31215;&#27714;&#21644;&#27169;&#25311;&#31215;&#20998;</span>
+        yc=trapz(y,sigmac*b.*y)/C;
+
+        <span class="comment">%&#20877;&#27714;&#21463;&#25289;&#30456;&#20851;&#30340;&#21442;&#25968;</span>
+
+        z=0:(h0-xn)/1000:(h0-xn);<span class="comment">%&#29992;&#26799;&#24418;&#38754;&#31215;&#27714;&#21644;&#27169;&#25311;&#31215;&#20998;&#65292;&#39318;&#20808;&#21010;&#20998;&#20026;1000&#20010;&#21306;&#38388;</span>
+        etz=phij(i)*z;
+        sigmat=zeros(1,1001);<span class="comment">%&#29992;&#36807;&#38215;&#28023;&#26354;&#32447;&#20316;&#20026;&#21463;&#25289;&#26102;&#30340;&#26412;&#26500;&#27169;&#22411;&#65292;&#27714;&#21462;&#28151;&#20957;&#22303;&#24212;&#21147;&#65292;&#20197;&#20415;&#27714;&#24635;&#21387;&#21147;</span>
+         <span class="keyword">for</span> k=1:1001
+            q=etz(k)/et0;
+            <span class="keyword">if</span> (0&lt;=q)&amp;&amp;(q&lt;=1)
+                sigmat(k)=ft*(1.2*q-0.2*q^6);
+            <span class="keyword">else</span>
+                sigmat(k)=ft*q/(at*(q-1)^1.7+q);
+            <span class="keyword">end</span>
+         <span class="keyword">end</span>
+
+        Tc=trapz(z,sigmat*b);
+        yt=trapz(z,sigmat*b.*z)/Tc;
+
+        ys=h0-xn;
+        <span class="keyword">if</span> (es&lt;=fy/ES)
+            Ts=ES*es*as;
+        <span class="keyword">else</span>
+            Ts=fy*as;
+        <span class="keyword">end</span>
+
+        <span class="comment">%&#24320;&#22987;&#21028;&#26029;&#36845;&#20195;&#32467;&#26463;&#26465;&#20214;,&#24182;&#24320;&#22987;&#20934;&#22791;&#19979;&#19968;&#27425;&#36845;&#20195;</span>
+
+        <span class="keyword">if</span> (abs(C-Tc-Ts)&lt;10^-6)
+            <span class="keyword">break</span>;
+        <span class="keyword">end</span>
+
+        <span class="keyword">if</span> (C&gt;Tc+Ts)
+            ecu=ec;
+            ec=(ecd+ecu)/2;
+        <span class="keyword">else</span>
+            ecd=ec;
+            ec=(ecd+ecu)/2;
+        <span class="keyword">end</span>
+    <span class="keyword">end</span>
+
+    <span class="keyword">if</span> ec&gt;0.0033<span class="comment">%&#33509;&#36229;&#36807;&#28151;&#20957;&#22303;&#30340;&#26497;&#38480;&#21387;&#24212;&#21464;&#65292;&#21017;&#26080;&#38656;&#20877;&#22686;&#22823;&#966;,&#36339;&#20986;&#26368;&#22806;&#23618;for&#24490;&#29615;</span>
+        num=i;<span class="comment">%&#36229;&#36807;&#26497;&#38480;&#28151;&#20957;&#22303;&#21387;&#24212;&#21464;&#30340;&#37096;&#20998;&#19981;&#20104;&#30011;&#20986;&#65292;&#22240;&#27492;&#20808;&#34892;&#35745;&#25968;</span>
+        <span class="keyword">break</span>;
+    <span class="keyword">end</span>
+
+    mj(i)=(C*yc+Tc*yt+Ts*(h0-xn));<span class="comment">%&#26368;&#21518;&#23558;&#36845;&#20195;&#23436;&#27605;&#21518;&#30340;&#25968;&#20540;&#36171;&#20837;&#26679;&#26412;&#25968;&#25454;&#38598;&#21512;</span>
+
+<span class="keyword">end</span>
+
+fprintf(<span class="string">'\n'</span>);
+fprintf(<span class="string">'&#20027;&#31243;&#24207;&#36816;&#31639;&#32467;&#26463;\n'</span>);
+
+
+ <span class="comment">%&#19979;&#38754;&#24320;&#22987;&#30011;&#22270;</span>
+plot(phij,mj/mu);
+grid <span class="string">on</span>
+xlabel(<span class="string">'&#966;'</span>)
+ylabel(<span class="string">'M / Mu'</span>)
+axis([0 phij(num-10) 0 1.1])
+title(<span class="string">'&#24367;&#30697;-&#26354;&#29575;&#20851;&#31995;&#26354;&#32447;'</span>)
+</pre><pre class="codeoutput">************************************
+&#27426;&#36814;&#20351;&#29992;&#21016;&#27888;&#32534;&#20889;&#30340;&#24367;&#30697;-&#26354;&#29575;&#26354;&#32447;&#27714;&#35299;&#22120;&#65281;
+************************************
+
+&#28151;&#20957;&#22303;&#30456;&#20851;&#21442;&#25968;&#35831;&#21442;&#32771;&#21494;&#21015;&#24179;&#32769;&#24072;&#25945;&#26448;P25&#30340;&#34920;2-3&#21450;&#38468;&#34920;2-1
+&#21463;&#21387;&#30340;&#36807;&#38215;&#28023;&#26354;&#32447;&#30456;&#20851;&#21442;&#25968;&#65292;&#35831;&#21442;&#32771;&#21494;&#21015;&#24179;&#32769;&#24072;&#25945;&#26448;P33&#30340;&#34920;2-4
+&#21463;&#25289;&#30340;&#36807;&#38215;&#28023;&#26354;&#32447;&#30456;&#20851;&#21442;&#25968;&#65292;&#35831;&#21442;&#32771;&#21494;&#21015;&#24179;&#32769;&#24072;&#25945;&#26448;P38&#30340;&#34920;2-7
+
+&#20027;&#31243;&#24207;&#36816;&#31639;&#22823;&#32422;&#25345;&#32493;30&#31186;&#65292;&#35831;&#32784;&#24515;&#31561;&#24453;...
+
+&#20027;&#31243;&#24207;&#36816;&#31639;&#32467;&#26463;
+</pre><img vspace="5" hspace="5" src="moment_curvature_00_01.png" style="width:560px;height:420px;" alt=""> <p class="footer"><br><a href="http://www.mathworks.com/products/matlab/">Published with MATLAB&reg; R2015b</a><br></p></div><!--
+##### SOURCE BEGIN #####
+fprintf('************************************\n');
+fprintf('欢迎使用刘泰编写的弯矩-曲率曲线求解器！\n');
+fprintf('************************************\n');
+fprintf('\n');
+fprintf('混凝土相关参数请参考叶列平老师教材P25的表2-3及附表2-1\n');
+fprintf('受压的过镇海曲线相关参数，请参考叶列平老师教材P33的表2-4\n');
+fprintf('受拉的过镇海曲线相关参数，请参考叶列平老师教材P38的表2-7\n');
+
+%基本参数从同目录下的data.xlsx中读取
+
+b=xlsread('data.xlsx','sheet1','B1');
+h=xlsread('data.xlsx','sheet1','B2');
+h0=xlsread('data.xlsx','sheet1','B3');
+fc=xlsread('data.xlsx','sheet1','B4');
+ft=xlsread('data.xlsx','sheet1','B5');
+alpha=xlsread('data.xlsx','sheet1','B6');
+beta=xlsread('data.xlsx','sheet1','B7');
+fy=xlsread('data.xlsx','sheet1','B8');
+d=xlsread('data.xlsx','sheet1','B9');
+n=xlsread('data.xlsx','sheet1','B10');
+e0=xlsread('data.xlsx','sheet1','B11');
+aa=xlsread('data.xlsx','sheet1','B12');
+ad=xlsread('data.xlsx','sheet1','B13');
+et0=xlsread('data.xlsx','sheet1','B14');
+at=xlsread('data.xlsx','sheet1','B15');
+
+%首先计算极限弯矩Mu
+as=n*pi/4*d^2;
+x=fy*as/fc/b;
+mu=fy*as*(h0-0.5*x);
+
+%建立样本集合
+phij=zeros(1,1000);
+mj=zeros(1,1000);
+
+%确定循环极限
+k1=alpha*beta;
+xnmax=fy*as/k1/fc/b;
+ecmax=0.0033;%一般混凝土极限压应变3300微应变
+phimax=ecmax/xnmax;
+ES=2.06*10^8;%钢筋弹性模量，单位为kPa
+
+fprintf('\n');
+fprintf('主程序运算大约持续30秒，请耐心等待...\n');
+
+%循环自小到大生成φ，ec在上下界之间二分法迭代，直到拉压力差收敛到预定值
+for i=1:1000
+    phij(i)=i/1000*phimax;
+    ecd=0;
+    ecu=phij(i)*h0;
+    while 1
+        ec=0.5*(ecd+ecu);
+        xn=ec/phij(i);
+        es=phij(i)*(h0-xn);
+        
+        %首先求受压相关的参数
+        
+        y=0:xn/1000:xn;%用梯形面积求和模拟积分，首先划分为1000个区间
+        ecy=phij(i)*y;
+        sigmac=zeros(1,1001);%用过镇海曲线作为受压时的本构模型，求取混凝土应力，以便求总压力
+        for j=1:1001
+            v=ecy(j)/e0;
+            if (v<=1)
+                sigmac(j)=fc*(aa*v+(3-2*aa)*v^2+(aa-2)*v^3);
+            else
+                sigmac(j)=fc*v/(ad*(v-1)^2+v);
+            end
+        end
+        
+        C=trapz(y,sigmac*b);%用梯形面积求和模拟积分
+        yc=trapz(y,sigmac*b.*y)/C;
+        
+        %再求受拉相关的参数
+        
+        z=0:(h0-xn)/1000:(h0-xn);%用梯形面积求和模拟积分，首先划分为1000个区间
+        etz=phij(i)*z;
+        sigmat=zeros(1,1001);%用过镇海曲线作为受拉时的本构模型，求取混凝土应力，以便求总压力
+         for k=1:1001
+            q=etz(k)/et0;
+            if (0<=q)&&(q<=1)
+                sigmat(k)=ft*(1.2*q-0.2*q^6);
+            else
+                sigmat(k)=ft*q/(at*(q-1)^1.7+q);
+            end
+         end
+            
+        Tc=trapz(z,sigmat*b);
+        yt=trapz(z,sigmat*b.*z)/Tc;
+        
+        ys=h0-xn;
+        if (es<=fy/ES)
+            Ts=ES*es*as;
+        else
+            Ts=fy*as;
+        end
+        
+        %开始判断迭代结束条件,并开始准备下一次迭代
+        
+        if (abs(C-Tc-Ts)<10^-6)
+            break;
+        end
+        
+        if (C>Tc+Ts)
+            ecu=ec;
+            ec=(ecd+ecu)/2;
+        else
+            ecd=ec;
+            ec=(ecd+ecu)/2;
+        end
+    end
+    
+    if ec>0.0033%若超过混凝土的极限压应变，则无需再增大φ,跳出最外层for循环
+        num=i;%超过极限混凝土压应变的部分不予画出，因此先行计数
+        break;
+    end
+    
+    mj(i)=(C*yc+Tc*yt+Ts*(h0-xn));%最后将迭代完毕后的数值赋入样本数据集合
+    
+end
+
+fprintf('\n');
+fprintf('主程序运算结束\n');
+        
+        
+ %下面开始画图   
+plot(phij,mj/mu);
+grid on
+xlabel('φ')
+ylabel('M / Mu')
+axis([0 phij(num-10) 0 1.1]) 
+title('弯矩-曲率关系曲线')
+
+
+
+
+
+
+
+
+
+
+##### SOURCE END #####
+--></body></html>
