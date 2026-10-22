@@ -1,0 +1,45 @@
+{
+  "date": "2026-10-23",
+  "source": "黄逸洋public",
+  "course": "能源利用中的物理化学（英）",
+  "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E8%83%BD%E6%BA%90%E5%88%A9%E7%94%A8%E4%B8%AD%E7%9A%84%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6%EF%BC%88%E8%8B%B1%EF%BC%89&mode=list",
+  "cloudDirectoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E5%B7%A5%E7%A8%8B%E6%8A%80%E6%9C%AF%E7%B1%BB/%E8%83%BD%E6%BA%90%E5%88%A9%E7%94%A8%E4%B8%AD%E7%9A%84%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6%EF%BC%88%E8%8B%B1%EF%BC%89/%E8%AE%B2%E4%B9%89/%E9%BB%84%E9%80%B8%E6%B4%8Bpublic_Mevel%E7%87%83%E7%83%A7%E7%89%A9%E5%8C%96%E8%AF%BE%E4%BB%B6_20261023",
+  "role": "两份Physical Chemistry for Combustion课件，封面署Mével R.、清华燃烧能源中心、2017–2018，分别为热力学和化学动力学。该封面信息只用于这两件，不扩推到其他课件。",
+  "upstreamSourceNoteSHA256": "deff69d2c005e2e6fcf0f52063122d777676f4011ea223011bf9491f87ea30f6",
+  "files": [
+    {
+      "sourceLabel": "E2_010",
+      "course": "能源利用中的物理化学（英）",
+      "sourceFileName": "PhysicalChemistry_Chapter2.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E8%83%BD%E6%BA%90%E5%88%A9%E7%94%A8%E4%B8%AD%E7%9A%84%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6%EF%BC%88%E8%8B%B1%EF%BC%89&mode=list",
+      "sourceAliases": [
+        "2.6_能源动力类_能源利用中的物理化学（英）/课件/PhysicalChemistry_Chapter2.pdf",
+        "2.6_能源动力类_能源利用中的物理化学（英）/能源利用中的物理化学（英）_复习笔记_马逸/PhysicalChemistry_Chapter2.pdf"
+      ],
+      "sourceBytes": 11254225,
+      "sourceSHA256": "83f047712c32bbe5d0296cb0f21a3bb3367035181f33449c102663ac55e3d736",
+      "PDFFilePages": 156,
+      "gitRepoPath": "工程技术类/能源利用中的物理化学（英）/讲义/黄逸洋public_Mevel燃烧物化课件_20261023/PhysicalChemistry_Chapter2.pdf",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_011",
+      "course": "能源利用中的物理化学（英）",
+      "sourceFileName": "PhysicalChemistry_Chapter1.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E8%83%BD%E6%BA%90%E5%88%A9%E7%94%A8%E4%B8%AD%E7%9A%84%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6%EF%BC%88%E8%8B%B1%EF%BC%89&mode=list",
+      "sourceAliases": [
+        "2.6_能源动力类_能源利用中的物理化学（英）/课件/PhysicalChemistry_Chapter1.pdf",
+        "2.6_能源动力类_能源利用中的物理化学（英）/能源利用中的物理化学（英）_复习笔记_马逸/PhysicalChemistry_Chapter1.pdf"
+      ],
+      "sourceBytes": 3950153,
+      "sourceSHA256": "578ec1330b7017f33392051418d8d23427f5b22aa9d41ee791db876bc1c3eeba",
+      "PDFFilePages": 84,
+      "gitRepoPath": "工程技术类/能源利用中的物理化学（英）/讲义/黄逸洋public_Mevel燃烧物化课件_20261023/PhysicalChemistry_Chapter1.pdf",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    }
+  ],
+  "reviewBoundary": "131个锁定原件全部独立重核本地SHA/OID；79PDF共3306文件页核文字、元信息、批注/表单/附件，实际查看161个首尾/标记角色页及100幅去重栅格图，非3306页全视觉审查。旧Office按FIB/CLX正文、属性边界、ASCII/UTF16流核对；OOXML核XML、core、外部关系、CRC及栅格媒体。23幅WMF仅静态字段核对，GDI预览多为空白，不称完整矢量审阅；配套公式OLE静态读，未执行对象。12GIF均单帧。公开教师署名/教学联系、课件日期及普通版权保留。",
+  "verification": "仅发布已完成云盘归档的六课锁定候选中可用部分；云盘逐名及代表文件SHA沿上游证据，不称本轮全部目标SHA回取。原包、密码、身份暂缓材料及私有审阅均不发布，原canonical文件及旧说明不覆盖。回忆和参考解答不认证官方性与数学正确性。"
+}

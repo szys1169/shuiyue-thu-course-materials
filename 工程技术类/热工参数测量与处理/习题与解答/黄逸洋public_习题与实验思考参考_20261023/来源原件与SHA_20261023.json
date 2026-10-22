@@ -1,0 +1,73 @@
+{
+  "date": "2026-10-23",
+  "source": "黄逸洋public",
+  "course": "热工参数测量与处理",
+  "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%83%AD%E5%B7%A5%E5%8F%82%E6%95%B0%E6%B5%8B%E9%87%8F%E4%B8%8E%E5%A4%84%E7%90%86&mode=list",
+  "cloudDirectoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E5%B7%A5%E7%A8%8B%E6%8A%80%E6%9C%AF%E7%B1%BB/%E7%83%AD%E5%B7%A5%E5%8F%82%E6%95%B0%E6%B5%8B%E9%87%8F%E4%B8%8E%E5%A4%84%E7%90%86/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E9%BB%84%E9%80%B8%E6%B4%8Bpublic_%E4%B9%A0%E9%A2%98%E4%B8%8E%E5%AE%9E%E9%AA%8C%E6%80%9D%E8%80%83%E5%8F%82%E8%80%83_20261023",
+  "role": "两份习题参考答案DOC、实验思考题解答DOCX及原编码思考题要点TXT。原件包含参考演算与题目讲解，未另认统一教师标准答案，原始文本编码保持。",
+  "upstreamSourceNoteSHA256": "ddae0fc78b3d04215cd71be152e9262a26d70980c577dcb85fae9130223270a4",
+  "files": [
+    {
+      "sourceLabel": "E2_104",
+      "course": "热工参数测量与处理",
+      "sourceFileName": "热测思考题要点.txt",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%83%AD%E5%B7%A5%E5%8F%82%E6%95%B0%E6%B5%8B%E9%87%8F%E4%B8%8E%E5%A4%84%E7%90%86&mode=list",
+      "sourceAliases": [
+        "2.6_能源动力类_热工参数测量与处理/参考资料/热测思考题要点.txt"
+      ],
+      "sourceBytes": 2192,
+      "sourceSHA256": "3aab872f3ef6718484a3e96f7e81a4f32c80516ec5895912829cd7b8baef4fca",
+      "PDFFilePages": null,
+      "gitRepoPath": "工程技术类/热工参数测量与处理/习题与解答/黄逸洋public_习题与实验思考参考_20261023/热测思考题要点.txt",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_105",
+      "course": "热工参数测量与处理",
+      "sourceFileName": "热测习题答案.doc",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%83%AD%E5%B7%A5%E5%8F%82%E6%95%B0%E6%B5%8B%E9%87%8F%E4%B8%8E%E5%A4%84%E7%90%86&mode=list",
+      "sourceAliases": [
+        "2.6_能源动力类_热工参数测量与处理/参考资料/热测习题答案.doc"
+      ],
+      "sourceBytes": 1084928,
+      "sourceSHA256": "d622efc4e62e3e5773bc8c9563c193a49a34dd9442366aa90532867bf0775079",
+      "PDFFilePages": null,
+      "gitRepoPath": "工程技术类/热工参数测量与处理/习题与解答/黄逸洋public_习题与实验思考参考_20261023/热测习题答案.doc",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_106",
+      "course": "热工参数测量与处理",
+      "sourceFileName": "热工参数测量与处理习题参考答案2009_10502868.doc",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%83%AD%E5%B7%A5%E5%8F%82%E6%95%B0%E6%B5%8B%E9%87%8F%E4%B8%8E%E5%A4%84%E7%90%86&mode=list",
+      "sourceAliases": [
+        "2.6_能源动力类_热工参数测量与处理/参考资料/热工参数测量与处理习题参考答案2009_10502868.doc"
+      ],
+      "sourceBytes": 1103360,
+      "sourceSHA256": "3b30ba26942ec7adb2fe72134a25d917e1207be32a21880363c1b855fa3f9641",
+      "PDFFilePages": null,
+      "gitRepoPath": "工程技术类/热工参数测量与处理/习题与解答/黄逸洋public_习题与实验思考参考_20261023/热工参数测量与处理习题参考答案2009_10502868.doc",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_107",
+      "course": "热工参数测量与处理",
+      "sourceFileName": "【热测】实验思考题解答.docx",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%83%AD%E5%B7%A5%E5%8F%82%E6%95%B0%E6%B5%8B%E9%87%8F%E4%B8%8E%E5%A4%84%E7%90%86&mode=list",
+      "sourceAliases": [
+        "2.6_能源动力类_热工参数测量与处理/参考资料/【热测】实验思考题解答.docx"
+      ],
+      "sourceBytes": 16607,
+      "sourceSHA256": "fe8671201f25fd01ee7ca1eb00335d6083272a1ae03969106a81dd7a34bac5fb",
+      "PDFFilePages": null,
+      "gitRepoPath": "工程技术类/热工参数测量与处理/习题与解答/黄逸洋public_习题与实验思考参考_20261023/【热测】实验思考题解答.docx",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    }
+  ],
+  "reviewBoundary": "131个锁定原件全部独立重核本地SHA/OID；79PDF共3306文件页核文字、元信息、批注/表单/附件，实际查看161个首尾/标记角色页及100幅去重栅格图，非3306页全视觉审查。旧Office按FIB/CLX正文、属性边界、ASCII/UTF16流核对；OOXML核XML、core、外部关系、CRC及栅格媒体。23幅WMF仅静态字段核对，GDI预览多为空白，不称完整矢量审阅；配套公式OLE静态读，未执行对象。12GIF均单帧。公开教师署名/教学联系、课件日期及普通版权保留。",
+  "verification": "仅发布已完成云盘归档的六课锁定候选中可用部分；云盘逐名及代表文件SHA沿上游证据，不称本轮全部目标SHA回取。原包、密码、身份暂缓材料及私有审阅均不发布，原canonical文件及旧说明不覆盖。回忆和参考解答不认证官方性与数学正确性。"
+}

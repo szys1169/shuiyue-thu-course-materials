@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-23",
+  "source": "黄逸洋public",
+  "course": "热工参数测量与处理",
+  "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%83%AD%E5%B7%A5%E5%8F%82%E6%95%B0%E6%B5%8B%E9%87%8F%E4%B8%8E%E5%A4%84%E7%90%86&mode=list",
+  "cloudDirectoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E5%B7%A5%E7%A8%8B%E6%8A%80%E6%9C%AF%E7%B1%BB/%E7%83%AD%E5%B7%A5%E5%8F%82%E6%95%B0%E6%B5%8B%E9%87%8F%E4%B8%8E%E5%A4%84%E7%90%86/%E5%A4%8D%E4%B9%A0/%E9%BB%84%E9%80%B8%E6%B4%8Bpublic_%E5%A4%8D%E4%B9%A0%E6%8F%90%E7%BA%B2%E4%B8%8E2007%E9%A2%98_20261023",
+  "role": "复习提纲PPTX与原题名2007年热工过程期末考试复习题DOC；原名含长时间戳的PPTX同字节来源仅记别名。题名时间不是统一授课学期证明。",
+  "upstreamSourceNoteSHA256": "343f70e970ae91dd20b6964f1fc2fd557bf6879e9d32e0d77de23a26ec90fddf",
+  "files": [
+    {
+      "sourceLabel": "E2_102",
+      "course": "热工参数测量与处理",
+      "sourceFileName": "复习提纲.pptx",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%83%AD%E5%B7%A5%E5%8F%82%E6%95%B0%E6%B5%8B%E9%87%8F%E4%B8%8E%E5%A4%84%E7%90%86&mode=list",
+      "sourceAliases": [
+        "2.6_能源动力类_热工参数测量与处理/参考资料/复习提纲.pptx",
+        "2.6_能源动力类_热工参数测量与处理/参考资料/_20140429231717_20180601175726.pptx"
+      ],
+      "sourceBytes": 123296,
+      "sourceSHA256": "704d5f2f9fcc7436de9a9e94bd22c35b924449a7eddbfdbcddfda38b61880661",
+      "PDFFilePages": null,
+      "gitRepoPath": "工程技术类/热工参数测量与处理/复习/黄逸洋public_复习提纲与2007题_20261023/复习提纲.pptx",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_103",
+      "course": "热工参数测量与处理",
+      "sourceFileName": "2007年热工过程期末考试复习题.doc",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%83%AD%E5%B7%A5%E5%8F%82%E6%95%B0%E6%B5%8B%E9%87%8F%E4%B8%8E%E5%A4%84%E7%90%86&mode=list",
+      "sourceAliases": [
+        "2.6_能源动力类_热工参数测量与处理/参考资料/2007年热工过程期末考试复习题.doc"
+      ],
+      "sourceBytes": 452096,
+      "sourceSHA256": "12a4bff99b7598a94e71906c5d77dff1beba0dcb9f4cb88217a51609c35b3586",
+      "PDFFilePages": null,
+      "gitRepoPath": "工程技术类/控制工程基础/往年题/黄逸洋public_2003至2010历史题来源_20261023/控制工程基础-都东-2007秋期末A卷-马逸.doc",
+      "originalGitStatus": "already_present_exact_bytes",
+      "gitSyncStatus": "reused_exact_repo_blob"
+    }
+  ],
+  "reviewBoundary": "131个锁定原件全部独立重核本地SHA/OID；79PDF共3306文件页核文字、元信息、批注/表单/附件，实际查看161个首尾/标记角色页及100幅去重栅格图，非3306页全视觉审查。旧Office按FIB/CLX正文、属性边界、ASCII/UTF16流核对；OOXML核XML、core、外部关系、CRC及栅格媒体。23幅WMF仅静态字段核对，GDI预览多为空白，不称完整矢量审阅；配套公式OLE静态读，未执行对象。12GIF均单帧。公开教师署名/教学联系、课件日期及普通版权保留。",
+  "verification": "仅发布已完成云盘归档的六课锁定候选中可用部分；云盘逐名及代表文件SHA沿上游证据，不称本轮全部目标SHA回取。原包、密码、身份暂缓材料及私有审阅均不发布，原canonical文件及旧说明不覆盖。回忆和参考解答不认证官方性与数学正确性。"
+}

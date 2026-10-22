@@ -1,0 +1,123 @@
+{
+  "date": "2026-10-23",
+  "source": "黄逸洋public",
+  "course": "燃烧理论",
+  "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+  "cloudDirectoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E5%B7%A5%E7%A8%8B%E6%8A%80%E6%9C%AF%E7%B1%BB/%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA/%E5%A4%8D%E4%B9%A0/%E9%BB%84%E9%80%B8%E6%B4%8Bpublic_%E7%BA%B2%E8%A6%81%E4%B8%8E%E8%A1%A8%E9%9D%A2%E5%8F%8D%E5%BA%94%E6%8E%A8%E5%AF%BC_20261023",
+  "role": "来源复习纲要、概念问答和表面反应三公式推导，含PDF、DOC及PPTX。部分带公开网名或原始来源水印，保留原署名与公式，不把这些个人整理认作统一教师标准答案。",
+  "upstreamSourceNoteSHA256": "03993b33048f0c2df72a9f018abac26a2499c5d1871b89316a87455421f047cc",
+  "files": [
+    {
+      "sourceLabel": "E2_077",
+      "course": "燃烧理论",
+      "sourceFileName": "燃烧复习1.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+      "sourceAliases": [
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论",
+          "member": "2.6_能源动力类_燃烧理论/燃烧理论_复习笔记_马逸/燃烧复习1.pdf"
+        }
+      ],
+      "sourceBytes": 388564,
+      "sourceSHA256": "82d355a2158f8ee36fce6672c321d5ff557c183550c73dc109ed9484e58606f5",
+      "PDFFilePages": 9,
+      "gitRepoPath": "工程技术类/燃烧理论/复习/黄逸洋public_纲要与表面反应推导_20261023/燃烧复习1.pdf",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_078",
+      "course": "燃烧理论",
+      "sourceFileName": "燃烧-复习纲要.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+      "sourceAliases": [
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论",
+          "member": "2.6_能源动力类_燃烧理论/燃烧理论_复习笔记_马逸/燃烧-复习纲要.pdf"
+        },
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论包内_复习总结",
+          "member": "复习总结/燃烧-复习纲要.pdf"
+        }
+      ],
+      "sourceBytes": 310357,
+      "sourceSHA256": "8e2eaae1f4e99c1bffe605b706291593b925bf4908fa49d95fdae6e730f293e2",
+      "PDFFilePages": 8,
+      "gitRepoPath": "工程技术类/燃烧理论/复习/黄逸洋public_纲要与表面反应推导_20261023/燃烧-复习纲要.pdf",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_079",
+      "course": "燃烧理论",
+      "sourceFileName": "小问题.doc",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+      "sourceAliases": [
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论",
+          "member": "2.6_能源动力类_燃烧理论/燃烧理论_复习笔记_马逸/小问题.doc"
+        },
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论包内_复习总结",
+          "member": "复习总结/小问题.doc"
+        }
+      ],
+      "sourceBytes": 12800,
+      "sourceSHA256": "198df41243a2d425d735863cccc413f3920cf75f3f587f8609d4ab2ec13e6248",
+      "PDFFilePages": null,
+      "gitRepoPath": "工程技术类/燃烧理论/复习/黄逸洋public_纲要与表面反应推导_20261023/小问题.doc",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_080",
+      "course": "燃烧理论",
+      "sourceFileName": "复习纲要——bylin00kai.doc",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+      "sourceAliases": [
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论",
+          "member": "2.6_能源动力类_燃烧理论/燃烧理论_复习笔记_马逸/复习纲要——bylin00kai.doc"
+        },
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论包内_复习总结",
+          "member": "复习总结/复习纲要——bylin00kai.doc"
+        }
+      ],
+      "sourceBytes": 284160,
+      "sourceSHA256": "788ebfb5088090508df22592478ff637a58faf07405ef6ab53f23e4a649ae0a2",
+      "PDFFilePages": null,
+      "gitRepoPath": "工程技术类/燃烧理论/复习/黄逸洋public_纲要与表面反应推导_20261023/复习纲要——bylin00kai.doc",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_081",
+      "course": "燃烧理论",
+      "sourceFileName": "表面反应三公式的推导.pptx",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+      "sourceAliases": [
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论包内_复习总结",
+          "member": "复习总结/表面反应三公式的推导.pptx"
+        }
+      ],
+      "sourceBytes": 2234761,
+      "sourceSHA256": "36e930f3ffeb7cb6a365727bef5bdf2b05354b69f6873b8b20a6d55a9685b8cf",
+      "PDFFilePages": null,
+      "gitRepoPath": "工程技术类/燃烧理论/复习/黄逸洋public_纲要与表面反应推导_20261023/表面反应三公式的推导.pptx",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    }
+  ],
+  "reviewBoundary": "131个锁定原件全部独立重核本地SHA/OID；79PDF共3306文件页核文字、元信息、批注/表单/附件，实际查看161个首尾/标记角色页及100幅去重栅格图，非3306页全视觉审查。旧Office按FIB/CLX正文、属性边界、ASCII/UTF16流核对；OOXML核XML、core、外部关系、CRC及栅格媒体。23幅WMF仅静态字段核对，GDI预览多为空白，不称完整矢量审阅；配套公式OLE静态读，未执行对象。12GIF均单帧。公开教师署名/教学联系、课件日期及普通版权保留。",
+  "verification": "仅发布已完成云盘归档的六课锁定候选中可用部分；云盘逐名及代表文件SHA沿上游证据，不称本轮全部目标SHA回取。原包、密码、身份暂缓材料及私有审阅均不发布，原canonical文件及旧说明不覆盖。回忆和参考解答不认证官方性与数学正确性。"
+}

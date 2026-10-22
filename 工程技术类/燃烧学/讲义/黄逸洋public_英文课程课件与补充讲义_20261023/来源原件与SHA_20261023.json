@@ -1,0 +1,148 @@
+{
+  "date": "2026-10-23",
+  "source": "黄逸洋public",
+  "course": "燃烧学",
+  "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E5%AD%A6&mode=list",
+  "cloudDirectoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E5%B7%A5%E7%A8%8B%E6%8A%80%E6%9C%AF%E7%B1%BB/%E7%87%83%E7%83%A7%E5%AD%A6/%E8%AE%B2%E4%B9%89/%E9%BB%84%E9%80%B8%E6%B4%8Bpublic_%E8%8B%B1%E6%96%87%E8%AF%BE%E7%A8%8B%E8%AF%BE%E4%BB%B6%E4%B8%8E%E8%A1%A5%E5%85%85%E8%AE%B2%E4%B9%89_20261023",
+  "role": "9份英文燃烧课程课件与讲义，覆盖混合物热化学、平衡常数、守恒方程、输运、化学动力学、反应机理、零维反应器与预混/非预混火焰。绪论封面注明Spring 2019、Zhuyin Ren/Haitao Xu；并非每件都重复署名或日期，说明仅按实际原页表述。教师公开联系保留原件，说明不重复摘抄。",
+  "upstreamSourceNoteSHA256": "dd7e389be27365dec14b3a839e66fb6cda09e8f14ffce78ee51a709e31ab7c56",
+  "files": [
+    {
+      "sourceLabel": "E2_086",
+      "course": "燃烧学",
+      "sourceFileName": "Lecture 4-Transport Phenomena.pptx",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E5%AD%A6&mode=list",
+      "sourceAliases": [
+        "2.6_能源动力类_燃烧学/燃烧学（英）_复习笔记_马逸/Lecture 4-Transport Phenomena.pptx"
+      ],
+      "sourceBytes": 699925,
+      "sourceSHA256": "4c43492202c3b93cdc3b963307604d77182c59973366efc930b0b58e0dfd99c2",
+      "PDFFilePages": null,
+      "gitRepoPath": "工程技术类/燃烧学/讲义/黄逸洋public_英文课程课件与补充讲义_20261023/Lecture 4-Transport Phenomena.pptx",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_087",
+      "course": "燃烧学",
+      "sourceFileName": "Lecture 3-Governing Equations.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E5%AD%A6&mode=list",
+      "sourceAliases": [
+        "2.6_能源动力类_燃烧学/燃烧学（英）_复习笔记_马逸/Lecture 3-Governing Equations.pdf"
+      ],
+      "sourceBytes": 513664,
+      "sourceSHA256": "62f0783d85c420cfd01c2194adee5d383e10ce55e52e0f6ad29dd59259fac1e5",
+      "PDFFilePages": 8,
+      "gitRepoPath": "工程技术类/燃烧学/讲义/黄逸洋public_英文课程课件与补充讲义_20261023/Lecture 3-Governing Equations.pdf",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_088",
+      "course": "燃烧学",
+      "sourceFileName": "Ch08-09 Flames.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E5%AD%A6&mode=list",
+      "sourceAliases": [
+        "2.6_能源动力类_燃烧学/燃烧学（英）_复习笔记_马逸/Ch08-09 Flames.pdf"
+      ],
+      "sourceBytes": 594154,
+      "sourceSHA256": "59960a8a359763ec83fdc6b009443f367167735aad1de2af97efc54c4b05efda",
+      "PDFFilePages": 7,
+      "gitRepoPath": "工程技术类/燃烧学/讲义/黄逸洋public_英文课程课件与补充讲义_20261023/Ch08-09 Flames.pdf",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_089",
+      "course": "燃烧学",
+      "sourceFileName": "Ch06-0DReactors.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E5%AD%A6&mode=list",
+      "sourceAliases": [
+        "2.6_能源动力类_燃烧学/燃烧学（英）_复习笔记_马逸/Ch06-0DReactors.pdf"
+      ],
+      "sourceBytes": 977613,
+      "sourceSHA256": "04f90835ecc884f81ce8f20d72feea556eedf2b793858da341a5e25baf8f28f7",
+      "PDFFilePages": 20,
+      "gitRepoPath": "工程技术类/燃烧学/讲义/黄逸洋public_英文课程课件与补充讲义_20261023/Ch06-0DReactors.pdf",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_090",
+      "course": "燃烧学",
+      "sourceFileName": "Ch05-KineticMechanisms.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E5%AD%A6&mode=list",
+      "sourceAliases": [
+        "2.6_能源动力类_燃烧学/燃烧学（英）_复习笔记_马逸/Ch05-KineticMechanisms.pdf"
+      ],
+      "sourceBytes": 979075,
+      "sourceSHA256": "5cc4f0f95298945816e67b6d6a6e9e683b3744c38c1f2f5964a0640921a54324",
+      "PDFFilePages": 25,
+      "gitRepoPath": "工程技术类/燃烧学/讲义/黄逸洋public_英文课程课件与补充讲义_20261023/Ch05-KineticMechanisms.pdf",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_091",
+      "course": "燃烧学",
+      "sourceFileName": "Ch04-ChemialKinetics.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E5%AD%A6&mode=list",
+      "sourceAliases": [
+        "2.6_能源动力类_燃烧学/燃烧学（英）_复习笔记_马逸/Ch04-ChemialKinetics.pdf"
+      ],
+      "sourceBytes": 691815,
+      "sourceSHA256": "df45a596738b9dcf16adc832c0e101eaa06154dcd39b583f51dab4d1783b9996",
+      "PDFFilePages": 17,
+      "gitRepoPath": "工程技术类/燃烧学/讲义/黄逸洋public_英文课程课件与补充讲义_20261023/Ch04-ChemialKinetics.pdf",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_092",
+      "course": "燃烧学",
+      "sourceFileName": "Ch02-Mixtures.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E5%AD%A6&mode=list",
+      "sourceAliases": [
+        "2.6_能源动力类_燃烧学/燃烧学（英）_复习笔记_马逸/Ch02-Mixtures.pdf"
+      ],
+      "sourceBytes": 240936,
+      "sourceSHA256": "1446fc43e8eef4f9d19bcbd6ee26775dfe7f453c255a3c20d11a20fe9e54afbd",
+      "PDFFilePages": 5,
+      "gitRepoPath": "工程技术类/燃烧学/讲义/黄逸洋public_英文课程课件与补充讲义_20261023/Ch02-Mixtures.pdf",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_093",
+      "course": "燃烧学",
+      "sourceFileName": "Ch02-Kp.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E5%AD%A6&mode=list",
+      "sourceAliases": [
+        "2.6_能源动力类_燃烧学/燃烧学（英）_复习笔记_马逸/Ch02-Kp.pdf"
+      ],
+      "sourceBytes": 187111,
+      "sourceSHA256": "4a60f3acb43c766fc051a7bf82aa78bf5368616b9b58990c142e6513acd1cace",
+      "PDFFilePages": 3,
+      "gitRepoPath": "工程技术类/燃烧学/讲义/黄逸洋public_英文课程课件与补充讲义_20261023/Ch02-Kp.pdf",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_094",
+      "course": "燃烧学",
+      "sourceFileName": "Ch01-IntroductionPPT.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E5%AD%A6&mode=list",
+      "sourceAliases": [
+        "2.6_能源动力类_燃烧学/燃烧学（英）_复习笔记_马逸/Ch01-IntroductionPPT.pdf"
+      ],
+      "sourceBytes": 1805688,
+      "sourceSHA256": "703cbd87e44f47770c40b3371c24fd62081ea56716e7b65852778d81634aa68b",
+      "PDFFilePages": 22,
+      "gitRepoPath": "工程技术类/燃烧学/讲义/黄逸洋public_英文课程课件与补充讲义_20261023/Ch01-IntroductionPPT.pdf",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    }
+  ],
+  "reviewBoundary": "131个锁定原件全部独立重核本地SHA/OID；79PDF共3306文件页核文字、元信息、批注/表单/附件，实际查看161个首尾/标记角色页及100幅去重栅格图，非3306页全视觉审查。旧Office按FIB/CLX正文、属性边界、ASCII/UTF16流核对；OOXML核XML、core、外部关系、CRC及栅格媒体。23幅WMF仅静态字段核对，GDI预览多为空白，不称完整矢量审阅；配套公式OLE静态读，未执行对象。12GIF均单帧。公开教师署名/教学联系、课件日期及普通版权保留。",
+  "verification": "仅发布已完成云盘归档的六课锁定候选中可用部分；云盘逐名及代表文件SHA沿上游证据，不称本轮全部目标SHA回取。原包、密码、身份暂缓材料及私有审阅均不发布，原canonical文件及旧说明不覆盖。回忆和参考解答不认证官方性与数学正确性。"
+}

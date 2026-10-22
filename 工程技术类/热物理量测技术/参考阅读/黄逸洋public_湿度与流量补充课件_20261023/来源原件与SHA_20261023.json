@@ -1,0 +1,58 @@
+{
+  "date": "2026-10-23",
+  "source": "黄逸洋public",
+  "course": "热物理量测技术",
+  "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%83%AD%E7%89%A9%E7%90%86%E9%87%8F%E6%B5%8B%E6%8A%80%E6%9C%AF&mode=list",
+  "cloudDirectoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E5%B7%A5%E7%A8%8B%E6%8A%80%E6%9C%AF%E7%B1%BB/%E7%83%AD%E7%89%A9%E7%90%86%E9%87%8F%E6%B5%8B%E6%8A%80%E6%9C%AF/%E5%8F%82%E8%80%83%E9%98%85%E8%AF%BB/%E9%BB%84%E9%80%B8%E6%B4%8Bpublic_%E6%B9%BF%E5%BA%A6%E4%B8%8E%E6%B5%81%E9%87%8F%E8%A1%A5%E5%85%85%E8%AF%BE%E4%BB%B6_20261023",
+  "role": "流量测量PDF、湿度测量PDF与湿度测量及应用PPT，原页有航院工程热物理研究所标识，按来源关联补充课件保存。原文件中的图表、练习和讨论保持，具体教师和学期待核。",
+  "upstreamSourceNoteSHA256": "18b68f9e923d7aab6b539d6cc18dd54122cae2df282050548f9136883ff20d95",
+  "files": [
+    {
+      "sourceLabel": "E2_116",
+      "course": "热物理量测技术",
+      "sourceFileName": "湿度测量及应用.ppt",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%83%AD%E7%89%A9%E7%90%86%E9%87%8F%E6%B5%8B%E6%8A%80%E6%9C%AF&mode=list",
+      "sourceAliases": [
+        "2.6_能源动力类_热物理量测技术/热物理量测技术_复习笔记_马逸/湿度测量及应用.ppt"
+      ],
+      "sourceBytes": 3585536,
+      "sourceSHA256": "b88465c0186f4c1553faa67aab3ac7943c1c381cafcbb3617a41096d0bf567d8",
+      "PDFFilePages": null,
+      "gitRepoPath": "工程技术类/热物理量测技术/参考阅读/黄逸洋public_湿度与流量补充课件_20261023/湿度测量及应用.ppt",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_117",
+      "course": "热物理量测技术",
+      "sourceFileName": "湿度测量1.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%83%AD%E7%89%A9%E7%90%86%E9%87%8F%E6%B5%8B%E6%8A%80%E6%9C%AF&mode=list",
+      "sourceAliases": [
+        "2.6_能源动力类_热物理量测技术/热物理量测技术_复习笔记_马逸/湿度测量1.pdf"
+      ],
+      "sourceBytes": 1451266,
+      "sourceSHA256": "9888d87f48ce20a80dd64b945627b932f5201c6b427d08d6bbce690d1c962f58",
+      "PDFFilePages": 41,
+      "gitRepoPath": "工程技术类/热物理量测技术/参考阅读/黄逸洋public_湿度与流量补充课件_20261023/湿度测量1.pdf",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_118",
+      "course": "热物理量测技术",
+      "sourceFileName": "流量测量.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%83%AD%E7%89%A9%E7%90%86%E9%87%8F%E6%B5%8B%E6%8A%80%E6%9C%AF&mode=list",
+      "sourceAliases": [
+        "2.6_能源动力类_热物理量测技术/热物理量测技术_复习笔记_马逸/流量测量.pdf"
+      ],
+      "sourceBytes": 9410755,
+      "sourceSHA256": "2500b1e5df938013c6ecebf2efeef37bdadb65b6fd000def8e11cebf531f2e9b",
+      "PDFFilePages": 148,
+      "gitRepoPath": "工程技术类/热物理量测技术/参考阅读/黄逸洋public_湿度与流量补充课件_20261023/流量测量.pdf",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    }
+  ],
+  "reviewBoundary": "131个锁定原件全部独立重核本地SHA/OID；79PDF共3306文件页核文字、元信息、批注/表单/附件，实际查看161个首尾/标记角色页及100幅去重栅格图，非3306页全视觉审查。旧Office按FIB/CLX正文、属性边界、ASCII/UTF16流核对；OOXML核XML、core、外部关系、CRC及栅格媒体。23幅WMF仅静态字段核对，GDI预览多为空白，不称完整矢量审阅；配套公式OLE静态读，未执行对象。12GIF均单帧。公开教师署名/教学联系、课件日期及普通版权保留。",
+  "verification": "仅发布已完成云盘归档的六课锁定候选中可用部分；云盘逐名及代表文件SHA沿上游证据，不称本轮全部目标SHA回取。原包、密码、身份暂缓材料及私有审阅均不发布，原canonical文件及旧说明不覆盖。回忆和参考解答不认证官方性与数学正确性。"
+}

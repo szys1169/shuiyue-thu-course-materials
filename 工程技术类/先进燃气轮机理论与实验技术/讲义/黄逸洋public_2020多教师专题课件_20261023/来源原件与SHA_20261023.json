@@ -1,0 +1,221 @@
+{
+  "date": "2026-10-23",
+  "source": "黄逸洋public",
+  "course": "先进燃气轮机理论与实验技术",
+  "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E5%85%88%E8%BF%9B%E7%87%83%E6%B0%94%E8%BD%AE%E6%9C%BA%E7%90%86%E8%AE%BA%E4%B8%8E%E5%AE%9E%E9%AA%8C%E6%8A%80%E6%9C%AF&mode=list",
+  "cloudDirectoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E5%B7%A5%E7%A8%8B%E6%8A%80%E6%9C%AF%E7%B1%BB/%E5%85%88%E8%BF%9B%E7%87%83%E6%B0%94%E8%BD%AE%E6%9C%BA%E7%90%86%E8%AE%BA%E4%B8%8E%E5%AE%9E%E9%AA%8C%E6%8A%80%E6%9C%AF/%E8%AE%B2%E4%B9%89/%E9%BB%84%E9%80%B8%E6%B4%8Bpublic_2020%E5%A4%9A%E6%95%99%E5%B8%88%E4%B8%93%E9%A2%98%E8%AF%BE%E4%BB%B6_20261023",
+  "role": "13份PDF覆盖课程概论、洁净稳定燃烧、航空燃烧室、透平冷却与失效、多学科优化、内部流动分析、状态监测、自动控制、系统分析及实验测量。原页可见任静/朱民课程负责，以及各讲实际教师署名；多份正文注明2020春或2020具体日期，按各件证据分别记录，不强认全部同一授课日期。课件包含雨课堂界面示例、匿名问答/投票和公开教学联系，原样保存，未将其当个人成绩。",
+  "upstreamSourceNoteSHA256": "6882f61fa00f73511275d72bdc727cdd1c244bd5751d63d6526b70a6f321a218",
+  "files": [
+    {
+      "sourceLabel": "E2_119",
+      "course": "先进燃气轮机理论与实验技术",
+      "sourceFileName": "第四讲 燃气轮机透平冷却技术.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E5%85%88%E8%BF%9B%E7%87%83%E6%B0%94%E8%BD%AE%E6%9C%BA%E7%90%86%E8%AE%BA%E4%B8%8E%E5%AE%9E%E9%AA%8C%E6%8A%80%E6%9C%AF&mode=list",
+      "sourceAliases": [
+        "2.6_能源动力类_先进燃气轮机理论与实验技术/课程资料/第四讲 燃气轮机透平冷却技术.pdf",
+        "2.6_能源动力类_先进燃气轮机理论与实验技术/先进燃气轮机理论与实验技术_复习笔记_马逸/课程资料/第四讲 燃气轮机透平冷却技术.pdf"
+      ],
+      "sourceBytes": 6001856,
+      "sourceSHA256": "6a9f40a80b3c7a21c7c8c22a5fb970064d41405a8a22058506435e0fed5608a2",
+      "PDFFilePages": 25,
+      "gitRepoPath": "工程技术类/先进燃气轮机理论与实验技术/讲义/黄逸洋public_2020多教师专题课件_20261023/第四讲 燃气轮机透平冷却技术.pdf",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_120",
+      "course": "先进燃气轮机理论与实验技术",
+      "sourceFileName": "第十讲 燃气轮机系统分析方法.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E5%85%88%E8%BF%9B%E7%87%83%E6%B0%94%E8%BD%AE%E6%9C%BA%E7%90%86%E8%AE%BA%E4%B8%8E%E5%AE%9E%E9%AA%8C%E6%8A%80%E6%9C%AF&mode=list",
+      "sourceAliases": [
+        "2.6_能源动力类_先进燃气轮机理论与实验技术/课程资料/第十讲 燃气轮机系统分析方法.pdf",
+        "2.6_能源动力类_先进燃气轮机理论与实验技术/先进燃气轮机理论与实验技术_复习笔记_马逸/课程资料/第十讲 燃气轮机系统分析方法.pdf"
+      ],
+      "sourceBytes": 11054376,
+      "sourceSHA256": "211646378b036acd7d69d7c9f90d1038b9e8bb5b90651c2bc9fd60ec555c1467",
+      "PDFFilePages": 43,
+      "gitRepoPath": "工程技术类/先进燃气轮机理论与实验技术/讲义/黄逸洋public_2020多教师专题课件_20261023/第十讲 燃气轮机系统分析方法.pdf",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_121",
+      "course": "先进燃气轮机理论与实验技术",
+      "sourceFileName": "第十二讲 透平冷却先进试验技术.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E5%85%88%E8%BF%9B%E7%87%83%E6%B0%94%E8%BD%AE%E6%9C%BA%E7%90%86%E8%AE%BA%E4%B8%8E%E5%AE%9E%E9%AA%8C%E6%8A%80%E6%9C%AF&mode=list",
+      "sourceAliases": [
+        "2.6_能源动力类_先进燃气轮机理论与实验技术/课程资料/第十二讲 透平冷却先进试验技术.pdf",
+        "2.6_能源动力类_先进燃气轮机理论与实验技术/先进燃气轮机理论与实验技术_复习笔记_马逸/课程资料/第十二讲 透平冷却先进试验技术.pdf"
+      ],
+      "sourceBytes": 1500868,
+      "sourceSHA256": "a5723361c37643113703bfd536fd01a0798f10971f0cd1ce0f921d3777836496",
+      "PDFFilePages": 20,
+      "gitRepoPath": "工程技术类/先进燃气轮机理论与实验技术/讲义/黄逸洋public_2020多教师专题课件_20261023/第十二讲 透平冷却先进试验技术.pdf",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_122",
+      "course": "先进燃气轮机理论与实验技术",
+      "sourceFileName": "第十三讲 转子动力学与故障模拟实验技术.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E5%85%88%E8%BF%9B%E7%87%83%E6%B0%94%E8%BD%AE%E6%9C%BA%E7%90%86%E8%AE%BA%E4%B8%8E%E5%AE%9E%E9%AA%8C%E6%8A%80%E6%9C%AF&mode=list",
+      "sourceAliases": [
+        "2.6_能源动力类_先进燃气轮机理论与实验技术/课程资料/第十三讲 转子动力学与故障模拟实验技术.pdf",
+        "2.6_能源动力类_先进燃气轮机理论与实验技术/先进燃气轮机理论与实验技术_复习笔记_马逸/课程资料/第十三讲 转子动力学与故障模拟实验技术.pdf"
+      ],
+      "sourceBytes": 2122039,
+      "sourceSHA256": "7cbac4099ac8b0db79c3ca457806748ad11c22020fd2f4471108268d3cb9f7bf",
+      "PDFFilePages": 29,
+      "gitRepoPath": "工程技术类/先进燃气轮机理论与实验技术/讲义/黄逸洋public_2020多教师专题课件_20261023/第十三讲 转子动力学与故障模拟实验技术.pdf",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_123",
+      "course": "先进燃气轮机理论与实验技术",
+      "sourceFileName": "第十一讲 燃烧室实验测量技术teach.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E5%85%88%E8%BF%9B%E7%87%83%E6%B0%94%E8%BD%AE%E6%9C%BA%E7%90%86%E8%AE%BA%E4%B8%8E%E5%AE%9E%E9%AA%8C%E6%8A%80%E6%9C%AF&mode=list",
+      "sourceAliases": [
+        "2.6_能源动力类_先进燃气轮机理论与实验技术/课程资料/第十一讲 燃烧室实验测量技术teach.pdf",
+        "2.6_能源动力类_先进燃气轮机理论与实验技术/先进燃气轮机理论与实验技术_复习笔记_马逸/课程资料/第十一讲 燃烧室实验测量技术teach.pdf"
+      ],
+      "sourceBytes": 1363678,
+      "sourceSHA256": "1cf074c9ed8ee0d2c596aa097c384a678d0cd8f231dd3387879e94a21dcb6ba7",
+      "PDFFilePages": 16,
+      "gitRepoPath": "工程技术类/先进燃气轮机理论与实验技术/讲义/黄逸洋public_2020多教师专题课件_20261023/第十一讲 燃烧室实验测量技术teach.pdf",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_124",
+      "course": "先进燃气轮机理论与实验技术",
+      "sourceFileName": "第六讲 燃气轮机部件的多学科优化.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E5%85%88%E8%BF%9B%E7%87%83%E6%B0%94%E8%BD%AE%E6%9C%BA%E7%90%86%E8%AE%BA%E4%B8%8E%E5%AE%9E%E9%AA%8C%E6%8A%80%E6%9C%AF&mode=list",
+      "sourceAliases": [
+        "2.6_能源动力类_先进燃气轮机理论与实验技术/课程资料/第六讲 燃气轮机部件的多学科优化.pdf",
+        "2.6_能源动力类_先进燃气轮机理论与实验技术/先进燃气轮机理论与实验技术_复习笔记_马逸/课程资料/第六讲 燃气轮机部件的多学科优化.pdf"
+      ],
+      "sourceBytes": 13521001,
+      "sourceSHA256": "76aeffee3caa827f1df5312914e7ffb4f50a0a4a4ef2c7af93edf31ed9354aac",
+      "PDFFilePages": 44,
+      "gitRepoPath": "工程技术类/先进燃气轮机理论与实验技术/讲义/黄逸洋public_2020多教师专题课件_20261023/第六讲 燃气轮机部件的多学科优化.pdf",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_125",
+      "course": "先进燃气轮机理论与实验技术",
+      "sourceFileName": "第八讲 燃气轮机状态监测与故障诊断.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E5%85%88%E8%BF%9B%E7%87%83%E6%B0%94%E8%BD%AE%E6%9C%BA%E7%90%86%E8%AE%BA%E4%B8%8E%E5%AE%9E%E9%AA%8C%E6%8A%80%E6%9C%AF&mode=list",
+      "sourceAliases": [
+        "2.6_能源动力类_先进燃气轮机理论与实验技术/课程资料/第八讲 燃气轮机状态监测与故障诊断.pdf",
+        "2.6_能源动力类_先进燃气轮机理论与实验技术/先进燃气轮机理论与实验技术_复习笔记_马逸/课程资料/第八讲 燃气轮机状态监测与故障诊断.pdf"
+      ],
+      "sourceBytes": 13583387,
+      "sourceSHA256": "74a3a0814dfab343705c7d3a573b974f52131e914cdd9d0d5e79da2f0a9e8af1",
+      "PDFFilePages": 51,
+      "gitRepoPath": "工程技术类/先进燃气轮机理论与实验技术/讲义/黄逸洋public_2020多教师专题课件_20261023/第八讲 燃气轮机状态监测与故障诊断.pdf",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_126",
+      "course": "先进燃气轮机理论与实验技术",
+      "sourceFileName": "第五讲 2020燃气轮机透平特性及其失效形式.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E5%85%88%E8%BF%9B%E7%87%83%E6%B0%94%E8%BD%AE%E6%9C%BA%E7%90%86%E8%AE%BA%E4%B8%8E%E5%AE%9E%E9%AA%8C%E6%8A%80%E6%9C%AF&mode=list",
+      "sourceAliases": [
+        "2.6_能源动力类_先进燃气轮机理论与实验技术/课程资料/第五讲 2020燃气轮机透平特性及其失效形式.pdf",
+        "2.6_能源动力类_先进燃气轮机理论与实验技术/先进燃气轮机理论与实验技术_复习笔记_马逸/课程资料/第五讲 2020燃气轮机透平特性及其失效形式.pdf"
+      ],
+      "sourceBytes": 4794447,
+      "sourceSHA256": "f97f19076b11d219ade84f084d4a0821d3b23947941c6f2b6c12004fdff02de0",
+      "PDFFilePages": 29,
+      "gitRepoPath": "工程技术类/先进燃气轮机理论与实验技术/讲义/黄逸洋public_2020多教师专题课件_20261023/第五讲 2020燃气轮机透平特性及其失效形式.pdf",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_127",
+      "course": "先进燃气轮机理论与实验技术",
+      "sourceFileName": "第二讲 灵活燃料的洁净稳定燃烧技术.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E5%85%88%E8%BF%9B%E7%87%83%E6%B0%94%E8%BD%AE%E6%9C%BA%E7%90%86%E8%AE%BA%E4%B8%8E%E5%AE%9E%E9%AA%8C%E6%8A%80%E6%9C%AF&mode=list",
+      "sourceAliases": [
+        "2.6_能源动力类_先进燃气轮机理论与实验技术/课程资料/第二讲 灵活燃料的洁净稳定燃烧技术.pdf",
+        "2.6_能源动力类_先进燃气轮机理论与实验技术/先进燃气轮机理论与实验技术_复习笔记_马逸/课程资料/第二讲 灵活燃料的洁净稳定燃烧技术.pdf"
+      ],
+      "sourceBytes": 11369387,
+      "sourceSHA256": "d07e8c7147d2f0ea3a08118bb2ae5bf5cab7fbcf6d7da51fe4796feea6a675cc",
+      "PDFFilePages": 50,
+      "gitRepoPath": "工程技术类/先进燃气轮机理论与实验技术/讲义/黄逸洋public_2020多教师专题课件_20261023/第二讲 灵活燃料的洁净稳定燃烧技术.pdf",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_128",
+      "course": "先进燃气轮机理论与实验技术",
+      "sourceFileName": "第九讲 燃气轮机自动控制技术.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E5%85%88%E8%BF%9B%E7%87%83%E6%B0%94%E8%BD%AE%E6%9C%BA%E7%90%86%E8%AE%BA%E4%B8%8E%E5%AE%9E%E9%AA%8C%E6%8A%80%E6%9C%AF&mode=list",
+      "sourceAliases": [
+        "2.6_能源动力类_先进燃气轮机理论与实验技术/课程资料/第九讲 燃气轮机自动控制技术.pdf",
+        "2.6_能源动力类_先进燃气轮机理论与实验技术/先进燃气轮机理论与实验技术_复习笔记_马逸/课程资料/第九讲 燃气轮机自动控制技术.pdf"
+      ],
+      "sourceBytes": 11885019,
+      "sourceSHA256": "f2169a22c3c4bcb50e4872e504d00dbb3850c986f624ac30e10b3b94d9d87752",
+      "PDFFilePages": 43,
+      "gitRepoPath": "工程技术类/先进燃气轮机理论与实验技术/讲义/黄逸洋public_2020多教师专题课件_20261023/第九讲 燃气轮机自动控制技术.pdf",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_129",
+      "course": "先进燃气轮机理论与实验技术",
+      "sourceFileName": "第三讲 航空发动机燃烧室技术与发展.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E5%85%88%E8%BF%9B%E7%87%83%E6%B0%94%E8%BD%AE%E6%9C%BA%E7%90%86%E8%AE%BA%E4%B8%8E%E5%AE%9E%E9%AA%8C%E6%8A%80%E6%9C%AF&mode=list",
+      "sourceAliases": [
+        "2.6_能源动力类_先进燃气轮机理论与实验技术/课程资料/第三讲 航空发动机燃烧室技术与发展.pdf",
+        "2.6_能源动力类_先进燃气轮机理论与实验技术/先进燃气轮机理论与实验技术_复习笔记_马逸/课程资料/第三讲 航空发动机燃烧室技术与发展.pdf"
+      ],
+      "sourceBytes": 1185606,
+      "sourceSHA256": "fc2b36e9add13ae7d46c9447d177332cb0c502ef47bbd83b97b6dc053ab0d648",
+      "PDFFilePages": 60,
+      "gitRepoPath": "工程技术类/先进燃气轮机理论与实验技术/讲义/黄逸洋public_2020多教师专题课件_20261023/第三讲 航空发动机燃烧室技术与发展.pdf",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_130",
+      "course": "先进燃气轮机理论与实验技术",
+      "sourceFileName": "第七讲 燃气轮机内部流动先进分析技术.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E5%85%88%E8%BF%9B%E7%87%83%E6%B0%94%E8%BD%AE%E6%9C%BA%E7%90%86%E8%AE%BA%E4%B8%8E%E5%AE%9E%E9%AA%8C%E6%8A%80%E6%9C%AF&mode=list",
+      "sourceAliases": [
+        "2.6_能源动力类_先进燃气轮机理论与实验技术/课程资料/第七讲 燃气轮机内部流动先进分析技术.pdf",
+        "2.6_能源动力类_先进燃气轮机理论与实验技术/先进燃气轮机理论与实验技术_复习笔记_马逸/课程资料/第七讲 燃气轮机内部流动先进分析技术.pdf"
+      ],
+      "sourceBytes": 2371450,
+      "sourceSHA256": "87ee3846ce37410b275d1a804344eb34eec9406870bdc7836192593a43b5af7b",
+      "PDFFilePages": 24,
+      "gitRepoPath": "工程技术类/先进燃气轮机理论与实验技术/讲义/黄逸洋public_2020多教师专题课件_20261023/第七讲 燃气轮机内部流动先进分析技术.pdf",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_131",
+      "course": "先进燃气轮机理论与实验技术",
+      "sourceFileName": "先进燃气轮机理论和实验技术课程安排 和概论.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E5%85%88%E8%BF%9B%E7%87%83%E6%B0%94%E8%BD%AE%E6%9C%BA%E7%90%86%E8%AE%BA%E4%B8%8E%E5%AE%9E%E9%AA%8C%E6%8A%80%E6%9C%AF&mode=list",
+      "sourceAliases": [
+        "2.6_能源动力类_先进燃气轮机理论与实验技术/课程资料/先进燃气轮机理论和实验技术课程安排 和概论.pdf",
+        "2.6_能源动力类_先进燃气轮机理论与实验技术/先进燃气轮机理论与实验技术_复习笔记_马逸/课程资料/先进燃气轮机理论和实验技术课程安排 和概论.pdf"
+      ],
+      "sourceBytes": 2039765,
+      "sourceSHA256": "12ad03d754ed562c3f232f8fb30f057f026da46acb07924950f4c0a0ec5bac33",
+      "PDFFilePages": 54,
+      "gitRepoPath": "工程技术类/先进燃气轮机理论与实验技术/讲义/黄逸洋public_2020多教师专题课件_20261023/先进燃气轮机理论和实验技术课程安排 和概论.pdf",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    }
+  ],
+  "reviewBoundary": "131个锁定原件全部独立重核本地SHA/OID；79PDF共3306文件页核文字、元信息、批注/表单/附件，实际查看161个首尾/标记角色页及100幅去重栅格图，非3306页全视觉审查。旧Office按FIB/CLX正文、属性边界、ASCII/UTF16流核对；OOXML核XML、core、外部关系、CRC及栅格媒体。23幅WMF仅静态字段核对，GDI预览多为空白，不称完整矢量审阅；配套公式OLE静态读，未执行对象。12GIF均单帧。公开教师署名/教学联系、课件日期及普通版权保留。",
+  "verification": "仅发布已完成云盘归档的六课锁定候选中可用部分；云盘逐名及代表文件SHA沿上游证据，不称本轮全部目标SHA回取。原包、密码、身份暂缓材料及私有审阅均不发布，原canonical文件及旧说明不覆盖。回忆和参考解答不认证官方性与数学正确性。"
+}

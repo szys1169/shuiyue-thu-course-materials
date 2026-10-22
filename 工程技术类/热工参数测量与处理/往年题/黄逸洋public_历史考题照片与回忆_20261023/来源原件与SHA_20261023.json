@@ -1,0 +1,103 @@
+{
+  "date": "2026-10-23",
+  "source": "黄逸洋public",
+  "course": "热工参数测量与处理",
+  "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%83%AD%E5%B7%A5%E5%8F%82%E6%95%B0%E6%B5%8B%E9%87%8F%E4%B8%8E%E5%A4%84%E7%90%86&mode=list",
+  "cloudDirectoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E5%B7%A5%E7%A8%8B%E6%8A%80%E6%9C%AF%E7%B1%BB/%E7%83%AD%E5%B7%A5%E5%8F%82%E6%95%B0%E6%B5%8B%E9%87%8F%E4%B8%8E%E5%A4%84%E7%90%86/%E5%BE%80%E5%B9%B4%E9%A2%98/%E9%BB%84%E9%80%B8%E6%B4%8Bpublic_%E5%8E%86%E5%8F%B2%E8%80%83%E9%A2%98%E7%85%A7%E7%89%87%E4%B8%8E%E5%9B%9E%E5%BF%86_20261023",
+  "role": "3张照片的卷面为2009年6月17日《测试与检测技术基础》试题，含匿名手写演算、标注和裁边，原图保存；另两份2011/2012来源DOCX为回忆或修改整理题，原readme.txt为提供者回忆说明，不将其当正式试卷或标准答案。",
+  "upstreamSourceNoteSHA256": "f4f0724530bd571eb7913ead75e0787cb076f35bc6fbe7814b582f97d6313917",
+  "files": [
+    {
+      "sourceLabel": "E2_096",
+      "course": "热工参数测量与处理",
+      "sourceFileName": "热测2011考题by李晓璐.docx",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%83%AD%E5%B7%A5%E5%8F%82%E6%95%B0%E6%B5%8B%E9%87%8F%E4%B8%8E%E5%A4%84%E7%90%86&mode=list",
+      "sourceAliases": [
+        "2.6_能源动力类_热工参数测量与处理/考试真题/热测2011考题by李晓璐.docx"
+      ],
+      "sourceBytes": 16789,
+      "sourceSHA256": "82291e0bd7a7454806115220ace9a2e0eb375372edf6c76ef1db3ea75be47f30",
+      "PDFFilePages": null,
+      "gitRepoPath": "工程技术类/热工参数测量与处理/往年题/黄逸洋public_历史考题照片与回忆_20261023/热测2011考题by李晓璐.docx",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_097",
+      "course": "热工参数测量与处理",
+      "sourceFileName": "热测2011及2012考题--庄晨宇修改版.docx",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%83%AD%E5%B7%A5%E5%8F%82%E6%95%B0%E6%B5%8B%E9%87%8F%E4%B8%8E%E5%A4%84%E7%90%86&mode=list",
+      "sourceAliases": [
+        "2.6_能源动力类_热工参数测量与处理/考试真题/热测2011及2012考题--庄晨宇修改版.docx"
+      ],
+      "sourceBytes": 17807,
+      "sourceSHA256": "c94545eeb321bbeeed096efa45ef9a2a171eebbd2c4c406e72fa6a1986aba80b",
+      "PDFFilePages": null,
+      "gitRepoPath": "工程技术类/热工参数测量与处理/往年题/黄逸洋public_历史考题照片与回忆_20261023/热测2011及2012考题--庄晨宇修改版.docx",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_098",
+      "course": "热工参数测量与处理",
+      "sourceFileName": "3.JPG",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%83%AD%E5%B7%A5%E5%8F%82%E6%95%B0%E6%B5%8B%E9%87%8F%E4%B8%8E%E5%A4%84%E7%90%86&mode=list",
+      "sourceAliases": [
+        "2.6_能源动力类_热工参数测量与处理/考试真题/测试09/3.JPG"
+      ],
+      "sourceBytes": 3635763,
+      "sourceSHA256": "a8776a88092520b00705c93a45e8ff2c58e7622a849ceef880cc7457009addc9",
+      "PDFFilePages": null,
+      "gitRepoPath": "工程技术类/热工参数测量与处理/往年题/黄逸洋public_历史考题照片与回忆_20261023/3.JPG",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_099",
+      "course": "热工参数测量与处理",
+      "sourceFileName": "2.JPG",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%83%AD%E5%B7%A5%E5%8F%82%E6%95%B0%E6%B5%8B%E9%87%8F%E4%B8%8E%E5%A4%84%E7%90%86&mode=list",
+      "sourceAliases": [
+        "2.6_能源动力类_热工参数测量与处理/考试真题/测试09/2.JPG"
+      ],
+      "sourceBytes": 3500627,
+      "sourceSHA256": "63a24fa9d4b45b77c961f2c5e9446fc16e6a63049182e93ee02fa977dd9f5f98",
+      "PDFFilePages": null,
+      "gitRepoPath": "工程技术类/热工参数测量与处理/往年题/黄逸洋public_历史考题照片与回忆_20261023/2.JPG",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_100",
+      "course": "热工参数测量与处理",
+      "sourceFileName": "1.JPG",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%83%AD%E5%B7%A5%E5%8F%82%E6%95%B0%E6%B5%8B%E9%87%8F%E4%B8%8E%E5%A4%84%E7%90%86&mode=list",
+      "sourceAliases": [
+        "2.6_能源动力类_热工参数测量与处理/考试真题/测试09/1.JPG"
+      ],
+      "sourceBytes": 3554104,
+      "sourceSHA256": "b91e1abfc2a0b6845703757a2dba6f25e33da14618845f8cc83226e69cafa01c",
+      "PDFFilePages": null,
+      "gitRepoPath": "工程技术类/热工参数测量与处理/往年题/黄逸洋public_历史考题照片与回忆_20261023/1.JPG",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_101",
+      "course": "热工参数测量与处理",
+      "sourceFileName": "readme.txt",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%83%AD%E5%B7%A5%E5%8F%82%E6%95%B0%E6%B5%8B%E9%87%8F%E4%B8%8E%E5%A4%84%E7%90%86&mode=list",
+      "sourceAliases": [
+        "2.6_能源动力类_热工参数测量与处理/考试真题/readme.txt"
+      ],
+      "sourceBytes": 697,
+      "sourceSHA256": "c0bd950b2cfd6dddd17929d29d984a4b65a3bfc83cabbf62d8b55700600c3c7f",
+      "PDFFilePages": null,
+      "gitRepoPath": "工程技术类/热工参数测量与处理/往年题/黄逸洋public_历史考题照片与回忆_20261023/readme.txt",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    }
+  ],
+  "reviewBoundary": "131个锁定原件全部独立重核本地SHA/OID；79PDF共3306文件页核文字、元信息、批注/表单/附件，实际查看161个首尾/标记角色页及100幅去重栅格图，非3306页全视觉审查。旧Office按FIB/CLX正文、属性边界、ASCII/UTF16流核对；OOXML核XML、core、外部关系、CRC及栅格媒体。23幅WMF仅静态字段核对，GDI预览多为空白，不称完整矢量审阅；配套公式OLE静态读，未执行对象。12GIF均单帧。公开教师署名/教学联系、课件日期及普通版权保留。",
+  "verification": "仅发布已完成云盘归档的六课锁定候选中可用部分；云盘逐名及代表文件SHA沿上游证据，不称本轮全部目标SHA回取。原包、密码、身份暂缓材料及私有审阅均不发布，原canonical文件及旧说明不覆盖。回忆和参考解答不认证官方性与数学正确性。"
+}

@@ -1,0 +1,157 @@
+{
+  "date": "2026-10-23",
+  "source": "黄逸洋public",
+  "course": "能源利用中的物理化学（英）",
+  "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E8%83%BD%E6%BA%90%E5%88%A9%E7%94%A8%E4%B8%AD%E7%9A%84%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6%EF%BC%88%E8%8B%B1%EF%BC%89&mode=list",
+  "cloudDirectoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E5%B7%A5%E7%A8%8B%E6%8A%80%E6%9C%AF%E7%B1%BB/%E8%83%BD%E6%BA%90%E5%88%A9%E7%94%A8%E4%B8%AD%E7%9A%84%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6%EF%BC%88%E8%8B%B1%EF%BC%89/%E8%AE%B2%E4%B9%89/%E9%BB%84%E9%80%B8%E6%B4%8Bpublic_%E8%83%BD%E6%BA%90%E7%89%A9%E5%8C%96%E9%87%8F%E5%AD%90%E4%B8%8E%E5%88%86%E5%AD%90%E8%AF%BE%E4%BB%B6_20261023",
+  "role": "9份Physical Chemistry in Energy Utilization课件，内容涉及量子理论、分子结构、对称与点群、分子光谱、分子相互作用和反应动力学。部分从Review页起，保留原始课件页序；仅一份封面注明2020.02.18，其他件作者及授课学期待核。",
+  "upstreamSourceNoteSHA256": "28186aec6599aae613204e01fbc01821c729a79000c50801ef38adff85751762",
+  "files": [
+    {
+      "sourceLabel": "E2_001",
+      "course": "能源利用中的物理化学（英）",
+      "sourceFileName": "PC-molecular reaction dynamics.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E8%83%BD%E6%BA%90%E5%88%A9%E7%94%A8%E4%B8%AD%E7%9A%84%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6%EF%BC%88%E8%8B%B1%EF%BC%89&mode=list",
+      "sourceAliases": [
+        "2.6_能源动力类_能源利用中的物理化学（英）/课件/PC-molecular reaction dynamics.pdf",
+        "2.6_能源动力类_能源利用中的物理化学（英）/能源利用中的物理化学（英）_复习笔记_马逸/PC-molecular reaction dynamics.pdf"
+      ],
+      "sourceBytes": 6213402,
+      "sourceSHA256": "1feef505e819b6e5f7e02d94747aaf0c9ad3a66edffb0195a5cf72784240b05b",
+      "PDFFilePages": 64,
+      "gitRepoPath": "工程技术类/能源利用中的物理化学（英）/讲义/黄逸洋public_能源物化量子与分子课件_20261023/PC-molecular reaction dynamics.pdf",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_002",
+      "course": "能源利用中的物理化学（英）",
+      "sourceFileName": "PC-Symmetry-Point group.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E8%83%BD%E6%BA%90%E5%88%A9%E7%94%A8%E4%B8%AD%E7%9A%84%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6%EF%BC%88%E8%8B%B1%EF%BC%89&mode=list",
+      "sourceAliases": [
+        "2.6_能源动力类_能源利用中的物理化学（英）/课件/PC-Symmetry-Point group.pdf",
+        "2.6_能源动力类_能源利用中的物理化学（英）/能源利用中的物理化学（英）_复习笔记_马逸/PC-Symmetry-Point group.pdf"
+      ],
+      "sourceBytes": 1775170,
+      "sourceSHA256": "b023611f0fcf641a42c8b3a33029c9905aa7bf1466b0b9712c0e65eeeaa0d52e",
+      "PDFFilePages": 17,
+      "gitRepoPath": "工程技术类/能源利用中的物理化学（英）/讲义/黄逸洋public_能源物化量子与分子课件_20261023/PC-Symmetry-Point group.pdf",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_003",
+      "course": "能源利用中的物理化学（英）",
+      "sourceFileName": "PC-Representation of group-molecular spectra.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E8%83%BD%E6%BA%90%E5%88%A9%E7%94%A8%E4%B8%AD%E7%9A%84%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6%EF%BC%88%E8%8B%B1%EF%BC%89&mode=list",
+      "sourceAliases": [
+        "2.6_能源动力类_能源利用中的物理化学（英）/课件/PC-Representation of group-molecular spectra.pdf",
+        "2.6_能源动力类_能源利用中的物理化学（英）/能源利用中的物理化学（英）_复习笔记_马逸/PC-Representation of group-molecular spectra.pdf"
+      ],
+      "sourceBytes": 3229465,
+      "sourceSHA256": "5ec406e41d018fd6ec4f7f69af884146b8af6d87fdde8b97b06a46c14de003f5",
+      "PDFFilePages": 32,
+      "gitRepoPath": "工程技术类/能源利用中的物理化学（英）/讲义/黄逸洋public_能源物化量子与分子课件_20261023/PC-Representation of group-molecular spectra.pdf",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_004",
+      "course": "能源利用中的物理化学（英）",
+      "sourceFileName": "PC-QM-oscillator2-measurement-variation theory-H.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E8%83%BD%E6%BA%90%E5%88%A9%E7%94%A8%E4%B8%AD%E7%9A%84%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6%EF%BC%88%E8%8B%B1%EF%BC%89&mode=list",
+      "sourceAliases": [
+        "2.6_能源动力类_能源利用中的物理化学（英）/课件/PC-QM-oscillator2-measurement-variation theory-H.pdf",
+        "2.6_能源动力类_能源利用中的物理化学（英）/能源利用中的物理化学（英）_复习笔记_马逸/PC-QM-oscillator2-measurement-variation theory-H.pdf"
+      ],
+      "sourceBytes": 2886509,
+      "sourceSHA256": "3636e915ec4d44032fd906bab1ddbd3abbc73990e52052900fd971c58615c511",
+      "PDFFilePages": 49,
+      "gitRepoPath": "工程技术类/能源利用中的物理化学（英）/讲义/黄逸洋public_能源物化量子与分子课件_20261023/PC-QM-oscillator2-measurement-variation theory-H.pdf",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_005",
+      "course": "能源利用中的物理化学（英）",
+      "sourceFileName": "PC-QM-molecular structure-0317.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E8%83%BD%E6%BA%90%E5%88%A9%E7%94%A8%E4%B8%AD%E7%9A%84%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6%EF%BC%88%E8%8B%B1%EF%BC%89&mode=list",
+      "sourceAliases": [
+        "2.6_能源动力类_能源利用中的物理化学（英）/课件/PC-QM-molecular structure-0317.pdf",
+        "2.6_能源动力类_能源利用中的物理化学（英）/能源利用中的物理化学（英）_复习笔记_马逸/PC-QM-molecular structure-0317.pdf"
+      ],
+      "sourceBytes": 2094658,
+      "sourceSHA256": "bab59a02f9c3b658337f38864a718005ffdea023d9796433694dfc7b499819cd",
+      "PDFFilePages": 16,
+      "gitRepoPath": "工程技术类/能源利用中的物理化学（英）/讲义/黄逸洋public_能源物化量子与分子课件_20261023/PC-QM-molecular structure-0317.pdf",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_006",
+      "course": "能源利用中的物理化学（英）",
+      "sourceFileName": "PC-QM-H-atomic structure-molecular structure.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E8%83%BD%E6%BA%90%E5%88%A9%E7%94%A8%E4%B8%AD%E7%9A%84%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6%EF%BC%88%E8%8B%B1%EF%BC%89&mode=list",
+      "sourceAliases": [
+        "2.6_能源动力类_能源利用中的物理化学（英）/课件/PC-QM-H-atomic structure-molecular structure.pdf",
+        "2.6_能源动力类_能源利用中的物理化学（英）/能源利用中的物理化学（英）_复习笔记_马逸/PC-QM-H-atomic structure-molecular structure.pdf"
+      ],
+      "sourceBytes": 2697309,
+      "sourceSHA256": "c7677221cd893fa9914c99e9d2d9108ce503bee8fd0860f3865a83889360a571",
+      "PDFFilePages": 32,
+      "gitRepoPath": "工程技术类/能源利用中的物理化学（英）/讲义/黄逸洋public_能源物化量子与分子课件_20261023/PC-QM-H-atomic structure-molecular structure.pdf",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_007",
+      "course": "能源利用中的物理化学（英）",
+      "sourceFileName": "PC-QM-Eigen-1dbox-oscillator1.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E8%83%BD%E6%BA%90%E5%88%A9%E7%94%A8%E4%B8%AD%E7%9A%84%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6%EF%BC%88%E8%8B%B1%EF%BC%89&mode=list",
+      "sourceAliases": [
+        "2.6_能源动力类_能源利用中的物理化学（英）/课件/PC-QM-Eigen-1dbox-oscillator1.pdf",
+        "2.6_能源动力类_能源利用中的物理化学（英）/能源利用中的物理化学（英）_复习笔记_马逸/PC-QM-Eigen-1dbox-oscillator1.pdf"
+      ],
+      "sourceBytes": 2223887,
+      "sourceSHA256": "c90a41e910edeabaedc29385f0a513660f75cdb0315f84b7b3016ae2f7efacf1",
+      "PDFFilePages": 30,
+      "gitRepoPath": "工程技术类/能源利用中的物理化学（英）/讲义/黄逸洋public_能源物化量子与分子课件_20261023/PC-QM-Eigen-1dbox-oscillator1.pdf",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_008",
+      "course": "能源利用中的物理化学（英）",
+      "sourceFileName": "PC-QM-Basic-operator.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E8%83%BD%E6%BA%90%E5%88%A9%E7%94%A8%E4%B8%AD%E7%9A%84%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6%EF%BC%88%E8%8B%B1%EF%BC%89&mode=list",
+      "sourceAliases": [
+        "2.6_能源动力类_能源利用中的物理化学（英）/课件/PC-QM-Basic-operator.pdf",
+        "2.6_能源动力类_能源利用中的物理化学（英）/能源利用中的物理化学（英）_复习笔记_马逸/PC-QM-Basic-operator.pdf"
+      ],
+      "sourceBytes": 3558620,
+      "sourceSHA256": "ed7e48df681aec5ec5bef94f443a0084d8bf3ca76db6a81baafde7870fd5d7c6",
+      "PDFFilePages": 53,
+      "gitRepoPath": "工程技术类/能源利用中的物理化学（英）/讲义/黄逸洋public_能源物化量子与分子课件_20261023/PC-QM-Basic-operator.pdf",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_009",
+      "course": "能源利用中的物理化学（英）",
+      "sourceFileName": "PC-Molecular Interaction.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E8%83%BD%E6%BA%90%E5%88%A9%E7%94%A8%E4%B8%AD%E7%9A%84%E7%89%A9%E7%90%86%E5%8C%96%E5%AD%A6%EF%BC%88%E8%8B%B1%EF%BC%89&mode=list",
+      "sourceAliases": [
+        "2.6_能源动力类_能源利用中的物理化学（英）/课件/PC-Molecular Interaction.pdf",
+        "2.6_能源动力类_能源利用中的物理化学（英）/能源利用中的物理化学（英）_复习笔记_马逸/PC-Molecular Interaction.pdf"
+      ],
+      "sourceBytes": 3057986,
+      "sourceSHA256": "e8ce3e3c4bf156c14cc0069009a228f0b40299fbf6ca34cb6fa18338b34244aa",
+      "PDFFilePages": 40,
+      "gitRepoPath": "工程技术类/能源利用中的物理化学（英）/讲义/黄逸洋public_能源物化量子与分子课件_20261023/PC-Molecular Interaction.pdf",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    }
+  ],
+  "reviewBoundary": "131个锁定原件全部独立重核本地SHA/OID；79PDF共3306文件页核文字、元信息、批注/表单/附件，实际查看161个首尾/标记角色页及100幅去重栅格图，非3306页全视觉审查。旧Office按FIB/CLX正文、属性边界、ASCII/UTF16流核对；OOXML核XML、core、外部关系、CRC及栅格媒体。23幅WMF仅静态字段核对，GDI预览多为空白，不称完整矢量审阅；配套公式OLE静态读，未执行对象。12GIF均单帧。公开教师署名/教学联系、课件日期及普通版权保留。",
+  "verification": "仅发布已完成云盘归档的六课锁定候选中可用部分；云盘逐名及代表文件SHA沿上游证据，不称本轮全部目标SHA回取。原包、密码、身份暂缓材料及私有审阅均不发布，原canonical文件及旧说明不覆盖。回忆和参考解答不认证官方性与数学正确性。"
+}

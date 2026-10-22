@@ -1,0 +1,757 @@
+{
+  "date": "2026-10-23",
+  "source": "黄逸洋public",
+  "course": "燃烧理论",
+  "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+  "cloudDirectoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E5%B7%A5%E7%A8%8B%E6%8A%80%E6%9C%AF%E7%B1%BB/%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E9%BB%84%E9%80%B8%E6%B4%8Bpublic_%E6%95%99%E6%9D%90%E9%83%A8%E5%88%86%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%E5%9B%BE_20261023",
+  "role": "31张教材配套参考解答图片，按原图名保存，包含打印与手写演算、网页水印及来源装饰标记。现有章节覆盖第二、三、四、五、七、八、九章的部分题，不认定为全书完整答案或本课教师标准解答；题目与版次匹配仍以原页为准。",
+  "upstreamSourceNoteSHA256": "a5ab3c43a981dd871ba5355b846632b4c242b3579f9e31d0304a84fa57cf2a38",
+  "files": [
+    {
+      "sourceLabel": "E2_045",
+      "course": "燃烧理论",
+      "sourceFileName": "第九章-3.jpg",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+      "sourceAliases": [
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论",
+          "member": "2.6_能源动力类_燃烧理论/燃烧理论_复习笔记_马逸/教材及部分参考答案/部分参考答案/第9章/第九章-3.jpg"
+        },
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论包内_教材及部分参考答案",
+          "member": "教材及部分参考答案/部分参考答案/第9章/第九章-3.jpg"
+        }
+      ],
+      "sourceBytes": 72086,
+      "sourceSHA256": "9288ddf6752d6d1a93f540887425ff6ecaefb3317d1d792222e3deebb3927572",
+      "PDFFilePages": null,
+      "gitRepoPath": "工程技术类/燃烧理论/习题与解答/黄逸洋public_教材部分参考答案图_20261023/第九章-3.jpg",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_046",
+      "course": "燃烧理论",
+      "sourceFileName": "第九章-2.jpg",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+      "sourceAliases": [
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论",
+          "member": "2.6_能源动力类_燃烧理论/燃烧理论_复习笔记_马逸/教材及部分参考答案/部分参考答案/第9章/第九章-2.jpg"
+        },
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论包内_教材及部分参考答案",
+          "member": "教材及部分参考答案/部分参考答案/第9章/第九章-2.jpg"
+        }
+      ],
+      "sourceBytes": 91308,
+      "sourceSHA256": "fa7b2decee6f18706f028bb94a9a1cec3016a68816112d4fd7f3d00eb3fced49",
+      "PDFFilePages": null,
+      "gitRepoPath": "工程技术类/燃烧理论/习题与解答/黄逸洋public_教材部分参考答案图_20261023/第九章-2.jpg",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_047",
+      "course": "燃烧理论",
+      "sourceFileName": "第九章-1.jpg",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+      "sourceAliases": [
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论",
+          "member": "2.6_能源动力类_燃烧理论/燃烧理论_复习笔记_马逸/教材及部分参考答案/部分参考答案/第9章/第九章-1.jpg"
+        },
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论包内_教材及部分参考答案",
+          "member": "教材及部分参考答案/部分参考答案/第9章/第九章-1.jpg"
+        }
+      ],
+      "sourceBytes": 90393,
+      "sourceSHA256": "564732c8fe8bd5237f5844b6dd11b453f2b252741b1641a858a055ed730c3248",
+      "PDFFilePages": null,
+      "gitRepoPath": "工程技术类/燃烧理论/习题与解答/黄逸洋public_教材部分参考答案图_20261023/第九章-1.jpg",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_048",
+      "course": "燃烧理论",
+      "sourceFileName": "第八章-5.gif",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+      "sourceAliases": [
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论",
+          "member": "2.6_能源动力类_燃烧理论/燃烧理论_复习笔记_马逸/教材及部分参考答案/部分参考答案/第8章/第八章-5.gif"
+        },
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论包内_教材及部分参考答案",
+          "member": "教材及部分参考答案/部分参考答案/第8章/第八章-5.gif"
+        }
+      ],
+      "sourceBytes": 31207,
+      "sourceSHA256": "48e049a9c750e7f0ef528caa34ca84e0d522f88809b398553f91d610c98cb0ba",
+      "PDFFilePages": null,
+      "gitRepoPath": "工程技术类/燃烧理论/习题与解答/黄逸洋public_教材部分参考答案图_20261023/第八章-5.gif",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_049",
+      "course": "燃烧理论",
+      "sourceFileName": "第八章-4.gif",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+      "sourceAliases": [
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论",
+          "member": "2.6_能源动力类_燃烧理论/燃烧理论_复习笔记_马逸/教材及部分参考答案/部分参考答案/第8章/第八章-4.gif"
+        },
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论包内_教材及部分参考答案",
+          "member": "教材及部分参考答案/部分参考答案/第8章/第八章-4.gif"
+        }
+      ],
+      "sourceBytes": 34649,
+      "sourceSHA256": "f24bde144b8b525deef2d865bdca89049832c6ceafb68abd2395a31724b5497d",
+      "PDFFilePages": null,
+      "gitRepoPath": "工程技术类/燃烧理论/习题与解答/黄逸洋public_教材部分参考答案图_20261023/第八章-4.gif",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_050",
+      "course": "燃烧理论",
+      "sourceFileName": "第八章-3.jpg",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+      "sourceAliases": [
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论",
+          "member": "2.6_能源动力类_燃烧理论/燃烧理论_复习笔记_马逸/教材及部分参考答案/部分参考答案/第8章/第八章-3.jpg"
+        },
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论包内_教材及部分参考答案",
+          "member": "教材及部分参考答案/部分参考答案/第8章/第八章-3.jpg"
+        }
+      ],
+      "sourceBytes": 219155,
+      "sourceSHA256": "9560c0389724fc30b346caf3f3a30aa94acb38d7a4c112ab2634a04b2f6b0713",
+      "PDFFilePages": null,
+      "gitRepoPath": "工程技术类/燃烧理论/习题与解答/黄逸洋public_教材部分参考答案图_20261023/第八章-3.jpg",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_051",
+      "course": "燃烧理论",
+      "sourceFileName": "第八章-2.gif",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+      "sourceAliases": [
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论",
+          "member": "2.6_能源动力类_燃烧理论/燃烧理论_复习笔记_马逸/教材及部分参考答案/部分参考答案/第8章/第八章-2.gif"
+        },
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论包内_教材及部分参考答案",
+          "member": "教材及部分参考答案/部分参考答案/第8章/第八章-2.gif"
+        }
+      ],
+      "sourceBytes": 32410,
+      "sourceSHA256": "b27ec7e4f341e9ad590e135143b93b620c361b4ff99cbadb90b2e869c28ff633",
+      "PDFFilePages": null,
+      "gitRepoPath": "工程技术类/燃烧理论/习题与解答/黄逸洋public_教材部分参考答案图_20261023/第八章-2.gif",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_052",
+      "course": "燃烧理论",
+      "sourceFileName": "第八章-1.gif",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+      "sourceAliases": [
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论",
+          "member": "2.6_能源动力类_燃烧理论/燃烧理论_复习笔记_马逸/教材及部分参考答案/部分参考答案/第8章/第八章-1.gif"
+        },
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论包内_教材及部分参考答案",
+          "member": "教材及部分参考答案/部分参考答案/第8章/第八章-1.gif"
+        }
+      ],
+      "sourceBytes": 35934,
+      "sourceSHA256": "b7aa7778697a81b141b747b0f2c5336864006823ed98bc914cc2d2e834095a83",
+      "PDFFilePages": null,
+      "gitRepoPath": "工程技术类/燃烧理论/习题与解答/黄逸洋public_教材部分参考答案图_20261023/第八章-1.gif",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_053",
+      "course": "燃烧理论",
+      "sourceFileName": "第七章-2.jpg",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+      "sourceAliases": [
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论",
+          "member": "2.6_能源动力类_燃烧理论/燃烧理论_复习笔记_马逸/教材及部分参考答案/部分参考答案/第7章/第七章-2.jpg"
+        },
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论包内_教材及部分参考答案",
+          "member": "教材及部分参考答案/部分参考答案/第7章/第七章-2.jpg"
+        }
+      ],
+      "sourceBytes": 30290,
+      "sourceSHA256": "1c6214fa3e3e99e4079674c41af8dcd2f12fa3b9c55975ea54a342c81cbad720",
+      "PDFFilePages": null,
+      "gitRepoPath": "工程技术类/燃烧理论/习题与解答/黄逸洋public_教材部分参考答案图_20261023/第七章-2.jpg",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_054",
+      "course": "燃烧理论",
+      "sourceFileName": "第七章-1.jpg",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+      "sourceAliases": [
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论",
+          "member": "2.6_能源动力类_燃烧理论/燃烧理论_复习笔记_马逸/教材及部分参考答案/部分参考答案/第7章/第七章-1.jpg"
+        },
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论包内_教材及部分参考答案",
+          "member": "教材及部分参考答案/部分参考答案/第7章/第七章-1.jpg"
+        }
+      ],
+      "sourceBytes": 101633,
+      "sourceSHA256": "f0a370b62b223660a5fde45e390da9e3c19ec194495034d0dfd0fb7f2b022164",
+      "PDFFilePages": null,
+      "gitRepoPath": "工程技术类/燃烧理论/习题与解答/黄逸洋public_教材部分参考答案图_20261023/第七章-1.jpg",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_055",
+      "course": "燃烧理论",
+      "sourceFileName": "第五章-5.gif",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+      "sourceAliases": [
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论",
+          "member": "2.6_能源动力类_燃烧理论/燃烧理论_复习笔记_马逸/教材及部分参考答案/部分参考答案/第5章/第五章-5.gif"
+        },
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论包内_教材及部分参考答案",
+          "member": "教材及部分参考答案/部分参考答案/第5章/第五章-5.gif"
+        }
+      ],
+      "sourceBytes": 24664,
+      "sourceSHA256": "25e7530ee6596e4afeedc7e09607121373efa1f0fde58519ac55fb01e68e9f9c",
+      "PDFFilePages": null,
+      "gitRepoPath": "工程技术类/燃烧理论/习题与解答/黄逸洋public_教材部分参考答案图_20261023/第五章-5.gif",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_056",
+      "course": "燃烧理论",
+      "sourceFileName": "第五章-4.gif",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+      "sourceAliases": [
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论",
+          "member": "2.6_能源动力类_燃烧理论/燃烧理论_复习笔记_马逸/教材及部分参考答案/部分参考答案/第5章/第五章-4.gif"
+        },
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论包内_教材及部分参考答案",
+          "member": "教材及部分参考答案/部分参考答案/第5章/第五章-4.gif"
+        }
+      ],
+      "sourceBytes": 60137,
+      "sourceSHA256": "2b433b109d4c4fa5405e617dce98f18e48bef2cc2a82e1eaa8a60e96cf28ea54",
+      "PDFFilePages": null,
+      "gitRepoPath": "工程技术类/燃烧理论/习题与解答/黄逸洋public_教材部分参考答案图_20261023/第五章-4.gif",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_057",
+      "course": "燃烧理论",
+      "sourceFileName": "第五章-3.gif",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+      "sourceAliases": [
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论",
+          "member": "2.6_能源动力类_燃烧理论/燃烧理论_复习笔记_马逸/教材及部分参考答案/部分参考答案/第5章/第五章-3.gif"
+        },
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论包内_教材及部分参考答案",
+          "member": "教材及部分参考答案/部分参考答案/第5章/第五章-3.gif"
+        }
+      ],
+      "sourceBytes": 50732,
+      "sourceSHA256": "49cdba0ca69294e1c90c5f9f744ad0114be48e6adbb1ca9863ae6951ca61865e",
+      "PDFFilePages": null,
+      "gitRepoPath": "工程技术类/燃烧理论/习题与解答/黄逸洋public_教材部分参考答案图_20261023/第五章-3.gif",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_058",
+      "course": "燃烧理论",
+      "sourceFileName": "第五章-2.gif",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+      "sourceAliases": [
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论",
+          "member": "2.6_能源动力类_燃烧理论/燃烧理论_复习笔记_马逸/教材及部分参考答案/部分参考答案/第5章/第五章-2.gif"
+        },
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论包内_教材及部分参考答案",
+          "member": "教材及部分参考答案/部分参考答案/第5章/第五章-2.gif"
+        }
+      ],
+      "sourceBytes": 45350,
+      "sourceSHA256": "1f8298f903cc49b8318233b88044521aa358d04ebc13becb358105970dd87f28",
+      "PDFFilePages": null,
+      "gitRepoPath": "工程技术类/燃烧理论/习题与解答/黄逸洋public_教材部分参考答案图_20261023/第五章-2.gif",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_059",
+      "course": "燃烧理论",
+      "sourceFileName": "第五章-1.jpg",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+      "sourceAliases": [
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论",
+          "member": "2.6_能源动力类_燃烧理论/燃烧理论_复习笔记_马逸/教材及部分参考答案/部分参考答案/第5章/第五章-1.jpg"
+        },
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论包内_教材及部分参考答案",
+          "member": "教材及部分参考答案/部分参考答案/第5章/第五章-1.jpg"
+        }
+      ],
+      "sourceBytes": 281309,
+      "sourceSHA256": "464059e7abf6d35601c34c2beff26f3e33fcc75a2db867ce005a94ee0912c1b5",
+      "PDFFilePages": null,
+      "gitRepoPath": "工程技术类/燃烧理论/习题与解答/黄逸洋public_教材部分参考答案图_20261023/第五章-1.jpg",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_060",
+      "course": "燃烧理论",
+      "sourceFileName": "第四章-4.gif",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+      "sourceAliases": [
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论",
+          "member": "2.6_能源动力类_燃烧理论/燃烧理论_复习笔记_马逸/教材及部分参考答案/部分参考答案/第4章/第四章-4.gif"
+        },
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论包内_教材及部分参考答案",
+          "member": "教材及部分参考答案/部分参考答案/第4章/第四章-4.gif"
+        }
+      ],
+      "sourceBytes": 49152,
+      "sourceSHA256": "2c33fb5ccd4dc867f2e775b83d0f675a6d61bf563c7468f246dd16f3dd620d09",
+      "PDFFilePages": null,
+      "gitRepoPath": "工程技术类/燃烧理论/习题与解答/黄逸洋public_教材部分参考答案图_20261023/第四章-4.gif",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_061",
+      "course": "燃烧理论",
+      "sourceFileName": "第四章-3.gif",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+      "sourceAliases": [
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论",
+          "member": "2.6_能源动力类_燃烧理论/燃烧理论_复习笔记_马逸/教材及部分参考答案/部分参考答案/第4章/第四章-3.gif"
+        },
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论包内_教材及部分参考答案",
+          "member": "教材及部分参考答案/部分参考答案/第4章/第四章-3.gif"
+        }
+      ],
+      "sourceBytes": 43783,
+      "sourceSHA256": "9462aa09f00e6dd14296e15c5c7cfa87140202b408c21d77293559b5add39161",
+      "PDFFilePages": null,
+      "gitRepoPath": "工程技术类/燃烧理论/习题与解答/黄逸洋public_教材部分参考答案图_20261023/第四章-3.gif",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_062",
+      "course": "燃烧理论",
+      "sourceFileName": "第四章-2.gif",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+      "sourceAliases": [
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论",
+          "member": "2.6_能源动力类_燃烧理论/燃烧理论_复习笔记_马逸/教材及部分参考答案/部分参考答案/第4章/第四章-2.gif"
+        },
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论包内_教材及部分参考答案",
+          "member": "教材及部分参考答案/部分参考答案/第4章/第四章-2.gif"
+        }
+      ],
+      "sourceBytes": 40997,
+      "sourceSHA256": "ac9d90fb0fd93ac95b1f51747a6bfb4614f95d74355998303f49df5c787fa998",
+      "PDFFilePages": null,
+      "gitRepoPath": "工程技术类/燃烧理论/习题与解答/黄逸洋public_教材部分参考答案图_20261023/第四章-2.gif",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_063",
+      "course": "燃烧理论",
+      "sourceFileName": "第四章-1.gif",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+      "sourceAliases": [
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论",
+          "member": "2.6_能源动力类_燃烧理论/燃烧理论_复习笔记_马逸/教材及部分参考答案/部分参考答案/第4章/第四章-1.gif"
+        },
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论包内_教材及部分参考答案",
+          "member": "教材及部分参考答案/部分参考答案/第4章/第四章-1.gif"
+        }
+      ],
+      "sourceBytes": 47656,
+      "sourceSHA256": "fbe03ee79ae824ee41a2d6cd66f067c6a0e3051b1cae1be455c38b366b00abab",
+      "PDFFilePages": null,
+      "gitRepoPath": "工程技术类/燃烧理论/习题与解答/黄逸洋public_教材部分参考答案图_20261023/第四章-1.gif",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_064",
+      "course": "燃烧理论",
+      "sourceFileName": "第三章-4.jpg",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+      "sourceAliases": [
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论",
+          "member": "2.6_能源动力类_燃烧理论/燃烧理论_复习笔记_马逸/教材及部分参考答案/部分参考答案/第3章/第三章-4.jpg"
+        },
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论包内_教材及部分参考答案",
+          "member": "教材及部分参考答案/部分参考答案/第3章/第三章-4.jpg"
+        }
+      ],
+      "sourceBytes": 99141,
+      "sourceSHA256": "23674e57609999284199d88eefa9bd8244a35a3e2b4e596286e2e17472d88bd5",
+      "PDFFilePages": null,
+      "gitRepoPath": "工程技术类/燃烧理论/习题与解答/黄逸洋public_教材部分参考答案图_20261023/第三章-4.jpg",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_065",
+      "course": "燃烧理论",
+      "sourceFileName": "第三章-3.jpg",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+      "sourceAliases": [
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论",
+          "member": "2.6_能源动力类_燃烧理论/燃烧理论_复习笔记_马逸/教材及部分参考答案/部分参考答案/第3章/第三章-3.jpg"
+        },
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论包内_教材及部分参考答案",
+          "member": "教材及部分参考答案/部分参考答案/第3章/第三章-3.jpg"
+        }
+      ],
+      "sourceBytes": 141719,
+      "sourceSHA256": "611847a9289c869a9bb873a9b70d964d3bf4ce7f6eb381cbd727a3eef66661bc",
+      "PDFFilePages": null,
+      "gitRepoPath": "工程技术类/燃烧理论/习题与解答/黄逸洋public_教材部分参考答案图_20261023/第三章-3.jpg",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_066",
+      "course": "燃烧理论",
+      "sourceFileName": "第三章-2.jpg",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+      "sourceAliases": [
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论",
+          "member": "2.6_能源动力类_燃烧理论/燃烧理论_复习笔记_马逸/教材及部分参考答案/部分参考答案/第3章/第三章-2.jpg"
+        },
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论包内_教材及部分参考答案",
+          "member": "教材及部分参考答案/部分参考答案/第3章/第三章-2.jpg"
+        }
+      ],
+      "sourceBytes": 134751,
+      "sourceSHA256": "a3a6c3ab31d94d61eebbe78641627a4c2ecbdd608ed202c45407c8f9a9481f50",
+      "PDFFilePages": null,
+      "gitRepoPath": "工程技术类/燃烧理论/习题与解答/黄逸洋public_教材部分参考答案图_20261023/第三章-2.jpg",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_067",
+      "course": "燃烧理论",
+      "sourceFileName": "第三章-1.jpg",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+      "sourceAliases": [
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论",
+          "member": "2.6_能源动力类_燃烧理论/燃烧理论_复习笔记_马逸/教材及部分参考答案/部分参考答案/第3章/第三章-1.jpg"
+        },
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论包内_教材及部分参考答案",
+          "member": "教材及部分参考答案/部分参考答案/第3章/第三章-1.jpg"
+        }
+      ],
+      "sourceBytes": 100664,
+      "sourceSHA256": "f078fd3f1814ecf928cad129e947f0de2c40723a7cc016cbd45f0939102a449a",
+      "PDFFilePages": null,
+      "gitRepoPath": "工程技术类/燃烧理论/习题与解答/黄逸洋public_教材部分参考答案图_20261023/第三章-1.jpg",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_068",
+      "course": "燃烧理论",
+      "sourceFileName": "第二章-8.jpg",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+      "sourceAliases": [
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论",
+          "member": "2.6_能源动力类_燃烧理论/燃烧理论_复习笔记_马逸/教材及部分参考答案/部分参考答案/第2章/第二章-8.jpg"
+        },
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论包内_教材及部分参考答案",
+          "member": "教材及部分参考答案/部分参考答案/第2章/第二章-8.jpg"
+        }
+      ],
+      "sourceBytes": 71520,
+      "sourceSHA256": "a4a8a4f4a8ced406a0c953540fbf405885e7296250c5ebf833f9dd03cc45a479",
+      "PDFFilePages": null,
+      "gitRepoPath": "工程技术类/燃烧理论/习题与解答/黄逸洋public_教材部分参考答案图_20261023/第二章-8.jpg",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_069",
+      "course": "燃烧理论",
+      "sourceFileName": "第二章-7.jpg",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+      "sourceAliases": [
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论",
+          "member": "2.6_能源动力类_燃烧理论/燃烧理论_复习笔记_马逸/教材及部分参考答案/部分参考答案/第2章/第二章-7.jpg"
+        },
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论包内_教材及部分参考答案",
+          "member": "教材及部分参考答案/部分参考答案/第2章/第二章-7.jpg"
+        }
+      ],
+      "sourceBytes": 80216,
+      "sourceSHA256": "9bd0ea507ee161ff2c609f2fa7f320eeb426769bc253dde53ddc4eee4c4a88e5",
+      "PDFFilePages": null,
+      "gitRepoPath": "工程技术类/燃烧理论/习题与解答/黄逸洋public_教材部分参考答案图_20261023/第二章-7.jpg",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_070",
+      "course": "燃烧理论",
+      "sourceFileName": "第二章-6.jpg",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+      "sourceAliases": [
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论",
+          "member": "2.6_能源动力类_燃烧理论/燃烧理论_复习笔记_马逸/教材及部分参考答案/部分参考答案/第2章/第二章-6.jpg"
+        },
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论包内_教材及部分参考答案",
+          "member": "教材及部分参考答案/部分参考答案/第2章/第二章-6.jpg"
+        }
+      ],
+      "sourceBytes": 105290,
+      "sourceSHA256": "e7501b83d1a58aece86521c0d359871636a16168985439597d956690ca551723",
+      "PDFFilePages": null,
+      "gitRepoPath": "工程技术类/燃烧理论/习题与解答/黄逸洋public_教材部分参考答案图_20261023/第二章-6.jpg",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_071",
+      "course": "燃烧理论",
+      "sourceFileName": "第二章-5.jpg",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+      "sourceAliases": [
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论",
+          "member": "2.6_能源动力类_燃烧理论/燃烧理论_复习笔记_马逸/教材及部分参考答案/部分参考答案/第2章/第二章-5.jpg"
+        },
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论包内_教材及部分参考答案",
+          "member": "教材及部分参考答案/部分参考答案/第2章/第二章-5.jpg"
+        }
+      ],
+      "sourceBytes": 107353,
+      "sourceSHA256": "3bd6242f52fa7bdf329bc87cec9f1c41341f8d5e2674d806154c995924daabe4",
+      "PDFFilePages": null,
+      "gitRepoPath": "工程技术类/燃烧理论/习题与解答/黄逸洋public_教材部分参考答案图_20261023/第二章-5.jpg",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_072",
+      "course": "燃烧理论",
+      "sourceFileName": "第二章-4.jpg",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+      "sourceAliases": [
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论",
+          "member": "2.6_能源动力类_燃烧理论/燃烧理论_复习笔记_马逸/教材及部分参考答案/部分参考答案/第2章/第二章-4.jpg"
+        },
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论包内_教材及部分参考答案",
+          "member": "教材及部分参考答案/部分参考答案/第2章/第二章-4.jpg"
+        }
+      ],
+      "sourceBytes": 89714,
+      "sourceSHA256": "51e6e06aca8b3b1774b9803036423324b90d614ddc44708b65eba767ccf96a0d",
+      "PDFFilePages": null,
+      "gitRepoPath": "工程技术类/燃烧理论/习题与解答/黄逸洋public_教材部分参考答案图_20261023/第二章-4.jpg",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_073",
+      "course": "燃烧理论",
+      "sourceFileName": "第二章-3.jpg",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+      "sourceAliases": [
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论",
+          "member": "2.6_能源动力类_燃烧理论/燃烧理论_复习笔记_马逸/教材及部分参考答案/部分参考答案/第2章/第二章-3.jpg"
+        },
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论包内_教材及部分参考答案",
+          "member": "教材及部分参考答案/部分参考答案/第2章/第二章-3.jpg"
+        }
+      ],
+      "sourceBytes": 73694,
+      "sourceSHA256": "b0bd9b0b5f13786329861ed27039307309e5757fe4b6fd77578059ce9a9ba21d",
+      "PDFFilePages": null,
+      "gitRepoPath": "工程技术类/燃烧理论/习题与解答/黄逸洋public_教材部分参考答案图_20261023/第二章-3.jpg",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_074",
+      "course": "燃烧理论",
+      "sourceFileName": "第二章-2.jpg",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+      "sourceAliases": [
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论",
+          "member": "2.6_能源动力类_燃烧理论/燃烧理论_复习笔记_马逸/教材及部分参考答案/部分参考答案/第2章/第二章-2.jpg"
+        },
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论包内_教材及部分参考答案",
+          "member": "教材及部分参考答案/部分参考答案/第2章/第二章-2.jpg"
+        }
+      ],
+      "sourceBytes": 76984,
+      "sourceSHA256": "348171d832ab1bb9bd768678eb3804a80138a409df01e82b6d866a57e9fec3c6",
+      "PDFFilePages": null,
+      "gitRepoPath": "工程技术类/燃烧理论/习题与解答/黄逸洋public_教材部分参考答案图_20261023/第二章-2.jpg",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    },
+    {
+      "sourceLabel": "E2_075",
+      "course": "燃烧理论",
+      "sourceFileName": "第二章-1.jpg",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+      "sourceAliases": [
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论",
+          "member": "2.6_能源动力类_燃烧理论/燃烧理论_复习笔记_马逸/教材及部分参考答案/部分参考答案/第2章/第二章-1.jpg"
+        },
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E7%87%83%E7%83%A7%E7%90%86%E8%AE%BA&mode=list",
+          "archive": "燃烧理论包内_教材及部分参考答案",
+          "member": "教材及部分参考答案/部分参考答案/第2章/第二章-1.jpg"
+        }
+      ],
+      "sourceBytes": 66813,
+      "sourceSHA256": "50e52bfa4956202bec1679723752d40bd3cafed0e3e94ac59eb8016671f3662d",
+      "PDFFilePages": null,
+      "gitRepoPath": "工程技术类/燃烧理论/习题与解答/黄逸洋public_教材部分参考答案图_20261023/第二章-1.jpg",
+      "originalGitStatus": "published_original_bytes",
+      "gitSyncStatus": "published_original_bytes"
+    }
+  ],
+  "reviewBoundary": "131个锁定原件全部独立重核本地SHA/OID；79PDF共3306文件页核文字、元信息、批注/表单/附件，实际查看161个首尾/标记角色页及100幅去重栅格图，非3306页全视觉审查。旧Office按FIB/CLX正文、属性边界、ASCII/UTF16流核对；OOXML核XML、core、外部关系、CRC及栅格媒体。23幅WMF仅静态字段核对，GDI预览多为空白，不称完整矢量审阅；配套公式OLE静态读，未执行对象。12GIF均单帧。公开教师署名/教学联系、课件日期及普通版权保留。",
+  "verification": "仅发布已完成云盘归档的六课锁定候选中可用部分；云盘逐名及代表文件SHA沿上游证据，不称本轮全部目标SHA回取。原包、密码、身份暂缓材料及私有审阅均不发布，原canonical文件及旧说明不覆盖。回忆和参考解答不认证官方性与数学正确性。"
+}
