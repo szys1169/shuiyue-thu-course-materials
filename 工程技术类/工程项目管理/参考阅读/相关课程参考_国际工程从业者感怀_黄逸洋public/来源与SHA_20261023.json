@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-23",
+  "source": "黄逸洋public",
+  "course": "工程项目管理",
+  "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%B7%A5%E7%A8%8B%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86&mode=list",
+  "cloudDirectoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E5%B7%A5%E7%A8%8B%E6%8A%80%E6%9C%AF%E7%B1%BB/%E5%B7%A5%E7%A8%8B%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86/%E5%8F%82%E8%80%83%E9%98%85%E8%AF%BB/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%9B%BD%E9%99%85%E5%B7%A5%E7%A8%8B%E4%BB%8E%E4%B8%9A%E8%80%85%E6%84%9F%E6%80%80_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+  "role": "7页从业反思，原文说明已经删除单位和个人名，作为工程项目管理参考阅读；不归考试真题。",
+  "files": [
+    {
+      "sourceLabel": "PM27",
+      "group": 5,
+      "sourceFileName": "国际工程从业者感怀.pdf",
+      "sameSHAArchiveMemberPathCount": 1,
+      "bytes": 323458,
+      "sha256": "3e7214d6b9b4b966ef4ad6c942b43d0b18ea64d410bb929415bfa2bc296348f5",
+      "PDFFilePages": 7,
+      "sourceEncrypted": true,
+      "LFS": false,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/工程项目管理/参考阅读/相关课程参考_国际工程从业者感怀_黄逸洋public/国际工程从业者感怀.pdf"
+    }
+  ],
+  "verification": "仅本批28个已归档本地代表原件，引用此前云盘归档证据；本批没有重下全部云盘原件、读取原ZIP或进行云盘写入。28原件与12本地旧说明原SHA保持。原PMBOK个人会员许可水印材料与密码文本不纳入、不读取其私值或新增发布；书目中的ISBN/LCCN、普通出版版权声明以及公开教学联系信息按实际角色区分。大于100MiB的教材以Git LFS保存原始字节，其原SHA列于清单。",
+  "reviewBoundary": "28原件逐SHA与仓库blob核对。26PDF共3515文件页核全部可提取文字、Info/XMP、批注字段与附件信息，并实际查看60个首尾及标记角色页；并非3515页全视觉审阅。17个受保护PDF用来源自带密码仅本地只读认证，公开保持原加密字节，不附密码文本。旧DOC按FIB/CLX正文与OLE属性核对，DOCX核全部XML/core/关系，均无内嵌图或执行宏。两书内嵌JPEG封面检查图像及EXIF/GPS，不独立提取发布；批注和原排版保留。",
+  "rawArchivesPublished": false
+}
