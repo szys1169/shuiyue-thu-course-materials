@@ -1,0 +1,145 @@
+{
+  "date": "2026-10-23",
+  "source": "黄逸洋public",
+  "course": "工程经济学",
+  "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%B7%A5%E7%A8%8B%E7%BB%8F%E6%B5%8E%E5%AD%A6&mode=list",
+  "cloudDirectoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E5%B7%A5%E7%A8%8B%E6%8A%80%E6%9C%AF%E7%B1%BB/%E5%B7%A5%E7%A8%8B%E7%BB%8F%E6%B5%8E%E5%AD%A6/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%90%B4%E7%92%9F%E5%8D%81%E4%BA%8C%E8%AE%B2PDF_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+  "role": "12份PDF正文为工程经济学分章课件，来源目录名为复习笔记，但按实际教师课件归入讲义。包含成本、时间价值、项目评价、风险、市场、融资、实物期权、公共投资和可研；公开教学邮箱及参考文献保留。 课件正文日期为2020年秋，保留原页序、内容和教学联系信息，不据此认定当前任课安排。",
+  "files": [
+    {
+      "sourceLabel": "EE07",
+      "group": 2,
+      "sourceFileName": "9. 资金来源与融资方案.pdf",
+      "sameSHAArchiveMemberPathCount": 2,
+      "bytes": 1159614,
+      "sha256": "cade576712b792717ded5cfdf7c0c5e01f85ee546a70c96e3ae16c7ca5d5b9cf",
+      "PDFFilePages": 8,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/工程经济学/讲义/相关课程参考_吴璟十二讲PDF_黄逸洋public/9. 资金来源与融资方案.pdf"
+    },
+    {
+      "sourceLabel": "EE08",
+      "group": 2,
+      "sourceFileName": "8. 市场分析.pdf",
+      "sameSHAArchiveMemberPathCount": 2,
+      "bytes": 1180452,
+      "sha256": "42a5022b1d0599c09734ccd73d6aa623623b8c8afde0e822ab6f654f4fddb0b9",
+      "PDFFilePages": 7,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/工程经济学/讲义/相关课程参考_吴璟十二讲PDF_黄逸洋public/8. 市场分析.pdf"
+    },
+    {
+      "sourceLabel": "EE09",
+      "group": 2,
+      "sourceFileName": "7. 风险与不确定性分析.pdf",
+      "sameSHAArchiveMemberPathCount": 2,
+      "bytes": 1513864,
+      "sha256": "f76ea6715bf3a62313a42dee8b4e174154711bd4fef799e5cf2903868dc61767",
+      "PDFFilePages": 8,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/工程经济学/讲义/相关课程参考_吴璟十二讲PDF_黄逸洋public/7. 风险与不确定性分析.pdf"
+    },
+    {
+      "sourceLabel": "EE10",
+      "group": 2,
+      "sourceFileName": "6. 多方案经济评价方法.pdf",
+      "sameSHAArchiveMemberPathCount": 2,
+      "bytes": 740038,
+      "sha256": "8ed10df2aec076b84f12dff256284ffeb02aa5fa83fb2fa63633d029c1c1b522",
+      "PDFFilePages": 7,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/工程经济学/讲义/相关课程参考_吴璟十二讲PDF_黄逸洋public/6. 多方案经济评价方法.pdf"
+    },
+    {
+      "sourceLabel": "EE11",
+      "group": 2,
+      "sourceFileName": "5. 经济效果评价方法.pdf",
+      "sameSHAArchiveMemberPathCount": 2,
+      "bytes": 872365,
+      "sha256": "243454cf72c5cde97fd51a26c4ae2829a7ebc34ac8515ff4dbb13fa736e25f16",
+      "PDFFilePages": 8,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/工程经济学/讲义/相关课程参考_吴璟十二讲PDF_黄逸洋public/5. 经济效果评价方法.pdf"
+    },
+    {
+      "sourceLabel": "EE12",
+      "group": 2,
+      "sourceFileName": "4. 资金的时间价值和现金流量计算.pdf",
+      "sameSHAArchiveMemberPathCount": 2,
+      "bytes": 813708,
+      "sha256": "fe522cc8c2257fcbd423e5944fc55e924bd4d77f37576abc6901e310f0b4c3de",
+      "PDFFilePages": 8,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/工程经济学/讲义/相关课程参考_吴璟十二讲PDF_黄逸洋public/4. 资金的时间价值和现金流量计算.pdf"
+    },
+    {
+      "sourceLabel": "EE13",
+      "group": 2,
+      "sourceFileName": "3. 成本与折旧II.pdf",
+      "sameSHAArchiveMemberPathCount": 2,
+      "bytes": 1039664,
+      "sha256": "084986171c1aeff5fa3d781b40b24c69521bc50bc3ce785a9f58bcc781c12c56",
+      "PDFFilePages": 7,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/工程经济学/讲义/相关课程参考_吴璟十二讲PDF_黄逸洋public/3. 成本与折旧II.pdf"
+    },
+    {
+      "sourceLabel": "EE14",
+      "group": 2,
+      "sourceFileName": "2. 成本与折旧I.pdf",
+      "sameSHAArchiveMemberPathCount": 2,
+      "bytes": 1248534,
+      "sha256": "524fb97eeb4e312c519db72a3f5fc7a28b2972e78e834c84441d5c2777efb26b",
+      "PDFFilePages": 8,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/工程经济学/讲义/相关课程参考_吴璟十二讲PDF_黄逸洋public/2. 成本与折旧I.pdf"
+    },
+    {
+      "sourceLabel": "EE15",
+      "group": 2,
+      "sourceFileName": "12. 可行性研究报告.pdf",
+      "sameSHAArchiveMemberPathCount": 2,
+      "bytes": 778036,
+      "sha256": "b2d4712075e9c9ddd28aa0ca4c9e43af3666bf0e6e8b9a66b65bd49ac2fd7d0e",
+      "PDFFilePages": 6,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/工程经济学/讲义/相关课程参考_吴璟十二讲PDF_黄逸洋public/12. 可行性研究报告.pdf"
+    },
+    {
+      "sourceLabel": "EE16",
+      "group": 2,
+      "sourceFileName": "11. 公共投资项目经济评价.pdf",
+      "sameSHAArchiveMemberPathCount": 2,
+      "bytes": 1298349,
+      "sha256": "7d2d5ca0f3dc05ea3376312f184316cc312b5850d036f62e89c15c74fc3aa03f",
+      "PDFFilePages": 8,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/工程经济学/讲义/相关课程参考_吴璟十二讲PDF_黄逸洋public/11. 公共投资项目经济评价.pdf"
+    },
+    {
+      "sourceLabel": "EE17",
+      "group": 2,
+      "sourceFileName": "10. 实物期权-更新.pdf",
+      "sameSHAArchiveMemberPathCount": 2,
+      "bytes": 1008100,
+      "sha256": "695df2afb7c9ac50a7d48cc293dd6efcbd1604891ef689bbb0f533062d42aae8",
+      "PDFFilePages": 6,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/工程经济学/讲义/相关课程参考_吴璟十二讲PDF_黄逸洋public/10. 实物期权-更新.pdf"
+    },
+    {
+      "sourceLabel": "EE18",
+      "group": 2,
+      "sourceFileName": "1. 绪论.pdf",
+      "sameSHAArchiveMemberPathCount": 2,
+      "bytes": 1891825,
+      "sha256": "230077d103a52b92eaa0f492ad6bf3a347173a4c8fe3858171661253ed57aa68",
+      "PDFFilePages": 9,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/工程经济学/讲义/相关课程参考_吴璟十二讲PDF_黄逸洋public/1. 绪论.pdf"
+    }
+  ],
+  "verification": "本次仅同步6份试题和12份课件，另4份来源说明；引用此前已完成的云盘归档证据，未重新下载全部云盘原件、读取原ZIP或改动云盘。18个本地原件和4份旧说明保持原字节。其余来源课件、作业、案例、压缩包等不在本批，不能据本批称全课程归档完成。",
+  "reviewBoundary": "仅锁定18份PDF逐SHA及仓库blob核对；125文件页全部可提取文字、Info/XMP、批注/表单/附件静态检查，实际查看38个首尾与标记角色页，不称125页全视觉审阅。长数字命中据上下文为净现值计算；身份栏为空。未执行代码、公式或外链。公开教学联系信息与教材参考文献保留。",
+  "rawArchivesPublished": false
+}

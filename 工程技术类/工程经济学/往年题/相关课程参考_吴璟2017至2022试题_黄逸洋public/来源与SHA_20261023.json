@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-23",
+  "source": "黄逸洋public",
+  "course": "工程经济学",
+  "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%B7%A5%E7%A8%8B%E7%BB%8F%E6%B5%8E%E5%AD%A6&mode=list",
+  "cloudDirectoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E5%B7%A5%E7%A8%8B%E6%8A%80%E6%9C%AF%E7%B1%BB/%E5%B7%A5%E7%A8%8B%E7%BB%8F%E6%B5%8E%E5%AD%A6/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%90%B4%E7%92%9F2017%E8%87%B32022%E8%AF%95%E9%A2%98_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+  "role": "7个来源试题路径为6份不同PDF；2022期末与汪远2022秋试题同SHA合并保别名。保留文件原名；名为2021期中的卷头实际写2020—2021学年度秋。身份栏空，长数字候选为答案中的净现值计算，未因数值误删；已给参考答案的内容按原文保留，不保证每题正确。 卷名2022期末的卷面日期为2023-01-06，原名保留；2017、2018、2019、2021、2022期中分别按卷面学年度秋期中识别，不静默改名。",
+  "files": [
+    {
+      "sourceLabel": "EE01",
+      "group": 1,
+      "sourceFileName": "工程经济学-吴璟-2022期末.pdf",
+      "sameSHAArchiveMemberPathCount": 2,
+      "bytes": 328213,
+      "sha256": "cbb528a610defc54309398437deaaeb4367d649421f07fddac87f6a496fd956f",
+      "PDFFilePages": 6,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/工程经济学/往年题/相关课程参考_吴璟2017至2022试题_黄逸洋public/工程经济学-吴璟-2022期末.pdf"
+    },
+    {
+      "sourceLabel": "EE02",
+      "group": 1,
+      "sourceFileName": "工程经济学-吴璟-2022期中.pdf",
+      "sameSHAArchiveMemberPathCount": 1,
+      "bytes": 279355,
+      "sha256": "84d01aac89994fe19d1b6d17be7a8a9693645023deb46a3fe215b8eb100ba644",
+      "PDFFilePages": 6,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/工程经济学/往年题/相关课程参考_吴璟2017至2022试题_黄逸洋public/工程经济学-吴璟-2022期中.pdf"
+    },
+    {
+      "sourceLabel": "EE03",
+      "group": 1,
+      "sourceFileName": "工程经济学-吴璟-2021期中.pdf",
+      "sameSHAArchiveMemberPathCount": 2,
+      "bytes": 388968,
+      "sha256": "ba5d418ddbeafb9bbfb327599505a1967d6fe7a30286ce36716e2e872396f5a3",
+      "PDFFilePages": 6,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/工程经济学/往年题/相关课程参考_吴璟2017至2022试题_黄逸洋public/工程经济学-吴璟-2021期中.pdf"
+    },
+    {
+      "sourceLabel": "EE04",
+      "group": 1,
+      "sourceFileName": "工程经济学-吴璟-2019期中.pdf",
+      "sameSHAArchiveMemberPathCount": 2,
+      "bytes": 696413,
+      "sha256": "8afecae851eb11882135fa56af6a8cf151fbbf5c0e341552577b437c33db22f5",
+      "PDFFilePages": 7,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/工程经济学/往年题/相关课程参考_吴璟2017至2022试题_黄逸洋public/工程经济学-吴璟-2019期中.pdf"
+    },
+    {
+      "sourceLabel": "EE05",
+      "group": 1,
+      "sourceFileName": "工程经济学-吴璟-2018期中.pdf",
+      "sameSHAArchiveMemberPathCount": 2,
+      "bytes": 601831,
+      "sha256": "71ec1e7b4fa849678dd94652b89eee14d05a2eff3f8c717a9aa7bce1cba63f5c",
+      "PDFFilePages": 5,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/工程经济学/往年题/相关课程参考_吴璟2017至2022试题_黄逸洋public/工程经济学-吴璟-2018期中.pdf"
+    },
+    {
+      "sourceLabel": "EE06",
+      "group": 1,
+      "sourceFileName": "工程经济学-吴璟-2017期中.pdf",
+      "sameSHAArchiveMemberPathCount": 1,
+      "bytes": 649296,
+      "sha256": "4a2c3513df09540d7a878b2ba08125b46f3426963cb53422768a90b33a34de69",
+      "PDFFilePages": 5,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/工程经济学/往年题/相关课程参考_吴璟2017至2022试题_黄逸洋public/工程经济学-吴璟-2017期中.pdf"
+    }
+  ],
+  "verification": "本次仅同步6份试题和12份课件，另4份来源说明；引用此前已完成的云盘归档证据，未重新下载全部云盘原件、读取原ZIP或改动云盘。18个本地原件和4份旧说明保持原字节。其余来源课件、作业、案例、压缩包等不在本批，不能据本批称全课程归档完成。",
+  "reviewBoundary": "仅锁定18份PDF逐SHA及仓库blob核对；125文件页全部可提取文字、Info/XMP、批注/表单/附件静态检查，实际查看38个首尾与标记角色页，不称125页全视觉审阅。长数字命中据上下文为净现值计算；身份栏为空。未执行代码、公式或外链。公开教学联系信息与教材参考文献保留。",
+  "rawArchivesPublished": false
+}
