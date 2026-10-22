@@ -1,0 +1,220 @@
+{
+  "title": "线代几何来源：历史试题与样题",
+  "date": "2026-10-23",
+  "repository": "https://github.com/mathsdream/THU-math-source",
+  "classificationBoundary": "来源目录标为2019年前考题参考，包含有明确卷头日期的历史题卷、解答以及样题；不按模拟题文件名改写卷头身份。",
+  "files": [
+    {
+      "sourceName": "1期末考试模拟题5.pdf",
+      "sourceRepositoryPath": "线性代数/线性代数（线代几何版）/往年考题（含老版考题）/老版（2019年前）考题参考/1期末考试模拟题5.pdf",
+      "sourceURL": "https://github.com/mathsdream/THU-math-source/blob/main/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%88%E7%BA%BF%E4%BB%A3%E5%87%A0%E4%BD%95%E7%89%88%EF%BC%89/%E5%BE%80%E5%B9%B4%E8%80%83%E9%A2%98%EF%BC%88%E5%90%AB%E8%80%81%E7%89%88%E8%80%83%E9%A2%98%EF%BC%89/%E8%80%81%E7%89%88%EF%BC%882019%E5%B9%B4%E5%89%8D%EF%BC%89%E8%80%83%E9%A2%98%E5%8F%82%E8%80%83/1%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E6%A8%A1%E6%8B%9F%E9%A2%985.pdf",
+      "bytes": 177344,
+      "sha256": "14c930516347bc3c9cac2b197b68e96670947d2aae954b8affcba8ed3b37e5c5",
+      "gitBlobSHA1": "1c4982ad862ca0cb8bd14568d7efeb904ae0f645",
+      "pages": 2,
+      "role": "历史A卷题目",
+      "evidenceDescription": "卷头线性代数(1)，2016-01-06 A卷；来源文件名模拟题5，卷头与文件名分别保留。",
+      "actuallyViewedPhysicalPages": [
+        1,
+        2
+      ],
+      "reviewBoundary": "全页结构解析；实际视觉为所列首尾/核心页，未称全件逐页阅净或数学审校。",
+      "annotations": 0,
+      "widgets": 0,
+      "embeddedFiles": 0,
+      "repaired": false,
+      "warningsPresent": false
+    },
+    {
+      "sourceName": "1期末考试模拟题5参考解答.pdf",
+      "sourceRepositoryPath": "线性代数/线性代数（线代几何版）/往年考题（含老版考题）/老版（2019年前）考题参考/1期末考试模拟题5参考解答.pdf",
+      "sourceURL": "https://github.com/mathsdream/THU-math-source/blob/main/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%88%E7%BA%BF%E4%BB%A3%E5%87%A0%E4%BD%95%E7%89%88%EF%BC%89/%E5%BE%80%E5%B9%B4%E8%80%83%E9%A2%98%EF%BC%88%E5%90%AB%E8%80%81%E7%89%88%E8%80%83%E9%A2%98%EF%BC%89/%E8%80%81%E7%89%88%EF%BC%882019%E5%B9%B4%E5%89%8D%EF%BC%89%E8%80%83%E9%A2%98%E5%8F%82%E8%80%83/1%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E6%A8%A1%E6%8B%9F%E9%A2%985%E5%8F%82%E8%80%83%E8%A7%A3%E7%AD%94.pdf",
+      "bytes": 189390,
+      "sha256": "bb8aac39ec22b39edd033ab4454a75a25d1dafc993e304990dc83e750c34ea78",
+      "gitBlobSHA1": "fbfd97d422ce7fe53786a9fd387f3c8d91b8776a",
+      "pages": 3,
+      "role": "历史A卷题目及解答",
+      "evidenceDescription": "卷头2016-01-06 A卷，含解答及分值分配说明；不把分值提示当学生实得分。",
+      "actuallyViewedPhysicalPages": [
+        1,
+        3
+      ],
+      "reviewBoundary": "全页结构解析；实际视觉为所列首尾/核心页，未称全件逐页阅净或数学审校。",
+      "annotations": 0,
+      "widgets": 0,
+      "embeddedFiles": 0,
+      "repaired": false,
+      "warningsPresent": false
+    },
+    {
+      "sourceName": "2012-2013期末试题newA卷2.pdf",
+      "sourceRepositoryPath": "线性代数/线性代数（线代几何版）/往年考题（含老版考题）/老版（2019年前）考题参考/2012-2013期末试题newA卷2.pdf",
+      "sourceURL": "https://github.com/mathsdream/THU-math-source/blob/main/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%88%E7%BA%BF%E4%BB%A3%E5%87%A0%E4%BD%95%E7%89%88%EF%BC%89/%E5%BE%80%E5%B9%B4%E8%80%83%E9%A2%98%EF%BC%88%E5%90%AB%E8%80%81%E7%89%88%E8%80%83%E9%A2%98%EF%BC%89/%E8%80%81%E7%89%88%EF%BC%882019%E5%B9%B4%E5%89%8D%EF%BC%89%E8%80%83%E9%A2%98%E5%8F%82%E8%80%83/2012-2013%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98newA%E5%8D%B72.pdf",
+      "bytes": 211170,
+      "sha256": "040754705b355e46d3c8ffd1697c4b2a3daf816abf83cf71855543ade1b7f96a",
+      "gitBlobSHA1": "66af9eaa0d39bb74b92408a070deae5bb9267a47",
+      "pages": 2,
+      "role": "历史期末A卷",
+      "evidenceDescription": "日期2013-01-04；题名学年与文件名存在差异，保留原件并不补订来源年份。",
+      "actuallyViewedPhysicalPages": [
+        1,
+        2
+      ],
+      "reviewBoundary": "全页结构解析；实际视觉为所列首尾/核心页，未称全件逐页阅净或数学审校。",
+      "annotations": 0,
+      "widgets": 0,
+      "embeddedFiles": 0,
+      "repaired": false,
+      "warningsPresent": false
+    },
+    {
+      "sourceName": "2012-2013期末试题newA卷答案.pdf",
+      "sourceRepositoryPath": "线性代数/线性代数（线代几何版）/往年考题（含老版考题）/老版（2019年前）考题参考/2012-2013期末试题newA卷答案.pdf",
+      "sourceURL": "https://github.com/mathsdream/THU-math-source/blob/main/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%88%E7%BA%BF%E4%BB%A3%E5%87%A0%E4%BD%95%E7%89%88%EF%BC%89/%E5%BE%80%E5%B9%B4%E8%80%83%E9%A2%98%EF%BC%88%E5%90%AB%E8%80%81%E7%89%88%E8%80%83%E9%A2%98%EF%BC%89/%E8%80%81%E7%89%88%EF%BC%882019%E5%B9%B4%E5%89%8D%EF%BC%89%E8%80%83%E9%A2%98%E5%8F%82%E8%80%83/2012-2013%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98newA%E5%8D%B7%E7%AD%94%E6%A1%88.pdf",
+      "bytes": 244167,
+      "sha256": "19660a2b036f80c3e1af2a0d94ac115cb3721d7c0a926454815529e00046de19",
+      "gitBlobSHA1": "69d83948c65bcc5243a79936199b276297e5ae20",
+      "pages": 5,
+      "role": "历史期末A卷及解答",
+      "evidenceDescription": "日期2013-01-04；含解答，文件名和原题头并列记录。",
+      "actuallyViewedPhysicalPages": [
+        1,
+        5
+      ],
+      "reviewBoundary": "全页结构解析；实际视觉为所列首尾/核心页，未称全件逐页阅净或数学审校。",
+      "annotations": 0,
+      "widgets": 0,
+      "embeddedFiles": 0,
+      "repaired": false,
+      "warningsPresent": false
+    },
+    {
+      "sourceName": "2013-2014期末试题newA卷.pdf",
+      "sourceRepositoryPath": "线性代数/线性代数（线代几何版）/往年考题（含老版考题）/老版（2019年前）考题参考/2013-2014期末试题newA卷.pdf",
+      "sourceURL": "https://github.com/mathsdream/THU-math-source/blob/main/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%88%E7%BA%BF%E4%BB%A3%E5%87%A0%E4%BD%95%E7%89%88%EF%BC%89/%E5%BE%80%E5%B9%B4%E8%80%83%E9%A2%98%EF%BC%88%E5%90%AB%E8%80%81%E7%89%88%E8%80%83%E9%A2%98%EF%BC%89/%E8%80%81%E7%89%88%EF%BC%882019%E5%B9%B4%E5%89%8D%EF%BC%89%E8%80%83%E9%A2%98%E5%8F%82%E8%80%83/2013-2014%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98newA%E5%8D%B7.pdf",
+      "bytes": 202055,
+      "sha256": "556f7c0dd16d2192186de1b7eb53e86024636555a5ac8029b856f68f5cef07a6",
+      "gitBlobSHA1": "c05ece861c8ffc3cf5307bb5efd86f5292497922",
+      "pages": 2,
+      "role": "历史期末A卷",
+      "evidenceDescription": "卷头2013-2014秋、A卷；原印日期2013-01-16，前后年表不擅更正。",
+      "actuallyViewedPhysicalPages": [
+        1,
+        2
+      ],
+      "reviewBoundary": "全页结构解析；实际视觉为所列首尾/核心页，未称全件逐页阅净或数学审校。",
+      "annotations": 0,
+      "widgets": 0,
+      "embeddedFiles": 0,
+      "repaired": false,
+      "warningsPresent": false
+    },
+    {
+      "sourceName": "2017-线代（老版）-期中.pdf",
+      "sourceRepositoryPath": "线性代数/线性代数（线代几何版）/往年考题（含老版考题）/老版（2019年前）考题参考/2017-线代（老版）-期中.pdf",
+      "sourceURL": "https://github.com/mathsdream/THU-math-source/blob/main/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%88%E7%BA%BF%E4%BB%A3%E5%87%A0%E4%BD%95%E7%89%88%EF%BC%89/%E5%BE%80%E5%B9%B4%E8%80%83%E9%A2%98%EF%BC%88%E5%90%AB%E8%80%81%E7%89%88%E8%80%83%E9%A2%98%EF%BC%89/%E8%80%81%E7%89%88%EF%BC%882019%E5%B9%B4%E5%89%8D%EF%BC%89%E8%80%83%E9%A2%98%E5%8F%82%E8%80%83/2017-%E7%BA%BF%E4%BB%A3%EF%BC%88%E8%80%81%E7%89%88%EF%BC%89-%E6%9C%9F%E4%B8%AD.pdf",
+      "bytes": 467413,
+      "sha256": "222563f81eb0c28f2dbfc57146b92750dfa680315d55ad2224f714ed084b6025",
+      "gitBlobSHA1": "5b06b21e70cdc7d85481a9b72cbcc0e732bf126e",
+      "pages": 7,
+      "role": "历史期中题目及参考解答",
+      "evidenceDescription": "题名清华大学2017级本科生线性代数期中考试试题；题后含解答。",
+      "actuallyViewedPhysicalPages": [
+        1,
+        7
+      ],
+      "reviewBoundary": "全页结构解析；实际视觉为所列首尾/核心页，未称全件逐页阅净或数学审校。",
+      "annotations": 0,
+      "widgets": 0,
+      "embeddedFiles": 0,
+      "repaired": false,
+      "warningsPresent": false
+    },
+    {
+      "sourceName": "2018-线代（老版）-期中.pdf",
+      "sourceRepositoryPath": "线性代数/线性代数（线代几何版）/往年考题（含老版考题）/老版（2019年前）考题参考/2018-线代（老版）-期中.pdf",
+      "sourceURL": "https://github.com/mathsdream/THU-math-source/blob/main/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%88%E7%BA%BF%E4%BB%A3%E5%87%A0%E4%BD%95%E7%89%88%EF%BC%89/%E5%BE%80%E5%B9%B4%E8%80%83%E9%A2%98%EF%BC%88%E5%90%AB%E8%80%81%E7%89%88%E8%80%83%E9%A2%98%EF%BC%89/%E8%80%81%E7%89%88%EF%BC%882019%E5%B9%B4%E5%89%8D%EF%BC%89%E8%80%83%E9%A2%98%E5%8F%82%E8%80%83/2018-%E7%BA%BF%E4%BB%A3%EF%BC%88%E8%80%81%E7%89%88%EF%BC%89-%E6%9C%9F%E4%B8%AD.pdf",
+      "bytes": 169760,
+      "sha256": "73582b5debc6e85c16faaed90438589e9f69a333a1ffdf267590b2cf451649de",
+      "gitBlobSHA1": "55b97ba495aec95e30498858f36ac4d2e3be9591",
+      "pages": 5,
+      "role": "历史期中A卷及解答",
+      "evidenceDescription": "卷头2018-11-10，含解答与给分提示，保持原件。",
+      "actuallyViewedPhysicalPages": [
+        1,
+        5
+      ],
+      "reviewBoundary": "全页结构解析；实际视觉为所列首尾/核心页，未称全件逐页阅净或数学审校。",
+      "annotations": 0,
+      "widgets": 0,
+      "embeddedFiles": 0,
+      "repaired": false,
+      "warningsPresent": false
+    },
+    {
+      "sourceName": "2期末考试模拟题4.pdf",
+      "sourceRepositoryPath": "线性代数/线性代数（线代几何版）/往年考题（含老版考题）/老版（2019年前）考题参考/2期末考试模拟题4.pdf",
+      "sourceURL": "https://github.com/mathsdream/THU-math-source/blob/main/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%88%E7%BA%BF%E4%BB%A3%E5%87%A0%E4%BD%95%E7%89%88%EF%BC%89/%E5%BE%80%E5%B9%B4%E8%80%83%E9%A2%98%EF%BC%88%E5%90%AB%E8%80%81%E7%89%88%E8%80%83%E9%A2%98%EF%BC%89/%E8%80%81%E7%89%88%EF%BC%882019%E5%B9%B4%E5%89%8D%EF%BC%89%E8%80%83%E9%A2%98%E5%8F%82%E8%80%83/2%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E6%A8%A1%E6%8B%9F%E9%A2%984.pdf",
+      "bytes": 184958,
+      "sha256": "9993faac02f5a2ab8f10f9e368bfff87c4823afc85f71471cca12bb5802d6dd5",
+      "gitBlobSHA1": "1acbabb597f5e0d42ab5b57aaa5ecb5ec81b55c3",
+      "pages": 2,
+      "role": "历史A卷题目",
+      "evidenceDescription": "卷头线性代数(1)，2015-01-18 A卷；来源名模拟题4独立保留。",
+      "actuallyViewedPhysicalPages": [
+        1,
+        2
+      ],
+      "reviewBoundary": "全页结构解析；实际视觉为所列首尾/核心页，未称全件逐页阅净或数学审校。",
+      "annotations": 0,
+      "widgets": 0,
+      "embeddedFiles": 0,
+      "repaired": false,
+      "warningsPresent": false
+    },
+    {
+      "sourceName": "3期末考试模拟题2.pdf",
+      "sourceRepositoryPath": "线性代数/线性代数（线代几何版）/往年考题（含老版考题）/老版（2019年前）考题参考/3期末考试模拟题2.pdf",
+      "sourceURL": "https://github.com/mathsdream/THU-math-source/blob/main/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%88%E7%BA%BF%E4%BB%A3%E5%87%A0%E4%BD%95%E7%89%88%EF%BC%89/%E5%BE%80%E5%B9%B4%E8%80%83%E9%A2%98%EF%BC%88%E5%90%AB%E8%80%81%E7%89%88%E8%80%83%E9%A2%98%EF%BC%89/%E8%80%81%E7%89%88%EF%BC%882019%E5%B9%B4%E5%89%8D%EF%BC%89%E8%80%83%E9%A2%98%E5%8F%82%E8%80%83/3%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E6%A8%A1%E6%8B%9F%E9%A2%982.pdf",
+      "bytes": 180624,
+      "sha256": "d2c67d5db87ffc8a10ef94ecea0180789ddb8d57a8d1d0034ab39dae091db331",
+      "gitBlobSHA1": "b079664f2fcdc48f0a9a4581f1566b346b152c99",
+      "pages": 3,
+      "role": "历史期末题目",
+      "evidenceDescription": "题名第三套往年考题，署名杨利军，日期2018-01-06；不由署名扩认授课教师。",
+      "actuallyViewedPhysicalPages": [
+        1,
+        3
+      ],
+      "reviewBoundary": "全页结构解析；实际视觉为所列首尾/核心页，未称全件逐页阅净或数学审校。",
+      "annotations": 0,
+      "widgets": 0,
+      "embeddedFiles": 0,
+      "repaired": false,
+      "warningsPresent": false
+    },
+    {
+      "sourceName": "线性代数（1）期末样题（2013）A.pdf",
+      "sourceRepositoryPath": "线性代数/线性代数（线代几何版）/往年考题（含老版考题）/老版（2019年前）考题参考/线性代数（1）期末样题（2013）A.pdf",
+      "sourceURL": "https://github.com/mathsdream/THU-math-source/blob/main/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%88%E7%BA%BF%E4%BB%A3%E5%87%A0%E4%BD%95%E7%89%88%EF%BC%89/%E5%BE%80%E5%B9%B4%E8%80%83%E9%A2%98%EF%BC%88%E5%90%AB%E8%80%81%E7%89%88%E8%80%83%E9%A2%98%EF%BC%89/%E8%80%81%E7%89%88%EF%BC%882019%E5%B9%B4%E5%89%8D%EF%BC%89%E8%80%83%E9%A2%98%E5%8F%82%E8%80%83/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%881%EF%BC%89%E6%9C%9F%E6%9C%AB%E6%A0%B7%E9%A2%98%EF%BC%882013%EF%BC%89A.pdf",
+      "bytes": 82303,
+      "sha256": "241bf6e044a007ff0d3fb1219637dedee73d4d0a49515d1bac8e0ac2dc738a44",
+      "gitBlobSHA1": "2f0df33f153d4bd0a2c90dc0a686a1b43b84e846",
+      "pages": 2,
+      "role": "几何与代数考试题",
+      "evidenceDescription": "卷头几何与代数(1)考试样题一；2013仅来源文件名，作为相关课程样题参考。",
+      "actuallyViewedPhysicalPages": [
+        1,
+        2
+      ],
+      "reviewBoundary": "全页结构解析；实际视觉为所列首尾/核心页，未称全件逐页阅净或数学审校。",
+      "annotations": 0,
+      "widgets": 0,
+      "embeddedFiles": 0,
+      "repaired": false,
+      "warningsPresent": false
+    }
+  ],
+  "originalBytesPreserved": true,
+  "verificationBoundary": "35源文件逐字节数和Git blob SHA1匹配旧树，32PDF无历史联合SHA命中。297页习题解答及23页讲解仅核所列样页，其他PDF本轮实际视觉为首尾页；不等于全434页逐页审阅。未进行数学正确性审核。"
+}

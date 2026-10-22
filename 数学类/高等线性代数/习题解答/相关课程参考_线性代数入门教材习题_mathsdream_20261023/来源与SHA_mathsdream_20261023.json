@@ -1,0 +1,34 @@
+{
+  "title": "线性代数入门：教材习题参考解答",
+  "date": "2026-10-23",
+  "repository": "https://github.com/mathsdream/THU-math-source",
+  "classificationBoundary": "封面署名刘余、清华大学、2023；作为教材习题参考独立保存，不认定为高等线性代数主课指定讲义或经审定答案。",
+  "files": [
+    {
+      "sourceName": "Exercise答案  线性代数入门.pdf",
+      "sourceRepositoryPath": "线性代数/线性代数（线代入门版）/教材习题答案/Exercise答案  线性代数入门.pdf",
+      "sourceURL": "https://github.com/mathsdream/THU-math-source/blob/main/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%88%E7%BA%BF%E4%BB%A3%E5%85%A5%E9%97%A8%E7%89%88%EF%BC%89/%E6%95%99%E6%9D%90%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88/Exercise%E7%AD%94%E6%A1%88%20%20%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E5%85%A5%E9%97%A8.pdf",
+      "bytes": 1400291,
+      "sha256": "a90357d80538a48ae7c61f105e145b3a0d0da89a38ce352d4b380b29d3a5f959",
+      "gitBlobSHA1": "775056ad50b974dba3c53c3dd711f3ae3fbc7d3d",
+      "pages": 297,
+      "role": "教材习题参考解答",
+      "evidenceDescription": "封面题名线性代数入门习题解答，署名刘余、清华大学、2023；297物理页。仅抽查题名、目录、中尾5页，不认定为本课认证讲义或经审定答案。",
+      "actuallyViewedPhysicalPages": [
+        1,
+        2,
+        3,
+        149,
+        297
+      ],
+      "reviewBoundary": "全页结构解析；实际视觉为所列首尾/核心页，未称全件逐页阅净或数学审校。",
+      "annotations": 0,
+      "widgets": 0,
+      "embeddedFiles": 0,
+      "repaired": false,
+      "warningsPresent": false
+    }
+  ],
+  "originalBytesPreserved": true,
+  "verificationBoundary": "35源文件逐字节数和Git blob SHA1匹配旧树，32PDF无历史联合SHA命中。297页习题解答及23页讲解仅核所列样页，其他PDF本轮实际视觉为首尾页；不等于全434页逐页审阅。未进行数学正确性审核。"
+}

@@ -1,0 +1,306 @@
+{
+  "title": "线代入门来源：试题、样题与参考",
+  "date": "2026-10-23",
+  "repository": "https://github.com/mathsdream/THU-math-source",
+  "classificationBoundary": "线代入门来源混合了正式题卷、样题、带演算稿及讲解课件，按实际角色查阅。文件名期中或期末不保证其为完整正式卷。",
+  "files": [
+    {
+      "sourceName": "2019-线代-期中.pdf",
+      "sourceRepositoryPath": "线性代数/线性代数（线代入门版）/往年考题/2019-线代-期中.pdf",
+      "sourceURL": "https://github.com/mathsdream/THU-math-source/blob/main/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%88%E7%BA%BF%E4%BB%A3%E5%85%A5%E9%97%A8%E7%89%88%EF%BC%89/%E5%BE%80%E5%B9%B4%E8%80%83%E9%A2%98/2019-%E7%BA%BF%E4%BB%A3-%E6%9C%9F%E4%B8%AD.pdf",
+      "bytes": 155744,
+      "sha256": "922c6d5ba9187d865373ba70cfac6fc969931792c73dc5598f88f9c41c986cba",
+      "gitBlobSHA1": "cc56508a3663938b0c5acfffd6318040869bf976",
+      "pages": 6,
+      "role": "期中题目及解答",
+      "evidenceDescription": "卷头线性代数（工科类）期中考试，2019-11-02，正文已含解答。",
+      "actuallyViewedPhysicalPages": [
+        1,
+        6
+      ],
+      "reviewBoundary": "全页结构解析；实际视觉为所列首尾/核心页，未称全件逐页阅净或数学审校。",
+      "annotations": 0,
+      "widgets": 0,
+      "embeddedFiles": 0,
+      "repaired": false,
+      "warningsPresent": false
+    },
+    {
+      "sourceName": "2019-线代-期末.pdf",
+      "sourceRepositoryPath": "线性代数/线性代数（线代入门版）/往年考题/2019-线代-期末.pdf",
+      "sourceURL": "https://github.com/mathsdream/THU-math-source/blob/main/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%88%E7%BA%BF%E4%BB%A3%E5%85%A5%E9%97%A8%E7%89%88%EF%BC%89/%E5%BE%80%E5%B9%B4%E8%80%83%E9%A2%98/2019-%E7%BA%BF%E4%BB%A3-%E6%9C%9F%E6%9C%AB.pdf",
+      "bytes": 673822,
+      "sha256": "2042093ba3972476f6499ea85c12f5f038a9e1827c2603d98d36ef596f54e003",
+      "gitBlobSHA1": "531baadea7f851da150ca3ecfab67dd6dc8b5530",
+      "pages": 5,
+      "role": "期末样题简要解答",
+      "evidenceDescription": "实际题名样题（二）简要解答；来源名2019-期末仅来源标记，不能当正式期末原卷。",
+      "actuallyViewedPhysicalPages": [
+        1,
+        5
+      ],
+      "reviewBoundary": "全页结构解析；实际视觉为所列首尾/核心页，未称全件逐页阅净或数学审校。",
+      "annotations": 0,
+      "widgets": 0,
+      "embeddedFiles": 0,
+      "repaired": false,
+      "warningsPresent": false
+    },
+    {
+      "sourceName": "2020-线代-期中(含答案).pdf",
+      "sourceRepositoryPath": "线性代数/线性代数（线代入门版）/往年考题/2020-线代-期中(含答案).pdf",
+      "sourceURL": "https://github.com/mathsdream/THU-math-source/blob/main/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%88%E7%BA%BF%E4%BB%A3%E5%85%A5%E9%97%A8%E7%89%88%EF%BC%89/%E5%BE%80%E5%B9%B4%E8%80%83%E9%A2%98/2020-%E7%BA%BF%E4%BB%A3-%E6%9C%9F%E4%B8%AD%28%E5%90%AB%E7%AD%94%E6%A1%88%29.pdf",
+      "bytes": 1869046,
+      "sha256": "cbeb5d4d0ecea4110f1695d87aad24cc674db7acd339cc4790324d3c4fab75ad",
+      "gitBlobSHA1": "e82d01f8d0a71579b968d8a143c5a837cd1527a6",
+      "pages": 23,
+      "role": "期中试题讲解课件",
+      "evidenceDescription": "23页，题名线性代数1第十七讲：期中试题讲解。来源2020标记与课件实际角色分列。",
+      "actuallyViewedPhysicalPages": [
+        1,
+        2,
+        3,
+        12,
+        23
+      ],
+      "reviewBoundary": "全页结构解析；实际视觉为所列首尾/核心页，未称全件逐页阅净或数学审校。",
+      "annotations": 0,
+      "widgets": 0,
+      "embeddedFiles": 0,
+      "repaired": false,
+      "warningsPresent": false
+    },
+    {
+      "sourceName": "2020-线代-期中.pdf",
+      "sourceRepositoryPath": "线性代数/线性代数（线代入门版）/往年考题/2020-线代-期中.pdf",
+      "sourceURL": "https://github.com/mathsdream/THU-math-source/blob/main/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%88%E7%BA%BF%E4%BB%A3%E5%85%A5%E9%97%A8%E7%89%88%EF%BC%89/%E5%BE%80%E5%B9%B4%E8%80%83%E9%A2%98/2020-%E7%BA%BF%E4%BB%A3-%E6%9C%9F%E4%B8%AD.pdf",
+      "bytes": 522496,
+      "sha256": "41fbd99a2e5c60954256b2d6f2a1e61de3cd1a99bdfbe5ad313c842350f9e3c0",
+      "gitBlobSHA1": "08d019a1ad14f0b93e8d28e14eca636a42d98904",
+      "pages": 2,
+      "role": "带演算标记的期中题卷",
+      "evidenceDescription": "卷头2020-11-08，线性代数10421324；可见手写演算，保留原件，不称空白卷。",
+      "actuallyViewedPhysicalPages": [
+        1,
+        2
+      ],
+      "reviewBoundary": "全页结构解析；实际视觉为所列首尾/核心页，未称全件逐页阅净或数学审校。",
+      "annotations": 0,
+      "widgets": 0,
+      "embeddedFiles": 0,
+      "repaired": false,
+      "warningsPresent": false
+    },
+    {
+      "sourceName": "2020-线代-期末(含答案).pdf",
+      "sourceRepositoryPath": "线性代数/线性代数（线代入门版）/往年考题/2020-线代-期末(含答案).pdf",
+      "sourceURL": "https://github.com/mathsdream/THU-math-source/blob/main/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%88%E7%BA%BF%E4%BB%A3%E5%85%A5%E9%97%A8%E7%89%88%EF%BC%89/%E5%BE%80%E5%B9%B4%E8%80%83%E9%A2%98/2020-%E7%BA%BF%E4%BB%A3-%E6%9C%9F%E6%9C%AB%28%E5%90%AB%E7%AD%94%E6%A1%88%29.pdf",
+      "bytes": 486136,
+      "sha256": "50796604c73b2dfb7eb5f755bc8cc30df67f2074979928ac0640828c62a7e5bf",
+      "gitBlobSHA1": "f7c1d304bd47f69982b3d2e39fe001905f8bebf6",
+      "pages": 14,
+      "role": "期末样题与参考解答",
+      "evidenceDescription": "实际题名期末样题，含解答；说明称仅供考试形式与难度参考，年份仅文件名2020。",
+      "actuallyViewedPhysicalPages": [
+        1,
+        14
+      ],
+      "reviewBoundary": "全页结构解析；实际视觉为所列首尾/核心页，未称全件逐页阅净或数学审校。",
+      "annotations": 0,
+      "widgets": 0,
+      "embeddedFiles": 0,
+      "repaired": false,
+      "warningsPresent": false
+    },
+    {
+      "sourceName": "2020-线代-期末.pdf",
+      "sourceRepositoryPath": "线性代数/线性代数（线代入门版）/往年考题/2020-线代-期末.pdf",
+      "sourceURL": "https://github.com/mathsdream/THU-math-source/blob/main/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%88%E7%BA%BF%E4%BB%A3%E5%85%A5%E9%97%A8%E7%89%88%EF%BC%89/%E5%BE%80%E5%B9%B4%E8%80%83%E9%A2%98/2020-%E7%BA%BF%E4%BB%A3-%E6%9C%9F%E6%9C%AB.pdf",
+      "bytes": 385867,
+      "sha256": "3a79f8e9c07bf0f479adeefffe8c5a6e27ceb2ecd3091f81544b939bd33c4af7",
+      "gitBlobSHA1": "8142df5742ea76269168bd7a6d2bf275e8d2ea3e",
+      "pages": 3,
+      "role": "期末样题",
+      "evidenceDescription": "实际题名期末样题；形式和难度参考，卷面未给年份，2020仅来源文件名。",
+      "actuallyViewedPhysicalPages": [
+        1,
+        3
+      ],
+      "reviewBoundary": "全页结构解析；实际视觉为所列首尾/核心页，未称全件逐页阅净或数学审校。",
+      "annotations": 0,
+      "widgets": 0,
+      "embeddedFiles": 0,
+      "repaired": false,
+      "warningsPresent": false
+    },
+    {
+      "sourceName": "2021-线代-期中(含答案).pdf",
+      "sourceRepositoryPath": "线性代数/线性代数（线代入门版）/往年考题/2021-线代-期中(含答案).pdf",
+      "sourceURL": "https://github.com/mathsdream/THU-math-source/blob/main/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%88%E7%BA%BF%E4%BB%A3%E5%85%A5%E9%97%A8%E7%89%88%EF%BC%89/%E5%BE%80%E5%B9%B4%E8%80%83%E9%A2%98/2021-%E7%BA%BF%E4%BB%A3-%E6%9C%9F%E4%B8%AD%28%E5%90%AB%E7%AD%94%E6%A1%88%29.pdf",
+      "bytes": 458518,
+      "sha256": "d8d07e551e0717f3b56c08a5320fa07a7d70ce359a63ba356c8ee3088839e1e2",
+      "gitBlobSHA1": "735776b70baf45f85e5dd6c976ac88a23cf410c2",
+      "pages": 6,
+      "role": "期中样题与参考解答",
+      "evidenceDescription": "实际题名期中样题，含答案，年份仅来源名2021。",
+      "actuallyViewedPhysicalPages": [
+        1,
+        6
+      ],
+      "reviewBoundary": "全页结构解析；实际视觉为所列首尾/核心页，未称全件逐页阅净或数学审校。",
+      "annotations": 0,
+      "widgets": 0,
+      "embeddedFiles": 0,
+      "repaired": false,
+      "warningsPresent": false
+    },
+    {
+      "sourceName": "2021-线代-期中.pdf",
+      "sourceRepositoryPath": "线性代数/线性代数（线代入门版）/往年考题/2021-线代-期中.pdf",
+      "sourceURL": "https://github.com/mathsdream/THU-math-source/blob/main/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%88%E7%BA%BF%E4%BB%A3%E5%85%A5%E9%97%A8%E7%89%88%EF%BC%89/%E5%BE%80%E5%B9%B4%E8%80%83%E9%A2%98/2021-%E7%BA%BF%E4%BB%A3-%E6%9C%9F%E4%B8%AD.pdf",
+      "bytes": 396828,
+      "sha256": "5ad613a594c4f2892de28254af7283014908700cbdfd7ec97b60cec1729da98b",
+      "gitBlobSHA1": "6547fc941b72a1c58f79488d3161a94c35897c7e",
+      "pages": 2,
+      "role": "期中样题",
+      "evidenceDescription": "实际题名期中样题，年份仅来源名2021。",
+      "actuallyViewedPhysicalPages": [
+        1,
+        2
+      ],
+      "reviewBoundary": "全页结构解析；实际视觉为所列首尾/核心页，未称全件逐页阅净或数学审校。",
+      "annotations": 0,
+      "widgets": 0,
+      "embeddedFiles": 0,
+      "repaired": false,
+      "warningsPresent": false
+    },
+    {
+      "sourceName": "2021-线代-期末(含答案).pdf",
+      "sourceRepositoryPath": "线性代数/线性代数（线代入门版）/往年考题/2021-线代-期末(含答案).pdf",
+      "sourceURL": "https://github.com/mathsdream/THU-math-source/blob/main/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%88%E7%BA%BF%E4%BB%A3%E5%85%A5%E9%97%A8%E7%89%88%EF%BC%89/%E5%BE%80%E5%B9%B4%E8%80%83%E9%A2%98/2021-%E7%BA%BF%E4%BB%A3-%E6%9C%9F%E6%9C%AB%28%E5%90%AB%E7%AD%94%E6%A1%88%29.pdf",
+      "bytes": 382721,
+      "sha256": "ab7f81204f36159b3176018568604b1ce0df14b97bf2f55b0d4200b1ffeb51ed",
+      "gitBlobSHA1": "5e55207bef06a02ee061fcfedaac861b2ee96975",
+      "pages": 7,
+      "role": "非官方期末参考解答稿",
+      "evidenceDescription": "卷面2022-01-02 A卷，题后含解答；页眉明确非官方答案、仅供参考，保留此边界。",
+      "actuallyViewedPhysicalPages": [
+        1,
+        7
+      ],
+      "reviewBoundary": "全页结构解析；实际视觉为所列首尾/核心页，未称全件逐页阅净或数学审校。",
+      "annotations": 0,
+      "widgets": 0,
+      "embeddedFiles": 0,
+      "repaired": false,
+      "warningsPresent": false
+    },
+    {
+      "sourceName": "2022-线代-期中（非书院版）.pdf",
+      "sourceRepositoryPath": "线性代数/线性代数（线代入门版）/往年考题/2022-线代-期中（非书院版）.pdf",
+      "sourceURL": "https://github.com/mathsdream/THU-math-source/blob/main/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%88%E7%BA%BF%E4%BB%A3%E5%85%A5%E9%97%A8%E7%89%88%EF%BC%89/%E5%BE%80%E5%B9%B4%E8%80%83%E9%A2%98/2022-%E7%BA%BF%E4%BB%A3-%E6%9C%9F%E4%B8%AD%EF%BC%88%E9%9D%9E%E4%B9%A6%E9%99%A2%E7%89%88%EF%BC%89.pdf",
+      "bytes": 84122,
+      "sha256": "84929799b3c720d8e11118e27ce2ab63eb7d3573f12737af6e7a63b6fd4c7ab3",
+      "gitBlobSHA1": "608c4ba55da133e376fd84e0f127411b39e76bc7",
+      "pages": 2,
+      "role": "工科类期中题卷",
+      "evidenceDescription": "卷头2022-11-12，线性代数（工科类）。",
+      "actuallyViewedPhysicalPages": [
+        1,
+        2
+      ],
+      "reviewBoundary": "全页结构解析；实际视觉为所列首尾/核心页，未称全件逐页阅净或数学审校。",
+      "annotations": 0,
+      "widgets": 0,
+      "embeddedFiles": 0,
+      "repaired": false,
+      "warningsPresent": false
+    },
+    {
+      "sourceName": "2022-线代-期末（非书院版）.pdf",
+      "sourceRepositoryPath": "线性代数/线性代数（线代入门版）/往年考题/2022-线代-期末（非书院版）.pdf",
+      "sourceURL": "https://github.com/mathsdream/THU-math-source/blob/main/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%88%E7%BA%BF%E4%BB%A3%E5%85%A5%E9%97%A8%E7%89%88%EF%BC%89/%E5%BE%80%E5%B9%B4%E8%80%83%E9%A2%98/2022-%E7%BA%BF%E4%BB%A3-%E6%9C%9F%E6%9C%AB%EF%BC%88%E9%9D%9E%E4%B9%A6%E9%99%A2%E7%89%88%EF%BC%89.pdf",
+      "bytes": 532647,
+      "sha256": "b2453055b6538b19d43fbd8a231b52ddf4be763c0120ab2683de6e2aa9d5df38",
+      "gitBlobSHA1": "3c21f7ecd34751ea98efaf4b88b5235353afa64b",
+      "pages": 4,
+      "role": "在线考试题目整理",
+      "evidenceDescription": "题名2022-2023学年度秋季学期线性代数期末考题，说明为20道选择题线上考试，卷面未给日。",
+      "actuallyViewedPhysicalPages": [
+        1,
+        4
+      ],
+      "reviewBoundary": "全页结构解析；实际视觉为所列首尾/核心页，未称全件逐页阅净或数学审校。",
+      "annotations": 0,
+      "widgets": 0,
+      "embeddedFiles": 0,
+      "repaired": false,
+      "warningsPresent": false
+    },
+    {
+      "sourceName": "2023-线代-期中（非书院版）.pdf",
+      "sourceRepositoryPath": "线性代数/线性代数（线代入门版）/往年考题/2023-线代-期中（非书院版）.pdf",
+      "sourceURL": "https://github.com/mathsdream/THU-math-source/blob/main/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%88%E7%BA%BF%E4%BB%A3%E5%85%A5%E9%97%A8%E7%89%88%EF%BC%89/%E5%BE%80%E5%B9%B4%E8%80%83%E9%A2%98/2023-%E7%BA%BF%E4%BB%A3-%E6%9C%9F%E4%B8%AD%EF%BC%88%E9%9D%9E%E4%B9%A6%E9%99%A2%E7%89%88%EF%BC%89.pdf",
+      "bytes": 600135,
+      "sha256": "eec8c869027050143059202d8ec937c26ac8ed7e1fdf617d9ed5f1bbb1c530ed",
+      "gitBlobSHA1": "f5110b8f437e43f6a03f540d7bb9cb3bac05c952",
+      "pages": 2,
+      "role": "工科类期中题卷",
+      "evidenceDescription": "卷头2023-11-11，线性代数（工科类）；扫描原件保持。",
+      "actuallyViewedPhysicalPages": [
+        1,
+        2
+      ],
+      "reviewBoundary": "全页结构解析；实际视觉为所列首尾/核心页，未称全件逐页阅净或数学审校。",
+      "annotations": 0,
+      "widgets": 0,
+      "embeddedFiles": 0,
+      "repaired": false,
+      "warningsPresent": false
+    },
+    {
+      "sourceName": "2023-线代-期末（非书院版）.pdf",
+      "sourceRepositoryPath": "线性代数/线性代数（线代入门版）/往年考题/2023-线代-期末（非书院版）.pdf",
+      "sourceURL": "https://github.com/mathsdream/THU-math-source/blob/main/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%88%E7%BA%BF%E4%BB%A3%E5%85%A5%E9%97%A8%E7%89%88%EF%BC%89/%E5%BE%80%E5%B9%B4%E8%80%83%E9%A2%98/2023-%E7%BA%BF%E4%BB%A3-%E6%9C%9F%E6%9C%AB%EF%BC%88%E9%9D%9E%E4%B9%A6%E9%99%A2%E7%89%88%EF%BC%89.pdf",
+      "bytes": 269360,
+      "sha256": "5470d5678b7c0ad9fba6d1d01580ebc2ceed9c2c95622c511f7f6c38af7a1a69",
+      "gitBlobSHA1": "7d9cac210c60182a0def17c5c4ce771d5c87b4f7",
+      "pages": 2,
+      "role": "带手写演算的工科类期末题卷",
+      "evidenceDescription": "卷头2024-01-10；有手写演算与圈记，不能当无批记空白卷。",
+      "actuallyViewedPhysicalPages": [
+        1,
+        2
+      ],
+      "reviewBoundary": "全页结构解析；实际视觉为所列首尾/核心页，未称全件逐页阅净或数学审校。",
+      "annotations": 0,
+      "widgets": 0,
+      "embeddedFiles": 0,
+      "repaired": false,
+      "warningsPresent": false
+    },
+    {
+      "sourceName": "2024-线代-期中（唐宏岩）.pdf",
+      "sourceRepositoryPath": "线性代数/线性代数（线代入门版）/往年考题/2024-线代-期中（唐宏岩）.pdf",
+      "sourceURL": "https://github.com/mathsdream/THU-math-source/blob/main/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%88%E7%BA%BF%E4%BB%A3%E5%85%A5%E9%97%A8%E7%89%88%EF%BC%89/%E5%BE%80%E5%B9%B4%E8%80%83%E9%A2%98/2024-%E7%BA%BF%E4%BB%A3-%E6%9C%9F%E4%B8%AD%EF%BC%88%E5%94%90%E5%AE%8F%E5%B2%A9%EF%BC%89.pdf",
+      "bytes": 509295,
+      "sha256": "31c34fbb310ac70db791f760c0b9f2a9f90496eac566c9ee892907ced9b67ba3",
+      "gitBlobSHA1": "b5be80410d9ad1740df4cd9e527fa5420f5dfe97",
+      "pages": 1,
+      "role": "题卷单页片段",
+      "evidenceDescription": "原件只有印刷第2/2页、第11至16题，缺前页内容；教师和年份仅来源文件名标记，不补造。",
+      "actuallyViewedPhysicalPages": [
+        1
+      ],
+      "reviewBoundary": "全页结构解析；实际视觉为所列首尾/核心页，未称全件逐页阅净或数学审校。",
+      "annotations": 0,
+      "widgets": 0,
+      "embeddedFiles": 0,
+      "repaired": false,
+      "warningsPresent": false
+    }
+  ],
+  "originalBytesPreserved": true,
+  "verificationBoundary": "35源文件逐字节数和Git blob SHA1匹配旧树，32PDF无历史联合SHA命中。297页习题解答及23页讲解仅核所列样页，其他PDF本轮实际视觉为首尾页；不等于全434页逐页审阅。未进行数学正确性审核。"
+}

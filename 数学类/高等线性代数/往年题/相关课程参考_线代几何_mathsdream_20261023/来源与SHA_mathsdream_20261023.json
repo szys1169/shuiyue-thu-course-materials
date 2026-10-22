@@ -1,0 +1,157 @@
+{
+  "title": "线代几何来源：题卷与参考解答",
+  "date": "2026-10-23",
+  "repository": "https://github.com/mathsdream/THU-math-source",
+  "classificationBoundary": "本组保存来源书院版、几何版标签的相关课程题卷与带解稿，年份以卷面与来源标签分别记录。",
+  "files": [
+    {
+      "sourceName": "2022-线代-期中（书院版）.pdf",
+      "sourceRepositoryPath": "线性代数/线性代数（线代几何版）/往年考题（含老版考题）/2022-线代-期中（书院版）.pdf",
+      "sourceURL": "https://github.com/mathsdream/THU-math-source/blob/main/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%88%E7%BA%BF%E4%BB%A3%E5%87%A0%E4%BD%95%E7%89%88%EF%BC%89/%E5%BE%80%E5%B9%B4%E8%80%83%E9%A2%98%EF%BC%88%E5%90%AB%E8%80%81%E7%89%88%E8%80%83%E9%A2%98%EF%BC%89/2022-%E7%BA%BF%E4%BB%A3-%E6%9C%9F%E4%B8%AD%EF%BC%88%E4%B9%A6%E9%99%A2%E7%89%88%EF%BC%89.pdf",
+      "bytes": 178269,
+      "sha256": "eddfbfedd3ec31121972d58328dd0d33faffabfd8b1515ef01f337e40d8c23c9",
+      "gitBlobSHA1": "36d7a7375b6025b476e89920b6e09e351be5e7ae",
+      "pages": 2,
+      "role": "期中题卷",
+      "evidenceDescription": "来源2022书院版；卷首身份栏为空白，按现有原件保存。",
+      "actuallyViewedPhysicalPages": [
+        1,
+        2
+      ],
+      "reviewBoundary": "全页结构解析；实际视觉为所列首尾/核心页，未称全件逐页阅净或数学审校。",
+      "annotations": 0,
+      "widgets": 0,
+      "embeddedFiles": 0,
+      "repaired": false,
+      "warningsPresent": false
+    },
+    {
+      "sourceName": "2023-线代-期中（书院版）.pdf",
+      "sourceRepositoryPath": "线性代数/线性代数（线代几何版）/往年考题（含老版考题）/2023-线代-期中（书院版）.pdf",
+      "sourceURL": "https://github.com/mathsdream/THU-math-source/blob/main/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%88%E7%BA%BF%E4%BB%A3%E5%87%A0%E4%BD%95%E7%89%88%EF%BC%89/%E5%BE%80%E5%B9%B4%E8%80%83%E9%A2%98%EF%BC%88%E5%90%AB%E8%80%81%E7%89%88%E8%80%83%E9%A2%98%EF%BC%89/2023-%E7%BA%BF%E4%BB%A3-%E6%9C%9F%E4%B8%AD%EF%BC%88%E4%B9%A6%E9%99%A2%E7%89%88%EF%BC%89.pdf",
+      "bytes": 513702,
+      "sha256": "6382c8a531c7068980b080b2d19003a9616ea383dd4bd7511a7c9592cfac4bef",
+      "gitBlobSHA1": "62cb32619f0144d36dd13a25e69c8d58b83c5f52",
+      "pages": 7,
+      "role": "期中题目与参考解答",
+      "evidenceDescription": "卷头2023年秋、书院，日期2023-11-11上午；含黄色突出和红字参考推导，非个人实得成绩批改。",
+      "actuallyViewedPhysicalPages": [
+        1,
+        7
+      ],
+      "reviewBoundary": "全页结构解析；实际视觉为所列首尾/核心页，未称全件逐页阅净或数学审校。",
+      "annotations": 4,
+      "widgets": 0,
+      "embeddedFiles": 0,
+      "repaired": false,
+      "warningsPresent": false
+    },
+    {
+      "sourceName": "2023-线代-期末（书院版）.pdf",
+      "sourceRepositoryPath": "线性代数/线性代数（线代几何版）/往年考题（含老版考题）/2023-线代-期末（书院版）.pdf",
+      "sourceURL": "https://github.com/mathsdream/THU-math-source/blob/main/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%88%E7%BA%BF%E4%BB%A3%E5%87%A0%E4%BD%95%E7%89%88%EF%BC%89/%E5%BE%80%E5%B9%B4%E8%80%83%E9%A2%98%EF%BC%88%E5%90%AB%E8%80%81%E7%89%88%E8%80%83%E9%A2%98%EF%BC%89/2023-%E7%BA%BF%E4%BB%A3-%E6%9C%9F%E6%9C%AB%EF%BC%88%E4%B9%A6%E9%99%A2%E7%89%88%EF%BC%89.pdf",
+      "bytes": 736536,
+      "sha256": "eed02c159f036d43c47c958e4540a7adcef63e90844c09bdfcb31c31f4f9ad56",
+      "gitBlobSHA1": "2c63a52049b27f57a4bd2449f79d124e419db2b9",
+      "pages": 2,
+      "role": "期末A卷",
+      "evidenceDescription": "卷头2023-2024学年秋、书院，考试日期2024-01-10。",
+      "actuallyViewedPhysicalPages": [
+        1,
+        2
+      ],
+      "reviewBoundary": "全页结构解析；实际视觉为所列首尾/核心页，未称全件逐页阅净或数学审校。",
+      "annotations": 0,
+      "widgets": 0,
+      "embeddedFiles": 0,
+      "repaired": false,
+      "warningsPresent": false
+    },
+    {
+      "sourceName": "2024-线代-期中（书院版）.pdf",
+      "sourceRepositoryPath": "线性代数/线性代数（线代几何版）/往年考题（含老版考题）/2024-线代-期中（书院版）.pdf",
+      "sourceURL": "https://github.com/mathsdream/THU-math-source/blob/main/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%88%E7%BA%BF%E4%BB%A3%E5%87%A0%E4%BD%95%E7%89%88%EF%BC%89/%E5%BE%80%E5%B9%B4%E8%80%83%E9%A2%98%EF%BC%88%E5%90%AB%E8%80%81%E7%89%88%E8%80%83%E9%A2%98%EF%BC%89/2024-%E7%BA%BF%E4%BB%A3-%E6%9C%9F%E4%B8%AD%EF%BC%88%E4%B9%A6%E9%99%A2%E7%89%88%EF%BC%89.pdf",
+      "bytes": 283931,
+      "sha256": "5007c8eb1cf4bbfcdb2de6024a311b33f0968c570a6b6dd516e56f114764ac31",
+      "gitBlobSHA1": "4ce7295393f8f39546ade0e3a0ed780cf1ab1cb1",
+      "pages": 2,
+      "role": "期中题卷",
+      "evidenceDescription": "卷头2024年11月，原件2页。",
+      "actuallyViewedPhysicalPages": [
+        1,
+        2
+      ],
+      "reviewBoundary": "全页结构解析；实际视觉为所列首尾/核心页，未称全件逐页阅净或数学审校。",
+      "annotations": 0,
+      "widgets": 0,
+      "embeddedFiles": 0,
+      "repaired": false,
+      "warningsPresent": false
+    },
+    {
+      "sourceName": "2024-线代-期末（书院版）.pdf",
+      "sourceRepositoryPath": "线性代数/线性代数（线代几何版）/往年考题（含老版考题）/2024-线代-期末（书院版）.pdf",
+      "sourceURL": "https://github.com/mathsdream/THU-math-source/blob/main/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%88%E7%BA%BF%E4%BB%A3%E5%87%A0%E4%BD%95%E7%89%88%EF%BC%89/%E5%BE%80%E5%B9%B4%E8%80%83%E9%A2%98%EF%BC%88%E5%90%AB%E8%80%81%E7%89%88%E8%80%83%E9%A2%98%EF%BC%89/2024-%E7%BA%BF%E4%BB%A3-%E6%9C%9F%E6%9C%AB%EF%BC%88%E4%B9%A6%E9%99%A2%E7%89%88%EF%BC%89.pdf",
+      "bytes": 334152,
+      "sha256": "620951d1cbfe6f16c36d872f73509c91d693f0e3db9454a9391ba88d7570eedb",
+      "gitBlobSHA1": "3f0a5c6809bde7e6bccef74834b94799d712ff14",
+      "pages": 2,
+      "role": "期末题卷",
+      "evidenceDescription": "卷头日期2025-01-04；来源文件名2024按学期标签保留。",
+      "actuallyViewedPhysicalPages": [
+        1,
+        2
+      ],
+      "reviewBoundary": "全页结构解析；实际视觉为所列首尾/核心页，未称全件逐页阅净或数学审校。",
+      "annotations": 0,
+      "widgets": 0,
+      "embeddedFiles": 0,
+      "repaired": false,
+      "warningsPresent": false
+    },
+    {
+      "sourceName": "2024-线代-期末（含答案）（书院版）.pdf",
+      "sourceRepositoryPath": "线性代数/线性代数（线代几何版）/往年考题（含老版考题）/2024-线代-期末（含答案）（书院版）.pdf",
+      "sourceURL": "https://github.com/mathsdream/THU-math-source/blob/main/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%88%E7%BA%BF%E4%BB%A3%E5%87%A0%E4%BD%95%E7%89%88%EF%BC%89/%E5%BE%80%E5%B9%B4%E8%80%83%E9%A2%98%EF%BC%88%E5%90%AB%E8%80%81%E7%89%88%E8%80%83%E9%A2%98%EF%BC%89/2024-%E7%BA%BF%E4%BB%A3-%E6%9C%9F%E6%9C%AB%EF%BC%88%E5%90%AB%E7%AD%94%E6%A1%88%EF%BC%89%EF%BC%88%E4%B9%A6%E9%99%A2%E7%89%88%EF%BC%89.pdf",
+      "bytes": 499980,
+      "sha256": "1ba002424e3b476c61e1072353411d0240cc2bda21ba824bdfe775757f114382",
+      "gitBlobSHA1": "d7aa02db6341ea2cd34ee9ed49750eee8df89930",
+      "pages": 7,
+      "role": "期末题目与参考解答",
+      "evidenceDescription": "卷头日期2025-01-04；含题目及题后解释，不另拆改原件。",
+      "actuallyViewedPhysicalPages": [
+        1,
+        7
+      ],
+      "reviewBoundary": "全页结构解析；实际视觉为所列首尾/核心页，未称全件逐页阅净或数学审校。",
+      "annotations": 0,
+      "widgets": 0,
+      "embeddedFiles": 0,
+      "repaired": false,
+      "warningsPresent": false
+    },
+    {
+      "sourceName": "2025-线代-期中（线代几何版）.pdf",
+      "sourceRepositoryPath": "线性代数/线性代数（线代几何版）/往年考题（含老版考题）/2025-线代-期中（线代几何版）.pdf",
+      "sourceURL": "https://github.com/mathsdream/THU-math-source/blob/main/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%88%E7%BA%BF%E4%BB%A3%E5%87%A0%E4%BD%95%E7%89%88%EF%BC%89/%E5%BE%80%E5%B9%B4%E8%80%83%E9%A2%98%EF%BC%88%E5%90%AB%E8%80%81%E7%89%88%E8%80%83%E9%A2%98%EF%BC%89/2025-%E7%BA%BF%E4%BB%A3-%E6%9C%9F%E4%B8%AD%EF%BC%88%E7%BA%BF%E4%BB%A3%E5%87%A0%E4%BD%95%E7%89%88%EF%BC%89.pdf",
+      "bytes": 2033814,
+      "sha256": "4c3412e19a7278080b1508e4ddc9c9ba39e64239aa5c7014236eaee71430593d",
+      "gitBlobSHA1": "1af380053eb7cb705ade75ef9c8c636db17c3f1d",
+      "pages": 3,
+      "role": "B卷题卷",
+      "evidenceDescription": "卷头2025-11-16，线性代数B卷；文件名期中仅来源标记。",
+      "actuallyViewedPhysicalPages": [
+        1,
+        3
+      ],
+      "reviewBoundary": "全页结构解析；实际视觉为所列首尾/核心页，未称全件逐页阅净或数学审校。",
+      "annotations": 0,
+      "widgets": 0,
+      "embeddedFiles": 0,
+      "repaired": false,
+      "warningsPresent": false
+    }
+  ],
+  "originalBytesPreserved": true,
+  "verificationBoundary": "35源文件逐字节数和Git blob SHA1匹配旧树，32PDF无历史联合SHA命中。297页习题解答及23页讲解仅核所列样页，其他PDF本轮实际视觉为首尾页；不等于全434页逐页审阅。未进行数学正确性审核。"
+}

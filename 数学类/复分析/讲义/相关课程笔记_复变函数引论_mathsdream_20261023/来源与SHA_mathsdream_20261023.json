@@ -1,0 +1,38 @@
+{
+  "title": "复变函数引论：编写笔记",
+  "date": "2026-10-23",
+  "sourceRepository": "https://github.com/mathsdream/THU-math-source",
+  "sourceCommit": "fb42c6c3023cda3c011508e0a32a247231a0c91e",
+  "classificationBoundary": "53页笔记封面注明姚国武授、刘桓瑀编，作为编写笔记参考保存；非据此认定教师亲编或指定讲义。",
+  "files": [
+    {
+      "sourceName": "complex-analysis-intro_202601181039_58490.pdf",
+      "sourceRepositoryPath": "复变函数/复变函数引论/笔记/complex-analysis-intro_202601181039_58490.pdf",
+      "sourceURL": "https://github.com/mathsdream/THU-math-source/blob/main/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA/%E7%AC%94%E8%AE%B0/complex-analysis-intro_202601181039_58490.pdf",
+      "sourceCommit": "fb42c6c3023cda3c011508e0a32a247231a0c91e",
+      "acquisitionDate": "2026-10-23",
+      "bytes": 14326022,
+      "sha256": "92e8b132da730adf763968136e230e9fbe0031b08f9062e153be88879afed9c8",
+      "gitBlobSHA1": "6817b8be35ee255836544c5e4ccf611c4d70d702",
+      "pages": 53,
+      "role": "编写课程笔记",
+      "description": "封面复变函数引论·笔记，姚国武授、刘桓瑀编；53物理页。核封面、署名、目录、中尾5页，不认定为教师亲编讲义。",
+      "action": "staged_original",
+      "actuallyViewedPhysicalPages": [
+        1,
+        2,
+        3,
+        27,
+        53
+      ],
+      "allPagesVisualReview": false,
+      "reviewBoundary": "PDF全页结构解析；视觉仅所列页，未作数学正确性审核。",
+      "repaired": false,
+      "annotations": 0,
+      "forms": 0,
+      "embeddedFiles": 0,
+      "warningsPresent": false
+    }
+  ],
+  "boundary": "原件按原名原字节保存；同SHA复用只表明字节相同，不证明来源署名、版权或答案正确性；未入Git不等于云盘权限隔离。"
+}

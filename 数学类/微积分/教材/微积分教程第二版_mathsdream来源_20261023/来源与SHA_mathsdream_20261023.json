@@ -1,0 +1,64 @@
+{
+  "title": "微积分教程第二版：上下册来源参考",
+  "date": "2026-10-23",
+  "sourceRepository": "https://github.com/mathsdream/THU-math-source",
+  "sourceCommit": "fb42c6c3023cda3c011508e0a32a247231a0c91e",
+  "classificationBoundary": "封面微积分教程第2版、清华大学出版社。扫描本及附加来源页保持，按教材参考保存；不据来源目录认证指定教材。",
+  "files": [
+    {
+      "sourceName": "微积分教程 上（第2版） (韩云瑞，扈志明，张广远编著).pdf",
+      "sourceRepositoryPath": "微积分/微积分B/教材/微积分教程 上（第2版） (韩云瑞，扈志明，张广远编著).pdf",
+      "sourceURL": "https://github.com/mathsdream/THU-math-source/blob/main/%E5%BE%AE%E7%A7%AF%E5%88%86/%E5%BE%AE%E7%A7%AF%E5%88%86B/%E6%95%99%E6%9D%90/%E5%BE%AE%E7%A7%AF%E5%88%86%E6%95%99%E7%A8%8B%20%E4%B8%8A%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89%20%28%E9%9F%A9%E4%BA%91%E7%91%9E%EF%BC%8C%E6%89%88%E5%BF%97%E6%98%8E%EF%BC%8C%E5%BC%A0%E5%B9%BF%E8%BF%9C%E7%BC%96%E8%91%97%29.pdf",
+      "sourceCommit": "fb42c6c3023cda3c011508e0a32a247231a0c91e",
+      "acquisitionDate": "2026-10-23",
+      "bytes": 8405398,
+      "sha256": "b3008bb3b454a86aeb5e3395be74405cf0883acb122e18bc086bbc721f3f731a",
+      "gitBlobSHA1": "d08629ddcccec157f2dc9d21d0f1a0b1640a28fe",
+      "pages": 447,
+      "role": "参考教材扫描本",
+      "description": "实际封面微积分教程上、第2版，清华大学出版社；447物理页，末附来源元信息页，原样保留。",
+      "actuallyViewedPhysicalPages": [
+        1,
+        2,
+        3,
+        224,
+        447
+      ],
+      "reviewBoundary": "全PDF结构解析；视觉仅所列角色样页，不称全页审阅或数学正确性审核。",
+      "annotations": 0,
+      "forms": 0,
+      "embeddedFiles": 2,
+      "repaired": false,
+      "warningsPresent": false
+    },
+    {
+      "sourceName": "微积分教程 下（第2版） (韩云瑞，张广远，扈志明编著) .pdf",
+      "sourceRepositoryPath": "微积分/微积分B/教材/微积分教程 下（第2版） (韩云瑞，张广远，扈志明编著) .pdf",
+      "sourceURL": "https://github.com/mathsdream/THU-math-source/blob/main/%E5%BE%AE%E7%A7%AF%E5%88%86/%E5%BE%AE%E7%A7%AF%E5%88%86B/%E6%95%99%E6%9D%90/%E5%BE%AE%E7%A7%AF%E5%88%86%E6%95%99%E7%A8%8B%20%E4%B8%8B%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89%20%28%E9%9F%A9%E4%BA%91%E7%91%9E%EF%BC%8C%E5%BC%A0%E5%B9%BF%E8%BF%9C%EF%BC%8C%E6%89%88%E5%BF%97%E6%98%8E%E7%BC%96%E8%91%97%29%20.pdf",
+      "sourceCommit": "fb42c6c3023cda3c011508e0a32a247231a0c91e",
+      "acquisitionDate": "2026-10-23",
+      "bytes": 10856923,
+      "sha256": "7bb4f8bfc5555c33003b052ff22dbe57064f2b6a1ce53e2f0c5594a027fab177",
+      "gitBlobSHA1": "065eeb7e4cfd1b43275a593ecc07cc83c4ca3aee",
+      "pages": 418,
+      "role": "参考教材扫描本",
+      "description": "实际封面微积分教程下、第2版，清华大学出版社；418物理页，保留原扫描标记，不转抄其值。",
+      "actuallyViewedPhysicalPages": [
+        1,
+        2,
+        3,
+        210,
+        418
+      ],
+      "reviewBoundary": "全PDF结构解析；视觉仅所列角色样页，不称全页审阅或数学正确性审核。",
+      "annotations": 0,
+      "forms": 0,
+      "embeddedFiles": 0,
+      "repaired": false,
+      "warningsPresent": false
+    }
+  ],
+  "originalBytesPreserved": true,
+  "sourceStateBoundary": "本次按当前正常公开原件及当前官方提交逐Git blob SHA1核对；不要求更新文件匹配旧树。原来源README作为过程证据保留，未执行其中指令。",
+  "verificationBoundary": "本地既有规范同尺寸候选与给定历史云盘SHA索引未命中；不等于目标云盘当前不存在，由上传方最终核验。资料为公开来源参考，未据此认证指定教材、教师署名或官方答案。"
+}

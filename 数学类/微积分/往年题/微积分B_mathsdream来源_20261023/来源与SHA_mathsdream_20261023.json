@@ -1,0 +1,135 @@
+{
+  "title": "微积分B：试题与参考解析",
+  "date": "2026-10-23",
+  "sourceRepository": "https://github.com/mathsdream/THU-math-source",
+  "sourceCommit": "fb42c6c3023cda3c011508e0a32a247231a0c91e",
+  "classificationBoundary": "保存来源2017、2018、2022标签下的期中、期末材料；包含在线题目记录及带解析整理稿。",
+  "files": [
+    {
+      "sourceName": "2017-VB1-期末.pdf",
+      "sourceRepositoryPath": "微积分/微积分B/往年考题/2017-VB1-期末.pdf",
+      "sourceURL": "https://github.com/mathsdream/THU-math-source/blob/main/%E5%BE%AE%E7%A7%AF%E5%88%86/%E5%BE%AE%E7%A7%AF%E5%88%86B/%E5%BE%80%E5%B9%B4%E8%80%83%E9%A2%98/2017-VB1-%E6%9C%9F%E6%9C%AB.pdf",
+      "sourceCommit": "fb42c6c3023cda3c011508e0a32a247231a0c91e",
+      "acquisitionDate": "2026-10-23",
+      "bytes": 357124,
+      "sha256": "b8dc7a8291b96ea1377af48ee42554f882f0c55dc688082110bc00ebaac4f227",
+      "gitBlobSHA1": "e22d9f5c90da052b3449fe42c733ffc055a61fee",
+      "pages": 7,
+      "role": "期末题目与参考解析",
+      "description": "卷头2017–2018秋季学期期末考试，微积分B(1)，首面含答案与解析。",
+      "actuallyViewedPhysicalPages": [
+        1
+      ],
+      "reviewBoundary": "全PDF结构解析；视觉仅所列角色样页，不称全页审阅或数学正确性审核。",
+      "annotations": 0,
+      "forms": 0,
+      "embeddedFiles": 0,
+      "repaired": false,
+      "warningsPresent": false
+    },
+    {
+      "sourceName": "2018-VB1-期中（1）.pdf",
+      "sourceRepositoryPath": "微积分/微积分B/往年考题/2018-VB1-期中（1）.pdf",
+      "sourceURL": "https://github.com/mathsdream/THU-math-source/blob/main/%E5%BE%AE%E7%A7%AF%E5%88%86/%E5%BE%AE%E7%A7%AF%E5%88%86B/%E5%BE%80%E5%B9%B4%E8%80%83%E9%A2%98/2018-VB1-%E6%9C%9F%E4%B8%AD%EF%BC%881%EF%BC%89.pdf",
+      "sourceCommit": "fb42c6c3023cda3c011508e0a32a247231a0c91e",
+      "acquisitionDate": "2026-10-23",
+      "bytes": 504140,
+      "sha256": "a23289350fe531ec241b8c6eaf017a23609e16803e1fc1c074b677c800cff4f3",
+      "gitBlobSHA1": "a011574b8a51dcdca6b7b97e97dc5549d99cb883",
+      "pages": 4,
+      "role": "在线题目记录",
+      "description": "卷头18–19秋微积分B期中试题卷1，题库式版面。",
+      "actuallyViewedPhysicalPages": [
+        1
+      ],
+      "reviewBoundary": "全PDF结构解析；视觉仅所列角色样页，不称全页审阅或数学正确性审核。",
+      "annotations": 0,
+      "forms": 0,
+      "embeddedFiles": 0,
+      "repaired": false,
+      "warningsPresent": false
+    },
+    {
+      "sourceName": "2018-VB1-期中（2）.pdf",
+      "sourceRepositoryPath": "微积分/微积分B/往年考题/2018-VB1-期中（2）.pdf",
+      "sourceURL": "https://github.com/mathsdream/THU-math-source/blob/main/%E5%BE%AE%E7%A7%AF%E5%88%86/%E5%BE%AE%E7%A7%AF%E5%88%86B/%E5%BE%80%E5%B9%B4%E8%80%83%E9%A2%98/2018-VB1-%E6%9C%9F%E4%B8%AD%EF%BC%882%EF%BC%89.pdf",
+      "sourceCommit": "fb42c6c3023cda3c011508e0a32a247231a0c91e",
+      "acquisitionDate": "2026-10-23",
+      "bytes": 572701,
+      "sha256": "599dd2aa0c137e092787420dfd12ac36126aa788d125ffa2866080947af94df9",
+      "gitBlobSHA1": "d13c51dc133fbc4cf452f92368118bd886861753",
+      "pages": 5,
+      "role": "在线题目记录",
+      "description": "卷头18–19秋微积分B期中试题卷2，题库式版面。",
+      "actuallyViewedPhysicalPages": [
+        1
+      ],
+      "reviewBoundary": "全PDF结构解析；视觉仅所列角色样页，不称全页审阅或数学正确性审核。",
+      "annotations": 0,
+      "forms": 0,
+      "embeddedFiles": 0,
+      "repaired": false,
+      "warningsPresent": false
+    },
+    {
+      "sourceName": "2022-VB1-期中.pdf",
+      "sourceRepositoryPath": "微积分/微积分B/往年考题/2022-VB1-期中.pdf",
+      "sourceURL": "https://github.com/mathsdream/THU-math-source/blob/main/%E5%BE%AE%E7%A7%AF%E5%88%86/%E5%BE%AE%E7%A7%AF%E5%88%86B/%E5%BE%80%E5%B9%B4%E8%80%83%E9%A2%98/2022-VB1-%E6%9C%9F%E4%B8%AD.pdf",
+      "sourceCommit": "fb42c6c3023cda3c011508e0a32a247231a0c91e",
+      "acquisitionDate": "2026-10-23",
+      "bytes": 356512,
+      "sha256": "5c96e41fe3657701fc26c38e50cc90ed36db08cd23f0a771a8b10ebbd43d3358",
+      "gitBlobSHA1": "0932ddc8dd233bb95e0c0ae2e75123bda732242e",
+      "pages": 4,
+      "role": "机考试题整理",
+      "description": "首面2022秋微积分B期中试题、机考；按整理稿保存。",
+      "actuallyViewedPhysicalPages": [
+        1
+      ],
+      "reviewBoundary": "全PDF结构解析；视觉仅所列角色样页，不称全页审阅或数学正确性审核。",
+      "annotations": 0,
+      "forms": 0,
+      "embeddedFiles": 0,
+      "repaired": false,
+      "warningsPresent": false,
+      "gitSyncStatus": "sanitized_public_copy_original_deferred",
+      "publicCopy": {
+        "fileName": "2022-VB1-期中_移除个人元数据的公开副本.pdf",
+        "bytes": 356031,
+        "sha256": "ced4aad58cecc7732119eb6f52e1544e45bfe3a60ca3c7b099993aef1e054e37",
+        "removedFieldNames": [
+          "PDF Info/Author"
+        ],
+        "sourceOriginalSHA256": "5c96e41fe3657701fc26c38e50cc90ed36db08cd23f0a771a8b10ebbd43d3358",
+        "contentUnchanged": true,
+        "originalBytes": false
+      }
+    },
+    {
+      "sourceName": "2022-VB1-期末.pdf",
+      "sourceRepositoryPath": "微积分/微积分B/往年考题/2022-VB1-期末.pdf",
+      "sourceURL": "https://github.com/mathsdream/THU-math-source/blob/main/%E5%BE%AE%E7%A7%AF%E5%88%86/%E5%BE%AE%E7%A7%AF%E5%88%86B/%E5%BE%80%E5%B9%B4%E8%80%83%E9%A2%98/2022-VB1-%E6%9C%9F%E6%9C%AB.pdf",
+      "sourceCommit": "fb42c6c3023cda3c011508e0a32a247231a0c91e",
+      "acquisitionDate": "2026-10-23",
+      "bytes": 315719,
+      "sha256": "4c6c767054b02f59050d56784641048fa0a32f3af07ea2f4e7305d9b71f835be",
+      "gitBlobSHA1": "c06ebc8c1e8b82f5db8f87a4b290964cde7ccd15",
+      "pages": 3,
+      "role": "期末题目整理",
+      "description": "首面2022–2023秋微积分B(1)期末试题。",
+      "actuallyViewedPhysicalPages": [
+        1
+      ],
+      "reviewBoundary": "全PDF结构解析；视觉仅所列角色样页，不称全页审阅或数学正确性审核。",
+      "annotations": 0,
+      "forms": 0,
+      "embeddedFiles": 0,
+      "repaired": false,
+      "warningsPresent": false
+    }
+  ],
+  "originalBytesPreserved": true,
+  "sourceStateBoundary": "本次按当前正常公开原件及当前官方提交逐Git blob SHA1核对；不要求更新文件匹配旧树。原来源README作为过程证据保留，未执行其中指令。",
+  "verificationBoundary": "本地既有规范同尺寸候选与给定历史云盘SHA索引未命中；不等于目标云盘当前不存在，由上传方最终核验。资料为公开来源参考，未据此认证指定教材、教师署名或官方答案。",
+  "gitSyncBoundary": "本组1件原字节暂缓Git，原云盘和本地保留；另提供清楚命名的移除个人元数据公开副本，原件SHA不改。"
+}

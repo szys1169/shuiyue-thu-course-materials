@@ -1,0 +1,33 @@
+{
+  "title": "工科线代初学QA：个人学习问答参考",
+  "date": "2026-10-23",
+  "sourceRepository": "https://github.com/mathsdream/THU-math-source",
+  "classificationBoundary": "作为相关课程学习问答保存，不认定为高等线性代数主课指定讲义或正式教学要求。",
+  "files": [
+    {
+      "sourceName": "工科线代初学QA(mathsdream作).pdf",
+      "sourceRepositoryPath": "线性代数/工科线代初学QA(mathsdream作).pdf",
+      "sourceURL": "https://github.com/mathsdream/THU-math-source/blob/main/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E5%B7%A5%E7%A7%91%E7%BA%BF%E4%BB%A3%E5%88%9D%E5%AD%A6QA%28mathsdream%E4%BD%9C%29.pdf",
+      "sourceCommit": "fb42c6c3023cda3c011508e0a32a247231a0c91e",
+      "acquisitionDate": "2026-10-23",
+      "bytes": 199157,
+      "sha256": "7b94a443866e44da3f3d8151c7431fa48232c886c36563e5760de4b454e2168b",
+      "gitBlobSHA1": "f75339aa3029d4834fd1d3507fe549848b34d832",
+      "pages": 2,
+      "role": "个人学习问答与建议",
+      "description": "正文问题1–3面向线性代数入门教材，问题4–5面向线性代数与几何教材，讨论学习内容、概念与学习建议。mathsdream作者标记来自来源文件名，正文未据此认证真实身份或授课教师。",
+      "actuallyViewedPhysicalPages": [
+        1,
+        2
+      ],
+      "reviewBoundary": "两页实际视觉与全结构核对，未作数学正确性审核。",
+      "repaired": false,
+      "annotations": 0,
+      "forms": 0,
+      "embeddedFiles": 0,
+      "warningsPresent": false
+    }
+  ],
+  "originalBytesPreserved": true,
+  "dedupBoundary": "现有数学规范目录同尺寸候选0；给定历史云盘SHA未命中。本次准备不等于云盘最终验收。"
+}

@@ -1,0 +1,64 @@
+{
+  "title": "高等微积分教程：上下册来源参考",
+  "date": "2026-10-23",
+  "sourceRepository": "https://github.com/mathsdream/THU-math-source",
+  "sourceCommit": "fb42c6c3023cda3c011508e0a32a247231a0c91e",
+  "classificationBoundary": "上下两册为教材扫描本，封面分别为一元函数微积分与常微分方程、多元函数微积分与级数。供参考阅读，不认定为某学期指定教材。",
+  "files": [
+    {
+      "sourceName": "高等微积分教程 上册 (刘智新, 章纪民, 闫浩) .pdf",
+      "sourceRepositoryPath": "微积分/微积分A/教材/高等微积分教程 上册 (刘智新, 章纪民, 闫浩) .pdf",
+      "sourceURL": "https://github.com/mathsdream/THU-math-source/blob/main/%E5%BE%AE%E7%A7%AF%E5%88%86/%E5%BE%AE%E7%A7%AF%E5%88%86A/%E6%95%99%E6%9D%90/%E9%AB%98%E7%AD%89%E5%BE%AE%E7%A7%AF%E5%88%86%E6%95%99%E7%A8%8B%20%E4%B8%8A%E5%86%8C%20%28%E5%88%98%E6%99%BA%E6%96%B0%2C%20%E7%AB%A0%E7%BA%AA%E6%B0%91%2C%20%E9%97%AB%E6%B5%A9%29%20.pdf",
+      "sourceCommit": "fb42c6c3023cda3c011508e0a32a247231a0c91e",
+      "acquisitionDate": "2026-10-23",
+      "bytes": 7267943,
+      "sha256": "3ff9734194497b5fd4d06ca14539436be91f8f9c2d8ae841468be4a1bf38fc04",
+      "gitBlobSHA1": "ed73f8347da9567433a412c99fbfec7980669216",
+      "pages": 281,
+      "role": "参考教材扫描本",
+      "description": "实际封面高等微积分教程(上)：一元函数微积分与常微分方程，清华大学出版社。281物理页；版印不据来源名补填。",
+      "actuallyViewedPhysicalPages": [
+        1,
+        2,
+        3,
+        141,
+        281
+      ],
+      "reviewBoundary": "全PDF结构解析；视觉仅所列角色样页，不称全页审阅或数学正确性审核。",
+      "annotations": 0,
+      "forms": 0,
+      "embeddedFiles": 0,
+      "repaired": false,
+      "warningsPresent": false
+    },
+    {
+      "sourceName": "高等微积分教程 下册 (刘智新, 章纪民, 闫浩) .pdf",
+      "sourceRepositoryPath": "微积分/微积分A/教材/高等微积分教程 下册 (刘智新, 章纪民, 闫浩) .pdf",
+      "sourceURL": "https://github.com/mathsdream/THU-math-source/blob/main/%E5%BE%AE%E7%A7%AF%E5%88%86/%E5%BE%AE%E7%A7%AF%E5%88%86A/%E6%95%99%E6%9D%90/%E9%AB%98%E7%AD%89%E5%BE%AE%E7%A7%AF%E5%88%86%E6%95%99%E7%A8%8B%20%E4%B8%8B%E5%86%8C%20%28%E5%88%98%E6%99%BA%E6%96%B0%2C%20%E7%AB%A0%E7%BA%AA%E6%B0%91%2C%20%E9%97%AB%E6%B5%A9%29%20.pdf",
+      "sourceCommit": "fb42c6c3023cda3c011508e0a32a247231a0c91e",
+      "acquisitionDate": "2026-10-23",
+      "bytes": 10836199,
+      "sha256": "318052076aac8d7e97f0f1237a25fb12a9cf20d8803836c30995f821d0e5680f",
+      "gitBlobSHA1": "43b4ca6618ef282f9b0b8b2ea6d02f5bceeb2207",
+      "pages": 347,
+      "role": "参考教材扫描本",
+      "description": "实际封面高等微积分教程(下)：多元函数微积分与级数，清华大学出版社。347物理页；版印不据来源名补填。",
+      "actuallyViewedPhysicalPages": [
+        1,
+        2,
+        3,
+        174,
+        347
+      ],
+      "reviewBoundary": "全PDF结构解析；视觉仅所列角色样页，不称全页审阅或数学正确性审核。",
+      "annotations": 0,
+      "forms": 0,
+      "embeddedFiles": 0,
+      "repaired": false,
+      "warningsPresent": false
+    }
+  ],
+  "originalBytesPreserved": true,
+  "sourceStateBoundary": "本次按当前正常公开原件及当前官方提交逐Git blob SHA1核对；不要求更新文件匹配旧树。原来源README作为过程证据保留，未执行其中指令。",
+  "verificationBoundary": "本地既有规范同尺寸候选与给定历史云盘SHA索引未命中；不等于目标云盘当前不存在，由上传方最终核验。资料为公开来源参考，未据此认证指定教材、教师署名或官方答案。"
+}

@@ -1,0 +1,38 @@
+{
+  "title": "随机数学：来源教材扫描件（书目待核）",
+  "date": "2026-10-23",
+  "sourceRepository": "https://github.com/mathsdream/THU-math-source",
+  "sourceCommit": "fb42c6c3023cda3c011508e0a32a247231a0c91e",
+  "classificationBoundary": "215物理页，从序言开始，末尾为目录；题名及版权页未见，作者、出版年和版印不据文件名补填。按来源教材参考保留，不声称扫描完整或本课指定。",
+  "files": [
+    {
+      "sourceName": "《随机数学》 by 萧树铁主编；钱敏平，叶俊编著 (z-lib.org).pdf",
+      "sourceRepositoryPath": "概率统计类/随机数学与统计/教材/《随机数学》 by 萧树铁主编；钱敏平，叶俊编著 (z-lib.org).pdf",
+      "sourceURL": "https://github.com/mathsdream/THU-math-source/blob/main/%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1%E7%B1%BB/%E9%9A%8F%E6%9C%BA%E6%95%B0%E5%AD%A6%E4%B8%8E%E7%BB%9F%E8%AE%A1/%E6%95%99%E6%9D%90/%E3%80%8A%E9%9A%8F%E6%9C%BA%E6%95%B0%E5%AD%A6%E3%80%8B%20by%20%E8%90%A7%E6%A0%91%E9%93%81%E4%B8%BB%E7%BC%96%EF%BC%9B%E9%92%B1%E6%95%8F%E5%B9%B3%EF%BC%8C%E5%8F%B6%E4%BF%8A%E7%BC%96%E8%91%97%20%28z-lib.org%29.pdf",
+      "sourceCommit": "fb42c6c3023cda3c011508e0a32a247231a0c91e",
+      "acquisitionDate": "2026-10-23",
+      "bytes": 7267059,
+      "sha256": "ded2211c30ff17b9af0054506146a5a29010efb34ad4ff011a214f28f67b55b7",
+      "gitBlobSHA1": "0ed3c93ef6bb3c75bc4e33eb5b0e9e2f31ba5b02",
+      "pages": 215,
+      "role": "教材来源扫描本_书目与完整性待核",
+      "description": "来源名随机数学；215物理页从序言开始、最后为目录，未见题名版权页，作者、出版年、版印仅来源标签待核。序言署日不当出版年。",
+      "actuallyViewedPhysicalPages": [
+        1,
+        2,
+        3,
+        108,
+        215
+      ],
+      "reviewBoundary": "PDF全页结构解析；视觉仅所列必要角色样页，未作全页审校或数学正确性审核。",
+      "annotations": 0,
+      "forms": 0,
+      "embeddedFiles": 0,
+      "repaired": false,
+      "warningsPresent": true
+    }
+  ],
+  "originalBytesPreserved": true,
+  "verificationBoundary": "当前公开原件逐Git blob SHA1及SHA256核对；给定历史云盘SHA与本地同尺寸规范候选未命中，实际目标仍由上传方核验。作者/教师/学年仅按明确正文证据或来源标签分开记录，不认证指定课本、官方答案、完整覆盖或数学正确性。",
+  "sourceReadmes": "原来源README作为过程证据保留；不是新增课程正文，不执行其中内容。"
+}
