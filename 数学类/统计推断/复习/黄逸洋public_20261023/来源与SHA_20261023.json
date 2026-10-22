@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-23",
+  "source": "黄逸洋public",
+  "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E7%BB%9F%E8%AE%A1%E6%8E%A8%E6%96%AD%2F%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0&mode=list",
+  "cloudDirectoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BB%9F%E8%AE%A1%E6%8E%A8%E6%96%AD/%E5%A4%8D%E4%B9%A0/%E9%BB%84%E9%80%B8%E6%B4%8Bpublic_20261023",
+  "role": "2份学习整理：顾一马稿实际为8页多元线性回归专题；另一件是单PDF页的长幅手写复习提纲。不据原名认完整课程笔记或当前考试范围。",
+  "files": [
+    {
+      "group": 2,
+      "sourceFileName": "（整理）统计推断-顾一马.pdf",
+      "sourcePathInSharedCourse": "/2.1_数学类_统计推断/复习笔记/（整理）统计推断-顾一马.pdf",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E7%BB%9F%E8%AE%A1%E6%8E%A8%E6%96%AD%2F%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0%2F%EF%BC%88%E6%95%B4%E7%90%86%EF%BC%89%E7%BB%9F%E8%AE%A1%E6%8E%A8%E6%96%AD-%E9%A1%BE%E4%B8%80%E9%A9%AC.pdf",
+      "cloudPreviewURL": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BB%9F%E8%AE%A1%E6%8E%A8%E6%96%AD/%E5%A4%8D%E4%B9%A0/%E9%BB%84%E9%80%B8%E6%B4%8Bpublic_20261023/%EF%BC%88%E6%95%B4%E7%90%86%EF%BC%89%E7%BB%9F%E8%AE%A1%E6%8E%A8%E6%96%AD-%E9%A1%BE%E4%B8%80%E9%A9%AC.pdf",
+      "bytes": 616959,
+      "sha256": "3c50d871b76f4b311531b6a2ab7fc7e81597714c5aee7cd55e607874948ec218",
+      "PDFFilePages": 8,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/统计推断/复习/黄逸洋public_20261023/（整理）统计推断-顾一马.pdf"
+    },
+    {
+      "group": 2,
+      "sourceFileName": "统计推断-刘汉中-2023秋期末复习.pdf",
+      "sourcePathInSharedCourse": "/2.1_数学类_统计推断/复习笔记/统计推断-刘汉中-2023秋期末复习.pdf",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E7%BB%9F%E8%AE%A1%E6%8E%A8%E6%96%AD%2F%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0%2F%E7%BB%9F%E8%AE%A1%E6%8E%A8%E6%96%AD-%E5%88%98%E6%B1%89%E4%B8%AD-2023%E7%A7%8B%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0.pdf",
+      "cloudPreviewURL": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E7%BB%9F%E8%AE%A1%E6%8E%A8%E6%96%AD/%E5%A4%8D%E4%B9%A0/%E9%BB%84%E9%80%B8%E6%B4%8Bpublic_20261023/%E7%BB%9F%E8%AE%A1%E6%8E%A8%E6%96%AD-%E5%88%98%E6%B1%89%E4%B8%AD-2023%E7%A7%8B%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0.pdf",
+      "bytes": 13559140,
+      "sha256": "368097ebcee9d77b89e9d3c397c5be7c8b0bc0c15b38fc6e54ad7801752eb006",
+      "PDFFilePages": 1,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/统计推断/复习/黄逸洋public_20261023/统计推断-刘汉中-2023秋期末复习.pdf"
+    }
+  ],
+  "validation": "统计推断6件本轮正常UI回取，3运输ZIP共12文件完整CRC、精确文件集、6原件SHA与本地回读通过；6旧分组说明原字节保持。",
+  "reviewBoundary": "7 PDF共50文件页做静态文字、Info/XMP、批注署名、附件和表单检查，并实际查看12必要首末/角色页；不是50页全部人工隐私或数学正确性认证。正常作者署名与软件属性按来源保留，无正文改写、元数据清除或代码运行。",
+  "rawArchivesPublished": false
+}
