@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-23",
+  "source": "黄逸洋public",
+  "course": "储能技术",
+  "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E5%82%A8%E8%83%BD%E6%8A%80%E6%9C%AF&mode=list",
+  "cloudDirectoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E5%B7%A5%E7%A8%8B%E6%8A%80%E6%9C%AF%E7%B1%BB/%E5%82%A8%E8%83%BD%E6%8A%80%E6%9C%AF/%E5%BE%80%E5%B9%B4%E9%A2%98/%E9%BB%84%E9%80%B8%E6%B4%8Bpublic_2020%E5%82%A8%E8%83%BD%E6%9D%A5%E6%BA%90_20261023",
+  "files": [
+    {
+      "sourceLabel": "E006",
+      "group": 3,
+      "course": "储能技术",
+      "sourceFileName": "储能技术-张扬-2020春期末-马逸.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E5%82%A8%E8%83%BD%E6%8A%80%E6%9C%AF&mode=list",
+      "sourceAliases": [
+        "2.6_能源动力类_储能技术/储能技术-张扬-2020春期末-马逸.pdf",
+        "2.6_能源动力类_储能技术/2020储能期末试卷.pdf"
+      ],
+      "bytes": 696952,
+      "sha256": "0e5b56b200e55c761f50c203080fc8e4a4871a85b20dab7d937a227799292796",
+      "PDFFilePages": 7,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/储能技术/往年题/黄逸洋public_2020储能来源_20261023/储能技术-张扬-2020春期末-马逸.pdf"
+    }
+  ],
+  "verification": "当前Git范围是既有云盘归档的六课锁定本地候选146原件及44说明，原件137份新增、9份暂缓；非本轮重下载全部云盘原件。航天/机械沿此前UI名单与本地SHA完成证据，不称目标全量下载SHA。工程力学13份云端only及来源中身份/密码/待核材料不在此候选。原件及本地旧说明均不覆盖；原包、截图、私有审阅、访问字段值不发布。",
+  "reviewBoundary": "本批146个锁定原件全部重新核SHA，并与仓库blob比对；109份PDF共2512文件页核可提取文字、Info/XMP、批注/表单/附件信息，实际以联系表查看211个首尾/标记角色页和363幅唯一可解码栅格图，非2512页全视觉或全Office版式审阅。DOC按FIB/CLX正文及OLE属性与流字符串核对；DOCX/PPTX核XML、core、外部关系和栅格媒体，旧PPT核文本记录。未执行宏、公式、对象、视频或外链；未完整解码所有矢量/公式对象。",
+  "rawArchivesPublished": false
+}

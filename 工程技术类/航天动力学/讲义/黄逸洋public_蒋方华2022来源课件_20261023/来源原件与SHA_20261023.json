@@ -1,0 +1,220 @@
+{
+  "date": "2026-10-23",
+  "source": "黄逸洋public",
+  "course": "航天动力学",
+  "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E8%88%AA%E5%A4%A9%E5%8A%A8%E5%8A%9B%E5%AD%A6&mode=list",
+  "cloudDirectoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E5%B7%A5%E7%A8%8B%E6%8A%80%E6%9C%AF%E7%B1%BB/%E8%88%AA%E5%A4%A9%E5%8A%A8%E5%8A%9B%E5%AD%A6/%E8%AE%B2%E4%B9%89/%E9%BB%84%E9%80%B8%E6%B4%8Bpublic_%E8%92%8B%E6%96%B9%E5%8D%8E2022%E6%9D%A5%E6%BA%90%E8%AF%BE%E4%BB%B6_20261023",
+  "files": [
+    {
+      "sourceLabel": "E044",
+      "group": 8,
+      "course": "航天动力学",
+      "sourceFileName": "7星际飞行.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E8%88%AA%E5%A4%A9%E5%8A%A8%E5%8A%9B%E5%AD%A6&mode=list",
+      "sourceAliases": [
+        "2.6_能源动力类_航天动力学/航天动力学_复习笔记_马逸/课件2022蒋方华/7星际飞行.pdf",
+        "2.6_能源动力类_航天动力学/航天动力学/航天动力学_复习笔记_马逸/课件2022蒋方华/7星际飞行.pdf"
+      ],
+      "bytes": 3103326,
+      "sha256": "c359dc4d121ea4121f40cb1d968d673fb9df955802d469a7f1031b10e3f6230a",
+      "PDFFilePages": 25,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/航天动力学/讲义/黄逸洋public_蒋方华2022来源课件_20261023/7星际飞行.pdf"
+    },
+    {
+      "sourceLabel": "E045",
+      "group": 8,
+      "course": "航天动力学",
+      "sourceFileName": "6圆型限制性三体问题.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E8%88%AA%E5%A4%A9%E5%8A%A8%E5%8A%9B%E5%AD%A6&mode=list",
+      "sourceAliases": [
+        "2.6_能源动力类_航天动力学/航天动力学_复习笔记_马逸/课件2022蒋方华/6圆型限制性三体问题.pdf",
+        "2.6_能源动力类_航天动力学/航天动力学/航天动力学_复习笔记_马逸/课件2022蒋方华/6圆型限制性三体问题.pdf"
+      ],
+      "bytes": 2886236,
+      "sha256": "e1f82f6e44357755d8c11c32b4b4bd5f1fc475cc02ea8ca12f948cc5b31ec960",
+      "PDFFilePages": 30,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/航天动力学/讲义/黄逸洋public_蒋方华2022来源课件_20261023/6圆型限制性三体问题.pdf"
+    },
+    {
+      "sourceLabel": "E046",
+      "group": 8,
+      "course": "航天动力学",
+      "sourceFileName": "5相对运动.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E8%88%AA%E5%A4%A9%E5%8A%A8%E5%8A%9B%E5%AD%A6&mode=list",
+      "sourceAliases": [
+        "2.6_能源动力类_航天动力学/航天动力学_复习笔记_马逸/课件2022蒋方华/5相对运动.pdf",
+        "2.6_能源动力类_航天动力学/航天动力学/航天动力学_复习笔记_马逸/课件2022蒋方华/5相对运动.pdf"
+      ],
+      "bytes": 2226416,
+      "sha256": "8b97919c2f2862000f3530b4f3cab2d334811b89e0931af9f24270fb04fcd068",
+      "PDFFilePages": 25,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/航天动力学/讲义/黄逸洋public_蒋方华2022来源课件_20261023/5相对运动.pdf"
+    },
+    {
+      "sourceLabel": "E047",
+      "group": 8,
+      "course": "航天动力学",
+      "sourceFileName": "4坐标与时间系统.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E8%88%AA%E5%A4%A9%E5%8A%A8%E5%8A%9B%E5%AD%A6&mode=list",
+      "sourceAliases": [
+        "2.6_能源动力类_航天动力学/航天动力学_复习笔记_马逸/课件2022蒋方华/4坐标与时间系统.pdf",
+        "2.6_能源动力类_航天动力学/航天动力学/航天动力学_复习笔记_马逸/课件2022蒋方华/4坐标与时间系统.pdf"
+      ],
+      "bytes": 2265131,
+      "sha256": "5abb70a8fa506a685d194de25e92bab4b39f592015b0a0d26795f5b064c2d39c",
+      "PDFFilePages": 19,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/航天动力学/讲义/黄逸洋public_蒋方华2022来源课件_20261023/4坐标与时间系统.pdf"
+    },
+    {
+      "sourceLabel": "E048",
+      "group": 8,
+      "course": "航天动力学",
+      "sourceFileName": "3轨道摄动2.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E8%88%AA%E5%A4%A9%E5%8A%A8%E5%8A%9B%E5%AD%A6&mode=list",
+      "sourceAliases": [
+        "2.6_能源动力类_航天动力学/航天动力学_复习笔记_马逸/课件2022蒋方华/3轨道摄动2.pdf",
+        "2.6_能源动力类_航天动力学/航天动力学/航天动力学_复习笔记_马逸/课件2022蒋方华/3轨道摄动2.pdf"
+      ],
+      "bytes": 1493865,
+      "sha256": "1aec4a5e52a94ef82ebb1562c26bcffadb7fa009c1a64abdbd0cbf9ef3ae4329",
+      "PDFFilePages": 19,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/航天动力学/讲义/黄逸洋public_蒋方华2022来源课件_20261023/3轨道摄动2.pdf"
+    },
+    {
+      "sourceLabel": "E049",
+      "group": 8,
+      "course": "航天动力学",
+      "sourceFileName": "3轨道摄动1.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E8%88%AA%E5%A4%A9%E5%8A%A8%E5%8A%9B%E5%AD%A6&mode=list",
+      "sourceAliases": [
+        "2.6_能源动力类_航天动力学/航天动力学_复习笔记_马逸/课件2022蒋方华/3轨道摄动1.pdf",
+        "2.6_能源动力类_航天动力学/航天动力学/航天动力学_复习笔记_马逸/课件2022蒋方华/3轨道摄动1.pdf"
+      ],
+      "bytes": 1033311,
+      "sha256": "8470b32e0d15b1a7f4f1b39b1c33cff66b2ae696d93318358902160219fdd567",
+      "PDFFilePages": 19,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/航天动力学/讲义/黄逸洋public_蒋方华2022来源课件_20261023/3轨道摄动1.pdf"
+    },
+    {
+      "sourceLabel": "E050",
+      "group": 8,
+      "course": "航天动力学",
+      "sourceFileName": "2轨道机动2-3.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E8%88%AA%E5%A4%A9%E5%8A%A8%E5%8A%9B%E5%AD%A6&mode=list",
+      "sourceAliases": [
+        "2.6_能源动力类_航天动力学/航天动力学_复习笔记_马逸/课件2022蒋方华/2轨道机动2-3.pdf",
+        "2.6_能源动力类_航天动力学/航天动力学/航天动力学_复习笔记_马逸/课件2022蒋方华/2轨道机动2-3.pdf"
+      ],
+      "bytes": 2277467,
+      "sha256": "80b683de144ca1cf2f2955681e30ed1d887ccfad5dc7be3e8e803db6b40f7c62",
+      "PDFFilePages": 27,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/航天动力学/讲义/黄逸洋public_蒋方华2022来源课件_20261023/2轨道机动2-3.pdf"
+    },
+    {
+      "sourceLabel": "E051",
+      "group": 8,
+      "course": "航天动力学",
+      "sourceFileName": "2轨道机动1.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E8%88%AA%E5%A4%A9%E5%8A%A8%E5%8A%9B%E5%AD%A6&mode=list",
+      "sourceAliases": [
+        "2.6_能源动力类_航天动力学/航天动力学_复习笔记_马逸/课件2022蒋方华/2轨道机动1.pdf",
+        "2.6_能源动力类_航天动力学/航天动力学/航天动力学_复习笔记_马逸/课件2022蒋方华/2轨道机动1.pdf"
+      ],
+      "bytes": 1040362,
+      "sha256": "1625a367c61f28cd3b0432ad18c512e7d92d8684b52ba5497010a5da12b0ebd9",
+      "PDFFilePages": 13,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/航天动力学/讲义/黄逸洋public_蒋方华2022来源课件_20261023/2轨道机动1.pdf"
+    },
+    {
+      "sourceLabel": "E052",
+      "group": 8,
+      "course": "航天动力学",
+      "sourceFileName": "1二体问题4.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E8%88%AA%E5%A4%A9%E5%8A%A8%E5%8A%9B%E5%AD%A6&mode=list",
+      "sourceAliases": [
+        "2.6_能源动力类_航天动力学/航天动力学_复习笔记_马逸/课件2022蒋方华/1二体问题4.pdf",
+        "2.6_能源动力类_航天动力学/航天动力学/航天动力学_复习笔记_马逸/课件2022蒋方华/1二体问题4.pdf"
+      ],
+      "bytes": 2135862,
+      "sha256": "acd390847c54e8de4f68b37ba4562e9ab91ae754e66b9d8b8932afbbf6e4c380",
+      "PDFFilePages": 20,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/航天动力学/讲义/黄逸洋public_蒋方华2022来源课件_20261023/1二体问题4.pdf"
+    },
+    {
+      "sourceLabel": "E053",
+      "group": 8,
+      "course": "航天动力学",
+      "sourceFileName": "1二体问题3.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E8%88%AA%E5%A4%A9%E5%8A%A8%E5%8A%9B%E5%AD%A6&mode=list",
+      "sourceAliases": [
+        "2.6_能源动力类_航天动力学/航天动力学_复习笔记_马逸/课件2022蒋方华/1二体问题3.pdf",
+        "2.6_能源动力类_航天动力学/航天动力学/航天动力学_复习笔记_马逸/课件2022蒋方华/1二体问题3.pdf"
+      ],
+      "bytes": 1031577,
+      "sha256": "232bdfa75d015c51e7dc709e68522f9de0d22f73a6663c8f084776612a5f2f27",
+      "PDFFilePages": 15,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/航天动力学/讲义/黄逸洋public_蒋方华2022来源课件_20261023/1二体问题3.pdf"
+    },
+    {
+      "sourceLabel": "E054",
+      "group": 8,
+      "course": "航天动力学",
+      "sourceFileName": "1二体问题2.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E8%88%AA%E5%A4%A9%E5%8A%A8%E5%8A%9B%E5%AD%A6&mode=list",
+      "sourceAliases": [
+        "2.6_能源动力类_航天动力学/航天动力学_复习笔记_马逸/课件2022蒋方华/1二体问题2.pdf",
+        "2.6_能源动力类_航天动力学/航天动力学/航天动力学_复习笔记_马逸/课件2022蒋方华/1二体问题2.pdf"
+      ],
+      "bytes": 1135818,
+      "sha256": "b04a2d0ed432d309beb044399d2d07bda7a7137d372988bbb303e82b86a99f4a",
+      "PDFFilePages": 12,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/航天动力学/讲义/黄逸洋public_蒋方华2022来源课件_20261023/1二体问题2.pdf"
+    },
+    {
+      "sourceLabel": "E055",
+      "group": 8,
+      "course": "航天动力学",
+      "sourceFileName": "1二体问题1.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E8%88%AA%E5%A4%A9%E5%8A%A8%E5%8A%9B%E5%AD%A6&mode=list",
+      "sourceAliases": [
+        "2.6_能源动力类_航天动力学/航天动力学_复习笔记_马逸/课件2022蒋方华/1二体问题1.pdf",
+        "2.6_能源动力类_航天动力学/航天动力学/航天动力学_复习笔记_马逸/课件2022蒋方华/1二体问题1.pdf"
+      ],
+      "bytes": 1291331,
+      "sha256": "7e5978b79ff1fc7b4de0a5dd559d0cc6e8548dcc7e9d7b3781256711c54986b4",
+      "PDFFilePages": 17,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/航天动力学/讲义/黄逸洋public_蒋方华2022来源课件_20261023/1二体问题1.pdf"
+    },
+    {
+      "sourceLabel": "E056",
+      "group": 8,
+      "course": "航天动力学",
+      "sourceFileName": "0绪论.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E8%88%AA%E5%A4%A9%E5%8A%A8%E5%8A%9B%E5%AD%A6&mode=list",
+      "sourceAliases": [
+        "2.6_能源动力类_航天动力学/航天动力学_复习笔记_马逸/课件2022蒋方华/0绪论.pdf",
+        "2.6_能源动力类_航天动力学/航天动力学/航天动力学_复习笔记_马逸/课件2022蒋方华/0绪论.pdf"
+      ],
+      "bytes": 7075660,
+      "sha256": "66c4a851eb80dc5fa70f7c51f7861162a5f4eaa63b44b960c4df39d3a12e4566",
+      "PDFFilePages": 47,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/航天动力学/讲义/黄逸洋public_蒋方华2022来源课件_20261023/0绪论.pdf"
+    }
+  ],
+  "verification": "当前Git范围是既有云盘归档的六课锁定本地候选146原件及44说明，原件137份新增、9份暂缓；非本轮重下载全部云盘原件。航天/机械沿此前UI名单与本地SHA完成证据，不称目标全量下载SHA。工程力学13份云端only及来源中身份/密码/待核材料不在此候选。原件及本地旧说明均不覆盖；原包、截图、私有审阅、访问字段值不发布。",
+  "reviewBoundary": "本批146个锁定原件全部重新核SHA，并与仓库blob比对；109份PDF共2512文件页核可提取文字、Info/XMP、批注/表单/附件信息，实际以联系表查看211个首尾/标记角色页和363幅唯一可解码栅格图，非2512页全视觉或全Office版式审阅。DOC按FIB/CLX正文及OLE属性与流字符串核对；DOCX/PPTX核XML、core、外部关系和栅格媒体，旧PPT核文本记录。未执行宏、公式、对象、视频或外链；未完整解码所有矢量/公式对象。",
+  "rawArchivesPublished": false
+}

@@ -1,0 +1,264 @@
+{
+  "date": "2026-10-23",
+  "source": "黄逸洋public",
+  "course": "控制工程基础",
+  "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80%2F%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6&mode=list",
+  "cloudDirectoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E5%B7%A5%E7%A8%8B%E6%8A%80%E6%9C%AF%E7%B1%BB/%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80/%E8%AE%B2%E4%B9%89/%E9%BB%84%E9%80%B8%E6%B4%8Bpublic_%E6%9D%8E%E5%86%AC%E6%A2%85%E6%9D%A5%E6%BA%90%E8%AF%BE%E4%BB%B6_20261023",
+  "files": [
+    {
+      "sourceLabel": "E080",
+      "group": 14,
+      "course": "控制工程基础",
+      "sourceFileName": "控制工程基础——L9（第6章）.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80%2F%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6&mode=list",
+      "sourceAliases": [
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80%2F%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6&mode=list",
+          "member": "课件/控制工程基础——L9（第6章）.pdf"
+        }
+      ],
+      "bytes": 2689217,
+      "sha256": "73e7b0b047b77bdb703873a4de478e7eda72f47456899a694a46d9c77adf278e",
+      "PDFFilePages": 89,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/控制工程基础/讲义/黄逸洋public_李冬梅来源课件_20261023/控制工程基础——L9（第6章）.pdf"
+    },
+    {
+      "sourceLabel": "E081",
+      "group": 14,
+      "course": "控制工程基础",
+      "sourceFileName": "控制工程基础——L8（第5章）.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80%2F%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6&mode=list",
+      "sourceAliases": [
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80%2F%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6&mode=list",
+          "member": "课件/控制工程基础——L8（第5章）.pdf"
+        }
+      ],
+      "bytes": 2305403,
+      "sha256": "09b29d06660554e54226764a1adb760341d367b21efd4652e4cda24980763d97",
+      "PDFFilePages": 66,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/控制工程基础/讲义/黄逸洋public_李冬梅来源课件_20261023/控制工程基础——L8（第5章）.pdf"
+    },
+    {
+      "sourceLabel": "E082",
+      "group": 14,
+      "course": "控制工程基础",
+      "sourceFileName": "控制工程基础——L7（第5章）.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80%2F%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6&mode=list",
+      "sourceAliases": [
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80%2F%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6&mode=list",
+          "member": "课件/控制工程基础——L7（第5章）.pdf"
+        }
+      ],
+      "bytes": 5438087,
+      "sha256": "ffd5b274ccf7dce5aea3f15b9b8d0f74442fc999b8ba6d39c949d5aed08e3767",
+      "PDFFilePages": 109,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/控制工程基础/讲义/黄逸洋public_李冬梅来源课件_20261023/控制工程基础——L7（第5章）.pdf"
+    },
+    {
+      "sourceLabel": "E083",
+      "group": 14,
+      "course": "控制工程基础",
+      "sourceFileName": "控制工程基础——L6（第4章）.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80%2F%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6&mode=list",
+      "sourceAliases": [
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80%2F%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6&mode=list",
+          "member": "课件/控制工程基础——L6（第4章）.pdf"
+        }
+      ],
+      "bytes": 7611401,
+      "sha256": "443de32058092f2160a2d82ec47cc1722e141a003b715ff17ee80e8ffa060f43",
+      "PDFFilePages": 115,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/控制工程基础/讲义/黄逸洋public_李冬梅来源课件_20261023/控制工程基础——L6（第4章）.pdf"
+    },
+    {
+      "sourceLabel": "E084",
+      "group": 14,
+      "course": "控制工程基础",
+      "sourceFileName": "控制工程基础——L5（第4章）.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80%2F%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6&mode=list",
+      "sourceAliases": [
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80%2F%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6&mode=list",
+          "member": "课件/控制工程基础——L5（第4章）.pdf"
+        }
+      ],
+      "bytes": 4348071,
+      "sha256": "16ea6b7587ac2eaa5baa4f4eb5e11bc6995a0c03c4123325c79c9934e99c15c4",
+      "PDFFilePages": 100,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/控制工程基础/讲义/黄逸洋public_李冬梅来源课件_20261023/控制工程基础——L5（第4章）.pdf"
+    },
+    {
+      "sourceLabel": "E085",
+      "group": 14,
+      "course": "控制工程基础",
+      "sourceFileName": "控制工程基础——L4（第3章）.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80%2F%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6&mode=list",
+      "sourceAliases": [
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80%2F%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6&mode=list",
+          "member": "课件/控制工程基础——L4（第3章）.pdf"
+        }
+      ],
+      "bytes": 5230992,
+      "sha256": "1bede09eb353a8542ebdc142c7a0e31330e08323a024734c95b4d01884391d96",
+      "PDFFilePages": 132,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/控制工程基础/讲义/黄逸洋public_李冬梅来源课件_20261023/控制工程基础——L4（第3章）.pdf"
+    },
+    {
+      "sourceLabel": "E086",
+      "group": 14,
+      "course": "控制工程基础",
+      "sourceFileName": "控制工程基础——L3（第2章）.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80%2F%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6&mode=list",
+      "sourceAliases": [
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80%2F%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6&mode=list",
+          "member": "课件/控制工程基础——L3（第2章）.pdf"
+        }
+      ],
+      "bytes": 2998539,
+      "sha256": "3e2203289cd791f4b102be54642ae8c0dfaf35f6f46c58bb33a34df375c20d5d",
+      "PDFFilePages": 90,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/控制工程基础/讲义/黄逸洋public_李冬梅来源课件_20261023/控制工程基础——L3（第2章）.pdf"
+    },
+    {
+      "sourceLabel": "E087",
+      "group": 14,
+      "course": "控制工程基础",
+      "sourceFileName": "控制工程基础——L2（第2章）.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80%2F%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6&mode=list",
+      "sourceAliases": [
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80%2F%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6&mode=list",
+          "member": "课件/控制工程基础——L2（第2章）.pdf"
+        }
+      ],
+      "bytes": 4575225,
+      "sha256": "921745a5d2494c6d51021f08c33dc789e5bd683ac20ce8b50a5a17b8d860b997",
+      "PDFFilePages": 128,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/控制工程基础/讲义/黄逸洋public_李冬梅来源课件_20261023/控制工程基础——L2（第2章）.pdf"
+    },
+    {
+      "sourceLabel": "E088",
+      "group": 14,
+      "course": "控制工程基础",
+      "sourceFileName": "控制工程基础——L15（实验三）.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80%2F%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6&mode=list",
+      "sourceAliases": [
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80%2F%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6&mode=list",
+          "member": "课件/控制工程基础——L15（实验三）.pdf"
+        }
+      ],
+      "bytes": 7679003,
+      "sha256": "3027d1163f1fe5f40491b14167c40f2c648b418a89d7ec46931fba773fd51d5d",
+      "PDFFilePages": 66,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/控制工程基础/讲义/黄逸洋public_李冬梅来源课件_20261023/控制工程基础——L15（实验三）.pdf"
+    },
+    {
+      "sourceLabel": "E089",
+      "group": 14,
+      "course": "控制工程基础",
+      "sourceFileName": "控制工程基础——L14（实验二）.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80%2F%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6&mode=list",
+      "sourceAliases": [
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80%2F%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6&mode=list",
+          "member": "课件/控制工程基础——L14（实验二）.pdf"
+        }
+      ],
+      "bytes": 12092602,
+      "sha256": "b79a0a28aaaba961804cff06425d8fa7a5c22915da99224160c4f7c1bebe30a2",
+      "PDFFilePages": 90,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/控制工程基础/讲义/黄逸洋public_李冬梅来源课件_20261023/控制工程基础——L14（实验二）.pdf"
+    },
+    {
+      "sourceLabel": "E090",
+      "group": 14,
+      "course": "控制工程基础",
+      "sourceFileName": "控制工程基础——L13（第10章）.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80%2F%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6&mode=list",
+      "sourceAliases": [
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80%2F%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6&mode=list",
+          "member": "课件/控制工程基础——L13（第10章）.pdf"
+        }
+      ],
+      "bytes": 3486929,
+      "sha256": "45d2ab86fd19527472a2cd263d8907b74f81330391149046c6c3741cc6a7cbb9",
+      "PDFFilePages": 79,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/控制工程基础/讲义/黄逸洋public_李冬梅来源课件_20261023/控制工程基础——L13（第10章）.pdf"
+    },
+    {
+      "sourceLabel": "E091",
+      "group": 14,
+      "course": "控制工程基础",
+      "sourceFileName": "控制工程基础——L12（第7章实验分析）.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80%2F%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6&mode=list",
+      "sourceAliases": [
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80%2F%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6&mode=list",
+          "member": "课件/控制工程基础——L12（第7章实验分析）.pdf"
+        }
+      ],
+      "bytes": 3304191,
+      "sha256": "4c1581c11806905346559b018d66e4c28898fd22672b941c727362cc7a1c14fb",
+      "PDFFilePages": 90,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/控制工程基础/讲义/黄逸洋public_李冬梅来源课件_20261023/控制工程基础——L12（第7章实验分析）.pdf"
+    },
+    {
+      "sourceLabel": "E092",
+      "group": 14,
+      "course": "控制工程基础",
+      "sourceFileName": "控制工程基础——L11（第7章）.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80%2F%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6&mode=list",
+      "sourceAliases": [
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80%2F%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6&mode=list",
+          "member": "课件/控制工程基础——L11（第7章）.pdf"
+        }
+      ],
+      "bytes": 2504368,
+      "sha256": "4776e39599d6c3b73aa9194d19063e317d85a8281e9517f0ac52c9c8fd934733",
+      "PDFFilePages": 66,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/控制工程基础/讲义/黄逸洋public_李冬梅来源课件_20261023/控制工程基础——L11（第7章）.pdf"
+    },
+    {
+      "sourceLabel": "E093",
+      "group": 14,
+      "course": "控制工程基础",
+      "sourceFileName": "控制工程基础——L10（第7章）.pdf",
+      "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80%2F%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6&mode=list",
+      "sourceAliases": [
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80%2F%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6&mode=list",
+          "member": "课件/控制工程基础——L10（第7章）.pdf"
+        }
+      ],
+      "bytes": 3717129,
+      "sha256": "b296e0d8a5fc4af79705631d50935ef05f3a2a268354d3e29301e22a7d66cb56",
+      "PDFFilePages": 101,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/控制工程基础/讲义/黄逸洋public_李冬梅来源课件_20261023/控制工程基础——L10（第7章）.pdf"
+    }
+  ],
+  "verification": "当前Git范围是既有云盘归档的六课锁定本地候选146原件及44说明，原件137份新增、9份暂缓；非本轮重下载全部云盘原件。航天/机械沿此前UI名单与本地SHA完成证据，不称目标全量下载SHA。工程力学13份云端only及来源中身份/密码/待核材料不在此候选。原件及本地旧说明均不覆盖；原包、截图、私有审阅、访问字段值不发布。",
+  "reviewBoundary": "本批146个锁定原件全部重新核SHA，并与仓库blob比对；109份PDF共2512文件页核可提取文字、Info/XMP、批注/表单/附件信息，实际以联系表查看211个首尾/标记角色页和363幅唯一可解码栅格图，非2512页全视觉或全Office版式审阅。DOC按FIB/CLX正文及OLE属性与流字符串核对；DOCX/PPTX核XML、core、外部关系和栅格媒体，旧PPT核文本记录。未执行宏、公式、对象、视频或外链；未完整解码所有矢量/公式对象。",
+  "rawArchivesPublished": false
+}
