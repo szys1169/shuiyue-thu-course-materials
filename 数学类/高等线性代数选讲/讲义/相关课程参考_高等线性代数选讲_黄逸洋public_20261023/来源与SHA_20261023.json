@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-23",
+  "source": "黄逸洋public",
+  "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2&mode=list",
+  "cloudDirectoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic_20261023",
+  "role": "本组1份期末整理来源PDF。文件名标盛洁、2026春及整理者，仅按来源标签保留；不认本课正式讲义或当期大纲。",
+  "sourcePaths": 1,
+  "sourceUniqueSHA256": 1,
+  "files": [
+    {
+      "sourceRelativePath": "盛洁2026春高等线性代数选讲-期末整理-沈哲浩.pdf",
+      "sourceName": "盛洁2026春高等线性代数选讲-期末整理-沈哲浩.pdf",
+      "sourceBytes": 15678022,
+      "sourceSHA256": "de9692c74674b22d595c6825bf427368c06a4d199ae9eaa4f20a0dc7c260edd5",
+      "group": 5,
+      "pages": 26,
+      "contentRole": "本组1份期末整理来源PDF。文件名标盛洁、2026春及整理者，仅按来源标签保留；不认本课正式讲义或当期大纲。",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2%2F%E7%9B%9B%E6%B4%812026%E6%98%A5%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2-%E6%9C%9F%E6%9C%AB%E6%95%B4%E7%90%86-%E6%B2%88%E5%93%B2%E6%B5%A9.pdf",
+      "cloudPreviewURL": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic_20261023/%E7%9B%9B%E6%B4%812026%E6%98%A5%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2-%E6%9C%9F%E6%9C%AB%E6%95%B4%E7%90%86-%E6%B2%88%E5%93%B2%E6%B5%A9.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/高等线性代数选讲/讲义/相关课程参考_高等线性代数选讲_黄逸洋public_20261023/盛洁2026春高等线性代数选讲-期末整理-沈哲浩.pdf",
+      "publishedBytes": 15678022,
+      "publishedSHA256": "de9692c74674b22d595c6825bf427368c06a4d199ae9eaa4f20a0dc7c260edd5",
+      "storage": "git"
+    }
+  ],
+  "syncCounts": {
+    "published_original_bytes": 1
+  },
+  "downloadVerification": "本轮通过正常云盘界面下载既有归档来源组，运输ZIP逐成员CRC通过，原件逐尺寸/SHA并本地回读一致；原来源路径与归档路径的名字/显示大小来自此前实际UI核对，未宣称本轮每个共享源原件再次下载。",
+  "reviewBoundary": "全部104路径97PDF/6原始MD/1DOC作静态文字及元数据筛查，必要角色与命中样页实际查看；没有对全部2603文件页作人工净审或数学正确性认证。普通著作作者/出版联系信息与软件构建日期保留。",
+  "rawArchivesPublished": false
+}

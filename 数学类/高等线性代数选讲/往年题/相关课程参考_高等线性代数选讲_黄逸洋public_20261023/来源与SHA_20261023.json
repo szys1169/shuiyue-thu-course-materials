@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-23",
+  "source": "黄逸洋public",
+  "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2&mode=list",
+  "cloudDirectoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic_20261023",
+  "role": "本组2份期末样卷来源PDF，来源名分别为样卷一、二；不由文件名认作实际举行的正式期末考试，不推定年份、教师命题或标准答案。",
+  "sourcePaths": 2,
+  "sourceUniqueSHA256": 2,
+  "files": [
+    {
+      "sourceRelativePath": "盛洁2026春高等线性代数选讲-期末样卷一-沈哲浩.pdf",
+      "sourceName": "盛洁2026春高等线性代数选讲-期末样卷一-沈哲浩.pdf",
+      "sourceBytes": 52912,
+      "sourceSHA256": "e565c3c64cb810343d9ab6d65b3e6db9ef6ad60787f35f3efe0e2909a99e1eaf",
+      "group": 6,
+      "pages": 2,
+      "contentRole": "本组2份期末样卷来源PDF，来源名分别为样卷一、二；不由文件名认作实际举行的正式期末考试，不推定年份、教师命题或标准答案。",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2%2F%E7%9B%9B%E6%B4%812026%E6%98%A5%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2-%E6%9C%9F%E6%9C%AB%E6%A0%B7%E5%8D%B7%E4%B8%80-%E6%B2%88%E5%93%B2%E6%B5%A9.pdf",
+      "cloudPreviewURL": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic_20261023/%E7%9B%9B%E6%B4%812026%E6%98%A5%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2-%E6%9C%9F%E6%9C%AB%E6%A0%B7%E5%8D%B7%E4%B8%80-%E6%B2%88%E5%93%B2%E6%B5%A9.pdf",
+      "gitSyncStatus": "reuse_existing_exact_SHA",
+      "gitRepoPath": "数学类/高等线性代数选讲/往年题/模拟卷与样卷/未标年份样卷/样卷一.pdf",
+      "existingRepoPaths": [
+        "数学类/高等线性代数选讲/往年题/模拟卷与样卷/未标年份样卷/样卷一.pdf"
+      ]
+    },
+    {
+      "sourceRelativePath": "盛洁2026春高等线性代数选讲-期末样卷二-沈哲浩.pdf",
+      "sourceName": "盛洁2026春高等线性代数选讲-期末样卷二-沈哲浩.pdf",
+      "sourceBytes": 341217,
+      "sourceSHA256": "4685d073281be55d2176f1d97f95c9ce6bf1c84738a7c36d8a45eb232ba43ce2",
+      "group": 6,
+      "pages": 2,
+      "contentRole": "本组2份期末样卷来源PDF，来源名分别为样卷一、二；不由文件名认作实际举行的正式期末考试，不推定年份、教师命题或标准答案。",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2%2F%E7%9B%9B%E6%B4%812026%E6%98%A5%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2-%E6%9C%9F%E6%9C%AB%E6%A0%B7%E5%8D%B7%E4%BA%8C-%E6%B2%88%E5%93%B2%E6%B5%A9.pdf",
+      "cloudPreviewURL": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic_20261023/%E7%9B%9B%E6%B4%812026%E6%98%A5%E9%AB%98%E7%AD%89%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E9%80%89%E8%AE%B2-%E6%9C%9F%E6%9C%AB%E6%A0%B7%E5%8D%B7%E4%BA%8C-%E6%B2%88%E5%93%B2%E6%B5%A9.pdf",
+      "gitSyncStatus": "reuse_existing_exact_SHA",
+      "gitRepoPath": "数学类/高等线性代数选讲/往年题/模拟卷与样卷/未标年份样卷/样卷二.pdf",
+      "existingRepoPaths": [
+        "数学类/高等线性代数选讲/往年题/模拟卷与样卷/未标年份样卷/样卷二.pdf"
+      ]
+    }
+  ],
+  "syncCounts": {
+    "reuse_existing_exact_SHA": 2
+  },
+  "downloadVerification": "本轮通过正常云盘界面下载既有归档来源组，运输ZIP逐成员CRC通过，原件逐尺寸/SHA并本地回读一致；原来源路径与归档路径的名字/显示大小来自此前实际UI核对，未宣称本轮每个共享源原件再次下载。",
+  "reviewBoundary": "全部104路径97PDF/6原始MD/1DOC作静态文字及元数据筛查，必要角色与命中样页实际查看；没有对全部2603文件页作人工净审或数学正确性认证。普通著作作者/出版联系信息与软件构建日期保留。",
+  "rawArchivesPublished": false
+}
