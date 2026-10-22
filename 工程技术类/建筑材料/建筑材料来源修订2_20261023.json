@@ -1,0 +1,33 @@
+{
+  "course": "建筑材料",
+  "revision": "20261023_署名编号单件修订",
+  "source": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%BB%BA%E7%AD%91%E6%9D%90%E6%96%99%2F%E5%BB%BA%E7%AD%91%E6%9D%90%E6%96%99_%E9%A9%AC%E9%80%B8%2Fdocuments-export-2024-05-23-3&mode=list",
+  "previousSnapshot": {
+    "raw": 138,
+    "notes": 43,
+    "files": 181
+  },
+  "current": {
+    "raw": 137,
+    "notes": 46,
+    "files": 183,
+    "archivedSourcePaths": 254,
+    "heldSourcePaths": 37,
+    "heldUnique": 23,
+    "systemPaths": 9
+  },
+  "withheld": [
+    {
+      "sourceAliases": [
+        "documents-export-2024-05-23-3/建筑材料嘤嘤嘤（英文课件）（不知道哪个哥们自己的文件夹）/报告/环氧沥青的性质与应用概述.doc",
+        "documents-export-2024-05-23-3/建筑材料嘤嘤嘤（英文课件）（不知道哪个哥们自己的文件夹）/报告/环氧沥青的性质与应用概述 (1).doc",
+        "documents-export-2024-05-23-3/建筑材料嘤嘤嘤（英文课件）（不知道哪个哥们自己的文件夹）/报告/文献/环氧沥青的性质与应用概述.doc",
+        "documents-export-2024-05-23-3/建筑材料嘤嘤嘤（英文课件）（不知道哪个哥们自己的文件夹）/报告/文献/环氧沥青的性质与应用概述 (1).doc"
+      ],
+      "bytes": 47104,
+      "sha256": "1ee4ca3a0a1256a6bcaa374ffe9bd9e13b7f369cb4a3be0bde59908dd6e9f5a2",
+      "reason": "正文署名同行存在个人编号；本轮新增云盘副本已可恢复撤回，原件本地过程保全"
+    }
+  ],
+  "unchanged": "其它137原件及既有43说明原字节保持；旧181清单为历史快照，新修订优先。"
+}

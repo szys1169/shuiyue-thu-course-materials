@@ -1,0 +1,812 @@
+{
+  "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%BB%BA%E7%AD%91%E6%9D%90%E6%96%99&mode=list",
+  "sourcePaths": 300,
+  "archivedSourcePaths": 258,
+  "rawUnique": 138,
+  "sourceAliasPaths": 120,
+  "heldSourcePaths": 33,
+  "heldUnique": 22,
+  "systemPathsSkipped": 9,
+  "groups": [
+    {
+      "category": "讲义",
+      "group": "黄逸洋public_ZJ章次建筑材料课件_20261023",
+      "path": "工程技术类/建筑材料/讲义/黄逸洋public_ZJ章次建筑材料课件_20261023",
+      "raw": 18
+    },
+    {
+      "category": "讲义",
+      "group": "黄逸洋public_李克非结构工程材料补充_20261023",
+      "path": "工程技术类/建筑材料/讲义/黄逸洋public_李克非结构工程材料补充_20261023",
+      "raw": 1
+    },
+    {
+      "category": "参考阅读",
+      "group": "黄逸洋public_张君2014混凝土收缩报告_20261023",
+      "path": "工程技术类/建筑材料/参考阅读/黄逸洋public_张君2014混凝土收缩报告_20261023",
+      "raw": 1
+    },
+    {
+      "category": "参考阅读",
+      "group": "黄逸洋public_ACI211混凝土配比历史报告_20261023",
+      "path": "工程技术类/建筑材料/参考阅读/黄逸洋public_ACI211混凝土配比历史报告_20261023",
+      "raw": 2
+    },
+    {
+      "category": "复习",
+      "group": "黄逸洋public_概念与问答整理_20261023",
+      "path": "工程技术类/建筑材料/复习/黄逸洋public_概念与问答整理_20261023",
+      "raw": 1
+    },
+    {
+      "category": "作业",
+      "group": "黄逸洋public_历届署名作业参考_20261023",
+      "path": "工程技术类/建筑材料/作业/黄逸洋public_历届署名作业参考_20261023",
+      "raw": 13
+    },
+    {
+      "category": "习题",
+      "group": "黄逸洋public_模拟题与概念参考_20261023",
+      "path": "工程技术类/建筑材料/习题/黄逸洋public_模拟题与概念参考_20261023",
+      "raw": 5
+    },
+    {
+      "category": "讲义",
+      "group": "黄逸洋public_魏亚英文建筑材料课件_20261023",
+      "path": "工程技术类/建筑材料/讲义/黄逸洋public_魏亚英文建筑材料课件_20261023",
+      "raw": 11
+    },
+    {
+      "category": "复习",
+      "group": "黄逸洋public_英文词汇表及合订变体_20261023",
+      "path": "工程技术类/建筑材料/复习/黄逸洋public_英文词汇表及合订变体_20261023",
+      "raw": 15
+    },
+    {
+      "category": "作业",
+      "group": "黄逸洋public_英文课程作答与数值表_20261023",
+      "path": "工程技术类/建筑材料/作业/黄逸洋public_英文课程作答与数值表_20261023",
+      "raw": 11
+    },
+    {
+      "category": "参考阅读",
+      "group": "黄逸洋public_环氧沥青阅读与展示来源_20261023",
+      "path": "工程技术类/建筑材料/参考阅读/黄逸洋public_环氧沥青阅读与展示来源_20261023",
+      "raw": 31
+    },
+    {
+      "category": "教材",
+      "group": "黄逸洋public_张君等建筑材料2008_20261023",
+      "path": "工程技术类/建筑材料/教材/黄逸洋public_张君等建筑材料2008_20261023",
+      "raw": 1
+    },
+    {
+      "category": "教材",
+      "group": "黄逸洋public_Mehta_Monteiro混凝土第4版_20261023",
+      "path": "工程技术类/建筑材料/教材/黄逸洋public_Mehta_Monteiro混凝土第4版_20261023",
+      "raw": 1
+    },
+    {
+      "category": "讲义",
+      "group": "黄逸洋public_建筑材料实验课件_20261023",
+      "path": "工程技术类/建筑材料/讲义/黄逸洋public_建筑材料实验课件_20261023",
+      "raw": 7
+    },
+    {
+      "category": "实验",
+      "group": "黄逸洋public_指导与记录空表_20261023",
+      "path": "工程技术类/建筑材料/实验/黄逸洋public_指导与记录空表_20261023",
+      "raw": 4
+    },
+    {
+      "category": "实验",
+      "group": "黄逸洋public_数值处理与原始数据_20261023",
+      "path": "工程技术类/建筑材料/实验/黄逸洋public_数值处理与原始数据_20261023",
+      "raw": 7
+    },
+    {
+      "category": "参考阅读",
+      "group": "黄逸洋public_混凝土专题与规程节选_20261023",
+      "path": "工程技术类/建筑材料/参考阅读/黄逸洋public_混凝土专题与规程节选_20261023",
+      "raw": 4
+    },
+    {
+      "category": "实验",
+      "group": "黄逸洋public_展示与报告节选_20261023",
+      "path": "工程技术类/建筑材料/实验/黄逸洋public_展示与报告节选_20261023",
+      "raw": 5
+    }
+  ],
+  "files": [
+    {
+      "targetRelativePath": "工程技术类/建筑材料/讲义/黄逸洋public_ZJ章次建筑材料课件_20261023/zj9_488505550.ppt",
+      "bytes": 31808512,
+      "sha256": "53c1f2c04e3d6ea53b53791899de4950fd8ccbd7476e6f70f2af1755324d4446"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/讲义/黄逸洋public_ZJ章次建筑材料课件_20261023/zj8_97006197.ppt",
+      "bytes": 3525120,
+      "sha256": "164ea052d655911df3f69e431fb4661dab01a7928ca1bea8c9a3e90d56346632"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/讲义/黄逸洋public_ZJ章次建筑材料课件_20261023/zj8_49502946.ppt",
+      "bytes": 5013504,
+      "sha256": "9ef309b764bf6d8309d3d416e83572bb1bdfbd941f3b4b0f3b6a729cb7a6a1c3"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/讲义/黄逸洋public_ZJ章次建筑材料课件_20261023/zj53_750407642.ppt",
+      "bytes": 897536,
+      "sha256": "3b32591f1b13c37c62f85534cfb60ce06349e7d33a1c22b60ed066fb46c00567"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/讲义/黄逸洋public_ZJ章次建筑材料课件_20261023/zj52_71305686.ppt",
+      "bytes": 1171968,
+      "sha256": "2a6c96b3e801c13d1e92f3c159fc700afafce0706a1d058df48e218d2023498f"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/讲义/黄逸洋public_ZJ章次建筑材料课件_20261023/zj51_351706176.ppt",
+      "bytes": 3636736,
+      "sha256": "125d70f54557199304d15ec553f05e0eeacfb1ed15d2553bb2e09b85c69af549"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/讲义/黄逸洋public_ZJ章次建筑材料课件_20261023/zj42_166104971.ppt",
+      "bytes": 4714496,
+      "sha256": "9fd099533ffa1f7b78b63247556eb340bb4aab45088f81ba3e37156793dd8c8b"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/讲义/黄逸洋public_ZJ章次建筑材料课件_20261023/zj41_335408101.ppt",
+      "bytes": 4528128,
+      "sha256": "c25f74dca30ad474c97ba9d4e2db52e82874a10c61d77cbbfcfce7e34590c597"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/讲义/黄逸洋public_ZJ章次建筑材料课件_20261023/zj3_91006822.ppt",
+      "bytes": 1157632,
+      "sha256": "292127d8d6e45b7207e9c6973644d79ee9c348e80aab4082f37ff00212321ea5"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/讲义/黄逸洋public_ZJ章次建筑材料课件_20261023/zj2_66210334.ppt",
+      "bytes": 2379776,
+      "sha256": "23aaac7b5e7eb9dcb5985c79531e306a1844862833a6f58e8a716e9f9cb6ac57"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/讲义/黄逸洋public_ZJ章次建筑材料课件_20261023/zj1_523806528.ppt",
+      "bytes": 9544704,
+      "sha256": "ffffde993f118ac6a94260b0cd654ff86fa3f91abe60329296af13f855fc0f13"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/讲义/黄逸洋public_ZJ章次建筑材料课件_20261023/zj12_738609056.ppt",
+      "bytes": 765440,
+      "sha256": "c397b27926d17befa1fc0cc60203b2736fb1d97daa39d07f68b6b101d4ef21c4"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/讲义/黄逸洋public_ZJ章次建筑材料课件_20261023/zj112_672006512.ppt",
+      "bytes": 4356096,
+      "sha256": "76644bf460e730b3ca15c20c2f21934e3aab645aae5e879048b575723241eac6"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/讲义/黄逸洋public_ZJ章次建筑材料课件_20261023/zj111_286104897.ppt",
+      "bytes": 2982912,
+      "sha256": "294ad4ffb6e5bbc705f6c14db6be53ab94a86765e6f65614fc2de6b77ba552c2"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/讲义/黄逸洋public_ZJ章次建筑材料课件_20261023/zj102_839902538.ppt",
+      "bytes": 3853312,
+      "sha256": "aeafa41ca3b5fa22ef1261a1f30b247f9bad1f2e298f2c26d00488275e6ad779"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/讲义/黄逸洋public_ZJ章次建筑材料课件_20261023/zj101_2446066.ppt",
+      "bytes": 1180160,
+      "sha256": "df2ef7374e46498589db7e5348e029958bbcd22250329ccb4c04d3327c43b1b8"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/讲义/黄逸洋public_ZJ章次建筑材料课件_20261023/zj0_124906730.ppt",
+      "bytes": 6832640,
+      "sha256": "d9ec83a53830ff1a4c7f70021c0e7162683ad7d2b14971ff5dac5eeba1372d82"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/讲义/黄逸洋public_ZJ章次建筑材料课件_20261023/ZJ6_300602737.ppt",
+      "bytes": 10253824,
+      "sha256": "fcd1d1eaee5ec1891279aaa9f211d7373b9598c643e0d69e6e8e9f042b81dab8"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/讲义/黄逸洋public_李克非结构工程材料补充_20261023/Concrete-4__19609988.pdf",
+      "bytes": 7753079,
+      "sha256": "6960f252212594d75c420116a72af8396a1c3297a318b11aa0c85e86ec61eaba"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/参考阅读/黄逸洋public_张君2014混凝土收缩报告_20261023/HK-2014-08-ZhangJun_789802044.pdf",
+      "bytes": 4038673,
+      "sha256": "a7d012c4a3f197849a94da1be9b2c2c05ed1e8822bbd02dc7849b374c2d00750"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/参考阅读/黄逸洋public_ACI211混凝土配比历史报告_20261023/ACI-2114r_93-high-strength_96280334.pdf",
+      "bytes": 283403,
+      "sha256": "72911f8b16b694395d7f0609a24f215f74241a00eb93d7b0c8123b0a3f92c9b7"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/参考阅读/黄逸洋public_ACI211混凝土配比历史报告_20261023/ACI-2111_91-normal-strength_62980830.pdf",
+      "bytes": 881495,
+      "sha256": "26287e4dcb4e6af47b3cd623a74c14c444f01020c03140451b214eb4dc0311ee"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/复习/黄逸洋public_概念与问答整理_20261023/建材复习.docx",
+      "bytes": 216105,
+      "sha256": "cdba259c788f5e1b79c6491069430bf0ddc98d4bd637e545162b2f88277aaabd"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/作业/黄逸洋public_历届署名作业参考_20261023/建筑材料作业第十四周12月23日结32吕晚晴.docx",
+      "bytes": 18962,
+      "sha256": "7c3f3f8ad7ad598122de577cb361faff2c6dbe17c4d02c164d2410933dbe4770"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/作业/黄逸洋public_历届署名作业参考_20261023/建筑材料作业第十六周1月6日结32吕晚晴.docx",
+      "bytes": 17229,
+      "sha256": "2dd5c0188b838ca83a14fdcae7a78ba743a58bc40f43399eea73717e49737afc"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/作业/黄逸洋public_历届署名作业参考_20261023/建筑材料作业第十五周12月30日结32吕晚晴.docx",
+      "bytes": 18162,
+      "sha256": "a1cb2a031234a758a9b82ee904a476d9c0ed15be4200e70da93c54c9ab6857b5"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/作业/黄逸洋public_历届署名作业参考_20261023/建筑材料作业第十二周12月10日结32吕晚晴.docx",
+      "bytes": 18208,
+      "sha256": "c0d587dfb45201258d56cffaa7912ce77e7e9afe7f459600ec6d4705fca9177d"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/作业/黄逸洋public_历届署名作业参考_20261023/建筑材料作业第十三周12月17日结32吕晚晴.docx",
+      "bytes": 18005,
+      "sha256": "e8c9fd5fb2eab0ed23a48f80532bf3a18bcad778aef9437e5ae0716a0b270a82"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/作业/黄逸洋public_历届署名作业参考_20261023/建筑材料作业第十一周12月4日结32吕晚晴.docx",
+      "bytes": 18499,
+      "sha256": "6ff199989429b5913093b7c5925a9d0a86a7a0d3da9d48878492f0bf0ef9969f"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/作业/黄逸洋public_历届署名作业参考_20261023/建筑材料作业第六周10月29日结32吕晚晴.docx",
+      "bytes": 20246,
+      "sha256": "98ce9d59c04124b199bded6e6286993979b603c4b1fb6d5cf13dcacf074b5b19"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/作业/黄逸洋public_历届署名作业参考_20261023/建筑材料作业第八周11月14日结32吕晚晴.docx",
+      "bytes": 18305,
+      "sha256": "2c38e192be817375b7f1e4dde3c30f47fefe52ff6ba4a8385397d4962b4fc20d"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/作业/黄逸洋public_历届署名作业参考_20261023/建筑材料作业第五周10月25日结32吕晚晴.docx",
+      "bytes": 45186,
+      "sha256": "6bb402a8ce3b38e31ee43276f07e43cb4eff936cd4a14845582abe33afc0f53f"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/作业/黄逸洋public_历届署名作业参考_20261023/建筑材料作业第二周9月30日结32吕晚晴.docx",
+      "bytes": 15689,
+      "sha256": "bfd02ab8a4f62e60142e458083905ec154d6bfb378da3447b766dda78f9635d4"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/作业/黄逸洋public_历届署名作业参考_20261023/建筑材料作业第九周11月21日结32吕晚晴.docx",
+      "bytes": 17270,
+      "sha256": "5df07e1d8f459f6ba533378b6957fb94e38db358082ec6b9420b0e6add614dd1"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/作业/黄逸洋public_历届署名作业参考_20261023/建筑材料作业第七周11月4日结32吕晚晴.docx",
+      "bytes": 21583,
+      "sha256": "1f1f9f4de40060edec34755de35012221533a5dfe5b5a9cb035beb24a4d22a96"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/作业/黄逸洋public_历届署名作业参考_20261023/建筑材料作业第七周11月3日结32吕晚晴.docx",
+      "bytes": 21639,
+      "sha256": "d200fe17dd63b03630ef65f9f63ef9b882af38a3f5248b935b73a8162131012a"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/习题/黄逸洋public_模拟题与概念参考_20261023/组合 1.pdf",
+      "bytes": 8572385,
+      "sha256": "6b4e17a1f97ad5676d416e0bbdeb3c4880220b8c55564ef4302a8db8f4148e42"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/习题/黄逸洋public_模拟题与概念参考_20261023/建筑材料题目.docx",
+      "bytes": 14816,
+      "sha256": "5ce6f79dc7be92c3b7e61dcc0306873d5a0b3e9d775df771cfd217aa16330f1d"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/习题/黄逸洋public_模拟题与概念参考_20261023/建筑材料模拟试题.DOC",
+      "bytes": 27648,
+      "sha256": "2f9ad75160b7346673973df074c720539ede667048a36f9f8e9ee0ba3cb26031"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/习题/黄逸洋public_模拟题与概念参考_20261023/建材名词解释.doc",
+      "bytes": 60416,
+      "sha256": "ee27ce8b0e524dbb456fc030b3e740aee866b49369bd6d7cadbd864c95d797cc"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/习题/黄逸洋public_模拟题与概念参考_20261023/小测验-给结63.doc",
+      "bytes": 29696,
+      "sha256": "0fdfa22d840ab554178c0502a2b926096cf7cfda44e7abd2458a2c29be5097bb"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/讲义/黄逸洋public_魏亚英文建筑材料课件_20261023/New Chapter 4 Concrete VI Volume Change and Durability_509307651.pdf",
+      "bytes": 1984229,
+      "sha256": "bfef3cf1ae9a52e4377480f55eda0ce0c54b7f7f54a20056c2630f1476db47b2"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/讲义/黄逸洋public_魏亚英文建筑材料课件_20261023/Chapter 4 Concrete V Fresh and Early-age Properties_621307580.pdf",
+      "bytes": 2855377,
+      "sha256": "aa7b62e86f9127a0bb0500b66a2b8acb4f3b2599dd4dc9b3b0865d9b91b14e87"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/讲义/黄逸洋public_魏亚英文建筑材料课件_20261023/Chapter 4 Concrete IV Strength and Mix Proportioning_603502495.pdf",
+      "bytes": 2913872,
+      "sha256": "36959544fc15455c35ae1d971c898f0a5ef4c8ab31d49d7409a1eb4ab76aa1c6"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/讲义/黄逸洋public_魏亚英文建筑材料课件_20261023/Chapter 4 Concrete III Structure_607107010.pdf",
+      "bytes": 2265351,
+      "sha256": "0bc1016277959b8a26288f55cad2d2d3b655f92be4b161e4df92a4d93525d522"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/讲义/黄逸洋public_魏亚英文建筑材料课件_20261023/Chapter 4 Concrete II Composition_448603241.pdf",
+      "bytes": 1334611,
+      "sha256": "8332906a4417e4cb6241cc4c6d0a170366169b46dd04fd2daf30cdd3993bcd37"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/讲义/黄逸洋public_魏亚英文建筑材料课件_20261023/Chapter 4 Concrete I Hydration_184001698.pdf",
+      "bytes": 1753999,
+      "sha256": "312559677e51c7156b06aa21b6b1696125f9f6f00ebe059a0e2ace53504fc3a5"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/讲义/黄逸洋public_魏亚英文建筑材料课件_20261023/Chapter 3 Metals-2_612507410.pdf",
+      "bytes": 2149538,
+      "sha256": "ff7692dd56783c5d50d5bea61aa77e2093c913756516bbe84be1ade7c4289e95"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/讲义/黄逸洋public_魏亚英文建筑材料课件_20261023/Chapter 3 Metals-1_364909947.pdf",
+      "bytes": 2593931,
+      "sha256": "c6b002ade4d478530d6c69a8fd5ae20f05ed94402e5ab23822e41357686d5319"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/讲义/黄逸洋public_魏亚英文建筑材料课件_20261023/Chapter 2 The Fundamentals-2_940509370.pdf",
+      "bytes": 1001940,
+      "sha256": "12f8cee00836948c6215a445749c1592f30b3ea41a78ab60ce22f3c63d8df9e9"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/讲义/黄逸洋public_魏亚英文建筑材料课件_20261023/Chapter 2 The Fundamentals-1_508304471.pdf",
+      "bytes": 1590263,
+      "sha256": "e51ba5de15feda946a2e476221c9dc540c4ec79f3ed65c7f25d6381972edfcfd"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/讲义/黄逸洋public_魏亚英文建筑材料课件_20261023/Chapter 1 Introduction_907302967.pdf",
+      "bytes": 2859383,
+      "sha256": "656b709d6a144046fc1ba97bb5029a4657e4329736eca72d6a893f7d7c6aed12"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/复习/黄逸洋public_英文词汇表及合订变体_20261023/建材英单词.pdf",
+      "bytes": 1158469,
+      "sha256": "5f134339f4a2b1378740931f68b5bee59928745944d610ba4afb1e4646baada0"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/复习/黄逸洋public_英文词汇表及合订变体_20261023/Vocabulary for Lecture 9_184907817.pdf",
+      "bytes": 109940,
+      "sha256": "36976ab85da9d641418f9b5bbaea2ba91ade8033804fd298e08584c8b38e5f9f"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/复习/黄逸洋public_英文词汇表及合订变体_20261023/Vocabulary for Lecture 8_325202556.pdf",
+      "bytes": 61782,
+      "sha256": "c0fb4fc978b488a922a20649661a1018ad72834c83d8bdea1099013501cbb887"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/复习/黄逸洋public_英文词汇表及合订变体_20261023/Vocabulary for Lecture 7_612406249.pdf",
+      "bytes": 63062,
+      "sha256": "6b8fc0dee2a65d347b56e82ac6f5f015f2225e90cd4c0b7e727ae34ca76fe72c"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/复习/黄逸洋public_英文词汇表及合订变体_20261023/Vocabulary for Lecture 6_470903520.pdf",
+      "bytes": 70047,
+      "sha256": "f2a82fe6ee480dafebc21dae7bbe13335d682dbc6a9a3cd89dc7f8b7e73c42dc"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/复习/黄逸洋public_英文词汇表及合订变体_20261023/Vocabulary for Lecture 5_716708932.pdf",
+      "bytes": 61477,
+      "sha256": "9dda33eeb7d14e97d368624341e35d6ed26d6ebb63d95306bb81d20a8e831824"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/复习/黄逸洋public_英文词汇表及合订变体_20261023/Vocabulary for Lecture 4_338805053.pdf",
+      "bytes": 62828,
+      "sha256": "896ed28362814f2a43fb0964dfec05049e89178c30c08deaf230c0efbc16cb2a"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/复习/黄逸洋public_英文词汇表及合订变体_20261023/Vocabulary for Lecture 3_130709236.pdf",
+      "bytes": 62839,
+      "sha256": "68f7f0f9b70af3421ed4585f29f11ac9b66e45ec3ba77f27471ce60bf2b1b3b3"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/复习/黄逸洋public_英文词汇表及合订变体_20261023/Vocabulary for Lecture 2_703801416.pdf",
+      "bytes": 62038,
+      "sha256": "da44d268f74e713b49b40f9527585245397fecd8d582d5b68f10036d15831fd9"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/复习/黄逸洋public_英文词汇表及合订变体_20261023/Vocabulary for Lecture 1_398603269.pdf",
+      "bytes": 66508,
+      "sha256": "c8b28e22608501b3e52cb7cf18c92e4ef17d73b4e2d976a27124be96b3e4c7c3"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/复习/黄逸洋public_英文词汇表及合订变体_20261023/Vocabulary for Lecture 14_28004680.pdf",
+      "bytes": 146183,
+      "sha256": "1e375c03d2194c4b48867727f73a8d58ad1975b807498fe45be0b4f0b712d7f1"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/复习/黄逸洋public_英文词汇表及合订变体_20261023/Vocabulary for Lecture 13_470306884.pdf",
+      "bytes": 84757,
+      "sha256": "27e9696647ac6130a1d0960be0c6ca0c245f99fe8f2fac7cc6ab88c895883c95"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/复习/黄逸洋public_英文词汇表及合订变体_20261023/Vocabulary for Lecture 12_649103990.pdf",
+      "bytes": 75004,
+      "sha256": "6a01801d3f08813a5ca33b2ad30187dfc1389b2a7c3062e700f9c3873e81ddcc"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/复习/黄逸洋public_英文词汇表及合订变体_20261023/Vocabulary for Lecture 11_85409269.pdf",
+      "bytes": 58739,
+      "sha256": "10e91cf0f38cfab24c0bd7faa1288101ea952b0b842b085b8ef2c0425c07e656"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/复习/黄逸洋public_英文词汇表及合订变体_20261023/Vocabulary for Lecture 10_889607518.pdf",
+      "bytes": 254078,
+      "sha256": "e362767aa361d8e70d1584fd9c2a6abce31a2295b40858a29ebe36d1f65b0a4e"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/作业/黄逸洋public_英文课程作答与数值表_20261023/最后一次作业.pdf",
+      "bytes": 260869,
+      "sha256": "89b1c739fbf878ae7ec923c06f36af5917f761f2850d3baee7ee1f838f72c3c0"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/作业/黄逸洋public_英文课程作答与数值表_20261023/最后一次作业.docx",
+      "bytes": 22381,
+      "sha256": "9c8edb9b06ce5d8463e520015b93fb514402cf757f748f7a7c8612f87de383f8"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/作业/黄逸洋public_英文课程作答与数值表_20261023/最后一次.xlsx",
+      "bytes": 18142,
+      "sha256": "eea4c4a575169b46b32712ed065ee86095ba634e06ad297d96c6e7c2a085bb80"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/作业/黄逸洋public_英文课程作答与数值表_20261023/十一.doc",
+      "bytes": 50176,
+      "sha256": "3f8a63380a2edeb286df7c2b217ed18b19589d0b2a9054fb5567251577204cf2"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/作业/黄逸洋public_英文课程作答与数值表_20261023/作业十一.xlsx",
+      "bytes": 12846,
+      "sha256": "a523c8bee409bbc4554f853d793d4de1881b526e23dc67d6fd0e525e0d6f1f52"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/作业/黄逸洋public_英文课程作答与数值表_20261023/作业六.doc",
+      "bytes": 48640,
+      "sha256": "5b07d8f847477ebd17fe9980ada520f7f3cad9719081ac8c19fef4f31b1eb2d6"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/作业/黄逸洋public_英文课程作答与数值表_20261023/作业二.xlsx",
+      "bytes": 16915,
+      "sha256": "0b831a54b9144ef4a7e801abc2b84a22d538a0fa866f68c2978099918db9ea04"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/作业/黄逸洋public_英文课程作答与数值表_20261023/作业二.doc",
+      "bytes": 103936,
+      "sha256": "7d985651751ef6e4eb82d14bf8391ca54bd1fcc85b90214fea84b390a72c2bf4"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/作业/黄逸洋public_英文课程作答与数值表_20261023/作业一表格.pdf",
+      "bytes": 97284,
+      "sha256": "e1fc1e88ccfa35659d69bcea3e8157ac09465ee0fa1430310699e7c2a0144cc6"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/作业/黄逸洋public_英文课程作答与数值表_20261023/作业一.xlsx",
+      "bytes": 11884,
+      "sha256": "6e52ec98cc0f25d02c366e2f7d65dfb7277d8b22f3d89c64d3ca0b385eb18d57"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/作业/黄逸洋public_英文课程作答与数值表_20261023/作业6.xlsx",
+      "bytes": 12528,
+      "sha256": "6573cc9cd7f2040dd7cecb15916a54e9de3d93a8359a6bba2f14f307af17da7c"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/参考阅读/黄逸洋public_环氧沥青阅读与展示来源_20261023/报告/环氧沥青的性质与应用概述.doc",
+      "bytes": 47104,
+      "sha256": "1ee4ca3a0a1256a6bcaa374ffe9bd9e13b7f369cb4a3be0bde59908dd6e9f5a2"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/参考阅读/黄逸洋public_环氧沥青阅读与展示来源_20261023/报告/文献/高性能冷拌环氧沥青铺装材料的设计与性能评价_徐伟.pdf",
+      "bytes": 1551309,
+      "sha256": "d8e3f71deaac383152599f71a2afe60d0bd9afda2c30d7d8d44ec5bd84e698bc"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/参考阅读/黄逸洋public_环氧沥青阅读与展示来源_20261023/报告/文献/钢桥面铺装用热_温拌环氧沥青混凝土性能对比_周健_魏小皓_刘鎏_田佳昊.pdf",
+      "bytes": 664711,
+      "sha256": "0bbf6f96e786d96a3b5c2eaa21bec7a055a538a2ca66ddbfd1cd15ad26a8ac40"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/参考阅读/黄逸洋public_环氧沥青阅读与展示来源_20261023/报告/文献/钢桥铺装用环氧沥青的研究现状及展望_晏永.pdf",
+      "bytes": 1257794,
+      "sha256": "733f3c8dd7ea79e1b4bec08276596b0237f0d2b0ddebe5a0a328c069030ae8f6"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/参考阅读/黄逸洋public_环氧沥青阅读与展示来源_20261023/报告/文献/环氧沥青混合料性能影响因素研究_何亮.pdf",
+      "bytes": 143365,
+      "sha256": "c336cb40031f266d85eafc41c6f23ed96374cc958f63f20ba893a36bd57a7982"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/参考阅读/黄逸洋public_环氧沥青阅读与展示来源_20261023/报告/文献/环氧沥青混合料在路面施工中的应用_刘天羽.pdf",
+      "bytes": 1696761,
+      "sha256": "8817505a821d337ab2ef8a8bb8315bc48f072b57be684fafd8e43a509a7d43a1"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/参考阅读/黄逸洋public_环氧沥青阅读与展示来源_20261023/报告/文献/环氧沥青混合料冲击韧性及疲劳性能研究_贺颖.pdf",
+      "bytes": 239326,
+      "sha256": "5bb8d88a78e4b2c9585423b6bf5857e55d079246265a01070cec6527a559e9b6"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/参考阅读/黄逸洋public_环氧沥青阅读与展示来源_20261023/报告/文献/环氧沥青混凝土在高速公路路面施工中的运用分析_蔡方仁.pdf",
+      "bytes": 2917521,
+      "sha256": "98cff84479cfd51fc1d4721dda0f2272685ec1cc857609a7ed0f83bf59d5a15f"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/参考阅读/黄逸洋public_环氧沥青阅读与展示来源_20261023/报告/文献/环氧沥青及其混合料性能研究与应用现状_魏丽丽.pdf",
+      "bytes": 158911,
+      "sha256": "628a1ca3ca95034b745d3211ba416e58864528be4b02e9cf94dfa81efdbe41dd"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/参考阅读/黄逸洋public_环氧沥青阅读与展示来源_20261023/报告/文献/环氧改性沥青的特点与发展应用_李洁.pdf",
+      "bytes": 144659,
+      "sha256": "45030275571d9c20ee548d419e5536c5f3f6764c5bb5bb60d15dd77b556b70b4"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/参考阅读/黄逸洋public_环氧沥青阅读与展示来源_20261023/报告/文献/文献整理.doc",
+      "bytes": 29696,
+      "sha256": "18669cfded7111a276141403561da10b858858e22c9b8c983a38a4decc400a55"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/参考阅读/黄逸洋public_环氧沥青阅读与展示来源_20261023/报告/文献/基于施工控制的TAF环氧沥青混合料性能试验研究_黄红明.pdf",
+      "bytes": 624213,
+      "sha256": "6afe0a973c46c7b79beb4acba09382c04e054cfb6dd57272c4d5fe728609107b"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/参考阅读/黄逸洋public_环氧沥青阅读与展示来源_20261023/报告/文献/基于MATLAB图像恢复的环氧沥青混凝土断面处理研究_蒋梦雅.pdf",
+      "bytes": 2441986,
+      "sha256": "af116ccd5768f0651c9bf83fa876501d419e8cf06cdea92c69f8ade83aa18b72"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/参考阅读/黄逸洋public_环氧沥青阅读与展示来源_20261023/报告/文献/国产环氧沥青混合料应用技术研究_刘薇.pdf",
+      "bytes": 603666,
+      "sha256": "9c2e92240a5059d24b7865cf3886a484cb13ff876dc664d6303566ebdfbd9f72"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/参考阅读/黄逸洋public_环氧沥青阅读与展示来源_20261023/报告/文献/冷拌环氧沥青混合料的路用性能研究_胡芃.pdf",
+      "bytes": 201045,
+      "sha256": "1c66dad0155307c332f323486a6183402e8f64574160cc5163df440290990c44"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/参考阅读/黄逸洋public_环氧沥青阅读与展示来源_20261023/展示/顺酐化在环氧沥青中的应用_亢阳.pdf",
+      "bytes": 169316,
+      "sha256": "ab1b330ed422909177a645f353e5768bb76ceca6b9b85f4d8f3fd99f0249513a"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/参考阅读/黄逸洋public_环氧沥青阅读与展示来源_20261023/展示/相容性部分.pptx",
+      "bytes": 428839,
+      "sha256": "f024f0a007336dc5a0da5c8f491201e8e3be8f5cd190d05ac1eb4cf9712914d5"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/参考阅读/黄逸洋public_环氧沥青阅读与展示来源_20261023/展示/热固性环氧沥青材料的制备及改性方法研究进展_黄坤.pdf",
+      "bytes": 345945,
+      "sha256": "b085de07e8e7b04fda39b9365b402f820551603f815f4ea7de373545274027da"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/参考阅读/黄逸洋public_环氧沥青阅读与展示来源_20261023/展示/微信图片_20181211220549.png",
+      "bytes": 72412,
+      "sha256": "1ebb529f34d9cc651355c7adaf1d45c8a9b7e902b13534b69a16d5c826b136ed"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/参考阅读/黄逸洋public_环氧沥青阅读与展示来源_20261023/展示/微信图片_20181211220546.png",
+      "bytes": 72298,
+      "sha256": "3fd7858e91d77639f7e208e04afd3f31156a718d7a68f43edb0c6c3bbb6197ef"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/参考阅读/黄逸洋public_环氧沥青阅读与展示来源_20261023/展示/微信图片_20181211220543.png",
+      "bytes": 72086,
+      "sha256": "6e4b48c5d87a60cf9857b0f130a0d58638d72fb14396fb2461a4bb47f458f631"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/参考阅读/黄逸洋public_环氧沥青阅读与展示来源_20261023/展示/微信图片_20181211215429.png",
+      "bytes": 28133,
+      "sha256": "578045b1737061b2215e439f27ac558443a76dfcbc356c70b498fa4a09b4f8ad"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/参考阅读/黄逸洋public_环氧沥青阅读与展示来源_20261023/展示/微信图片_20181211214956.png",
+      "bytes": 24586,
+      "sha256": "e6c7fbe0272814c8e13b5bfe789c4d9794f5ba79d10612d64789c5f9c716cb0f"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/参考阅读/黄逸洋public_环氧沥青阅读与展示来源_20261023/展示/微信图片_20181211214913.png",
+      "bytes": 24968,
+      "sha256": "a7020b9d01964ce9957694fd953636c60b5001b77644530dc7b42cb7aec7fd1b"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/参考阅读/黄逸洋public_环氧沥青阅读与展示来源_20261023/展示/微信图片_20181211214909.png",
+      "bytes": 36900,
+      "sha256": "0346414a138b0dd1fd77d9a46ccb9e8b65ffe597a3a2c7cd9afe33e43cbc792a"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/参考阅读/黄逸洋public_环氧沥青阅读与展示来源_20261023/展示/微信图片_20181211213653.png",
+      "bytes": 6074,
+      "sha256": "e5d09d62ae81f54a01a9192ddfeb67d692b7fcee7e31ca2c05e9468e48e2e550"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/参考阅读/黄逸洋public_环氧沥青阅读与展示来源_20261023/展示/微信图片_20181211212011.png",
+      "bytes": 11862,
+      "sha256": "9d13bffd39c393902a004f7a55ebd18343d98c0b36d22d928a91fea4476e71ed"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/参考阅读/黄逸洋public_环氧沥青阅读与展示来源_20261023/展示/微信图片_20181211212009.png",
+      "bytes": 15224,
+      "sha256": "c7a5590f307ebd929186fd71c5f7dd09096e258aeb488b63beeb1dccc997150f"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/参考阅读/黄逸洋public_环氧沥青阅读与展示来源_20261023/展示/微信图片_20181211212006.png",
+      "bytes": 12790,
+      "sha256": "f6cfc274da2c14b2da93a57adde30a90ffcf255f23140d4975d03e234cc3801b"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/参考阅读/黄逸洋public_环氧沥青阅读与展示来源_20261023/展示/微信图片_20181211205731.png",
+      "bytes": 5183,
+      "sha256": "bd66a0af9ba702fe2f47df6b27702c1a57f1ba2da6c10d37c56bc4cf9f78bd18"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/参考阅读/黄逸洋public_环氧沥青阅读与展示来源_20261023/展示/固化剂对环氧沥青力学性能和相态结构的影响研究_周威.pdf",
+      "bytes": 1106900,
+      "sha256": "1a2eb8a5ce86580a36186f7c4b3bde37bee4aeee9121f3158ee893ec81a41dea"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/教材/黄逸洋public_张君等建筑材料2008_20261023/建筑材料 张君，阎培渝，覃维祖编著(OCR).pdf",
+      "bytes": 67119593,
+      "sha256": "d238ea4ef973ad6b455864eafb0c372fdcb5b1fc360673390c3863629e414c3a"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/教材/黄逸洋public_Mehta_Monteiro混凝土第4版_20261023/ConcreteStructure Properties and Materials(4th ed.)Mehta, P. K. ( Povindar K. )(OCR).pdf",
+      "bytes": 265891314,
+      "sha256": "78189c44ade2668ab53fb4a05abf3c9f8e5d10e091808ee9e28330c933d68375"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/讲义/黄逸洋public_建筑材料实验课件_20261023/配合比设计.pptx",
+      "bytes": 729829,
+      "sha256": "6f9dd60d1158e4aa6e75c76a30c8d81345f170f1a7d174087c01bbb868a78997"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/讲义/黄逸洋public_建筑材料实验课件_20261023/实验四混凝土配合比设计(5.7).ppt",
+      "bytes": 1405952,
+      "sha256": "a5f3147f7eacdc7adb091333f66bd70b11541a42f8b7e788b4929ba010983bb5"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/讲义/黄逸洋public_建筑材料实验课件_20261023/实验六[1].混凝土主要力学性能及氯离子扩散系数试验.ppt",
+      "bytes": 137216,
+      "sha256": "f14633e6edce8610043b813b7c136537ee308b2947fe52d77a31b1802ba27913"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/讲义/黄逸洋public_建筑材料实验课件_20261023/实验五防水材料及砖抗压强度实验.ppt",
+      "bytes": 282112,
+      "sha256": "fa33dba4e81b3c5c316fc3cb5ee5a6d34f3f69595bda1dae129379e200bb01a1"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/讲义/黄逸洋public_建筑材料实验课件_20261023/实验二_水泥.ppt",
+      "bytes": 1323008,
+      "sha256": "47dda7427e68f48a49b438614ae61c70986a64605de8de5eed77bc2e0b692ce9"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/讲义/黄逸洋public_建筑材料实验课件_20261023/实验三,砂石试验.ppt",
+      "bytes": 282624,
+      "sha256": "15c77a62346a6303144726b47433515f15246a87994cb9cdb4762ca96f2fcf0a"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/讲义/黄逸洋public_建筑材料实验课件_20261023/实验一，建筑材料基本性质试验课件.ppt",
+      "bytes": 215040,
+      "sha256": "e98f03d8a496c32aabccdcad5c3de4936c435baee82344674adbaa163154cb01"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/实验/黄逸洋public_指导与记录空表_20261023/建筑材料实验课混凝土配合比报告要求.pdf",
+      "bytes": 162971,
+      "sha256": "f707d6adbe26ef6158808ef274c7c6e01e5aadd5fc10c09a800b1addf8d0e55a"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/实验/黄逸洋public_指导与记录空表_20261023/建筑材料实验课混凝土配合比报告要求.docx",
+      "bytes": 21561,
+      "sha256": "d1c985e6f7a34e3242f23893a06100950137f7c7c6949abd09cfafaac76b3c9c"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/实验/黄逸洋public_指导与记录空表_20261023/数据记录.pdf",
+      "bytes": 100560,
+      "sha256": "564982a0aaa6f3b6613c140602b92a08bf766be676c40a2d83d796b2c0ae57c0"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/实验/黄逸洋public_指导与记录空表_20261023/数据记录.docx",
+      "bytes": 13869,
+      "sha256": "1abc41cd1f370235a1920408d36843e29b012fccad16422868a62a8cb4bd7c8e"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/实验/黄逸洋public_数值处理与原始数据_20261023/数据处理.xlsx",
+      "bytes": 9190,
+      "sha256": "a96b093dab195652ce1be0f5ac3dd53b5a2f324d738e5b0fa5f9f25fd02c2b62"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/实验/黄逸洋public_数值处理与原始数据_20261023/J12烧结页岩砖抗压强度试验.pdf",
+      "bytes": 34411,
+      "sha256": "b429d4e675be73359d2717f74173310e8afd9cde860821826a5b4f12d860f1d5"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/实验/黄逸洋public_数值处理与原始数据_20261023/J12烧结页岩砖抗压强度试验.doc",
+      "bytes": 37376,
+      "sha256": "58fc5c1203795fea1ac9c354d4d5e92d83f790d39b2f1ea887fc7560d73a7916"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/实验/黄逸洋public_数值处理与原始数据_20261023/2014J12水泥与减水剂相容性试验结果_J12.doc",
+      "bytes": 33792,
+      "sha256": "8fdd0cc506e3a7379680fcad19894d970b16c3e244a9d7f985afd886c11d50ef"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/实验/黄逸洋public_数值处理与原始数据_20261023/混凝土抗折试验数据0002.doc",
+      "bytes": 1872896,
+      "sha256": "50039c0e04ea4d741d7d78b5febc63e9389f80000ecbdb80a78626a3660f76b4"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/实验/黄逸洋public_数值处理与原始数据_20261023/数据处理.xlsm",
+      "bytes": 15753,
+      "sha256": "4ea4ede0582cb21232929dfca1b97e1dcf2a0632d68b89e7e9857d90b5118fad"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/实验/黄逸洋public_数值处理与原始数据_20261023/实验三：砂石/数据处理.xlsx",
+      "bytes": 13902,
+      "sha256": "00ce718381314f1e792383fa7c8f396a333ca45ac3feffe97e95993d4389e410"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/参考阅读/黄逸洋public_混凝土专题与规程节选_20261023/混凝土配合比设计方法的种类及当前发展状况.doc",
+      "bytes": 98304,
+      "sha256": "56cc4c71c5d17ddee26e4d5f9639aa73bab166c63a9403388ed1dc6018546583"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/参考阅读/黄逸洋public_混凝土专题与规程节选_20261023/混凝土耐久性的影响因素及相关措施.doc",
+      "bytes": 59392,
+      "sha256": "9805a0173e0b9ee44a699a2c0c0f1dcbdce21c4b239c7101b115e8736c60ab13"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/参考阅读/黄逸洋public_混凝土专题与规程节选_20261023/高强混凝土结构技术规程.doc",
+      "bytes": 31232,
+      "sha256": "74413cbadfadd0d80220b855988cfb643d4f0c6be920928b5f9f2ccc1fc762d1"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/参考阅读/黄逸洋public_混凝土专题与规程节选_20261023/混凝土技术规程节选.doc",
+      "bytes": 41472,
+      "sha256": "8c566a7f8be9879799e540764b65c19a6131953565686bc242bd8ad2ebcbcbb9"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/实验/黄逸洋public_展示与报告节选_20261023/混凝土性能评价-谢庄子、刘凯、刘策、维斯.pptx",
+      "bytes": 2921169,
+      "sha256": "e0f5b644f90f129aadb508ab192bb22e6387809c6501ee4e9804d4662c7aadd6"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/实验/黄逸洋public_展示与报告节选_20261023/实验四：混凝土配合比设计-实验六：力学性能及氯离子扩散系数 6.pdf",
+      "bytes": 287553,
+      "sha256": "a2c624161fcc1eb68e5e5cc33fbcae863c7bf7707ec2a8ea4f8822aeda40f9a6"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/实验/黄逸洋public_展示与报告节选_20261023/实验四：混凝土配合比设计-实验六：力学性能及氯离子扩散系数 5.pdf",
+      "bytes": 255161,
+      "sha256": "c35eaac5cbec3d2ce55511ec9aadfe2f1364c5e81cbe6a875b0d866444ebc436"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/实验/黄逸洋public_展示与报告节选_20261023/实验四：混凝土配合比设计-实验六：力学性能及氯离子扩散系数 15.pdf",
+      "bytes": 225333,
+      "sha256": "1cf10a78025642e2c68c38fb4795d438262e399685b4e334b65cd32820ff25fe"
+    },
+    {
+      "targetRelativePath": "工程技术类/建筑材料/实验/黄逸洋public_展示与报告节选_20261023/C30自密实混凝土配合比设计.pptx",
+      "bytes": 491627,
+      "sha256": "0cb5ee070ef4b1ee3e5ef0c57abd8faed030630602d7d8d4b9985f21b3650ebd"
+    }
+  ]
+}

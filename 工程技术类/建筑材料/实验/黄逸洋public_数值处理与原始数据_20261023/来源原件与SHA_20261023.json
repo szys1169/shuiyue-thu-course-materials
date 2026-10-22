@@ -1,0 +1,63 @@
+{
+  "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%BB%BA%E7%AD%91%E6%9D%90%E6%96%99%2F%E5%BB%BA%E7%AD%91%E6%9D%90%E6%96%99%E5%AE%9E%E9%AA%8C_%E9%A9%AC%E9%80%B8&mode=list",
+  "role": "数值处理工作簿、试验结果与原始数据表共7件；同名表格以原子目录保留，不能仅凭名称互相覆盖。XLSM原件包含宏封装，仅作为数据和计算来源备份，未执行宏、公式或链接。配套关系与计算正确性待使用者据原文核对。",
+  "files": [
+    {
+      "relativePath": "数据处理.xlsx",
+      "bytes": 9190,
+      "sha256": "a96b093dab195652ce1be0f5ac3dd53b5a2f324d738e5b0fa5f9f25fd02c2b62",
+      "sourceAliases": [
+        "建筑材料实验_马逸/实验报告from三字班/实验五：防水材料及砖抗压强度实验/数据处理.xlsx"
+      ]
+    },
+    {
+      "relativePath": "J12烧结页岩砖抗压强度试验.pdf",
+      "bytes": 34411,
+      "sha256": "b429d4e675be73359d2717f74173310e8afd9cde860821826a5b4f12d860f1d5",
+      "sourceAliases": [
+        "建筑材料实验_马逸/实验报告from三字班/实验五：防水材料及砖抗压强度实验/J12烧结页岩砖抗压强度试验.pdf"
+      ]
+    },
+    {
+      "relativePath": "J12烧结页岩砖抗压强度试验.doc",
+      "bytes": 37376,
+      "sha256": "58fc5c1203795fea1ac9c354d4d5e92d83f790d39b2f1ea887fc7560d73a7916",
+      "sourceAliases": [
+        "建筑材料实验_马逸/实验报告from三字班/实验五：防水材料及砖抗压强度实验/J12烧结页岩砖抗压强度试验.doc"
+      ]
+    },
+    {
+      "relativePath": "2014J12水泥与减水剂相容性试验结果_J12.doc",
+      "bytes": 33792,
+      "sha256": "8fdd0cc506e3a7379680fcad19894d970b16c3e244a9d7f985afd886c11d50ef",
+      "sourceAliases": [
+        "建筑材料实验_马逸/实验报告from三字班/实验二：水泥/2014J12水泥与减水剂相容性试验结果_J12.doc",
+        "建筑材料实验_马逸/实验报告from三字班/实验二：水泥/2014J12水泥与减水剂相容性试验结果_J12 (1).doc"
+      ]
+    },
+    {
+      "relativePath": "实验三：砂石/数据处理.xlsx",
+      "bytes": 13902,
+      "sha256": "00ce718381314f1e792383fa7c8f396a333ca45ac3feffe97e95993d4389e410",
+      "sourceAliases": [
+        "建筑材料实验_马逸/实验报告from三字班/实验三：砂石/数据处理.xlsx"
+      ]
+    },
+    {
+      "relativePath": "混凝土抗折试验数据0002.doc",
+      "bytes": 1872896,
+      "sha256": "50039c0e04ea4d741d7d78b5febc63e9389f80000ecbdb80a78626a3660f76b4",
+      "sourceAliases": [
+        "建筑材料实验_马逸/实验报告from三字班/实验一：建筑材料基本性质/混凝土抗折试验数据0002.doc"
+      ]
+    },
+    {
+      "relativePath": "数据处理.xlsm",
+      "bytes": 15753,
+      "sha256": "4ea4ede0582cb21232929dfca1b97e1dcf2a0632d68b89e7e9857d90b5118fad",
+      "sourceAliases": [
+        "建筑材料实验_马逸/实验报告from三字班/实验一：建筑材料基本性质/数据处理.xlsm"
+      ]
+    }
+  ]
+}

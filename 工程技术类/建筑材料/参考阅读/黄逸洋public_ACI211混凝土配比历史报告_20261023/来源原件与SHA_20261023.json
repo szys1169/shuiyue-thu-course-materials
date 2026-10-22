@@ -1,0 +1,26 @@
+{
+  "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%BB%BA%E7%AD%91%E6%9D%90%E6%96%99%2F%E5%BB%BA%E7%AD%91%E6%9D%90%E6%96%99_%E9%A9%AC%E9%80%B8%2Fdocuments-export-2024-05-23&mode=list",
+  "role": "ACI Committee 211两份历史报告：211.4R-93高强混凝土配比（原页Reapproved 1998）与211.1-91普通/重型/大体积混凝土配比（原页Reapproved 2002）。仅作为来源历史参考资料，不声称当前适用工程标准。",
+  "files": [
+    {
+      "name": "ACI-2114r_93-high-strength_96280334.pdf",
+      "bytes": 283403,
+      "sha256": "72911f8b16b694395d7f0609a24f215f74241a00eb93d7b0c8123b0a3f92c9b7",
+      "pages": 13,
+      "sourceAliases": [
+        "documents-export-2024-05-23/ACI-2114r_93-high-strength_96280334.pdf",
+        "documents-export-2024-05-23/ACI-2114r_93-high-strength_96280334 (1).pdf"
+      ]
+    },
+    {
+      "name": "ACI-2111_91-normal-strength_62980830.pdf",
+      "bytes": 881495,
+      "sha256": "26287e4dcb4e6af47b3cd623a74c14c444f01020c03140451b214eb4dc0311ee",
+      "pages": 38,
+      "sourceAliases": [
+        "documents-export-2024-05-23/ACI-2111_91-normal-strength_62980830.pdf",
+        "documents-export-2024-05-23/ACI-2111_91-normal-strength_62980830 (1).pdf"
+      ]
+    }
+  ]
+}
