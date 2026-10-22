@@ -1,0 +1,213 @@
+{
+  "date": "2026-10-23",
+  "source": "黄逸洋public / 复变函数引论_马逸",
+  "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%2F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA_%E9%A9%AC%E9%80%B8&mode=list",
+  "cloudDirectoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA%E9%A9%AC%E9%80%B8_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+  "role": "章节练习、习题课和相关课程参考解答。按原层级保留，不认作本校复分析当前作业或官方标准答案。",
+  "sourcePaths": 20,
+  "files": [
+    {
+      "group": 2,
+      "sourceRelativePath": "复变函数-杨晓京-重点题目解答整理.pdf",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%2F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA_%E9%A9%AC%E9%80%B8%2F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0-%E6%9D%A8%E6%99%93%E4%BA%AC-%E9%87%8D%E7%82%B9%E9%A2%98%E7%9B%AE%E8%A7%A3%E7%AD%94%E6%95%B4%E7%90%86.pdf",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA%E9%A9%AC%E9%80%B8_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "bytes": 5710232,
+      "sha256": "5f81d4739134519b080b5097ad3dfc9c8971aad5ff5db4ed3d8840ae6b6ce984",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/复分析/习题解答/相关课程参考_复变函数引论马逸_黄逸洋public/复变函数-杨晓京-重点题目解答整理.pdf"
+    },
+    {
+      "group": 2,
+      "sourceRelativePath": "习题/北京大学复变函数试卷.pdf",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%2F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA_%E9%A9%AC%E9%80%B8%2F%E4%B9%A0%E9%A2%98%2F%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E8%AF%95%E5%8D%B7.pdf",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA%E9%A9%AC%E9%80%B8_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "bytes": 135689,
+      "sha256": "80903c99a952bf6916a337650e16ab6098487694780bd846dfb12788c906ef23",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/复分析/习题解答/相关课程参考_复变函数引论马逸_黄逸洋public/习题/北京大学复变函数试卷.pdf"
+    },
+    {
+      "group": 2,
+      "sourceRelativePath": "习题/第二章练习题.doc",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%2F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA_%E9%A9%AC%E9%80%B8%2F%E4%B9%A0%E9%A2%98%2F%E7%AC%AC%E4%BA%8C%E7%AB%A0%E7%BB%83%E4%B9%A0%E9%A2%98.doc",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA%E9%A9%AC%E9%80%B8_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "bytes": 181760,
+      "sha256": "05482466907b70f836eeca40380f09ce33a23438bdca126e91ed59228d6cc8d5",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/复分析/习题解答/相关课程参考_复变函数引论马逸_黄逸洋public/习题/第二章练习题.doc"
+    },
+    {
+      "group": 2,
+      "sourceRelativePath": "习题/第六章练习题.doc",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%2F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA_%E9%A9%AC%E9%80%B8%2F%E4%B9%A0%E9%A2%98%2F%E7%AC%AC%E5%85%AD%E7%AB%A0%E7%BB%83%E4%B9%A0%E9%A2%98.doc",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA%E9%A9%AC%E9%80%B8_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "bytes": 112128,
+      "sha256": "558a08f0241a9955035a582e5362aeafec983ddfc7a4b16314f67e3a7c24d312",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/复分析/习题解答/相关课程参考_复变函数引论马逸_黄逸洋public/习题/第六章练习题.doc"
+    },
+    {
+      "group": 2,
+      "sourceRelativePath": "习题/第三章练习题.doc",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%2F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA_%E9%A9%AC%E9%80%B8%2F%E4%B9%A0%E9%A2%98%2F%E7%AC%AC%E4%B8%89%E7%AB%A0%E7%BB%83%E4%B9%A0%E9%A2%98.doc",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA%E9%A9%AC%E9%80%B8_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "bytes": 227840,
+      "sha256": "975d01946cbc09fb8f18a28b6b85619c807d697a73cdb1b7ef44abf39ee72a79",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/复分析/习题解答/相关课程参考_复变函数引论马逸_黄逸洋public/习题/第三章练习题.doc"
+    },
+    {
+      "group": 2,
+      "sourceRelativePath": "习题/第四章练习题.doc",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%2F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA_%E9%A9%AC%E9%80%B8%2F%E4%B9%A0%E9%A2%98%2F%E7%AC%AC%E5%9B%9B%E7%AB%A0%E7%BB%83%E4%B9%A0%E9%A2%98.doc",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA%E9%A9%AC%E9%80%B8_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "bytes": 130560,
+      "sha256": "82fb498719eb5beff8c12e57a94ed8dc7d5c3860a3df82a41acf7655b0f38a81",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/复分析/习题解答/相关课程参考_复变函数引论马逸_黄逸洋public/习题/第四章练习题.doc"
+    },
+    {
+      "group": 2,
+      "sourceRelativePath": "习题/第五章练习题.doc",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%2F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA_%E9%A9%AC%E9%80%B8%2F%E4%B9%A0%E9%A2%98%2F%E7%AC%AC%E4%BA%94%E7%AB%A0%E7%BB%83%E4%B9%A0%E9%A2%98.doc",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA%E9%A9%AC%E9%80%B8_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "bytes": 102400,
+      "sha256": "cc1e36238ab78d397b65ca669e3361affbca526f6227953f32435769e49fb512",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/复分析/习题解答/相关课程参考_复变函数引论马逸_黄逸洋public/习题/第五章练习题.doc"
+    },
+    {
+      "group": 2,
+      "sourceRelativePath": "习题/第一章练习题.doc",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%2F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA_%E9%A9%AC%E9%80%B8%2F%E4%B9%A0%E9%A2%98%2F%E7%AC%AC%E4%B8%80%E7%AB%A0%E7%BB%83%E4%B9%A0%E9%A2%98.doc",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA%E9%A9%AC%E9%80%B8_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "bytes": 61440,
+      "sha256": "6126e3a7133b1513e89cea83a36288694a853ed34226a20c9a5084cec258051e",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/复分析/习题解答/相关课程参考_复变函数引论马逸_黄逸洋public/习题/第一章练习题.doc"
+    },
+    {
+      "group": 2,
+      "sourceRelativePath": "习题/数学系习题课讲义.pdf",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%2F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA_%E9%A9%AC%E9%80%B8%2F%E4%B9%A0%E9%A2%98%2F%E6%95%B0%E5%AD%A6%E7%B3%BB%E4%B9%A0%E9%A2%98%E8%AF%BE%E8%AE%B2%E4%B9%89.pdf",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA%E9%A9%AC%E9%80%B8_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "bytes": 898489,
+      "sha256": "39320a78c9bc98eff9dec4c07ca897f95a04c7577048b4c844f983f2e477d957",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/复分析/习题解答/相关课程参考_复变函数引论马逸_黄逸洋public/习题/数学系习题课讲义.pdf"
+    },
+    {
+      "group": 2,
+      "sourceRelativePath": "习题/杨大伯/citi1.pdf",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%2F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA_%E9%A9%AC%E9%80%B8%2F%E4%B9%A0%E9%A2%98%2F%E6%9D%A8%E5%A4%A7%E4%BC%AF%2Fciti1.pdf",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA%E9%A9%AC%E9%80%B8_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "bytes": 170607,
+      "sha256": "e45c8dc7bf95b68074644ac72737c738277fdf96fcf2df6ca33e9d8b36039ccd",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/复分析/习题解答/相关课程参考_复变函数引论马逸_黄逸洋public/习题/杨大伯/citi1.pdf"
+    },
+    {
+      "group": 2,
+      "sourceRelativePath": "习题/杨大伯/citi2.pdf",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%2F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA_%E9%A9%AC%E9%80%B8%2F%E4%B9%A0%E9%A2%98%2F%E6%9D%A8%E5%A4%A7%E4%BC%AF%2Fciti2.pdf",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA%E9%A9%AC%E9%80%B8_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "bytes": 39143,
+      "sha256": "dc96ad3f7e4e13fc0a3c9b8808f82e2aa23f1bd54e6d0c2bf872957ffcf9f17a",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/复分析/习题解答/相关课程参考_复变函数引论马逸_黄逸洋public/习题/杨大伯/citi2.pdf"
+    },
+    {
+      "group": 2,
+      "sourceRelativePath": "习题/杨大伯/citi3.pdf",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%2F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA_%E9%A9%AC%E9%80%B8%2F%E4%B9%A0%E9%A2%98%2F%E6%9D%A8%E5%A4%A7%E4%BC%AF%2Fciti3.pdf",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA%E9%A9%AC%E9%80%B8_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "bytes": 27710,
+      "sha256": "1408d26600f2f1db53a34455d2f275da6af1b0e770315ddf1bb6a32ede8b0e68",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/复分析/习题解答/相关课程参考_复变函数引论马逸_黄逸洋public/习题/杨大伯/citi3.pdf"
+    },
+    {
+      "group": 2,
+      "sourceRelativePath": "习题/杨大伯/citi4.pdf",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%2F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA_%E9%A9%AC%E9%80%B8%2F%E4%B9%A0%E9%A2%98%2F%E6%9D%A8%E5%A4%A7%E4%BC%AF%2Fciti4.pdf",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA%E9%A9%AC%E9%80%B8_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "bytes": 111667,
+      "sha256": "e4d7277b8cc2b7ef7e4c3247cb7e13a93d6b2b9fa0f895c412532028c26207ca",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/复分析/习题解答/相关课程参考_复变函数引论马逸_黄逸洋public/习题/杨大伯/citi4.pdf"
+    },
+    {
+      "group": 2,
+      "sourceRelativePath": "习题/杨大伯/citi5.pdf",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%2F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA_%E9%A9%AC%E9%80%B8%2F%E4%B9%A0%E9%A2%98%2F%E6%9D%A8%E5%A4%A7%E4%BC%AF%2Fciti5.pdf",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA%E9%A9%AC%E9%80%B8_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "bytes": 37498,
+      "sha256": "9f25a0d4960119d1de8c80b5fa60ad552a4ef3edec09d3192939ca303517e2dc",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/复分析/习题解答/相关课程参考_复变函数引论马逸_黄逸洋public/习题/杨大伯/citi5.pdf"
+    },
+    {
+      "group": 2,
+      "sourceRelativePath": "习题/杨大伯/xiti1.0.pdf",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%2F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA_%E9%A9%AC%E9%80%B8%2F%E4%B9%A0%E9%A2%98%2F%E6%9D%A8%E5%A4%A7%E4%BC%AF%2Fxiti1.0.pdf",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA%E9%A9%AC%E9%80%B8_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "bytes": 293725,
+      "sha256": "c65eb5e82310e61a2702381ba6b7e030835f4e6f6332c74390281299004d6b34",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/复分析/习题解答/相关课程参考_复变函数引论马逸_黄逸洋public/习题/杨大伯/xiti1.0.pdf"
+    },
+    {
+      "group": 2,
+      "sourceRelativePath": "习题/杨大伯/xiti2.pdf",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%2F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA_%E9%A9%AC%E9%80%B8%2F%E4%B9%A0%E9%A2%98%2F%E6%9D%A8%E5%A4%A7%E4%BC%AF%2Fxiti2.pdf",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA%E9%A9%AC%E9%80%B8_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "bytes": 41407,
+      "sha256": "e60ad5d0e6859d58ea47e9b58ac4e82b742eeb48269b5488d9f68d82dc6743de",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/复分析/习题解答/相关课程参考_复变函数引论马逸_黄逸洋public/习题/杨大伯/xiti2.pdf"
+    },
+    {
+      "group": 2,
+      "sourceRelativePath": "习题/杨大伯/xiti3.pdf",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%2F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA_%E9%A9%AC%E9%80%B8%2F%E4%B9%A0%E9%A2%98%2F%E6%9D%A8%E5%A4%A7%E4%BC%AF%2Fxiti3.pdf",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA%E9%A9%AC%E9%80%B8_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "bytes": 266614,
+      "sha256": "4257089f99830e02fd68276b3be5cf72079596c4805faa6f263b1a58662fbca4",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/复分析/习题解答/相关课程参考_复变函数引论马逸_黄逸洋public/习题/杨大伯/xiti3.pdf"
+    },
+    {
+      "group": 2,
+      "sourceRelativePath": "习题/杨大伯/xiti4.pdf",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%2F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA_%E9%A9%AC%E9%80%B8%2F%E4%B9%A0%E9%A2%98%2F%E6%9D%A8%E5%A4%A7%E4%BC%AF%2Fxiti4.pdf",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA%E9%A9%AC%E9%80%B8_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "bytes": 202609,
+      "sha256": "c65146ecebc6f140226cadd7264143bc6e3b984cce65e05ebf17ff00640b90aa",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/复分析/习题解答/相关课程参考_复变函数引论马逸_黄逸洋public/习题/杨大伯/xiti4.pdf"
+    },
+    {
+      "group": 2,
+      "sourceRelativePath": "习题/杨大伯/xiti5.pdf",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%2F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA_%E9%A9%AC%E9%80%B8%2F%E4%B9%A0%E9%A2%98%2F%E6%9D%A8%E5%A4%A7%E4%BC%AF%2Fxiti5.pdf",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA%E9%A9%AC%E9%80%B8_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "bytes": 277653,
+      "sha256": "abf19fda3895527ddbd96d19513e4296b9ba2f0f5b21d6ece9985a07a38bdda9",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/复分析/习题解答/相关课程参考_复变函数引论马逸_黄逸洋public/习题/杨大伯/xiti5.pdf"
+    },
+    {
+      "group": 2,
+      "sourceRelativePath": "习题/杨大伯/xiti6.pdf",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%2F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA_%E9%A9%AC%E9%80%B8%2F%E4%B9%A0%E9%A2%98%2F%E6%9D%A8%E5%A4%A7%E4%BC%AF%2Fxiti6.pdf",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA%E9%A9%AC%E9%80%B8_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "bytes": 29493,
+      "sha256": "66d126790ce58cb3b945155e757b08174b4ba06383b8df7a1ff17ffabb9a916e",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/复分析/习题解答/相关课程参考_复变函数引论马逸_黄逸洋public/习题/杨大伯/xiti6.pdf"
+    }
+  ],
+  "verification": "本轮正常UI回取已归档目标组，完整fileset与ZIP CRC通过，逐原件SHA/本地回读一致。共享源路径来自此前实际UI清单；不声称本轮再次下载每个共享源原件。",
+  "reviewBoundary": "69路径静态筛查；13张题目/解答图实际完整缩略查看，无GPS命中。42份PDF共252文件页并未全页人工净审；DOC/DOCX静态正文、属性和外部关系读取，未执行宏、嵌入对象或跟随外链，未渲染全部Word版式。5处数字Producer命中为软件构建日期，未误删。",
+  "rawArchivesPublished": false
+}
