@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-23",
+  "source": "黄逸洋public",
+  "course": "工程地质",
+  "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%B7%A5%E7%A8%8B%E5%9C%B0%E8%B4%A8&mode=list",
+  "cloudDirectoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E5%B7%A5%E7%A8%8B%E6%8A%80%E6%9C%AF%E7%B1%BB/%E5%B7%A5%E7%A8%8B%E5%9C%B0%E8%B4%A8/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%BE%90%E6%96%87%E6%9D%B02023%E6%98%A5%E6%9C%9F%E6%9C%AB%E5%9B%9E%E5%BF%86_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+  "role": "2页期末考试回忆版，含回忆者的不确定表述，不冒充原始正式卷。",
+  "files": [
+    {
+      "sourceLabel": "GDB04",
+      "group": 3,
+      "sourceFileName": "工程地质-徐文杰-2023年春-期末考试回忆-汪远.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%B7%A5%E7%A8%8B%E5%9C%B0%E8%B4%A8%2F%E5%B7%A5%E7%A8%8B%E5%9C%B0%E8%B4%A8-%E5%BE%90%E6%96%87%E6%9D%B0-2023%E5%B9%B4%E6%98%A5-%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E5%9B%9E%E5%BF%86-%E6%B1%AA%E8%BF%9C.pdf",
+      "archiveMember": null,
+      "bytes": 164832,
+      "sha256": "a95f39439ade804f856fd5c839eba1513be6fdf83addfe551d0961bde526ba28",
+      "PDFFilePages": 2,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/工程地质/往年题/相关课程参考_徐文杰2023春期末回忆_黄逸洋public/工程地质-徐文杰-2023年春-期末考试回忆-汪远.pdf"
+    }
+  ],
+  "verification": "本次新增6份原字节资料及8份来源说明，引用此前已验收的云盘归档证据；未重新下载全部云盘原件、上传原包或改动云盘。7原件与8本地旧说明均保持原字节。",
+  "reviewBoundary": "7候选逐SHA及仓库blob核对；5份PDF全部24文件页实际渲染查看，另1DOCX核正文XML、core属性、外部关系及媒体目录（无内嵌图、对象或外部关系），未做完整Word版式渲染。未执行宏、公式、CAD或外部链接。DWG只核格式AC1032及原字节SHA，尚未完成可靠对象/属性与图面检查，单件暂缓Git同步，不表示已发现个人信息；本地和云盘原件保留。",
+  "rawArchivesPublished": false
+}

@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-23",
+  "source": "黄逸洋public",
+  "course": "数据库",
+  "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%95%B0%E6%8D%AE%E5%BA%93&mode=list",
+  "cloudDirectoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B1%BB/%E6%95%B0%E6%8D%AE%E5%BA%93/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%AD%99%E7%94%B2%E6%9D%BE2016%E4%B8%8E2022%E8%AF%95%E9%A2%98_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+  "role": "2022试卷4页、2016试卷4页及2016手写参考答案3页。2016卷面既有模糊区域原样保留，不尝试恢复；2022身份栏空白，手写参考只见普通署名和班级，不认证标准答案。原名“往年题拟合度极高”为来源主观文字，不承诺考试覆盖或相似度。题设中的学生、住址等为数据库关系模式示例。",
+  "files": [
+    {
+      "sourceLabel": "GDB05",
+      "group": 4,
+      "sourceFileName": "数据库-孙甲松-大二上-江星韦-数据库试题_2022（往年题拟合度极高）.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%95%B0%E6%8D%AE%E5%BA%93%2F%E6%95%B0%E6%8D%AE%E5%BA%93-%E5%AD%99%E7%94%B2%E6%9D%BE-%E5%A4%A7%E4%BA%8C%E4%B8%8A-%E6%B1%9F%E6%98%9F%E9%9F%A6-%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AF%95%E9%A2%98_2022%EF%BC%88%E5%BE%80%E5%B9%B4%E9%A2%98%E6%8B%9F%E5%90%88%E5%BA%A6%E6%9E%81%E9%AB%98%EF%BC%89.pdf",
+      "archiveMember": null,
+      "bytes": 514230,
+      "sha256": "0c33f658618f17f5f7f0eec245e83def60f271c6acf41ef193c3f35a606f9a95",
+      "PDFFilePages": 4,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "计算机类/数据库/往年题/相关课程参考_孙甲松2016与2022试题_黄逸洋public/数据库-孙甲松-大二上-江星韦-数据库试题_2022（往年题拟合度极高）.pdf"
+    },
+    {
+      "sourceLabel": "GDB06",
+      "group": 4,
+      "sourceFileName": "数据库-孙甲松-大二上-江星韦-数据库试题2016期末（往年题拟合度极高）.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%95%B0%E6%8D%AE%E5%BA%93%2F%E6%95%B0%E6%8D%AE%E5%BA%93-%E5%AD%99%E7%94%B2%E6%9D%BE-%E5%A4%A7%E4%BA%8C%E4%B8%8A-%E6%B1%9F%E6%98%9F%E9%9F%A6-%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AF%95%E9%A2%982016%E6%9C%9F%E6%9C%AB%EF%BC%88%E5%BE%80%E5%B9%B4%E9%A2%98%E6%8B%9F%E5%90%88%E5%BA%A6%E6%9E%81%E9%AB%98%EF%BC%89.pdf",
+      "archiveMember": null,
+      "bytes": 1352361,
+      "sha256": "b213274a110701e5645555d603b33fcb1a4d875e53540a85ae2a208fc289153c",
+      "PDFFilePages": 4,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "计算机类/数据库/往年题/相关课程参考_孙甲松2016与2022试题_黄逸洋public/数据库-孙甲松-大二上-江星韦-数据库试题2016期末（往年题拟合度极高）.pdf"
+    },
+    {
+      "sourceLabel": "GDB07",
+      "group": 4,
+      "sourceFileName": "数据库-孙甲松-大二上-江星韦-数据库试题2016期末答案（往年题拟合度极高）.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E6%95%B0%E6%8D%AE%E5%BA%93%2F%E6%95%B0%E6%8D%AE%E5%BA%93-%E5%AD%99%E7%94%B2%E6%9D%BE-%E5%A4%A7%E4%BA%8C%E4%B8%8A-%E6%B1%9F%E6%98%9F%E9%9F%A6-%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AF%95%E9%A2%982016%E6%9C%9F%E6%9C%AB%E7%AD%94%E6%A1%88%EF%BC%88%E5%BE%80%E5%B9%B4%E9%A2%98%E6%8B%9F%E5%90%88%E5%BA%A6%E6%9E%81%E9%AB%98%EF%BC%89.pdf",
+      "archiveMember": null,
+      "bytes": 378709,
+      "sha256": "66d3ae8556639618fe79135fbe91504b901ffe51875bccee0aed76c62783f07c",
+      "PDFFilePages": 3,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "计算机类/数据库/往年题/相关课程参考_孙甲松2016与2022试题_黄逸洋public/数据库-孙甲松-大二上-江星韦-数据库试题2016期末答案（往年题拟合度极高）.pdf"
+    }
+  ],
+  "verification": "本次新增6份原字节资料及8份来源说明，引用此前已验收的云盘归档证据；未重新下载全部云盘原件、上传原包或改动云盘。7原件与8本地旧说明均保持原字节。",
+  "reviewBoundary": "7候选逐SHA及仓库blob核对；5份PDF全部24文件页实际渲染查看，另1DOCX核正文XML、core属性、外部关系及媒体目录（无内嵌图、对象或外部关系），未做完整Word版式渲染。未执行宏、公式、CAD或外部链接。DWG只核格式AC1032及原字节SHA，尚未完成可靠对象/属性与图面检查，单件暂缓Git同步，不表示已发现个人信息；本地和云盘原件保留。",
+  "rawArchivesPublished": false
+}
