@@ -1,0 +1,540 @@
+{
+  "date": "2026-10-23",
+  "source": "黄逸洋public / 基础物理学(1) / 大物",
+  "category": "题库差异来源补充",
+  "note": "两个原包共39条路径，36条与已归档散文件逐SHA相同并复用；本组只新增机械振动、机械波PDF各1与ZH4的DOC原件1。两份PDF与既有同名题库不同SHA，不替换或推版本先后。DOC正文主要以11段内嵌PNG保存，为题目和带分值的来源参考解答，已静态查看这些图像，没有认证标准答案。",
+  "archives": [
+    {
+      "name": "大物题库.zip",
+      "bytes": 10659732,
+      "sha256": "2e9b852ad9b1958247116453835e4f10947c93f9a2844ae6f7b1efec9bc9dcd7",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.2_%E7%89%A9%E7%90%86%E7%B1%BB_%E5%9F%BA%E7%A1%80%E7%89%A9%E7%90%86%E5%AD%A6(1)%2F%E5%A4%A7%E7%89%A9%2F%E5%A4%A7%E7%89%A9%2F%E5%A4%A7%E7%89%A9%2F%E5%A4%A7%E7%89%A9%E9%A2%98%E5%BA%93.zip"
+    },
+    {
+      "name": "大学物理.rar",
+      "bytes": 1976816,
+      "sha256": "c5b25e821de88eee023431c2fd7734c7ff6ac5ca6cf83f6a436797538fcabfce",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.2_%E7%89%A9%E7%90%86%E7%B1%BB_%E5%9F%BA%E7%A1%80%E7%89%A9%E7%90%86%E5%AD%A6(1)%2F%E5%A4%A7%E7%89%A9%2F%E5%A4%A7%E7%89%A9%2F%E5%A4%A7%E7%89%A9%2F%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86.rar"
+    }
+  ],
+  "archiveUploaded": false,
+  "sourceFileCount": 39,
+  "newOriginalFiles": 3,
+  "exactCloudReuseFiles": 36,
+  "files": [
+    {
+      "archiveName": "大学物理.rar",
+      "decodedMember": "大学物理/大学物理B1期中试题和答案.pdf",
+      "bytes": 213912,
+      "sha256": "9909767df236594644cf6ca985fc04cfada63354dadd9aa14821d79d5955db95",
+      "action": "reuse_existing_cloud_exactSHA",
+      "pages": 12,
+      "existingCloudLocations": [
+        {
+          "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86B1%E6%9C%9F%E4%B8%AD_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+          "downloadedRelativeMember": "大学物理B1期中试题和答案.pdf"
+        }
+      ]
+    },
+    {
+      "archiveName": "大学物理.rar",
+      "decodedMember": "大学物理/大学物理力学题库及答案.doc",
+      "bytes": 2292224,
+      "sha256": "65fa2d380854462d0515922ffded2407a52097c3724fd897a46c2326dfcffdfa",
+      "action": "reuse_existing_cloud_exactSHA",
+      "existingCloudLocations": [
+        {
+          "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%9F%BA%E7%A1%80%E7%89%A9%E7%90%86%E7%AB%A0%E8%8A%82%E9%A2%98%E5%BA%93_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+          "downloadedRelativeMember": "大学物理力学题库及答案.doc"
+        }
+      ]
+    },
+    {
+      "archiveName": "大学物理.rar",
+      "decodedMember": "大学物理/清华大学《大学物理》习题库试题及答案_01_力学习题.pdf",
+      "bytes": 495022,
+      "sha256": "4e0238678c2b3b4bdd0333c9ff761e4214440b2363e31dac954d6b1e4d1d11f9",
+      "action": "reuse_existing_cloud_exactSHA",
+      "pages": 18,
+      "existingCloudLocations": [
+        {
+          "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%9F%BA%E7%A1%80%E7%89%A9%E7%90%86%E7%AB%A0%E8%8A%82%E9%A2%98%E5%BA%93_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+          "downloadedRelativeMember": "清华大学《大学物理》习题库试题及答案_01_力学习题.pdf"
+        }
+      ]
+    },
+    {
+      "archiveName": "大学物理.rar",
+      "decodedMember": "大学物理/清华大学《大学物理》习题库试题及答案_02_刚体习题.pdf",
+      "bytes": 172345,
+      "sha256": "fde7df34b2340faae75963bcfbf5b599fc2449ca927d3647818763949bc9cf7d",
+      "action": "reuse_existing_cloud_exactSHA",
+      "pages": 4,
+      "existingCloudLocations": [
+        {
+          "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%9F%BA%E7%A1%80%E7%89%A9%E7%90%86%E7%AB%A0%E8%8A%82%E9%A2%98%E5%BA%93_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+          "downloadedRelativeMember": "清华大学《大学物理》习题库试题及答案_02_刚体习题.pdf"
+        }
+      ]
+    },
+    {
+      "archiveName": "大学物理.rar",
+      "decodedMember": "大学物理/清华大学《大学物理》习题库试题及答案_03_相对论习题.pdf",
+      "bytes": 142876,
+      "sha256": "04ffd1707f2653c5b02d9e39fe22d44b836147952cf3587e0bb9d29ac9fb1966",
+      "action": "reuse_existing_cloud_exactSHA",
+      "pages": 4,
+      "existingCloudLocations": [
+        {
+          "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%9F%BA%E7%A1%80%E7%89%A9%E7%90%86%E7%AB%A0%E8%8A%82%E9%A2%98%E5%BA%93_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+          "downloadedRelativeMember": "清华大学《大学物理》习题库试题及答案_03_相对论习题.pdf"
+        }
+      ]
+    },
+    {
+      "archiveName": "大学物理.rar",
+      "decodedMember": "大学物理/清华大学《大学物理》习题库试题及答案_04_机械振动习题.pdf",
+      "bytes": 246819,
+      "sha256": "17c97dfd67eb2bd9d3c80a1d71f5dbe2a50f38e49ecb4c25791f605a4b1bc407",
+      "action": "new_original_file",
+      "pages": 8,
+      "fileName": "清华大学《大学物理》习题库试题及答案_04_机械振动习题.pdf"
+    },
+    {
+      "archiveName": "大学物理.rar",
+      "decodedMember": "大学物理/清华大学《大学物理》习题库试题及答案_05_机械波习题.pdf",
+      "bytes": 277680,
+      "sha256": "3659a175037c6be2f73f8afd7d352d842a598d8bafe5c164dfca1fc58894d5d3",
+      "action": "new_original_file",
+      "pages": 14,
+      "fileName": "清华大学《大学物理》习题库试题及答案_05_机械波习题.pdf"
+    },
+    {
+      "archiveName": "大学物理.rar",
+      "decodedMember": "大学物理/清华大学《大学物理》习题库试题及答案_07_热学习题.pdf",
+      "bytes": 267545,
+      "sha256": "71ccc5923990b6e3b51801d3280780366b05c757e5c7ebb3527bda4cc4d2594b",
+      "action": "reuse_existing_cloud_exactSHA",
+      "pages": 14,
+      "existingCloudLocations": [
+        {
+          "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%9F%BA%E7%A1%80%E7%89%A9%E7%90%86%E9%A2%98%E5%BA%93%E6%B1%87%E7%BC%96_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+          "downloadedRelativeMember": "大物题库/清华大学《大学物理》习题库试题及答案__07_热学习题.pdf"
+        }
+      ]
+    },
+    {
+      "archiveName": "大物题库.zip",
+      "decodedMember": "大物题库/1.doc",
+      "bytes": 361472,
+      "sha256": "ed32c28bd647e2ffb4455108ccb8ce38725c54f6f2ec51d033f3dd447411abc5",
+      "action": "reuse_existing_cloud_exactSHA",
+      "existingCloudLocations": [
+        {
+          "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%9F%BA%E7%A1%80%E7%89%A9%E7%90%86%E9%A2%98%E5%BA%93%E6%B1%87%E7%BC%96_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+          "downloadedRelativeMember": "1.doc"
+        }
+      ]
+    },
+    {
+      "archiveName": "大物题库.zip",
+      "decodedMember": "大物题库/2.doc",
+      "bytes": 104960,
+      "sha256": "b3267745e2de43740ddb1634cdc2d336eb923e5141026c6532104f3f1596e155",
+      "action": "reuse_existing_cloud_exactSHA",
+      "existingCloudLocations": [
+        {
+          "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%9F%BA%E7%A1%80%E7%89%A9%E7%90%86%E9%A2%98%E5%BA%93%E6%B1%87%E7%BC%96_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+          "downloadedRelativeMember": "2.doc"
+        }
+      ]
+    },
+    {
+      "archiveName": "大物题库.zip",
+      "decodedMember": "大物题库/3.0.doc",
+      "bytes": 1960960,
+      "sha256": "a2dd0e2a6d0273c9ac486ca35c21b8491d6dc292964539f2a04ca8a865e88467",
+      "action": "reuse_existing_cloud_exactSHA",
+      "existingCloudLocations": [
+        {
+          "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%9F%BA%E7%A1%80%E7%89%A9%E7%90%86%E9%A2%98%E5%BA%93%E6%B1%87%E7%BC%96_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+          "downloadedRelativeMember": "3.0.doc"
+        }
+      ]
+    },
+    {
+      "archiveName": "大物题库.zip",
+      "decodedMember": "大物题库/WLTK1 @振动、波动.doc",
+      "bytes": 640512,
+      "sha256": "edc5b30186965c74d707dd943244e51817cbad9a4587a8baa29547247c5b8f8b",
+      "action": "reuse_existing_cloud_exactSHA",
+      "existingCloudLocations": [
+        {
+          "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%9F%BA%E7%A1%80%E7%89%A9%E7%90%86%E9%A2%98%E5%BA%93%E6%B1%87%E7%BC%96_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+          "downloadedRelativeMember": "WLTK1 @振动、波动.doc"
+        }
+      ]
+    },
+    {
+      "archiveName": "大物题库.zip",
+      "decodedMember": "大物题库/WLTK2 @振动、波动.doc",
+      "bytes": 592384,
+      "sha256": "518681a3eead1eed6f4e46d92836ed9f62d9db8d26cebdd1797c7f945f3d6fba",
+      "action": "reuse_existing_cloud_exactSHA",
+      "existingCloudLocations": [
+        {
+          "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%9F%BA%E7%A1%80%E7%89%A9%E7%90%86%E9%A2%98%E5%BA%93%E6%B1%87%E7%BC%96_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+          "downloadedRelativeMember": "WLTK2 @振动、波动.doc"
+        }
+      ]
+    },
+    {
+      "archiveName": "大物题库.zip",
+      "decodedMember": "大物题库/WLTK3 @热.doc",
+      "bytes": 390144,
+      "sha256": "b72e19b9a6b8d28c713cf666748da4c505206caf3f1119ba5527b7b9c6b03ccc",
+      "action": "reuse_existing_cloud_exactSHA",
+      "existingCloudLocations": [
+        {
+          "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%9F%BA%E7%A1%80%E7%89%A9%E7%90%86%E9%A2%98%E5%BA%93%E6%B1%87%E7%BC%96_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+          "downloadedRelativeMember": "WLTK3 @热.doc"
+        }
+      ]
+    },
+    {
+      "archiveName": "大物题库.zip",
+      "decodedMember": "大物题库/za @热、振动波动.doc",
+      "bytes": 288768,
+      "sha256": "9ea0407a88c27a6e6fa4add39595e7ed8712aa9111df7c59379d03651ff7d455",
+      "action": "reuse_existing_cloud_exactSHA",
+      "existingCloudLocations": [
+        {
+          "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%9F%BA%E7%A1%80%E7%89%A9%E7%90%86%E9%A2%98%E5%BA%93%E6%B1%87%E7%BC%96_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+          "downloadedRelativeMember": "za @热、振动波动.doc"
+        }
+      ]
+    },
+    {
+      "archiveName": "大物题库.zip",
+      "decodedMember": "大物题库/ZH4  @热、振动波动.doc",
+      "bytes": 281600,
+      "sha256": "e832396acb59aee78e2f39b93562857f650ba9a859f0eb0a581a71d9a6583838",
+      "action": "new_original_file",
+      "fileName": "ZH4  @热、振动波动.doc"
+    },
+    {
+      "archiveName": "大物题库.zip",
+      "decodedMember": "大物题库/ZH5 @热、振动波动.doc",
+      "bytes": 272896,
+      "sha256": "70d2b8381c866e19a707d98827d715f01aa1a7a9027aeb76d12609300f31a782",
+      "action": "reuse_existing_cloud_exactSHA",
+      "existingCloudLocations": [
+        {
+          "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%9F%BA%E7%A1%80%E7%89%A9%E7%90%86%E9%A2%98%E5%BA%93%E6%B1%87%E7%BC%96_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+          "downloadedRelativeMember": "ZH5 @热、振动波动.doc"
+        }
+      ]
+    },
+    {
+      "archiveName": "大物题库.zip",
+      "decodedMember": "大物题库/力学辅导课部分解答_520003159.pdf",
+      "bytes": 729279,
+      "sha256": "5f4d3fbe7159f9033e4eeacb8060cd8aeec792c0ff52545da1f23551d97ffbd0",
+      "action": "reuse_existing_cloud_exactSHA",
+      "pages": 99,
+      "existingCloudLocations": [
+        {
+          "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%9F%BA%E7%A1%80%E7%89%A9%E7%90%86%E9%A2%98%E5%BA%93%E6%B1%87%E7%BC%96_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+          "downloadedRelativeMember": "力学辅导课部分解答_520003159.pdf"
+        }
+      ]
+    },
+    {
+      "archiveName": "大物题库.zip",
+      "decodedMember": "大物题库/卷1 @热.doc",
+      "bytes": 271360,
+      "sha256": "49f325a13f4c9541bdfe16593269bb9ccaa546135102be99ecb7a59a430abf92",
+      "action": "reuse_existing_cloud_exactSHA",
+      "existingCloudLocations": [
+        {
+          "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%9F%BA%E7%A1%80%E7%89%A9%E7%90%86%E9%A2%98%E5%BA%93%E6%B1%87%E7%BC%96_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+          "downloadedRelativeMember": "卷1 @热.doc"
+        }
+      ]
+    },
+    {
+      "archiveName": "大物题库.zip",
+      "decodedMember": "大物题库/卷2 @热.doc",
+      "bytes": 305664,
+      "sha256": "042662bd0fb8285c916da9cb4624d5fc92e598f09f633d728b265086f6ae595b",
+      "action": "reuse_existing_cloud_exactSHA",
+      "existingCloudLocations": [
+        {
+          "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%9F%BA%E7%A1%80%E7%89%A9%E7%90%86%E9%A2%98%E5%BA%93%E6%B1%87%E7%BC%96_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+          "downloadedRelativeMember": "卷2 @热.doc"
+        }
+      ]
+    },
+    {
+      "archiveName": "大物题库.zip",
+      "decodedMember": "大物题库/卷3 @热.doc",
+      "bytes": 301056,
+      "sha256": "679f78c8780626c61bbaef43e792e47b8a76ec0e2f2b8e649b8a510fa7505d9f",
+      "action": "reuse_existing_cloud_exactSHA",
+      "existingCloudLocations": [
+        {
+          "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%9F%BA%E7%A1%80%E7%89%A9%E7%90%86%E9%A2%98%E5%BA%93%E6%B1%87%E7%BC%96_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+          "downloadedRelativeMember": "卷3 @热.doc"
+        }
+      ]
+    },
+    {
+      "archiveName": "大物题库.zip",
+      "decodedMember": "大物题库/卷4 @热.doc",
+      "bytes": 312832,
+      "sha256": "2cf6a5c4f23d737c5f1e5165b7a1db785ccc1b3d9e53f7990f3b4252bba673b7",
+      "action": "reuse_existing_cloud_exactSHA",
+      "existingCloudLocations": [
+        {
+          "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%9F%BA%E7%A1%80%E7%89%A9%E7%90%86%E9%A2%98%E5%BA%93%E6%B1%87%E7%BC%96_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+          "downloadedRelativeMember": "卷4 @热.doc"
+        }
+      ]
+    },
+    {
+      "archiveName": "大物题库.zip",
+      "decodedMember": "大物题库/卷5 @热.doc",
+      "bytes": 292864,
+      "sha256": "9a06be1a773953f5d1049b5702bed77acb4075484a7e4d076b14cca4da977d7e",
+      "action": "reuse_existing_cloud_exactSHA",
+      "existingCloudLocations": [
+        {
+          "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%9F%BA%E7%A1%80%E7%89%A9%E7%90%86%E9%A2%98%E5%BA%93%E6%B1%87%E7%BC%96_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+          "downloadedRelativeMember": "卷5 @热.doc"
+        }
+      ]
+    },
+    {
+      "archiveName": "大物题库.zip",
+      "decodedMember": "大物题库/卷6 @热.doc",
+      "bytes": 471552,
+      "sha256": "08d9d74211eca0a26b07eeaee10917144bf19086af681a6536e7c1e337bf9773",
+      "action": "reuse_existing_cloud_exactSHA",
+      "existingCloudLocations": [
+        {
+          "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%9F%BA%E7%A1%80%E7%89%A9%E7%90%86%E9%A2%98%E5%BA%93%E6%B1%87%E7%BC%96_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+          "downloadedRelativeMember": "卷6 @热.doc"
+        }
+      ]
+    },
+    {
+      "archiveName": "大物题库.zip",
+      "decodedMember": "大物题库/填空 @热.doc",
+      "bytes": 75776,
+      "sha256": "33bf8b79fc7d6862142ee88ab63b097866f710e1cbe25c67fb3a69f745cc28f9",
+      "action": "reuse_existing_cloud_exactSHA",
+      "existingCloudLocations": [
+        {
+          "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%9F%BA%E7%A1%80%E7%89%A9%E7%90%86%E9%A2%98%E5%BA%93%E6%B1%87%E7%BC%96_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+          "downloadedRelativeMember": "填空 @热.doc"
+        }
+      ]
+    },
+    {
+      "archiveName": "大物题库.zip",
+      "decodedMember": "大物题库/大物题库/清华大学《大学物理》习题库试题及答案__07_热学习题.pdf",
+      "bytes": 267545,
+      "sha256": "71ccc5923990b6e3b51801d3280780366b05c757e5c7ebb3527bda4cc4d2594b",
+      "action": "reuse_existing_cloud_exactSHA",
+      "pages": 14,
+      "existingCloudLocations": [
+        {
+          "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%9F%BA%E7%A1%80%E7%89%A9%E7%90%86%E9%A2%98%E5%BA%93%E6%B1%87%E7%BC%96_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+          "downloadedRelativeMember": "大物题库/清华大学《大学物理》习题库试题及答案__07_热学习题.pdf"
+        }
+      ]
+    },
+    {
+      "archiveName": "大物题库.zip",
+      "decodedMember": "大物题库/大物题库/清华大学《大学物理》题库及答案__01_力学.pdf",
+      "bytes": 1341916,
+      "sha256": "86548b2d0822e3fc15284ec932253c960fb52ce087ab610160bc26a8e44bbf78",
+      "action": "reuse_existing_cloud_exactSHA",
+      "pages": 18,
+      "existingCloudLocations": [
+        {
+          "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%9F%BA%E7%A1%80%E7%89%A9%E7%90%86%E9%A2%98%E5%BA%93%E6%B1%87%E7%BC%96_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+          "downloadedRelativeMember": "大物题库/清华大学《大学物理》题库及答案__01_力学.pdf"
+        }
+      ]
+    },
+    {
+      "archiveName": "大物题库.zip",
+      "decodedMember": "大物题库/大物题库/清华大学《大学物理》题库及答案__02_刚体.pdf",
+      "bytes": 420662,
+      "sha256": "7eaaa2f16b8487036e013d03c557b8197f6d0bbb52170ba08ac68427f008674e",
+      "action": "reuse_existing_cloud_exactSHA",
+      "pages": 4,
+      "existingCloudLocations": [
+        {
+          "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%9F%BA%E7%A1%80%E7%89%A9%E7%90%86%E9%A2%98%E5%BA%93%E6%B1%87%E7%BC%96_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+          "downloadedRelativeMember": "大物题库/清华大学《大学物理》题库及答案__02_刚体.pdf"
+        }
+      ]
+    },
+    {
+      "archiveName": "大物题库.zip",
+      "decodedMember": "大物题库/大物题库/清华大学《大学物理》题库及答案__03_相对论.pdf",
+      "bytes": 351173,
+      "sha256": "de89cf8802c1ab6b1c220d34b501ca324ed9175cfdae48aa9669c291aa5b8eaa",
+      "action": "reuse_existing_cloud_exactSHA",
+      "pages": 4,
+      "existingCloudLocations": [
+        {
+          "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%9F%BA%E7%A1%80%E7%89%A9%E7%90%86%E9%A2%98%E5%BA%93%E6%B1%87%E7%BC%96_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+          "downloadedRelativeMember": "大物题库/清华大学《大学物理》题库及答案__03_相对论.pdf"
+        }
+      ]
+    },
+    {
+      "archiveName": "大物题库.zip",
+      "decodedMember": "大物题库/大物题库/清华大学《大学物理》题库及答案__04_机械振动.pdf",
+      "bytes": 689440,
+      "sha256": "58055a136e438a91457eac13fe65387cc14488d6baa0de0aab9c9c5e208d06fe",
+      "action": "reuse_existing_cloud_exactSHA",
+      "pages": 9,
+      "existingCloudLocations": [
+        {
+          "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%9F%BA%E7%A1%80%E7%89%A9%E7%90%86%E9%A2%98%E5%BA%93%E6%B1%87%E7%BC%96_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+          "downloadedRelativeMember": "大物题库/清华大学《大学物理》题库及答案__04_机械振动.pdf"
+        }
+      ]
+    },
+    {
+      "archiveName": "大物题库.zip",
+      "decodedMember": "大物题库/大物题库/清华大学《大学物理》题库及答案__05_机械波.pdf",
+      "bytes": 918349,
+      "sha256": "c095450656938fa496800b796a5e4a8972cda8a0034e4ec9167b845dac56b8e6",
+      "action": "reuse_existing_cloud_exactSHA",
+      "pages": 14,
+      "existingCloudLocations": [
+        {
+          "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%9F%BA%E7%A1%80%E7%89%A9%E7%90%86%E9%A2%98%E5%BA%93%E6%B1%87%E7%BC%96_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+          "downloadedRelativeMember": "大物题库/清华大学《大学物理》题库及答案__05_机械波.pdf"
+        }
+      ]
+    },
+    {
+      "archiveName": "大物题库.zip",
+      "decodedMember": "大物题库/热学问题讨论/克拉珀龙方程_127305389.pdf",
+      "bytes": 158240,
+      "sha256": "69e99e0b229b832b10cc0435ec36e0355ff340d88470ba82dd1a5fe500a5df74",
+      "action": "reuse_existing_cloud_exactSHA",
+      "pages": 2,
+      "existingCloudLocations": [
+        {
+          "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%9F%BA%E7%A1%80%E7%89%A9%E7%90%86%E9%A2%98%E5%BA%93%E6%B1%87%E7%BC%96_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+          "downloadedRelativeMember": "热学问题讨论/克拉珀龙方程_127305389.pdf"
+        }
+      ]
+    },
+    {
+      "archiveName": "大物题库.zip",
+      "decodedMember": "大物题库/热学问题讨论/分子自由度_984003770.pdf",
+      "bytes": 184164,
+      "sha256": "f582a09957b5b062622c6ef17ae3746b31d175ecf7328fbab16dfce1dc028960",
+      "action": "reuse_existing_cloud_exactSHA",
+      "pages": 4,
+      "existingCloudLocations": [
+        {
+          "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%9F%BA%E7%A1%80%E7%89%A9%E7%90%86%E9%A2%98%E5%BA%93%E6%B1%87%E7%BC%96_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+          "downloadedRelativeMember": "热学问题讨论/分子自由度_984003770.pdf"
+        }
+      ]
+    },
+    {
+      "archiveName": "大物题库.zip",
+      "decodedMember": "大物题库/热学问题讨论/范氏气体方程不考虑器壁吸引力原因_80304958.pdf",
+      "bytes": 71427,
+      "sha256": "3ee002fc1058be17ba603c549fbfcc9e02d0a8f8f9cda23de02d9c643a6e70b2",
+      "action": "reuse_existing_cloud_exactSHA",
+      "pages": 4,
+      "existingCloudLocations": [
+        {
+          "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%9F%BA%E7%A1%80%E7%89%A9%E7%90%86%E9%A2%98%E5%BA%93%E6%B1%87%E7%BC%96_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+          "downloadedRelativeMember": "热学问题讨论/范氏气体方程不考虑器壁吸引力原因_80304958.pdf"
+        }
+      ]
+    },
+    {
+      "archiveName": "大物题库.zip",
+      "decodedMember": "大物题库/相对速率平均值关系证明_118008268.pdf",
+      "bytes": 1175642,
+      "sha256": "7163a59368661d6beeb38a03419aa78072bf0b2a70109f545b348a91d77ed65d",
+      "action": "reuse_existing_cloud_exactSHA",
+      "pages": 2,
+      "existingCloudLocations": [
+        {
+          "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%9F%BA%E7%A1%80%E7%89%A9%E7%90%86%E9%A2%98%E5%BA%93%E6%B1%87%E7%BC%96_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+          "downloadedRelativeMember": "相对速率平均值关系证明_118008268.pdf"
+        }
+      ]
+    },
+    {
+      "archiveName": "大物题库.zip",
+      "decodedMember": "大物题库/网络学堂几小问_606604109.pdf",
+      "bytes": 132561,
+      "sha256": "f5bc05c23a4862eb26b1bb9dcc94dec9950cd53770c172cf971fe8bfbdba9602",
+      "action": "reuse_existing_cloud_exactSHA",
+      "pages": 4,
+      "existingCloudLocations": [
+        {
+          "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%9F%BA%E7%A1%80%E7%89%A9%E7%90%86%E9%A2%98%E5%BA%93%E6%B1%87%E7%BC%96_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+          "downloadedRelativeMember": "网络学堂几小问_606604109.pdf"
+        }
+      ]
+    },
+    {
+      "archiveName": "大物题库.zip",
+      "decodedMember": "大物题库/计算 @热.doc",
+      "bytes": 175616,
+      "sha256": "66f210d677a96ec52e4b7f1a306d6e7ae0bc85febf7a985d77a70ba24ee0f0c7",
+      "action": "reuse_existing_cloud_exactSHA",
+      "existingCloudLocations": [
+        {
+          "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%9F%BA%E7%A1%80%E7%89%A9%E7%90%86%E9%A2%98%E5%BA%93%E6%B1%87%E7%BC%96_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+          "downloadedRelativeMember": "计算 @热.doc"
+        }
+      ]
+    },
+    {
+      "archiveName": "大物题库.zip",
+      "decodedMember": "大物题库/讨论课题目.pdf",
+      "bytes": 356846,
+      "sha256": "f2d42a67a7486bcb494bee2191325a2c71ddb1a7ac0068613acf106ea60f6273",
+      "action": "reuse_existing_cloud_exactSHA",
+      "pages": 8,
+      "existingCloudLocations": [
+        {
+          "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%9F%BA%E7%A1%80%E7%89%A9%E7%90%86%E9%A2%98%E5%BA%93%E6%B1%87%E7%BC%96_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+          "downloadedRelativeMember": "讨论课题目.pdf"
+        }
+      ]
+    },
+    {
+      "archiveName": "大物题库.zip",
+      "decodedMember": "大物题库/选择 @热.doc",
+      "bytes": 110080,
+      "sha256": "ec0978d475bfafa836718769bb3467e49b1bb2775a0338688fbd1a5e80d17d2c",
+      "action": "reuse_existing_cloud_exactSHA",
+      "existingCloudLocations": [
+        {
+          "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%9F%BA%E7%A1%80%E7%89%A9%E7%90%86%E9%A2%98%E5%BA%93%E6%B1%87%E7%BC%96_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+          "downloadedRelativeMember": "选择 @热.doc"
+        }
+      ]
+    }
+  ],
+  "verificationBoundary": "四包路径检查、选定成员CRC/原件SHA；已归档三组本轮正常UI回取作完整SHA比对。新增PDF静态结构与文字元数据筛查、参考解答首尾角色样页/异常标记页查看；不是所有PDF全页人工净审或物理正确性认证。DOC仅静态容器文字与内嵌11图，不打开Office或宏。",
+  "privacyBoundary": "第8次答案首面长数字命中已与实际公式图像核对，属OCR数学式误识别；不据正则命中认个人身份。未纳入三份源成绩材料，不执行原件或外链。"
+}

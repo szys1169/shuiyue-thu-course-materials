@@ -1,0 +1,103 @@
+{
+  "date": "2026-10-23",
+  "source": "黄逸洋public / 基础物理学(1) / 大物",
+  "category": "手写作业参考解答",
+  "note": "9份PDF，原名序号1、2、4、5、6、7、8、9、10；没有第3次文件，不能称完整作业答案。首尾抽样可见手写计算、题图和原标记，未核作者、配套题单、官方性或答案正确性；没有据笔迹/红色标记推断教师批改。",
+  "archives": [
+    {
+      "name": "作业答案.zip",
+      "bytes": 84129739,
+      "sha256": "d15a0b3e609d2983df4a3d2fcfcf4f53c8cf2c3552150cfdec8ecfd15cf5b9e6",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.2_%E7%89%A9%E7%90%86%E7%B1%BB_%E5%9F%BA%E7%A1%80%E7%89%A9%E7%90%86%E5%AD%A6(1)%2F%E5%A4%A7%E7%89%A9%2F%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.zip"
+    }
+  ],
+  "archiveUploaded": false,
+  "sourceFileCount": 9,
+  "newOriginalFiles": 9,
+  "exactCloudReuseFiles": 0,
+  "files": [
+    {
+      "archiveName": "作业答案.zip",
+      "decodedMember": "第10次作业答案.pdf",
+      "bytes": 8726989,
+      "sha256": "1cd2cca46c668b42c193112c74fb6f59f66503316a1e1f9a219a322392bc1ba3",
+      "action": "new_original_file",
+      "pages": 8,
+      "fileName": "第10次作业答案.pdf"
+    },
+    {
+      "archiveName": "作业答案.zip",
+      "decodedMember": "第1次作业答案.pdf",
+      "bytes": 6656702,
+      "sha256": "6cd9dafd7070ce4753fc21e56f04a6dad22758fee56b211e1f2b80137f4a9a94",
+      "action": "new_original_file",
+      "pages": 12,
+      "fileName": "第1次作业答案.pdf"
+    },
+    {
+      "archiveName": "作业答案.zip",
+      "decodedMember": "第2次作业答案.pdf",
+      "bytes": 5458598,
+      "sha256": "003ccc806f766754aefd331777dc3dcdbaaf001aa6a543aa5c67cea4926ed784",
+      "action": "new_original_file",
+      "pages": 10,
+      "fileName": "第2次作业答案.pdf"
+    },
+    {
+      "archiveName": "作业答案.zip",
+      "decodedMember": "第4次作业答案(1).pdf",
+      "bytes": 8596899,
+      "sha256": "b2e4a522a71ed958939e2d89494456e9b51ac0043bc66ecb64229e344b823c9b",
+      "action": "new_original_file",
+      "pages": 4,
+      "fileName": "第4次作业答案(1).pdf"
+    },
+    {
+      "archiveName": "作业答案.zip",
+      "decodedMember": "第5次作业答案.pdf",
+      "bytes": 9207827,
+      "sha256": "a6cbb68bf6acff9b47ff20b776e61e0fd504bf28e8d54eac2f0204179d132301",
+      "action": "new_original_file",
+      "pages": 9,
+      "fileName": "第5次作业答案.pdf"
+    },
+    {
+      "archiveName": "作业答案.zip",
+      "decodedMember": "第6次作业答案.pdf",
+      "bytes": 26405892,
+      "sha256": "6a477162e68c8c058cb4bdd202f34508822894a7b1e5b6c211f7ebc68a5a7cd0",
+      "action": "new_original_file",
+      "pages": 22,
+      "fileName": "第6次作业答案.pdf"
+    },
+    {
+      "archiveName": "作业答案.zip",
+      "decodedMember": "第7次作业答案.pdf",
+      "bytes": 3647226,
+      "sha256": "51d989404dff3544e1f2ef8203bac3702588d28209425e6fa7e6930f2311ce62",
+      "action": "new_original_file",
+      "pages": 2,
+      "fileName": "第7次作业答案.pdf"
+    },
+    {
+      "archiveName": "作业答案.zip",
+      "decodedMember": "第8次作业答案.pdf",
+      "bytes": 17007476,
+      "sha256": "f5163c03e0df8291b366ea1172fc14171a321e5853c9008929cb25ed859f023f",
+      "action": "new_original_file",
+      "pages": 17,
+      "fileName": "第8次作业答案.pdf"
+    },
+    {
+      "archiveName": "作业答案.zip",
+      "decodedMember": "第9次作业答案.pdf",
+      "bytes": 11025783,
+      "sha256": "b843c53c0ac6100d214a1da12ab439f7506e144a536c311eb5b4a93674695d08",
+      "action": "new_original_file",
+      "pages": 10,
+      "fileName": "第9次作业答案.pdf"
+    }
+  ],
+  "verificationBoundary": "四包路径检查、选定成员CRC/原件SHA；已归档三组本轮正常UI回取作完整SHA比对。新增PDF静态结构与文字元数据筛查、参考解答首尾角色样页/异常标记页查看；不是所有PDF全页人工净审或物理正确性认证。DOC仅静态容器文字与内嵌11图，不打开Office或宏。",
+  "privacyBoundary": "第8次答案首面长数字命中已与实际公式图像核对，属OCR数学式误识别；不据正则命中认个人身份。未纳入三份源成绩材料，不执行原件或外链。"
+}

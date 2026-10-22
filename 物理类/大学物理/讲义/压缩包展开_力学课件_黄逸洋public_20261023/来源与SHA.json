@@ -1,0 +1,112 @@
+{
+  "date": "2026-10-23",
+  "source": "黄逸洋public / 基础物理学(1) / 大物",
+  "category": "力学分章课件",
+  "note": "10份PDF，原名标第1–10章，内容涵盖质点运动学、运动定律、动量、功和能、角动量、刚体、流体、振动、波动及狭义相对论。作者、教师、学期和是否指定课件未核。",
+  "archives": [
+    {
+      "name": "课件.zip",
+      "bytes": 7333778,
+      "sha256": "b7b0d579d6b7e562b70bfb78336f23086a18cf46f3134680ea9e5c2662472088",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.2_%E7%89%A9%E7%90%86%E7%B1%BB_%E5%9F%BA%E7%A1%80%E7%89%A9%E7%90%86%E5%AD%A6(1)%2F%E5%A4%A7%E7%89%A9%2F%E8%AF%BE%E4%BB%B6.zip"
+    }
+  ],
+  "archiveUploaded": false,
+  "sourceFileCount": 10,
+  "newOriginalFiles": 10,
+  "exactCloudReuseFiles": 0,
+  "files": [
+    {
+      "archiveName": "课件.zip",
+      "decodedMember": "力学.第10章.狭义相对论基础.pdf",
+      "bytes": 890666,
+      "sha256": "b0e7ba5141c38fc690ef8777e6147aaa7b7e0d77df009178b710c51404fd0127",
+      "action": "new_original_file",
+      "pages": 176,
+      "fileName": "力学.第10章.狭义相对论基础.pdf"
+    },
+    {
+      "archiveName": "课件.zip",
+      "decodedMember": "力学.第1章.质点运动学.pdf",
+      "bytes": 693884,
+      "sha256": "994be2430a3c0c9e5fbe1e3fe579b8a7bf47994cc59a27127d7054e2ac1eb02a",
+      "action": "new_original_file",
+      "pages": 85,
+      "fileName": "力学.第1章.质点运动学.pdf"
+    },
+    {
+      "archiveName": "课件.zip",
+      "decodedMember": "力学.第2章.牛顿运动定律.pdf",
+      "bytes": 505127,
+      "sha256": "01d6a0face17345dcf645b57d82706d47b4b183d106c34b0693938bd29c5e643",
+      "action": "new_original_file",
+      "pages": 63,
+      "fileName": "力学.第2章.牛顿运动定律.pdf"
+    },
+    {
+      "archiveName": "课件.zip",
+      "decodedMember": "力学.第3章.动量.pdf",
+      "bytes": 248625,
+      "sha256": "eb57ae2754375632b3ddf562db33dfe35e514c86c54d2757b3bc21dec125295a",
+      "action": "new_original_file",
+      "pages": 32,
+      "fileName": "力学.第3章.动量.pdf"
+    },
+    {
+      "archiveName": "课件.zip",
+      "decodedMember": "力学.第4章.功和能.pdf",
+      "bytes": 450075,
+      "sha256": "5d949828d8302d1a734c5597f6014bd127c87035c2d17cd3ae3ebaee2f35c00f",
+      "action": "new_original_file",
+      "pages": 72,
+      "fileName": "力学.第4章.功和能.pdf"
+    },
+    {
+      "archiveName": "课件.zip",
+      "decodedMember": "力学.第5章.角动量.pdf",
+      "bytes": 778836,
+      "sha256": "f39ecc2b06ef65d0dc705717677df41f7e90c68979be96e556b19997932e3691",
+      "action": "new_original_file",
+      "pages": 94,
+      "fileName": "力学.第5章.角动量.pdf"
+    },
+    {
+      "archiveName": "课件.zip",
+      "decodedMember": "力学.第6章.刚体力学.pdf",
+      "bytes": 1013314,
+      "sha256": "814dbafa7e09b179e8936974470ee2c795bb7b3e57e652d6fcf0977324f40615",
+      "action": "new_original_file",
+      "pages": 127,
+      "fileName": "力学.第6章.刚体力学.pdf"
+    },
+    {
+      "archiveName": "课件.zip",
+      "decodedMember": "力学.第7章.流体力学.pdf",
+      "bytes": 325086,
+      "sha256": "b9f3430905db1ec3b4bbec4ad39a69a4f5c268ba677ad02e4cc749d7343baaeb",
+      "action": "new_original_file",
+      "pages": 43,
+      "fileName": "力学.第7章.流体力学.pdf"
+    },
+    {
+      "archiveName": "课件.zip",
+      "decodedMember": "力学.第8章.振动.pdf",
+      "bytes": 879248,
+      "sha256": "482db21963fd36c2bffe55d5443f360fd35314c725c9a797e539552322d04296",
+      "action": "new_original_file",
+      "pages": 79,
+      "fileName": "力学.第8章.振动.pdf"
+    },
+    {
+      "archiveName": "课件.zip",
+      "decodedMember": "力学.第9章.波动.pdf",
+      "bytes": 1960545,
+      "sha256": "21bf02739558271250dc62408faee6f05f04db5c5b2e7b66dabb1cedd11737c8",
+      "action": "new_original_file",
+      "pages": 135,
+      "fileName": "力学.第9章.波动.pdf"
+    }
+  ],
+  "verificationBoundary": "四包路径检查、选定成员CRC/原件SHA；已归档三组本轮正常UI回取作完整SHA比对。新增PDF静态结构与文字元数据筛查、参考解答首尾角色样页/异常标记页查看；不是所有PDF全页人工净审或物理正确性认证。DOC仅静态容器文字与内嵌11图，不打开Office或宏。",
+  "privacyBoundary": "第8次答案首面长数字命中已与实际公式图像核对，属OCR数学式误识别；不据正则命中认个人身份。未纳入三份源成绩材料，不执行原件或外链。"
+}
