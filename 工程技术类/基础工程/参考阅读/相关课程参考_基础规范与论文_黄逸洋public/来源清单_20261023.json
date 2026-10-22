@@ -1,0 +1,59 @@
+{
+  "date": "2026-10-23",
+  "source": "黄逸洋public",
+  "course": "基础工程",
+  "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9F%BA%E7%A1%80%E5%B7%A5%E7%A8%8B&mode=list",
+  "role": "历史规范文本及土压力研究文献，按原件版本阅读",
+  "sourcePathCount": 4,
+  "originalSHAUniqueInGroup": 4,
+  "gitAvailablePathCount": 4,
+  "files": [
+    {
+      "sourceLabel": "C0009",
+      "sourceFileName": "朗肯与库仑土压力理论的分析比较_田宏图.pdf",
+      "sourcePath": "基础工程_马逸/【课件】/朗肯与库仑土压力理论的分析比较_田宏图.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9F%BA%E7%A1%80%E5%B7%A5%E7%A8%8B%2F%E5%9F%BA%E7%A1%80%E5%B7%A5%E7%A8%8B_%E9%A9%AC%E9%80%B8%2F%E3%80%90%E8%AF%BE%E4%BB%B6%E3%80%91%2F%E6%9C%97%E8%82%AF%E4%B8%8E%E5%BA%93%E4%BB%91%E5%9C%9F%E5%8E%8B%E5%8A%9B%E7%90%86%E8%AE%BA%E7%9A%84%E5%88%86%E6%9E%90%E6%AF%94%E8%BE%83_%E7%94%B0%E5%AE%8F%E5%9B%BE.pdf",
+      "bytes": 182521,
+      "sha256": "ce3553eba244ccb1aecd1d464acf6f53b56de5951501324f888bd48b43d5febc",
+      "PDFFilePages": 5,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/基础工程/参考阅读/相关课程参考_基础规范与论文_黄逸洋public/【课件】/朗肯与库仑土压力理论的分析比较_田宏图.pdf"
+    },
+    {
+      "sourceLabel": "C0010",
+      "sourceFileName": "墙背粗糙的朗肯土压力理论研究_王成华.pdf",
+      "sourcePath": "基础工程_马逸/【课件】/墙背粗糙的朗肯土压力理论研究_王成华.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9F%BA%E7%A1%80%E5%B7%A5%E7%A8%8B%2F%E5%9F%BA%E7%A1%80%E5%B7%A5%E7%A8%8B_%E9%A9%AC%E9%80%B8%2F%E3%80%90%E8%AF%BE%E4%BB%B6%E3%80%91%2F%E5%A2%99%E8%83%8C%E7%B2%97%E7%B3%99%E7%9A%84%E6%9C%97%E8%82%AF%E5%9C%9F%E5%8E%8B%E5%8A%9B%E7%90%86%E8%AE%BA%E7%A0%94%E7%A9%B6_%E7%8E%8B%E6%88%90%E5%8D%8E.pdf",
+      "bytes": 326119,
+      "sha256": "7c2cdd312d8a7741200c99285a78a4ffe925903911e7216a699c36ce39016553",
+      "PDFFilePages": 5,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/基础工程/参考阅读/相关课程参考_基础规范与论文_黄逸洋public/【课件】/墙背粗糙的朗肯土压力理论研究_王成华.pdf"
+    },
+    {
+      "sourceLabel": "C0011",
+      "sourceFileName": "基于统一强度理论朗肯土压力的计算研究_张健.pdf",
+      "sourcePath": "基础工程_马逸/【课件】/基于统一强度理论朗肯土压力的计算研究_张健.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9F%BA%E7%A1%80%E5%B7%A5%E7%A8%8B%2F%E5%9F%BA%E7%A1%80%E5%B7%A5%E7%A8%8B_%E9%A9%AC%E9%80%B8%2F%E3%80%90%E8%AF%BE%E4%BB%B6%E3%80%91%2F%E5%9F%BA%E4%BA%8E%E7%BB%9F%E4%B8%80%E5%BC%BA%E5%BA%A6%E7%90%86%E8%AE%BA%E6%9C%97%E8%82%AF%E5%9C%9F%E5%8E%8B%E5%8A%9B%E7%9A%84%E8%AE%A1%E7%AE%97%E7%A0%94%E7%A9%B6_%E5%BC%A0%E5%81%A5.pdf",
+      "bytes": 833027,
+      "sha256": "06439429c2e880779b3160f5fd1356866ebe64647009f683dfb53a67766dbfd1",
+      "PDFFilePages": 8,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/基础工程/参考阅读/相关课程参考_基础规范与论文_黄逸洋public/【课件】/基于统一强度理论朗肯土压力的计算研究_张健.pdf"
+    },
+    {
+      "sourceLabel": "C0031",
+      "sourceFileName": "建筑地基基础设计规范.pdf",
+      "sourcePath": "基础工程_马逸/【规范】/建筑地基基础设计规范.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9F%BA%E7%A1%80%E5%B7%A5%E7%A8%8B%2F%E5%9F%BA%E7%A1%80%E5%B7%A5%E7%A8%8B_%E9%A9%AC%E9%80%B8%2F%E3%80%90%E8%A7%84%E8%8C%83%E3%80%91%2F%E5%BB%BA%E7%AD%91%E5%9C%B0%E5%9F%BA%E5%9F%BA%E7%A1%80%E8%AE%BE%E8%AE%A1%E8%A7%84%E8%8C%83.pdf",
+      "bytes": 3975942,
+      "sha256": "3e3be919694550eb95788162230f77367c988adddd5dbf90682ad704faeddfa1",
+      "PDFFilePages": 138,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/基础工程/参考阅读/相关课程参考_基础规范与论文_黄逸洋public/【规范】/建筑地基基础设计规范.pdf"
+    }
+  ],
+  "gitScope": "本次Git同步逐SHA核验79条已归档原件路径，合77种字节；发布69个不同SHA原件，另2条来源复用已发布同SHA原件。8个DWG暂缓本次Git，当前仅核magic和SHA，尚未可靠检查其对象/作者字段及渲染；不据此断言文件含私值。原件和云盘归档不改，原包不发布。",
+  "reviewBoundary": "33PDF607页全提取文本/metadata与55role页视读；83解码图像联系表视读；Office正文属性/关系及旧DOC FIBCLX静态检查，无宏/公式/MATLAB/外链执行，不认证全Office版式净审。 云盘验收引用上游逐名及6代表文件SHA，未称91文件全部本批云盘SHA回取。历史GB50007-2002按原文件版本保留，不认当前有效标准。考试组是回忆稿，小组作业/来源参考不认标准答案。",
+  "rawArchivePublished": false
+}

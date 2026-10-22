@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-23",
+  "source": "黄逸洋public",
+  "course": "基础工程",
+  "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9F%BA%E7%A1%80%E5%B7%A5%E7%A8%8B&mode=list",
+  "role": "工程参观拟议行程及地点表，含个人成绩的报名填写稿未收录",
+  "sourcePathCount": 2,
+  "originalSHAUniqueInGroup": 2,
+  "gitAvailablePathCount": 2,
+  "files": [
+    {
+      "sourceLabel": "C0101",
+      "sourceFileName": "Thailand - proposed itinerary.docx",
+      "sourcePath": "基础工程_马逸/【学长作业】/号外-泰国工程参观代表团项目报名_孙启立/Thailand - proposed itinerary.docx",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9F%BA%E7%A1%80%E5%B7%A5%E7%A8%8B%2F%E5%9F%BA%E7%A1%80%E5%B7%A5%E7%A8%8B_%E9%A9%AC%E9%80%B8%2F%E3%80%90%E5%AD%A6%E9%95%BF%E4%BD%9C%E4%B8%9A%E3%80%91%2F%E5%8F%B7%E5%A4%96-%E6%B3%B0%E5%9B%BD%E5%B7%A5%E7%A8%8B%E5%8F%82%E8%A7%82%E4%BB%A3%E8%A1%A8%E5%9B%A2%E9%A1%B9%E7%9B%AE%E6%8A%A5%E5%90%8D_%E5%AD%99%E5%90%AF%E7%AB%8B%2FThailand%20-%20proposed%20itinerary.docx",
+      "bytes": 13854,
+      "sha256": "865256b4814727e7f6acee02f13ef53aac013cfc3c7932aefd42dea0898c0818",
+      "PDFFilePages": null,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/基础工程/课程信息/相关课程参考_工程参观行程与地点_黄逸洋public/【学长作业】/号外-泰国工程参观代表团项目报名_孙启立/Thailand - proposed itinerary.docx"
+    },
+    {
+      "sourceLabel": "C0102",
+      "sourceFileName": "Map for visiting points.docx",
+      "sourcePath": "基础工程_马逸/【学长作业】/号外-泰国工程参观代表团项目报名_孙启立/Map for visiting points.docx",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9F%BA%E7%A1%80%E5%B7%A5%E7%A8%8B%2F%E5%9F%BA%E7%A1%80%E5%B7%A5%E7%A8%8B_%E9%A9%AC%E9%80%B8%2F%E3%80%90%E5%AD%A6%E9%95%BF%E4%BD%9C%E4%B8%9A%E3%80%91%2F%E5%8F%B7%E5%A4%96-%E6%B3%B0%E5%9B%BD%E5%B7%A5%E7%A8%8B%E5%8F%82%E8%A7%82%E4%BB%A3%E8%A1%A8%E5%9B%A2%E9%A1%B9%E7%9B%AE%E6%8A%A5%E5%90%8D_%E5%AD%99%E5%90%AF%E7%AB%8B%2FMap%20for%20visiting%20points.docx",
+      "bytes": 610409,
+      "sha256": "9345a9d764d3d5b8eb789cf0fef42a54176c024115ade341e39420044bfdcf7a",
+      "PDFFilePages": null,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/基础工程/课程信息/相关课程参考_工程参观行程与地点_黄逸洋public/【学长作业】/号外-泰国工程参观代表团项目报名_孙启立/Map for visiting points.docx"
+    }
+  ],
+  "gitScope": "本次Git同步逐SHA核验79条已归档原件路径，合77种字节；发布69个不同SHA原件，另2条来源复用已发布同SHA原件。8个DWG暂缓本次Git，当前仅核magic和SHA，尚未可靠检查其对象/作者字段及渲染；不据此断言文件含私值。原件和云盘归档不改，原包不发布。",
+  "reviewBoundary": "33PDF607页全提取文本/metadata与55role页视读；83解码图像联系表视读；Office正文属性/关系及旧DOC FIBCLX静态检查，无宏/公式/MATLAB/外链执行，不认证全Office版式净审。 云盘验收引用上游逐名及6代表文件SHA，未称91文件全部本批云盘SHA回取。历史GB50007-2002按原文件版本保留，不认当前有效标准。考试组是回忆稿，小组作业/来源参考不认标准答案。",
+  "rawArchivePublished": false
+}

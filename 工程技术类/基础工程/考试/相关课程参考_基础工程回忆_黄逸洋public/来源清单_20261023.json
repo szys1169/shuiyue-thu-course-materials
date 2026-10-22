@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-23",
+  "source": "黄逸洋public",
+  "course": "基础工程",
+  "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9F%BA%E7%A1%80%E5%B7%A5%E7%A8%8B&mode=list",
+  "role": "课程考试回忆稿，具体学期与教师未据正文核定",
+  "sourcePathCount": 1,
+  "originalSHAUniqueInGroup": 1,
+  "gitAvailablePathCount": 1,
+  "files": [
+    {
+      "sourceLabel": "C0032",
+      "sourceFileName": "基础工程回忆.docx",
+      "sourcePath": "基础工程_马逸/【考试】/基础工程回忆.docx",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9F%BA%E7%A1%80%E5%B7%A5%E7%A8%8B%2F%E5%9F%BA%E7%A1%80%E5%B7%A5%E7%A8%8B_%E9%A9%AC%E9%80%B8%2F%E3%80%90%E8%80%83%E8%AF%95%E3%80%91%2F%E5%9F%BA%E7%A1%80%E5%B7%A5%E7%A8%8B%E5%9B%9E%E5%BF%86.docx",
+      "bytes": 15470,
+      "sha256": "d7e5771f3d1f9fb7ff896a76608109618b3c7c3bd1587393279181d16ff6f967",
+      "PDFFilePages": null,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/基础工程/考试/相关课程参考_基础工程回忆_黄逸洋public/【考试】/基础工程回忆.docx"
+    }
+  ],
+  "gitScope": "本次Git同步逐SHA核验79条已归档原件路径，合77种字节；发布69个不同SHA原件，另2条来源复用已发布同SHA原件。8个DWG暂缓本次Git，当前仅核magic和SHA，尚未可靠检查其对象/作者字段及渲染；不据此断言文件含私值。原件和云盘归档不改，原包不发布。",
+  "reviewBoundary": "33PDF607页全提取文本/metadata与55role页视读；83解码图像联系表视读；Office正文属性/关系及旧DOC FIBCLX静态检查，无宏/公式/MATLAB/外链执行，不认证全Office版式净审。 云盘验收引用上游逐名及6代表文件SHA，未称91文件全部本批云盘SHA回取。历史GB50007-2002按原文件版本保留，不认当前有效标准。考试组是回忆稿，小组作业/来源参考不认标准答案。",
+  "rawArchivePublished": false
+}
