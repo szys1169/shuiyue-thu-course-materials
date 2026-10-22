@@ -1,0 +1,60 @@
+{
+  "date": "2026-10-23",
+  "source": "黄逸洋public",
+  "course": "工程材料",
+  "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.4_%E6%9D%90%E6%96%99%E7%B1%BB_%E5%B7%A5%E7%A8%8B%E6%9D%90%E6%96%99%2F%E5%B7%A5%E7%A8%8B%E6%9D%90%E6%96%99_%E9%A9%AC%E9%80%B8%2F%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A&mode=list",
+  "cloudDirectoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E5%B7%A5%E7%A8%8B%E6%8A%80%E6%9C%AF%E7%B1%BB/%E5%B7%A5%E7%A8%8B%E6%9D%90%E6%96%99/%E5%AE%9E%E9%AA%8C%E5%8F%82%E8%80%83/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%B7%A5%E7%A8%8B%E6%9D%90%E6%96%99_%E9%A9%AC%E9%80%B8_%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+  "role": "实验相关来源资料；普通署名材料和示意保原字节，不推定标准实验报告或配套关系。",
+  "candidateOriginals": 3,
+  "syncCounts": {
+    "published_original_bytes": 2,
+    "deferred_original_bytes": 1
+  },
+  "files": [
+    {
+      "group": 5,
+      "course": "工程材料",
+      "sourceFileName": "常用工程材料的显微组织观察（2）.docx",
+      "bytes": 1268435,
+      "sha256": "16db96ac84f7c15bcee1d24801dfcf903d40c7b1a57807405536aba41a5e52b3",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E5%B7%A5%E7%A8%8B%E6%8A%80%E6%9C%AF%E7%B1%BB/%E5%B7%A5%E7%A8%8B%E6%9D%90%E6%96%99/%E5%AE%9E%E9%AA%8C%E5%8F%82%E8%80%83/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%B7%A5%E7%A8%8B%E6%9D%90%E6%96%99_%E9%A9%AC%E9%80%B8_%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/工程材料/实验参考/相关课程参考_工程材料_马逸_实验报告_黄逸洋public/常用工程材料的显微组织观察（2）.docx",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.4_%E6%9D%90%E6%96%99%E7%B1%BB_%E5%B7%A5%E7%A8%8B%E6%9D%90%E6%96%99%2F%E5%B7%A5%E7%A8%8B%E6%9D%90%E6%96%99_%E9%A9%AC%E9%80%B8%2F%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%2F%E5%B8%B8%E7%94%A8%E5%B7%A5%E7%A8%8B%E6%9D%90%E6%96%99%E7%9A%84%E6%98%BE%E5%BE%AE%E7%BB%84%E7%BB%87%E8%A7%82%E5%AF%9F%EF%BC%882%EF%BC%89.docx",
+      "sourcePathInSharedCourse": "工程材料_马逸/实验报告/常用工程材料的显微组织观察（2）.docx",
+      "sourceAliases": [
+        "工程材料_马逸/实验报告/常用工程材料的显微组织观察（2）.docx"
+      ]
+    },
+    {
+      "group": 5,
+      "course": "工程材料",
+      "sourceFileName": "定量金相分析.pdf",
+      "bytes": 7666826,
+      "sha256": "e972395fc2d953acd9d74b1f131c9d0d097b075bab00f65f1c8e8bcb282ef0fc",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E5%B7%A5%E7%A8%8B%E6%8A%80%E6%9C%AF%E7%B1%BB/%E5%B7%A5%E7%A8%8B%E6%9D%90%E6%96%99/%E5%AE%9E%E9%AA%8C%E5%8F%82%E8%80%83/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%B7%A5%E7%A8%8B%E6%9D%90%E6%96%99_%E9%A9%AC%E9%80%B8_%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "gitSyncStatus": "deferred_original_bytes",
+      "reasonCode": "filled_experiment_report_with_paper_evaluation",
+      "gitRepoPath": null
+    },
+    {
+      "group": 5,
+      "course": "工程材料",
+      "sourceFileName": "工材实验三.doc",
+      "bytes": 34304,
+      "sha256": "6795f6350d3ff58954c514ecd4150bb5eccd8be4fca150fc988f86d6314f79b0",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E5%B7%A5%E7%A8%8B%E6%8A%80%E6%9C%AF%E7%B1%BB/%E5%B7%A5%E7%A8%8B%E6%9D%90%E6%96%99/%E5%AE%9E%E9%AA%8C%E5%8F%82%E8%80%83/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%B7%A5%E7%A8%8B%E6%9D%90%E6%96%99_%E9%A9%AC%E9%80%B8_%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/工程材料/实验参考/相关课程参考_工程材料_马逸_实验报告_黄逸洋public/工材实验三.doc",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.4_%E6%9D%90%E6%96%99%E7%B1%BB_%E5%B7%A5%E7%A8%8B%E6%9D%90%E6%96%99%2F%E5%B7%A5%E7%A8%8B%E6%9D%90%E6%96%99_%E9%A9%AC%E9%80%B8%2F%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A%2F%E5%B7%A5%E6%9D%90%E5%AE%9E%E9%AA%8C%E4%B8%89.doc",
+      "sourcePathInSharedCourse": "工程材料_马逸/实验报告/工材实验三.doc",
+      "sourceAliases": [
+        "工程材料_马逸/实验报告/工材实验三.doc"
+      ]
+    }
+  ],
+  "verification": "仅从本轮已归档的材料三课60个本地原件核对逐尺寸/SHA，并联结既有云盘实际路径记录；本批没有重新下载全部云盘原件或变更云盘。原60文件及34本地旧说明保持原字节。工程来源另7待核路径及材科基3份身份笔记不在本批候选，也未读取或新增发布。",
+  "reviewBoundary": "本批60候选独立做静态筛查：13PDF共312文件页核文字/属性/批注，26必要首末和角色页实际查看；41旧DOC按FIB/CLX提取正文文本，另核OLE属性与Table字符串；2旧PPT递归读取二进制文本记录；175独立恢复栅格图以联系表查看。3DOCX与1XLSX仅静态XML/core/关系/媒体检查。不是312页全部人工审读、完整旧Office版式渲染或数学/工程答案正确性认证，WMF/EMF等非栅格对象没有逐一渲染。未执行宏、源码、公式、外链或嵌入对象。",
+  "rawArchivesPublished": false,
+  "metadataFieldValuesPublished": false
+}
