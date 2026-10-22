@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-23",
+  "source": "黄逸洋public",
+  "course": "钢结构",
+  "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E9%92%A2%E7%BB%93%E6%9E%84&mode=list",
+  "cloudDirectoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E5%B7%A5%E7%A8%8B%E6%8A%80%E6%9C%AF%E7%B1%BB/%E9%92%A2%E7%BB%93%E6%9E%84/%E6%95%99%E6%9D%90/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E9%92%A2%E7%BB%93%E6%9E%84%E4%B8%8A%E5%86%8C%E7%AC%AC%E5%9B%9B%E7%89%88_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+  "role": "《钢结构（上册）——钢结构基础》来源，封面见第四版、中国建筑工业出版社；原文件名出版社写法按来源保留，未凭封面补定出版年/印次或当前指定教材。",
+  "files": [
+    {
+      "group": 3,
+      "sourceFileName": "钢结构（上册）钢结构基础 中国工业建筑出版社.pdf",
+      "archiveMemberAliases": [
+        "2.7_土木类_钢结构/钢结构（1）_复习笔记_马逸/钢结构（上册）钢结构基础 中国工业建筑出版社.pdf",
+        "2.7_土木类_钢结构/钢结构（1）_复习笔记_马逸/钢结构（上册）钢结构基础 中国工业建筑出版社 (1).pdf"
+      ],
+      "bytes": 93094221,
+      "sha256": "81d0e5af4a9358212f13370d1ee685cd478928a3089c1cedcbf3f3bedabe64b0",
+      "PDFFilePages": 372,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/钢结构/教材/相关课程参考_钢结构上册第四版_黄逸洋public/钢结构（上册）钢结构基础 中国工业建筑出版社.pdf"
+    }
+  ],
+  "verification": "只同步本轮已归档11原件。原source24路径含11代表原件、11同字节来源别名及2缓存；别名按既有SHA证据列出，不认独立新版。未重新下载全部云盘原件或读取原ZIP内容；本地11文件和6旧说明原字节保持，来源成员路径据已有归档清单，不猜单文件preview URL。",
+  "reviewBoundary": "11候选逐本地SHA复核，10PDF实际855文件页静态检查文字/Info/XMP/批注/附件/表单，20必要首末角色页实际查看；1DOCX核XML正文、core属性、关系及全部7内嵌栅格图。不是855页全部人工审读或完整DOCX版式渲染，不执行宏、对象、外链或公式；不认证结构设计或参考答案正确性。课件封面明确教学电话/邮箱正常保留，不把普通职业联系与文件名下载编号当学生编号。",
+  "rawArchivesPublished": false
+}

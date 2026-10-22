@@ -1,0 +1,130 @@
+{
+  "date": "2026-10-23",
+  "source": "黄逸洋public",
+  "course": "钢结构",
+  "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E9%92%A2%E7%BB%93%E6%9E%84&mode=list",
+  "cloudDirectoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E5%B7%A5%E7%A8%8B%E6%8A%80%E6%9C%AF%E7%B1%BB/%E9%92%A2%E7%BB%93%E6%9E%84/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%A4%A7%E8%B7%A8%E4%B8%8E%E9%AB%98%E5%B1%82%E9%92%A2%E7%BB%93%E6%9E%84%E8%AF%BE%E4%BB%B6_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+  "role": "大跨、高层及轻型钢结构历史课件，含抗震与雪灾分析等主题；不因来源目录认当前指定课件。",
+  "files": [
+    {
+      "group": 1,
+      "sourceFileName": "高层3-高层钢结构分析(1)-结构分析（修改后）_98220675.pdf",
+      "archiveMemberAliases": [
+        "2.7_土木类_钢结构/钢结构（2）_复习笔记_马逸/钢结构（2）/高层3-高层钢结构分析(1)-结构分析（修改后）_98220675.pdf",
+        "2.7_土木类_钢结构/钢结构（2）_复习笔记_马逸/钢结构（2）/高层3-高层钢结构分析(1)-结构分析（修改后）_98220675 (1).pdf"
+      ],
+      "bytes": 906909,
+      "sha256": "d031145c057f9f1cac8dbf7495ad8212a6d1f63281a1d184be038e0c19c48f1d",
+      "PDFFilePages": 54,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/钢结构/讲义/相关课程参考_大跨与高层钢结构课件_黄逸洋public/高层3-高层钢结构分析(1)-结构分析（修改后）_98220675.pdf"
+    },
+    {
+      "group": 1,
+      "sourceFileName": "高层2-高层钢结构材料与荷载作用（修改后）_537309643.pdf",
+      "archiveMemberAliases": [
+        "2.7_土木类_钢结构/钢结构（2）_复习笔记_马逸/钢结构（2）/高层2-高层钢结构材料与荷载作用（修改后）_537309643.pdf",
+        "2.7_土木类_钢结构/钢结构（2）_复习笔记_马逸/钢结构（2）/高层2-高层钢结构材料与荷载作用（修改后）_537309643 (1).pdf"
+      ],
+      "bytes": 2625756,
+      "sha256": "256c68b494af96c77c3dda060632ef14e79ee74647194bb88918cbf1416a6d79",
+      "PDFFilePages": 72,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/钢结构/讲义/相关课程参考_大跨与高层钢结构课件_黄逸洋public/高层2-高层钢结构材料与荷载作用（修改后）_537309643.pdf"
+    },
+    {
+      "group": 1,
+      "sourceFileName": "高层1-高层钢结构体系与概念设计（修改后）_390701308.pdf",
+      "archiveMemberAliases": [
+        "2.7_土木类_钢结构/钢结构（2）_复习笔记_马逸/钢结构（2）/高层1-高层钢结构体系与概念设计（修改后）_390701308.pdf",
+        "2.7_土木类_钢结构/钢结构（2）_复习笔记_马逸/钢结构（2）/高层1-高层钢结构体系与概念设计（修改后）_390701308 (1).pdf"
+      ],
+      "bytes": 5436999,
+      "sha256": "4768c710c703e921de93f111bb661d6bdeeb0a9c87f8277714060a9b5db5cdce",
+      "PDFFilePages": 91,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/钢结构/讲义/相关课程参考_大跨与高层钢结构课件_黄逸洋public/高层1-高层钢结构体系与概念设计（修改后）_390701308.pdf"
+    },
+    {
+      "group": 1,
+      "sourceFileName": "资料1-轻钢结构雪灾分析与处理_803408024.pdf",
+      "archiveMemberAliases": [
+        "2.7_土木类_钢结构/钢结构（2）_复习笔记_马逸/钢结构（2）/资料1-轻钢结构雪灾分析与处理_803408024.pdf",
+        "2.7_土木类_钢结构/钢结构（2）_复习笔记_马逸/钢结构（2）/资料1-轻钢结构雪灾分析与处理_803408024 (1).pdf"
+      ],
+      "bytes": 1829465,
+      "sha256": "386a567285e4e753ac895b00163ed3f1c5b0f33fb87c68247a54b401b2fd5f6e",
+      "PDFFilePages": 46,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/钢结构/讲义/相关课程参考_大跨与高层钢结构课件_黄逸洋public/资料1-轻钢结构雪灾分析与处理_803408024.pdf"
+    },
+    {
+      "group": 1,
+      "sourceFileName": "挂网_预应力钢结构_59300582.pdf",
+      "archiveMemberAliases": [
+        "2.7_土木类_钢结构/钢结构（2）_复习笔记_马逸/钢结构（2）/挂网_预应力钢结构_59300582.pdf",
+        "2.7_土木类_钢结构/钢结构（2）_复习笔记_马逸/钢结构（2）/挂网_预应力钢结构_59300582 (1).pdf"
+      ],
+      "bytes": 2136979,
+      "sha256": "12840288bed8bfc7cdb0a14aa88841cabb49a5e9e19b49e83799e60ed585197f",
+      "PDFFilePages": 20,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/钢结构/讲义/相关课程参考_大跨与高层钢结构课件_黄逸洋public/挂网_预应力钢结构_59300582.pdf"
+    },
+    {
+      "group": 1,
+      "sourceFileName": "上网_刚性结构_53230936.pdf",
+      "archiveMemberAliases": [
+        "2.7_土木类_钢结构/钢结构（2）_复习笔记_马逸/钢结构（2）/上网_刚性结构_53230936.pdf",
+        "2.7_土木类_钢结构/钢结构（2）_复习笔记_马逸/钢结构（2）/上网_刚性结构_53230936 (1).pdf"
+      ],
+      "bytes": 1708144,
+      "sha256": "1be696fe591d8082cbfc2b401f69ccd3f5a2af6b6d5faec6d49351d1c79e1949",
+      "PDFFilePages": 16,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/钢结构/讲义/相关课程参考_大跨与高层钢结构课件_黄逸洋public/上网_刚性结构_53230936.pdf"
+    },
+    {
+      "group": 1,
+      "sourceFileName": "ch3-多层钢结构与轻钢住宅-new_394704431.pdf",
+      "archiveMemberAliases": [
+        "2.7_土木类_钢结构/钢结构（2）_复习笔记_马逸/钢结构（2）/ch3-多层钢结构与轻钢住宅-new_394704431.pdf",
+        "2.7_土木类_钢结构/钢结构（2）_复习笔记_马逸/钢结构（2）/ch3-多层钢结构与轻钢住宅-new_394704431 (1).pdf"
+      ],
+      "bytes": 3694513,
+      "sha256": "90e24648ea2fbbaa16f6a4f424df1b5c380c0d1227565482a696ab688c2e5d19",
+      "PDFFilePages": 44,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/钢结构/讲义/相关课程参考_大跨与高层钢结构课件_黄逸洋public/ch3-多层钢结构与轻钢住宅-new_394704431.pdf"
+    },
+    {
+      "group": 1,
+      "sourceFileName": "ch2-厂房钢结构发展与抗震设计-new_626904590.pdf",
+      "archiveMemberAliases": [
+        "2.7_土木类_钢结构/钢结构（2）_复习笔记_马逸/钢结构（2）/ch2-厂房钢结构发展与抗震设计-new_626904590.pdf",
+        "2.7_土木类_钢结构/钢结构（2）_复习笔记_马逸/钢结构（2）/ch2-厂房钢结构发展与抗震设计-new_626904590 (1).pdf"
+      ],
+      "bytes": 8482316,
+      "sha256": "eb65691b60fcd65c2e525292960abbcb4cecda50cd766e2a8e64ef633470c813",
+      "PDFFilePages": 67,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/钢结构/讲义/相关课程参考_大跨与高层钢结构课件_黄逸洋public/ch2-厂房钢结构发展与抗震设计-new_626904590.pdf"
+    },
+    {
+      "group": 1,
+      "sourceFileName": "ch1-轻钢应用现状-new_374807968.pdf",
+      "archiveMemberAliases": [
+        "2.7_土木类_钢结构/钢结构（2）_复习笔记_马逸/钢结构（2）/ch1-轻钢应用现状-new_374807968.pdf",
+        "2.7_土木类_钢结构/钢结构（2）_复习笔记_马逸/钢结构（2）/ch1-轻钢应用现状-new_374807968 (1).pdf"
+      ],
+      "bytes": 6234222,
+      "sha256": "1768b3d052a1f5803a18b79f67e6a09205631296f48f93e5406e1a99cbc0d639",
+      "PDFFilePages": 73,
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "工程技术类/钢结构/讲义/相关课程参考_大跨与高层钢结构课件_黄逸洋public/ch1-轻钢应用现状-new_374807968.pdf"
+    }
+  ],
+  "verification": "只同步本轮已归档11原件。原source24路径含11代表原件、11同字节来源别名及2缓存；别名按既有SHA证据列出，不认独立新版。未重新下载全部云盘原件或读取原ZIP内容；本地11文件和6旧说明原字节保持，来源成员路径据已有归档清单，不猜单文件preview URL。",
+  "reviewBoundary": "11候选逐本地SHA复核，10PDF实际855文件页静态检查文字/Info/XMP/批注/附件/表单，20必要首末角色页实际查看；1DOCX核XML正文、core属性、关系及全部7内嵌栅格图。不是855页全部人工审读或完整DOCX版式渲染，不执行宏、对象、外链或公式；不认证结构设计或参考答案正确性。课件封面明确教学电话/邮箱正常保留，不把普通职业联系与文件名下载编号当学生编号。",
+  "rawArchivesPublished": false
+}
