@@ -1,0 +1,171 @@
+{
+  "date": "2026-10-23",
+  "source": "黄逸洋public / 数学物理方程",
+  "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B&mode=list",
+  "cloudDirectoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E6%95%B0%E7%89%A9%E6%9D%BF%E4%B9%A6_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+  "role": "数学物理方程板书及积分变换表，作为数学物理方法相关课程参考，日期仅据原件。",
+  "sourcePaths": 14,
+  "sourceUniqueSHA256": 14,
+  "files": [
+    {
+      "group": 4,
+      "sourceRelativePath": "数理方程第1周2026 revised.pdf",
+      "bytes": 7336385,
+      "sha256": "7ce34bbfb9f7a580b3a3eaa764bee95d90a8292d40104b50bfdd7e63b271a0ec",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E6%95%B0%E7%89%A9%E6%9D%BF%E4%B9%A6_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B%2F%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E6%9D%BF%E4%B9%A6%2F%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B%E7%AC%AC1%E5%91%A82026%20revised.pdf",
+      "sourcePathInSharedCourse": "数学物理方程-于轩浩/板书/数理方程第1周2026 revised.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "物理类/数学物理方法/讲义/相关课程参考_于轩浩数物板书_黄逸洋public/数理方程第1周2026 revised.pdf"
+    },
+    {
+      "group": 4,
+      "sourceRelativePath": "数理方程第2周2026.pdf",
+      "bytes": 6228645,
+      "sha256": "5fa23cda73c878fcc7beb9f4024ecf245b71aa88548b02a7b19a0429042d1a70",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E6%95%B0%E7%89%A9%E6%9D%BF%E4%B9%A6_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B%2F%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E6%9D%BF%E4%B9%A6%2F%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B%E7%AC%AC2%E5%91%A82026.pdf",
+      "sourcePathInSharedCourse": "数学物理方程-于轩浩/板书/数理方程第2周2026.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "物理类/数学物理方法/讲义/相关课程参考_于轩浩数物板书_黄逸洋public/数理方程第2周2026.pdf"
+    },
+    {
+      "group": 4,
+      "sourceRelativePath": "数理方程第3周2026.pdf",
+      "bytes": 14540797,
+      "sha256": "e18b453ef175d14c73047ea9e32b3cb0606634e50d015d47584c4367db5d5589",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E6%95%B0%E7%89%A9%E6%9D%BF%E4%B9%A6_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B%2F%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E6%9D%BF%E4%B9%A6%2F%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B%E7%AC%AC3%E5%91%A82026.pdf",
+      "sourcePathInSharedCourse": "数学物理方程-于轩浩/板书/数理方程第3周2026.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "物理类/数学物理方法/讲义/相关课程参考_于轩浩数物板书_黄逸洋public/数理方程第3周2026.pdf"
+    },
+    {
+      "group": 4,
+      "sourceRelativePath": "数理方程第4周2026.pdf",
+      "bytes": 5651852,
+      "sha256": "28dc9d0b61b45857f84e4e35400b45e171cd2e6c48fd41cc041f0f8557d66516",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E6%95%B0%E7%89%A9%E6%9D%BF%E4%B9%A6_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B%2F%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E6%9D%BF%E4%B9%A6%2F%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B%E7%AC%AC4%E5%91%A82026.pdf",
+      "sourcePathInSharedCourse": "数学物理方程-于轩浩/板书/数理方程第4周2026.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "物理类/数学物理方法/讲义/相关课程参考_于轩浩数物板书_黄逸洋public/数理方程第4周2026.pdf"
+    },
+    {
+      "group": 4,
+      "sourceRelativePath": "数理方程第5周2026.pdf",
+      "bytes": 7138222,
+      "sha256": "289077ec112a0edd649642df18155e4d4db7eece423d07c67a1086590e3f6545",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E6%95%B0%E7%89%A9%E6%9D%BF%E4%B9%A6_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B%2F%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E6%9D%BF%E4%B9%A6%2F%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B%E7%AC%AC5%E5%91%A82026.pdf",
+      "sourcePathInSharedCourse": "数学物理方程-于轩浩/板书/数理方程第5周2026.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "物理类/数学物理方法/讲义/相关课程参考_于轩浩数物板书_黄逸洋public/数理方程第5周2026.pdf"
+    },
+    {
+      "group": 4,
+      "sourceRelativePath": "数理方程第6周2026.pdf",
+      "bytes": 8256619,
+      "sha256": "c178b4f96dae07d68c9bda90ab995d0f7a1db38206ca975f135ccc83c1da0ae2",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E6%95%B0%E7%89%A9%E6%9D%BF%E4%B9%A6_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B%2F%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E6%9D%BF%E4%B9%A6%2F%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B%E7%AC%AC6%E5%91%A82026.pdf",
+      "sourcePathInSharedCourse": "数学物理方程-于轩浩/板书/数理方程第6周2026.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "物理类/数学物理方法/讲义/相关课程参考_于轩浩数物板书_黄逸洋public/数理方程第6周2026.pdf"
+    },
+    {
+      "group": 4,
+      "sourceRelativePath": "数理方程第7周2026_SL理论.pdf",
+      "bytes": 7619004,
+      "sha256": "691397ddcd417a4aa0eee411f2a1219e5143dec1d77f3cc6c785460b113b0a8b",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E6%95%B0%E7%89%A9%E6%9D%BF%E4%B9%A6_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B%2F%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E6%9D%BF%E4%B9%A6%2F%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B%E7%AC%AC7%E5%91%A82026_SL%E7%90%86%E8%AE%BA.pdf",
+      "sourcePathInSharedCourse": "数学物理方程-于轩浩/板书/数理方程第7周2026_SL理论.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "物理类/数学物理方法/讲义/相关课程参考_于轩浩数物板书_黄逸洋public/数理方程第7周2026_SL理论.pdf"
+    },
+    {
+      "group": 4,
+      "sourceRelativePath": "数理方程第8周2026_ODE级数解.pdf",
+      "bytes": 8861789,
+      "sha256": "1ba1032e8a74b72c83e6c049fc242ca4ec83c3a58ba1bc9c0efeda11f618430c",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E6%95%B0%E7%89%A9%E6%9D%BF%E4%B9%A6_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B%2F%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E6%9D%BF%E4%B9%A6%2F%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B%E7%AC%AC8%E5%91%A82026_ODE%E7%BA%A7%E6%95%B0%E8%A7%A3.pdf",
+      "sourcePathInSharedCourse": "数学物理方程-于轩浩/板书/数理方程第8周2026_ODE级数解.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "物理类/数学物理方法/讲义/相关课程参考_于轩浩数物板书_黄逸洋public/数理方程第8周2026_ODE级数解.pdf"
+    },
+    {
+      "group": 4,
+      "sourceRelativePath": "数理方程第11周2026_Legendre.pdf",
+      "bytes": 8142816,
+      "sha256": "de21626cf1661302aef4f61f8d1c503162597bbac3d198d2b5c329195eaf6f65",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E6%95%B0%E7%89%A9%E6%9D%BF%E4%B9%A6_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B%2F%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E6%9D%BF%E4%B9%A6%2F%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B%E7%AC%AC11%E5%91%A82026_Legendre.pdf",
+      "sourcePathInSharedCourse": "数学物理方程-于轩浩/板书/数理方程第11周2026_Legendre.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "物理类/数学物理方法/讲义/相关课程参考_于轩浩数物板书_黄逸洋public/数理方程第11周2026_Legendre.pdf"
+    },
+    {
+      "group": 4,
+      "sourceRelativePath": "数理方程第12周2026_Bessel.pdf",
+      "bytes": 9251957,
+      "sha256": "871545c8465448ea40faef6861087bbf340d02ced0ab0e1c554871fa1e00bd3e",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E6%95%B0%E7%89%A9%E6%9D%BF%E4%B9%A6_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B%2F%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E6%9D%BF%E4%B9%A6%2F%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B%E7%AC%AC12%E5%91%A82026_Bessel.pdf",
+      "sourcePathInSharedCourse": "数学物理方程-于轩浩/板书/数理方程第12周2026_Bessel.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "物理类/数学物理方法/讲义/相关课程参考_于轩浩数物板书_黄逸洋public/数理方程第12周2026_Bessel.pdf"
+    },
+    {
+      "group": 4,
+      "sourceRelativePath": "数理方程第13周2026.pdf",
+      "bytes": 8686272,
+      "sha256": "ecd51956316d86adc64f75b350c98d3b1131c3015dfbff1cec510398b118381b",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E6%95%B0%E7%89%A9%E6%9D%BF%E4%B9%A6_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B%2F%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E6%9D%BF%E4%B9%A6%2F%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B%E7%AC%AC13%E5%91%A82026.pdf",
+      "sourcePathInSharedCourse": "数学物理方程-于轩浩/板书/数理方程第13周2026.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "物理类/数学物理方法/讲义/相关课程参考_于轩浩数物板书_黄逸洋public/数理方程第13周2026.pdf"
+    },
+    {
+      "group": 4,
+      "sourceRelativePath": "数理方程第14周2026_Integral_Transform.pdf",
+      "bytes": 8569392,
+      "sha256": "c57d23d10c3c616067f1a9e6c733e8412bb708719ad9a751d2b494883e3940b7",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E6%95%B0%E7%89%A9%E6%9D%BF%E4%B9%A6_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B%2F%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E6%9D%BF%E4%B9%A6%2F%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B%E7%AC%AC14%E5%91%A82026_Integral_Transform.pdf",
+      "sourcePathInSharedCourse": "数学物理方程-于轩浩/板书/数理方程第14周2026_Integral_Transform.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "物理类/数学物理方法/讲义/相关课程参考_于轩浩数物板书_黄逸洋public/数理方程第14周2026_Integral_Transform.pdf"
+    },
+    {
+      "group": 4,
+      "sourceRelativePath": "数理方程第15周2026_Green_function.pdf",
+      "bytes": 11117690,
+      "sha256": "576cd0fb85c5e88e9f43d9b4f7a8a2e1a0a2ce1643ae25e5f2a0b81778d3f068",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E6%95%B0%E7%89%A9%E6%9D%BF%E4%B9%A6_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B%2F%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E6%9D%BF%E4%B9%A6%2F%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B%E7%AC%AC15%E5%91%A82026_Green_function.pdf",
+      "sourcePathInSharedCourse": "数学物理方程-于轩浩/板书/数理方程第15周2026_Green_function.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "物理类/数学物理方法/讲义/相关课程参考_于轩浩数物板书_黄逸洋public/数理方程第15周2026_Green_function.pdf"
+    },
+    {
+      "group": 4,
+      "sourceRelativePath": "数理方程第16周2026.pdf",
+      "bytes": 5124575,
+      "sha256": "186966ca80edf0258100a923bafdaa42b670b55fb01881881a3b563839248a28",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/%E8%AE%B2%E4%B9%89/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E6%95%B0%E7%89%A9%E6%9D%BF%E4%B9%A6_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B%2F%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E6%9D%BF%E4%B9%A6%2F%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B%E7%AC%AC16%E5%91%A82026.pdf",
+      "sourcePathInSharedCourse": "数学物理方程-于轩浩/板书/数理方程第16周2026.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "物理类/数学物理方法/讲义/相关课程参考_于轩浩数物板书_黄逸洋public/数理方程第16周2026.pdf"
+    }
+  ],
+  "syncCounts": {
+    "published_original_bytes": 14
+  },
+  "verification": "本轮正常UI回取已归档目标10组，完整fileset与10运输ZIP CRC通过，105原路径逐SHA/本地回读一致；20旧说明原字节保持。共享源路径来自此前实际UI清单，不声称本轮再次下载每个共享源原件。",
+  "reviewBoundary": "105路径静态文字与元数据筛查；90PDF共1955文件页，33必要角色/首末页实际查看，非全部页人工隐私或数学正确性认证。13DOC仅静态piece-table正文/属性，1DOCX仅XML/属性/关系，不执行宏、外链或嵌入对象。原TXT作为说明数据不执行。板书正常YYYYMMDD日期、软件构建日期和数学数字区分后保留。",
+  "rawArchivesPublished": false
+}

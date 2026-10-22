@@ -1,0 +1,281 @@
+{
+  "date": "2026-10-23",
+  "source": "黄逸洋public / 数学物理方程",
+  "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B&mode=list",
+  "cloudDirectoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/%E4%BD%9C%E4%B8%9A/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E6%95%B0%E7%89%A9%E4%BD%9C%E4%B8%9A_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+  "role": "原习题及参考解答按来源子目录保留，不认证完整学期或逐题正确性。",
+  "sourcePaths": 24,
+  "sourceUniqueSHA256": 24,
+  "files": [
+    {
+      "group": 6,
+      "sourceRelativePath": "第11周作业.pdf",
+      "bytes": 422014,
+      "sha256": "fcbf2b21e504cea2c8717568777640ceb501008536d675050151fefc143a432b",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/%E4%BD%9C%E4%B8%9A/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E6%95%B0%E7%89%A9%E4%BD%9C%E4%B8%9A_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B%2F%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E4%BD%9C%E4%B8%9A%2F%E7%AC%AC11%E5%91%A8%E4%BD%9C%E4%B8%9A.pdf",
+      "sourcePathInSharedCourse": "数学物理方程-于轩浩/作业/第11周作业.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "物理类/数学物理方法/作业/相关课程参考_于轩浩数物作业_黄逸洋public/第11周作业.pdf"
+    },
+    {
+      "group": 6,
+      "sourceRelativePath": "第12周作业 Bessel.pdf",
+      "bytes": 463799,
+      "sha256": "246ab1eead33a3deb9ae0ed62ad4e79d32ed978de6337c272c0472a8fb5a5ed9",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/%E4%BD%9C%E4%B8%9A/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E6%95%B0%E7%89%A9%E4%BD%9C%E4%B8%9A_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B%2F%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E4%BD%9C%E4%B8%9A%2F%E7%AC%AC12%E5%91%A8%E4%BD%9C%E4%B8%9A%20Bessel.pdf",
+      "sourcePathInSharedCourse": "数学物理方程-于轩浩/作业/第12周作业 Bessel.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "物理类/数学物理方法/作业/相关课程参考_于轩浩数物作业_黄逸洋public/第12周作业 Bessel.pdf"
+    },
+    {
+      "group": 6,
+      "sourceRelativePath": "第13周作业.pdf",
+      "bytes": 214263,
+      "sha256": "f77bcec8c268faa7781084023ddb75fd066c9d25aaba5af9195551bcf9158ee8",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/%E4%BD%9C%E4%B8%9A/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E6%95%B0%E7%89%A9%E4%BD%9C%E4%B8%9A_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B%2F%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E4%BD%9C%E4%B8%9A%2F%E7%AC%AC13%E5%91%A8%E4%BD%9C%E4%B8%9A.pdf",
+      "sourcePathInSharedCourse": "数学物理方程-于轩浩/作业/第13周作业.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "物理类/数学物理方法/作业/相关课程参考_于轩浩数物作业_黄逸洋public/第13周作业.pdf"
+    },
+    {
+      "group": 6,
+      "sourceRelativePath": "第14周作业.pdf",
+      "bytes": 314053,
+      "sha256": "fc820a6b00c29f951ae58e897dc4ace46426e07b43b9ec98952d9908393f6f1b",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/%E4%BD%9C%E4%B8%9A/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E6%95%B0%E7%89%A9%E4%BD%9C%E4%B8%9A_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B%2F%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E4%BD%9C%E4%B8%9A%2F%E7%AC%AC14%E5%91%A8%E4%BD%9C%E4%B8%9A.pdf",
+      "sourcePathInSharedCourse": "数学物理方程-于轩浩/作业/第14周作业.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "物理类/数学物理方法/作业/相关课程参考_于轩浩数物作业_黄逸洋public/第14周作业.pdf"
+    },
+    {
+      "group": 6,
+      "sourceRelativePath": "第二周作业.pdf",
+      "bytes": 329321,
+      "sha256": "3adb66e1ca908051afa13d748db0bf73b30da609cdc75be0c84c0739d392247c",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/%E4%BD%9C%E4%B8%9A/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E6%95%B0%E7%89%A9%E4%BD%9C%E4%B8%9A_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B%2F%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E4%BD%9C%E4%B8%9A%2F%E7%AC%AC%E4%BA%8C%E5%91%A8%E4%BD%9C%E4%B8%9A.pdf",
+      "sourcePathInSharedCourse": "数学物理方程-于轩浩/作业/第二周作业.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "物理类/数学物理方法/作业/相关课程参考_于轩浩数物作业_黄逸洋public/第二周作业.pdf"
+    },
+    {
+      "group": 6,
+      "sourceRelativePath": "第六周作业.pdf",
+      "bytes": 394860,
+      "sha256": "fee9f07b9f6ec5c9e34cee4fca43c5d394f90842fd2ffd7ddbdcf04475289472",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/%E4%BD%9C%E4%B8%9A/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E6%95%B0%E7%89%A9%E4%BD%9C%E4%B8%9A_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B%2F%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E4%BD%9C%E4%B8%9A%2F%E7%AC%AC%E5%85%AD%E5%91%A8%E4%BD%9C%E4%B8%9A.pdf",
+      "sourcePathInSharedCourse": "数学物理方程-于轩浩/作业/第六周作业.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "物理类/数学物理方法/作业/相关课程参考_于轩浩数物作业_黄逸洋public/第六周作业.pdf"
+    },
+    {
+      "group": 6,
+      "sourceRelativePath": "第七周作业_SL理论.pdf",
+      "bytes": 375765,
+      "sha256": "f3d88ce4f0977b0acdfec547ca840c6d616fdae93a304e4ee8aa5369c3e0b690",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/%E4%BD%9C%E4%B8%9A/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E6%95%B0%E7%89%A9%E4%BD%9C%E4%B8%9A_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B%2F%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E4%BD%9C%E4%B8%9A%2F%E7%AC%AC%E4%B8%83%E5%91%A8%E4%BD%9C%E4%B8%9A_SL%E7%90%86%E8%AE%BA.pdf",
+      "sourcePathInSharedCourse": "数学物理方程-于轩浩/作业/第七周作业_SL理论.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "物理类/数学物理方法/作业/相关课程参考_于轩浩数物作业_黄逸洋public/第七周作业_SL理论.pdf"
+    },
+    {
+      "group": 6,
+      "sourceRelativePath": "第三周作业.pdf",
+      "bytes": 331056,
+      "sha256": "cffb5c7576de4f12cf6143fe5a94999c475c3e2160b111d15c64b5f753a947cf",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/%E4%BD%9C%E4%B8%9A/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E6%95%B0%E7%89%A9%E4%BD%9C%E4%B8%9A_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B%2F%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E4%BD%9C%E4%B8%9A%2F%E7%AC%AC%E4%B8%89%E5%91%A8%E4%BD%9C%E4%B8%9A.pdf",
+      "sourcePathInSharedCourse": "数学物理方程-于轩浩/作业/第三周作业.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "物理类/数学物理方法/作业/相关课程参考_于轩浩数物作业_黄逸洋public/第三周作业.pdf"
+    },
+    {
+      "group": 6,
+      "sourceRelativePath": "第四周作业.pdf",
+      "bytes": 442154,
+      "sha256": "ec2fb3ea2e2901189539cc15c040e76f0f412f273b8e5cf8293e1a81217a39b8",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/%E4%BD%9C%E4%B8%9A/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E6%95%B0%E7%89%A9%E4%BD%9C%E4%B8%9A_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B%2F%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E4%BD%9C%E4%B8%9A%2F%E7%AC%AC%E5%9B%9B%E5%91%A8%E4%BD%9C%E4%B8%9A.pdf",
+      "sourcePathInSharedCourse": "数学物理方程-于轩浩/作业/第四周作业.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "物理类/数学物理方法/作业/相关课程参考_于轩浩数物作业_黄逸洋public/第四周作业.pdf"
+    },
+    {
+      "group": 6,
+      "sourceRelativePath": "第五周作业.pdf",
+      "bytes": 340611,
+      "sha256": "eab819fed34046466ca4a4f7be4a1820edb4080b4e30b9220d067865ce6a5741",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/%E4%BD%9C%E4%B8%9A/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E6%95%B0%E7%89%A9%E4%BD%9C%E4%B8%9A_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B%2F%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E4%BD%9C%E4%B8%9A%2F%E7%AC%AC%E4%BA%94%E5%91%A8%E4%BD%9C%E4%B8%9A.pdf",
+      "sourcePathInSharedCourse": "数学物理方程-于轩浩/作业/第五周作业.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "物理类/数学物理方法/作业/相关课程参考_于轩浩数物作业_黄逸洋public/第五周作业.pdf"
+    },
+    {
+      "group": 6,
+      "sourceRelativePath": "第一周作业2026.pdf",
+      "bytes": 276107,
+      "sha256": "828bff4ba79e081b3c70b37190ea3a8d9de5420d4160140ce7795460c5db0aa9",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/%E4%BD%9C%E4%B8%9A/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E6%95%B0%E7%89%A9%E4%BD%9C%E4%B8%9A_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B%2F%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E4%BD%9C%E4%B8%9A%2F%E7%AC%AC%E4%B8%80%E5%91%A8%E4%BD%9C%E4%B8%9A2026.pdf",
+      "sourcePathInSharedCourse": "数学物理方程-于轩浩/作业/第一周作业2026.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "物理类/数学物理方法/作业/相关课程参考_于轩浩数物作业_黄逸洋public/第一周作业2026.pdf"
+    },
+    {
+      "group": 6,
+      "sourceRelativePath": "作业_第8周_级数解.pdf",
+      "bytes": 2184334,
+      "sha256": "1cac3ca26338ca5c5bb77c719a89c2eeeb2226979f4c89994e26acdf5e85fb25",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/%E4%BD%9C%E4%B8%9A/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E6%95%B0%E7%89%A9%E4%BD%9C%E4%B8%9A_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B%2F%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E4%BD%9C%E4%B8%9A%2F%E4%BD%9C%E4%B8%9A_%E7%AC%AC8%E5%91%A8_%E7%BA%A7%E6%95%B0%E8%A7%A3.pdf",
+      "sourcePathInSharedCourse": "数学物理方程-于轩浩/作业/作业_第8周_级数解.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "物理类/数学物理方法/作业/相关课程参考_于轩浩数物作业_黄逸洋public/作业_第8周_级数解.pdf"
+    },
+    {
+      "group": 6,
+      "sourceRelativePath": "作业答案/14_homework_answer .pdf",
+      "bytes": 117216,
+      "sha256": "30e3e71f3d35eae9a8163e8742d5ea2c7f1741b9ee085d0b6878b2506c5eeeaa",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/%E4%BD%9C%E4%B8%9A/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E6%95%B0%E7%89%A9%E4%BD%9C%E4%B8%9A_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B%2F%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E4%BD%9C%E4%B8%9A%2F%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88%2F14_homework_answer%20.pdf",
+      "sourcePathInSharedCourse": "数学物理方程-于轩浩/作业/作业答案/14_homework_answer .pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "物理类/数学物理方法/作业/相关课程参考_于轩浩数物作业_黄逸洋public/作业答案/14_homework_answer .pdf"
+    },
+    {
+      "group": 6,
+      "sourceRelativePath": "作业答案/2026数理方程第12周作业答案.pdf",
+      "bytes": 223605,
+      "sha256": "0496db652bc3f09b701d436d29658546d5b7802704d4d47f196450dd37b7291a",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/%E4%BD%9C%E4%B8%9A/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E6%95%B0%E7%89%A9%E4%BD%9C%E4%B8%9A_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B%2F%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E4%BD%9C%E4%B8%9A%2F%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88%2F2026%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B%E7%AC%AC12%E5%91%A8%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pdf",
+      "sourcePathInSharedCourse": "数学物理方程-于轩浩/作业/作业答案/2026数理方程第12周作业答案.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "物理类/数学物理方法/作业/相关课程参考_于轩浩数物作业_黄逸洋public/作业答案/2026数理方程第12周作业答案.pdf"
+    },
+    {
+      "group": 6,
+      "sourceRelativePath": "作业答案/2026作业答案_2.pdf",
+      "bytes": 439697,
+      "sha256": "ca1922c096393b9b3a965bfb2b2a7c0588f5139ac1f162714a060ae4bc36b275",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/%E4%BD%9C%E4%B8%9A/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E6%95%B0%E7%89%A9%E4%BD%9C%E4%B8%9A_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B%2F%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E4%BD%9C%E4%B8%9A%2F%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88%2F2026%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88_2.pdf",
+      "sourcePathInSharedCourse": "数学物理方程-于轩浩/作业/作业答案/2026作业答案_2.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "物理类/数学物理方法/作业/相关课程参考_于轩浩数物作业_黄逸洋public/作业答案/2026作业答案_2.pdf"
+    },
+    {
+      "group": 6,
+      "sourceRelativePath": "作业答案/2026作业答案6.pdf",
+      "bytes": 211419,
+      "sha256": "86495a01557d8d1e7c72c39c088c01f1740b7c0f4a685366fe6e8e0648977612",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/%E4%BD%9C%E4%B8%9A/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E6%95%B0%E7%89%A9%E4%BD%9C%E4%B8%9A_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B%2F%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E4%BD%9C%E4%B8%9A%2F%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88%2F2026%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%886.pdf",
+      "sourcePathInSharedCourse": "数学物理方程-于轩浩/作业/作业答案/2026作业答案6.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "物理类/数学物理方法/作业/相关课程参考_于轩浩数物作业_黄逸洋public/作业答案/2026作业答案6.pdf"
+    },
+    {
+      "group": 6,
+      "sourceRelativePath": "作业答案/week3_homework_problems.pdf",
+      "bytes": 180612,
+      "sha256": "ba4ab6ece8cd70bda8d5f680ab2d3757c0f49ff89fdf0ff014a8f9a14c24dc07",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/%E4%BD%9C%E4%B8%9A/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E6%95%B0%E7%89%A9%E4%BD%9C%E4%B8%9A_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B%2F%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E4%BD%9C%E4%B8%9A%2F%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88%2Fweek3_homework_problems.pdf",
+      "sourcePathInSharedCourse": "数学物理方程-于轩浩/作业/作业答案/week3_homework_problems.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "物理类/数学物理方法/作业/相关课程参考_于轩浩数物作业_黄逸洋public/作业答案/week3_homework_problems.pdf"
+    },
+    {
+      "group": 6,
+      "sourceRelativePath": "作业答案/week13_homework_problems.pdf",
+      "bytes": 146282,
+      "sha256": "d2a3bfd514acb34091b62b80f6734ac9388d20d7daa4d4c2224e367d2e25408b",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/%E4%BD%9C%E4%B8%9A/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E6%95%B0%E7%89%A9%E4%BD%9C%E4%B8%9A_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B%2F%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E4%BD%9C%E4%B8%9A%2F%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88%2Fweek13_homework_problems.pdf",
+      "sourcePathInSharedCourse": "数学物理方程-于轩浩/作业/作业答案/week13_homework_problems.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "物理类/数学物理方法/作业/相关课程参考_于轩浩数物作业_黄逸洋public/作业答案/week13_homework_problems.pdf"
+    },
+    {
+      "group": 6,
+      "sourceRelativePath": "作业答案/第四周作业答案.pdf",
+      "bytes": 3398972,
+      "sha256": "59e883d08e98602d36fa730d7a6abfdf13abd8788399b8b56d2a4c596d120f96",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/%E4%BD%9C%E4%B8%9A/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E6%95%B0%E7%89%A9%E4%BD%9C%E4%B8%9A_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B%2F%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E4%BD%9C%E4%B8%9A%2F%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88%2F%E7%AC%AC%E5%9B%9B%E5%91%A8%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pdf",
+      "sourcePathInSharedCourse": "数学物理方程-于轩浩/作业/作业答案/第四周作业答案.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "物理类/数学物理方法/作业/相关课程参考_于轩浩数物作业_黄逸洋public/作业答案/第四周作业答案.pdf"
+    },
+    {
+      "group": 6,
+      "sourceRelativePath": "作业答案/第五周作业答案.pdf",
+      "bytes": 563342,
+      "sha256": "a2a193f6ab5ea6844ac0b6f236270c855e6284e7efbbee74938aace7eebb1c48",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/%E4%BD%9C%E4%B8%9A/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E6%95%B0%E7%89%A9%E4%BD%9C%E4%B8%9A_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B%2F%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E4%BD%9C%E4%B8%9A%2F%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88%2F%E7%AC%AC%E4%BA%94%E5%91%A8%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pdf",
+      "sourcePathInSharedCourse": "数学物理方程-于轩浩/作业/作业答案/第五周作业答案.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "物理类/数学物理方法/作业/相关课程参考_于轩浩数物作业_黄逸洋public/作业答案/第五周作业答案.pdf"
+    },
+    {
+      "group": 6,
+      "sourceRelativePath": "作业答案/第一周作业解答.pdf",
+      "bytes": 581123,
+      "sha256": "9176b2a350f05a4d0186bf53a19a37d8b5b58323354b3d36888184ad90137170",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/%E4%BD%9C%E4%B8%9A/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E6%95%B0%E7%89%A9%E4%BD%9C%E4%B8%9A_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B%2F%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E4%BD%9C%E4%B8%9A%2F%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88%2F%E7%AC%AC%E4%B8%80%E5%91%A8%E4%BD%9C%E4%B8%9A%E8%A7%A3%E7%AD%94.pdf",
+      "sourcePathInSharedCourse": "数学物理方程-于轩浩/作业/作业答案/第一周作业解答.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "物理类/数学物理方法/作业/相关课程参考_于轩浩数物作业_黄逸洋public/作业答案/第一周作业解答.pdf"
+    },
+    {
+      "group": 6,
+      "sourceRelativePath": "作业答案/数理方程26春第七周作业解答.pdf",
+      "bytes": 362866,
+      "sha256": "57189cb5527ae29bac679ea3cc4afb5533553c481e98b632c8a124902fcc89d8",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/%E4%BD%9C%E4%B8%9A/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E6%95%B0%E7%89%A9%E4%BD%9C%E4%B8%9A_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B%2F%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E4%BD%9C%E4%B8%9A%2F%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88%2F%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B26%E6%98%A5%E7%AC%AC%E4%B8%83%E5%91%A8%E4%BD%9C%E4%B8%9A%E8%A7%A3%E7%AD%94.pdf",
+      "sourcePathInSharedCourse": "数学物理方程-于轩浩/作业/作业答案/数理方程26春第七周作业解答.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "物理类/数学物理方法/作业/相关课程参考_于轩浩数物作业_黄逸洋public/作业答案/数理方程26春第七周作业解答.pdf"
+    },
+    {
+      "group": 6,
+      "sourceRelativePath": "作业答案/数理方程第11周作业答案.pdf",
+      "bytes": 206491,
+      "sha256": "8645797146fe4c6a8356dbe80a0ff4e247a2d8dc941fa945dc3743d07a373f96",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/%E4%BD%9C%E4%B8%9A/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E6%95%B0%E7%89%A9%E4%BD%9C%E4%B8%9A_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B%2F%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E4%BD%9C%E4%B8%9A%2F%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88%2F%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B%E7%AC%AC11%E5%91%A8%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pdf",
+      "sourcePathInSharedCourse": "数学物理方程-于轩浩/作业/作业答案/数理方程第11周作业答案.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "物理类/数学物理方法/作业/相关课程参考_于轩浩数物作业_黄逸洋public/作业答案/数理方程第11周作业答案.pdf"
+    },
+    {
+      "group": 6,
+      "sourceRelativePath": "作业答案/作业_第8周_级数解_解答 v2.pdf",
+      "bytes": 250204,
+      "sha256": "95d64776040a622f958d67be29dd6d2d61268bb89baa9199ebc7b5e4e469bbc5",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/%E4%BD%9C%E4%B8%9A/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E6%95%B0%E7%89%A9%E4%BD%9C%E4%B8%9A_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B%2F%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E4%BD%9C%E4%B8%9A%2F%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88%2F%E4%BD%9C%E4%B8%9A_%E7%AC%AC8%E5%91%A8_%E7%BA%A7%E6%95%B0%E8%A7%A3_%E8%A7%A3%E7%AD%94%20v2.pdf",
+      "sourcePathInSharedCourse": "数学物理方程-于轩浩/作业/作业答案/作业_第8周_级数解_解答 v2.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "物理类/数学物理方法/作业/相关课程参考_于轩浩数物作业_黄逸洋public/作业答案/作业_第8周_级数解_解答 v2.pdf"
+    }
+  ],
+  "syncCounts": {
+    "published_original_bytes": 24
+  },
+  "verification": "本轮正常UI回取已归档目标10组，完整fileset与10运输ZIP CRC通过，105原路径逐SHA/本地回读一致；20旧说明原字节保持。共享源路径来自此前实际UI清单，不声称本轮再次下载每个共享源原件。",
+  "reviewBoundary": "105路径静态文字与元数据筛查；90PDF共1955文件页，33必要角色/首末页实际查看，非全部页人工隐私或数学正确性认证。13DOC仅静态piece-table正文/属性，1DOCX仅XML/属性/关系，不执行宏、外链或嵌入对象。原TXT作为说明数据不执行。板书正常YYYYMMDD日期、软件构建日期和数学数字区分后保留。",
+  "rawArchivesPublished": false
+}

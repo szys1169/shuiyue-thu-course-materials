@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-23",
+  "source": "黄逸洋public / 数学物理方程",
+  "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B&mode=list",
+  "cloudDirectoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%90%B4%E5%B4%87%E8%AF%95%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+  "role": "数物方程习题参考解答、课本题解和作业来源，保原层级及勘误/可能有错边界，不执行原文件。",
+  "sourcePaths": 1,
+  "sourceUniqueSHA256": 1,
+  "files": [
+    {
+      "group": 3,
+      "sourceRelativePath": "数学物理方法 吴崇试 习题解答.pdf",
+      "bytes": 3528583,
+      "sha256": "124e7d34176db9aef98dc5e22f54d25c8150b8023fe4552de6f5a5be8f439558",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/%E4%B9%A0%E9%A2%98%E4%B8%8E%E8%A7%A3%E7%AD%94/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%90%B4%E5%B4%87%E8%AF%95%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B%2F%E8%AF%BE%E4%BB%B6%E4%B8%8E%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%96%99%2F%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95%20%E5%90%B4%E5%B4%87%E8%AF%95%20%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94.pdf",
+      "sourcePathInSharedCourse": "课件与课程资料/数学物理方法 吴崇试 习题解答.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "物理类/数学物理方法/习题与解答/相关课程参考_吴崇试习题解答_黄逸洋public/数学物理方法 吴崇试 习题解答.pdf"
+    }
+  ],
+  "syncCounts": {
+    "published_original_bytes": 1
+  },
+  "verification": "本轮正常UI回取已归档目标10组，完整fileset与10运输ZIP CRC通过，105原路径逐SHA/本地回读一致；20旧说明原字节保持。共享源路径来自此前实际UI清单，不声称本轮再次下载每个共享源原件。",
+  "reviewBoundary": "105路径静态文字与元数据筛查；90PDF共1955文件页，33必要角色/首末页实际查看，非全部页人工隐私或数学正确性认证。13DOC仅静态piece-table正文/属性，1DOCX仅XML/属性/关系，不执行宏、外链或嵌入对象。原TXT作为说明数据不执行。板书正常YYYYMMDD日期、软件构建日期和数学数字区分后保留。",
+  "rawArchivesPublished": false
+}

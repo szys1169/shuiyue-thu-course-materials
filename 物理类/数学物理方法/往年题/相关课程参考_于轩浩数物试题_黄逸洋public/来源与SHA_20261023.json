@@ -1,0 +1,205 @@
+{
+  "date": "2026-10-23",
+  "source": "黄逸洋public / 数学物理方程",
+  "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B&mode=list",
+  "cloudDirectoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E6%95%B0%E7%89%A9%E8%AF%95%E9%A2%98_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+  "role": "历史相关课程试题、模拟题与参考解答；来源年/教师标签保留，不认当前官方标准答案。",
+  "sourcePaths": 17,
+  "sourceUniqueSHA256": 17,
+  "files": [
+    {
+      "group": 5,
+      "sourceRelativePath": "期末/2022数理方程期末参考答案.pdf",
+      "bytes": 519988,
+      "sha256": "86240e0cd7a906741902c35b2d190ff19b2ee8b5c45d169f5b487e48103aa313",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E6%95%B0%E7%89%A9%E8%AF%95%E9%A2%98_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B%2F%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE%2F%E6%9C%9F%E6%9C%AB%2F2022%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B%E6%9C%9F%E6%9C%AB%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+      "sourcePathInSharedCourse": "数学物理方程-于轩浩/考试题目/期末/2022数理方程期末参考答案.pdf",
+      "gitSyncStatus": "reuse_same_SHA_source_alias",
+      "gitRepoPath": "物理类/数学物理方法/往年题/相关课程参考_数物方程试题_黄逸洋public/数理方程-汪忠-江星韦 数理方程期末答案2022.pdf"
+    },
+    {
+      "group": 5,
+      "sourceRelativePath": "期末/2022数理方程期末试题.pdf",
+      "bytes": 410844,
+      "sha256": "3434426d20c2eab7120c9c794b72e9fa204e0373b2a8aa3c74a6e1444c04967a",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E6%95%B0%E7%89%A9%E8%AF%95%E9%A2%98_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B%2F%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE%2F%E6%9C%9F%E6%9C%AB%2F2022%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.pdf",
+      "sourcePathInSharedCourse": "数学物理方程-于轩浩/考试题目/期末/2022数理方程期末试题.pdf",
+      "gitSyncStatus": "reuse_same_SHA_source_alias",
+      "gitRepoPath": "物理类/数学物理方法/往年题/相关课程参考_数物方程试题_黄逸洋public/数理方程-汪忠-江星韦  数理方程期末试题2022.pdf"
+    },
+    {
+      "group": 5,
+      "sourceRelativePath": "期末/2023数理方程期末参考答案.pdf",
+      "bytes": 213246,
+      "sha256": "3f29c3666df48900435d5f91495f48665b8206c90d0b5b555fb457322299a44d",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E6%95%B0%E7%89%A9%E8%AF%95%E9%A2%98_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B%2F%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE%2F%E6%9C%9F%E6%9C%AB%2F2023%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B%E6%9C%9F%E6%9C%AB%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+      "sourcePathInSharedCourse": "数学物理方程-于轩浩/考试题目/期末/2023数理方程期末参考答案.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "物理类/数学物理方法/往年题/相关课程参考_于轩浩数物试题_黄逸洋public/期末/2023数理方程期末参考答案.pdf"
+    },
+    {
+      "group": 5,
+      "sourceRelativePath": "期末/2023数理方程期末试题.pdf",
+      "bytes": 87335,
+      "sha256": "0594edded4c89aa421fc68f8a2dbf1812ec178832073bdcddf9cfbc7226843cd",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E6%95%B0%E7%89%A9%E8%AF%95%E9%A2%98_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B%2F%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE%2F%E6%9C%9F%E6%9C%AB%2F2023%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.pdf",
+      "sourcePathInSharedCourse": "数学物理方程-于轩浩/考试题目/期末/2023数理方程期末试题.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "物理类/数学物理方法/往年题/相关课程参考_于轩浩数物试题_黄逸洋public/期末/2023数理方程期末试题.pdf"
+    },
+    {
+      "group": 5,
+      "sourceRelativePath": "期末/2024数理方程期末参考答案.pdf",
+      "bytes": 190438,
+      "sha256": "6e877f153a66f5c2041679ff64fe1d5d3da8cf124da901161e69fed907da0a2d",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E6%95%B0%E7%89%A9%E8%AF%95%E9%A2%98_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B%2F%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE%2F%E6%9C%9F%E6%9C%AB%2F2024%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B%E6%9C%9F%E6%9C%AB%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+      "sourcePathInSharedCourse": "数学物理方程-于轩浩/考试题目/期末/2024数理方程期末参考答案.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "物理类/数学物理方法/往年题/相关课程参考_于轩浩数物试题_黄逸洋public/期末/2024数理方程期末参考答案.pdf"
+    },
+    {
+      "group": 5,
+      "sourceRelativePath": "期末/2024数理方程期末试题.pdf",
+      "bytes": 109565,
+      "sha256": "15537cfeea81e743fed8b217beead6236ac3ea519e1ccb574befb359b1a90fb4",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E6%95%B0%E7%89%A9%E8%AF%95%E9%A2%98_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B%2F%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE%2F%E6%9C%9F%E6%9C%AB%2F2024%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.pdf",
+      "sourcePathInSharedCourse": "数学物理方程-于轩浩/考试题目/期末/2024数理方程期末试题.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "物理类/数学物理方法/往年题/相关课程参考_于轩浩数物试题_黄逸洋public/期末/2024数理方程期末试题.pdf"
+    },
+    {
+      "group": 5,
+      "sourceRelativePath": "期末/2025数理方程期末参考答案.pdf",
+      "bytes": 272407,
+      "sha256": "c0f5df7acdd0e07d16c23a6f841c2e3a56aeb47417737b42bf7f5a196897133d",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E6%95%B0%E7%89%A9%E8%AF%95%E9%A2%98_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B%2F%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE%2F%E6%9C%9F%E6%9C%AB%2F2025%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B%E6%9C%9F%E6%9C%AB%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+      "sourcePathInSharedCourse": "数学物理方程-于轩浩/考试题目/期末/2025数理方程期末参考答案.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "物理类/数学物理方法/往年题/相关课程参考_于轩浩数物试题_黄逸洋public/期末/2025数理方程期末参考答案.pdf"
+    },
+    {
+      "group": 5,
+      "sourceRelativePath": "期末/2025数理方程期末试题.pdf",
+      "bytes": 99324,
+      "sha256": "761c6fcfe4f3d2ed4a9d0f6bdeceb9ad89f699142dc984c2745febcf697b5bf8",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E6%95%B0%E7%89%A9%E8%AF%95%E9%A2%98_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B%2F%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE%2F%E6%9C%9F%E6%9C%AB%2F2025%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.pdf",
+      "sourcePathInSharedCourse": "数学物理方程-于轩浩/考试题目/期末/2025数理方程期末试题.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "物理类/数学物理方法/往年题/相关课程参考_于轩浩数物试题_黄逸洋public/期末/2025数理方程期末试题.pdf"
+    },
+    {
+      "group": 5,
+      "sourceRelativePath": "期末/2026数理方程期中试题与参考答案.pdf",
+      "bytes": 355096,
+      "sha256": "2ea746957a7c49e02ffda5f9c5df6232ecc19c6af055a319650c26c0e597b14a",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E6%95%B0%E7%89%A9%E8%AF%95%E9%A2%98_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B%2F%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE%2F%E6%9C%9F%E6%9C%AB%2F2026%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B%E6%9C%9F%E4%B8%AD%E8%AF%95%E9%A2%98%E4%B8%8E%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+      "sourcePathInSharedCourse": "数学物理方程-于轩浩/考试题目/期末/2026数理方程期中试题与参考答案.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "物理类/数学物理方法/往年题/相关课程参考_于轩浩数物试题_黄逸洋public/期末/2026数理方程期中试题与参考答案.pdf"
+    },
+    {
+      "group": 5,
+      "sourceRelativePath": "期中/2022数理方程期中试题.pdf",
+      "bytes": 360490,
+      "sha256": "1e71e0c83733b7a8e7e80a660e57a2bdc3bc0ea675372e2c450aaec34912cc11",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E6%95%B0%E7%89%A9%E8%AF%95%E9%A2%98_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B%2F%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE%2F%E6%9C%9F%E4%B8%AD%2F2022%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B%E6%9C%9F%E4%B8%AD%E8%AF%95%E9%A2%98.pdf",
+      "sourcePathInSharedCourse": "数学物理方程-于轩浩/考试题目/期中/2022数理方程期中试题.pdf",
+      "gitSyncStatus": "reuse_same_SHA_source_alias",
+      "gitRepoPath": "物理类/数学物理方法/往年题/相关课程参考_数物方程试题_黄逸洋public/数学物理方程-汪忠-2021下期中-杜惟颀.pdf"
+    },
+    {
+      "group": 5,
+      "sourceRelativePath": "期中/2022数理方程期中试题参考答案.pdf",
+      "bytes": 186948,
+      "sha256": "115803b394cb84d446e06e7f13c9bca2d05923016f24a6314beab3adcf648b70",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E6%95%B0%E7%89%A9%E8%AF%95%E9%A2%98_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B%2F%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE%2F%E6%9C%9F%E4%B8%AD%2F2022%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B%E6%9C%9F%E4%B8%AD%E8%AF%95%E9%A2%98%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+      "sourcePathInSharedCourse": "数学物理方程-于轩浩/考试题目/期中/2022数理方程期中试题参考答案.pdf",
+      "gitSyncStatus": "reuse_same_SHA_source_alias",
+      "gitRepoPath": "物理类/数学物理方法/往年题/相关课程参考_数物方程试题_黄逸洋public/数学物理方程-汪忠-2022下期中-杜惟颀.pdf"
+    },
+    {
+      "group": 5,
+      "sourceRelativePath": "期中/2023数理方程期中参考答案.pdf",
+      "bytes": 274268,
+      "sha256": "364c152b65ec91353f934c9c4da432b9b4db1ea1b420ba14691eceaff368b595",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E6%95%B0%E7%89%A9%E8%AF%95%E9%A2%98_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B%2F%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE%2F%E6%9C%9F%E4%B8%AD%2F2023%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B%E6%9C%9F%E4%B8%AD%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+      "sourcePathInSharedCourse": "数学物理方程-于轩浩/考试题目/期中/2023数理方程期中参考答案.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "物理类/数学物理方法/往年题/相关课程参考_于轩浩数物试题_黄逸洋public/期中/2023数理方程期中参考答案.pdf"
+    },
+    {
+      "group": 5,
+      "sourceRelativePath": "期中/2023数理方程期中试题.pdf",
+      "bytes": 97059,
+      "sha256": "6164d3c6e1687ffca3209c9b7faf2b1c346a3ab23fc275cb9f8c8b56e4530e74",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E6%95%B0%E7%89%A9%E8%AF%95%E9%A2%98_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B%2F%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE%2F%E6%9C%9F%E4%B8%AD%2F2023%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B%E6%9C%9F%E4%B8%AD%E8%AF%95%E9%A2%98.pdf",
+      "sourcePathInSharedCourse": "数学物理方程-于轩浩/考试题目/期中/2023数理方程期中试题.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "物理类/数学物理方法/往年题/相关课程参考_于轩浩数物试题_黄逸洋public/期中/2023数理方程期中试题.pdf"
+    },
+    {
+      "group": 5,
+      "sourceRelativePath": "期中/2024数理方程期中参考答案.pdf",
+      "bytes": 245768,
+      "sha256": "04e77282fa40b3ede448019d4380bdc2ad7c61e2a7847180a0f943bd65f3d23f",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E6%95%B0%E7%89%A9%E8%AF%95%E9%A2%98_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B%2F%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE%2F%E6%9C%9F%E4%B8%AD%2F2024%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B%E6%9C%9F%E4%B8%AD%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+      "sourcePathInSharedCourse": "数学物理方程-于轩浩/考试题目/期中/2024数理方程期中参考答案.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "物理类/数学物理方法/往年题/相关课程参考_于轩浩数物试题_黄逸洋public/期中/2024数理方程期中参考答案.pdf"
+    },
+    {
+      "group": 5,
+      "sourceRelativePath": "期中/2024数理方程期中试题.pdf",
+      "bytes": 93133,
+      "sha256": "20a55c602840b768278786e08dda565561474d65062792d3dda8f4a32b6a069b",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E6%95%B0%E7%89%A9%E8%AF%95%E9%A2%98_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B%2F%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE%2F%E6%9C%9F%E4%B8%AD%2F2024%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B%E6%9C%9F%E4%B8%AD%E8%AF%95%E9%A2%98.pdf",
+      "sourcePathInSharedCourse": "数学物理方程-于轩浩/考试题目/期中/2024数理方程期中试题.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "物理类/数学物理方法/往年题/相关课程参考_于轩浩数物试题_黄逸洋public/期中/2024数理方程期中试题.pdf"
+    },
+    {
+      "group": 5,
+      "sourceRelativePath": "期中/2025数理方程期中参考答案.pdf",
+      "bytes": 252124,
+      "sha256": "65b5cf193e870967072665e8c5ac28fa0b0dcdd9e11bdf4eaae90ff8f5cc569e",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E6%95%B0%E7%89%A9%E8%AF%95%E9%A2%98_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B%2F%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE%2F%E6%9C%9F%E4%B8%AD%2F2025%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B%E6%9C%9F%E4%B8%AD%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+      "sourcePathInSharedCourse": "数学物理方程-于轩浩/考试题目/期中/2025数理方程期中参考答案.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "物理类/数学物理方法/往年题/相关课程参考_于轩浩数物试题_黄逸洋public/期中/2025数理方程期中参考答案.pdf"
+    },
+    {
+      "group": 5,
+      "sourceRelativePath": "期中/2026数理方程期中试题与参考答案.pdf",
+      "bytes": 358413,
+      "sha256": "2c2cd0e73acb96d02a971fa62485f04e4703c6b793e19ed32313cd1b9c6f74bb",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E6%95%B0%E7%89%A9%E8%AF%95%E9%A2%98_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B%2F%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E8%80%83%E8%AF%95%E9%A2%98%E7%9B%AE%2F%E6%9C%9F%E4%B8%AD%2F2026%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B%E6%9C%9F%E4%B8%AD%E8%AF%95%E9%A2%98%E4%B8%8E%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.pdf",
+      "sourcePathInSharedCourse": "数学物理方程-于轩浩/考试题目/期中/2026数理方程期中试题与参考答案.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "物理类/数学物理方法/往年题/相关课程参考_于轩浩数物试题_黄逸洋public/期中/2026数理方程期中试题与参考答案.pdf"
+    }
+  ],
+  "syncCounts": {
+    "reuse_same_SHA_source_alias": 4,
+    "published_original_bytes": 13
+  },
+  "verification": "本轮正常UI回取已归档目标10组，完整fileset与10运输ZIP CRC通过，105原路径逐SHA/本地回读一致；20旧说明原字节保持。共享源路径来自此前实际UI清单，不声称本轮再次下载每个共享源原件。",
+  "reviewBoundary": "105路径静态文字与元数据筛查；90PDF共1955文件页，33必要角色/首末页实际查看，非全部页人工隐私或数学正确性认证。13DOC仅静态piece-table正文/属性，1DOCX仅XML/属性/关系，不执行宏、外链或嵌入对象。原TXT作为说明数据不执行。板书正常YYYYMMDD日期、软件构建日期和数学数字区分后保留。",
+  "rawArchivesPublished": false
+}

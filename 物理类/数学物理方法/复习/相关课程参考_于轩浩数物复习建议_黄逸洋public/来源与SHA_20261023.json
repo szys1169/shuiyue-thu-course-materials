@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-23",
+  "source": "黄逸洋public / 数学物理方程",
+  "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B&mode=list",
+  "cloudDirectoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/%E5%A4%8D%E4%B9%A0/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E6%95%B0%E7%89%A9%E5%A4%8D%E4%B9%A0%E5%BB%BA%E8%AE%AE_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+  "role": "历史相关课程复习笔记及建议；主观学习建议不作当前教学或考试范围承诺。",
+  "sourcePaths": 1,
+  "sourceUniqueSHA256": 1,
+  "files": [
+    {
+      "group": 10,
+      "sourceRelativePath": "通关秘籍（必看）.docx",
+      "bytes": 11052,
+      "sha256": "74713e777ac008526f7ec6c27fa14e53b5b0d6639bd0fc614060739fea0c22eb",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E7%89%A9%E7%90%86%E7%B1%BB/%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E6%B3%95/%E5%A4%8D%E4%B9%A0/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E6%95%B0%E7%89%A9%E5%A4%8D%E4%B9%A0%E5%BB%BA%E8%AE%AE_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B%2F%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E6%96%B9%E7%A8%8B-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E9%80%9A%E5%85%B3%E7%A7%98%E7%B1%8D%EF%BC%88%E5%BF%85%E7%9C%8B%EF%BC%89.docx",
+      "sourcePathInSharedCourse": "数学物理方程-于轩浩/通关秘籍（必看）.docx",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "物理类/数学物理方法/复习/相关课程参考_于轩浩数物复习建议_黄逸洋public/通关秘籍（必看）.docx"
+    }
+  ],
+  "syncCounts": {
+    "published_original_bytes": 1
+  },
+  "verification": "本轮正常UI回取已归档目标10组，完整fileset与10运输ZIP CRC通过，105原路径逐SHA/本地回读一致；20旧说明原字节保持。共享源路径来自此前实际UI清单，不声称本轮再次下载每个共享源原件。",
+  "reviewBoundary": "105路径静态文字与元数据筛查；90PDF共1955文件页，33必要角色/首末页实际查看，非全部页人工隐私或数学正确性认证。13DOC仅静态piece-table正文/属性，1DOCX仅XML/属性/关系，不执行宏、外链或嵌入对象。原TXT作为说明数据不执行。板书正常YYYYMMDD日期、软件构建日期和数学数字区分后保留。",
+  "rawArchivesPublished": false
+}
