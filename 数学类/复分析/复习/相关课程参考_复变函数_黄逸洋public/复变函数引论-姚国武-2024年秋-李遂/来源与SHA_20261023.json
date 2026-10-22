@@ -1,0 +1,169 @@
+{
+  "date": "2026-10-23",
+  "source": "黄逸洋public / 复变函数 / 复习笔记 / 复变函数引论-姚国武-2024年秋-李遂",
+  "sourceGroupURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%2F%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0%2F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA-%E5%A7%9A%E5%9B%BD%E6%AD%A6-2024%E5%B9%B4%E7%A7%8B-%E6%9D%8E%E9%81%82&mode=list",
+  "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/%E5%A4%8D%E4%B9%A0/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA-%E5%A7%9A%E5%9B%BD%E6%AD%A6-2024%E5%B9%B4%E7%A7%8B-%E6%9D%8E%E9%81%82",
+  "files": [
+    {
+      "name": "绪论.pdf",
+      "bytes": 1765040,
+      "sha256": "a036066303ec9727edd2ac80d7ef7cba8834f3a2705f96d80e5a68eb4f54ebca",
+      "pages": 1,
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%2F%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0%2F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA-%E5%A7%9A%E5%9B%BD%E6%AD%A6-2024%E5%B9%B4%E7%A7%8B-%E6%9D%8E%E9%81%82%2F%E7%BB%AA%E8%AE%BA.pdf",
+      "cloudPreviewURL": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/%E5%A4%8D%E4%B9%A0/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA-%E5%A7%9A%E5%9B%BD%E6%AD%A6-2024%E5%B9%B4%E7%A7%8B-%E6%9D%8E%E9%81%82/%E7%BB%AA%E8%AE%BA.pdf",
+      "gitRepoPath": "数学类/复分析/复习/相关课程参考_复变函数_黄逸洋public/复变函数引论-姚国武-2024年秋-李遂/绪论.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "cloudAndArchiveMemberSHAExact": true
+    },
+    {
+      "name": "第2讲.pdf",
+      "bytes": 4954569,
+      "sha256": "9777bc220bf900f8ed6522c97289dd0d654074bdd07d2fd228fe5da392083681",
+      "pages": 2,
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%2F%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0%2F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA-%E5%A7%9A%E5%9B%BD%E6%AD%A6-2024%E5%B9%B4%E7%A7%8B-%E6%9D%8E%E9%81%82%2F%E7%AC%AC2%E8%AE%B2.pdf",
+      "cloudPreviewURL": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/%E5%A4%8D%E4%B9%A0/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA-%E5%A7%9A%E5%9B%BD%E6%AD%A6-2024%E5%B9%B4%E7%A7%8B-%E6%9D%8E%E9%81%82/%E7%AC%AC2%E8%AE%B2.pdf",
+      "gitRepoPath": "数学类/复分析/复习/相关课程参考_复变函数_黄逸洋public/复变函数引论-姚国武-2024年秋-李遂/第2讲.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "cloudAndArchiveMemberSHAExact": true
+    },
+    {
+      "name": "第3讲.pdf",
+      "bytes": 6385002,
+      "sha256": "f0b1ee580cae96510b3759041828b94c3c3161d4635c89f009887983ddfaeb2c",
+      "pages": 2,
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%2F%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0%2F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA-%E5%A7%9A%E5%9B%BD%E6%AD%A6-2024%E5%B9%B4%E7%A7%8B-%E6%9D%8E%E9%81%82%2F%E7%AC%AC3%E8%AE%B2.pdf",
+      "cloudPreviewURL": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/%E5%A4%8D%E4%B9%A0/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA-%E5%A7%9A%E5%9B%BD%E6%AD%A6-2024%E5%B9%B4%E7%A7%8B-%E6%9D%8E%E9%81%82/%E7%AC%AC3%E8%AE%B2.pdf",
+      "gitRepoPath": "数学类/复分析/复习/相关课程参考_复变函数_黄逸洋public/复变函数引论-姚国武-2024年秋-李遂/第3讲.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "cloudAndArchiveMemberSHAExact": true
+    },
+    {
+      "name": "第4讲.pdf",
+      "bytes": 6003041,
+      "sha256": "967412c65524d919fd7c9c8fb41f503b8a52c0d9e0724c0d15787eb9941ec0f1",
+      "pages": 3,
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%2F%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0%2F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA-%E5%A7%9A%E5%9B%BD%E6%AD%A6-2024%E5%B9%B4%E7%A7%8B-%E6%9D%8E%E9%81%82%2F%E7%AC%AC4%E8%AE%B2.pdf",
+      "cloudPreviewURL": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/%E5%A4%8D%E4%B9%A0/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA-%E5%A7%9A%E5%9B%BD%E6%AD%A6-2024%E5%B9%B4%E7%A7%8B-%E6%9D%8E%E9%81%82/%E7%AC%AC4%E8%AE%B2.pdf",
+      "gitRepoPath": "数学类/复分析/复习/相关课程参考_复变函数_黄逸洋public/复变函数引论-姚国武-2024年秋-李遂/第4讲.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "cloudAndArchiveMemberSHAExact": true
+    },
+    {
+      "name": "第5讲.pdf",
+      "bytes": 5108117,
+      "sha256": "161dae173087b656aabc32b509462bf110b9e5118ad673ce340de51a58f25933",
+      "pages": 2,
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%2F%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0%2F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA-%E5%A7%9A%E5%9B%BD%E6%AD%A6-2024%E5%B9%B4%E7%A7%8B-%E6%9D%8E%E9%81%82%2F%E7%AC%AC5%E8%AE%B2.pdf",
+      "cloudPreviewURL": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/%E5%A4%8D%E4%B9%A0/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA-%E5%A7%9A%E5%9B%BD%E6%AD%A6-2024%E5%B9%B4%E7%A7%8B-%E6%9D%8E%E9%81%82/%E7%AC%AC5%E8%AE%B2.pdf",
+      "gitRepoPath": "数学类/复分析/复习/相关课程参考_复变函数_黄逸洋public/复变函数引论-姚国武-2024年秋-李遂/第5讲.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "cloudAndArchiveMemberSHAExact": true
+    },
+    {
+      "name": "第6讲.pdf",
+      "bytes": 5639604,
+      "sha256": "3e8d8af0a40a89dcc165db601a45359c4c69bf6c6a2cbfec20730faec31d09a2",
+      "pages": 2,
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%2F%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0%2F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA-%E5%A7%9A%E5%9B%BD%E6%AD%A6-2024%E5%B9%B4%E7%A7%8B-%E6%9D%8E%E9%81%82%2F%E7%AC%AC6%E8%AE%B2.pdf",
+      "cloudPreviewURL": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/%E5%A4%8D%E4%B9%A0/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA-%E5%A7%9A%E5%9B%BD%E6%AD%A6-2024%E5%B9%B4%E7%A7%8B-%E6%9D%8E%E9%81%82/%E7%AC%AC6%E8%AE%B2.pdf",
+      "gitRepoPath": "数学类/复分析/复习/相关课程参考_复变函数_黄逸洋public/复变函数引论-姚国武-2024年秋-李遂/第6讲.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "cloudAndArchiveMemberSHAExact": true
+    },
+    {
+      "name": "第7讲.pdf",
+      "bytes": 6354736,
+      "sha256": "53824114a43ba4ae9f6147fe1f9444b386d0d6e3d0611ca6fad1322b570314d8",
+      "pages": 2,
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%2F%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0%2F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA-%E5%A7%9A%E5%9B%BD%E6%AD%A6-2024%E5%B9%B4%E7%A7%8B-%E6%9D%8E%E9%81%82%2F%E7%AC%AC7%E8%AE%B2.pdf",
+      "cloudPreviewURL": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/%E5%A4%8D%E4%B9%A0/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA-%E5%A7%9A%E5%9B%BD%E6%AD%A6-2024%E5%B9%B4%E7%A7%8B-%E6%9D%8E%E9%81%82/%E7%AC%AC7%E8%AE%B2.pdf",
+      "gitRepoPath": "数学类/复分析/复习/相关课程参考_复变函数_黄逸洋public/复变函数引论-姚国武-2024年秋-李遂/第7讲.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "cloudAndArchiveMemberSHAExact": true
+    },
+    {
+      "name": "第8讲.pdf",
+      "bytes": 6570149,
+      "sha256": "a0906040c6009946067a7dfb0ecea2e5a870c0d6fa94bde24217598a9cbf0d88",
+      "pages": 3,
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%2F%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0%2F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA-%E5%A7%9A%E5%9B%BD%E6%AD%A6-2024%E5%B9%B4%E7%A7%8B-%E6%9D%8E%E9%81%82%2F%E7%AC%AC8%E8%AE%B2.pdf",
+      "cloudPreviewURL": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/%E5%A4%8D%E4%B9%A0/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA-%E5%A7%9A%E5%9B%BD%E6%AD%A6-2024%E5%B9%B4%E7%A7%8B-%E6%9D%8E%E9%81%82/%E7%AC%AC8%E8%AE%B2.pdf",
+      "gitRepoPath": "数学类/复分析/复习/相关课程参考_复变函数_黄逸洋public/复变函数引论-姚国武-2024年秋-李遂/第8讲.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "cloudAndArchiveMemberSHAExact": true
+    },
+    {
+      "name": "第9讲.pdf",
+      "bytes": 5976907,
+      "sha256": "c210049f98977762c85b805e4f48a59ce3803b5a474f91d764d8da82950a3448",
+      "pages": 2,
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%2F%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0%2F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA-%E5%A7%9A%E5%9B%BD%E6%AD%A6-2024%E5%B9%B4%E7%A7%8B-%E6%9D%8E%E9%81%82%2F%E7%AC%AC9%E8%AE%B2.pdf",
+      "cloudPreviewURL": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/%E5%A4%8D%E4%B9%A0/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA-%E5%A7%9A%E5%9B%BD%E6%AD%A6-2024%E5%B9%B4%E7%A7%8B-%E6%9D%8E%E9%81%82/%E7%AC%AC9%E8%AE%B2.pdf",
+      "gitRepoPath": "数学类/复分析/复习/相关课程参考_复变函数_黄逸洋public/复变函数引论-姚国武-2024年秋-李遂/第9讲.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "cloudAndArchiveMemberSHAExact": true
+    },
+    {
+      "name": "第10讲.pdf",
+      "bytes": 3346577,
+      "sha256": "1ea0fc3f5866bea33818b83e9f5a793ca6487f6e74503e1f58cde9f2bdc7ad4c",
+      "pages": 2,
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%2F%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0%2F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA-%E5%A7%9A%E5%9B%BD%E6%AD%A6-2024%E5%B9%B4%E7%A7%8B-%E6%9D%8E%E9%81%82%2F%E7%AC%AC10%E8%AE%B2.pdf",
+      "cloudPreviewURL": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/%E5%A4%8D%E4%B9%A0/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA-%E5%A7%9A%E5%9B%BD%E6%AD%A6-2024%E5%B9%B4%E7%A7%8B-%E6%9D%8E%E9%81%82/%E7%AC%AC10%E8%AE%B2.pdf",
+      "gitRepoPath": "数学类/复分析/复习/相关课程参考_复变函数_黄逸洋public/复变函数引论-姚国武-2024年秋-李遂/第10讲.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "cloudAndArchiveMemberSHAExact": true
+    },
+    {
+      "name": "第11讲.pdf",
+      "bytes": 5137853,
+      "sha256": "062cc4155435d6e60b1805c0f9f340f198aed42797741f737ea434e095d5eeaa",
+      "pages": 2,
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%2F%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0%2F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA-%E5%A7%9A%E5%9B%BD%E6%AD%A6-2024%E5%B9%B4%E7%A7%8B-%E6%9D%8E%E9%81%82%2F%E7%AC%AC11%E8%AE%B2.pdf",
+      "cloudPreviewURL": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/%E5%A4%8D%E4%B9%A0/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA-%E5%A7%9A%E5%9B%BD%E6%AD%A6-2024%E5%B9%B4%E7%A7%8B-%E6%9D%8E%E9%81%82/%E7%AC%AC11%E8%AE%B2.pdf",
+      "gitRepoPath": "数学类/复分析/复习/相关课程参考_复变函数_黄逸洋public/复变函数引论-姚国武-2024年秋-李遂/第11讲.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "cloudAndArchiveMemberSHAExact": true
+    },
+    {
+      "name": "第12讲.pdf",
+      "bytes": 5680796,
+      "sha256": "6b2b34f2309924a7b0687f927ace18e6bf93b7c1279d0923465315dda04e2f57",
+      "pages": 2,
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%2F%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0%2F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA-%E5%A7%9A%E5%9B%BD%E6%AD%A6-2024%E5%B9%B4%E7%A7%8B-%E6%9D%8E%E9%81%82%2F%E7%AC%AC12%E8%AE%B2.pdf",
+      "cloudPreviewURL": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/%E5%A4%8D%E4%B9%A0/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA-%E5%A7%9A%E5%9B%BD%E6%AD%A6-2024%E5%B9%B4%E7%A7%8B-%E6%9D%8E%E9%81%82/%E7%AC%AC12%E8%AE%B2.pdf",
+      "gitRepoPath": "数学类/复分析/复习/相关课程参考_复变函数_黄逸洋public/复变函数引论-姚国武-2024年秋-李遂/第12讲.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "cloudAndArchiveMemberSHAExact": true
+    },
+    {
+      "name": "第13讲.pdf",
+      "bytes": 4572222,
+      "sha256": "b3c499cb7ba4d7e4305bbb490fc86bfaf334844ddc657b34666ac8a69f93c11c",
+      "pages": 2,
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%2F%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0%2F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA-%E5%A7%9A%E5%9B%BD%E6%AD%A6-2024%E5%B9%B4%E7%A7%8B-%E6%9D%8E%E9%81%82%2F%E7%AC%AC13%E8%AE%B2.pdf",
+      "cloudPreviewURL": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/%E5%A4%8D%E4%B9%A0/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA-%E5%A7%9A%E5%9B%BD%E6%AD%A6-2024%E5%B9%B4%E7%A7%8B-%E6%9D%8E%E9%81%82/%E7%AC%AC13%E8%AE%B2.pdf",
+      "gitRepoPath": "数学类/复分析/复习/相关课程参考_复变函数_黄逸洋public/复变函数引论-姚国武-2024年秋-李遂/第13讲.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "cloudAndArchiveMemberSHAExact": true
+    },
+    {
+      "name": "第14讲.pdf",
+      "bytes": 2420724,
+      "sha256": "24b772f44e2e837ccef753ae3009cfa080bd4a790f525269065862b910d3400a",
+      "pages": 1,
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F1.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%2F%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0%2F%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA-%E5%A7%9A%E5%9B%BD%E6%AD%A6-2024%E5%B9%B4%E7%A7%8B-%E6%9D%8E%E9%81%82%2F%E7%AC%AC14%E8%AE%B2.pdf",
+      "cloudPreviewURL": "https://cloud.tsinghua.edu.cn/lib/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/file/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%A4%8D%E5%88%86%E6%9E%90/%E5%A4%8D%E4%B9%A0/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E5%BC%95%E8%AE%BA-%E5%A7%9A%E5%9B%BD%E6%AD%A6-2024%E5%B9%B4%E7%A7%8B-%E6%9D%8E%E9%81%82/%E7%AC%AC14%E8%AE%B2.pdf",
+      "gitRepoPath": "数学类/复分析/复习/相关课程参考_复变函数_黄逸洋public/复变函数引论-姚国武-2024年秋-李遂/第14讲.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "cloudAndArchiveMemberSHAExact": true
+    }
+  ],
+  "fileCount": 14,
+  "uniqueSHA256": 14,
+  "rawBytes": 69915337,
+  "PDFPages": 28,
+  "verification": "14原件与本轮正常UI回取的既有云盘分讲逐尺寸/SHA一致；同时与来源复变.zip内14成员CRC/SHA一致。Git逐blob复核；原ZIP不发布。",
+  "roleBoundary": "手写分讲笔记，绪论与第2–14讲。没有第1讲命名文件，不认完整学期，不据目录标签认证作者、教师或学期。",
+  "reviewBoundary": "全部PDF静态结构、文字、Info/XMP检查；必要角色样页实际查看，没有全28页人工隐私或数学正确性审校。0批注/表单/附件不等于图像中无任何记号。"
+}
