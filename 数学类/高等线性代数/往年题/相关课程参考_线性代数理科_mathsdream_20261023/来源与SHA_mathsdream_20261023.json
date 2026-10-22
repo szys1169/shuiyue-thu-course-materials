@@ -1,0 +1,65 @@
+{
+  "title": "线性代数理科类：公开来源试题与参考解答",
+  "date": "2026-10-23",
+  "repository": "https://github.com/mathsdream/THU-math-source",
+  "sourceBranch": "线性代数/线性代数（理科类）",
+  "obtainedFrom": "公开文件页面实际Raw按钮，18来源文件均与2026-10-18缓存树逐字节数和Git blob SHA1匹配",
+  "classificationBoundary": "本组是普通线性代数（理科类）的相关课程参考，与高等线性代数主课分组保存。2018整件包含题目及参考答案，其余为各自原件题目，不补配未取得的答案。",
+  "files": [
+    {
+      "sourceName": "2018-线代理科类-期中.pdf",
+      "sourceRepositoryPath": "线性代数/线性代数（理科类）/往年考题/2018-线代理科类-期中.pdf",
+      "sourceURL": "https://github.com/mathsdream/THU-math-source/blob/main/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%88%E7%90%86%E7%A7%91%E7%B1%BB%EF%BC%89/%E5%BE%80%E5%B9%B4%E8%80%83%E9%A2%98/2018-%E7%BA%BF%E4%BB%A3%E7%90%86%E7%A7%91%E7%B1%BB-%E6%9C%9F%E4%B8%AD.pdf",
+      "bytes": 146964,
+      "sha256": "2edffd20e9f25eb82774044c6939a94f958a7e5b818d3f141bfee0912b002d67",
+      "gitBlobSHA1": "eb21d55e30cd08390ba4e82e21b6a40ec5c30c4a",
+      "pages": 5,
+      "role": "期中题卷与参考解答合件",
+      "evidenceDescription": "卷头2018-11-10，线性代数（理科类）；前2页题目，后3页参考答案，整件保留。",
+      "teacherIdentity": "仅按正文署名或来源文件名分开记录，不推认任课教师",
+      "mathematicalCorrectnessReviewed": false
+    },
+    {
+      "sourceName": "2023-线代（理科类）-期末.pdf",
+      "sourceRepositoryPath": "线性代数/线性代数（理科类）/往年考题/2023-线代（理科类）-期末.pdf",
+      "sourceURL": "https://github.com/mathsdream/THU-math-source/blob/main/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%88%E7%90%86%E7%A7%91%E7%B1%BB%EF%BC%89/%E5%BE%80%E5%B9%B4%E8%80%83%E9%A2%98/2023-%E7%BA%BF%E4%BB%A3%EF%BC%88%E7%90%86%E7%A7%91%E7%B1%BB%EF%BC%89-%E6%9C%9F%E6%9C%AB.pdf",
+      "bytes": 65324,
+      "sha256": "f389dfc0e7678a43e1fa514fcdb3422c1b963d3d19df9130474b06beef3e33d1",
+      "gitBlobSHA1": "87caec12ae213e1e4776be9c4598951e71595acf",
+      "pages": 2,
+      "role": "期末题卷",
+      "evidenceDescription": "卷头2023秋线性代数（理科类）；考试日期2024年1月13日。",
+      "teacherIdentity": "仅按正文署名或来源文件名分开记录，不推认任课教师",
+      "mathematicalCorrectnessReviewed": false
+    },
+    {
+      "sourceName": "2024-线代（理科类）-期中.pdf",
+      "sourceRepositoryPath": "线性代数/线性代数（理科类）/往年考题/2024-线代（理科类）-期中.pdf",
+      "sourceURL": "https://github.com/mathsdream/THU-math-source/blob/main/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%88%E7%90%86%E7%A7%91%E7%B1%BB%EF%BC%89/%E5%BE%80%E5%B9%B4%E8%80%83%E9%A2%98/2024-%E7%BA%BF%E4%BB%A3%EF%BC%88%E7%90%86%E7%A7%91%E7%B1%BB%EF%BC%89-%E6%9C%9F%E4%B8%AD.pdf",
+      "bytes": 109075,
+      "sha256": "79357487a3d476f32b868f4460041c49255e35138b49a10ef2db5069c77cd674",
+      "gitBlobSHA1": "58c21e2fd170c0e4bb1d4221bebb96c93cb27b3f",
+      "pages": 1,
+      "role": "期中题目单页",
+      "evidenceDescription": "题名线性代数-期中考试（2024年），9题；原印页码8，文件仅1页，不将印页码当本件缺7页证据。",
+      "teacherIdentity": "仅按正文署名或来源文件名分开记录，不推认任课教师",
+      "mathematicalCorrectnessReviewed": false
+    },
+    {
+      "sourceName": "2024-线代（理科类）-期末.pdf",
+      "sourceRepositoryPath": "线性代数/线性代数（理科类）/往年考题/2024-线代（理科类）-期末.pdf",
+      "sourceURL": "https://github.com/mathsdream/THU-math-source/blob/main/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%EF%BC%88%E7%90%86%E7%A7%91%E7%B1%BB%EF%BC%89/%E5%BE%80%E5%B9%B4%E8%80%83%E9%A2%98/2024-%E7%BA%BF%E4%BB%A3%EF%BC%88%E7%90%86%E7%A7%91%E7%B1%BB%EF%BC%89-%E6%9C%9F%E6%9C%AB.pdf",
+      "bytes": 113030,
+      "sha256": "daec6919ab1f9e2307fd5a0dd8dfefd89afd8c1bc3d0e24c986c7eb6c91d60c8",
+      "gitBlobSHA1": "c11e4538961475c1bd812a34bb9dd6454fe3ce35",
+      "pages": 1,
+      "role": "期末题目单页",
+      "evidenceDescription": "题名线性代数（2024秋）-期末考试，10题；原印页码16，保留现有1页原件。",
+      "teacherIdentity": "仅按正文署名或来源文件名分开记录，不推认任课教师",
+      "mathematicalCorrectnessReviewed": false
+    }
+  ],
+  "originalBytesPreserved": true,
+  "cloudUploadStatus": "本文件为待上传来源说明；当前生成阶段未上传云盘",
+  "verificationBoundary": "本批PDF均完整渲染并目视其93物理页，按资料角色保存；未对题解数学正确性、教师身份或全部课程覆盖作认证。"
+}

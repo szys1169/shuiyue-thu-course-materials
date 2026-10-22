@@ -1,0 +1,39 @@
+{
+  "title": "复变函数与数理方程：公开来源题目参考",
+  "date": "2026-10-23",
+  "repository": "https://github.com/mathsdream/THU-math-source",
+  "sourceBranch": "复变函数/复变函数与数理方程",
+  "obtainedFrom": "公开文件页面实际Raw按钮，18来源文件均与2026-10-18缓存树逐字节数和Git blob SHA1匹配",
+  "classificationBoundary": "本组保存两份mathsdream公开来源试题，作为复分析的相关课程参考。其课程名称与本课主讲体系分别识别；一份为空白题卷，一份为明确含记忆缺口的回忆版。",
+  "files": [
+    {
+      "sourceName": "2022秋-复变函数与数理方程（吴昊）-期末.pdf",
+      "sourceRepositoryPath": "复变函数/复变函数与数理方程/往年考题/2022秋-复变函数与数理方程（吴昊）-期末.pdf",
+      "sourceURL": "https://github.com/mathsdream/THU-math-source/blob/main/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/%E5%BE%80%E5%B9%B4%E8%80%83%E9%A2%98/2022%E7%A7%8B-%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B%EF%BC%88%E5%90%B4%E6%98%8A%EF%BC%89-%E6%9C%9F%E6%9C%AB.pdf",
+      "bytes": 424002,
+      "sha256": "9f49b23ee303d0e9e03118387ed575aac6acffefafb70daf8d62fc2147704f60",
+      "gitBlobSHA1": "14984a35d5f85f71a25b9db5784168feb064319f",
+      "pages": 3,
+      "role": "期末题卷",
+      "evidenceDescription": "卷头：复变函数与数学物理方程；A/B卷、1月2日，未注明年份。2022秋及吴昊仅沿来源文件名标记。",
+      "teacherIdentity": "仅按正文署名或来源文件名分开记录，不推认任课教师",
+      "mathematicalCorrectnessReviewed": false
+    },
+    {
+      "sourceName": "2024秋-复变函数与数理方程（陈酌）-期末.pdf",
+      "sourceRepositoryPath": "复变函数/复变函数与数理方程/往年考题/2024秋-复变函数与数理方程（陈酌）-期末.pdf",
+      "sourceURL": "https://github.com/mathsdream/THU-math-source/blob/main/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0/%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B/%E5%BE%80%E5%B9%B4%E8%80%83%E9%A2%98/2024%E7%A7%8B-%E5%A4%8D%E5%8F%98%E5%87%BD%E6%95%B0%E4%B8%8E%E6%95%B0%E7%90%86%E6%96%B9%E7%A8%8B%EF%BC%88%E9%99%88%E9%85%8C%EF%BC%89-%E6%9C%9F%E6%9C%AB.pdf",
+      "bytes": 60163,
+      "sha256": "9b9256e64e79e8f6ee74da08bc9ea28a9b18f63c1ef07f610a5c045e68d95c85",
+      "gitBlobSHA1": "e38b808fe9a66ff45974327fe4fe1cdf691d55f6",
+      "pages": 2,
+      "role": "期末回忆版",
+      "evidenceDescription": "题名明确回忆版，卷面2025年1月10日；部分条件含疑问及第9题遗忘说明。2024秋及陈酌为来源文件名标记，不能称完整原卷。",
+      "teacherIdentity": "仅按正文署名或来源文件名分开记录，不推认任课教师",
+      "mathematicalCorrectnessReviewed": false
+    }
+  ],
+  "originalBytesPreserved": true,
+  "cloudUploadStatus": "本文件为待上传来源说明；当前生成阶段未上传云盘",
+  "verificationBoundary": "本批PDF均完整渲染并目视其93物理页，按资料角色保存；未对题解数学正确性、教师身份或全部课程覆盖作认证。"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "微积分C(2)：公开来源题卷",
+  "date": "2026-10-23",
+  "repository": "https://github.com/mathsdream/THU-math-source",
+  "sourceBranch": "微积分/微积分C",
+  "obtainedFrom": "公开文件页面实际Raw按钮，18来源文件均与2026-10-18缓存树逐字节数和Git blob SHA1匹配",
+  "classificationBoundary": "本组保存微积分C(2)的A卷题目，供对应课程复习参考。原文件名和卷头日期分别记录；不将它当作数学分析主课材料。",
+  "files": [
+    {
+      "sourceName": "2021-VC2-期末.pdf",
+      "sourceRepositoryPath": "微积分/微积分C/往年考题/2021-VC2-期末.pdf",
+      "sourceURL": "https://github.com/mathsdream/THU-math-source/blob/main/%E5%BE%AE%E7%A7%AF%E5%88%86/%E5%BE%AE%E7%A7%AF%E5%88%86C/%E5%BE%80%E5%B9%B4%E8%80%83%E9%A2%98/2021-VC2-%E6%9C%9F%E6%9C%AB.pdf",
+      "bytes": 708831,
+      "sha256": "868683e9423b37545026177b04bf2de6b2a8a88f5ed3f35ed73a9885171ed5e6",
+      "gitBlobSHA1": "df0950d8f3e1ebec32d7e6f090aa67a6fabdc9d9",
+      "pages": 2,
+      "role": "微积分C(2) A卷题目",
+      "evidenceDescription": "卷头日期原写22年6月14日；来源文件名为2021-VC2-期末，分开保留，不以文件名改写卷面日期。",
+      "teacherIdentity": "仅按正文署名或来源文件名分开记录，不推认任课教师",
+      "mathematicalCorrectnessReviewed": false
+    }
+  ],
+  "originalBytesPreserved": true,
+  "cloudUploadStatus": "本文件为待上传来源说明；当前生成阶段未上传云盘",
+  "verificationBoundary": "本批PDF均完整渲染并目视其93物理页，按资料角色保存；未对题解数学正确性、教师身份或全部课程覆盖作认证。"
+}
