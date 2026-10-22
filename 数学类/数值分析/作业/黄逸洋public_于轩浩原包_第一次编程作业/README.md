@@ -1,0 +1,24 @@
+# 黄逸洋public数值分析相关资料：作业
+
+来源：[共享课程实际目录](https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/)，对应[已归档云盘分组](https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90/%E4%BD%9C%E4%B8%9A/%E9%BB%84%E9%80%B8%E6%B4%8Bpublic_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E5%8E%9F%E5%8C%85_%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%BC%96%E7%A8%8B%E4%BD%9C%E4%B8%9A)。原名的人名、年份和课程标签按来源保留，不据此独立认证作者、教师、学期或当前官方性。
+
+原习题、参考报告、MATLAB代码和配图/数据保原目录。AI生成题目与题解仅讨论参考；未运行程序或认证答案正确。
+
+本组6条原路径、6个独立SHA；已在仓库同SHA存在的资料直接复用，同字节来源别名仅记关系。
+
+|来源相对路径|仓库资料或状态|
+|---|---|
+|数值分析第一次编程作业.pdf|[原字节](%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%BC%96%E7%A8%8B%E4%BD%9C%E4%B8%9A.pdf)|
+|HW1.m|[原字节](HW1.m)|
+|wilkinson_roots_combined.png|[原字节](wilkinson_roots_combined.png)|
+|wilkinson_roots_eps_1e-03.png|[原字节](wilkinson_roots_eps_1e-03.png)|
+|wilkinson_roots_eps_1e-06.png|[原字节](wilkinson_roots_eps_1e-06.png)|
+|wilkinson_roots_eps_1e-10.png|[原字节](wilkinson_roots_eps_1e-10.png)|
+
+[逐件来源、SHA及同步状态](来源与SHA_20261023.json)。
+
+本轮正常UI回取已归档73散件中的6组59件，运输ZIP完整fileset/CRC及本地SHA通过；另80原包展开件在本地逐SHA及原ZIP对应member CRC/字节复核。编号6来源组的14件因下载尚未完成另记待办，不称153件全部Git完成。原20canonical说明保持。共享源路径来自此前实际UI清单，不声称本轮再次下载每个共享源原件。
+
+139路径静态筛查：64PDF共2352文件页、30必要角色样页目视，非全页人工审读；40原图完整缩略查看，押题题纸另全幅查看。9DOCX、5XLSX、1GGB仅ZIP/XML/属性/关系静态核对；17.m和3TXT作文本数据，不执行任何程序、公式、宏或对象。讲师公开教学邮箱保留，数学小数/软件日期不误作个人编号。两DOCX公开副本仅删除cp:lastModifiedBy，所有其它ZIP成员原字节和其它core属性一致；原件不改。
+
+原题目、解答、公式、圈记、页序与留白保持；同SHA不同文件名不推断版本先后。原ZIP、访问字段值和审阅过程不发布。

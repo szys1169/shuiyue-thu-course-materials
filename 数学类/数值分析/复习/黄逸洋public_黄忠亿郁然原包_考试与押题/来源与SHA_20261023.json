@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-23",
+  "source": "黄逸洋public / 数值分析",
+  "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/",
+  "cloudDirectoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90/%E5%A4%8D%E4%B9%A0/%E9%BB%84%E9%80%B8%E6%B4%8Bpublic_%E9%BB%84%E5%BF%A0%E4%BA%BF%E9%83%81%E7%84%B6%E5%8E%9F%E5%8C%85_%E8%80%83%E8%AF%95%E4%B8%8E%E6%8A%BC%E9%A2%98",
+  "role": "历史相关课程复习笔记及建议；主观学习建议不作当前教学或考试范围承诺。",
+  "sourcePaths": 2,
+  "sourceUniqueSHA256": 2,
+  "files": [
+    {
+      "group": 12,
+      "sourceRelativePath": "final2023_0108.pdf",
+      "bytes": 211576,
+      "sha256": "578c656be4e7eb5be17e82fa9a2a3dca6ba862551d7559f0e309fc879942fa2c",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90/%E5%A4%8D%E4%B9%A0/%E9%BB%84%E9%80%B8%E6%B4%8Bpublic_%E9%BB%84%E5%BF%A0%E4%BA%BF%E9%83%81%E7%84%B6%E5%8E%9F%E5%8C%85_%E8%80%83%E8%AF%95%E4%B8%8E%E6%8A%BC%E9%A2%98",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.5_%E8%AE%A1%E7%AE%97%E7%B1%BB_%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90&mode=list",
+      "sourcePathInSharedCourse": "╩²╓╡╖╓╬÷/final2023_0108.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/数值分析/复习/黄逸洋public_黄忠亿郁然原包_考试与押题/final2023_0108.pdf",
+      "sourceArchive": "数值分析 黄忠亿-郁然.zip",
+      "archiveMember": "╩²╓╡╖╓╬÷/final2023_0108.pdf"
+    },
+    {
+      "group": 12,
+      "sourceRelativePath": "期末押题.jpg",
+      "bytes": 458383,
+      "sha256": "fb6384d639ae2259f6b4f5401b1a5e97efc574a69e3808ed08e9f757a2223770",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90/%E5%A4%8D%E4%B9%A0/%E9%BB%84%E9%80%B8%E6%B4%8Bpublic_%E9%BB%84%E5%BF%A0%E4%BA%BF%E9%83%81%E7%84%B6%E5%8E%9F%E5%8C%85_%E8%80%83%E8%AF%95%E4%B8%8E%E6%8A%BC%E9%A2%98",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.5_%E8%AE%A1%E7%AE%97%E7%B1%BB_%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90&mode=list",
+      "sourcePathInSharedCourse": "╩²╓╡╖╓╬÷/╞┌─⌐╤║╠Γ.jpg",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/数值分析/复习/黄逸洋public_黄忠亿郁然原包_考试与押题/期末押题.jpg",
+      "sourceArchive": "数值分析 黄忠亿-郁然.zip",
+      "archiveMember": "╩²╓╡╖╓╬÷/╞┌─⌐╤║╠Γ.jpg"
+    }
+  ],
+  "syncCounts": {
+    "published_original_bytes": 2
+  },
+  "verification": "本轮正常UI回取已归档73散件中的6组59件，运输ZIP完整fileset/CRC及本地SHA通过；另80原包展开件在本地逐SHA及原ZIP对应member CRC/字节复核。编号6来源组的14件因下载尚未完成另记待办，不称153件全部Git完成。原20canonical说明保持。共享源路径来自此前实际UI清单，不声称本轮再次下载每个共享源原件。",
+  "reviewBoundary": "139路径静态筛查：64PDF共2352文件页、30必要角色样页目视，非全页人工审读；40原图完整缩略查看，押题题纸另全幅查看。9DOCX、5XLSX、1GGB仅ZIP/XML/属性/关系静态核对；17.m和3TXT作文本数据，不执行任何程序、公式、宏或对象。讲师公开教学邮箱保留，数学小数/软件日期不误作个人编号。两DOCX公开副本仅删除cp:lastModifiedBy，所有其它ZIP成员原字节和其它core属性一致；原件不改。",
+  "rawArchivesPublished": false
+}

@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-23",
+  "source": "黄逸洋public / 数值分析",
+  "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/",
+  "cloudDirectoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90/%E6%95%99%E6%9D%90/%E9%BB%84%E9%80%B8%E6%B4%8Bpublic_%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80%E7%AC%AC%E4%B8%89%E7%89%88",
+  "role": "来源教材保原字节，不认当前指定教材或全本完整性已审。",
+  "sourcePaths": 1,
+  "sourceUniqueSHA256": 1,
+  "files": [
+    {
+      "group": 3,
+      "sourceRelativePath": "数值分析基础（第三版） (关治、陆金甫).pdf",
+      "bytes": 43765435,
+      "sha256": "8358ad698021ac82c6b81cbd99fa270167195ff2977e2a2b87e05fff93b83a9d",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90/%E6%95%99%E6%9D%90/%E9%BB%84%E9%80%B8%E6%B4%8Bpublic_%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80%E7%AC%AC%E4%B8%89%E7%89%88",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.5_%E8%AE%A1%E7%AE%97%E7%B1%BB_%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90%2F%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80%EF%BC%88%E7%AC%AC%E4%B8%89%E7%89%88%EF%BC%89%20(%E5%85%B3%E6%B2%BB%E3%80%81%E9%99%86%E9%87%91%E7%94%AB).pdf",
+      "sourcePathInSharedCourse": "/2.5_计算类_数值分析/数值分析-于轩浩/数值分析基础（第三版） (关治、陆金甫).pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/数值分析/教材/黄逸洋public_数值分析基础第三版/数值分析基础（第三版） (关治、陆金甫).pdf"
+    }
+  ],
+  "syncCounts": {
+    "published_original_bytes": 1
+  },
+  "verification": "本轮正常UI回取已归档73散件中的6组59件，运输ZIP完整fileset/CRC及本地SHA通过；另80原包展开件在本地逐SHA及原ZIP对应member CRC/字节复核。编号6来源组的14件因下载尚未完成另记待办，不称153件全部Git完成。原20canonical说明保持。共享源路径来自此前实际UI清单，不声称本轮再次下载每个共享源原件。",
+  "reviewBoundary": "139路径静态筛查：64PDF共2352文件页、30必要角色样页目视，非全页人工审读；40原图完整缩略查看，押题题纸另全幅查看。9DOCX、5XLSX、1GGB仅ZIP/XML/属性/关系静态核对；17.m和3TXT作文本数据，不执行任何程序、公式、宏或对象。讲师公开教学邮箱保留，数学小数/软件日期不误作个人编号。两DOCX公开副本仅删除cp:lastModifiedBy，所有其它ZIP成员原字节和其它core属性一致；原件不改。",
+  "rawArchivesPublished": false
+}

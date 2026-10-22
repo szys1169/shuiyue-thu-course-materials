@@ -1,0 +1,95 @@
+{
+  "date": "2026-10-23",
+  "source": "黄逸洋public / 数值分析",
+  "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/",
+  "cloudDirectoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90/%E4%BD%9C%E4%B8%9A/%E9%BB%84%E9%80%B8%E6%B4%8Bpublic_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E5%8E%9F%E5%8C%85_%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%BC%96%E7%A8%8B%E4%BD%9C%E4%B8%9A",
+  "role": "原习题、参考报告、MATLAB代码和配图/数据保原目录。AI生成题目与题解仅讨论参考；未运行程序或认证答案正确。",
+  "sourcePaths": 6,
+  "sourceUniqueSHA256": 6,
+  "files": [
+    {
+      "group": 11,
+      "sourceRelativePath": "数值分析第一次编程作业.pdf",
+      "bytes": 329280,
+      "sha256": "67b1986fde5ebc7989c856fd4406b70331d7098ad9067d15a98a15f727f2f724",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90/%E4%BD%9C%E4%B8%9A/%E9%BB%84%E9%80%B8%E6%B4%8Bpublic_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E5%8E%9F%E5%8C%85_%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%BC%96%E7%A8%8B%E4%BD%9C%E4%B8%9A",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.5_%E8%AE%A1%E7%AE%97%E7%B1%BB_%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90%2F%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E7%BC%96%E7%A8%8B%E4%BD%9C%E4%B8%9A&mode=list",
+      "sourcePathInSharedCourse": "数值分析第一次编程作业.pdf",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/数值分析/作业/黄逸洋public_于轩浩原包_第一次编程作业/数值分析第一次编程作业.pdf",
+      "sourceArchive": "数值分析第一次编程作业.zip",
+      "archiveMember": "数值分析第一次编程作业.pdf"
+    },
+    {
+      "group": 11,
+      "sourceRelativePath": "HW1.m",
+      "bytes": 3352,
+      "sha256": "fe90cf546779949e147c618baea8fb7c3c3437b7b70f855da10f95f51d5bc96b",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90/%E4%BD%9C%E4%B8%9A/%E9%BB%84%E9%80%B8%E6%B4%8Bpublic_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E5%8E%9F%E5%8C%85_%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%BC%96%E7%A8%8B%E4%BD%9C%E4%B8%9A",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.5_%E8%AE%A1%E7%AE%97%E7%B1%BB_%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90%2F%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E7%BC%96%E7%A8%8B%E4%BD%9C%E4%B8%9A&mode=list",
+      "sourcePathInSharedCourse": "HW1.m",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/数值分析/作业/黄逸洋public_于轩浩原包_第一次编程作业/HW1.m",
+      "sourceArchive": "数值分析第一次编程作业.zip",
+      "archiveMember": "HW1.m"
+    },
+    {
+      "group": 11,
+      "sourceRelativePath": "wilkinson_roots_combined.png",
+      "bytes": 86198,
+      "sha256": "e6eee030ff216369f433af208aa0ce1f409305eb3d051f537e5cb10fcf8077e8",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90/%E4%BD%9C%E4%B8%9A/%E9%BB%84%E9%80%B8%E6%B4%8Bpublic_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E5%8E%9F%E5%8C%85_%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%BC%96%E7%A8%8B%E4%BD%9C%E4%B8%9A",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.5_%E8%AE%A1%E7%AE%97%E7%B1%BB_%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90%2F%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E7%BC%96%E7%A8%8B%E4%BD%9C%E4%B8%9A&mode=list",
+      "sourcePathInSharedCourse": "wilkinson_roots_combined.png",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/数值分析/作业/黄逸洋public_于轩浩原包_第一次编程作业/wilkinson_roots_combined.png",
+      "sourceArchive": "数值分析第一次编程作业.zip",
+      "archiveMember": "wilkinson_roots_combined.png"
+    },
+    {
+      "group": 11,
+      "sourceRelativePath": "wilkinson_roots_eps_1e-03.png",
+      "bytes": 39395,
+      "sha256": "2949122abfd8f151fa4b450ac04413a0d7115b7451961fceaf5e0659bf2edd8d",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90/%E4%BD%9C%E4%B8%9A/%E9%BB%84%E9%80%B8%E6%B4%8Bpublic_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E5%8E%9F%E5%8C%85_%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%BC%96%E7%A8%8B%E4%BD%9C%E4%B8%9A",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.5_%E8%AE%A1%E7%AE%97%E7%B1%BB_%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90%2F%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E7%BC%96%E7%A8%8B%E4%BD%9C%E4%B8%9A&mode=list",
+      "sourcePathInSharedCourse": "wilkinson_roots_eps_1e-03.png",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/数值分析/作业/黄逸洋public_于轩浩原包_第一次编程作业/wilkinson_roots_eps_1e-03.png",
+      "sourceArchive": "数值分析第一次编程作业.zip",
+      "archiveMember": "wilkinson_roots_eps_1e-03.png"
+    },
+    {
+      "group": 11,
+      "sourceRelativePath": "wilkinson_roots_eps_1e-06.png",
+      "bytes": 35960,
+      "sha256": "0ea46ad0cc3538d25a547d0488c82be054fccda75e639df64517bed0ab88692e",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90/%E4%BD%9C%E4%B8%9A/%E9%BB%84%E9%80%B8%E6%B4%8Bpublic_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E5%8E%9F%E5%8C%85_%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%BC%96%E7%A8%8B%E4%BD%9C%E4%B8%9A",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.5_%E8%AE%A1%E7%AE%97%E7%B1%BB_%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90%2F%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E7%BC%96%E7%A8%8B%E4%BD%9C%E4%B8%9A&mode=list",
+      "sourcePathInSharedCourse": "wilkinson_roots_eps_1e-06.png",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/数值分析/作业/黄逸洋public_于轩浩原包_第一次编程作业/wilkinson_roots_eps_1e-06.png",
+      "sourceArchive": "数值分析第一次编程作业.zip",
+      "archiveMember": "wilkinson_roots_eps_1e-06.png"
+    },
+    {
+      "group": 11,
+      "sourceRelativePath": "wilkinson_roots_eps_1e-10.png",
+      "bytes": 39035,
+      "sha256": "085038b55616365180ec1ebe8462853c215a07f4ba8e16b3a37e1ee11db44cad",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90/%E4%BD%9C%E4%B8%9A/%E9%BB%84%E9%80%B8%E6%B4%8Bpublic_%E4%BA%8E%E8%BD%A9%E6%B5%A9%E5%8E%9F%E5%8C%85_%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%BC%96%E7%A8%8B%E4%BD%9C%E4%B8%9A",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.5_%E8%AE%A1%E7%AE%97%E7%B1%BB_%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90%2F%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E7%BC%96%E7%A8%8B%E4%BD%9C%E4%B8%9A&mode=list",
+      "sourcePathInSharedCourse": "wilkinson_roots_eps_1e-10.png",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/数值分析/作业/黄逸洋public_于轩浩原包_第一次编程作业/wilkinson_roots_eps_1e-10.png",
+      "sourceArchive": "数值分析第一次编程作业.zip",
+      "archiveMember": "wilkinson_roots_eps_1e-10.png"
+    }
+  ],
+  "syncCounts": {
+    "published_original_bytes": 6
+  },
+  "verification": "本轮正常UI回取已归档73散件中的6组59件，运输ZIP完整fileset/CRC及本地SHA通过；另80原包展开件在本地逐SHA及原ZIP对应member CRC/字节复核。编号6来源组的14件因下载尚未完成另记待办，不称153件全部Git完成。原20canonical说明保持。共享源路径来自此前实际UI清单，不声称本轮再次下载每个共享源原件。",
+  "reviewBoundary": "139路径静态筛查：64PDF共2352文件页、30必要角色样页目视，非全页人工审读；40原图完整缩略查看，押题题纸另全幅查看。9DOCX、5XLSX、1GGB仅ZIP/XML/属性/关系静态核对；17.m和3TXT作文本数据，不执行任何程序、公式、宏或对象。讲师公开教学邮箱保留，数学小数/软件日期不误作个人编号。两DOCX公开副本仅删除cp:lastModifiedBy，所有其它ZIP成员原字节和其它core属性一致；原件不改。",
+  "rawArchivesPublished": false
+}

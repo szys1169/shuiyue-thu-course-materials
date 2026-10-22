@@ -1,0 +1,7 @@
+for j=2:10000
+y(j,1)=y(j-1,1)-(fai(y(j-1,1))-y(j-1,1))^2/(fai(fai(y(j-1,1)))-2*fai(y(j-1,1))+y(j-1,1))
+end
+
+for j = 2:100
+x(j,1)=newton(x(j-1,1))
+end

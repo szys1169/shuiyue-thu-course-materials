@@ -1,0 +1,55 @@
+{
+  "date": "2026-10-23",
+  "source": "黄逸洋public / 数值分析",
+  "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/",
+  "cloudDirectoryURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90/%E9%BB%84%E9%80%B8%E6%B4%8Bpublic_%E6%9D%A5%E6%BA%90%E8%AF%B4%E6%98%8E%E4%B8%8E%E8%A1%A5%E5%85%85%E9%A2%98",
+  "role": "来源说明、普通共享入口与补充题，引用目标未自动跟随或执行。",
+  "sourcePaths": 3,
+  "sourceUniqueSHA256": 3,
+  "files": [
+    {
+      "group": 7,
+      "sourceRelativePath": "数值分析补充题.png",
+      "bytes": 188322,
+      "sha256": "787ad3f09f7549f6cb1817019a7cb222fbdc540e6f0f68ebb6ba3e22df629e64",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90/%E9%BB%84%E9%80%B8%E6%B4%8Bpublic_%E6%9D%A5%E6%BA%90%E8%AF%B4%E6%98%8E%E4%B8%8E%E8%A1%A5%E5%85%85%E9%A2%98",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.5_%E8%AE%A1%E7%AE%97%E7%B1%BB_%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90%2F%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90%E8%A1%A5%E5%85%85%E9%A2%98.png",
+      "sourcePathInSharedCourse": "/2.5_计算类_数值分析/数值分析-于轩浩/数值分析补充题.png",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/数值分析/黄逸洋public_来源说明与补充题/数值分析补充题.png"
+    },
+    {
+      "group": 7,
+      "sourceRelativePath": "重要提示.docx",
+      "bytes": 10545,
+      "sha256": "6e8d1992f491825ee9da09a79ab8eae1dc94c1dd19f494492242f37018e885f6",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90/%E9%BB%84%E9%80%B8%E6%B4%8Bpublic_%E6%9D%A5%E6%BA%90%E8%AF%B4%E6%98%8E%E4%B8%8E%E8%A1%A5%E5%85%85%E9%A2%98",
+      "gitSyncStatus": "published_metadata_removed_copy",
+      "gitRepoPath": "数学类/数值分析/黄逸洋public_来源说明与补充题/重要提示_移除个人元数据的公开副本.docx",
+      "publicCopyBytes": 9787,
+      "publicCopySHA256": "dc508f5d6defcad45d7d3d71d0edd93c4119ddb78654ed74838ce021d9528c30",
+      "removedFieldNames": [
+        "docProps/core.xml / cp:lastModifiedBy"
+      ],
+      "bodyZIPMembersUnchanged": true
+    },
+    {
+      "group": 7,
+      "sourceRelativePath": "资料网盘链接.txt",
+      "bytes": 53,
+      "sha256": "6a43863c0b8d3acefb8b2c2fc0411bcf4b61e08e9aa337fc380bcc2fe108fcbe",
+      "cloudGroupURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90/%E9%BB%84%E9%80%B8%E6%B4%8Bpublic_%E6%9D%A5%E6%BA%90%E8%AF%B4%E6%98%8E%E4%B8%8E%E8%A1%A5%E5%85%85%E9%A2%98",
+      "sourcePreviewURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.5_%E8%AE%A1%E7%AE%97%E7%B1%BB_%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90%2F%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90-%E4%BA%8E%E8%BD%A9%E6%B5%A9%2F%E8%B5%84%E6%96%99%E7%BD%91%E7%9B%98%E9%93%BE%E6%8E%A5.txt",
+      "sourcePathInSharedCourse": "/2.5_计算类_数值分析/数值分析-于轩浩/资料网盘链接.txt",
+      "gitSyncStatus": "published_original_bytes",
+      "gitRepoPath": "数学类/数值分析/黄逸洋public_来源说明与补充题/资料网盘链接.txt"
+    }
+  ],
+  "syncCounts": {
+    "published_original_bytes": 2,
+    "published_metadata_removed_copy": 1
+  },
+  "verification": "本轮正常UI回取已归档73散件中的6组59件，运输ZIP完整fileset/CRC及本地SHA通过；另80原包展开件在本地逐SHA及原ZIP对应member CRC/字节复核。编号6来源组的14件因下载尚未完成另记待办，不称153件全部Git完成。原20canonical说明保持。共享源路径来自此前实际UI清单，不声称本轮再次下载每个共享源原件。",
+  "reviewBoundary": "139路径静态筛查：64PDF共2352文件页、30必要角色样页目视，非全页人工审读；40原图完整缩略查看，押题题纸另全幅查看。9DOCX、5XLSX、1GGB仅ZIP/XML/属性/关系静态核对；17.m和3TXT作文本数据，不执行任何程序、公式、宏或对象。讲师公开教学邮箱保留，数学小数/软件日期不误作个人编号。两DOCX公开副本仅删除cp:lastModifiedBy，所有其它ZIP成员原字节和其它core属性一致；原件不改。",
+  "rawArchivesPublished": false
+}
