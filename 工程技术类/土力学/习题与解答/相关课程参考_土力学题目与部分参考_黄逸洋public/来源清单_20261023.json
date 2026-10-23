@@ -1,0 +1,858 @@
+{
+  "sourceLabel": "黄逸洋public / 土力学_马逸",
+  "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E7%AC%AC8%E7%AB%A0%20%E5%9C%B0%E5%9F%BA%E6%89%BF%E8%BD%BD%E5%8A%9B.pdf",
+  "role": "课后题及部分排印参考、习题拓展。74张图片按第1–5章和原题号保存，部分题跨图，不拆散相对顺序；不同来源PDF另存，未核解答正确性或完整性。",
+  "items": [
+    {
+      "sourceAlias": "S0010",
+      "sourcePath": "土力学_马逸/土力学-习题拓展3-2020.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6-%E4%B9%A0%E9%A2%98%E6%8B%93%E5%B1%953-2020.pdf",
+      "originalName": "土力学-习题拓展3-2020.pdf",
+      "bytes": 577417,
+      "sha256": "0ba67288246f635c0b39f212349055d1a2f334291acc0827f7721288609018ed",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/题目与参考原件/土力学-习题拓展3-2020.pdf",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0011",
+      "sourcePath": "土力学_马逸/土力学-习题拓展1-2020.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6-%E4%B9%A0%E9%A2%98%E6%8B%93%E5%B1%951-2020.pdf",
+      "originalName": "土力学-习题拓展1-2020.pdf",
+      "bytes": 408752,
+      "sha256": "7ad0913a9dee90f3e5d25d9c420474ff7e15ab258ea7f724afe5e247b04c728c",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/题目与参考原件/土力学-习题拓展1-2020.pdf",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0012",
+      "sourcePath": "土力学_马逸/5.往届资料/土力学 第二版 课后答案.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%20%E7%AC%AC%E4%BA%8C%E7%89%88%20%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88.pdf",
+      "originalName": "土力学 第二版 课后答案.pdf",
+      "bytes": 307477,
+      "sha256": "5e9466b87e12da9bf74b50d3cc917cc7d75e8920d1f21aedf377ae5502a30598",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/题目与参考原件/土力学 第二版 课后答案.pdf",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0019",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第5章/5-9.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC5%E7%AB%A0%2F5-9.jpg",
+      "originalName": "5-9.jpg",
+      "bytes": 72010,
+      "sha256": "6b86add03f8cbfe29621396c7520873917db4df6b170dc30e0d67109967d023c",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第5章/5-9.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0020",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第5章/5-8-2.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC5%E7%AB%A0%2F5-8-2.jpg",
+      "originalName": "5-8-2.jpg",
+      "bytes": 14406,
+      "sha256": "66dfae6413fbc9cf3177471ba4b18fa46f57d9eceffc4bd6c1e6503406222b30",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第5章/5-8-2.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0021",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第5章/5-8-1.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC5%E7%AB%A0%2F5-8-1.jpg",
+      "originalName": "5-8-1.jpg",
+      "bytes": 61771,
+      "sha256": "42e670534bfd7eb71873a81919b6188b33b98e8dc9ef8cd80fa7b79798e08a81",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第5章/5-8-1.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0022",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第5章/5-7.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC5%E7%AB%A0%2F5-7.jpg",
+      "originalName": "5-7.jpg",
+      "bytes": 36217,
+      "sha256": "3d96b420ad1538349d74a1c2fe9098d35c4cdcd6c6f74b5889c9202a7eb4beb5",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第5章/5-7.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0023",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第5章/5-6.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC5%E7%AB%A0%2F5-6.jpg",
+      "originalName": "5-6.jpg",
+      "bytes": 49845,
+      "sha256": "206a7db0093f9189e08d7f17c77336c5e8c6e2e4e9a2036a75951229f7b5ff77",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第5章/5-6.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0024",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第5章/5-5-2.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC5%E7%AB%A0%2F5-5-2.jpg",
+      "originalName": "5-5-2.jpg",
+      "bytes": 35806,
+      "sha256": "f6499db00c99ddd55e843d795b8f24994179cd76bfb4ce1838ce1eb86a996713",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第5章/5-5-2.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0025",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第5章/5-5-1.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC5%E7%AB%A0%2F5-5-1.jpg",
+      "originalName": "5-5-1.jpg",
+      "bytes": 52503,
+      "sha256": "11bea487c79c00208d476b9e527ac103957957269ec1e226793ff7774996250f",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第5章/5-5-1.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0026",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第5章/5-4-3.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC5%E7%AB%A0%2F5-4-3.jpg",
+      "originalName": "5-4-3.jpg",
+      "bytes": 8667,
+      "sha256": "eb1db90bc02f4f226cb631ddc9f8276ad989dfd2e3f65027cb4d5f4cd40c0184",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第5章/5-4-3.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0027",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第5章/5-4-2.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC5%E7%AB%A0%2F5-4-2.jpg",
+      "originalName": "5-4-2.jpg",
+      "bytes": 29518,
+      "sha256": "1f76838333ee6aaee551fb8a14a07534132bdd0df2cfff55adfa48b80d959519",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第5章/5-4-2.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0028",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第5章/5-4-1.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC5%E7%AB%A0%2F5-4-1.jpg",
+      "originalName": "5-4-1.jpg",
+      "bytes": 46846,
+      "sha256": "c94699a237b6752603a5f6f022e612060635c4356a61f6c12671399d94db2bc1",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第5章/5-4-1.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0029",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第5章/5-3.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC5%E7%AB%A0%2F5-3.jpg",
+      "originalName": "5-3.jpg",
+      "bytes": 63730,
+      "sha256": "bc82539485fb1e42f5db66e528321c9a821e8086a09193be7ade7f69aa2169c9",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第5章/5-3.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0030",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第5章/5-2.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC5%E7%AB%A0%2F5-2.jpg",
+      "originalName": "5-2.jpg",
+      "bytes": 37311,
+      "sha256": "5e052d934852f2193f0ccfd5092edfda39a7b3495b6777bbbc56639e26fb1fae",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第5章/5-2.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0031",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第5章/5-10-2.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC5%E7%AB%A0%2F5-10-2.jpg",
+      "originalName": "5-10-2.jpg",
+      "bytes": 23520,
+      "sha256": "650c4e1afe6fd360d16932693e2b29ede75b6a23374917defe3554bbe090b0eb",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第5章/5-10-2.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0032",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第5章/5-10-1.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC5%E7%AB%A0%2F5-10-1.jpg",
+      "originalName": "5-10-1.jpg",
+      "bytes": 35812,
+      "sha256": "788b793f5be4efba374781d9b9da2839019be6545519f60fc56c71fcb3c34a0b",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第5章/5-10-1.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0033",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第5章/5-1.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC5%E7%AB%A0%2F5-1.jpg",
+      "originalName": "5-1.jpg",
+      "bytes": 56603,
+      "sha256": "0a703ad647ee1bf4faad212e92bf27222250b8d2a64b18c02d9931793e76ce09",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第5章/5-1.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0034",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第4章/4-7-9.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC4%E7%AB%A0%2F4-7-9.jpg",
+      "originalName": "4-7-9.jpg",
+      "bytes": 87297,
+      "sha256": "3c485191bff65c071d6e79f389d056dd9cd71ebf96f9e5d816addc6b7a1f589f",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第4章/4-7-9.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0035",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第4章/4-7-8.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC4%E7%AB%A0%2F4-7-8.jpg",
+      "originalName": "4-7-8.jpg",
+      "bytes": 77096,
+      "sha256": "c2167323fbee2aa9705abaae0c3651d1454c81b64b698ee9050e045d1eadc0a2",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第4章/4-7-8.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0036",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第4章/4-7-7.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC4%E7%AB%A0%2F4-7-7.jpg",
+      "originalName": "4-7-7.jpg",
+      "bytes": 93457,
+      "sha256": "31853bfa02fac1998c5a7e7c3c287a6a9f0aae6da71551fe049f6347debca637",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第4章/4-7-7.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0037",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第4章/4-7-6.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC4%E7%AB%A0%2F4-7-6.jpg",
+      "originalName": "4-7-6.jpg",
+      "bytes": 74428,
+      "sha256": "3766d845c7adc7ebcd3f19a4cbbdc40fe353186df95b36fe3cb2b144ea783fd6",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第4章/4-7-6.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0038",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第4章/4-7-5.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC4%E7%AB%A0%2F4-7-5.jpg",
+      "originalName": "4-7-5.jpg",
+      "bytes": 60793,
+      "sha256": "f8387069ceeb81166427e8cccff1597c833c2a64f11eb01e2339ab23dfb581b6",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第4章/4-7-5.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0039",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第4章/4-7-4.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC4%E7%AB%A0%2F4-7-4.jpg",
+      "originalName": "4-7-4.jpg",
+      "bytes": 76411,
+      "sha256": "9c8985eb9cd697cc4467ed147f4761e8eb4a6bdbaf9f5a31697ab755a386730e",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第4章/4-7-4.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0040",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第4章/4-7-3.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC4%E7%AB%A0%2F4-7-3.jpg",
+      "originalName": "4-7-3.jpg",
+      "bytes": 60756,
+      "sha256": "520e16381409b2c8eaf63214c237d8714fedf5184790922a91450076c6e005c6",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第4章/4-7-3.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0041",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第4章/4-7-2.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC4%E7%AB%A0%2F4-7-2.jpg",
+      "originalName": "4-7-2.jpg",
+      "bytes": 99173,
+      "sha256": "1aeb00af3fcaa9a68c41fa9f01522f7a180b8a303eaebd36fce795580961a716",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第4章/4-7-2.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0042",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第4章/4-7-10.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC4%E7%AB%A0%2F4-7-10.jpg",
+      "originalName": "4-7-10.jpg",
+      "bytes": 59803,
+      "sha256": "91d1540d8548628fc3f6c1b3ffad7ce040e543abfc5253c5635bcb6b51a66817",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第4章/4-7-10.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0043",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第4章/4-7-1.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC4%E7%AB%A0%2F4-7-1.jpg",
+      "originalName": "4-7-1.jpg",
+      "bytes": 88948,
+      "sha256": "c0f74a971e91ddad6ae410244b266adc706b132c2966ca13a12b700988934733",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第4章/4-7-1.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0044",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第4章/4-6-2.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC4%E7%AB%A0%2F4-6-2.jpg",
+      "originalName": "4-6-2.jpg",
+      "bytes": 34546,
+      "sha256": "29dc18018d57e4d9dc82597562442ed40ec076bfa3d52decba5889b8eaaa3712",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第4章/4-6-2.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0045",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第4章/4-6-1.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC4%E7%AB%A0%2F4-6-1.jpg",
+      "originalName": "4-6-1.jpg",
+      "bytes": 67769,
+      "sha256": "8a6e98d32152e831143ff5a94fd42318885b3e2d01b15674fe97b5a402de4a5b",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第4章/4-6-1.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0046",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第4章/4-5-2.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC4%E7%AB%A0%2F4-5-2.jpg",
+      "originalName": "4-5-2.jpg",
+      "bytes": 46520,
+      "sha256": "fa1978778ada33458660dcacc666ace6698dba12146c66c8bac9ed009818b17f",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第4章/4-5-2.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0047",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第4章/4-5-1.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC4%E7%AB%A0%2F4-5-1.jpg",
+      "originalName": "4-5-1.jpg",
+      "bytes": 36644,
+      "sha256": "f6cfbe40a03bb5825bab67bdcf19bdd47534e65cd0f9b14cc192ad7a4f90ebc5",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第4章/4-5-1.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0048",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第4章/4-4.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC4%E7%AB%A0%2F4-4.jpg",
+      "originalName": "4-4.jpg",
+      "bytes": 98457,
+      "sha256": "ae34cbeb45c2c87215cdad00786ec548acb70bbcec987011af649186d7f6e3da",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第4章/4-4.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0049",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第4章/4-3-2.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC4%E7%AB%A0%2F4-3-2.jpg",
+      "originalName": "4-3-2.jpg",
+      "bytes": 44056,
+      "sha256": "0d0704be3809e2b88a18371f0f65f1222ad350d66ec548656ee604cd77707b4e",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第4章/4-3-2.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0050",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第4章/4-3-1.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC4%E7%AB%A0%2F4-3-1.jpg",
+      "originalName": "4-3-1.jpg",
+      "bytes": 60914,
+      "sha256": "c54a5446ff6d590fccc1fac07e6e9288095f064d33efb5a24701f91a423f4fff",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第4章/4-3-1.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0051",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第4章/4-2-4.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC4%E7%AB%A0%2F4-2-4.jpg",
+      "originalName": "4-2-4.jpg",
+      "bytes": 59942,
+      "sha256": "eeb0dd5feb553e9d9121747f3269bca89735da52eb5a0527b42b551d58f28250",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第4章/4-2-4.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0052",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第4章/4-2-3.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC4%E7%AB%A0%2F4-2-3.jpg",
+      "originalName": "4-2-3.jpg",
+      "bytes": 59699,
+      "sha256": "c526dfac71a2aa3b479d1156b05bf10a9c9a9717eb0b457559fc7afc883204ad",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第4章/4-2-3.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0053",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第4章/4-2-2.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC4%E7%AB%A0%2F4-2-2.jpg",
+      "originalName": "4-2-2.jpg",
+      "bytes": 87724,
+      "sha256": "4e0783a5805540e9ca10bac1daccd770d7ee3278715cfb52b0743bb16d181d4a",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第4章/4-2-2.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0054",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第4章/4-2-1.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC4%E7%AB%A0%2F4-2-1.jpg",
+      "originalName": "4-2-1.jpg",
+      "bytes": 56403,
+      "sha256": "e3b17cc03d657011d8ef286b01da02bda682f9a3a0f81f0467c3309e95417c2a",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第4章/4-2-1.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0055",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第4章/4-1.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC4%E7%AB%A0%2F4-1.jpg",
+      "originalName": "4-1.jpg",
+      "bytes": 75349,
+      "sha256": "af4a2c0ac3204d5171a5e3f51de3e5eddb88cbae45846482c8dbed87d7c28e65",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第4章/4-1.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0056",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第3章/3-9.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC3%E7%AB%A0%2F3-9.jpg",
+      "originalName": "3-9.jpg",
+      "bytes": 28820,
+      "sha256": "1ca7e6cf3092c2e1594fe379f6586ee4fd0484c89e033e122537927b48ade1a0",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第3章/3-9.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0057",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第3章/3-8.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC3%E7%AB%A0%2F3-8.jpg",
+      "originalName": "3-8.jpg",
+      "bytes": 43124,
+      "sha256": "5477dfafb23fc1d14967978443bb9b5d0a90319e454c39614f10fc563b53903b",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第3章/3-8.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0058",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第3章/3-7.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC3%E7%AB%A0%2F3-7.jpg",
+      "originalName": "3-7.jpg",
+      "bytes": 46273,
+      "sha256": "cf09c12c1ba33b7b21124eac57ebe5656b30e5bd1fc40845f243c8fd3876ada7",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第3章/3-7.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0059",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第3章/3-6-2.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC3%E7%AB%A0%2F3-6-2.jpg",
+      "originalName": "3-6-2.jpg",
+      "bytes": 42987,
+      "sha256": "465cfd8abafc6d50a35b1eb9bfb582c94a6d123e39280694194f2367c95ddd38",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第3章/3-6-2.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0060",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第3章/3-6-1.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC3%E7%AB%A0%2F3-6-1.jpg",
+      "originalName": "3-6-1.jpg",
+      "bytes": 44668,
+      "sha256": "79ff5557b7865736021d4d2ab1ee0118570cb03927a54e7b9d2d52835f69365d",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第3章/3-6-1.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0061",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第3章/3-5.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC3%E7%AB%A0%2F3-5.jpg",
+      "originalName": "3-5.jpg",
+      "bytes": 27841,
+      "sha256": "a6ac59f602ab2e38d53a3b5679f92b5bd182ef31bce40e98d4db7775bdc8ece3",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第3章/3-5.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0062",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第3章/3-4.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC3%E7%AB%A0%2F3-4.jpg",
+      "originalName": "3-4.jpg",
+      "bytes": 62090,
+      "sha256": "99adf1225ceb40aec0b7f1cc343806268f8241becb232e21797da8934cca09cb",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第3章/3-4.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0063",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第3章/3-3.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC3%E7%AB%A0%2F3-3.jpg",
+      "originalName": "3-3.jpg",
+      "bytes": 47012,
+      "sha256": "23cfa8d1f35b3c18980047f5862cd9a1c8d01a665a6b612ebf2af1307f7f3c3c",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第3章/3-3.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0064",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第3章/3-2.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC3%E7%AB%A0%2F3-2.jpg",
+      "originalName": "3-2.jpg",
+      "bytes": 44010,
+      "sha256": "8cf1d7b9a7027e40de093b652446ab75a75b0c241613342fdefe8847943b1614",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第3章/3-2.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0065",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第3章/3-10-2.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC3%E7%AB%A0%2F3-10-2.jpg",
+      "originalName": "3-10-2.jpg",
+      "bytes": 65437,
+      "sha256": "23f4f60770cda825b983bf294116459b2240374d2383489969d7fbec0d6e68aa",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第3章/3-10-2.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0066",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第3章/3-10-1.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC3%E7%AB%A0%2F3-10-1.jpg",
+      "originalName": "3-10-1.jpg",
+      "bytes": 69456,
+      "sha256": "0e78c0a5a9433079549459ad5e350a6e3672a5390b651111488baeb7f383ee94",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第3章/3-10-1.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0067",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第3章/3-1.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC3%E7%AB%A0%2F3-1.jpg",
+      "originalName": "3-1.jpg",
+      "bytes": 67553,
+      "sha256": "dbf864ee0ce1c0ae1db858626e9f17a36ec63e58f3899bc6a12b469c89ac3d89",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第3章/3-1.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0068",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第2章/2-7-2.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC2%E7%AB%A0%2F2-7-2.jpg",
+      "originalName": "2-7-2.jpg",
+      "bytes": 30114,
+      "sha256": "80ccdf860907689e0e3d1eae6b78e3af5e9ef9dafa9f624ef47f95fe85d87c3c",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第2章/2-7-2.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0069",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第2章/2-7-1.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC2%E7%AB%A0%2F2-7-1.jpg",
+      "originalName": "2-7-1.jpg",
+      "bytes": 53370,
+      "sha256": "bffbf1634f6292b1c8d523ac93821f4a6ed8745377d40629adab069ecc89eb7c",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第2章/2-7-1.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0070",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第2章/2-6.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC2%E7%AB%A0%2F2-6.jpg",
+      "originalName": "2-6.jpg",
+      "bytes": 57717,
+      "sha256": "496c3af38845136a28dbe1f573530aa367d54f76f8db301d58fdd083ef6c2225",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第2章/2-6.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0071",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第2章/2-6-2.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC2%E7%AB%A0%2F2-6-2.jpg",
+      "originalName": "2-6-2.jpg",
+      "bytes": 30866,
+      "sha256": "f364b17c958d2e2eeaf86d0323ceeb52fa3711dd42e8d378460ed14f55dec53d",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第2章/2-6-2.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0072",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第2章/2-5.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC2%E7%AB%A0%2F2-5.jpg",
+      "originalName": "2-5.jpg",
+      "bytes": 44987,
+      "sha256": "24f9b4bcce954de6cc8396806cc0f94c09010fa75c2486f08e7fc3f8cd6d06f9",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第2章/2-5.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0073",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第2章/2-4.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC2%E7%AB%A0%2F2-4.jpg",
+      "originalName": "2-4.jpg",
+      "bytes": 53734,
+      "sha256": "d263f2794c232455d8872c97568951c4e9ed13e9ff3f9835a1235833ea2f55a1",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第2章/2-4.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0074",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第2章/2-3-2.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC2%E7%AB%A0%2F2-3-2.jpg",
+      "originalName": "2-3-2.jpg",
+      "bytes": 23472,
+      "sha256": "b753cfa7de8b81a6f8e4d6bd13bfba8ff47304e3a3845d5500ecfc084bf3dc8e",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第2章/2-3-2.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0075",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第2章/2-3-1.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC2%E7%AB%A0%2F2-3-1.jpg",
+      "originalName": "2-3-1.jpg",
+      "bytes": 30425,
+      "sha256": "3f04d718a06d1bbca91967f742fdfd90ce7a6e2b4481c0f31c572d0d1f3b84dc",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第2章/2-3-1.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0076",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第2章/2-2.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC2%E7%AB%A0%2F2-2.jpg",
+      "originalName": "2-2.jpg",
+      "bytes": 25867,
+      "sha256": "86e604c16313d1b443e0be58695a969b78e571aaa849ba4d94e14e5ae28d23c4",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第2章/2-2.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0077",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第2章/2-1-2.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC2%E7%AB%A0%2F2-1-2.jpg",
+      "originalName": "2-1-2.jpg",
+      "bytes": 39305,
+      "sha256": "47298b582ed40ca2c337b8aa5c9131da4a97b73595ceef18ceadfab0956f9913",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第2章/2-1-2.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0078",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第2章/2-1-1.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC2%E7%AB%A0%2F2-1-1.jpg",
+      "originalName": "2-1-1.jpg",
+      "bytes": 34099,
+      "sha256": "2d179f16c658132d155f36ec0e7ff4e927d5eb7964c180726dac157fb9cde81c",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第2章/2-1-1.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0079",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第1章/1-补充题.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC1%E7%AB%A0%2F1-%E8%A1%A5%E5%85%85%E9%A2%98.jpg",
+      "originalName": "1-补充题.jpg",
+      "bytes": 33411,
+      "sha256": "219e29c551fa1a704b84c76f76c80270fb528723dd340dd74eb88bc6f5b45f78",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第1章/1-补充题.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0080",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第1章/1-9.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC1%E7%AB%A0%2F1-9.jpg",
+      "originalName": "1-9.jpg",
+      "bytes": 53165,
+      "sha256": "8cef8e5c27fb832dae7833a6a1c067a1623281320bac26c96c270082d79e723d",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第1章/1-9.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0081",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第1章/1-8.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC1%E7%AB%A0%2F1-8.jpg",
+      "originalName": "1-8.jpg",
+      "bytes": 47558,
+      "sha256": "7e44388028ecfb4b6e6ebe5cc69b2a92b68f685bee2d90196044c93b60e612cc",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第1章/1-8.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0082",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第1章/1-7.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC1%E7%AB%A0%2F1-7.jpg",
+      "originalName": "1-7.jpg",
+      "bytes": 27216,
+      "sha256": "415ab73e1759a39ab5bc432947a732177062b12ebe406b64761a4f8ccddfd260",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第1章/1-7.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0083",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第1章/1-6.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC1%E7%AB%A0%2F1-6.jpg",
+      "originalName": "1-6.jpg",
+      "bytes": 32746,
+      "sha256": "8b1b909749f95948e8448be515b25dc9a2d5bf2e20007560c6f327bf0909da39",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第1章/1-6.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0084",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第1章/1-5.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC1%E7%AB%A0%2F1-5.jpg",
+      "originalName": "1-5.jpg",
+      "bytes": 63234,
+      "sha256": "ff77c7af9d324be87d429aaf36b3027c395d4234cccb26858ddc50ca366cae7d",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第1章/1-5.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0085",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第1章/1-4.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC1%E7%AB%A0%2F1-4.jpg",
+      "originalName": "1-4.jpg",
+      "bytes": 56128,
+      "sha256": "88bef0c70398bb2492978056236cda2b755edbbaf2e5f845b221eeb333dd1ce0",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第1章/1-4.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0086",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第1章/1-3.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC1%E7%AB%A0%2F1-3.jpg",
+      "originalName": "1-3.jpg",
+      "bytes": 29528,
+      "sha256": "cae4c6bc549af4ec380aac6eaef422ce468152481a95a1c5d7237ef032842ebf",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第1章/1-3.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0087",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第1章/1-2.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC1%E7%AB%A0%2F1-2.jpg",
+      "originalName": "1-2.jpg",
+      "bytes": 59543,
+      "sha256": "3c72a038d164cae03bf5e24a856ed3a3d31604f1a98e5b71b2fe55fa59ed5bd1",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第1章/1-2.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0088",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第1章/1-12.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC1%E7%AB%A0%2F1-12.jpg",
+      "originalName": "1-12.jpg",
+      "bytes": 61777,
+      "sha256": "b5345e4a8c4aee4e39aabeea1b90776a2d4db014f8039f0ba8134d001ceaf82e",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第1章/1-12.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0089",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第1章/1-11.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC1%E7%AB%A0%2F1-11.jpg",
+      "originalName": "1-11.jpg",
+      "bytes": 106241,
+      "sha256": "352a7e57b7b846c900909429b31f205afeda57a0710b66b655567b24d25c1690",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第1章/1-11.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0090",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第1章/1-10-2.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC1%E7%AB%A0%2F1-10-2.jpg",
+      "originalName": "1-10-2.jpg",
+      "bytes": 13571,
+      "sha256": "1a6161a7b798d7ddf5288d2e378db0e04f4460966a573f29f6c4a338fbb09f8f",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第1章/1-10-2.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0091",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第1章/1-10-1.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC1%E7%AB%A0%2F1-10-1.jpg",
+      "originalName": "1-10-1.jpg",
+      "bytes": 70039,
+      "sha256": "7908afae52a7118fc1f31d9c70d6ccc8afee09a17a90ba7ee5d124d4f8468f78",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第1章/1-10-1.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0092",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后答案（部分）/第1章/1-1.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E7%AD%94%E6%A1%88%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89%2F%E7%AC%AC1%E7%AB%A0%2F1-1.jpg",
+      "originalName": "1-1.jpg",
+      "bytes": 71074,
+      "sha256": "4978f3d3bdb5d0bfe100e226bd8614c208464ed932410d0aa728e51bd9b729dc",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/课后参考图片/第1章/1-1.jpg",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0093",
+      "sourcePath": "土力学_马逸/5.往届资料/【3】作业/土力学课后习题答案(清华大学出版社).pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2F%E3%80%903%E3%80%91%E4%BD%9C%E4%B8%9A%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6%E8%AF%BE%E5%90%8E%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88(%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E5%87%BA%E7%89%88%E7%A4%BE).pdf",
+      "originalName": "土力学课后习题答案(清华大学出版社).pdf",
+      "bytes": 482940,
+      "sha256": "0a5ba9ebac341218c19e5327168801b517e00b3e2fad7f95fb7b2a26fba2f78f",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/题目与参考原件/土力学课后习题答案(清华大学出版社).pdf",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0094",
+      "sourcePath": "土力学_马逸/5.往届资料/yantubbs-第六章课后习题.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2Fyantubbs-%E7%AC%AC%E5%85%AD%E7%AB%A0%E8%AF%BE%E5%90%8E%E4%B9%A0%E9%A2%98.pdf",
+      "originalName": "yantubbs-第六章课后习题.pdf",
+      "bytes": 469104,
+      "sha256": "6eba4038ff4521c87fdc4a71a3ae7dc55defa48c1f65226f5bca75775db7c44e",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/题目与参考原件/yantubbs-第六章课后习题.pdf",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0095",
+      "sourcePath": "土力学_马逸/5.往届资料/yantubbs-第八章课后习题-地基承载力.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2Fyantubbs-%E7%AC%AC%E5%85%AB%E7%AB%A0%E8%AF%BE%E5%90%8E%E4%B9%A0%E9%A2%98-%E5%9C%B0%E5%9F%BA%E6%89%BF%E8%BD%BD%E5%8A%9B.pdf",
+      "originalName": "yantubbs-第八章课后习题-地基承载力.pdf",
+      "bytes": 365147,
+      "sha256": "584468918faa547dd543a130dfcd114c83059fc0c9a9d72a93491f680f46e5aa",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/题目与参考原件/yantubbs-第八章课后习题-地基承载力.pdf",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0096",
+      "sourcePath": "土力学_马逸/5.往届资料/yantubbs-第五章课后习题-土的抗剪强度.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2Fyantubbs-%E7%AC%AC%E4%BA%94%E7%AB%A0%E8%AF%BE%E5%90%8E%E4%B9%A0%E9%A2%98-%E5%9C%9F%E7%9A%84%E6%8A%97%E5%89%AA%E5%BC%BA%E5%BA%A6.pdf",
+      "originalName": "yantubbs-第五章课后习题-土的抗剪强度.pdf",
+      "bytes": 946336,
+      "sha256": "04eb934c584240f1126f7b65420cce1198edec4e32e22fc62bba9c91f1173cd7",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/题目与参考原件/yantubbs-第五章课后习题-土的抗剪强度.pdf",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0097",
+      "sourcePath": "土力学_马逸/5.往届资料/yantubbs-第七章课后习题.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F5.%E5%BE%80%E5%B1%8A%E8%B5%84%E6%96%99%2Fyantubbs-%E7%AC%AC%E4%B8%83%E7%AB%A0%E8%AF%BE%E5%90%8E%E4%B9%A0%E9%A2%98.pdf",
+      "originalName": "yantubbs-第七章课后习题.pdf",
+      "bytes": 368494,
+      "sha256": "9e704c1c9de22dd1110f2fc3513a96edab9ec02d7aaf561c3930f2756397500c",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/题目与参考原件/yantubbs-第七章课后习题.pdf",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0121",
+      "sourcePath": "土力学_马逸/1.课件PPT版/土力学-习题拓展3-2020.pptx",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F1.%E8%AF%BE%E4%BB%B6PPT%E7%89%88%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6-%E4%B9%A0%E9%A2%98%E6%8B%93%E5%B1%953-2020.pptx",
+      "originalName": "土力学-习题拓展3-2020.pptx",
+      "bytes": 384093,
+      "sha256": "b7a9e31684228d85d3a33556bd47a8700ddac7dd885ddb3cba5aab471f03262c",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/题目与参考原件/土力学-习题拓展3-2020.pptx",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0122",
+      "sourcePath": "土力学_马逸/1.课件PPT版/土力学-习题拓展2-2020.pptx",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F1.%E8%AF%BE%E4%BB%B6PPT%E7%89%88%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6-%E4%B9%A0%E9%A2%98%E6%8B%93%E5%B1%952-2020.pptx",
+      "originalName": "土力学-习题拓展2-2020.pptx",
+      "bytes": 381277,
+      "sha256": "980d2a6a99d434861edff44275085a7635ce0eb84c3fc1d8df3da1713525f856",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/题目与参考原件/土力学-习题拓展2-2020.pptx",
+      "kind": "learningOriginal"
+    },
+    {
+      "sourceAlias": "S0123",
+      "sourcePath": "土力学_马逸/1.课件PPT版/土力学-习题拓展1-2020.pptx",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.7_%E5%9C%9F%E6%9C%A8%E7%B1%BB_%E5%9C%9F%E5%8A%9B%E5%AD%A6%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F1.%E8%AF%BE%E4%BB%B6PPT%E7%89%88%2F%E5%9C%9F%E5%8A%9B%E5%AD%A6-%E4%B9%A0%E9%A2%98%E6%8B%93%E5%B1%951-2020.pptx",
+      "originalName": "土力学-习题拓展1-2020.pptx",
+      "bytes": 350032,
+      "sha256": "7155e6394fcacc35e3eb420364269e73e8887003dfb6890f511a987a6b70f13b",
+      "relativeTarget": "工程技术类/土力学/习题与解答/相关课程参考_土力学题目与部分参考_黄逸洋public/题目与参考原件/土力学-习题拓展1-2020.pptx",
+      "kind": "learningOriginal"
+    }
+  ],
+  "boundary": "原件按原名与字节保存，未执行宏、源码或外链。仅可读文字层与文件结构静态核对、74幅参考图及10个PDF首页实际视觉，不是全部PDF逐页审阅或数学正确性校核。"
+}
