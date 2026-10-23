@@ -1,0 +1,35 @@
+{
+  "sourceRepository": "https://github.com/PKUanonym/REKCARC-TSC-UHT",
+  "commit": "37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0",
+  "sourceFileCount": 3,
+  "files": [
+    {
+      "name": "第一次作业.pdf",
+      "sourcePath": "大三上/数据库系统概论/hw/2018_杜政晓/第一次作业.pdf",
+      "sourceURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/hw/2018_%E6%9D%9C%E6%94%BF%E6%99%93/%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%9C%E4%B8%9A.pdf",
+      "bytes": 59219,
+      "sha256": "d04cce609e2633a41e9ddfe5155c60eefdecc36bcc461a55eac219cd9dc18833",
+      "gitBlob": "a4df978cffed86c07652679d56e8f362a3957438",
+      "role": "个人作业解答（含题目）"
+    },
+    {
+      "name": "第二次作业.pdf",
+      "sourcePath": "大三上/数据库系统概论/hw/2018_杜政晓/第二次作业.pdf",
+      "sourceURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/hw/2018_%E6%9D%9C%E6%94%BF%E6%99%93/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%BD%9C%E4%B8%9A.pdf",
+      "bytes": 332383,
+      "sha256": "0d92f8c54b182e6e29326d033976590ebbc5f8a8ab92d345298df70741f1e7f4",
+      "gitBlob": "6f825e46695eda839a8f716cd16b16a69bfe5b79",
+      "role": "个人作业解答（含题目）"
+    },
+    {
+      "name": "课程攻略_源readme.md",
+      "sourcePath": "大三上/数据库系统概论/readme.md",
+      "sourceURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E5%A4%A7%E4%B8%89%E4%B8%8A/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%AE%BA/readme.md",
+      "bytes": 1631,
+      "sha256": "5ecf50d471afb4d9da8ebc1f74f328dd5fabda5e919406f23462b51be84d2ec1",
+      "gitBlob": "1c75282545451b019cc816c4edcd5ea2da9782e3",
+      "role": "课程攻略原文与外部项目链接"
+    }
+  ],
+  "notDownloaded": "原课程攻略中链接的外部项目仓库"
+}

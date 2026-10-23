@@ -1,0 +1,139 @@
+{
+  "repository": "https://github.com/PKUanonym/REKCARC-TSC-UHT",
+  "commit": "37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0",
+  "files": [
+    {
+      "name": "assignment-1-solutions.pdf",
+      "sourcePath": "大二下/理论计算机科学导论/2024 hw-solutions/assignment-1-solutions.pdf",
+      "sourceURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E7%90%86%E8%AE%BA%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/2024%20hw-solutions/assignment-1-solutions.pdf",
+      "bytes": 122541,
+      "sha256": "5554040593844aac120661bdc3a0a519d14ebfdd360d53bb0da73c1f7acd0fc7",
+      "gitBlob": "f02aa53fdb94c053519b4c5f4d99e627e1768da0",
+      "pages": 3,
+      "role": "作业题目及解答"
+    },
+    {
+      "name": "assignment-2-solution.pdf",
+      "sourcePath": "大二下/理论计算机科学导论/2024 hw-solutions/assignment-2-solution.pdf",
+      "sourceURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E7%90%86%E8%AE%BA%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/2024%20hw-solutions/assignment-2-solution.pdf",
+      "bytes": 182580,
+      "sha256": "9ff2e461af11bb4ed3abba8d1ead69f9adc43bc3e66026862404e5e1a2d05188",
+      "gitBlob": "7049308153f30974530029be6d290cc062e3dee0",
+      "pages": 3,
+      "role": "作业题目及解答"
+    },
+    {
+      "name": "assignment-3-solutions.pdf",
+      "sourcePath": "大二下/理论计算机科学导论/2024 hw-solutions/assignment-3-solutions.pdf",
+      "sourceURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E7%90%86%E8%AE%BA%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/2024%20hw-solutions/assignment-3-solutions.pdf",
+      "bytes": 156338,
+      "sha256": "02df9828cf328e5a60722b3842b8e1652a988bb2fd03dd814d6033e9cc5b39c7",
+      "gitBlob": "61b1f235ca835c67090a842d06315aba1e8d0736",
+      "pages": 2,
+      "role": "作业题目及解答"
+    },
+    {
+      "name": "assignment-4.pdf",
+      "sourcePath": "大二下/理论计算机科学导论/2024 hw-solutions/assignment-4.pdf",
+      "sourceURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E7%90%86%E8%AE%BA%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/2024%20hw-solutions/assignment-4.pdf",
+      "bytes": 28622,
+      "sha256": "c183a944dd6f3c1e9c53de9a5f0bbdc7eb589f71021adbbb2d208af2b7ef1d5f",
+      "gitBlob": "8772f3dc00a8c1c359d92af872acf6895db41737",
+      "pages": 2,
+      "role": "作业题目及解答"
+    },
+    {
+      "name": "assignment-5-solution.pdf",
+      "sourcePath": "大二下/理论计算机科学导论/2024 hw-solutions/assignment-5-solution.pdf",
+      "sourceURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E7%90%86%E8%AE%BA%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/2024%20hw-solutions/assignment-5-solution.pdf",
+      "bytes": 35997,
+      "sha256": "345eb5476fe1e4a845e3fa6a33f1892e877fd7fc838f93e3afaae3c6553484cd",
+      "gitBlob": "7bf18b66c77dc04fc5271a110d66dd95f19253c6",
+      "pages": 2,
+      "role": "作业题目及解答"
+    },
+    {
+      "name": "assignment-6-solution.pdf",
+      "sourcePath": "大二下/理论计算机科学导论/2024 hw-solutions/assignment-6-solution.pdf",
+      "sourceURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E7%90%86%E8%AE%BA%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/2024%20hw-solutions/assignment-6-solution.pdf",
+      "bytes": 34877,
+      "sha256": "e63c382595ffca64b0baab6644b6f2f4ebbe56b1dce6ef19cc428cca7ca499f5",
+      "gitBlob": "4ecf6f84fa8bb526112e102032e22709f3370058",
+      "pages": 2,
+      "role": "作业题目及解答"
+    },
+    {
+      "name": "assignment-7-solution.pdf",
+      "sourcePath": "大二下/理论计算机科学导论/2024 hw-solutions/assignment-7-solution.pdf",
+      "sourceURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E7%90%86%E8%AE%BA%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/2024%20hw-solutions/assignment-7-solution.pdf",
+      "bytes": 30391,
+      "sha256": "db5e4425590bc6868e5b50ce95fb60ddd1d4b286a68daced24cc8fc2a14622d8",
+      "gitBlob": "a97dfeec4cdfd443b4fd58cf046a88992d1a69c9",
+      "pages": 2,
+      "role": "作业题目及解答"
+    },
+    {
+      "name": "assignment-9-solution.pdf",
+      "sourcePath": "大二下/理论计算机科学导论/2024 hw-solutions/assignment-9-solution.pdf",
+      "sourceURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E7%90%86%E8%AE%BA%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/2024%20hw-solutions/assignment-9-solution.pdf",
+      "bytes": 35407,
+      "sha256": "01469b7ac3e26ac7404991c48aeda8278eabef0d7da11c194359f963bea13f97",
+      "gitBlob": "af7b6e6fa2e25f6ef7a641cb37dcd53fcc231d49",
+      "pages": 2,
+      "role": "作业题目及解答"
+    },
+    {
+      "name": "assignment-A-solution.pdf",
+      "sourcePath": "大二下/理论计算机科学导论/2024 hw-solutions/assignment-A-solution.pdf",
+      "sourceURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E7%90%86%E8%AE%BA%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/2024%20hw-solutions/assignment-A-solution.pdf",
+      "bytes": 43401,
+      "sha256": "1bd1e5e6008e14ed65153502c326e4daa233efcc4d9eb6f4ae52cda7d7bc96f4",
+      "gitBlob": "822029dbe51107923e4e2e00ba1b49190c153b4c",
+      "pages": 3,
+      "role": "作业题目及解答"
+    },
+    {
+      "name": "assignment-B-solution.pdf",
+      "sourcePath": "大二下/理论计算机科学导论/2024 hw-solutions/assignment-B-solution.pdf",
+      "sourceURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E7%90%86%E8%AE%BA%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/2024%20hw-solutions/assignment-B-solution.pdf",
+      "bytes": 37041,
+      "sha256": "9c4b7eae5bef061567a237f1ce55451ddc4c6177f619493339901737fe5442d6",
+      "gitBlob": "778ad3b89df450a1402f76c0af8357e6a763f045",
+      "pages": 3,
+      "role": "作业题目及解答"
+    },
+    {
+      "name": "assignment-C-solution.pdf",
+      "sourcePath": "大二下/理论计算机科学导论/2024 hw-solutions/assignment-C-solution.pdf",
+      "sourceURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E7%90%86%E8%AE%BA%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/2024%20hw-solutions/assignment-C-solution.pdf",
+      "bytes": 153741,
+      "sha256": "0920bc67d9509c171596a2a156b75b2235099f3674025d4c31038da038ef0173",
+      "gitBlob": "6b72e9bacbc5ecef3a35bdd3f71437365732a86d",
+      "pages": 2,
+      "role": "作业题目及解答"
+    },
+    {
+      "name": "assignment-D.pdf",
+      "sourcePath": "大二下/理论计算机科学导论/2024 hw-solutions/assignment-D.pdf",
+      "sourceURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E7%90%86%E8%AE%BA%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/2024%20hw-solutions/assignment-D.pdf",
+      "bytes": 152263,
+      "sha256": "13873907dc460d98358e36fb09fbf40637795cdbdacab7e68c83b13110d29ff9",
+      "gitBlob": "67268cd6913a69f55b1d465ce2132d166186471a",
+      "pages": 2,
+      "role": "作业题目及解答"
+    },
+    {
+      "name": "课程短注_源readme.md",
+      "sourcePath": "大二下/理论计算机科学导论/readme.md",
+      "sourceURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E5%A4%A7%E4%BA%8C%E4%B8%8B/%E7%90%86%E8%AE%BA%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/readme.md",
+      "bytes": 56,
+      "sha256": "0445d3d462ab89b36ab43d8ac0495be9c6e4d7d3b0ed1ffe38acba6bb37075a5",
+      "gitBlob": "9d43ba58e6f72c977308259eec7ada1eeff5a57d",
+      "pages": null,
+      "role": "源课程短注"
+    }
+  ],
+  "sourceCount": 13,
+  "pdfPages": 28,
+  "missingSourceNumber": "8"
+}
