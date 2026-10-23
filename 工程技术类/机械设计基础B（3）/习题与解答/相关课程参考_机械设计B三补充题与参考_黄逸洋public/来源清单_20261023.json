@@ -1,0 +1,48 @@
+{
+  "sourceLabel": "黄逸洋public / 机械设计基础B（3）",
+  "role": "传动零部件设计、思考题、方案比较及补充题参考，按原DOC/PDF保存，未核解答正确性。",
+  "items": [
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "B0001",
+      "originalName": "补充题参考题解.pdf",
+      "bytes": 246539,
+      "sha256": "04936258b6c8b1aed78fdb2cd281c6a0ca547312e22fc2e25e45996f9f746a59",
+      "relativeTarget": "工程技术类/机械设计基础B（3）/习题与解答/相关课程参考_机械设计B三补充题与参考_黄逸洋public/补充题参考题解.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.8_%E6%9C%BA%E6%A2%B0%E7%B1%BB_%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80B%EF%BC%883%EF%BC%89&mode=list",
+      "sourcePath": "补充题目/补充题参考题解.pdf"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "B0002",
+      "originalName": "传动零部件设计.doc",
+      "bytes": 68608,
+      "sha256": "5ac779ca6c9e2383be54f8ee509ed56cd35fd008456519be3cd0aad71d7904e0",
+      "relativeTarget": "工程技术类/机械设计基础B（3）/习题与解答/相关课程参考_机械设计B三补充题与参考_黄逸洋public/传动零部件设计.doc",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.8_%E6%9C%BA%E6%A2%B0%E7%B1%BB_%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80B%EF%BC%883%EF%BC%89&mode=list",
+      "sourcePath": "补充题目/传动零部件设计.doc"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "B0003",
+      "originalName": "方案比较.pdf",
+      "bytes": 393381,
+      "sha256": "78938a1a21f56e57a35108c570e61777a8783777b49724585fcbb914a2e9ead8",
+      "relativeTarget": "工程技术类/机械设计基础B（3）/习题与解答/相关课程参考_机械设计B三补充题与参考_黄逸洋public/方案比较.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.8_%E6%9C%BA%E6%A2%B0%E7%B1%BB_%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80B%EF%BC%883%EF%BC%89&mode=list",
+      "sourcePath": "补充题目/方案比较.pdf"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "B0004",
+      "originalName": "思考题.doc",
+      "bytes": 33792,
+      "sha256": "e6c52fdaa1050920191b220a78497b87a246dd2bc5655890dc11fa3f7836ffe3",
+      "relativeTarget": "工程技术类/机械设计基础B（3）/习题与解答/相关课程参考_机械设计B三补充题与参考_黄逸洋public/思考题.doc",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.8_%E6%9C%BA%E6%A2%B0%E7%B1%BB_%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80B%EF%BC%883%EF%BC%89&mode=list",
+      "sourcePath": "补充题目/思考题.doc"
+    }
+  ],
+  "sameSHAOtherSourcePaths": [],
+  "boundary": "仅保存原字节学习散件，不上传压缩包。普通姓名和教学公示信息沿原件保存，索引不摘录联系方式；代码、宏、模型和链接均未执行。"
+}

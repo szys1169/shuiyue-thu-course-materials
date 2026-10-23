@@ -1,0 +1,31 @@
+{
+  "sourceLabel": "黄逸洋public / 3程序设计实训 / 2026徐枫程序设计实训-戴士博",
+  "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%AE%9E%E8%AE%AD&mode=list",
+  "role": "两份PDF分别为面向对象程序设计复习和C++高质量编程（2），首页可见徐枫、清华大学软件学院署名，作为该来源目录下的学习参考。保留原题名与示例，未运行代码或据目录标签认定当前指定教材。",
+  "items": [
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0003",
+      "sourcePath": "2026徐枫程序设计实训-戴士博/02-面向对象程序设计复习2026.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%AE%9E%E8%AE%AD&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%AE%9E%E8%AE%AD%2F2026%E5%BE%90%E6%9E%AB%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%AE%9E%E8%AE%AD-%E6%88%B4%E5%A3%AB%E5%8D%9A%2F02-%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%A4%8D%E4%B9%A02026.pdf",
+      "originalName": "02-面向对象程序设计复习2026.pdf",
+      "relativeTarget": "计算机类/程序设计实训/讲义/黄逸洋public_2026来源C++复习课件/02-面向对象程序设计复习2026.pdf",
+      "bytes": 1523857,
+      "sha256": "3eb437bab790883e6e50d710239ac740a6da026573409760204b1dc1404d4608"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0004",
+      "sourcePath": "2026徐枫程序设计实训-戴士博/04-C++高质量编程(2)2026.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%AE%9E%E8%AE%AD&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%AE%9E%E8%AE%AD%2F2026%E5%BE%90%E6%9E%AB%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%AE%9E%E8%AE%AD-%E6%88%B4%E5%A3%AB%E5%8D%9A%2F04-C%2B%2B%E9%AB%98%E8%B4%A8%E9%87%8F%E7%BC%96%E7%A8%8B(2)2026.pdf",
+      "originalName": "04-C++高质量编程(2)2026.pdf",
+      "relativeTarget": "计算机类/程序设计实训/讲义/黄逸洋public_2026来源C++复习课件/04-C++高质量编程(2)2026.pdf",
+      "bytes": 3038420,
+      "sha256": "8e2c40a281445ed9e17d0367906607f3e36fd8e0a481ff38671da26854f16e0f"
+    }
+  ],
+  "sameSHAOtherSourcePaths": [],
+  "boundary": "4原件均原名/原字节保留。PPTX全XML文本/关系/元数据静态核对，分别10/7页，未作幻灯片全视觉；PDF全结构与可读文字层核对，82/44页中仅首2页各实际视觉共4页。不执行代码/宏/外链，不将题目当标准答案；普通教学公示联系保留原件，不转录到索引。"
+}

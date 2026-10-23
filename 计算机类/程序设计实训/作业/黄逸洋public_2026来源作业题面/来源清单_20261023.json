@@ -1,0 +1,31 @@
+{
+  "sourceLabel": "黄逸洋public / 3程序设计实训 / 2026徐枫程序设计实训-戴士博",
+  "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%AE%9E%E8%AE%AD&mode=list",
+  "role": "两份PPTX分别为面向对象程序设计与C++高质量编程作业题面；正文标记助教杜婉晴。保留题目、示例代码、输入输出约定与原格式，不含本次生成解答。2026沿来源目录标签，未据此补猜具体开课学期。",
+  "items": [
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0001",
+      "sourcePath": "2026徐枫程序设计实训-戴士博/01-OOP-homework.pptx",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%AE%9E%E8%AE%AD&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%AE%9E%E8%AE%AD%2F2026%E5%BE%90%E6%9E%AB%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%AE%9E%E8%AE%AD-%E6%88%B4%E5%A3%AB%E5%8D%9A%2F01-OOP-homework.pptx",
+      "originalName": "01-OOP-homework.pptx",
+      "relativeTarget": "计算机类/程序设计实训/作业/黄逸洋public_2026来源作业题面/01-OOP-homework.pptx",
+      "bytes": 183439,
+      "sha256": "e5462196747fff1cc3b09367a6b1c609b665d9c3af7c9b8b02f6fd6cff59b6dd"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0002",
+      "sourcePath": "2026徐枫程序设计实训-戴士博/02-C++高质量编程-homework.pptx",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%AE%9E%E8%AE%AD&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%AE%9E%E8%AE%AD%2F2026%E5%BE%90%E6%9E%AB%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%AE%9E%E8%AE%AD-%E6%88%B4%E5%A3%AB%E5%8D%9A%2F02-C%2B%2B%E9%AB%98%E8%B4%A8%E9%87%8F%E7%BC%96%E7%A8%8B-homework.pptx",
+      "originalName": "02-C++高质量编程-homework.pptx",
+      "relativeTarget": "计算机类/程序设计实训/作业/黄逸洋public_2026来源作业题面/02-C++高质量编程-homework.pptx",
+      "bytes": 178244,
+      "sha256": "b1fc678ae8b108198033a489b1a1276768e2ec630a84a5f712a26a9ec10df38d"
+    }
+  ],
+  "sameSHAOtherSourcePaths": [],
+  "boundary": "4原件均原名/原字节保留。PPTX全XML文本/关系/元数据静态核对，分别10/7页，未作幻灯片全视觉；PDF全结构与可读文字层核对，82/44页中仅首2页各实际视觉共4页。不执行代码/宏/外链，不将题目当标准答案；普通教学公示联系保留原件，不转录到索引。"
+}
