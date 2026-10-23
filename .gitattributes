@@ -8,3 +8,13 @@
 "工程技术类/混凝土结构/教材/黄逸洋public_三种教材/混凝土结构 清华大学出版社 叶列平.pdf" filter=lfs diff=lfs merge=lfs -text
 "工程技术类/建筑材料/教材/黄逸洋public_Mehta_Monteiro混凝土第4版_20261023/ConcreteStructure Properties and Materials(4th ed.)Mehta, P. K. ( Povindar K. )(OCR).pdf" filter=lfs diff=lfs merge=lfs -text
 "工程技术类/推进原理与技术/讲义/黄逸洋public_推进课件来源_20261023/chap_1.ppt" filter=lfs diff=lfs merge=lfs -text
+"工程技术类/电子电路与系统基础/教材/答疑坊来源_电路分析与微电子教材参考_20261023/微电子电路 第5版（上册）.pdf" filter=lfs diff=lfs merge=lfs -text
+"数学类/应用近世代数/考试/2026春/PKUanonym_期末回忆/2026春.md" -text
+"数学类/应用近世代数/参考资料/PKUanonym_课程说明/课程说明_源README.md" -text
+"数学类/应用近世代数/作业/2026春/PKUanonym_十三次作业与解答/README_来源_20261023.md" -text
+"数学类/应用近世代数/作业/2026春/PKUanonym_十三次作业与解答/来源清单_20261023.json" -text
+"数学类/应用近世代数/考试/2026春/PKUanonym_期末回忆/README_来源_20261023.md" -text
+"数学类/应用近世代数/考试/2026春/PKUanonym_期末回忆/来源清单_20261023.json" -text
+"数学类/应用近世代数/参考资料/PKUanonym_课程说明/README_来源_20261023.md" -text
+"数学类/应用近世代数/参考资料/PKUanonym_课程说明/来源清单_20261023.json" -text
+.gitattributes -text

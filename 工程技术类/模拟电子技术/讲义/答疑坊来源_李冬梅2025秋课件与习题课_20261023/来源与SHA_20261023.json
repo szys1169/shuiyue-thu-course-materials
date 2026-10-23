@@ -1,0 +1,153 @@
+{
+  "title": "李冬梅模拟电路原理课件与习题课",
+  "source": "答疑坊志愿者云盘/资料/电子类/模拟电路/模拟电路原理-李冬梅老师",
+  "date": "2026-10-23",
+  "description": "14份PDF含半导体、放大电路、差分与多级放大、频率特性、负反馈、运放、输出级、脉冲波形及A/D与D/A等主题。首份首页署李冬梅、电子工程系、2025年秋季学期；其余首页为相同课程主题课件，含一份习题课。保留原文件名和页序。",
+  "files": [
+    {
+      "sourceRelativePath": "模拟电路原理-李冬梅老师/模电-2025-01-02.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/1e8eec4e-4736-4c9f-9ac2-4137651ae3c3/file/%E7%AD%94%E7%96%91%E5%9D%8A%E5%BF%97%E6%84%BF%E8%80%85/%E8%B5%84%E6%96%99/%E7%94%B5%E5%AD%90%E7%B1%BB/%E6%A8%A1%E6%8B%9F%E7%94%B5%E8%B7%AF/%E6%A8%A1%E6%8B%9F%E7%94%B5%E8%B7%AF%E5%8E%9F%E7%90%86-%E6%9D%8E%E5%86%AC%E6%A2%85%E8%80%81%E5%B8%88/%E6%A8%A1%E7%94%B5-2025-01-02.pdf",
+      "sourceName": "模电-2025-01-02.pdf",
+      "targetRelativePath": "模电-2025-01-02.pdf",
+      "bytes": 2412672,
+      "sha256": "e3a31bd756b3149793ebd53583f282765fcd092de9a4cbb794947ec86cce942f",
+      "role": "课件与习题课",
+      "pages": 45
+    },
+    {
+      "sourceRelativePath": "模拟电路原理-李冬梅老师/模电-2025-03-04.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/1e8eec4e-4736-4c9f-9ac2-4137651ae3c3/file/%E7%AD%94%E7%96%91%E5%9D%8A%E5%BF%97%E6%84%BF%E8%80%85/%E8%B5%84%E6%96%99/%E7%94%B5%E5%AD%90%E7%B1%BB/%E6%A8%A1%E6%8B%9F%E7%94%B5%E8%B7%AF/%E6%A8%A1%E6%8B%9F%E7%94%B5%E8%B7%AF%E5%8E%9F%E7%90%86-%E6%9D%8E%E5%86%AC%E6%A2%85%E8%80%81%E5%B8%88/%E6%A8%A1%E7%94%B5-2025-03-04.pdf",
+      "sourceName": "模电-2025-03-04.pdf",
+      "targetRelativePath": "模电-2025-03-04.pdf",
+      "bytes": 2004204,
+      "sha256": "b77dc719ad887e59369dc7703f7cd643c5df6bc2db2f3705f1d2e2cac43d2e45",
+      "role": "课件与习题课",
+      "pages": 42
+    },
+    {
+      "sourceRelativePath": "模拟电路原理-李冬梅老师/模电-2025-05-p.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/1e8eec4e-4736-4c9f-9ac2-4137651ae3c3/file/%E7%AD%94%E7%96%91%E5%9D%8A%E5%BF%97%E6%84%BF%E8%80%85/%E8%B5%84%E6%96%99/%E7%94%B5%E5%AD%90%E7%B1%BB/%E6%A8%A1%E6%8B%9F%E7%94%B5%E8%B7%AF/%E6%A8%A1%E6%8B%9F%E7%94%B5%E8%B7%AF%E5%8E%9F%E7%90%86-%E6%9D%8E%E5%86%AC%E6%A2%85%E8%80%81%E5%B8%88/%E6%A8%A1%E7%94%B5-2025-05-p.pdf",
+      "sourceName": "模电-2025-05-p.pdf",
+      "targetRelativePath": "模电-2025-05-p.pdf",
+      "bytes": 1300601,
+      "sha256": "7d928d56a4585b841e3aec88bb91783450b46a1a990e9f3e6973f8ea0dc7f52d",
+      "role": "课件与习题课",
+      "pages": 23
+    },
+    {
+      "sourceRelativePath": "模拟电路原理-李冬梅老师/模电-2025-06-p.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/1e8eec4e-4736-4c9f-9ac2-4137651ae3c3/file/%E7%AD%94%E7%96%91%E5%9D%8A%E5%BF%97%E6%84%BF%E8%80%85/%E8%B5%84%E6%96%99/%E7%94%B5%E5%AD%90%E7%B1%BB/%E6%A8%A1%E6%8B%9F%E7%94%B5%E8%B7%AF/%E6%A8%A1%E6%8B%9F%E7%94%B5%E8%B7%AF%E5%8E%9F%E7%90%86-%E6%9D%8E%E5%86%AC%E6%A2%85%E8%80%81%E5%B8%88/%E6%A8%A1%E7%94%B5-2025-06-p.pdf",
+      "sourceName": "模电-2025-06-p.pdf",
+      "targetRelativePath": "模电-2025-06-p.pdf",
+      "bytes": 8572134,
+      "sha256": "5ac697f70d03dda1e2591fcfa5fc006cd243ff689cb9b485593d39637899f8ea",
+      "role": "课件与习题课",
+      "pages": 19
+    },
+    {
+      "sourceRelativePath": "模拟电路原理-李冬梅老师/模电-2025-AD与DA-p.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/1e8eec4e-4736-4c9f-9ac2-4137651ae3c3/file/%E7%AD%94%E7%96%91%E5%9D%8A%E5%BF%97%E6%84%BF%E8%80%85/%E8%B5%84%E6%96%99/%E7%94%B5%E5%AD%90%E7%B1%BB/%E6%A8%A1%E6%8B%9F%E7%94%B5%E8%B7%AF/%E6%A8%A1%E6%8B%9F%E7%94%B5%E8%B7%AF%E5%8E%9F%E7%90%86-%E6%9D%8E%E5%86%AC%E6%A2%85%E8%80%81%E5%B8%88/%E6%A8%A1%E7%94%B5-2025-AD%E4%B8%8EDA-p.pdf",
+      "sourceName": "模电-2025-AD与DA-p.pdf",
+      "targetRelativePath": "模电-2025-AD与DA-p.pdf",
+      "bytes": 1682455,
+      "sha256": "6af89f88de33bcd54b3c2b5cd05b2d48d57f68ea9eec62d5ab034506cf5f0cef",
+      "role": "课件与习题课",
+      "pages": 40
+    },
+    {
+      "sourceRelativePath": "模拟电路原理-李冬梅老师/模电-2025-习题课1-p.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/1e8eec4e-4736-4c9f-9ac2-4137651ae3c3/file/%E7%AD%94%E7%96%91%E5%9D%8A%E5%BF%97%E6%84%BF%E8%80%85/%E8%B5%84%E6%96%99/%E7%94%B5%E5%AD%90%E7%B1%BB/%E6%A8%A1%E6%8B%9F%E7%94%B5%E8%B7%AF/%E6%A8%A1%E6%8B%9F%E7%94%B5%E8%B7%AF%E5%8E%9F%E7%90%86-%E6%9D%8E%E5%86%AC%E6%A2%85%E8%80%81%E5%B8%88/%E6%A8%A1%E7%94%B5-2025-%E4%B9%A0%E9%A2%98%E8%AF%BE1-p.pdf",
+      "sourceName": "模电-2025-习题课1-p.pdf",
+      "targetRelativePath": "模电-2025-习题课1-p.pdf",
+      "bytes": 1588781,
+      "sha256": "01574ae197ec0091d6924bc0258d38ec126b1563a7e9121512736dda5b377ba8",
+      "role": "课件与习题课",
+      "pages": 23
+    },
+    {
+      "sourceRelativePath": "模拟电路原理-李冬梅老师/模电-2025-多级放大-p.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/1e8eec4e-4736-4c9f-9ac2-4137651ae3c3/file/%E7%AD%94%E7%96%91%E5%9D%8A%E5%BF%97%E6%84%BF%E8%80%85/%E8%B5%84%E6%96%99/%E7%94%B5%E5%AD%90%E7%B1%BB/%E6%A8%A1%E6%8B%9F%E7%94%B5%E8%B7%AF/%E6%A8%A1%E6%8B%9F%E7%94%B5%E8%B7%AF%E5%8E%9F%E7%90%86-%E6%9D%8E%E5%86%AC%E6%A2%85%E8%80%81%E5%B8%88/%E6%A8%A1%E7%94%B5-2025-%E5%A4%9A%E7%BA%A7%E6%94%BE%E5%A4%A7-p.pdf",
+      "sourceName": "模电-2025-多级放大-p.pdf",
+      "targetRelativePath": "模电-2025-多级放大-p.pdf",
+      "bytes": 8982013,
+      "sha256": "dcaab2a6e1e8d38174b633f8cebee6d2c854729dac02eb96482ac59db2f96e3e",
+      "role": "课件与习题课",
+      "pages": 12
+    },
+    {
+      "sourceRelativePath": "模拟电路原理-李冬梅老师/模电-2025-差分放大-p.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/1e8eec4e-4736-4c9f-9ac2-4137651ae3c3/file/%E7%AD%94%E7%96%91%E5%9D%8A%E5%BF%97%E6%84%BF%E8%80%85/%E8%B5%84%E6%96%99/%E7%94%B5%E5%AD%90%E7%B1%BB/%E6%A8%A1%E6%8B%9F%E7%94%B5%E8%B7%AF/%E6%A8%A1%E6%8B%9F%E7%94%B5%E8%B7%AF%E5%8E%9F%E7%90%86-%E6%9D%8E%E5%86%AC%E6%A2%85%E8%80%81%E5%B8%88/%E6%A8%A1%E7%94%B5-2025-%E5%B7%AE%E5%88%86%E6%94%BE%E5%A4%A7-p.pdf",
+      "sourceName": "模电-2025-差分放大-p.pdf",
+      "targetRelativePath": "模电-2025-差分放大-p.pdf",
+      "bytes": 1551729,
+      "sha256": "5f9fd1d5f78d23e95601e7d12f75b034269b9ccdb303f3cc3af082018a7b7a5a",
+      "role": "课件与习题课",
+      "pages": 25
+    },
+    {
+      "sourceRelativePath": "模拟电路原理-李冬梅老师/模电-2025-脉冲波形产生与处理电路-p.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/1e8eec4e-4736-4c9f-9ac2-4137651ae3c3/file/%E7%AD%94%E7%96%91%E5%9D%8A%E5%BF%97%E6%84%BF%E8%80%85/%E8%B5%84%E6%96%99/%E7%94%B5%E5%AD%90%E7%B1%BB/%E6%A8%A1%E6%8B%9F%E7%94%B5%E8%B7%AF/%E6%A8%A1%E6%8B%9F%E7%94%B5%E8%B7%AF%E5%8E%9F%E7%90%86-%E6%9D%8E%E5%86%AC%E6%A2%85%E8%80%81%E5%B8%88/%E6%A8%A1%E7%94%B5-2025-%E8%84%89%E5%86%B2%E6%B3%A2%E5%BD%A2%E4%BA%A7%E7%94%9F%E4%B8%8E%E5%A4%84%E7%90%86%E7%94%B5%E8%B7%AF-p.pdf",
+      "sourceName": "模电-2025-脉冲波形产生与处理电路-p.pdf",
+      "targetRelativePath": "模电-2025-脉冲波形产生与处理电路-p.pdf",
+      "bytes": 1301908,
+      "sha256": "d06e76ebaaa4ae576520313f4c133ddabadb81c3196e2abcc5989a5931cc2924",
+      "role": "课件与习题课",
+      "pages": 33
+    },
+    {
+      "sourceRelativePath": "模拟电路原理-李冬梅老师/模电-2025-负反馈-1-2-p.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/1e8eec4e-4736-4c9f-9ac2-4137651ae3c3/file/%E7%AD%94%E7%96%91%E5%9D%8A%E5%BF%97%E6%84%BF%E8%80%85/%E8%B5%84%E6%96%99/%E7%94%B5%E5%AD%90%E7%B1%BB/%E6%A8%A1%E6%8B%9F%E7%94%B5%E8%B7%AF/%E6%A8%A1%E6%8B%9F%E7%94%B5%E8%B7%AF%E5%8E%9F%E7%90%86-%E6%9D%8E%E5%86%AC%E6%A2%85%E8%80%81%E5%B8%88/%E6%A8%A1%E7%94%B5-2025-%E8%B4%9F%E5%8F%8D%E9%A6%88-1-2-p.pdf",
+      "sourceName": "模电-2025-负反馈-1-2-p.pdf",
+      "targetRelativePath": "模电-2025-负反馈-1-2-p.pdf",
+      "bytes": 810274,
+      "sha256": "3bb9173d9de923e0af715aec98bdf55e694c33e34b369b595178f63f96a6bf30",
+      "role": "课件与习题课",
+      "pages": 33
+    },
+    {
+      "sourceRelativePath": "模拟电路原理-李冬梅老师/模电-2025-负反馈-3-p.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/1e8eec4e-4736-4c9f-9ac2-4137651ae3c3/file/%E7%AD%94%E7%96%91%E5%9D%8A%E5%BF%97%E6%84%BF%E8%80%85/%E8%B5%84%E6%96%99/%E7%94%B5%E5%AD%90%E7%B1%BB/%E6%A8%A1%E6%8B%9F%E7%94%B5%E8%B7%AF/%E6%A8%A1%E6%8B%9F%E7%94%B5%E8%B7%AF%E5%8E%9F%E7%90%86-%E6%9D%8E%E5%86%AC%E6%A2%85%E8%80%81%E5%B8%88/%E6%A8%A1%E7%94%B5-2025-%E8%B4%9F%E5%8F%8D%E9%A6%88-3-p.pdf",
+      "sourceName": "模电-2025-负反馈-3-p.pdf",
+      "targetRelativePath": "模电-2025-负反馈-3-p.pdf",
+      "bytes": 862740,
+      "sha256": "0dfe034d833690e60f4fe3249d4c6ef8e44263ae51b26a196cdfd57fb97793ae",
+      "role": "课件与习题课",
+      "pages": 17
+    },
+    {
+      "sourceRelativePath": "模拟电路原理-李冬梅老师/模电-2025-输出级-p.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/1e8eec4e-4736-4c9f-9ac2-4137651ae3c3/file/%E7%AD%94%E7%96%91%E5%9D%8A%E5%BF%97%E6%84%BF%E8%80%85/%E8%B5%84%E6%96%99/%E7%94%B5%E5%AD%90%E7%B1%BB/%E6%A8%A1%E6%8B%9F%E7%94%B5%E8%B7%AF/%E6%A8%A1%E6%8B%9F%E7%94%B5%E8%B7%AF%E5%8E%9F%E7%90%86-%E6%9D%8E%E5%86%AC%E6%A2%85%E8%80%81%E5%B8%88/%E6%A8%A1%E7%94%B5-2025-%E8%BE%93%E5%87%BA%E7%BA%A7-p.pdf",
+      "sourceName": "模电-2025-输出级-p.pdf",
+      "targetRelativePath": "模电-2025-输出级-p.pdf",
+      "bytes": 8641314,
+      "sha256": "06b8528479c96079f937f641d48b025adb91676a7a761cf0d1de60b1ffb2b519",
+      "role": "课件与习题课",
+      "pages": 16
+    },
+    {
+      "sourceRelativePath": "模拟电路原理-李冬梅老师/模电-2025-运算放大器及其应用-p (1).pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/1e8eec4e-4736-4c9f-9ac2-4137651ae3c3/file/%E7%AD%94%E7%96%91%E5%9D%8A%E5%BF%97%E6%84%BF%E8%80%85/%E8%B5%84%E6%96%99/%E7%94%B5%E5%AD%90%E7%B1%BB/%E6%A8%A1%E6%8B%9F%E7%94%B5%E8%B7%AF/%E6%A8%A1%E6%8B%9F%E7%94%B5%E8%B7%AF%E5%8E%9F%E7%90%86-%E6%9D%8E%E5%86%AC%E6%A2%85%E8%80%81%E5%B8%88/%E6%A8%A1%E7%94%B5-2025-%E8%BF%90%E7%AE%97%E6%94%BE%E5%A4%A7%E5%99%A8%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8-p%20(1).pdf",
+      "sourceName": "模电-2025-运算放大器及其应用-p (1).pdf",
+      "targetRelativePath": "模电-2025-运算放大器及其应用-p (1).pdf",
+      "bytes": 8531163,
+      "sha256": "fd7657187fae1f8929e68e723ac35c947e42f9cc473318b323eb9837a4debd81",
+      "role": "课件与习题课",
+      "pages": 39
+    },
+    {
+      "sourceRelativePath": "模拟电路原理-李冬梅老师/模电-2025-频率特性-电流源-p.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/1e8eec4e-4736-4c9f-9ac2-4137651ae3c3/file/%E7%AD%94%E7%96%91%E5%9D%8A%E5%BF%97%E6%84%BF%E8%80%85/%E8%B5%84%E6%96%99/%E7%94%B5%E5%AD%90%E7%B1%BB/%E6%A8%A1%E6%8B%9F%E7%94%B5%E8%B7%AF/%E6%A8%A1%E6%8B%9F%E7%94%B5%E8%B7%AF%E5%8E%9F%E7%90%86-%E6%9D%8E%E5%86%AC%E6%A2%85%E8%80%81%E5%B8%88/%E6%A8%A1%E7%94%B5-2025-%E9%A2%91%E7%8E%87%E7%89%B9%E6%80%A7-%E7%94%B5%E6%B5%81%E6%BA%90-p.pdf",
+      "sourceName": "模电-2025-频率特性-电流源-p.pdf",
+      "targetRelativePath": "模电-2025-频率特性-电流源-p.pdf",
+      "bytes": 9478742,
+      "sha256": "c3a49f99cd3d11ef37909f09a99889aea204e9ab9a2ea81080d3005effbbe3cc",
+      "role": "课件与习题课",
+      "pages": 44
+    }
+  ],
+  "verification": {
+    "originalBytesPreserved": true,
+    "sameSHAFoundInExistingRelatedCourses": false,
+    "visualScope": "全部10张来源照片与两考试PDF共8页；14份课件各首页。结构与文字层静态检查覆盖16PDF共419页，未称全419页目视。DOCX仅静态XML检查。"
+  }
+}

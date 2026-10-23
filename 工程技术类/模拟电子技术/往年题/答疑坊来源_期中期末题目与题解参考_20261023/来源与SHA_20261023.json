@@ -1,0 +1,123 @@
+{
+  "title": "模拟电路期中期末题目与题解参考",
+  "source": "答疑坊志愿者云盘/资料/电子类/模拟电路/模拟电路原理-李冬梅老师",
+  "date": "2026-10-23",
+  "description": "2020秋期中子目录保留10张投影照片，首张可见2020.11.15及期中试题题头，照片含填答和解题过程，局部受拍摄遮挡。2022秋期中.pdf为5页裁切扫描题图，卷头年份未见，以来源文件名标识；2022秋期末.pdf为3页期末试题及排印参考填答，卷面日期2023.1.2，班级、姓名、学号栏为空。参考内容未经正确性审校，不作标准答案声明。",
+  "files": [
+    {
+      "sourceRelativePath": "模拟电路原理-李冬梅老师/作业参考_考试参考_仿真实验参考_教材/考试/2020秋期中/01.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/1e8eec4e-4736-4c9f-9ac2-4137651ae3c3/file/%E7%AD%94%E7%96%91%E5%9D%8A%E5%BF%97%E6%84%BF%E8%80%85/%E8%B5%84%E6%96%99/%E7%94%B5%E5%AD%90%E7%B1%BB/%E6%A8%A1%E6%8B%9F%E7%94%B5%E8%B7%AF/%E6%A8%A1%E6%8B%9F%E7%94%B5%E8%B7%AF%E5%8E%9F%E7%90%86-%E6%9D%8E%E5%86%AC%E6%A2%85%E8%80%81%E5%B8%88/%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83_%E8%80%83%E8%AF%95%E5%8F%82%E8%80%83_%E4%BB%BF%E7%9C%9F%E5%AE%9E%E9%AA%8C%E5%8F%82%E8%80%83_%E6%95%99%E6%9D%90/%E8%80%83%E8%AF%95/2020%E7%A7%8B%E6%9C%9F%E4%B8%AD/01.jpg",
+      "sourceName": "01.jpg",
+      "targetRelativePath": "2020秋期中/01.jpg",
+      "bytes": 107623,
+      "sha256": "7b54277942caa143b0319d8a7f1056e414d521546d98cf63f5fcd1a665167f7b",
+      "role": "课堂投影题解照片"
+    },
+    {
+      "sourceRelativePath": "模拟电路原理-李冬梅老师/作业参考_考试参考_仿真实验参考_教材/考试/2020秋期中/02.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/1e8eec4e-4736-4c9f-9ac2-4137651ae3c3/file/%E7%AD%94%E7%96%91%E5%9D%8A%E5%BF%97%E6%84%BF%E8%80%85/%E8%B5%84%E6%96%99/%E7%94%B5%E5%AD%90%E7%B1%BB/%E6%A8%A1%E6%8B%9F%E7%94%B5%E8%B7%AF/%E6%A8%A1%E6%8B%9F%E7%94%B5%E8%B7%AF%E5%8E%9F%E7%90%86-%E6%9D%8E%E5%86%AC%E6%A2%85%E8%80%81%E5%B8%88/%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83_%E8%80%83%E8%AF%95%E5%8F%82%E8%80%83_%E4%BB%BF%E7%9C%9F%E5%AE%9E%E9%AA%8C%E5%8F%82%E8%80%83_%E6%95%99%E6%9D%90/%E8%80%83%E8%AF%95/2020%E7%A7%8B%E6%9C%9F%E4%B8%AD/02.jpg",
+      "sourceName": "02.jpg",
+      "targetRelativePath": "2020秋期中/02.jpg",
+      "bytes": 104996,
+      "sha256": "ee715eec0bcc6019f9498e3d4a7e779a7aea97028e2c1d2b088da79f59dcf6a8",
+      "role": "课堂投影题解照片"
+    },
+    {
+      "sourceRelativePath": "模拟电路原理-李冬梅老师/作业参考_考试参考_仿真实验参考_教材/考试/2020秋期中/03.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/1e8eec4e-4736-4c9f-9ac2-4137651ae3c3/file/%E7%AD%94%E7%96%91%E5%9D%8A%E5%BF%97%E6%84%BF%E8%80%85/%E8%B5%84%E6%96%99/%E7%94%B5%E5%AD%90%E7%B1%BB/%E6%A8%A1%E6%8B%9F%E7%94%B5%E8%B7%AF/%E6%A8%A1%E6%8B%9F%E7%94%B5%E8%B7%AF%E5%8E%9F%E7%90%86-%E6%9D%8E%E5%86%AC%E6%A2%85%E8%80%81%E5%B8%88/%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83_%E8%80%83%E8%AF%95%E5%8F%82%E8%80%83_%E4%BB%BF%E7%9C%9F%E5%AE%9E%E9%AA%8C%E5%8F%82%E8%80%83_%E6%95%99%E6%9D%90/%E8%80%83%E8%AF%95/2020%E7%A7%8B%E6%9C%9F%E4%B8%AD/03.jpg",
+      "sourceName": "03.jpg",
+      "targetRelativePath": "2020秋期中/03.jpg",
+      "bytes": 99561,
+      "sha256": "d548530e50c27bbfcbdd642414f85882e1a78282b87d36bcd7497ed44f6e28bc",
+      "role": "课堂投影题解照片"
+    },
+    {
+      "sourceRelativePath": "模拟电路原理-李冬梅老师/作业参考_考试参考_仿真实验参考_教材/考试/2020秋期中/04.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/1e8eec4e-4736-4c9f-9ac2-4137651ae3c3/file/%E7%AD%94%E7%96%91%E5%9D%8A%E5%BF%97%E6%84%BF%E8%80%85/%E8%B5%84%E6%96%99/%E7%94%B5%E5%AD%90%E7%B1%BB/%E6%A8%A1%E6%8B%9F%E7%94%B5%E8%B7%AF/%E6%A8%A1%E6%8B%9F%E7%94%B5%E8%B7%AF%E5%8E%9F%E7%90%86-%E6%9D%8E%E5%86%AC%E6%A2%85%E8%80%81%E5%B8%88/%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83_%E8%80%83%E8%AF%95%E5%8F%82%E8%80%83_%E4%BB%BF%E7%9C%9F%E5%AE%9E%E9%AA%8C%E5%8F%82%E8%80%83_%E6%95%99%E6%9D%90/%E8%80%83%E8%AF%95/2020%E7%A7%8B%E6%9C%9F%E4%B8%AD/04.jpg",
+      "sourceName": "04.jpg",
+      "targetRelativePath": "2020秋期中/04.jpg",
+      "bytes": 112068,
+      "sha256": "2193c80e3cb1dcce9974d52e7bbf137e779e37749fb6c6886d8afbc1540acf79",
+      "role": "课堂投影题解照片"
+    },
+    {
+      "sourceRelativePath": "模拟电路原理-李冬梅老师/作业参考_考试参考_仿真实验参考_教材/考试/2020秋期中/05.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/1e8eec4e-4736-4c9f-9ac2-4137651ae3c3/file/%E7%AD%94%E7%96%91%E5%9D%8A%E5%BF%97%E6%84%BF%E8%80%85/%E8%B5%84%E6%96%99/%E7%94%B5%E5%AD%90%E7%B1%BB/%E6%A8%A1%E6%8B%9F%E7%94%B5%E8%B7%AF/%E6%A8%A1%E6%8B%9F%E7%94%B5%E8%B7%AF%E5%8E%9F%E7%90%86-%E6%9D%8E%E5%86%AC%E6%A2%85%E8%80%81%E5%B8%88/%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83_%E8%80%83%E8%AF%95%E5%8F%82%E8%80%83_%E4%BB%BF%E7%9C%9F%E5%AE%9E%E9%AA%8C%E5%8F%82%E8%80%83_%E6%95%99%E6%9D%90/%E8%80%83%E8%AF%95/2020%E7%A7%8B%E6%9C%9F%E4%B8%AD/05.jpg",
+      "sourceName": "05.jpg",
+      "targetRelativePath": "2020秋期中/05.jpg",
+      "bytes": 106685,
+      "sha256": "986be113b4c4954c471af63245e952fdd1c8450ccc594c6d73a1e66e25eaa5f6",
+      "role": "课堂投影题解照片"
+    },
+    {
+      "sourceRelativePath": "模拟电路原理-李冬梅老师/作业参考_考试参考_仿真实验参考_教材/考试/2020秋期中/06.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/1e8eec4e-4736-4c9f-9ac2-4137651ae3c3/file/%E7%AD%94%E7%96%91%E5%9D%8A%E5%BF%97%E6%84%BF%E8%80%85/%E8%B5%84%E6%96%99/%E7%94%B5%E5%AD%90%E7%B1%BB/%E6%A8%A1%E6%8B%9F%E7%94%B5%E8%B7%AF/%E6%A8%A1%E6%8B%9F%E7%94%B5%E8%B7%AF%E5%8E%9F%E7%90%86-%E6%9D%8E%E5%86%AC%E6%A2%85%E8%80%81%E5%B8%88/%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83_%E8%80%83%E8%AF%95%E5%8F%82%E8%80%83_%E4%BB%BF%E7%9C%9F%E5%AE%9E%E9%AA%8C%E5%8F%82%E8%80%83_%E6%95%99%E6%9D%90/%E8%80%83%E8%AF%95/2020%E7%A7%8B%E6%9C%9F%E4%B8%AD/06.jpg",
+      "sourceName": "06.jpg",
+      "targetRelativePath": "2020秋期中/06.jpg",
+      "bytes": 75089,
+      "sha256": "999017eba39b687357e4f87d0115fcb62c767d6cd2f8d3079b7e596d40424b60",
+      "role": "课堂投影题解照片"
+    },
+    {
+      "sourceRelativePath": "模拟电路原理-李冬梅老师/作业参考_考试参考_仿真实验参考_教材/考试/2020秋期中/07.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/1e8eec4e-4736-4c9f-9ac2-4137651ae3c3/file/%E7%AD%94%E7%96%91%E5%9D%8A%E5%BF%97%E6%84%BF%E8%80%85/%E8%B5%84%E6%96%99/%E7%94%B5%E5%AD%90%E7%B1%BB/%E6%A8%A1%E6%8B%9F%E7%94%B5%E8%B7%AF/%E6%A8%A1%E6%8B%9F%E7%94%B5%E8%B7%AF%E5%8E%9F%E7%90%86-%E6%9D%8E%E5%86%AC%E6%A2%85%E8%80%81%E5%B8%88/%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83_%E8%80%83%E8%AF%95%E5%8F%82%E8%80%83_%E4%BB%BF%E7%9C%9F%E5%AE%9E%E9%AA%8C%E5%8F%82%E8%80%83_%E6%95%99%E6%9D%90/%E8%80%83%E8%AF%95/2020%E7%A7%8B%E6%9C%9F%E4%B8%AD/07.jpg",
+      "sourceName": "07.jpg",
+      "targetRelativePath": "2020秋期中/07.jpg",
+      "bytes": 104352,
+      "sha256": "1d1aec71738deb514f87d98ae39564a6c7fc8eccda31f3a471c8cb295a6c055f",
+      "role": "课堂投影题解照片"
+    },
+    {
+      "sourceRelativePath": "模拟电路原理-李冬梅老师/作业参考_考试参考_仿真实验参考_教材/考试/2020秋期中/08.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/1e8eec4e-4736-4c9f-9ac2-4137651ae3c3/file/%E7%AD%94%E7%96%91%E5%9D%8A%E5%BF%97%E6%84%BF%E8%80%85/%E8%B5%84%E6%96%99/%E7%94%B5%E5%AD%90%E7%B1%BB/%E6%A8%A1%E6%8B%9F%E7%94%B5%E8%B7%AF/%E6%A8%A1%E6%8B%9F%E7%94%B5%E8%B7%AF%E5%8E%9F%E7%90%86-%E6%9D%8E%E5%86%AC%E6%A2%85%E8%80%81%E5%B8%88/%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83_%E8%80%83%E8%AF%95%E5%8F%82%E8%80%83_%E4%BB%BF%E7%9C%9F%E5%AE%9E%E9%AA%8C%E5%8F%82%E8%80%83_%E6%95%99%E6%9D%90/%E8%80%83%E8%AF%95/2020%E7%A7%8B%E6%9C%9F%E4%B8%AD/08.jpg",
+      "sourceName": "08.jpg",
+      "targetRelativePath": "2020秋期中/08.jpg",
+      "bytes": 62516,
+      "sha256": "cef155cd98ee93e5452ad8d94b0905347f2fb9c8f6eef0dae163e0e1576f5fcb",
+      "role": "课堂投影题解照片"
+    },
+    {
+      "sourceRelativePath": "模拟电路原理-李冬梅老师/作业参考_考试参考_仿真实验参考_教材/考试/2020秋期中/09.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/1e8eec4e-4736-4c9f-9ac2-4137651ae3c3/file/%E7%AD%94%E7%96%91%E5%9D%8A%E5%BF%97%E6%84%BF%E8%80%85/%E8%B5%84%E6%96%99/%E7%94%B5%E5%AD%90%E7%B1%BB/%E6%A8%A1%E6%8B%9F%E7%94%B5%E8%B7%AF/%E6%A8%A1%E6%8B%9F%E7%94%B5%E8%B7%AF%E5%8E%9F%E7%90%86-%E6%9D%8E%E5%86%AC%E6%A2%85%E8%80%81%E5%B8%88/%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83_%E8%80%83%E8%AF%95%E5%8F%82%E8%80%83_%E4%BB%BF%E7%9C%9F%E5%AE%9E%E9%AA%8C%E5%8F%82%E8%80%83_%E6%95%99%E6%9D%90/%E8%80%83%E8%AF%95/2020%E7%A7%8B%E6%9C%9F%E4%B8%AD/09.jpg",
+      "sourceName": "09.jpg",
+      "targetRelativePath": "2020秋期中/09.jpg",
+      "bytes": 132598,
+      "sha256": "6bff6be7c3e0b49ee5ec63f15bb8cfa73ad6b4825fea29cf3e9583d338f184ab",
+      "role": "课堂投影题解照片"
+    },
+    {
+      "sourceRelativePath": "模拟电路原理-李冬梅老师/作业参考_考试参考_仿真实验参考_教材/考试/2020秋期中/10.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/1e8eec4e-4736-4c9f-9ac2-4137651ae3c3/file/%E7%AD%94%E7%96%91%E5%9D%8A%E5%BF%97%E6%84%BF%E8%80%85/%E8%B5%84%E6%96%99/%E7%94%B5%E5%AD%90%E7%B1%BB/%E6%A8%A1%E6%8B%9F%E7%94%B5%E8%B7%AF/%E6%A8%A1%E6%8B%9F%E7%94%B5%E8%B7%AF%E5%8E%9F%E7%90%86-%E6%9D%8E%E5%86%AC%E6%A2%85%E8%80%81%E5%B8%88/%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83_%E8%80%83%E8%AF%95%E5%8F%82%E8%80%83_%E4%BB%BF%E7%9C%9F%E5%AE%9E%E9%AA%8C%E5%8F%82%E8%80%83_%E6%95%99%E6%9D%90/%E8%80%83%E8%AF%95/2020%E7%A7%8B%E6%9C%9F%E4%B8%AD/10.jpg",
+      "sourceName": "10.jpg",
+      "targetRelativePath": "2020秋期中/10.jpg",
+      "bytes": 92714,
+      "sha256": "0df60213f09e6f1c282f05144a230e991cb7caeace171d8850271f3543c98b7e",
+      "role": "课堂投影题解照片"
+    },
+    {
+      "sourceRelativePath": "模拟电路原理-李冬梅老师/作业参考_考试参考_仿真实验参考_教材/考试/2022秋期中.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/1e8eec4e-4736-4c9f-9ac2-4137651ae3c3/file/%E7%AD%94%E7%96%91%E5%9D%8A%E5%BF%97%E6%84%BF%E8%80%85/%E8%B5%84%E6%96%99/%E7%94%B5%E5%AD%90%E7%B1%BB/%E6%A8%A1%E6%8B%9F%E7%94%B5%E8%B7%AF/%E6%A8%A1%E6%8B%9F%E7%94%B5%E8%B7%AF%E5%8E%9F%E7%90%86-%E6%9D%8E%E5%86%AC%E6%A2%85%E8%80%81%E5%B8%88/%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83_%E8%80%83%E8%AF%95%E5%8F%82%E8%80%83_%E4%BB%BF%E7%9C%9F%E5%AE%9E%E9%AA%8C%E5%8F%82%E8%80%83_%E6%95%99%E6%9D%90/%E8%80%83%E8%AF%95/2022%E7%A7%8B%E6%9C%9F%E4%B8%AD.pdf",
+      "sourceName": "2022秋期中.pdf",
+      "targetRelativePath": "2022秋期中.pdf",
+      "bytes": 1427627,
+      "sha256": "29022d2e26a93fa1aa791962ab84467aef53f3160747024d55e8dcde8564006c",
+      "role": "扫描题目",
+      "pages": 5
+    },
+    {
+      "sourceRelativePath": "模拟电路原理-李冬梅老师/作业参考_考试参考_仿真实验参考_教材/考试/2022秋期末.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/1e8eec4e-4736-4c9f-9ac2-4137651ae3c3/file/%E7%AD%94%E7%96%91%E5%9D%8A%E5%BF%97%E6%84%BF%E8%80%85/%E8%B5%84%E6%96%99/%E7%94%B5%E5%AD%90%E7%B1%BB/%E6%A8%A1%E6%8B%9F%E7%94%B5%E8%B7%AF/%E6%A8%A1%E6%8B%9F%E7%94%B5%E8%B7%AF%E5%8E%9F%E7%90%86-%E6%9D%8E%E5%86%AC%E6%A2%85%E8%80%81%E5%B8%88/%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83_%E8%80%83%E8%AF%95%E5%8F%82%E8%80%83_%E4%BB%BF%E7%9C%9F%E5%AE%9E%E9%AA%8C%E5%8F%82%E8%80%83_%E6%95%99%E6%9D%90/%E8%80%83%E8%AF%95/2022%E7%A7%8B%E6%9C%9F%E6%9C%AB.pdf",
+      "sourceName": "2022秋期末.pdf",
+      "targetRelativePath": "2022秋期末.pdf",
+      "bytes": 289327,
+      "sha256": "8a95d437d66b44f2b41d5b05fe40a75b8c2343f3820643064ecc45e1bcd15a38",
+      "role": "期末题目与排印参考填答",
+      "pages": 3
+    }
+  ],
+  "verification": {
+    "originalBytesPreserved": true,
+    "sameSHAFoundInExistingRelatedCourses": false,
+    "visualScope": "全部10张来源照片与两考试PDF共8页；14份课件各首页。结构与文字层静态检查覆盖16PDF共419页，未称全419页目视。DOCX仅静态XML检查。"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "repository": "https://github.com/PKUanonym/REKCARC-TSC-UHT",
+  "commit": "37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0",
+  "scope": "13 份 PDF，共 48 页，均为 Anonymous 署名的作业题目与解答，周次与源文件名保持原样。hw9-week12 与 hw10-week12 分别是第12周作业（一）、（二），同周不同内容均保留；hw13-week15 仅1页，原件如此。",
+  "files": [
+    {
+      "name": "hw1-week2.pdf",
+      "sourcePath": "研究生/应用近世代数/hw/hw1-week2.pdf",
+      "sourceURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E7%A0%94%E7%A9%B6%E7%94%9F/%E5%BA%94%E7%94%A8%E8%BF%91%E4%B8%96%E4%BB%A3%E6%95%B0/hw/hw1-week2.pdf",
+      "bytes": 96708,
+      "sha256": "ff420bfe1cf4dd93fbcdba09097c2c3da562ab035ddd3feeb9b3d76bf9fa4899",
+      "gitBlob": "ca57e06c88063bedb7e210c03177ffa1768e05ce",
+      "pages": 4
+    },
+    {
+      "name": "hw10-week12.pdf",
+      "sourcePath": "研究生/应用近世代数/hw/hw10-week12.pdf",
+      "sourceURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E7%A0%94%E7%A9%B6%E7%94%9F/%E5%BA%94%E7%94%A8%E8%BF%91%E4%B8%96%E4%BB%A3%E6%95%B0/hw/hw10-week12.pdf",
+      "bytes": 96684,
+      "sha256": "ea4ddba5a19bb94f3d9d33f14694cbe911a595e5bbb2c9792637e4a0733618fe",
+      "gitBlob": "0dbc5e0521dcb7e5056226986368f67b76dc6877",
+      "pages": 3
+    },
+    {
+      "name": "hw11-week13.pdf",
+      "sourcePath": "研究生/应用近世代数/hw/hw11-week13.pdf",
+      "sourceURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E7%A0%94%E7%A9%B6%E7%94%9F/%E5%BA%94%E7%94%A8%E8%BF%91%E4%B8%96%E4%BB%A3%E6%95%B0/hw/hw11-week13.pdf",
+      "bytes": 117317,
+      "sha256": "311ec92bfd639a85083ba41f816ab144d7049ac0f850a3ac20c47aa0004a8287",
+      "gitBlob": "6070e599e9a5c398b916af16942a29ce52d7b293",
+      "pages": 3
+    },
+    {
+      "name": "hw12-week14.pdf",
+      "sourcePath": "研究生/应用近世代数/hw/hw12-week14.pdf",
+      "sourceURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E7%A0%94%E7%A9%B6%E7%94%9F/%E5%BA%94%E7%94%A8%E8%BF%91%E4%B8%96%E4%BB%A3%E6%95%B0/hw/hw12-week14.pdf",
+      "bytes": 101390,
+      "sha256": "7856e477365efcf7b77a65a861a4e759dc41d0bde254a07dc771dfeac5f799bd",
+      "gitBlob": "56c2d0e7584cb078d66da9ddcecb6d4b8b28dcbf",
+      "pages": 3
+    },
+    {
+      "name": "hw13-week15.pdf",
+      "sourcePath": "研究生/应用近世代数/hw/hw13-week15.pdf",
+      "sourceURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E7%A0%94%E7%A9%B6%E7%94%9F/%E5%BA%94%E7%94%A8%E8%BF%91%E4%B8%96%E4%BB%A3%E6%95%B0/hw/hw13-week15.pdf",
+      "bytes": 49507,
+      "sha256": "a158eea671c7a8a9c5411a0723da17a5649f058b918e6e89f49e803b6c92983e",
+      "gitBlob": "c988000466f01af2052d9b137a65d6fd19e5750b",
+      "pages": 1
+    },
+    {
+      "name": "hw2-week3.pdf",
+      "sourcePath": "研究生/应用近世代数/hw/hw2-week3.pdf",
+      "sourceURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E7%A0%94%E7%A9%B6%E7%94%9F/%E5%BA%94%E7%94%A8%E8%BF%91%E4%B8%96%E4%BB%A3%E6%95%B0/hw/hw2-week3.pdf",
+      "bytes": 140804,
+      "sha256": "7cb13b0f4c0a428e473b99d59a17a9c5bda70022ddd0517c9988b6d28268b199",
+      "gitBlob": "fb7aa99f4a40e5296829374f5304c33a76f1bbc5",
+      "pages": 5
+    },
+    {
+      "name": "hw3-week4.pdf",
+      "sourcePath": "研究生/应用近世代数/hw/hw3-week4.pdf",
+      "sourceURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E7%A0%94%E7%A9%B6%E7%94%9F/%E5%BA%94%E7%94%A8%E8%BF%91%E4%B8%96%E4%BB%A3%E6%95%B0/hw/hw3-week4.pdf",
+      "bytes": 139658,
+      "sha256": "3d87ea79aa140dad0a6fb90adf6cb46c908e0e82525cbf7c84e9385df2aeb547",
+      "gitBlob": "14a8a3244f3632b8f7882d586252e69dbdad7b2d",
+      "pages": 5
+    },
+    {
+      "name": "hw4-week5.pdf",
+      "sourcePath": "研究生/应用近世代数/hw/hw4-week5.pdf",
+      "sourceURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E7%A0%94%E7%A9%B6%E7%94%9F/%E5%BA%94%E7%94%A8%E8%BF%91%E4%B8%96%E4%BB%A3%E6%95%B0/hw/hw4-week5.pdf",
+      "bytes": 110006,
+      "sha256": "edb32a55f20d61f511723920726e47bb79eaf71b5bc732c0b229cbb6ca6c056a",
+      "gitBlob": "a3e57af42b1c64b47446149e0e1c48e4c5077df3",
+      "pages": 4
+    },
+    {
+      "name": "hw5-week6.pdf",
+      "sourcePath": "研究生/应用近世代数/hw/hw5-week6.pdf",
+      "sourceURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E7%A0%94%E7%A9%B6%E7%94%9F/%E5%BA%94%E7%94%A8%E8%BF%91%E4%B8%96%E4%BB%A3%E6%95%B0/hw/hw5-week6.pdf",
+      "bytes": 134110,
+      "sha256": "92d97932c92535b7a654bbd57761c13ead5f9d11a10271cb5da70e636d47c527",
+      "gitBlob": "92557dd4336f86b3e914952455bf9462c1a4f33d",
+      "pages": 4
+    },
+    {
+      "name": "hw6-week8.pdf",
+      "sourcePath": "研究生/应用近世代数/hw/hw6-week8.pdf",
+      "sourceURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E7%A0%94%E7%A9%B6%E7%94%9F/%E5%BA%94%E7%94%A8%E8%BF%91%E4%B8%96%E4%BB%A3%E6%95%B0/hw/hw6-week8.pdf",
+      "bytes": 147703,
+      "sha256": "09c80fa7701d36e8474c508d4211a6321fe5b834ad8ed17d553068e3352e5f42",
+      "gitBlob": "8c158729517007a628438248962523f02a40dceb",
+      "pages": 5
+    },
+    {
+      "name": "hw7-week9.pdf",
+      "sourcePath": "研究生/应用近世代数/hw/hw7-week9.pdf",
+      "sourceURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E7%A0%94%E7%A9%B6%E7%94%9F/%E5%BA%94%E7%94%A8%E8%BF%91%E4%B8%96%E4%BB%A3%E6%95%B0/hw/hw7-week9.pdf",
+      "bytes": 100707,
+      "sha256": "577c4d86239dee08fba95c490f9ab75d5b99ab8467d88b68f7cfcb60033bba3e",
+      "gitBlob": "41212f0f50819ef5e46542fbf50ab7d6338f0da2",
+      "pages": 3
+    },
+    {
+      "name": "hw8-week10.pdf",
+      "sourcePath": "研究生/应用近世代数/hw/hw8-week10.pdf",
+      "sourceURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E7%A0%94%E7%A9%B6%E7%94%9F/%E5%BA%94%E7%94%A8%E8%BF%91%E4%B8%96%E4%BB%A3%E6%95%B0/hw/hw8-week10.pdf",
+      "bytes": 170974,
+      "sha256": "c30b99a3842a96c7284cf2ae8c287979c1d541347c4fa933ec32f2eac4c4f6b9",
+      "gitBlob": "982daa8e67e990e0f90b9d59462bbcb3f83b15a3",
+      "pages": 6
+    },
+    {
+      "name": "hw9-week12.pdf",
+      "sourcePath": "研究生/应用近世代数/hw/hw9-week12.pdf",
+      "sourceURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E7%A0%94%E7%A9%B6%E7%94%9F/%E5%BA%94%E7%94%A8%E8%BF%91%E4%B8%96%E4%BB%A3%E6%95%B0/hw/hw9-week12.pdf",
+      "bytes": 95210,
+      "sha256": "b73b5fdce18d4af8a15a47e4c60f52bf0feec71afe7d623da01f586eece4c9d7",
+      "gitBlob": "1a65b57d14c3f3fbeee03396bd44c178b3a198e8",
+      "pages": 2
+    }
+  ]
+}

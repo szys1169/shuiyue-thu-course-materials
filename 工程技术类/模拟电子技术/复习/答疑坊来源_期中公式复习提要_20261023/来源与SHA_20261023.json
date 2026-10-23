@@ -1,0 +1,22 @@
+{
+  "title": "模拟电路期中公式复习提要",
+  "source": "答疑坊志愿者云盘/资料/电子类/模拟电路/模拟电路原理-李冬梅老师",
+  "date": "2026-10-23",
+  "description": "期中cheatsheet.docx为半导体、PN结、BJT、MOS及放大电路公式提要。正文未注明学期或教师归属；普通文档作者元数据保留，作为来源复习参考，不据此认定课程官方范围。",
+  "files": [
+    {
+      "sourceRelativePath": "模拟电路原理-李冬梅老师/作业参考_考试参考_仿真实验参考_教材/考试/期中cheatsheet.docx",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/1e8eec4e-4736-4c9f-9ac2-4137651ae3c3/file/%E7%AD%94%E7%96%91%E5%9D%8A%E5%BF%97%E6%84%BF%E8%80%85/%E8%B5%84%E6%96%99/%E7%94%B5%E5%AD%90%E7%B1%BB/%E6%A8%A1%E6%8B%9F%E7%94%B5%E8%B7%AF/%E6%A8%A1%E6%8B%9F%E7%94%B5%E8%B7%AF%E5%8E%9F%E7%90%86-%E6%9D%8E%E5%86%AC%E6%A2%85%E8%80%81%E5%B8%88/%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83_%E8%80%83%E8%AF%95%E5%8F%82%E8%80%83_%E4%BB%BF%E7%9C%9F%E5%AE%9E%E9%AA%8C%E5%8F%82%E8%80%83_%E6%95%99%E6%9D%90/%E8%80%83%E8%AF%95/%E6%9C%9F%E4%B8%ADcheatsheet.docx",
+      "sourceName": "期中cheatsheet.docx",
+      "targetRelativePath": "期中cheatsheet.docx",
+      "bytes": 27611,
+      "sha256": "ce7d6a446eab9ff34b0890d157dbcf44cbbd42fc5feb5fd392e4088fff5455d7",
+      "role": "公式复习提要"
+    }
+  ],
+  "verification": {
+    "originalBytesPreserved": true,
+    "sameSHAFoundInExistingRelatedCourses": false,
+    "visualScope": "全部10张来源照片与两考试PDF共8页；14份课件各首页。结构与文字层静态检查覆盖16PDF共419页，未称全419页目视。DOCX仅静态XML检查。"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "repository": "https://github.com/PKUanonym/REKCARC-TSC-UHT",
+  "commit": "37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0",
+  "scope": "保留课程 README 原字节，含群环域范围、来源当期评分设置与教材信息。此处只是归档历史来源说明，不推定为当前课程安排。",
+  "files": [
+    {
+      "name": "课程说明_源README.md",
+      "sourcePath": "研究生/应用近世代数/README.md",
+      "sourceURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E7%A0%94%E7%A9%B6%E7%94%9F/%E5%BA%94%E7%94%A8%E8%BF%91%E4%B8%96%E4%BB%A3%E6%95%B0/README.md",
+      "bytes": 478,
+      "sha256": "8766c03161b9c4d207ab299935c1898fb1bfdb9ce0b9872b72631e91814df033",
+      "gitBlob": "cc9b21b0ce2a364b6b0af8350dc64555453dfc88",
+      "pages": null
+    }
+  ]
+}

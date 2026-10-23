@@ -1,0 +1,128 @@
+{
+  "source": "答疑坊志愿者云盘/资料/电子类/电子电路与系统基础/张沕琳/教材",
+  "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/library/1e8eec4e-4736-4c9f-9ac2-4137651ae3c3/%E7%AD%94%E7%96%91%E5%9D%8A%E5%BF%97%E6%84%BF%E8%80%85%E4%BA%91%E7%9B%98/%E7%AD%94%E7%96%91%E5%9D%8A%E5%BF%97%E6%84%BF%E8%80%85/%E8%B5%84%E6%96%99/%E7%94%B5%E5%AD%90%E7%B1%BB/%E7%94%B5%E5%AD%90%E7%94%B5%E8%B7%AF%E4%B8%8E%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80/%E5%BC%A0%E6%B2%95%E7%90%B3/%E6%95%99%E6%9D%90",
+  "retrievedDate": "2026-10-23",
+  "files": [
+    {
+      "sourceName": "Basic Engineering Circuit Analysis, 12th Edition.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/1e8eec4e-4736-4c9f-9ac2-4137651ae3c3/file/%E7%AD%94%E7%96%91%E5%9D%8A%E5%BF%97%E6%84%BF%E8%80%85/%E8%B5%84%E6%96%99/%E7%94%B5%E5%AD%90%E7%B1%BB/%E7%94%B5%E5%AD%90%E7%94%B5%E8%B7%AF%E4%B8%8E%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80/%E5%BC%A0%E6%B2%95%E7%90%B3/%E6%95%99%E6%9D%90/Basic%20Engineering%20Circuit%20Analysis%2C%2012th%20Edition.pdf",
+      "bytes": 37076379,
+      "sha256": "4c493da86b9b23c0ec9dc2edbc14c22f8ce89ddde4e18661b5168a79399e4e23",
+      "pages": 768,
+      "title": "Basic Engineering Circuit Analysis",
+      "authors": [
+        "J. David Irwin",
+        "R. Mark Nelms"
+      ],
+      "edition": "12th edition",
+      "publisher": "Wiley",
+      "dateEvidence": "版权页©2021；CIP著录[2020]，两者分列",
+      "visualPhysicalPages": [
+        1,
+        6
+      ],
+      "quality": "有1个空签名框；解析记录invalid link destination警告，原件未修写。"
+    },
+    {
+      "sourceName": "Microelectronic Circuits.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/1e8eec4e-4736-4c9f-9ac2-4137651ae3c3/file/%E7%AD%94%E7%96%91%E5%9D%8A%E5%BF%97%E6%84%BF%E8%80%85/%E8%B5%84%E6%96%99/%E7%94%B5%E5%AD%90%E7%B1%BB/%E7%94%B5%E5%AD%90%E7%94%B5%E8%B7%AF%E4%B8%8E%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80/%E5%BC%A0%E6%B2%95%E7%90%B3/%E6%95%99%E6%9D%90/Microelectronic%20Circuits.pdf",
+      "bytes": 62776110,
+      "sha256": "a4404cb4fdf83bdfb98697b0c597c309e70a8fc40317316c396d2cd1b7d5b111",
+      "pages": 1757,
+      "title": "Microelectronic Circuits",
+      "authors": [
+        "Adel S. Sedra",
+        "Kenneth C. Smith",
+        "Tony Chan Carusone",
+        "Vincent Gaudet"
+      ],
+      "edition": "Eighth edition",
+      "publisher": "Oxford University Press",
+      "dateEvidence": "版权2020；版权页Version 5",
+      "visualPhysicalPages": [
+        1,
+        6
+      ],
+      "quality": "解析记录JPX色彩分量与字体cmap警告；原件未修写。"
+    },
+    {
+      "sourceName": "Microelectronic_Circuits_6th_Edition_Ade.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/1e8eec4e-4736-4c9f-9ac2-4137651ae3c3/file/%E7%AD%94%E7%96%91%E5%9D%8A%E5%BF%97%E6%84%BF%E8%80%85/%E8%B5%84%E6%96%99/%E7%94%B5%E5%AD%90%E7%B1%BB/%E7%94%B5%E5%AD%90%E7%94%B5%E8%B7%AF%E4%B8%8E%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80/%E5%BC%A0%E6%B2%95%E7%90%B3/%E6%95%99%E6%9D%90/Microelectronic_Circuits_6th_Edition_Ade.pdf",
+      "bytes": 26624252,
+      "sha256": "3210f892f149801d59cacf198f8f5258ac42263dade2214d6c750df62c7f91f1",
+      "pages": 1649,
+      "title": "Microelectronic Circuits",
+      "authors": [
+        "封面Sedra/Smith"
+      ],
+      "edition": "Sixth edition（封面）",
+      "publisher": "Oxford（封面）",
+      "dateEvidence": "本次前16页未见版权页，版权年份未核",
+      "visualPhysicalPages": [
+        1,
+        2,
+        4
+      ],
+      "quality": "封面后直接为Part I/第1章；前置书目信息不齐，未据此认定整册完整。字体警告原样保留。"
+    },
+    {
+      "sourceName": "微电子电路 第5版（上册）.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/1e8eec4e-4736-4c9f-9ac2-4137651ae3c3/file/%E7%AD%94%E7%96%91%E5%9D%8A%E5%BF%97%E6%84%BF%E8%80%85/%E8%B5%84%E6%96%99/%E7%94%B5%E5%AD%90%E7%B1%BB/%E7%94%B5%E5%AD%90%E7%94%B5%E8%B7%AF%E4%B8%8E%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80/%E5%BC%A0%E6%B2%95%E7%90%B3/%E6%95%99%E6%9D%90/%E5%BE%AE%E7%94%B5%E5%AD%90%E7%94%B5%E8%B7%AF%20%E7%AC%AC5%E7%89%88%EF%BC%88%E4%B8%8A%E5%86%8C%EF%BC%89.pdf",
+      "bytes": 107809054,
+      "sha256": "cad59e03b4c08b33acb7e47ccac49621cbb6e6e06d6deb126785a97d743cf9cc",
+      "pages": 903,
+      "title": "微电子电路（上册）",
+      "authors": [
+        "Adel S. Sedra",
+        "Kenneth C. Smith"
+      ],
+      "translators": [
+        "周玲玲",
+        "蒋乐天",
+        "应忍冬等"
+      ],
+      "reviewer": "徐国治",
+      "edition": "第五版（题名页）",
+      "publisher": "电子工业出版社",
+      "dateEvidence": "原英文版权2004；简体译本版权2006；印次2006年7月第1次印刷",
+      "visualPhysicalPages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "quality": "903页扫描无文字层，边缘与水印保持；目录树解析修复警告只在内存读取产生，未保存PDF。"
+    },
+    {
+      "sourceName": "微电子电路 第5版（下册）.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/1e8eec4e-4736-4c9f-9ac2-4137651ae3c3/file/%E7%AD%94%E7%96%91%E5%9D%8A%E5%BF%97%E6%84%BF%E8%80%85/%E8%B5%84%E6%96%99/%E7%94%B5%E5%AD%90%E7%B1%BB/%E7%94%B5%E5%AD%90%E7%94%B5%E8%B7%AF%E4%B8%8E%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80/%E5%BC%A0%E6%B2%95%E7%90%B3/%E6%95%99%E6%9D%90/%E5%BE%AE%E7%94%B5%E5%AD%90%E7%94%B5%E8%B7%AF%20%E7%AC%AC5%E7%89%88%EF%BC%88%E4%B8%8B%E5%86%8C%EF%BC%89.pdf",
+      "bytes": 39474804,
+      "sha256": "dd18536a028d76c5c883b471dd01477f1a4fb1ca0472779725dbe96f46ba22fa",
+      "pages": 360,
+      "title": "微电子电路（下册）",
+      "authors": [
+        "Adel S. Sedra",
+        "Kenneth C. Smith"
+      ],
+      "translators": [
+        "周玲玲",
+        "蒋乐天",
+        "应忍冬等"
+      ],
+      "reviewer": "徐国治",
+      "edition": "第五版（题名页）",
+      "publisher": "电子工业出版社",
+      "dateEvidence": "原英文版权2004；简体译本版权2006；印次2006年7月第1次印刷",
+      "visualPhysicalPages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "quality": "360页扫描无文字层，边缘与水印保持；目录树解析修复警告只在内存读取产生，未保存PDF。"
+    }
+  ],
+  "originalBytesPreserved": true,
+  "sameSHAExistingRelatedCourseHits": 0,
+  "verificationBoundary": "五PDF共5437页全结构/已有文字层候选检查；实际目视书目角色页共15页；两中文扫描全文无文字层，不声称全文视觉、全文可用、无缺页或课程指定。"
+}

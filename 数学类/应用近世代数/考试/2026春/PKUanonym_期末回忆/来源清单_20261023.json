@@ -1,0 +1,16 @@
+{
+  "repository": "https://github.com/PKUanonym/REKCARC-TSC-UHT",
+  "commit": "37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0",
+  "scope": "2026春.md 为来源作者整理的考试回忆，共8条条目，其中第3条明确忘记、第7条仅概述，保留这些不完整标记，不补写题目或称为完整原卷。",
+  "files": [
+    {
+      "name": "2026春.md",
+      "sourcePath": "研究生/应用近世代数/exams/2026春.md",
+      "sourceURL": "https://github.com/PKUanonym/REKCARC-TSC-UHT/blob/37cd19f7a9fb80dc846a7016b3fd482ed5fe7cc0/%E7%A0%94%E7%A9%B6%E7%94%9F/%E5%BA%94%E7%94%A8%E8%BF%91%E4%B8%96%E4%BB%A3%E6%95%B0/exams/2026%E6%98%A5.md",
+      "bytes": 531,
+      "sha256": "e103abf57991c0d92cf5e3cb870b85f6415ee022c1766ea45af864834a8cac3a",
+      "gitBlob": "0a8546eeeffd0b09c66b8701283b9b8d328d88db",
+      "pages": null
+    }
+  ]
+}
