@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-23",
+  "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E5%B7%A5%E7%A8%8B%E7%83%AD%E5%8A%9B%E5%AD%A6&mode=list",
+  "copyLabel": "去保存历史个人目录整理副本",
+  "scope": "两DOC保存历史路径元数据限定处理，原字节不覆盖",
+  "files": [
+    {
+      "sourceOriginalName": "工程热力学期末试卷答案20050113.doc",
+      "sourceBytes": 214541,
+      "sourceSHA256": "63749cb9c1be682b037007a095c02e57f1ad261055b715709689954df7b71507",
+      "copyName": "工程热力学期末试卷答案20050113_去保存历史个人目录整理副本.doc",
+      "copyBytes": 214541,
+      "copySHA256": "f435ea48a7b85e20c87efe4b5bd3c5647d01d410c5dff3e588d4e8ae7afcf166",
+      "changedSavedPathFields": 2,
+      "savedByAuthorsAndOtherStringsKept": true,
+      "WordDocumentOnlySavedByLengthChanged": true,
+      "allOtherOLEStreamBytesKept": true,
+      "CFBContainerLayoutAndUnrelatedRawBytesKept": true,
+      "fullDocumentTextAndCLXKept": true,
+      "oldPrivateHomeCompletePathsAbsentIncludingSlack": true
+    },
+    {
+      "sourceOriginalName": "02级热力学期中试卷A.doc",
+      "sourceBytes": 54796,
+      "sourceSHA256": "23e5556c09ce545520eee288c30caae7b2d5f6a2e57a39a0a66c820ff6abec04",
+      "copyName": "02级热力学期中试卷A_去保存历史个人目录整理副本.doc",
+      "copyBytes": 54796,
+      "copySHA256": "f9d9689fd93eea2d1338bddba8aacc3b321a0186e369062226aa401aa27abb2f",
+      "changedSavedPathFields": 3,
+      "savedByAuthorsAndOtherStringsKept": true,
+      "WordDocumentOnlySavedByLengthChanged": true,
+      "allOtherOLEStreamBytesKept": true,
+      "CFBContainerLayoutAndUnrelatedRawBytesKept": true,
+      "fullDocumentTextAndCLXKept": true,
+      "oldPrivateHomeCompletePathsAbsentIncludingSlack": true
+    }
+  ],
+  "privatePathValuesIncluded": false,
+  "sourceProgramsExecuted": false,
+  "cloudRevisionStatus": "旧原件撤回与四新增上传未执行"
+}

@@ -1,0 +1,35 @@
+{
+  "revision": "20261023",
+  "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E5%B7%A5%E7%A8%8B%E7%83%AD%E5%8A%9B%E5%AD%A6%2F%E5%B7%A5%E7%A8%8B%E7%83%AD%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E9%97%B5%E6%95%AC%E6%98%A5%20&mode=list",
+  "sourceAliases": [
+    "闵敬春 /第9章 (1).pdf"
+  ],
+  "supersedesForCurrentPublicationOnly": "第9章 (1).pdf",
+  "currentFile": {
+    "name": "第9章 (1)_去图片替代文字个人路径整理副本.pdf",
+    "bytes": 756856,
+    "sha256": "112c3926eeb56fd1b41219c8228930ace8dc5f256d835f4531560a7d2439f088",
+    "pages": 37
+  },
+  "limitedChange": {
+    "field": "/Alt",
+    "count": 8,
+    "replacement": "各自原图片basename",
+    "allOtherSemanticObjectsEqual": true,
+    "semanticObjectsCompared": 1537,
+    "removedStorageContainers": 4,
+    "rawAndDecodedPageContentStreamsEqual": 161,
+    "all37PagesTextContentRefsAndPixels2xEqual": true,
+    "manualVisualPages": [
+      1,
+      19,
+      37
+    ]
+  },
+  "rawPreservation": "原件完整保存在课程过程目录；不覆盖源文件；旧来源说明和索引保留为历史",
+  "cloudStatus": {
+    "oldRawRecoverableWithdrawal": "pending_UI_recovery",
+    "newCopyAndTwoNotesUpload": "pending_UI_recovery"
+  },
+  "scope": "仅图片替代文字中的非通用个人机器目录；不认定学号或姓名；未改讲义正文、嵌图或教学联系信息"
+}
