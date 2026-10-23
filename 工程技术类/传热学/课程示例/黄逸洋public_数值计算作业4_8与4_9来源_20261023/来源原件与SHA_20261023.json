@@ -1,0 +1,44 @@
+{
+  "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E4%BC%A0%E7%83%AD%E5%AD%A6&mode=list",
+  "sourcePaths": 6,
+  "uniqueSHA": 5,
+  "codeExecuted": false,
+  "files": [
+    {
+      "relativePath": "4.9/output.txt",
+      "bytes": 734,
+      "sha256": "77b97984efb3ce9ca46fefa9629271ed4efb52d90036c113317d2dad0eca35ca",
+      "sourceAlias": "2.6_能源动力类_传热学/传热学_复习笔记_马逸/Term Work/传热作业/詹晓航数值计算作业/4.9/output.txt"
+    },
+    {
+      "relativePath": "4.9/main4.9.txt",
+      "bytes": 666,
+      "sha256": "8cca82b3100b1f4e46e45052024f0005ccf76a8f1c9c2c1e72364d275c5e45e3",
+      "sourceAlias": "2.6_能源动力类_传热学/传热学_复习笔记_马逸/Term Work/传热作业/詹晓航数值计算作业/4.9/main4.9.txt"
+    },
+    {
+      "relativePath": "4.9/main.m",
+      "bytes": 666,
+      "sha256": "8cca82b3100b1f4e46e45052024f0005ccf76a8f1c9c2c1e72364d275c5e45e3",
+      "sourceAlias": "2.6_能源动力类_传热学/传热学_复习笔记_马逸/Term Work/传热作业/詹晓航数值计算作业/4.9/main.m"
+    },
+    {
+      "relativePath": "4.8/output.txt",
+      "bytes": 277,
+      "sha256": "da344b75b332de8266abba74bc72355957afa2a0e3f444585d76ebc223d2287a",
+      "sourceAlias": "2.6_能源动力类_传热学/传热学_复习笔记_马逸/Term Work/传热作业/詹晓航数值计算作业/4.8/output.txt"
+    },
+    {
+      "relativePath": "4.8/main4.8.txt",
+      "bytes": 1076,
+      "sha256": "18f5973ab6583e84d41279229085681b49ced4831f50ba2b486caa9f6ac8cf20",
+      "sourceAlias": "2.6_能源动力类_传热学/传热学_复习笔记_马逸/Term Work/传热作业/詹晓航数值计算作业/4.8/main4.8.txt"
+    },
+    {
+      "relativePath": "4.8/main.m",
+      "bytes": 1083,
+      "sha256": "d1168bb99b980dc31668212dc92f038d5f39b424bf359ba2471f68db4c50d38f",
+      "sourceAlias": "2.6_能源动力类_传热学/传热学_复习笔记_马逸/Term Work/传热作业/詹晓航数值计算作业/4.8/main.m"
+    }
+  ]
+}

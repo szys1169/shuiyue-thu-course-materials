@@ -1,0 +1,39 @@
+{
+  "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E9%A3%9E%E8%A1%8C%E5%99%A8%E7%BB%93%E6%9E%84%E5%8A%9B%E5%AD%A6%2F%E9%A3%9E%E8%A1%8C%E5%99%A8%E7%BB%93%E6%9E%84%E5%8A%9B%E5%AD%A6_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8&mode=list",
+  "role": "第二章薄壁结构元件的力学分析、第四章能量原理及弹性结构的变形分析、第五章薄壁结构的弹性静力稳定性分析，共3份PPT。原收集目录称“复习笔记”，实际文件为带讲授提纲、推导和图表的章次课件，不据收集者署名认作者或授课学期。",
+  "originalPaths": 10,
+  "distinctSHA": 5,
+  "archivedSourcePaths": 6,
+  "rawUnique": 3,
+  "heldSourcePaths": 4,
+  "heldUnique": 2,
+  "files": [
+    {
+      "name": "第5章---薄壁结构的弹性静力稳定性分析.ppt",
+      "bytes": 37288960,
+      "sha256": "ad4a51e0cbf43c056b54cf682414d14ae02e9e34f915e4d053bca7ee95fd5f58",
+      "sourceAliases": [
+        "飞行器结构力学_复习笔记_马逸/第5章---薄壁结构的弹性静力稳定性分析.ppt",
+        "飞行器结构力学_复习笔记_马逸/第5章---薄壁结构的弹性静力稳定性分析 (1).ppt"
+      ]
+    },
+    {
+      "name": "第4章---能量原理及弹性结构的变形分析.ppt",
+      "bytes": 3678208,
+      "sha256": "5e3c80bc0b6d32859739830dd53c247f0abc8c238906e028c8b2edf0f4ef2cc7",
+      "sourceAliases": [
+        "飞行器结构力学_复习笔记_马逸/第4章---能量原理及弹性结构的变形分析.ppt",
+        "飞行器结构力学_复习笔记_马逸/第4章---能量原理及弹性结构的变形分析 (1).ppt"
+      ]
+    },
+    {
+      "name": "第2章—薄壁结构元件的力学分析.ppt",
+      "bytes": 29422080,
+      "sha256": "44feaec6fe24cce48544fa53e32ea99742940df481c52ab4b63c90bb679c0bc8",
+      "sourceAliases": [
+        "飞行器结构力学_复习笔记_马逸/第2章—薄壁结构元件的力学分析.ppt",
+        "飞行器结构力学_复习笔记_马逸/第2章—薄壁结构元件的力学分析 (1).ppt"
+      ]
+    }
+  ]
+}

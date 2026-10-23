@@ -1,0 +1,32 @@
+{
+  "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.1_%E6%95%B0%E5%AD%A6%E7%B1%BB_%E5%B8%B8%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B%2F%E8%AF%95%E9%A2%98%E5%9B%9E%E5%BF%86&mode=list",
+  "targetURL": "https://cloud.tsinghua.edu.cn/library/5ba373d2-5ace-4c2d-b4c7-4a7517e1d627/%E6%B0%B4%E6%9C%88%E7%9A%84%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E7%B1%BB/%E5%B8%B8%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/%E5%BE%80%E5%B9%B4%E9%A2%98/%E7%9B%B8%E5%85%B3%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83_%E8%89%BE%E9%A2%96%E5%8D%8E2022%E8%AF%95%E9%A2%98%E5%9B%9E%E5%BF%86_%E9%BB%84%E9%80%B8%E6%B4%8Bpublic",
+  "role": "2份空白题面PDF，分别2页，共4页。原页标明2022春期中（4月17日）与期末（6月14日），含题目和分值、无填写答案。艾颖华沿来源题名保留，正文所见未署任课教师。原共享分类为试题回忆，不据题面断言官方发布。",
+  "sourcePaths": 2,
+  "rawBytes": 137566,
+  "files": [
+    {
+      "name": "2022年春季《常微分方程》期末试卷_艾颖华.pdf",
+      "bytes": 64772,
+      "sha256": "bb520dd05480b222b62bbf476d0e9050b577d84a6ce819b7774ea0010fd8b8b1",
+      "pages": 2,
+      "annotations": [],
+      "widgets": 0,
+      "embedded": 0,
+      "targetRelativePath": "数学类/常微分方程/往年题/相关课程参考_艾颖华2022试题回忆_黄逸洋public/2022年春季《常微分方程》期末试卷_艾颖华.pdf"
+    },
+    {
+      "name": "2022年春季《常微分方程》期中考试试题_艾颖华.pdf",
+      "bytes": 72794,
+      "sha256": "ec66c68c4617e55aad93501d733a1d2cde21807b948feede033e092b48724e81",
+      "pages": 2,
+      "annotations": [],
+      "widgets": 0,
+      "embedded": 0,
+      "targetRelativePath": "数学类/常微分方程/往年题/相关课程参考_艾颖华2022试题回忆_黄逸洋public/2022年春季《常微分方程》期中考试试题_艾颖华.pdf"
+    }
+  ],
+  "verification": "本次2source与已有target原件逐字节CRC/SHA一致，本地缺件复制；旧两说明原字节未改。全部4页实际查看。",
+  "archiveUploaded": 0,
+  "rawUploaded": 0
+}

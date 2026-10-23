@@ -1,0 +1,37 @@
+{
+  "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E5%88%B6%E9%80%A0%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80%2F%E5%88%B6%E9%80%A0%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8&mode=list",
+  "role": "3份期末复习提纲、综合习题课和思考题汇总。提纲与习题课原页明确张辉及2013年6月9日，其中尺寸链等例题带参考解答；未署名思考题不据同目录扩推作者，也不认当前正式往年卷。",
+  "allPagesVisualReviewed": false,
+  "files": [
+    {
+      "name": "期末复习提纲2013.pdf",
+      "bytes": 354561,
+      "sha256": "459cc2006b2bfe8500f61518fb93e2dc11edb412db00324f8964ff44d8465f22",
+      "pages": 20,
+      "annotations": 0,
+      "sourceAliases": [
+        "制造工程基础_复习笔记_马逸/期末复习提纲2013.pdf"
+      ]
+    },
+    {
+      "name": "期末复习思考题汇总.pdf",
+      "bytes": 464831,
+      "sha256": "e41710fb77dbfb3a7d9306f6bed00099c0de8e4ddae47d8f574a8cd69067c5f1",
+      "pages": 8,
+      "annotations": 0,
+      "sourceAliases": [
+        "制造工程基础_复习笔记_马逸/期末复习思考题汇总.pdf"
+      ]
+    },
+    {
+      "name": "期末习题课2013.pdf",
+      "bytes": 1363517,
+      "sha256": "b7796013d3cc8960a8cbb64acdbbe9a6d50ae2b97e427b5cbd536b0d7eaf3adf",
+      "pages": 28,
+      "annotations": 0,
+      "sourceAliases": [
+        "制造工程基础_复习笔记_马逸/期末习题课2013.pdf"
+      ]
+    }
+  ]
+}

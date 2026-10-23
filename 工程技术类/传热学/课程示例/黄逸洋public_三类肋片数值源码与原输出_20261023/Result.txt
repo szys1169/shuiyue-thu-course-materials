@@ -1,0 +1,12 @@
+The result of rectangle rib : 
+¦µ = 13437.186
+¦µ0 = 25760.000
+¦Ç = 52.163%
+The result of triangle rib : 
+¦µ = 12124.000
+¦µ0 = 22650.598
+¦Ç = 53.526%
+The result of parabola rib : 
+¦µ = 12236.000
+¦µ0 = 22736.000
+¦Ç = 53.818%

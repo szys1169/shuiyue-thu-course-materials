@@ -1,0 +1,39 @@
+{
+  "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E4%BC%A0%E7%83%AD%E5%AD%A6&mode=list",
+  "files": [
+    {
+      "name": "main.cpp",
+      "bytes": 532,
+      "sha256": "3771784bdb770e5200ce11494d1ec35364e26328e123147b010758d308e8cc58",
+      "sourceKey": "ribSource1"
+    },
+    {
+      "name": "TriangleRib.h",
+      "bytes": 4790,
+      "sha256": "e80992c762023d82ef89c4cd3d264a0658b95f6c295036d75cd1c4b4914fa3d8",
+      "sourceKey": "ribSource2"
+    },
+    {
+      "name": "RectangleRib.h",
+      "bytes": 3434,
+      "sha256": "46e2044e2453ae573dff0000e66a65843f1fc93b0b48c8729c1e5be8faac24bd",
+      "sourceKey": "ribSource3"
+    },
+    {
+      "name": "ParabolaRib.h",
+      "bytes": 5297,
+      "sha256": "6a26d944d3e1f2120c8ca8cc52774cacdd61b22011ba4dee7c60bb85b5f36125",
+      "sourceKey": "ribSource4"
+    },
+    {
+      "name": "Result.txt",
+      "bytes": 235,
+      "sha256": "cbd5ad725669b716f43c89580993d4ea79abe515c1572d96b02bc127098e7a13",
+      "sourceKey": "ribSource5"
+    }
+  ],
+  "originalPathMapping": "完整原来源路径仅在过程私有映射中保留；本清单按原名与SHA定位",
+  "codeExecuted": false,
+  "referencedHeadersPreserved": true,
+  "existingOutputRecomputed": false
+}

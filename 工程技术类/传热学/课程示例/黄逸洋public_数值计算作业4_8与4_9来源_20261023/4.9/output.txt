@@ -1,0 +1,31 @@
+68.7333 min
+
+la=0.156;%lambda
+a=0.008*10^(-5);
+de=0.019;%delta
+N=10;%x单元数量
+dt=5;%时间单元
+kmax=3000;%时间单元上限
+dx=de/N;%x单元
+Fo=a*dt/(dx*dx);
+if Fo>0.5
+    disp('not stable');%傅里叶数大于0.5不稳定
+    return;
+end
+T=zeros(N+1,kmax);%温度分布矩阵
+for i=1:1:kmax+1
+    T(1,i)=170;%第一类边界条件
+end
+for i=2:1:N+1
+    T(i,1)=20;%初始值
+end
+for k=1:1:kmax
+    for i=2:1:N
+        T(i,k+1)=Fo*(T(i-1,k)+T(i+1,k))+(1-2*Fo)*T(i,k);
+    end
+    T(N+1,k+1)=2*Fo*T(N,k)+(1-2*Fo)*T(N+1,k);%认为中间为绝热，第二类边界条件
+    if T(N+1,k+1)>=150
+        disp(k*dt);%以分钟显示
+        %disp(T);%打印刚固化时温度分布
+        return;
+    end

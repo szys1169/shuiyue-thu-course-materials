@@ -1,0 +1,67 @@
+{
+  "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E4%BC%A0%E7%83%AD%E5%AD%A6&mode=list",
+  "files": [
+    {
+      "relativePath": "8/8.xcodeproj/project.xcworkspace/contents.xcworkspacedata",
+      "bytes": 146,
+      "sha256": "f3ea85cf3892f553146c139dac93856b09e984e729f292bc83af28865488027e",
+      "sourceAlias": "2.6_能源动力类_传热学/传热学_复习笔记_马逸/Term Work/传热作业/8/8.xcodeproj/project.xcworkspace/contents.xcworkspacedata"
+    },
+    {
+      "relativePath": "8/8.xcodeproj/project.pbxproj",
+      "bytes": 7207,
+      "sha256": "7b9d90516fd51e9bebc7b26795418975bfcbbfad461ff6f22b9d04f79b0e821c",
+      "sourceAlias": "2.6_能源动力类_传热学/传热学_复习笔记_马逸/Term Work/传热作业/8/8.xcodeproj/project.pbxproj"
+    },
+    {
+      "relativePath": "8/8/main.c",
+      "bytes": 4193,
+      "sha256": "07b052dedde1d95680cf2d1b91d982ff0ddfb1577413f250164f5228a0f56be4",
+      "sourceAlias": "2.6_能源动力类_传热学/传热学_复习笔记_马逸/Term Work/传热作业/8/8/main.c"
+    },
+    {
+      "relativePath": "4.8/4.8.xcodeproj/tempCodeRunnerFile.python",
+      "bytes": 1268,
+      "sha256": "37a1718c2291c015cdec548d653d10b162bb606c5d93f268ade854f46e106826",
+      "sourceAlias": "2.6_能源动力类_传热学/传热学_复习笔记_马逸/Term Work/传热作业/4.8/4.8.xcodeproj/tempCodeRunnerFile.python"
+    },
+    {
+      "relativePath": "4.8/4.8.xcodeproj/project.xcworkspace/contents.xcworkspacedata",
+      "bytes": 148,
+      "sha256": "11547d266eca4f44a51cf52b79cd548c20510bad39dc9d176e6b28c8d5e1898e",
+      "sourceAlias": "2.6_能源动力类_传热学/传热学_复习笔记_马逸/Term Work/传热作业/4.8/4.8.xcodeproj/project.xcworkspace/contents.xcworkspacedata"
+    },
+    {
+      "relativePath": "4.8/4.8.xcodeproj/project.pbxproj",
+      "bytes": 7237,
+      "sha256": "e792def736d1a0dddfad2e336f75206fdc8426db1dc6496bda5d8bd94d10bfbe",
+      "sourceAlias": "2.6_能源动力类_传热学/传热学_复习笔记_马逸/Term Work/传热作业/4.8/4.8.xcodeproj/project.pbxproj"
+    },
+    {
+      "relativePath": "4.8/4.8.xcodeproj/.vscode/settings.json",
+      "bytes": 1421,
+      "sha256": "891979d0e1509ff2f884d522ba4254347b820d9bd729f9e9c165872f9f5ac79e",
+      "sourceAlias": "2.6_能源动力类_传热学/传热学_复习笔记_马逸/Term Work/传热作业/4.8/4.8.xcodeproj/.vscode/settings.json"
+    },
+    {
+      "relativePath": "4.8/4.8.xcodeproj/.vscode/launch.json",
+      "bytes": 233,
+      "sha256": "afb7d396d67fd3b6b90a90f9e98139050ace4bc755a9cc37059f20ef9697c43a",
+      "sourceAlias": "2.6_能源动力类_传热学/传热学_复习笔记_马逸/Term Work/传热作业/4.8/4.8.xcodeproj/.vscode/launch.json"
+    },
+    {
+      "relativePath": "4.8/4.8.xcodeproj/.vscode/c_cpp_properties.json",
+      "bytes": 354,
+      "sha256": "b349aead75000d774b9fb9f6f836613f445f8d4812fdb0df16b1945c0c9e6dde",
+      "sourceAlias": "2.6_能源动力类_传热学/传热学_复习笔记_马逸/Term Work/传热作业/4.8/4.8.xcodeproj/.vscode/c_cpp_properties.json"
+    },
+    {
+      "relativePath": "4.8/4.8/main.c",
+      "bytes": 35,
+      "sha256": "2f76b103fafc5bf500a92b00ad6d3c1274c450f2a234d918f4812777f6adc542",
+      "sourceAlias": "2.6_能源动力类_传热学/传热学_复习笔记_马逸/Term Work/传热作业/4.8/4.8/main.c"
+    }
+  ],
+  "codeExecuted": false,
+  "buildOutputUploaded": false
+}

@@ -1,0 +1,78 @@
+{
+  "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E6%8C%AF%E5%8A%A8%E9%87%8F%E6%B5%8B%2F%E6%8C%AF%E5%8A%A8%E9%87%8F%E6%B5%8B_%E9%A9%AC%E9%80%B8&mode=list",
+  "role": "7份陆秋海/清华大学航天航空学院振动量测课件，366个PDF文件页，内容为绪论、振动传感器测量系统、运动量与动特性测量、信号处理分析、实验模态理论、SDOF参数识别和FRF测试。源文件名包含2016、2017、2018等标签，原页亦有具体日期，按每件证据保留，不统一推断为某届授课。",
+  "allPagesVisualReviewed": false,
+  "visualPages": 14,
+  "files": [
+    {
+      "name": "(1) 第1讲 绪论2018.pdf",
+      "bytes": 5248527,
+      "sha256": "b07794761e3bfcaf3178b543301e32e6f75bf6e933ffcf20fb42be4b6af0b7bb",
+      "pages": 32,
+      "annotations": 0,
+      "sourceAliases": [
+        "振动量测_马逸/(1) 第1讲 绪论2018.pdf"
+      ]
+    },
+    {
+      "name": "(2) 第2讲 振动传感器测量系统原理及其应用技术2017.pdf",
+      "bytes": 6239053,
+      "sha256": "22f27ba48a2034e504c69e96bba0238de37b40d66c8a4cf9daf4612afeb20c92",
+      "pages": 118,
+      "annotations": 2,
+      "sourceAliases": [
+        "振动量测_马逸/(2) 第2讲 振动传感器测量系统原理及其应用技术2017.pdf"
+      ]
+    },
+    {
+      "name": "(3)第3讲机械振动的运动量和动特性参数.pdf",
+      "bytes": 1511336,
+      "sha256": "611a9af2cdfaf2fa1dd3f5e72afb8582c80b348273d0e538cc81ef91aa790598",
+      "pages": 26,
+      "annotations": 0,
+      "sourceAliases": [
+        "振动量测_马逸/(3)第3讲机械振动的运动量和动特性参数.pdf"
+      ]
+    },
+    {
+      "name": "(4) 第4讲 信号处理与信号分析2018.pdf",
+      "bytes": 6082896,
+      "sha256": "0feadbd9707d258b2722a9726fdbb7f97a5be55081451db53f637cd09f7bec3b",
+      "pages": 104,
+      "annotations": 0,
+      "sourceAliases": [
+        "振动量测_马逸/(4) 第4讲 信号处理与信号分析2018.pdf"
+      ]
+    },
+    {
+      "name": "(5) 第5讲 结构实验模态理论 - 2016.pdf",
+      "bytes": 3364105,
+      "sha256": "4c8ff17a8af3f8e1996767782bd1c98715d66f30157b35f83dc0147ee1c67318",
+      "pages": 37,
+      "annotations": 0,
+      "sourceAliases": [
+        "振动量测_马逸/(5) 第5讲 结构实验模态理论 - 2016.pdf"
+      ]
+    },
+    {
+      "name": "(6) 第6讲 SDOF模态参数识别法 - 20160928.pdf",
+      "bytes": 330441,
+      "sha256": "cbede2e4eb5bfbe8b1156c08d990ab96014c0900be2581da4fccf86be33bf3a2",
+      "pages": 5,
+      "annotations": 0,
+      "sourceAliases": [
+        "振动量测_马逸/(6) 第6讲 SDOF模态参数识别法 - 20160928.pdf"
+      ]
+    },
+    {
+      "name": "(7) 第7讲 频响函数(FRFs)测试技术2016r.pdf",
+      "bytes": 3990529,
+      "sha256": "b0749bf5bb605b8406ebc685b9beb4fef86ba4199328620f1c4e067a66c2863c",
+      "pages": 44,
+      "annotations": 0,
+      "sourceAliases": [
+        "振动量测_马逸/(7) 第7讲 频响函数(FRFs)测试技术2016r.pdf"
+      ]
+    }
+  ]
+}
