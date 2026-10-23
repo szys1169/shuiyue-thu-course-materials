@@ -1,0 +1,45 @@
+{
+  "source": "答疑坊志愿者云盘/资料/电子类/电路原理/电原期末",
+  "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/library/1e8eec4e-4736-4c9f-9ac2-4137651ae3c3/%E7%AD%94%E7%96%91%E5%9D%8A%E5%BF%97%E6%84%BF%E8%80%85%E4%BA%91%E7%9B%98/%E7%AD%94%E7%96%91%E5%9D%8A%E5%BF%97%E6%84%BF%E8%80%85/%E8%B5%84%E6%96%99/%E7%94%B5%E5%AD%90%E7%B1%BB/%E7%94%B5%E8%B7%AF%E5%8E%9F%E7%90%86/%E7%94%B5%E5%8E%9F%E6%9C%9F%E6%9C%AB",
+  "takenDate": "2026-10-23",
+  "courseBoundary": "作为电路原理相关课程参考，具体课型/任课教师未凭来源目录确认，不将全部材料认作电路原理C本课指定资料",
+  "files": [
+    {
+      "sourceName": "XX年秋期末电原试题.pdf",
+      "sourceDirectoryLabel": "电原期末",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/1e8eec4e-4736-4c9f-9ac2-4137651ae3c3/file/%E7%AD%94%E7%96%91%E5%9D%8A%E5%BF%97%E6%84%BF%E8%80%85/%E8%B5%84%E6%96%99/%E7%94%B5%E5%AD%90%E7%B1%BB/%E7%94%B5%E8%B7%AF%E5%8E%9F%E7%90%86/%E7%94%B5%E5%8E%9F%E6%9C%9F%E6%9C%AB/XX%E5%B9%B4%E7%A7%8B%E6%9C%9F%E6%9C%AB%E7%94%B5%E5%8E%9F%E8%AF%95%E9%A2%98.pdf",
+      "bytes": 123974,
+      "sha256": "fb1f26e5f5a0e80cfd0c57b07dc1332ab1f7f2b06fb4f97aab4ffba3acc8ab11",
+      "pages": 2,
+      "role": "空白A卷，卷面年份为问号，期末类别沿来源目录",
+      "action": "new_original",
+      "targetName": "XX年秋期末电原试题.pdf"
+    },
+    {
+      "sourceName": "往届期末考题.pdf",
+      "sourceDirectoryLabel": "电原期末",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/1e8eec4e-4736-4c9f-9ac2-4137651ae3c3/file/%E7%AD%94%E7%96%91%E5%9D%8A%E5%BF%97%E6%84%BF%E8%80%85/%E8%B5%84%E6%96%99/%E7%94%B5%E5%AD%90%E7%B1%BB/%E7%94%B5%E8%B7%AF%E5%8E%9F%E7%90%86/%E7%94%B5%E5%8E%9F%E6%9C%9F%E6%9C%AB/%E5%BE%80%E5%B1%8A%E6%9C%9F%E6%9C%AB%E8%80%83%E9%A2%98.pdf",
+      "bytes": 222167,
+      "sha256": "f9580ea30580035b5edd80c6b09774b76a39527a4dc65093a1d4ac6982d26c1c",
+      "pages": 2,
+      "role": "空白A卷，卷面年份日期为问号，期末类别沿来源目录",
+      "action": "new_original",
+      "targetName": "往届期末考题.pdf"
+    },
+    {
+      "sourceName": "清华大学2005年电路原理期末试题.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/1e8eec4e-4736-4c9f-9ac2-4137651ae3c3/file/%E7%AD%94%E7%96%91%E5%9D%8A%E5%BF%97%E6%84%BF%E8%80%85/%E8%B5%84%E6%96%99/%E7%94%B5%E5%AD%90%E7%B1%BB/%E7%94%B5%E8%B7%AF%E5%8E%9F%E7%90%86/%E7%94%B5%E5%8E%9F%E6%9C%9F%E6%9C%AB/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A62005%E5%B9%B4%E7%94%B5%E8%B7%AF%E5%8E%9F%E7%90%86%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98.pdf",
+      "bytes": 41109,
+      "sha256": "ab6d1ac7264f7c76d80900df875a36f10e5c0b8d9e62d2cbcfff2a948ce3a63b",
+      "pages": 2,
+      "role": "电路原理期末试题，卷面2005.6，空白题卷",
+      "action": "exact_sha_reuse",
+      "existingRelativePath": "../参考试题_黄逸洋public_20261023/电路原理-于歆杰-2005期末.pdf",
+      "evidence": "本轮源/现规范freshSHA相同；本轮先前三电类代表已回取云端SHA，当前UI原件可见；Git状态不据此推断"
+    }
+  ],
+  "sourceExcludedCount": 1,
+  "excludedBoundary": "另1份卷头有填写身份，原件过程保留，本组未上传",
+  "preservation": "原名、页序、原批注及扫描遮挡原样保留；未执行外链、未校算解答正确性",
+  "fullScopeBoundary": "本批仅答疑坊电路10来源路径，不含模电等其它课程"
+}

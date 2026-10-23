@@ -1,0 +1,78 @@
+{
+  "source": "答疑坊志愿者云盘/资料/电子类/电路原理/电原期中",
+  "sourceDirectoryURL": "https://cloud.tsinghua.edu.cn/library/1e8eec4e-4736-4c9f-9ac2-4137651ae3c3/%E7%AD%94%E7%96%91%E5%9D%8A%E5%BF%97%E6%84%BF%E8%80%85%E4%BA%91%E7%9B%98/%E7%AD%94%E7%96%91%E5%9D%8A%E5%BF%97%E6%84%BF%E8%80%85/%E8%B5%84%E6%96%99/%E7%94%B5%E5%AD%90%E7%B1%BB/%E7%94%B5%E8%B7%AF%E5%8E%9F%E7%90%86/%E7%94%B5%E5%8E%9F%E6%9C%9F%E4%B8%AD",
+  "takenDate": "2026-10-23",
+  "courseBoundary": "作为电路原理相关课程参考，具体课型/任课教师未凭来源目录确认，不将全部材料认作电路原理C本课指定资料",
+  "files": [
+    {
+      "sourceName": "电原2020期中.pdf",
+      "sourceDirectoryLabel": "电原期中",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/1e8eec4e-4736-4c9f-9ac2-4137651ae3c3/file/%E7%AD%94%E7%96%91%E5%9D%8A%E5%BF%97%E6%84%BF%E8%80%85/%E8%B5%84%E6%96%99/%E7%94%B5%E5%AD%90%E7%B1%BB/%E7%94%B5%E8%B7%AF%E5%8E%9F%E7%90%86/%E7%94%B5%E5%8E%9F%E6%9C%9F%E4%B8%AD/%E7%94%B5%E5%8E%9F2020%E6%9C%9F%E4%B8%AD.pdf",
+      "bytes": 4153851,
+      "sha256": "925caf5814b750ba7804cd2ea6411d4119f88b4a61413891b6ac061b5249af60",
+      "pages": 8,
+      "role": "来源标2020春期中；雨课堂题图和手写参考推导节选，原图页码3/10至10/10，不是完整10页卷",
+      "action": "new_original",
+      "targetName": "电原2020期中.pdf"
+    },
+    {
+      "sourceName": "电原期中2013.pdf",
+      "sourceDirectoryLabel": "电原期中",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/1e8eec4e-4736-4c9f-9ac2-4137651ae3c3/file/%E7%AD%94%E7%96%91%E5%9D%8A%E5%BF%97%E6%84%BF%E8%80%85/%E8%B5%84%E6%96%99/%E7%94%B5%E5%AD%90%E7%B1%BB/%E7%94%B5%E8%B7%AF%E5%8E%9F%E7%90%86/%E7%94%B5%E5%8E%9F%E6%9C%9F%E4%B8%AD/%E7%94%B5%E5%8E%9F%E6%9C%9F%E4%B8%AD2013.pdf",
+      "bytes": 4661369,
+      "sha256": "d0d5fff52b6d5ac4571964de75c31f8309d42fad490e25fbcc3aea9db76c8882",
+      "pages": 2,
+      "role": "原名2013，实际卷面2014.4.13；扫描题卷含手写旁注及原有遮白，页序/遮挡保持",
+      "action": "new_original",
+      "targetName": "电原期中2013.pdf"
+    },
+    {
+      "sourceName": "电原期中2022.pdf",
+      "sourceDirectoryLabel": "电原期中",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/1e8eec4e-4736-4c9f-9ac2-4137651ae3c3/file/%E7%AD%94%E7%96%91%E5%9D%8A%E5%BF%97%E6%84%BF%E8%80%85/%E8%B5%84%E6%96%99/%E7%94%B5%E5%AD%90%E7%B1%BB/%E7%94%B5%E8%B7%AF%E5%8E%9F%E7%90%86/%E7%94%B5%E5%8E%9F%E6%9C%9F%E4%B8%AD/%E7%94%B5%E5%8E%9F%E6%9C%9F%E4%B8%AD2022.pdf",
+      "bytes": 480602,
+      "sha256": "fed83991b3dccbe2880399cfddd2f18627344c0f322467aac2b624f0e242ade4",
+      "pages": 3,
+      "role": "卷面电路原理期中2022.10.30；三张扫描题页，含圈点/划记，未见填写身份",
+      "action": "new_original",
+      "targetName": "电原期中2022.pdf"
+    },
+    {
+      "sourceName": "电原期中2025.pdf",
+      "sourceDirectoryLabel": "电原期中",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/1e8eec4e-4736-4c9f-9ac2-4137651ae3c3/file/%E7%AD%94%E7%96%91%E5%9D%8A%E5%BF%97%E6%84%BF%E8%80%85/%E8%B5%84%E6%96%99/%E7%94%B5%E5%AD%90%E7%B1%BB/%E7%94%B5%E8%B7%AF%E5%8E%9F%E7%90%86/%E7%94%B5%E5%8E%9F%E6%9C%9F%E4%B8%AD/%E7%94%B5%E5%8E%9F%E6%9C%9F%E4%B8%AD2025.pdf",
+      "bytes": 1302784,
+      "sha256": "ab952b60ff6dbd27b8b29637237da3f224c1d6a6b0deb76e883d77e2d739bebf",
+      "pages": 3,
+      "role": "来源标2025期中；三页题单扫描，卷头/日期未清楚显示，年份仅来源标签",
+      "action": "new_original",
+      "targetName": "电原期中2025.pdf"
+    },
+    {
+      "sourceName": "某年期中(1).pdf",
+      "sourceDirectoryLabel": "电原期中",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/1e8eec4e-4736-4c9f-9ac2-4137651ae3c3/file/%E7%AD%94%E7%96%91%E5%9D%8A%E5%BF%97%E6%84%BF%E8%80%85/%E8%B5%84%E6%96%99/%E7%94%B5%E5%AD%90%E7%B1%BB/%E7%94%B5%E8%B7%AF%E5%8E%9F%E7%90%86/%E7%94%B5%E5%8E%9F%E6%9C%9F%E4%B8%AD/%E6%9F%90%E5%B9%B4%E6%9C%9F%E4%B8%AD(1).pdf",
+      "bytes": 156946,
+      "sha256": "15aa91150830b81e700ecb7ac741c1d030cd1f8ed4855850731889118d21f8e4",
+      "pages": 2,
+      "role": "电路原理期中空白题卷，年份未印",
+      "action": "new_original",
+      "targetName": "某年期中(1).pdf"
+    },
+    {
+      "sourceName": "期中180411-4(1).pdf",
+      "sourceDirectoryLabel": "电原期中",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/lib/1e8eec4e-4736-4c9f-9ac2-4137651ae3c3/file/%E7%AD%94%E7%96%91%E5%9D%8A%E5%BF%97%E6%84%BF%E8%80%85/%E8%B5%84%E6%96%99/%E7%94%B5%E5%AD%90%E7%B1%BB/%E7%94%B5%E8%B7%AF%E5%8E%9F%E7%90%86/%E7%94%B5%E5%8E%9F%E6%9C%9F%E4%B8%AD/%E6%9C%9F%E4%B8%AD180411-4(1).pdf",
+      "bytes": 431778,
+      "sha256": "d81333222f0bf55e20f6fbf5a90c4b29be97d2e7f8514ecd5f0d6b195c97acd7",
+      "pages": 2,
+      "role": "卷面电路原理期中2018.04.14；三条Highlight原样保留，与文件名180411标签分列",
+      "action": "new_original",
+      "targetName": "期中180411-4(1).pdf"
+    }
+  ],
+  "sourceExcludedCount": 0,
+  "excludedBoundary": null,
+  "preservation": "原名、页序、原批注及扫描遮挡原样保留；未执行外链、未校算解答正确性",
+  "fullScopeBoundary": "本批仅答疑坊电路10来源路径，不含模电等其它课程"
+}

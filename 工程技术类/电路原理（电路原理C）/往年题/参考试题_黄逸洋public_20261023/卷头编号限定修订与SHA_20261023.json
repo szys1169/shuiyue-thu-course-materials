@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-23",
+  "originalName": "电路原理-于歆杰-2006期末.pdf",
+  "sourceOriginalBytes": 1141389,
+  "sourceOriginalSHA256": "06c22b986f49ee0fbf39d3149e3b86594b94c6f68f170fb26324b934cac36419",
+  "copyName": "电路原理-于歆杰-2006期末_去卷头个人编号整理副本.pdf",
+  "copyBytes": 5113869,
+  "copySHA256": "39178c198660e7c42d353426721e10c684579953250d2b3f6ea52325988f04d4",
+  "operation": "仅去第1页卷头已填学号窄区；保留学号标签、普通姓名/班级、题目圈点和第2页",
+  "printedDate": "2007.1",
+  "sourceFilenameYearLabel": "2006",
+  "pixelPreservation": "2倍渲染第1页窄区外0像素差，第2页全0差；原扫描图流不再存在于副本image对象",
+  "originalPreserved": "原始字节本地过程保留；云端仅撤回本任务新上传的精确原件，使用正常可恢复删除，不清回收站",
+  "boundary": "该整理副本不代表重新认定学期/教师或标准答案，旧说明原字节保留，本条为追加更正",
+  "originalIdentifierValueIncluded": false
+}
