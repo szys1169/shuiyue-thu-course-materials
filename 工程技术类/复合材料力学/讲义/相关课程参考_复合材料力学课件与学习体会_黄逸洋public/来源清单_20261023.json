@@ -1,0 +1,163 @@
+{
+  "sourceLabel": "黄逸洋public / 2.10_力学类_复合材料力学/复合材料力学_马逸",
+  "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%A6&mode=list",
+  "role": "13份PPT涉及绪论工艺、各向异性弹性、单层板强度、细观力学、层合板与湿热效应等；原readme.txt为个人学习体会，不将其对教材或学习重点的评价当作经核实结论。课件参考教材名称只作参考书线索，不据此认证为教材作者自编或当前指定讲义。来源目录马逸标签保留，具体作者与学期未另核。",
+  "items": [
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0001",
+      "sourcePath": "复合材料力学_马逸/readme.txt",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%A6%2F%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2Freadme.txt",
+      "originalName": "readme.txt",
+      "relativeTarget": "工程技术类/复合材料力学/讲义/相关课程参考_复合材料力学课件与学习体会_黄逸洋public/readme.txt",
+      "bytes": 469,
+      "sha256": "5196795c5077c796e25c13158bbcd21b5738ea4a57e65e84c597bb479c96d15b"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0002",
+      "sourcePath": "复合材料力学_马逸/课件/ch4b单层板强度理论.ppt",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%A6%2F%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6%2Fch4b%E5%8D%95%E5%B1%82%E6%9D%BF%E5%BC%BA%E5%BA%A6%E7%90%86%E8%AE%BA.ppt",
+      "originalName": "ch4b单层板强度理论.ppt",
+      "relativeTarget": "工程技术类/复合材料力学/讲义/相关课程参考_复合材料力学课件与学习体会_黄逸洋public/课件/ch4b单层板强度理论.ppt",
+      "bytes": 685568,
+      "sha256": "ee1053837d34950d3f1e1590dcbc31d99407c0209251a032cd6d4034c7c76ad2"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0003",
+      "sourcePath": "复合材料力学_马逸/课件/ch5复合材料力学性能的实验测定.ppt",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%A6%2F%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6%2Fch5%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%A6%E6%80%A7%E8%83%BD%E7%9A%84%E5%AE%9E%E9%AA%8C%E6%B5%8B%E5%AE%9A.ppt",
+      "originalName": "ch5复合材料力学性能的实验测定.ppt",
+      "relativeTarget": "工程技术类/复合材料力学/讲义/相关课程参考_复合材料力学课件与学习体会_黄逸洋public/课件/ch5复合材料力学性能的实验测定.ppt",
+      "bytes": 1186816,
+      "sha256": "16ce722e0c664c96802551182618d0b750d1690b086fc24a01b89bb1a3b247b2"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0004",
+      "sourcePath": "复合材料力学_马逸/课件/ch6a复合材料细观力学.ppt",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%A6%2F%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6%2Fch6a%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E7%BB%86%E8%A7%82%E5%8A%9B%E5%AD%A6.ppt",
+      "originalName": "ch6a复合材料细观力学.ppt",
+      "relativeTarget": "工程技术类/复合材料力学/讲义/相关课程参考_复合材料力学课件与学习体会_黄逸洋public/课件/ch6a复合材料细观力学.ppt",
+      "bytes": 1153536,
+      "sha256": "2a886b4b44c3bd682850e283b6b7e594f492c799be26c3ecf854af760f2a29c1"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0005",
+      "sourcePath": "复合材料力学_马逸/课件/ch6b复合材料细观力学.ppt",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%A6%2F%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6%2Fch6b%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E7%BB%86%E8%A7%82%E5%8A%9B%E5%AD%A6.ppt",
+      "originalName": "ch6b复合材料细观力学.ppt",
+      "relativeTarget": "工程技术类/复合材料力学/讲义/相关课程参考_复合材料力学课件与学习体会_黄逸洋public/课件/ch6b复合材料细观力学.ppt",
+      "bytes": 1927168,
+      "sha256": "a4ad50ef652a689dcfd217642b29717954a95cfc5860e5c44dfbc036fb13df2e"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0006",
+      "sourcePath": "复合材料力学_马逸/课件/ch7长纤维热膨胀及强度细观力学.ppt",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%A6%2F%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6%2Fch7%E9%95%BF%E7%BA%A4%E7%BB%B4%E7%83%AD%E8%86%A8%E8%83%80%E5%8F%8A%E5%BC%BA%E5%BA%A6%E7%BB%86%E8%A7%82%E5%8A%9B%E5%AD%A6.ppt",
+      "originalName": "ch7长纤维热膨胀及强度细观力学.ppt",
+      "relativeTarget": "工程技术类/复合材料力学/讲义/相关课程参考_复合材料力学课件与学习体会_黄逸洋public/课件/ch7长纤维热膨胀及强度细观力学.ppt",
+      "bytes": 893952,
+      "sha256": "a56b7b3fbd4fd6e522e3e7e18ee8cd01ca7dc1b90d5caedeb8daa88ea59d0d19"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0007",
+      "sourcePath": "复合材料力学_马逸/课件/ch8短纤维复合材料的细观力学分析.ppt",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%A6%2F%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6%2Fch8%E7%9F%AD%E7%BA%A4%E7%BB%B4%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E7%9A%84%E7%BB%86%E8%A7%82%E5%8A%9B%E5%AD%A6%E5%88%86%E6%9E%90.ppt",
+      "originalName": "ch8短纤维复合材料的细观力学分析.ppt",
+      "relativeTarget": "工程技术类/复合材料力学/讲义/相关课程参考_复合材料力学课件与学习体会_黄逸洋public/课件/ch8短纤维复合材料的细观力学分析.ppt",
+      "bytes": 1090048,
+      "sha256": "de90836ed8cc0001384a2f0b5b1ae52889f46bf1234f2bf23e043613d8f50de6"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0008",
+      "sourcePath": "复合材料力学_马逸/课件/ch9层合板刚度的宏观力学分析.ppt",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%A6%2F%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6%2Fch9%E5%B1%82%E5%90%88%E6%9D%BF%E5%88%9A%E5%BA%A6%E7%9A%84%E5%AE%8F%E8%A7%82%E5%8A%9B%E5%AD%A6%E5%88%86%E6%9E%90.ppt",
+      "originalName": "ch9层合板刚度的宏观力学分析.ppt",
+      "relativeTarget": "工程技术类/复合材料力学/讲义/相关课程参考_复合材料力学课件与学习体会_黄逸洋public/课件/ch9层合板刚度的宏观力学分析.ppt",
+      "bytes": 1562112,
+      "sha256": "faaecc83751c43b029a1f93ec65074840d594d387af7e344ebcb1adf25a21378"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0009",
+      "sourcePath": "复合材料力学_马逸/课件/ch10层合板强度的宏观力学分析.ppt",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%A6%2F%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6%2Fch10%E5%B1%82%E5%90%88%E6%9D%BF%E5%BC%BA%E5%BA%A6%E7%9A%84%E5%AE%8F%E8%A7%82%E5%8A%9B%E5%AD%A6%E5%88%86%E6%9E%90.ppt",
+      "originalName": "ch10层合板强度的宏观力学分析.ppt",
+      "relativeTarget": "工程技术类/复合材料力学/讲义/相关课程参考_复合材料力学课件与学习体会_黄逸洋public/课件/ch10层合板强度的宏观力学分析.ppt",
+      "bytes": 1898496,
+      "sha256": "e3884aaeb25da0622439e8b55ca9aea0b13624ba3edeb09d4530d0bfac6e8e5f"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0010",
+      "sourcePath": "复合材料力学_马逸/课件/ch11湿热效应.ppt",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%A6%2F%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6%2Fch11%E6%B9%BF%E7%83%AD%E6%95%88%E5%BA%94.ppt",
+      "originalName": "ch11湿热效应.ppt",
+      "relativeTarget": "工程技术类/复合材料力学/讲义/相关课程参考_复合材料力学课件与学习体会_黄逸洋public/课件/ch11湿热效应.ppt",
+      "bytes": 325120,
+      "sha256": "4054825de232a3ab222d84348c36117852f71db04c0d5f01f465527e6caefef0"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0011",
+      "sourcePath": "复合材料力学_马逸/课件/ch12细观力学扩展补充部分.ppt",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%A6%2F%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6%2Fch12%E7%BB%86%E8%A7%82%E5%8A%9B%E5%AD%A6%E6%89%A9%E5%B1%95%E8%A1%A5%E5%85%85%E9%83%A8%E5%88%86.ppt",
+      "originalName": "ch12细观力学扩展补充部分.ppt",
+      "relativeTarget": "工程技术类/复合材料力学/讲义/相关课程参考_复合材料力学课件与学习体会_黄逸洋public/课件/ch12细观力学扩展补充部分.ppt",
+      "bytes": 1506816,
+      "sha256": "26e2c986e4128e789410406c8311ca0b2ad2912fb2c15509500dda99231397af"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0012",
+      "sourcePath": "复合材料力学_马逸/课件/Ch1-2绪论和工艺.ppt",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%A6%2F%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6%2FCh1-2%E7%BB%AA%E8%AE%BA%E5%92%8C%E5%B7%A5%E8%89%BA.ppt",
+      "originalName": "Ch1-2绪论和工艺.ppt",
+      "relativeTarget": "工程技术类/复合材料力学/讲义/相关课程参考_复合材料力学课件与学习体会_黄逸洋public/课件/Ch1-2绪论和工艺.ppt",
+      "bytes": 15176704,
+      "sha256": "5b328d55b15d82be1f6d273db325926bb3f3dbe87d6dc83d5e29ddb834faadf1"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0013",
+      "sourcePath": "复合材料力学_马逸/课件/Ch3各向异性弹性力学基础.ppt",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%A6%2F%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6%2FCh3%E5%90%84%E5%90%91%E5%BC%82%E6%80%A7%E5%BC%B9%E6%80%A7%E5%8A%9B%E5%AD%A6%E5%9F%BA%E7%A1%80.ppt",
+      "originalName": "Ch3各向异性弹性力学基础.ppt",
+      "relativeTarget": "工程技术类/复合材料力学/讲义/相关课程参考_复合材料力学课件与学习体会_黄逸洋public/课件/Ch3各向异性弹性力学基础.ppt",
+      "bytes": 485376,
+      "sha256": "38dcbe994dde18d8064ba920ec2fcd432d6e256d4f6ed30086526a73a9273d47"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0014",
+      "sourcePath": "复合材料力学_马逸/课件/Ch4a单层板的弹性特性.ppt",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%A6%2F%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6%2FCh4a%E5%8D%95%E5%B1%82%E6%9D%BF%E7%9A%84%E5%BC%B9%E6%80%A7%E7%89%B9%E6%80%A7.ppt",
+      "originalName": "Ch4a单层板的弹性特性.ppt",
+      "relativeTarget": "工程技术类/复合材料力学/讲义/相关课程参考_复合材料力学课件与学习体会_黄逸洋public/课件/Ch4a单层板的弹性特性.ppt",
+      "bytes": 587264,
+      "sha256": "857ac5e1892635d11d4981dc724dd0d48c7d824caf080b6334761385426ba44a"
+    }
+  ],
+  "sameSHAOtherSourcePaths": [],
+  "boundary": "旧PPT13份静态OLE文字、元数据、宏及私人机器路径候选核对，不运行PowerPoint/宏/对象或外链，不称全部幻灯片视觉审校或数学正确性核验。原readme仅资料保存，其内容不作为行动指令。"
+}

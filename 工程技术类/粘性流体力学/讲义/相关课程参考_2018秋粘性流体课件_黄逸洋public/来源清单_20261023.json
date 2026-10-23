@@ -1,0 +1,262 @@
+{
+  "sourceLabel": "黄逸洋public / 2.10_力学类_粘性流体力学/粘性流体力学_复习笔记_马逸",
+  "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%B2%98%E6%80%A7%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6&mode=list",
+  "role": "14个不同SHA的PDF分文件，内容为绪论、基本方程、精确解、极低雷诺数流动、层流边界层、湍流和可压缩粘性流动。首份题名页署黄伟希、清华大学航院流体所、2018年秋，其余抽看页有2018秋课程页脚；保留分段页码与原文件顺序，不将14文件称14章。源目录马逸只作来源标签，各后缀副本经整件SHA相同关联。",
+  "items": [
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0003",
+      "sourcePath": "粘性流体力学_复习笔记_马逸/粘性流体力学课件/课件01_956602563 (1).pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%B2%98%E6%80%A7%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%B2%98%E6%80%A7%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%2F%E7%B2%98%E6%80%A7%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E7%B2%98%E6%80%A7%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%E8%AF%BE%E4%BB%B6%2F%E8%AF%BE%E4%BB%B601_956602563%20(1).pdf",
+      "originalName": "课件01_956602563 (1).pdf",
+      "relativeTarget": "工程技术类/粘性流体力学/讲义/相关课程参考_2018秋粘性流体课件_黄逸洋public/课件01_956602563 (1).pdf",
+      "bytes": 2815062,
+      "sha256": "c7bfa4c5009f2552ed45c8b636197a52447fd267f221414c0a629d2dcb35f30c"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0005",
+      "sourcePath": "粘性流体力学_复习笔记_马逸/粘性流体力学课件/课件02_663709722 (1).pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%B2%98%E6%80%A7%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%B2%98%E6%80%A7%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%2F%E7%B2%98%E6%80%A7%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E7%B2%98%E6%80%A7%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%E8%AF%BE%E4%BB%B6%2F%E8%AF%BE%E4%BB%B602_663709722%20(1).pdf",
+      "originalName": "课件02_663709722 (1).pdf",
+      "relativeTarget": "工程技术类/粘性流体力学/讲义/相关课程参考_2018秋粘性流体课件_黄逸洋public/课件02_663709722 (1).pdf",
+      "bytes": 1143094,
+      "sha256": "115f13d22ad7b1abd79cc06e354839dc6b82983575d1704baaa66043eba560e2"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0007",
+      "sourcePath": "粘性流体力学_复习笔记_马逸/粘性流体力学课件/课件03_37206984 (1).pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%B2%98%E6%80%A7%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%B2%98%E6%80%A7%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%2F%E7%B2%98%E6%80%A7%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E7%B2%98%E6%80%A7%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%E8%AF%BE%E4%BB%B6%2F%E8%AF%BE%E4%BB%B603_37206984%20(1).pdf",
+      "originalName": "课件03_37206984 (1).pdf",
+      "relativeTarget": "工程技术类/粘性流体力学/讲义/相关课程参考_2018秋粘性流体课件_黄逸洋public/课件03_37206984 (1).pdf",
+      "bytes": 1637286,
+      "sha256": "8c09e32409ad30a42b7b38db7ca5d61e7a7387432d3c8310bbd05ed2e06e3f1b"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0009",
+      "sourcePath": "粘性流体力学_复习笔记_马逸/粘性流体力学课件/课件04_990304426 (1).pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%B2%98%E6%80%A7%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%B2%98%E6%80%A7%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%2F%E7%B2%98%E6%80%A7%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E7%B2%98%E6%80%A7%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%E8%AF%BE%E4%BB%B6%2F%E8%AF%BE%E4%BB%B604_990304426%20(1).pdf",
+      "originalName": "课件04_990304426 (1).pdf",
+      "relativeTarget": "工程技术类/粘性流体力学/讲义/相关课程参考_2018秋粘性流体课件_黄逸洋public/课件04_990304426 (1).pdf",
+      "bytes": 2153667,
+      "sha256": "45df02d3398ac48858f1048da9415b6522f56cf9833ae464740ce57665ad7ea5"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0011",
+      "sourcePath": "粘性流体力学_复习笔记_马逸/粘性流体力学课件/课件05_515108259 (1).pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%B2%98%E6%80%A7%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%B2%98%E6%80%A7%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%2F%E7%B2%98%E6%80%A7%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E7%B2%98%E6%80%A7%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%E8%AF%BE%E4%BB%B6%2F%E8%AF%BE%E4%BB%B605_515108259%20(1).pdf",
+      "originalName": "课件05_515108259 (1).pdf",
+      "relativeTarget": "工程技术类/粘性流体力学/讲义/相关课程参考_2018秋粘性流体课件_黄逸洋public/课件05_515108259 (1).pdf",
+      "bytes": 3058984,
+      "sha256": "d1d33ef53b98b591722fe944cbcf0100034195f6af499068e759b19809d81b1a"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0013",
+      "sourcePath": "粘性流体力学_复习笔记_马逸/粘性流体力学课件/课件06_334701206 (1).pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%B2%98%E6%80%A7%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%B2%98%E6%80%A7%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%2F%E7%B2%98%E6%80%A7%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E7%B2%98%E6%80%A7%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%E8%AF%BE%E4%BB%B6%2F%E8%AF%BE%E4%BB%B606_334701206%20(1).pdf",
+      "originalName": "课件06_334701206 (1).pdf",
+      "relativeTarget": "工程技术类/粘性流体力学/讲义/相关课程参考_2018秋粘性流体课件_黄逸洋public/课件06_334701206 (1).pdf",
+      "bytes": 1578493,
+      "sha256": "d80abf87e05c517ea079260753c68f7be2b7b03a7c31e765bfd1728a67449644"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0015",
+      "sourcePath": "粘性流体力学_复习笔记_马逸/粘性流体力学课件/课件07_60250784 (1).pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%B2%98%E6%80%A7%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%B2%98%E6%80%A7%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%2F%E7%B2%98%E6%80%A7%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E7%B2%98%E6%80%A7%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%E8%AF%BE%E4%BB%B6%2F%E8%AF%BE%E4%BB%B607_60250784%20(1).pdf",
+      "originalName": "课件07_60250784 (1).pdf",
+      "relativeTarget": "工程技术类/粘性流体力学/讲义/相关课程参考_2018秋粘性流体课件_黄逸洋public/课件07_60250784 (1).pdf",
+      "bytes": 3093167,
+      "sha256": "adb85752a041fa11ca26de352216609b18b004f7c742cc5fc5d9e97053727e0d"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0017",
+      "sourcePath": "粘性流体力学_复习笔记_马逸/粘性流体力学课件/课件08_356704834 (1).pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%B2%98%E6%80%A7%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%B2%98%E6%80%A7%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%2F%E7%B2%98%E6%80%A7%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E7%B2%98%E6%80%A7%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%E8%AF%BE%E4%BB%B6%2F%E8%AF%BE%E4%BB%B608_356704834%20(1).pdf",
+      "originalName": "课件08_356704834 (1).pdf",
+      "relativeTarget": "工程技术类/粘性流体力学/讲义/相关课程参考_2018秋粘性流体课件_黄逸洋public/课件08_356704834 (1).pdf",
+      "bytes": 1052967,
+      "sha256": "b7b74566564e7f223315065ad4a224fe93947f7311aa65dc952cd4c70c409869"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0019",
+      "sourcePath": "粘性流体力学_复习笔记_马逸/粘性流体力学课件/课件09_241807311 (1).pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%B2%98%E6%80%A7%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%B2%98%E6%80%A7%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%2F%E7%B2%98%E6%80%A7%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E7%B2%98%E6%80%A7%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%E8%AF%BE%E4%BB%B6%2F%E8%AF%BE%E4%BB%B609_241807311%20(1).pdf",
+      "originalName": "课件09_241807311 (1).pdf",
+      "relativeTarget": "工程技术类/粘性流体力学/讲义/相关课程参考_2018秋粘性流体课件_黄逸洋public/课件09_241807311 (1).pdf",
+      "bytes": 1425058,
+      "sha256": "616a4d4a0ee89d7983ec2e2aec3cae56ee1099b4a98beaca3fb149ea4140ffbd"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0021",
+      "sourcePath": "粘性流体力学_复习笔记_马逸/粘性流体力学课件/课件10_437008027 (1).pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%B2%98%E6%80%A7%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%B2%98%E6%80%A7%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%2F%E7%B2%98%E6%80%A7%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E7%B2%98%E6%80%A7%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%E8%AF%BE%E4%BB%B6%2F%E8%AF%BE%E4%BB%B610_437008027%20(1).pdf",
+      "originalName": "课件10_437008027 (1).pdf",
+      "relativeTarget": "工程技术类/粘性流体力学/讲义/相关课程参考_2018秋粘性流体课件_黄逸洋public/课件10_437008027 (1).pdf",
+      "bytes": 4527457,
+      "sha256": "3c57d4b8eb500bff40668133e04e5020623c298915358f1cea37787b34382c1d"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0023",
+      "sourcePath": "粘性流体力学_复习笔记_马逸/粘性流体力学课件/课件11_743905306 (1).pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%B2%98%E6%80%A7%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%B2%98%E6%80%A7%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%2F%E7%B2%98%E6%80%A7%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E7%B2%98%E6%80%A7%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%E8%AF%BE%E4%BB%B6%2F%E8%AF%BE%E4%BB%B611_743905306%20(1).pdf",
+      "originalName": "课件11_743905306 (1).pdf",
+      "relativeTarget": "工程技术类/粘性流体力学/讲义/相关课程参考_2018秋粘性流体课件_黄逸洋public/课件11_743905306 (1).pdf",
+      "bytes": 6555704,
+      "sha256": "8865d77ab779ec1a14ca3a0be04956aaddd154aee2cc50d9e302196698603821"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0025",
+      "sourcePath": "粘性流体力学_复习笔记_马逸/粘性流体力学课件/课件12_419808530 (1).pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%B2%98%E6%80%A7%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%B2%98%E6%80%A7%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%2F%E7%B2%98%E6%80%A7%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E7%B2%98%E6%80%A7%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%E8%AF%BE%E4%BB%B6%2F%E8%AF%BE%E4%BB%B612_419808530%20(1).pdf",
+      "originalName": "课件12_419808530 (1).pdf",
+      "relativeTarget": "工程技术类/粘性流体力学/讲义/相关课程参考_2018秋粘性流体课件_黄逸洋public/课件12_419808530 (1).pdf",
+      "bytes": 7160347,
+      "sha256": "af2fda07b4ba9537759d4f008d204222dbb134e705e41546547466327b9a2af6"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0027",
+      "sourcePath": "粘性流体力学_复习笔记_马逸/粘性流体力学课件/课件13_824203871 (1).pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%B2%98%E6%80%A7%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%B2%98%E6%80%A7%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%2F%E7%B2%98%E6%80%A7%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E7%B2%98%E6%80%A7%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%E8%AF%BE%E4%BB%B6%2F%E8%AF%BE%E4%BB%B613_824203871%20(1).pdf",
+      "originalName": "课件13_824203871 (1).pdf",
+      "relativeTarget": "工程技术类/粘性流体力学/讲义/相关课程参考_2018秋粘性流体课件_黄逸洋public/课件13_824203871 (1).pdf",
+      "bytes": 8729101,
+      "sha256": "ae2865887a2f755f8531574558de0452fa122b7f4d607ada4516346decdcc021"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0029",
+      "sourcePath": "粘性流体力学_复习笔记_马逸/粘性流体力学课件/课件14_968709658 (1).pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%B2%98%E6%80%A7%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%B2%98%E6%80%A7%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%2F%E7%B2%98%E6%80%A7%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E7%B2%98%E6%80%A7%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%E8%AF%BE%E4%BB%B6%2F%E8%AF%BE%E4%BB%B614_968709658%20(1).pdf",
+      "originalName": "课件14_968709658 (1).pdf",
+      "relativeTarget": "工程技术类/粘性流体力学/讲义/相关课程参考_2018秋粘性流体课件_黄逸洋public/课件14_968709658 (1).pdf",
+      "bytes": 3853589,
+      "sha256": "cbea0e92dc6c0c438e1577d343cc3823ac4b25aae5d361f3aff408284c5f0425"
+    }
+  ],
+  "sameSHAOtherSourcePaths": [
+    {
+      "sourcePath": "粘性流体力学_复习笔记_马逸/粘性流体力学课件/课件01_956602563.pdf",
+      "sourceAlias": "S0004",
+      "bytes": 2815062,
+      "sha256": "c7bfa4c5009f2552ed45c8b636197a52447fd267f221414c0a629d2dcb35f30c",
+      "sameAsRelativeTarget": "工程技术类/粘性流体力学/讲义/相关课程参考_2018秋粘性流体课件_黄逸洋public/课件01_956602563 (1).pdf"
+    },
+    {
+      "sourcePath": "粘性流体力学_复习笔记_马逸/粘性流体力学课件/课件02_663709722.pdf",
+      "sourceAlias": "S0006",
+      "bytes": 1143094,
+      "sha256": "115f13d22ad7b1abd79cc06e354839dc6b82983575d1704baaa66043eba560e2",
+      "sameAsRelativeTarget": "工程技术类/粘性流体力学/讲义/相关课程参考_2018秋粘性流体课件_黄逸洋public/课件02_663709722 (1).pdf"
+    },
+    {
+      "sourcePath": "粘性流体力学_复习笔记_马逸/粘性流体力学课件/课件03_37206984.pdf",
+      "sourceAlias": "S0008",
+      "bytes": 1637286,
+      "sha256": "8c09e32409ad30a42b7b38db7ca5d61e7a7387432d3c8310bbd05ed2e06e3f1b",
+      "sameAsRelativeTarget": "工程技术类/粘性流体力学/讲义/相关课程参考_2018秋粘性流体课件_黄逸洋public/课件03_37206984 (1).pdf"
+    },
+    {
+      "sourcePath": "粘性流体力学_复习笔记_马逸/粘性流体力学课件/课件04_990304426.pdf",
+      "sourceAlias": "S0010",
+      "bytes": 2153667,
+      "sha256": "45df02d3398ac48858f1048da9415b6522f56cf9833ae464740ce57665ad7ea5",
+      "sameAsRelativeTarget": "工程技术类/粘性流体力学/讲义/相关课程参考_2018秋粘性流体课件_黄逸洋public/课件04_990304426 (1).pdf"
+    },
+    {
+      "sourcePath": "粘性流体力学_复习笔记_马逸/粘性流体力学课件/课件05_515108259.pdf",
+      "sourceAlias": "S0012",
+      "bytes": 3058984,
+      "sha256": "d1d33ef53b98b591722fe944cbcf0100034195f6af499068e759b19809d81b1a",
+      "sameAsRelativeTarget": "工程技术类/粘性流体力学/讲义/相关课程参考_2018秋粘性流体课件_黄逸洋public/课件05_515108259 (1).pdf"
+    },
+    {
+      "sourcePath": "粘性流体力学_复习笔记_马逸/粘性流体力学课件/课件06_334701206.pdf",
+      "sourceAlias": "S0014",
+      "bytes": 1578493,
+      "sha256": "d80abf87e05c517ea079260753c68f7be2b7b03a7c31e765bfd1728a67449644",
+      "sameAsRelativeTarget": "工程技术类/粘性流体力学/讲义/相关课程参考_2018秋粘性流体课件_黄逸洋public/课件06_334701206 (1).pdf"
+    },
+    {
+      "sourcePath": "粘性流体力学_复习笔记_马逸/粘性流体力学课件/课件07_60250784.pdf",
+      "sourceAlias": "S0016",
+      "bytes": 3093167,
+      "sha256": "adb85752a041fa11ca26de352216609b18b004f7c742cc5fc5d9e97053727e0d",
+      "sameAsRelativeTarget": "工程技术类/粘性流体力学/讲义/相关课程参考_2018秋粘性流体课件_黄逸洋public/课件07_60250784 (1).pdf"
+    },
+    {
+      "sourcePath": "粘性流体力学_复习笔记_马逸/粘性流体力学课件/课件08_356704834.pdf",
+      "sourceAlias": "S0018",
+      "bytes": 1052967,
+      "sha256": "b7b74566564e7f223315065ad4a224fe93947f7311aa65dc952cd4c70c409869",
+      "sameAsRelativeTarget": "工程技术类/粘性流体力学/讲义/相关课程参考_2018秋粘性流体课件_黄逸洋public/课件08_356704834 (1).pdf"
+    },
+    {
+      "sourcePath": "粘性流体力学_复习笔记_马逸/粘性流体力学课件/课件09_241807311.pdf",
+      "sourceAlias": "S0020",
+      "bytes": 1425058,
+      "sha256": "616a4d4a0ee89d7983ec2e2aec3cae56ee1099b4a98beaca3fb149ea4140ffbd",
+      "sameAsRelativeTarget": "工程技术类/粘性流体力学/讲义/相关课程参考_2018秋粘性流体课件_黄逸洋public/课件09_241807311 (1).pdf"
+    },
+    {
+      "sourcePath": "粘性流体力学_复习笔记_马逸/粘性流体力学课件/课件10_437008027.pdf",
+      "sourceAlias": "S0022",
+      "bytes": 4527457,
+      "sha256": "3c57d4b8eb500bff40668133e04e5020623c298915358f1cea37787b34382c1d",
+      "sameAsRelativeTarget": "工程技术类/粘性流体力学/讲义/相关课程参考_2018秋粘性流体课件_黄逸洋public/课件10_437008027 (1).pdf"
+    },
+    {
+      "sourcePath": "粘性流体力学_复习笔记_马逸/粘性流体力学课件/课件11_743905306.pdf",
+      "sourceAlias": "S0024",
+      "bytes": 6555704,
+      "sha256": "8865d77ab779ec1a14ca3a0be04956aaddd154aee2cc50d9e302196698603821",
+      "sameAsRelativeTarget": "工程技术类/粘性流体力学/讲义/相关课程参考_2018秋粘性流体课件_黄逸洋public/课件11_743905306 (1).pdf"
+    },
+    {
+      "sourcePath": "粘性流体力学_复习笔记_马逸/粘性流体力学课件/课件12_419808530.pdf",
+      "sourceAlias": "S0026",
+      "bytes": 7160347,
+      "sha256": "af2fda07b4ba9537759d4f008d204222dbb134e705e41546547466327b9a2af6",
+      "sameAsRelativeTarget": "工程技术类/粘性流体力学/讲义/相关课程参考_2018秋粘性流体课件_黄逸洋public/课件12_419808530 (1).pdf"
+    },
+    {
+      "sourcePath": "粘性流体力学_复习笔记_马逸/粘性流体力学课件/课件13_824203871.pdf",
+      "sourceAlias": "S0028",
+      "bytes": 8729101,
+      "sha256": "ae2865887a2f755f8531574558de0452fa122b7f4d607ada4516346decdcc021",
+      "sameAsRelativeTarget": "工程技术类/粘性流体力学/讲义/相关课程参考_2018秋粘性流体课件_黄逸洋public/课件13_824203871 (1).pdf"
+    },
+    {
+      "sourcePath": "粘性流体力学_复习笔记_马逸/粘性流体力学课件/课件14_968709658.pdf",
+      "sourceAlias": "S0030",
+      "bytes": 3853589,
+      "sha256": "cbea0e92dc6c0c438e1577d343cc3823ac4b25aae5d361f3aff408284c5f0425",
+      "sameAsRelativeTarget": "工程技术类/粘性流体力学/讲义/相关课程参考_2018秋粘性流体课件_黄逸洋public/课件14_968709658 (1).pdf"
+    }
+  ],
+  "boundary": "14唯一PDF全页文字层与结构核对，每件首页实际视觉共14页；未声称整套全部页视觉或数学正确性审校，原件未修写，未执行链接/对象。"
+}

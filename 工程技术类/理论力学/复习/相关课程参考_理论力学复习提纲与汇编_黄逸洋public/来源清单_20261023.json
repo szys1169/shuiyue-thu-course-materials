@@ -1,0 +1,83 @@
+{
+  "sourceLabel": "黄逸洋public / 2.10_力学类_理论力学",
+  "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6&mode=list",
+  "role": "动力学、运动学提纲与一页纸个人笔记等历史复习参考。原名“9套真题”实际108页综合汇编，另一“8套复习资料”来源经整件SHA相同关联，套数未核；原名“2022秋期末”9页实际《理论力学》总复习课件，按复习用途保存，不作为2022真题认定。",
+  "items": [
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0001",
+      "sourcePath": "考前参考题集/理论力学-9套真题-马逸.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%2F%E8%80%83%E5%89%8D%E5%8F%82%E8%80%83%E9%A2%98%E9%9B%86%2F%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6-9%E5%A5%97%E7%9C%9F%E9%A2%98-%E9%A9%AC%E9%80%B8.pdf",
+      "originalName": "理论力学-9套真题-马逸.pdf",
+      "relativeTarget": "工程技术类/理论力学/复习/相关课程参考_理论力学复习提纲与汇编_黄逸洋public/理论力学-9套真题-马逸.pdf",
+      "bytes": 9241148,
+      "sha256": "96854b732fdb9f1de8969293512f0061636699641989dbf7cc24562134f94333"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0014",
+      "sourcePath": "考前参考题集/理论力学-2022秋期末-马逸.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%2F%E8%80%83%E5%89%8D%E5%8F%82%E8%80%83%E9%A2%98%E9%9B%86%2F%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6-2022%E7%A7%8B%E6%9C%9F%E6%9C%AB-%E9%A9%AC%E9%80%B8.pdf",
+      "originalName": "理论力学-2022秋期末-马逸.pdf",
+      "relativeTarget": "工程技术类/理论力学/复习/相关课程参考_理论力学复习提纲与汇编_黄逸洋public/理论力学-2022秋期末-马逸.pdf",
+      "bytes": 157005,
+      "sha256": "081634e4e51834a5b4ba40b43b7bb2b87d3c5f6361c83f54a142157299d0798b"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0016",
+      "sourcePath": "理论力学复习笔记_马逸/动力学关键词.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%2F%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E5%8A%A8%E5%8A%9B%E5%AD%A6%E5%85%B3%E9%94%AE%E8%AF%8D.pdf",
+      "originalName": "动力学关键词.pdf",
+      "relativeTarget": "工程技术类/理论力学/复习/相关课程参考_理论力学复习提纲与汇编_黄逸洋public/动力学关键词.pdf",
+      "bytes": 217679,
+      "sha256": "d9fa2e2690c43ef2535101842b89643ed95cb36cad98351b562c86938fbf29b9"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0024",
+      "sourcePath": "理论力学复习笔记_马逸/理论力学一页纸.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%2F%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%E4%B8%80%E9%A1%B5%E7%BA%B8.jpg",
+      "originalName": "理论力学一页纸.jpg",
+      "relativeTarget": "工程技术类/理论力学/复习/相关课程参考_理论力学复习提纲与汇编_黄逸洋public/理论力学一页纸.jpg",
+      "bytes": 168162,
+      "sha256": "5e1b323c0c15d595dd74eec9c0164a587b5c4d91a11ae92c5664eba0ead72326"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0027",
+      "sourcePath": "理论力学复习笔记_马逸/运动学复习PPT.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%2F%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%BF%90%E5%8A%A8%E5%AD%A6%E5%A4%8D%E4%B9%A0PPT.pdf",
+      "originalName": "运动学复习PPT.pdf",
+      "relativeTarget": "工程技术类/理论力学/复习/相关课程参考_理论力学复习提纲与汇编_黄逸洋public/运动学复习PPT.pdf",
+      "bytes": 459642,
+      "sha256": "1f586308bbbbc1e713315c63a5423fe98aa99c657887e56363a5368e7142d98a"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0028",
+      "sourcePath": "理论力学复习笔记_马逸/运动学复习提纲.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%2F%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%BF%90%E5%8A%A8%E5%AD%A6%E5%A4%8D%E4%B9%A0%E6%8F%90%E7%BA%B2.pdf",
+      "originalName": "运动学复习提纲.pdf",
+      "relativeTarget": "工程技术类/理论力学/复习/相关课程参考_理论力学复习提纲与汇编_黄逸洋public/运动学复习提纲.pdf",
+      "bytes": 185154,
+      "sha256": "8f12490c4d6e1368479f81e05d090fe5b887d29cc70aa3d6e32a39286c694603"
+    }
+  ],
+  "sameSHAOtherSourcePaths": [
+    {
+      "sourcePath": "理论力学复习笔记_马逸/理论力学-8套复习资料-马逸.pdf",
+      "sourceAlias": "S0018",
+      "bytes": 9241148,
+      "sha256": "96854b732fdb9f1de8969293512f0061636699641989dbf7cc24562134f94333",
+      "sameAsRelativeTarget": "工程技术类/理论力学/复习/相关课程参考_理论力学复习提纲与汇编_黄逸洋public/理论力学-9套真题-马逸.pdf"
+    }
+  ],
+  "boundary": "源72路径逐SHA识别同字节别名，普通姓名与教学信息按原件保存但不转录个人编号。PDF文字层/结构、Word/XML及XLSX静态核对；30 PDF页或图片实际视觉，另6张Word题目图抽查，未全文视觉所有扫描件，不执行宏、DWG、公式、源链接，不确认答案正确性。"
+}

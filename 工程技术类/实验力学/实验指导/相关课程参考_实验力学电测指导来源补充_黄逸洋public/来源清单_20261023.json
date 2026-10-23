@@ -1,0 +1,31 @@
+{
+  "sourceLabel": "黄逸洋public / 2.10_力学类_实验力学/实验力学_马逸",
+  "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6&mode=list",
+  "role": "残余应力测试与遥测应变仪悬臂梁振动两份实验指导。另四份电测指导原件含私人机器目录字串，原件保留在整理过程待处理，未混入本组；本组不表示实验1–6全部指导齐全。",
+  "items": [
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0034",
+      "sourcePath": "实验力学_马逸/电测部分/实验力学电测实验指导书/实验力学电测实验指导书/实验5 残余应力测试实验指导书.doc",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6%2F%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E7%94%B5%E6%B5%8B%E9%83%A8%E5%88%86%2F%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6%E7%94%B5%E6%B5%8B%E5%AE%9E%E9%AA%8C%E6%8C%87%E5%AF%BC%E4%B9%A6%2F%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6%E7%94%B5%E6%B5%8B%E5%AE%9E%E9%AA%8C%E6%8C%87%E5%AF%BC%E4%B9%A6%2F%E5%AE%9E%E9%AA%8C5%20%E6%AE%8B%E4%BD%99%E5%BA%94%E5%8A%9B%E6%B5%8B%E8%AF%95%E5%AE%9E%E9%AA%8C%E6%8C%87%E5%AF%BC%E4%B9%A6.doc",
+      "originalName": "实验5 残余应力测试实验指导书.doc",
+      "relativeTarget": "工程技术类/实验力学/实验指导/相关课程参考_实验力学电测指导来源补充_黄逸洋public/实验5 残余应力测试实验指导书.doc",
+      "bytes": 288768,
+      "sha256": "9ae7c984f80e94b1c159555b1e445a3ad717b7e429add318ebb49c0deb2f6e60"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0035",
+      "sourcePath": "实验力学_马逸/电测部分/实验力学电测实验指导书/实验力学电测实验指导书/选-实验6－遥测应变仪测量悬臂梁振动试验指导书.docx",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6%2F%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E7%94%B5%E6%B5%8B%E9%83%A8%E5%88%86%2F%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6%E7%94%B5%E6%B5%8B%E5%AE%9E%E9%AA%8C%E6%8C%87%E5%AF%BC%E4%B9%A6%2F%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6%E7%94%B5%E6%B5%8B%E5%AE%9E%E9%AA%8C%E6%8C%87%E5%AF%BC%E4%B9%A6%2F%E9%80%89-%E5%AE%9E%E9%AA%8C6%EF%BC%8D%E9%81%A5%E6%B5%8B%E5%BA%94%E5%8F%98%E4%BB%AA%E6%B5%8B%E9%87%8F%E6%82%AC%E8%87%82%E6%A2%81%E6%8C%AF%E5%8A%A8%E8%AF%95%E9%AA%8C%E6%8C%87%E5%AF%BC%E4%B9%A6.docx",
+      "originalName": "选-实验6－遥测应变仪测量悬臂梁振动试验指导书.docx",
+      "relativeTarget": "工程技术类/实验力学/实验指导/相关课程参考_实验力学电测指导来源补充_黄逸洋public/选-实验6－遥测应变仪测量悬臂梁振动试验指导书.docx",
+      "bytes": 245148,
+      "sha256": "e7ff3f54d752a35843240c8aea30c56add14c6173544081022ad949094df4fb6"
+    }
+  ],
+  "sameSHAOtherSourcePaths": [],
+  "boundary": "原字节学习文档，普通署名和公开教学联系沿原件保存但索引不摘录联系字段。PDF全页文字层/结构、Office静态XML/OLE及17PDF首页或大纲图视觉，不称整册/全部幻灯片逐页审阅或完整性认证，不执行宏/对象/控制程序/外链。"
+}

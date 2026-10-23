@@ -1,0 +1,119 @@
+{
+  "sourceLabel": "黄逸洋public / 2.10_力学类_实验力学/实验力学_马逸",
+  "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6&mode=list",
+  "role": "应变电测技术参考PDF、总结PPT及第1–6、8–9章课件。绪论卷面2023-03-28，电测教师姚学锋；数值候选实际为书籍ISBN，并非个人编号。章节依来源保存，不补不存在的第7章。",
+  "items": [
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0001",
+      "sourcePath": "实验力学_马逸/电测部分/电测书_708406043.PDF",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6%2F%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E7%94%B5%E6%B5%8B%E9%83%A8%E5%88%86%2F%E7%94%B5%E6%B5%8B%E4%B9%A6_708406043.PDF",
+      "originalName": "电测书_708406043.PDF",
+      "relativeTarget": "工程技术类/实验力学/讲义/相关课程参考_实验力学电测课件与参考_黄逸洋public/电测书_708406043.PDF",
+      "bytes": 4789117,
+      "sha256": "4dfdbe41080b261590ff7bc571e927cf69648a36a6390508db4bb641a19ede8c"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0002",
+      "sourcePath": "实验力学_马逸/电测部分/总结.ppt",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6%2F%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E7%94%B5%E6%B5%8B%E9%83%A8%E5%88%86%2F%E6%80%BB%E7%BB%93.ppt",
+      "originalName": "总结.ppt",
+      "relativeTarget": "工程技术类/实验力学/讲义/相关课程参考_实验力学电测课件与参考_黄逸洋public/总结.ppt",
+      "bytes": 3404800,
+      "sha256": "96f961c39397b213ac662f8e5cc746b1024f7c52b3aec8f37c0cadf20987ea44"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0007",
+      "sourcePath": "实验力学_马逸/电测部分/电测123/第1章绪论_55601062_151707781.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6%2F%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E7%94%B5%E6%B5%8B%E9%83%A8%E5%88%86%2F%E7%94%B5%E6%B5%8B123%2F%E7%AC%AC1%E7%AB%A0%E7%BB%AA%E8%AE%BA_55601062_151707781.pdf",
+      "originalName": "第1章绪论_55601062_151707781.pdf",
+      "relativeTarget": "工程技术类/实验力学/讲义/相关课程参考_实验力学电测课件与参考_黄逸洋public/第1章绪论_55601062_151707781.pdf",
+      "bytes": 3657488,
+      "sha256": "6569afeaaf4c15123472c4e7b33deb6c97d3386b9d69ac347f17d564aa2af13f"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0008",
+      "sourcePath": "实验力学_马逸/电测部分/电测123/第2章电阻应变测量技术基础_750007390_312051.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6%2F%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E7%94%B5%E6%B5%8B%E9%83%A8%E5%88%86%2F%E7%94%B5%E6%B5%8B123%2F%E7%AC%AC2%E7%AB%A0%E7%94%B5%E9%98%BB%E5%BA%94%E5%8F%98%E6%B5%8B%E9%87%8F%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80_750007390_312051.pdf",
+      "originalName": "第2章电阻应变测量技术基础_750007390_312051.pdf",
+      "relativeTarget": "工程技术类/实验力学/讲义/相关课程参考_实验力学电测课件与参考_黄逸洋public/第2章电阻应变测量技术基础_750007390_312051.pdf",
+      "bytes": 3163603,
+      "sha256": "320c375c39d322298dbc79920cd3f9f3fd0c32999594e9180cadbe020d681cae"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0009",
+      "sourcePath": "实验力学_马逸/电测部分/电测123/第3章电阻应变片_151601348_23650586.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6%2F%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E7%94%B5%E6%B5%8B%E9%83%A8%E5%88%86%2F%E7%94%B5%E6%B5%8B123%2F%E7%AC%AC3%E7%AB%A0%E7%94%B5%E9%98%BB%E5%BA%94%E5%8F%98%E7%89%87_151601348_23650586.pdf",
+      "originalName": "第3章电阻应变片_151601348_23650586.pdf",
+      "relativeTarget": "工程技术类/实验力学/讲义/相关课程参考_实验力学电测课件与参考_黄逸洋public/第3章电阻应变片_151601348_23650586.pdf",
+      "bytes": 4134980,
+      "sha256": "3a112da2fd6b36cd1407f003536a54a4788bdb7906c8fa55c1b95e9d6fa3254c"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0010",
+      "sourcePath": "实验力学_马逸/电测部分/电测456/第4章应变仪测量电路_926003686_320603160 [自动保存的].pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6%2F%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E7%94%B5%E6%B5%8B%E9%83%A8%E5%88%86%2F%E7%94%B5%E6%B5%8B456%2F%E7%AC%AC4%E7%AB%A0%E5%BA%94%E5%8F%98%E4%BB%AA%E6%B5%8B%E9%87%8F%E7%94%B5%E8%B7%AF_926003686_320603160%20%5B%E8%87%AA%E5%8A%A8%E4%BF%9D%E5%AD%98%E7%9A%84%5D.pdf",
+      "originalName": "第4章应变仪测量电路_926003686_320603160 [自动保存的].pdf",
+      "relativeTarget": "工程技术类/实验力学/讲义/相关课程参考_实验力学电测课件与参考_黄逸洋public/第4章应变仪测量电路_926003686_320603160 [自动保存的].pdf",
+      "bytes": 3365203,
+      "sha256": "3534f7182b55ebaa6ec4d25e5fb7da0a820f26b030bb84413bc3b89c37116d7b"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0011",
+      "sourcePath": "实验力学_马逸/电测部分/电测456/第5章测试仪器_776207765_813607036.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6%2F%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E7%94%B5%E6%B5%8B%E9%83%A8%E5%88%86%2F%E7%94%B5%E6%B5%8B456%2F%E7%AC%AC5%E7%AB%A0%E6%B5%8B%E8%AF%95%E4%BB%AA%E5%99%A8_776207765_813607036.pdf",
+      "originalName": "第5章测试仪器_776207765_813607036.pdf",
+      "relativeTarget": "工程技术类/实验力学/讲义/相关课程参考_实验力学电测课件与参考_黄逸洋public/第5章测试仪器_776207765_813607036.pdf",
+      "bytes": 4312102,
+      "sha256": "5dba3031ca18718a3871042a4edf49784906b22a582986f8f5b5abcdac43ba22"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0012",
+      "sourcePath": "实验力学_马逸/电测部分/电测456/第6章静态应力测试_765208971_437805325 (1).pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6%2F%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E7%94%B5%E6%B5%8B%E9%83%A8%E5%88%86%2F%E7%94%B5%E6%B5%8B456%2F%E7%AC%AC6%E7%AB%A0%E9%9D%99%E6%80%81%E5%BA%94%E5%8A%9B%E6%B5%8B%E8%AF%95_765208971_437805325%20(1).pdf",
+      "originalName": "第6章静态应力测试_765208971_437805325 (1).pdf",
+      "relativeTarget": "工程技术类/实验力学/讲义/相关课程参考_实验力学电测课件与参考_黄逸洋public/第6章静态应力测试_765208971_437805325 (1).pdf",
+      "bytes": 2491160,
+      "sha256": "103583ef6aedfafc9fa4bb636b53f92c1d8de5bb8f25fc59252eb33da7ce3176"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0013",
+      "sourcePath": "实验力学_马逸/电测部分/电测789/第8章 特殊条件下的电阻应变测量.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6%2F%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E7%94%B5%E6%B5%8B%E9%83%A8%E5%88%86%2F%E7%94%B5%E6%B5%8B789%2F%E7%AC%AC8%E7%AB%A0%20%E7%89%B9%E6%AE%8A%E6%9D%A1%E4%BB%B6%E4%B8%8B%E7%9A%84%E7%94%B5%E9%98%BB%E5%BA%94%E5%8F%98%E6%B5%8B%E9%87%8F.pdf",
+      "originalName": "第8章 特殊条件下的电阻应变测量.pdf",
+      "relativeTarget": "工程技术类/实验力学/讲义/相关课程参考_实验力学电测课件与参考_黄逸洋public/第8章 特殊条件下的电阻应变测量.pdf",
+      "bytes": 8360232,
+      "sha256": "c226845322a6ce8fdab9d282a98c9fa19b1f127b23b7d02343f21ab10a766021"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0014",
+      "sourcePath": "实验力学_马逸/电测部分/电测789/第9章电阻应变式传感器_581101413_879006706.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6%2F%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E7%94%B5%E6%B5%8B%E9%83%A8%E5%88%86%2F%E7%94%B5%E6%B5%8B789%2F%E7%AC%AC9%E7%AB%A0%E7%94%B5%E9%98%BB%E5%BA%94%E5%8F%98%E5%BC%8F%E4%BC%A0%E6%84%9F%E5%99%A8_581101413_879006706.pdf",
+      "originalName": "第9章电阻应变式传感器_581101413_879006706.pdf",
+      "relativeTarget": "工程技术类/实验力学/讲义/相关课程参考_实验力学电测课件与参考_黄逸洋public/第9章电阻应变式传感器_581101413_879006706.pdf",
+      "bytes": 5684879,
+      "sha256": "bf5ff25263651031d83e7f24add1e8dac18b8f0347c22dd0429c4160a3f14acd"
+    }
+  ],
+  "sameSHAOtherSourcePaths": [],
+  "boundary": "原字节学习文档，普通署名和公开教学联系沿原件保存但索引不摘录联系字段。PDF全页文字层/结构、Office静态XML/OLE及17PDF首页或大纲图视觉，不称整册/全部幻灯片逐页审阅或完整性认证，不执行宏/对象/控制程序/外链。"
+}

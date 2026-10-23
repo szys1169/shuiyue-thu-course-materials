@@ -1,0 +1,134 @@
+{
+  "sourceLabel": "黄逸洋public / 2.10_力学类_弹性力学",
+  "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%BC%B9%E6%80%A7%E5%8A%9B%E5%AD%A6&mode=list",
+  "role": "来源“课件版本2”的PDF/PPT课件，按原名保留，与版本1不按题名合并。绪论PDF有可提取文字层，但本次抽样物理第1、4页渲染为空白，原字节保留并提示阅读质量待核；不修复或据此判断全部63页状态。",
+  "items": [
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0015",
+      "sourcePath": "弹性力学_马逸/课件版本2/Chapter-01.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%BC%B9%E6%80%A7%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%BC%B9%E6%80%A7%E5%8A%9B%E5%AD%A6%2F%E5%BC%B9%E6%80%A7%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6%E7%89%88%E6%9C%AC2%2FChapter-01.pdf",
+      "originalName": "Chapter-01.pdf",
+      "relativeTarget": "工程技术类/弹性力学/讲义/相关课程参考_弹性力学课件版本2_黄逸洋public/Chapter-01.pdf",
+      "bytes": 17738077,
+      "sha256": "4ec72c3a26ddd053e6abd51800e376c0078442ba4c89c8fab7bb3171de44dc5c"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0016",
+      "sourcePath": "弹性力学_马逸/课件版本2/Chapter-02.ppt",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%BC%B9%E6%80%A7%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%BC%B9%E6%80%A7%E5%8A%9B%E5%AD%A6%2F%E5%BC%B9%E6%80%A7%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6%E7%89%88%E6%9C%AC2%2FChapter-02.ppt",
+      "originalName": "Chapter-02.ppt",
+      "relativeTarget": "工程技术类/弹性力学/讲义/相关课程参考_弹性力学课件版本2_黄逸洋public/Chapter-02.ppt",
+      "bytes": 3712512,
+      "sha256": "4a2aca23193b44fe424be0aece557de66d65ef49afde3552e3970dcec027e76f"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0017",
+      "sourcePath": "弹性力学_马逸/课件版本2/FXQ-Chapter-04.ppt",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%BC%B9%E6%80%A7%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%BC%B9%E6%80%A7%E5%8A%9B%E5%AD%A6%2F%E5%BC%B9%E6%80%A7%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6%E7%89%88%E6%9C%AC2%2FFXQ-Chapter-04.ppt",
+      "originalName": "FXQ-Chapter-04.ppt",
+      "relativeTarget": "工程技术类/弹性力学/讲义/相关课程参考_弹性力学课件版本2_黄逸洋public/FXQ-Chapter-04.ppt",
+      "bytes": 4741120,
+      "sha256": "c9c5834cc01bbf3af08d0b06e2a7ef5b6f8eb62579386fd289d2ce821e75f8b7"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0018",
+      "sourcePath": "弹性力学_马逸/课件版本2/FXQ-Chapter-05.ppt",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%BC%B9%E6%80%A7%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%BC%B9%E6%80%A7%E5%8A%9B%E5%AD%A6%2F%E5%BC%B9%E6%80%A7%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6%E7%89%88%E6%9C%AC2%2FFXQ-Chapter-05.ppt",
+      "originalName": "FXQ-Chapter-05.ppt",
+      "relativeTarget": "工程技术类/弹性力学/讲义/相关课程参考_弹性力学课件版本2_黄逸洋public/FXQ-Chapter-05.ppt",
+      "bytes": 7165952,
+      "sha256": "f081df880431db77a8945b4a04d69554f94eee824b8de010833a2868e971a135"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0019",
+      "sourcePath": "弹性力学_马逸/课件版本2/FXQ-Chapter-06 (1).ppt",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%BC%B9%E6%80%A7%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%BC%B9%E6%80%A7%E5%8A%9B%E5%AD%A6%2F%E5%BC%B9%E6%80%A7%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6%E7%89%88%E6%9C%AC2%2FFXQ-Chapter-06%20(1).ppt",
+      "originalName": "FXQ-Chapter-06 (1).ppt",
+      "relativeTarget": "工程技术类/弹性力学/讲义/相关课程参考_弹性力学课件版本2_黄逸洋public/FXQ-Chapter-06 (1).ppt",
+      "bytes": 2546176,
+      "sha256": "69b03955c4ea3c1bc4ef1275c5fcbcb197b8155e1bec75dd1edb8805932c4535"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0021",
+      "sourcePath": "弹性力学_马逸/课件版本2/FXQ-Chapter-07 (1).ppt",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%BC%B9%E6%80%A7%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%BC%B9%E6%80%A7%E5%8A%9B%E5%AD%A6%2F%E5%BC%B9%E6%80%A7%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6%E7%89%88%E6%9C%AC2%2FFXQ-Chapter-07%20(1).ppt",
+      "originalName": "FXQ-Chapter-07 (1).ppt",
+      "relativeTarget": "工程技术类/弹性力学/讲义/相关课程参考_弹性力学课件版本2_黄逸洋public/FXQ-Chapter-07 (1).ppt",
+      "bytes": 4437504,
+      "sha256": "63c37bf6fee334538a0b72ed3767df0750d145a563acd6dce68a93748dd8b66d"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0023",
+      "sourcePath": "弹性力学_马逸/课件版本2/FXQ-Chapter-08.ppt",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%BC%B9%E6%80%A7%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%BC%B9%E6%80%A7%E5%8A%9B%E5%AD%A6%2F%E5%BC%B9%E6%80%A7%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6%E7%89%88%E6%9C%AC2%2FFXQ-Chapter-08.ppt",
+      "originalName": "FXQ-Chapter-08.ppt",
+      "relativeTarget": "工程技术类/弹性力学/讲义/相关课程参考_弹性力学课件版本2_黄逸洋public/FXQ-Chapter-08.ppt",
+      "bytes": 2694144,
+      "sha256": "7a0ec3157ca80655650bbc8892db3867cc68b76c71022def2cf21e91a3e43e60"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0024",
+      "sourcePath": "弹性力学_马逸/课件版本2/FXQ-Chapter-10A.ppt",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%BC%B9%E6%80%A7%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%BC%B9%E6%80%A7%E5%8A%9B%E5%AD%A6%2F%E5%BC%B9%E6%80%A7%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6%E7%89%88%E6%9C%AC2%2FFXQ-Chapter-10A.ppt",
+      "originalName": "FXQ-Chapter-10A.ppt",
+      "relativeTarget": "工程技术类/弹性力学/讲义/相关课程参考_弹性力学课件版本2_黄逸洋public/FXQ-Chapter-10A.ppt",
+      "bytes": 4831232,
+      "sha256": "5b32a889f8464b1e88815e086ed42f79c4dbdf379e2a2cbe38d57d4146f08129"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0025",
+      "sourcePath": "弹性力学_马逸/课件版本2/FXQ-Chapter-10B.ppt",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%BC%B9%E6%80%A7%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%BC%B9%E6%80%A7%E5%8A%9B%E5%AD%A6%2F%E5%BC%B9%E6%80%A7%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6%E7%89%88%E6%9C%AC2%2FFXQ-Chapter-10B.ppt",
+      "originalName": "FXQ-Chapter-10B.ppt",
+      "relativeTarget": "工程技术类/弹性力学/讲义/相关课程参考_弹性力学课件版本2_黄逸洋public/FXQ-Chapter-10B.ppt",
+      "bytes": 1587712,
+      "sha256": "cfa1a5b367bd6c935419b6683b0e972a26a16226e8651368c723b403223edd9d"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0026",
+      "sourcePath": "弹性力学_马逸/课件版本2/第三章.ppt",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%BC%B9%E6%80%A7%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%BC%B9%E6%80%A7%E5%8A%9B%E5%AD%A6%2F%E5%BC%B9%E6%80%A7%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6%E7%89%88%E6%9C%AC2%2F%E7%AC%AC%E4%B8%89%E7%AB%A0.ppt",
+      "originalName": "第三章.ppt",
+      "relativeTarget": "工程技术类/弹性力学/讲义/相关课程参考_弹性力学课件版本2_黄逸洋public/第三章.ppt",
+      "bytes": 4903936,
+      "sha256": "32becebf5e2affd5bb11f952afe4e17a3a42d4e7f143d4b791b17a26d5d19a1c"
+    }
+  ],
+  "sameSHAOtherSourcePaths": [
+    {
+      "sourcePath": "弹性力学_马逸/课件版本2/FXQ-Chapter-06.ppt",
+      "sourceAlias": "S0020",
+      "bytes": 2546176,
+      "sha256": "69b03955c4ea3c1bc4ef1275c5fcbcb197b8155e1bec75dd1edb8805932c4535",
+      "sameAsRelativeTarget": "工程技术类/弹性力学/讲义/相关课程参考_弹性力学课件版本2_黄逸洋public/FXQ-Chapter-06 (1).ppt"
+    },
+    {
+      "sourcePath": "弹性力学_马逸/课件版本2/FXQ-Chapter-07.ppt",
+      "sourceAlias": "S0022",
+      "bytes": 4437504,
+      "sha256": "63c37bf6fee334538a0b72ed3767df0750d145a563acd6dce68a93748dd8b66d",
+      "sameAsRelativeTarget": "工程技术类/弹性力学/讲义/相关课程参考_弹性力学课件版本2_黄逸洋public/FXQ-Chapter-07 (1).ppt"
+    }
+  ],
+  "boundary": "旧PPT仅静态OLE文字与元数据、DOC公式对象原样保存；未运行宏/链接，不称全部幻灯片视觉审阅或数学正确性审核。教学公示联系字段沿原件保存，索引不转录。"
+}

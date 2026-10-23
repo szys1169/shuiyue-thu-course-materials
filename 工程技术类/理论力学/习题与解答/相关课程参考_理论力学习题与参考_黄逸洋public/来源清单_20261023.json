@@ -1,0 +1,94 @@
+{
+  "sourceLabel": "黄逸洋public / 2.10_力学类_理论力学",
+  "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6&mode=list",
+  "role": "练习题、判断题、习题课、竞赛及参考推导。77页《考题解答及平时习题》实际题名习题及样卷讲解，保留原页序。部分Word以图像为主，静态提取图像有限抽看，未称全部图像或公式完整核验。",
+  "items": [
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0017",
+      "sourcePath": "理论力学复习笔记_马逸/考题解答及平时习题.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%2F%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%80%83%E9%A2%98%E8%A7%A3%E7%AD%94%E5%8F%8A%E5%B9%B3%E6%97%B6%E4%B9%A0%E9%A2%98.pdf",
+      "originalName": "考题解答及平时习题.pdf",
+      "relativeTarget": "工程技术类/理论力学/习题与解答/相关课程参考_理论力学习题与参考_黄逸洋public/考题解答及平时习题.pdf",
+      "bytes": 1253836,
+      "sha256": "c31fe2cecd73cbd195c100ac4d946f06ab04c655445daf22b8977dcf34be4ba5"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0019",
+      "sourcePath": "理论力学复习笔记_马逸/理论力学练习题.docx",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%2F%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%E7%BB%83%E4%B9%A0%E9%A2%98.docx",
+      "originalName": "理论力学练习题.docx",
+      "relativeTarget": "工程技术类/理论力学/习题与解答/相关课程参考_理论力学习题与参考_黄逸洋public/理论力学练习题.docx",
+      "bytes": 1512634,
+      "sha256": "ed1c42788482580cbe53ac746cb0b18d5753e8c1e469029fafcf2817b52afe69"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0020",
+      "sourcePath": "理论力学复习笔记_马逸/理论力学判断题1.doc",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%2F%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%E5%88%A4%E6%96%AD%E9%A2%981.doc",
+      "originalName": "理论力学判断题1.doc",
+      "relativeTarget": "工程技术类/理论力学/习题与解答/相关课程参考_理论力学习题与参考_黄逸洋public/理论力学判断题1.doc",
+      "bytes": 153600,
+      "sha256": "fbd0899849725a9ff13fab717b2f9ae2b592475a074a28410d80b2f78c4a9e62"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0021",
+      "sourcePath": "理论力学复习笔记_马逸/理论力学判断题2.doc",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%2F%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%E5%88%A4%E6%96%AD%E9%A2%982.doc",
+      "originalName": "理论力学判断题2.doc",
+      "relativeTarget": "工程技术类/理论力学/习题与解答/相关课程参考_理论力学习题与参考_黄逸洋public/理论力学判断题2.doc",
+      "bytes": 504832,
+      "sha256": "acbe22a52c59ac26c02bdfa7f124eff4ae0dde33b919bf3f31775e60424a73eb"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0022",
+      "sourcePath": "理论力学复习笔记_马逸/理论力学判断题2.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%2F%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%E5%88%A4%E6%96%AD%E9%A2%982.pdf",
+      "originalName": "理论力学判断题2.pdf",
+      "relativeTarget": "工程技术类/理论力学/习题与解答/相关课程参考_理论力学习题与参考_黄逸洋public/理论力学判断题2.pdf",
+      "bytes": 268759,
+      "sha256": "aad31f3d0f36ab97e4674bacab8c56f75e217255123b114e6f595ebaac277afd"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0025",
+      "sourcePath": "理论力学复习笔记_马逸/期末竞赛及答案.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%2F%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E6%9C%9F%E6%9C%AB%E7%AB%9E%E8%B5%9B%E5%8F%8A%E7%AD%94%E6%A1%88.pdf",
+      "originalName": "期末竞赛及答案.pdf",
+      "relativeTarget": "工程技术类/理论力学/习题与解答/相关课程参考_理论力学习题与参考_黄逸洋public/期末竞赛及答案.pdf",
+      "bytes": 179542,
+      "sha256": "bcf594a54007023ef212eaed09c3c43a75d03270c38870da0763a426d57501b6"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0026",
+      "sourcePath": "理论力学复习笔记_马逸/期末习题课.pdf.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%2F%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E6%9C%9F%E6%9C%AB%E4%B9%A0%E9%A2%98%E8%AF%BE.pdf.pdf",
+      "originalName": "期末习题课.pdf.pdf",
+      "relativeTarget": "工程技术类/理论力学/习题与解答/相关课程参考_理论力学习题与参考_黄逸洋public/期末习题课.pdf.pdf",
+      "bytes": 138358,
+      "sha256": "3579fe314fbe8971b0275eca5a89216251c64d4aeeba9369771a64ff0293b05e"
+    }
+  ],
+  "sameSHAOtherSourcePaths": [
+    {
+      "sourcePath": "理论力学复习笔记_马逸/理论力学习题.docx",
+      "sourceAlias": "S0023",
+      "bytes": 1512634,
+      "sha256": "ed1c42788482580cbe53ac746cb0b18d5753e8c1e469029fafcf2817b52afe69",
+      "sameAsRelativeTarget": "工程技术类/理论力学/习题与解答/相关课程参考_理论力学习题与参考_黄逸洋public/理论力学练习题.docx"
+    }
+  ],
+  "boundary": "源72路径逐SHA识别同字节别名，普通姓名与教学信息按原件保存但不转录个人编号。PDF文字层/结构、Word/XML及XLSX静态核对；30 PDF页或图片实际视觉，另6张Word题目图抽查，未全文视觉所有扫描件，不执行宏、DWG、公式、源链接，不确认答案正确性。"
+}

@@ -1,0 +1,86 @@
+{
+  "sourceLabel": "黄逸洋public / 2.10_力学类_实验力学/实验力学_马逸",
+  "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6&mode=list",
+  "role": "两部分实验流体力学课件，首页署名任课教师徐胜金、实验教师贾永霞；另有PIV、热线、风洞、五轴坐标架等仪器使用说明及面力/流动结构实验。仅保存学习文档，未运行说明中提及的软件或控制程序。来源20230524目录日期不概括为每件正文日期。",
+  "items": [
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0005",
+      "sourcePath": "实验力学_马逸/实验力学流体部分/实验流体力学第二部分.pptx",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6%2F%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6%E6%B5%81%E4%BD%93%E9%83%A8%E5%88%86%2F%E5%AE%9E%E9%AA%8C%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%E7%AC%AC%E4%BA%8C%E9%83%A8%E5%88%86.pptx",
+      "originalName": "实验流体力学第二部分.pptx",
+      "relativeTarget": "工程技术类/实验力学/讲义/相关课程参考_实验流体课件与仪器说明_黄逸洋public/实验流体力学第二部分.pptx",
+      "bytes": 47658712,
+      "sha256": "73ddfe9df7b786ada1fb2d48abce555b70fe92a809de8f8b39b0c6b5a2ddf32b"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0006",
+      "sourcePath": "实验力学_马逸/实验力学流体部分/实验流体力学第一部分.pptx",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6%2F%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6%E6%B5%81%E4%BD%93%E9%83%A8%E5%88%86%2F%E5%AE%9E%E9%AA%8C%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%E7%AC%AC%E4%B8%80%E9%83%A8%E5%88%86.pptx",
+      "originalName": "实验流体力学第一部分.pptx",
+      "relativeTarget": "工程技术类/实验力学/讲义/相关课程参考_实验流体课件与仪器说明_黄逸洋public/实验流体力学第一部分.pptx",
+      "bytes": 9419943,
+      "sha256": "21130e768037f880add788c593260e7aae287de7d42b6157938290817b3bb1df"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0025",
+      "sourcePath": "实验力学_马逸/实验力学流体部分/实验力学-流体部分-20230524/LaVision低频粒子图像测速系统（PIV）操作说明.docx",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6%2F%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6%E6%B5%81%E4%BD%93%E9%83%A8%E5%88%86%2F%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6-%E6%B5%81%E4%BD%93%E9%83%A8%E5%88%86-20230524%2FLaVision%E4%BD%8E%E9%A2%91%E7%B2%92%E5%AD%90%E5%9B%BE%E5%83%8F%E6%B5%8B%E9%80%9F%E7%B3%BB%E7%BB%9F%EF%BC%88PIV%EF%BC%89%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E.docx",
+      "originalName": "LaVision低频粒子图像测速系统（PIV）操作说明.docx",
+      "relativeTarget": "工程技术类/实验力学/讲义/相关课程参考_实验流体课件与仪器说明_黄逸洋public/LaVision低频粒子图像测速系统（PIV）操作说明.docx",
+      "bytes": 5748443,
+      "sha256": "2310b42659447cedfbb6713fd9ea54bebe6379c1b7a67a8dec39af3b01cad423"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0026",
+      "sourcePath": "实验力学_马逸/实验力学流体部分/实验力学-流体部分-20230524/丹迪热线风速仪使用说明.docx",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6%2F%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6%E6%B5%81%E4%BD%93%E9%83%A8%E5%88%86%2F%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6-%E6%B5%81%E4%BD%93%E9%83%A8%E5%88%86-20230524%2F%E4%B8%B9%E8%BF%AA%E7%83%AD%E7%BA%BF%E9%A3%8E%E9%80%9F%E4%BB%AA%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.docx",
+      "originalName": "丹迪热线风速仪使用说明.docx",
+      "relativeTarget": "工程技术类/实验力学/讲义/相关课程参考_实验流体课件与仪器说明_黄逸洋public/丹迪热线风速仪使用说明.docx",
+      "bytes": 1301962,
+      "sha256": "2f700541d57af7de942af1f9b28c8ce6009c7acccd99c364a7438c1e7068a7a5"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0027",
+      "sourcePath": "实验力学_马逸/实验力学流体部分/实验力学-流体部分-20230524/低速直流风洞操作说明.docx",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6%2F%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6%E6%B5%81%E4%BD%93%E9%83%A8%E5%88%86%2F%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6-%E6%B5%81%E4%BD%93%E9%83%A8%E5%88%86-20230524%2F%E4%BD%8E%E9%80%9F%E7%9B%B4%E6%B5%81%E9%A3%8E%E6%B4%9E%E6%93%8D%E4%BD%9C%E8%AF%B4%E6%98%8E.docx",
+      "originalName": "低速直流风洞操作说明.docx",
+      "relativeTarget": "工程技术类/实验力学/讲义/相关课程参考_实验流体课件与仪器说明_黄逸洋public/低速直流风洞操作说明.docx",
+      "bytes": 2277852,
+      "sha256": "40c08b0bbbba15c5138ff5c6231e8721afd6484253c99f2db4ef0e18c5590990"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0028",
+      "sourcePath": "实验力学_马逸/实验力学流体部分/实验力学-流体部分-20230524/五轴坐标架控制器使用说明.docx",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6%2F%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6%E6%B5%81%E4%BD%93%E9%83%A8%E5%88%86%2F%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6-%E6%B5%81%E4%BD%93%E9%83%A8%E5%88%86-20230524%2F%E4%BA%94%E8%BD%B4%E5%9D%90%E6%A0%87%E6%9E%B6%E6%8E%A7%E5%88%B6%E5%99%A8%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.docx",
+      "originalName": "五轴坐标架控制器使用说明.docx",
+      "relativeTarget": "工程技术类/实验力学/讲义/相关课程参考_实验流体课件与仪器说明_黄逸洋public/五轴坐标架控制器使用说明.docx",
+      "bytes": 676661,
+      "sha256": "cd73b5d6fe3e49975d9a44c73c4201c5527b227b71c40c2f7e5b0b66a611272b"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0029",
+      "sourcePath": "实验力学_马逸/实验力学流体部分/实验力学-流体部分-20230524/作用于流体上的面力与流动结构的实验测量.docx",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6%2F%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6%E6%B5%81%E4%BD%93%E9%83%A8%E5%88%86%2F%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6-%E6%B5%81%E4%BD%93%E9%83%A8%E5%88%86-20230524%2F%E4%BD%9C%E7%94%A8%E4%BA%8E%E6%B5%81%E4%BD%93%E4%B8%8A%E7%9A%84%E9%9D%A2%E5%8A%9B%E4%B8%8E%E6%B5%81%E5%8A%A8%E7%BB%93%E6%9E%84%E7%9A%84%E5%AE%9E%E9%AA%8C%E6%B5%8B%E9%87%8F.docx",
+      "originalName": "作用于流体上的面力与流动结构的实验测量.docx",
+      "relativeTarget": "工程技术类/实验力学/讲义/相关课程参考_实验流体课件与仪器说明_黄逸洋public/作用于流体上的面力与流动结构的实验测量.docx",
+      "bytes": 696951,
+      "sha256": "98ad4e530858fd4ac42cd2efce5415145f44b509a00657f1eb8ea4ef6807dde4"
+    }
+  ],
+  "sameSHAOtherSourcePaths": [],
+  "boundary": "原字节学习文档，普通署名和公开教学联系沿原件保存但索引不摘录联系字段。PDF全页文字层/结构、Office静态XML/OLE及17PDF首页或大纲图视觉，不称整册/全部幻灯片逐页审阅或完整性认证，不执行宏/对象/控制程序/外链。"
+}

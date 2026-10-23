@@ -1,0 +1,141 @@
+{
+  "sourceLabel": "黄逸洋public / 2.10_力学类_实验力学/实验力学_马逸",
+  "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6&mode=list",
+  "role": "激光全息、散斑、几何云纹及光弹性课件，四份配套习题DOC与两页大纲照片；光测首页实际署名李喜德、2023-02-21。大纲为历史教学参考，不作为当前考试范围。",
+  "items": [
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0003",
+      "sourcePath": "实验力学_马逸/光测部分/大纲.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6%2F%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E5%85%89%E6%B5%8B%E9%83%A8%E5%88%86%2F%E5%A4%A7%E7%BA%B2.jpg",
+      "originalName": "大纲.jpg",
+      "relativeTarget": "工程技术类/实验力学/讲义/相关课程参考_实验力学光测课件大纲与习题_黄逸洋public/大纲.jpg",
+      "bytes": 2690482,
+      "sha256": "860ef5149237f5d8cedf675cf60370aa083033d6e6058ac754c7d50ca5bbcefd"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0004",
+      "sourcePath": "实验力学_马逸/光测部分/大纲2.jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6%2F%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E5%85%89%E6%B5%8B%E9%83%A8%E5%88%86%2F%E5%A4%A7%E7%BA%B22.jpg",
+      "originalName": "大纲2.jpg",
+      "relativeTarget": "工程技术类/实验力学/讲义/相关课程参考_实验力学光测课件大纲与习题_黄逸洋public/大纲2.jpg",
+      "bytes": 2153103,
+      "sha256": "6c2f9271bc6563cab0b0209e18f585cd2806b234be38796ce29f90950cc0eb81"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0015",
+      "sourcePath": "实验力学_马逸/光测部分/第二章/EM_Speckle-jh.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6%2F%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E5%85%89%E6%B5%8B%E9%83%A8%E5%88%86%2F%E7%AC%AC%E4%BA%8C%E7%AB%A0%2FEM_Speckle-jh.pdf",
+      "originalName": "EM_Speckle-jh.pdf",
+      "relativeTarget": "工程技术类/实验力学/讲义/相关课程参考_实验力学光测课件大纲与习题_黄逸洋public/EM_Speckle-jh.pdf",
+      "bytes": 7141613,
+      "sha256": "c0d15bfb8a413711fba68afa7654959bfda95527cd78af3d4bd7a205f99b40aa"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0016",
+      "sourcePath": "实验力学_马逸/光测部分/第二章/speckle_exercise.doc",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6%2F%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E5%85%89%E6%B5%8B%E9%83%A8%E5%88%86%2F%E7%AC%AC%E4%BA%8C%E7%AB%A0%2Fspeckle_exercise.doc",
+      "originalName": "speckle_exercise.doc",
+      "relativeTarget": "工程技术类/实验力学/讲义/相关课程参考_实验力学光测课件大纲与习题_黄逸洋public/speckle_exercise.doc",
+      "bytes": 30720,
+      "sha256": "239614fea3d87cc0ee69b4cf63f84324f02049c36eaadfa037dc212defb9c06d"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0017",
+      "sourcePath": "实验力学_马逸/光测部分/第三章/EM_Geometry_moire.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6%2F%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E5%85%89%E6%B5%8B%E9%83%A8%E5%88%86%2F%E7%AC%AC%E4%B8%89%E7%AB%A0%2FEM_Geometry_moire.pdf",
+      "originalName": "EM_Geometry_moire.pdf",
+      "relativeTarget": "工程技术类/实验力学/讲义/相关课程参考_实验力学光测课件大纲与习题_黄逸洋public/EM_Geometry_moire.pdf",
+      "bytes": 6966070,
+      "sha256": "5ace98dfec777cfc0182595c7f81ba7e2d9aed764b9596072974b5425ea76308"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0018",
+      "sourcePath": "实验力学_马逸/光测部分/第三章/moire_exercise.doc",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6%2F%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E5%85%89%E6%B5%8B%E9%83%A8%E5%88%86%2F%E7%AC%AC%E4%B8%89%E7%AB%A0%2Fmoire_exercise.doc",
+      "originalName": "moire_exercise.doc",
+      "relativeTarget": "工程技术类/实验力学/讲义/相关课程参考_实验力学光测课件大纲与习题_黄逸洋public/moire_exercise.doc",
+      "bytes": 35328,
+      "sha256": "f36630659722ec7275ec34c19a269bb59f3af5c132fdc85066be7babd99d205b"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0019",
+      "sourcePath": "实验力学_马逸/光测部分/第四章/photoelasticity_exercise.doc",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6%2F%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E5%85%89%E6%B5%8B%E9%83%A8%E5%88%86%2F%E7%AC%AC%E5%9B%9B%E7%AB%A0%2Fphotoelasticity_exercise.doc",
+      "originalName": "photoelasticity_exercise.doc",
+      "relativeTarget": "工程技术类/实验力学/讲义/相关课程参考_实验力学光测课件大纲与习题_黄逸洋public/photoelasticity_exercise.doc",
+      "bytes": 404480,
+      "sha256": "31d4863849b8e4d8c63c516dd5970b7301d86b0ae70ab014793fc127c5317f74"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0020",
+      "sourcePath": "实验力学_马逸/光测部分/第四章/光弹性.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6%2F%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E5%85%89%E6%B5%8B%E9%83%A8%E5%88%86%2F%E7%AC%AC%E5%9B%9B%E7%AB%A0%2F%E5%85%89%E5%BC%B9%E6%80%A7.pdf",
+      "originalName": "光弹性.pdf",
+      "relativeTarget": "工程技术类/实验力学/讲义/相关课程参考_实验力学光测课件大纲与习题_黄逸洋public/光弹性.pdf",
+      "bytes": 3417347,
+      "sha256": "a8e9221fc59226d537cc4ac6f18a6fb4fb15d6ab18be87830482fd7dca7b2e14"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0021",
+      "sourcePath": "实验力学_马逸/光测部分/第四章/光弹性2.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6%2F%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E5%85%89%E6%B5%8B%E9%83%A8%E5%88%86%2F%E7%AC%AC%E5%9B%9B%E7%AB%A0%2F%E5%85%89%E5%BC%B9%E6%80%A72.pdf",
+      "originalName": "光弹性2.pdf",
+      "relativeTarget": "工程技术类/实验力学/讲义/相关课程参考_实验力学光测课件大纲与习题_黄逸洋public/光弹性2.pdf",
+      "bytes": 5513863,
+      "sha256": "65286e98b9b8a975f5b233b07ab2dc6acfbc9b79820cb8a95cb08df8f0209e00"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0022",
+      "sourcePath": "实验力学_马逸/光测部分/第一章/EM_holography_2.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6%2F%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E5%85%89%E6%B5%8B%E9%83%A8%E5%88%86%2F%E7%AC%AC%E4%B8%80%E7%AB%A0%2FEM_holography_2.pdf",
+      "originalName": "EM_holography_2.pdf",
+      "relativeTarget": "工程技术类/实验力学/讲义/相关课程参考_实验力学光测课件大纲与习题_黄逸洋public/EM_holography_2.pdf",
+      "bytes": 6560585,
+      "sha256": "e1311f0e5bff82f4912fd7cbcc881ba0c901ac280d58d380c47039364ab1ad29"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0023",
+      "sourcePath": "实验力学_马逸/光测部分/第一章/EM_holography-1.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6%2F%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E5%85%89%E6%B5%8B%E9%83%A8%E5%88%86%2F%E7%AC%AC%E4%B8%80%E7%AB%A0%2FEM_holography-1.pdf",
+      "originalName": "EM_holography-1.pdf",
+      "relativeTarget": "工程技术类/实验力学/讲义/相关课程参考_实验力学光测课件大纲与习题_黄逸洋public/EM_holography-1.pdf",
+      "bytes": 3646685,
+      "sha256": "7fa556ae914f3d5a7e975b5133c3c853c3bc2e8b127c35ad2770fe6379ad3d27"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0024",
+      "sourcePath": "实验力学_马逸/光测部分/第一章/holography_exercise.doc",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6%2F%E5%AE%9E%E9%AA%8C%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E5%85%89%E6%B5%8B%E9%83%A8%E5%88%86%2F%E7%AC%AC%E4%B8%80%E7%AB%A0%2Fholography_exercise.doc",
+      "originalName": "holography_exercise.doc",
+      "relativeTarget": "工程技术类/实验力学/讲义/相关课程参考_实验力学光测课件大纲与习题_黄逸洋public/holography_exercise.doc",
+      "bytes": 32256,
+      "sha256": "a361280156867385cb65c44850f5b291f6d28b16d656617637984274cd2f6547"
+    }
+  ],
+  "sameSHAOtherSourcePaths": [],
+  "boundary": "原字节学习文档，普通署名和公开教学联系沿原件保存但索引不摘录联系字段。PDF全页文字层/结构、Office静态XML/OLE及17PDF首页或大纲图视觉，不称整册/全部幻灯片逐页审阅或完整性认证，不执行宏/对象/控制程序/外链。"
+}

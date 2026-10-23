@@ -1,0 +1,85 @@
+{
+  "sourceLabel": "黄逸洋public / 2.10_力学类_理论力学",
+  "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6&mode=list",
+  "role": "2份XLSX实验数据表和1份未见身份字段的碰撞参考DOC，按历史学生实验参考保存；数据非用户本人实测，未运行公式对象或复算。其它已填个人编号的报告及含私人机器目录的DWG留过程，本组不代表完整实验依赖套件。",
+  "items": [
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0037",
+      "sourcePath": "理论力学实验/理力实验/单自由度系统/数据统计.xlsx",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%2F%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%E5%AE%9E%E9%AA%8C%2F%E7%90%86%E5%8A%9B%E5%AE%9E%E9%AA%8C%2F%E5%8D%95%E8%87%AA%E7%94%B1%E5%BA%A6%E7%B3%BB%E7%BB%9F%2F%E6%95%B0%E6%8D%AE%E7%BB%9F%E8%AE%A1.xlsx",
+      "originalName": "数据统计.xlsx",
+      "relativeTarget": "工程技术类/理论力学/实验参考/相关课程参考_理论力学匿名数据与碰撞参考_黄逸洋public/理力实验/单自由度系统/数据统计.xlsx",
+      "bytes": 30506,
+      "sha256": "7a6c1fa69e19ed87b5da5842bd842df817df3377138c8cb480c2ee2f640ffb65"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0040",
+      "sourcePath": "理论力学实验/理力实验/碰撞/表格.xlsx",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%2F%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%E5%AE%9E%E9%AA%8C%2F%E7%90%86%E5%8A%9B%E5%AE%9E%E9%AA%8C%2F%E7%A2%B0%E6%92%9E%2F%E8%A1%A8%E6%A0%BC.xlsx",
+      "originalName": "表格.xlsx",
+      "relativeTarget": "工程技术类/理论力学/实验参考/相关课程参考_理论力学匿名数据与碰撞参考_黄逸洋public/理力实验/碰撞/表格.xlsx",
+      "bytes": 11116,
+      "sha256": "6ea7eeb320c293c1085aff03aa87b9896b1bdcd0d393392608bf5875bd5370ac"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0063",
+      "sourcePath": "理论力学实验/理力实验/碰撞/参考/2007191027626.doc",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%2F%E7%90%86%E8%AE%BA%E5%8A%9B%E5%AD%A6%E5%AE%9E%E9%AA%8C%2F%E7%90%86%E5%8A%9B%E5%AE%9E%E9%AA%8C%2F%E7%A2%B0%E6%92%9E%2F%E5%8F%82%E8%80%83%2F2007191027626.doc",
+      "originalName": "2007191027626.doc",
+      "relativeTarget": "工程技术类/理论力学/实验参考/相关课程参考_理论力学匿名数据与碰撞参考_黄逸洋public/理力实验/碰撞/参考/2007191027626.doc",
+      "bytes": 258048,
+      "sha256": "7b44e4a454835ece3d1fb735677ab2baa163d8d5a94b4cc1934c28fb90df5476"
+    }
+  ],
+  "sameSHAOtherSourcePaths": [
+    {
+      "sourcePath": "理论力学实验/张龑华学长资料/单自由度系统/数据统计_20180601175852.xlsx",
+      "sourceAlias": "S0045",
+      "bytes": 30506,
+      "sha256": "7a6c1fa69e19ed87b5da5842bd842df817df3377138c8cb480c2ee2f640ffb65",
+      "sameAsRelativeTarget": "工程技术类/理论力学/实验参考/相关课程参考_理论力学匿名数据与碰撞参考_黄逸洋public/理力实验/单自由度系统/数据统计.xlsx"
+    },
+    {
+      "sourcePath": "理论力学实验/张龑华学长资料/单自由度系统/数据统计.xlsx",
+      "sourceAlias": "S0046",
+      "bytes": 30506,
+      "sha256": "7a6c1fa69e19ed87b5da5842bd842df817df3377138c8cb480c2ee2f640ffb65",
+      "sameAsRelativeTarget": "工程技术类/理论力学/实验参考/相关课程参考_理论力学匿名数据与碰撞参考_黄逸洋public/理力实验/单自由度系统/数据统计.xlsx"
+    },
+    {
+      "sourcePath": "理论力学实验/张龑华学长资料/碰撞/表格_20180601175936.xlsx",
+      "sourceAlias": "S0054",
+      "bytes": 11116,
+      "sha256": "6ea7eeb320c293c1085aff03aa87b9896b1bdcd0d393392608bf5875bd5370ac",
+      "sameAsRelativeTarget": "工程技术类/理论力学/实验参考/相关课程参考_理论力学匿名数据与碰撞参考_黄逸洋public/理力实验/碰撞/表格.xlsx"
+    },
+    {
+      "sourcePath": "理论力学实验/张龑华学长资料/碰撞/表格.xlsx",
+      "sourceAlias": "S0055",
+      "bytes": 11116,
+      "sha256": "6ea7eeb320c293c1085aff03aa87b9896b1bdcd0d393392608bf5875bd5370ac",
+      "sameAsRelativeTarget": "工程技术类/理论力学/实验参考/相关课程参考_理论力学匿名数据与碰撞参考_黄逸洋public/理力实验/碰撞/表格.xlsx"
+    },
+    {
+      "sourcePath": "理论力学实验/张龑华学长资料/碰撞/参考/2007191027626_20180601180001.doc",
+      "sourceAlias": "S0071",
+      "bytes": 258048,
+      "sha256": "7b44e4a454835ece3d1fb735677ab2baa163d8d5a94b4cc1934c28fb90df5476",
+      "sameAsRelativeTarget": "工程技术类/理论力学/实验参考/相关课程参考_理论力学匿名数据与碰撞参考_黄逸洋public/理力实验/碰撞/参考/2007191027626.doc"
+    },
+    {
+      "sourcePath": "理论力学实验/张龑华学长资料/碰撞/参考/2007191027626.doc",
+      "sourceAlias": "S0072",
+      "bytes": 258048,
+      "sha256": "7b44e4a454835ece3d1fb735677ab2baa163d8d5a94b4cc1934c28fb90df5476",
+      "sameAsRelativeTarget": "工程技术类/理论力学/实验参考/相关课程参考_理论力学匿名数据与碰撞参考_黄逸洋public/理力实验/碰撞/参考/2007191027626.doc"
+    }
+  ],
+  "boundary": "源72路径逐SHA识别同字节别名，普通姓名与教学信息按原件保存但不转录个人编号。PDF文字层/结构、Word/XML及XLSX静态核对；30 PDF页或图片实际视觉，另6张Word题目图抽查，未全文视觉所有扫描件，不执行宏、DWG、公式、源链接，不确认答案正确性。"
+}

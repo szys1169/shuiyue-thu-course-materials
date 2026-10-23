@@ -1,0 +1,100 @@
+{
+  "sourceLabel": "黄逸洋public / 2.10_力学类_计算流体力学/计算流体力学_复习笔记_马逸",
+  "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E8%AE%A1%E7%AE%97%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6&mode=list",
+  "role": "五章旧PPT为绪论、有限差分基本理论、椭圆方程迭代、不可压缩与可压缩流动数值方法。绪论静态文字实际标“计算力学基础/计算流体力学”、清华大学工程力学系、2019年春；具体教师未从来源目录马逸标签推定。各同SHA后缀副本按来源清单关联，原件保留，未另补全课程。",
+  "items": [
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0003",
+      "sourcePath": "计算流体力学_复习笔记_马逸/计算流体力学课程资料/计算流体力学-1-绪论 (1).ppt",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E8%AE%A1%E7%AE%97%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E8%AE%A1%E7%AE%97%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%2F%E8%AE%A1%E7%AE%97%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%AE%A1%E7%AE%97%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%96%99%2F%E8%AE%A1%E7%AE%97%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6-1-%E7%BB%AA%E8%AE%BA%20(1).ppt",
+      "originalName": "计算流体力学-1-绪论 (1).ppt",
+      "relativeTarget": "工程技术类/计算流体力学/讲义/相关课程参考_2019春计算流体五章课件_黄逸洋public/计算流体力学-1-绪论 (1).ppt",
+      "bytes": 44491264,
+      "sha256": "37686587a6d51a7c00802342383ee6edfa9d88f524fffee949c86b3cabc09e1e"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0005",
+      "sourcePath": "计算流体力学_复习笔记_马逸/计算流体力学课程资料/计算流体力学-2-有限差分的基本理论 (1).ppt",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E8%AE%A1%E7%AE%97%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E8%AE%A1%E7%AE%97%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%2F%E8%AE%A1%E7%AE%97%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%AE%A1%E7%AE%97%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%96%99%2F%E8%AE%A1%E7%AE%97%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6-2-%E6%9C%89%E9%99%90%E5%B7%AE%E5%88%86%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%90%86%E8%AE%BA%20(1).ppt",
+      "originalName": "计算流体力学-2-有限差分的基本理论 (1).ppt",
+      "relativeTarget": "工程技术类/计算流体力学/讲义/相关课程参考_2019春计算流体五章课件_黄逸洋public/计算流体力学-2-有限差分的基本理论 (1).ppt",
+      "bytes": 1921536,
+      "sha256": "a67ff09edf8d3e041dd5e5d380d601472b8bb7cc51e31885028334f25b72835d"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0007",
+      "sourcePath": "计算流体力学_复习笔记_马逸/计算流体力学课程资料/计算流体力学-3-椭圆型方程的迭代法 (1).ppt",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E8%AE%A1%E7%AE%97%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E8%AE%A1%E7%AE%97%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%2F%E8%AE%A1%E7%AE%97%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%AE%A1%E7%AE%97%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%96%99%2F%E8%AE%A1%E7%AE%97%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6-3-%E6%A4%AD%E5%9C%86%E5%9E%8B%E6%96%B9%E7%A8%8B%E7%9A%84%E8%BF%AD%E4%BB%A3%E6%B3%95%20(1).ppt",
+      "originalName": "计算流体力学-3-椭圆型方程的迭代法 (1).ppt",
+      "relativeTarget": "工程技术类/计算流体力学/讲义/相关课程参考_2019春计算流体五章课件_黄逸洋public/计算流体力学-3-椭圆型方程的迭代法 (1).ppt",
+      "bytes": 472064,
+      "sha256": "151bdbac4bcbf9c54a7a98965dc88cd3a5b169301dac9b861a7b1344b75ddae3"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0009",
+      "sourcePath": "计算流体力学_复习笔记_马逸/计算流体力学课程资料/计算流体力学-4-不可压缩流动的数值方法 (1).ppt",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E8%AE%A1%E7%AE%97%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E8%AE%A1%E7%AE%97%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%2F%E8%AE%A1%E7%AE%97%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%AE%A1%E7%AE%97%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%96%99%2F%E8%AE%A1%E7%AE%97%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6-4-%E4%B8%8D%E5%8F%AF%E5%8E%8B%E7%BC%A9%E6%B5%81%E5%8A%A8%E7%9A%84%E6%95%B0%E5%80%BC%E6%96%B9%E6%B3%95%20(1).ppt",
+      "originalName": "计算流体力学-4-不可压缩流动的数值方法 (1).ppt",
+      "relativeTarget": "工程技术类/计算流体力学/讲义/相关课程参考_2019春计算流体五章课件_黄逸洋public/计算流体力学-4-不可压缩流动的数值方法 (1).ppt",
+      "bytes": 642048,
+      "sha256": "0d492e416668b71cf47096d5aa355aa226a56af9e203d0d7ed4a0eb8612e6e11"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0011",
+      "sourcePath": "计算流体力学_复习笔记_马逸/计算流体力学课程资料/计算流体力学-5-可压缩流动的数值方法 (1).ppt",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E8%AE%A1%E7%AE%97%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.10_%E5%8A%9B%E5%AD%A6%E7%B1%BB_%E8%AE%A1%E7%AE%97%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%2F%E8%AE%A1%E7%AE%97%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%AE%A1%E7%AE%97%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%96%99%2F%E8%AE%A1%E7%AE%97%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6-5-%E5%8F%AF%E5%8E%8B%E7%BC%A9%E6%B5%81%E5%8A%A8%E7%9A%84%E6%95%B0%E5%80%BC%E6%96%B9%E6%B3%95%20(1).ppt",
+      "originalName": "计算流体力学-5-可压缩流动的数值方法 (1).ppt",
+      "relativeTarget": "工程技术类/计算流体力学/讲义/相关课程参考_2019春计算流体五章课件_黄逸洋public/计算流体力学-5-可压缩流动的数值方法 (1).ppt",
+      "bytes": 1383936,
+      "sha256": "97ecd78304430af6294273b5d38e022ce9362c5716c2a20d18ff30b63479adbd"
+    }
+  ],
+  "sameSHAOtherSourcePaths": [
+    {
+      "sourcePath": "计算流体力学_复习笔记_马逸/计算流体力学课程资料/计算流体力学-1-绪论.ppt",
+      "sourceAlias": "S0004",
+      "bytes": 44491264,
+      "sha256": "37686587a6d51a7c00802342383ee6edfa9d88f524fffee949c86b3cabc09e1e",
+      "sameAsRelativeTarget": "工程技术类/计算流体力学/讲义/相关课程参考_2019春计算流体五章课件_黄逸洋public/计算流体力学-1-绪论 (1).ppt"
+    },
+    {
+      "sourcePath": "计算流体力学_复习笔记_马逸/计算流体力学课程资料/计算流体力学-2-有限差分的基本理论.ppt",
+      "sourceAlias": "S0006",
+      "bytes": 1921536,
+      "sha256": "a67ff09edf8d3e041dd5e5d380d601472b8bb7cc51e31885028334f25b72835d",
+      "sameAsRelativeTarget": "工程技术类/计算流体力学/讲义/相关课程参考_2019春计算流体五章课件_黄逸洋public/计算流体力学-2-有限差分的基本理论 (1).ppt"
+    },
+    {
+      "sourcePath": "计算流体力学_复习笔记_马逸/计算流体力学课程资料/计算流体力学-3-椭圆型方程的迭代法.ppt",
+      "sourceAlias": "S0008",
+      "bytes": 472064,
+      "sha256": "151bdbac4bcbf9c54a7a98965dc88cd3a5b169301dac9b861a7b1344b75ddae3",
+      "sameAsRelativeTarget": "工程技术类/计算流体力学/讲义/相关课程参考_2019春计算流体五章课件_黄逸洋public/计算流体力学-3-椭圆型方程的迭代法 (1).ppt"
+    },
+    {
+      "sourcePath": "计算流体力学_复习笔记_马逸/计算流体力学课程资料/计算流体力学-4-不可压缩流动的数值方法.ppt",
+      "sourceAlias": "S0010",
+      "bytes": 642048,
+      "sha256": "0d492e416668b71cf47096d5aa355aa226a56af9e203d0d7ed4a0eb8612e6e11",
+      "sameAsRelativeTarget": "工程技术类/计算流体力学/讲义/相关课程参考_2019春计算流体五章课件_黄逸洋public/计算流体力学-4-不可压缩流动的数值方法 (1).ppt"
+    },
+    {
+      "sourcePath": "计算流体力学_复习笔记_马逸/计算流体力学课程资料/计算流体力学-5-可压缩流动的数值方法.ppt",
+      "sourceAlias": "S0012",
+      "bytes": 1383936,
+      "sha256": "97ecd78304430af6294273b5d38e022ce9362c5716c2a20d18ff30b63479adbd",
+      "sameAsRelativeTarget": "工程技术类/计算流体力学/讲义/相关课程参考_2019春计算流体五章课件_黄逸洋public/计算流体力学-5-可压缩流动的数值方法 (1).ppt"
+    }
+  ],
+  "boundary": "5唯一PPT读取OLE文字记录、元数据及私人路径候选，不执行宏/对象/源码/外链，未逐幻灯片视觉或数学正确性审核。来源数字后缀原样保留。"
+}
