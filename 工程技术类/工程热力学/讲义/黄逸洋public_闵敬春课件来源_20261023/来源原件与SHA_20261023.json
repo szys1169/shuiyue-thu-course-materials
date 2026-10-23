@@ -1,0 +1,169 @@
+{
+  "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E5%B7%A5%E7%A8%8B%E7%83%AD%E5%8A%9B%E5%AD%A6%2F%E5%B7%A5%E7%A8%8B%E7%83%AD%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2F%E9%97%B5%E6%95%AC%E6%98%A5%20&mode=list",
+  "sourceCourse": "2.6_能源动力类_工程热力学",
+  "role": "18份PDF，包括工程热力学各章课件及3份讨论/练习资料；绪论正文署主讲教师闵敬春。教师和助教介绍内有公开教学联系信息，说明不重复转录。",
+  "files": [
+    {
+      "name": "第9章 (1).pdf",
+      "sourceAliases": [
+        "闵敬春 /第9章 (1).pdf"
+      ],
+      "bytes": 661324,
+      "sha256": "98d533be89cb3bea2f1f146e233c515d0c9b596ce3f5a1d019481f75292d3ef9",
+      "pages": 37
+    },
+    {
+      "name": "第8章.pdf",
+      "sourceAliases": [
+        "闵敬春 /第8章.pdf"
+      ],
+      "bytes": 457916,
+      "sha256": "ed4be8a200a490016eef00e66a62ea88dc188913ce1fcd68bb2b71a8da11ae47",
+      "pages": 44
+    },
+    {
+      "name": "第7章.pdf",
+      "sourceAliases": [
+        "闵敬春 /第7章.pdf"
+      ],
+      "bytes": 1161097,
+      "sha256": "80b651f9b607fd0f71c0d322b0954c25925291bf066f0702dc42bd2afafbd0e5",
+      "pages": 59
+    },
+    {
+      "name": "第6章.pdf",
+      "sourceAliases": [
+        "闵敬春 /第6章.pdf"
+      ],
+      "bytes": 1131367,
+      "sha256": "7f01e5cbca23bf1ca48d7a32c4bd7d8e8dea3fc3efb2a59173411e4ffd9594f1",
+      "pages": 75
+    },
+    {
+      "name": "第5章 (1).pdf",
+      "sourceAliases": [
+        "闵敬春 /第5章 (1).pdf"
+      ],
+      "bytes": 648987,
+      "sha256": "89e1f4108babdf99d74e68cef54dc25a69eaf7aa943944be0f388329aed93686",
+      "pages": 60
+    },
+    {
+      "name": "第4章.pdf",
+      "sourceAliases": [
+        "闵敬春 /第4章.pdf"
+      ],
+      "bytes": 627314,
+      "sha256": "adb6974c8e8309824c928e484b33081a07c0eb0df4fb475c4e35b0a1ad2db4da",
+      "pages": 64
+    },
+    {
+      "name": "第3章讨论课.pdf",
+      "sourceAliases": [
+        "闵敬春 /第3章讨论课.pdf"
+      ],
+      "bytes": 302182,
+      "sha256": "8a7729af341e3e5cffab78be70eddc07f8355f7f6f5334fdbb924da069550176",
+      "pages": 18
+    },
+    {
+      "name": "第3章.pdf",
+      "sourceAliases": [
+        "闵敬春 /第3章.pdf"
+      ],
+      "bytes": 2009464,
+      "sha256": "04abc0bf12401429fe2d68b6a97697ae408d260baeb69eadf487a63468088a3b",
+      "pages": 147
+    },
+    {
+      "name": "第2章2022 (1).pdf",
+      "sourceAliases": [
+        "闵敬春 /第2章2022 (1).pdf"
+      ],
+      "bytes": 1776505,
+      "sha256": "22b66d0bcc38acefe361eda23a69236a77b81bb593b3c0a241fb9221a8b1e1ca",
+      "pages": 78
+    },
+    {
+      "name": "第2章 小节及讨论课.pdf",
+      "sourceAliases": [
+        "闵敬春 /第2章 小节及讨论课.pdf"
+      ],
+      "bytes": 461689,
+      "sha256": "ea6d187d8ddb11dcd06d5d099b1c39e7e97fc93ff280b0bc491c8018adccfd7d",
+      "pages": 36
+    },
+    {
+      "name": "第1章2022.pdf",
+      "sourceAliases": [
+        "闵敬春 /第1章2022.pdf"
+      ],
+      "bytes": 1047368,
+      "sha256": "7b4dd32271b1be2b0ff1befc8a58b2ec752e501295d2d29c4fc9fffb8fe6454b",
+      "pages": 76
+    },
+    {
+      "name": "第14章.pdf",
+      "sourceAliases": [
+        "闵敬春 /第14章.pdf"
+      ],
+      "bytes": 328697,
+      "sha256": "b981665556eadb6107635eb0c3489ea3f0ca9f633fb593081b7e0380212e0a33",
+      "pages": 34
+    },
+    {
+      "name": "第13章.pdf",
+      "sourceAliases": [
+        "闵敬春 /第13章.pdf"
+      ],
+      "bytes": 1372771,
+      "sha256": "59b9433b59bcccaa8017380191f99128ac47e059c274b1a776c7d20800b81312",
+      "pages": 48
+    },
+    {
+      "name": "第12章.pdf",
+      "sourceAliases": [
+        "闵敬春 /第12章.pdf"
+      ],
+      "bytes": 1218042,
+      "sha256": "3070388aa1e2c21c3b10f850b9aebca0f94ce738b98dab383db63bb40b9065b8",
+      "pages": 78
+    },
+    {
+      "name": "第11章.pdf",
+      "sourceAliases": [
+        "闵敬春 /第11章.pdf"
+      ],
+      "bytes": 1124691,
+      "sha256": "9840930d3e42db21098a074f279b0b3a086d275fc8339a2b7a065124486823df",
+      "pages": 63
+    },
+    {
+      "name": "第10章.pdf",
+      "sourceAliases": [
+        "闵敬春 /第10章.pdf"
+      ],
+      "bytes": 536325,
+      "sha256": "e3f4a4630475e589362d6ff686c6171f1a374ec03dc9d37d788516283868efe4",
+      "pages": 37
+    },
+    {
+      "name": "前3章练习.pdf",
+      "sourceAliases": [
+        "闵敬春 /前3章练习.pdf"
+      ],
+      "bytes": 100952,
+      "sha256": "396bac9633793198b6e5cdc8f4c99a07776e42b2da220364458b050dbcdffd26",
+      "pages": 1
+    },
+    {
+      "name": "0绪论2022.pdf",
+      "sourceAliases": [
+        "闵敬春 /0绪论2022.pdf"
+      ],
+      "bytes": 2145573,
+      "sha256": "94857382f693f34de2a73f74bde4b8e62f5988e62d70ba2a413d559755c318ac",
+      "pages": 40
+    }
+  ]
+}

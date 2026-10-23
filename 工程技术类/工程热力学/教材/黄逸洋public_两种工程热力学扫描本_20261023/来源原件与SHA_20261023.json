@@ -1,0 +1,31 @@
+{
+  "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E5%B7%A5%E7%A8%8B%E7%83%AD%E5%8A%9B%E5%AD%A6%2F%E5%B7%A5%E7%A8%8B%E7%83%AD%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2Fdocuments-export-2024-05-23%2F%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC&mode=list",
+  "sourceCourse": "2.6_能源动力类_工程热力学",
+  "role": "两种整本扫描：曾丹苓等《工程热力学》第三版（450文件页，高等教育出版社封面）和《工程热力学》第二版（353文件页，清华大学出版社封面）。后一本原文件名作者标签与封面作者名单并不完全一致，保留原名、以扫描封面版次为证，不据文件名配套。扫描文字层为空，部分页解析有XObject子类型警告，未改字节、未作逐页视觉完整性审校。",
+  "files": [
+    {
+      "name": "工程热力学 曾丹苓 敖越 第3版.pdf",
+      "sourceAliases": [
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E5%B7%A5%E7%A8%8B%E7%83%AD%E5%8A%9B%E5%AD%A6%2F%E5%B7%A5%E7%A8%8B%E7%83%AD%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2Fdocuments-export-2024-05-23%2F%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC&mode=list",
+          "member": "电子课本/工程热力学 曾丹苓 敖越 第3版.pdf"
+        }
+      ],
+      "bytes": 17228943,
+      "sha256": "05dd95acdfdda40b9a3e3bf1339350f16583276ef6317c913906716721b10993",
+      "pages": 450
+    },
+    {
+      "name": "工程热力学 (朱明善, 史琳, 吴晓敏, 段远源) .pdf",
+      "sourceAliases": [
+        {
+          "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E5%B7%A5%E7%A8%8B%E7%83%AD%E5%8A%9B%E5%AD%A6%2F%E5%B7%A5%E7%A8%8B%E7%83%AD%E5%8A%9B%E5%AD%A6_%E9%A9%AC%E9%80%B8%2Fdocuments-export-2024-05-23%2F%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC&mode=list",
+          "member": "电子课本/工程热力学 (朱明善, 史琳, 吴晓敏, 段远源) .pdf"
+        }
+      ],
+      "bytes": 17879621,
+      "sha256": "28088034aa4f6a45f97c501b37d8289956bd12d589b1cfd653e76c305a8cc7e6",
+      "pages": 353
+    }
+  ]
+}

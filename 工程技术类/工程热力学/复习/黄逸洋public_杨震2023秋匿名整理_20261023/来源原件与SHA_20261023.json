@@ -1,0 +1,34 @@
+{
+  "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E5%B7%A5%E7%A8%8B%E7%83%AD%E5%8A%9B%E5%AD%A6%2F%E5%B7%A5%E7%A8%8B%E7%83%AD%E5%8A%9B%E5%AD%A6-%E6%9D%A8%E9%9C%87-2023%E7%A7%8B&mode=list",
+  "sourceCourse": "2.6_能源动力类_工程热力学",
+  "role": "匿名个人cheatsheet，PDF8页、原TeX和原README三件配套。PDF首页标anonymous/2023 fall，来源说明提供杨震2023秋回忆信息并明确个人整理可能错漏，参考内容需自行查证；不是正式讲义或标准答案。",
+  "files": [
+    {
+      "name": "工程热力学cheatsheet.tex",
+      "sourceAliases": [
+        "工程热力学-杨震-2023秋/工程热力学cheatsheet.tex"
+      ],
+      "bytes": 37766,
+      "sha256": "72c550ec7fb8d12b00c7c935a618273b1bf2736c30126e2cf2a3925de4a85ab9",
+      "pages": null
+    },
+    {
+      "name": "工程热力学cheatsheet.pdf",
+      "sourceAliases": [
+        "工程热力学-杨震-2023秋/工程热力学cheatsheet.pdf"
+      ],
+      "bytes": 817564,
+      "sha256": "9581215ebc3ec7b99530afe5219bf659a9858f6823e07d901c774e61d696a1f9",
+      "pages": 8
+    },
+    {
+      "name": "README.txt",
+      "sourceAliases": [
+        "工程热力学-杨震-2023秋/README.txt"
+      ],
+      "bytes": 1164,
+      "sha256": "3724b526d3d3c61a139ab3dbe1ab4a6d7ce4a0d634efed8c530d7502f71c205e",
+      "pages": null
+    }
+  ]
+}
