@@ -1,0 +1,46 @@
+{
+  "sourceLabel": "黄逸洋public / 3自动控制",
+  "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6&mode=list",
+  "role": "保留来源中的教学计划与课程总结，含当时课程安排和考试答疑说明；用作历史课程背景，原件未明确的年份不补猜，日期和范围不作为当前课程安排承诺。",
+  "items": [
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0036",
+      "sourcePath": "自动控制_复习笔记_马逸/课件相关/教学计划 (1).pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6%E7%9B%B8%E5%85%B3%2F%E6%95%99%E5%AD%A6%E8%AE%A1%E5%88%92%20(1).pdf",
+      "originalName": "教学计划 (1).pdf",
+      "relativeTarget": "工程技术类/自动控制/课程信息/相关课程参考_教学计划与课程总结_黄逸洋public/教学计划 (1).pdf",
+      "bytes": 572990,
+      "sha256": "e4ee535725807b4e97006da78035cd90539562aa8904aa6fb159a629352f49ff"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0038",
+      "sourcePath": "自动控制_复习笔记_马逸/课件相关/课程总结 (1).pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6%E7%9B%B8%E5%85%B3%2F%E8%AF%BE%E7%A8%8B%E6%80%BB%E7%BB%93%20(1).pdf",
+      "originalName": "课程总结 (1).pdf",
+      "relativeTarget": "工程技术类/自动控制/课程信息/相关课程参考_教学计划与课程总结_黄逸洋public/课程总结 (1).pdf",
+      "bytes": 571958,
+      "sha256": "87ea528ef457589f70b9e5fc5c39d8768bf9b367d70e97ad0e56a08c946eb0b6"
+    }
+  ],
+  "sameSHAOtherSourcePaths": [
+    {
+      "sourcePath": "自动控制_复习笔记_马逸/课件相关/教学计划.pdf",
+      "sourceAlias": "S0037",
+      "bytes": 572990,
+      "sha256": "e4ee535725807b4e97006da78035cd90539562aa8904aa6fb159a629352f49ff",
+      "sameAsRelativeTarget": "工程技术类/自动控制/课程信息/相关课程参考_教学计划与课程总结_黄逸洋public/教学计划 (1).pdf"
+    },
+    {
+      "sourcePath": "自动控制_复习笔记_马逸/课件相关/课程总结.pdf",
+      "sourceAlias": "S0039",
+      "bytes": 571958,
+      "sha256": "87ea528ef457589f70b9e5fc5c39d8768bf9b367d70e97ad0e56a08c946eb0b6",
+      "sameAsRelativeTarget": "工程技术类/自动控制/课程信息/相关课程参考_教学计划与课程总结_黄逸洋public/课程总结 (1).pdf"
+    }
+  ],
+  "boundary": "104来源路径按精确SHA合并别名；15不同PDF首面和2JPG实际视觉，DOC仅静态文字层/OLE核对，非全文视觉审校。两类填写身份编号参考稿整件仅过程保存；普通姓名、教学公示联系和来源文件数字后缀不当作身份编号排除。无宏/源码/模型执行、无原件改写或ZIP上传。"
+}

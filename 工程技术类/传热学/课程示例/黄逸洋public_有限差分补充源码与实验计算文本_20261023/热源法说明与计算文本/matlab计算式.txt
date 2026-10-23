@@ -1,0 +1,16 @@
+U= 20  ;
+R= 43.6  ;
+F=  0.038 ;
+x=0.02  ;
+t0= 17.0  ;
+a=  3e-7 ;
+lam= 0.02  ;
+tao= [120:120:1200]  ;
+q=U*U/(2*R*F);
+u=x./(2*sqrt(a*tao));
+v=exp(-u.*u)/sqrt(pi)-u.*erfc(u);
+t=t0+2*q*sqrt(a.*tao).*v/lam;
+
+
+
+

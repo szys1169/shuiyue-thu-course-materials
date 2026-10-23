@@ -1,0 +1,21 @@
+{
+  "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E4%BC%A0%E7%83%AD%E5%AD%A6&mode=list",
+  "files": [
+    {
+      "sourceKey": "misplacedMetalReview",
+      "name": "金属材料复习提纲(2)201305_556606077.pdf",
+      "bytes": 521712,
+      "sha256": "516e4fd8123e9bacfcee69403d97eaad6841c2c7ecf925dfc8aae1ee3b1555c9",
+      "pages": 10,
+      "allPagesActuallyViewed": true,
+      "role": "金属材料与热处理复习片段",
+      "startsAtQuestion": 10,
+      "sourceCourseName": "传热学",
+      "bodySubject": "金属材料与热处理",
+      "targetCourseName": "工程材料"
+    }
+  ],
+  "crossCourseClassificationFromBody": true,
+  "sourceBodyUnmodified": true,
+  "sameSizeCanonicalSameSHA": false
+}

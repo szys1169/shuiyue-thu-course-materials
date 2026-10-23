@@ -1,0 +1,222 @@
+{
+  "sourceLabel": "黄逸洋public / 3自动控制",
+  "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6&mode=list",
+  "role": "MATLAB介绍PDF首页标记慕春棣、王祺及2007-03-21，另存MATLAB示例代码、FIG图及JPG输出。实验指导书首页标记赵世敬编、清华大学自动化实验教学中心、2018年3月。代码与图仅作历史配套参考，未运行或验证数值正确性。",
+  "items": [
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0004",
+      "sourcePath": "自动控制_复习笔记_马逸/MATLAB/1 (1).fig",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2FMATLAB%2F1%20(1).fig",
+      "originalName": "1 (1).fig",
+      "relativeTarget": "工程技术类/自动控制/实验参考/相关课程参考_MATLAB示例与实验指导_黄逸洋public/1 (1).fig",
+      "bytes": 35205,
+      "sha256": "e87251a3fdedaea311e6734c9955e1590eb12be8b569c23a611773f856198a0a"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0005",
+      "sourcePath": "自动控制_复习笔记_马逸/MATLAB/1 (1).jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2FMATLAB%2F1%20(1).jpg",
+      "originalName": "1 (1).jpg",
+      "relativeTarget": "工程技术类/自动控制/实验参考/相关课程参考_MATLAB示例与实验指导_黄逸洋public/1 (1).jpg",
+      "bytes": 22149,
+      "sha256": "c940f8e6034962f52116daa56f4c8a7f73d1403081360395b44353f365738761"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0008",
+      "sourcePath": "自动控制_复习笔记_马逸/MATLAB/2 (1).jpg",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2FMATLAB%2F2%20(1).jpg",
+      "originalName": "2 (1).jpg",
+      "relativeTarget": "工程技术类/自动控制/实验参考/相关课程参考_MATLAB示例与实验指导_黄逸洋public/2 (1).jpg",
+      "bytes": 19986,
+      "sha256": "14a71f274957425212c852e02b482a256fce04106d559a1550d2ac0d9edb9334"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0010",
+      "sourcePath": "自动控制_复习笔记_马逸/MATLAB/experiment2 (1).m",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2FMATLAB%2Fexperiment2%20(1).m",
+      "originalName": "experiment2 (1).m",
+      "relativeTarget": "工程技术类/自动控制/实验参考/相关课程参考_MATLAB示例与实验指导_黄逸洋public/experiment2 (1).m",
+      "bytes": 367,
+      "sha256": "01ad5aa94a246466ab55ad3cd3299b97c6b74d278415438f3e5a8e84d688fe3a"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0012",
+      "sourcePath": "自动控制_复习笔记_马逸/MATLAB/homework3 (1).m",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2FMATLAB%2Fhomework3%20(1).m",
+      "originalName": "homework3 (1).m",
+      "relativeTarget": "工程技术类/自动控制/实验参考/相关课程参考_MATLAB示例与实验指导_黄逸洋public/homework3 (1).m",
+      "bytes": 874,
+      "sha256": "ad906796f08a87125be6de007ddcd9a578a326e200ac3c912c3f954559da87bc"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0014",
+      "sourcePath": "自动控制_复习笔记_马逸/MATLAB/homework4 (1).m",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2FMATLAB%2Fhomework4%20(1).m",
+      "originalName": "homework4 (1).m",
+      "relativeTarget": "工程技术类/自动控制/实验参考/相关课程参考_MATLAB示例与实验指导_黄逸洋public/homework4 (1).m",
+      "bytes": 1000,
+      "sha256": "5b598d8c861dccf13c5beb9cc709bb902e8336f291a4a290cb22d18d71ca2b02"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0016",
+      "sourcePath": "自动控制_复习笔记_马逸/MATLAB/homework5 (1).m",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2FMATLAB%2Fhomework5%20(1).m",
+      "originalName": "homework5 (1).m",
+      "relativeTarget": "工程技术类/自动控制/实验参考/相关课程参考_MATLAB示例与实验指导_黄逸洋public/homework5 (1).m",
+      "bytes": 192,
+      "sha256": "4ca53f040e015f424ef0876a1a5e18722bd23fa94fd7c57738bf33b2d5897c21"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0018",
+      "sourcePath": "自动控制_复习笔记_马逸/MATLAB/homework6 (1).m",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2FMATLAB%2Fhomework6%20(1).m",
+      "originalName": "homework6 (1).m",
+      "relativeTarget": "工程技术类/自动控制/实验参考/相关课程参考_MATLAB示例与实验指导_黄逸洋public/homework6 (1).m",
+      "bytes": 1451,
+      "sha256": "45d08e932bc0bfa027042c7a3564786c48d1e921cc33beca0aa0781a7fb26727"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0020",
+      "sourcePath": "自动控制_复习笔记_马逸/MATLAB/matlab介绍 (1).pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2FMATLAB%2Fmatlab%E4%BB%8B%E7%BB%8D%20(1).pdf",
+      "originalName": "matlab介绍 (1).pdf",
+      "relativeTarget": "工程技术类/自动控制/实验参考/相关课程参考_MATLAB示例与实验指导_黄逸洋public/matlab介绍 (1).pdf",
+      "bytes": 4433542,
+      "sha256": "b5bcb697ea566583a3b2f9c1a45d3e155e0cfdf125a448f0f97be866a301317a"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0022",
+      "sourcePath": "自动控制_复习笔记_马逸/MATLAB/step (1).m",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2FMATLAB%2Fstep%20(1).m",
+      "originalName": "step (1).m",
+      "relativeTarget": "工程技术类/自动控制/实验参考/相关课程参考_MATLAB示例与实验指导_黄逸洋public/step (1).m",
+      "bytes": 412,
+      "sha256": "a7421e3c2768a4c003517f863261c364db12a201a4d07e4e06b983d6d60c8a89"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0042",
+      "sourcePath": "自动控制_复习笔记_马逸/课件相关/实验指导书 (1).pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%AF%BE%E4%BB%B6%E7%9B%B8%E5%85%B3%2F%E5%AE%9E%E9%AA%8C%E6%8C%87%E5%AF%BC%E4%B9%A6%20(1).pdf",
+      "originalName": "实验指导书 (1).pdf",
+      "relativeTarget": "工程技术类/自动控制/实验参考/相关课程参考_MATLAB示例与实验指导_黄逸洋public/实验指导书 (1).pdf",
+      "bytes": 863098,
+      "sha256": "0e91a05b245dc489fc9146cc7d3ffbb482e95dae9d0fa2d21673fb92583f89f2"
+    }
+  ],
+  "sameSHAOtherSourcePaths": [
+    {
+      "sourcePath": "自动控制_复习笔记_马逸/MATLAB/1.fig",
+      "sourceAlias": "S0006",
+      "bytes": 35205,
+      "sha256": "e87251a3fdedaea311e6734c9955e1590eb12be8b569c23a611773f856198a0a",
+      "sameAsRelativeTarget": "工程技术类/自动控制/实验参考/相关课程参考_MATLAB示例与实验指导_黄逸洋public/1 (1).fig"
+    },
+    {
+      "sourcePath": "自动控制_复习笔记_马逸/MATLAB/1.jpg",
+      "sourceAlias": "S0007",
+      "bytes": 22149,
+      "sha256": "c940f8e6034962f52116daa56f4c8a7f73d1403081360395b44353f365738761",
+      "sameAsRelativeTarget": "工程技术类/自动控制/实验参考/相关课程参考_MATLAB示例与实验指导_黄逸洋public/1 (1).jpg"
+    },
+    {
+      "sourcePath": "自动控制_复习笔记_马逸/MATLAB/2.jpg",
+      "sourceAlias": "S0009",
+      "bytes": 19986,
+      "sha256": "14a71f274957425212c852e02b482a256fce04106d559a1550d2ac0d9edb9334",
+      "sameAsRelativeTarget": "工程技术类/自动控制/实验参考/相关课程参考_MATLAB示例与实验指导_黄逸洋public/2 (1).jpg"
+    },
+    {
+      "sourcePath": "自动控制_复习笔记_马逸/MATLAB/experiment2.m",
+      "sourceAlias": "S0011",
+      "bytes": 367,
+      "sha256": "01ad5aa94a246466ab55ad3cd3299b97c6b74d278415438f3e5a8e84d688fe3a",
+      "sameAsRelativeTarget": "工程技术类/自动控制/实验参考/相关课程参考_MATLAB示例与实验指导_黄逸洋public/experiment2 (1).m"
+    },
+    {
+      "sourcePath": "自动控制_复习笔记_马逸/MATLAB/homework3.m",
+      "sourceAlias": "S0013",
+      "bytes": 874,
+      "sha256": "ad906796f08a87125be6de007ddcd9a578a326e200ac3c912c3f954559da87bc",
+      "sameAsRelativeTarget": "工程技术类/自动控制/实验参考/相关课程参考_MATLAB示例与实验指导_黄逸洋public/homework3 (1).m"
+    },
+    {
+      "sourcePath": "自动控制_复习笔记_马逸/MATLAB/homework4.m",
+      "sourceAlias": "S0015",
+      "bytes": 1000,
+      "sha256": "5b598d8c861dccf13c5beb9cc709bb902e8336f291a4a290cb22d18d71ca2b02",
+      "sameAsRelativeTarget": "工程技术类/自动控制/实验参考/相关课程参考_MATLAB示例与实验指导_黄逸洋public/homework4 (1).m"
+    },
+    {
+      "sourcePath": "自动控制_复习笔记_马逸/MATLAB/homework5.m",
+      "sourceAlias": "S0017",
+      "bytes": 192,
+      "sha256": "4ca53f040e015f424ef0876a1a5e18722bd23fa94fd7c57738bf33b2d5897c21",
+      "sameAsRelativeTarget": "工程技术类/自动控制/实验参考/相关课程参考_MATLAB示例与实验指导_黄逸洋public/homework5 (1).m"
+    },
+    {
+      "sourcePath": "自动控制_复习笔记_马逸/MATLAB/homework6.m",
+      "sourceAlias": "S0019",
+      "bytes": 1451,
+      "sha256": "45d08e932bc0bfa027042c7a3564786c48d1e921cc33beca0aa0781a7fb26727",
+      "sameAsRelativeTarget": "工程技术类/自动控制/实验参考/相关课程参考_MATLAB示例与实验指导_黄逸洋public/homework6 (1).m"
+    },
+    {
+      "sourcePath": "自动控制_复习笔记_马逸/MATLAB/matlab介绍.pdf",
+      "sourceAlias": "S0021",
+      "bytes": 4433542,
+      "sha256": "b5bcb697ea566583a3b2f9c1a45d3e155e0cfdf125a448f0f97be866a301317a",
+      "sameAsRelativeTarget": "工程技术类/自动控制/实验参考/相关课程参考_MATLAB示例与实验指导_黄逸洋public/matlab介绍 (1).pdf"
+    },
+    {
+      "sourcePath": "自动控制_复习笔记_马逸/MATLAB/step.m",
+      "sourceAlias": "S0023",
+      "bytes": 412,
+      "sha256": "a7421e3c2768a4c003517f863261c364db12a201a4d07e4e06b983d6d60c8a89",
+      "sameAsRelativeTarget": "工程技术类/自动控制/实验参考/相关课程参考_MATLAB示例与实验指导_黄逸洋public/step (1).m"
+    },
+    {
+      "sourcePath": "自动控制_复习笔记_马逸/课件相关/matlab介绍 (1).pdf",
+      "sourceAlias": "S0028",
+      "bytes": 4433542,
+      "sha256": "b5bcb697ea566583a3b2f9c1a45d3e155e0cfdf125a448f0f97be866a301317a",
+      "sameAsRelativeTarget": "工程技术类/自动控制/实验参考/相关课程参考_MATLAB示例与实验指导_黄逸洋public/matlab介绍 (1).pdf"
+    },
+    {
+      "sourcePath": "自动控制_复习笔记_马逸/课件相关/matlab介绍.pdf",
+      "sourceAlias": "S0029",
+      "bytes": 4433542,
+      "sha256": "b5bcb697ea566583a3b2f9c1a45d3e155e0cfdf125a448f0f97be866a301317a",
+      "sameAsRelativeTarget": "工程技术类/自动控制/实验参考/相关课程参考_MATLAB示例与实验指导_黄逸洋public/matlab介绍 (1).pdf"
+    },
+    {
+      "sourcePath": "自动控制_复习笔记_马逸/课件相关/实验指导书.pdf",
+      "sourceAlias": "S0043",
+      "bytes": 863098,
+      "sha256": "0e91a05b245dc489fc9146cc7d3ffbb482e95dae9d0fa2d21673fb92583f89f2",
+      "sameAsRelativeTarget": "工程技术类/自动控制/实验参考/相关课程参考_MATLAB示例与实验指导_黄逸洋public/实验指导书 (1).pdf"
+    }
+  ],
+  "boundary": "104来源路径按精确SHA合并别名；15不同PDF首面和2JPG实际视觉，DOC仅静态文字层/OLE核对，非全文视觉审校。两类填写身份编号参考稿整件仅过程保存；普通姓名、教学公示联系和来源文件数字后缀不当作身份编号排除。无宏/源码/模型执行、无原件改写或ZIP上传。"
+}

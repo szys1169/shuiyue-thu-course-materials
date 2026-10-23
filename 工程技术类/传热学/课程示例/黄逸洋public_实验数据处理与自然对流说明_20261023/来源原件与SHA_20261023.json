@@ -1,0 +1,57 @@
+{
+  "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E4%BC%A0%E7%83%AD%E5%AD%A6&mode=list",
+  "files": [
+    {
+      "sourceKey": "heatWord1",
+      "name": "根据实验过程中计算机采集到的原始数据，计算τ.docx",
+      "bytes": 187425,
+      "sha256": "0d36262ce216fc43f01f7aea4a1ab89ec9e2566918ec041d84652e741627cf69",
+      "role": "热源法实验数据处理"
+    },
+    {
+      "sourceKey": "heatWord2",
+      "name": "实验二数据处理.docx",
+      "bytes": 146314,
+      "sha256": "45daf03b8c913f382da8aed5eec3959394ae5f2247ac4d57b58e86ac327b8d53",
+      "role": "球体导热实验数据处理"
+    },
+    {
+      "sourceKey": "heatWord3",
+      "name": "实验2数据处理.docx",
+      "bytes": 233944,
+      "sha256": "25cb948c10d5b9d879ce6edf1f098477974e77f275921e048821dcfcd39d8e64",
+      "role": "球体导热实验数据处理异字节来源"
+    },
+    {
+      "sourceKey": "heatWord4",
+      "name": "实验1数据处理.docx",
+      "bytes": 217327,
+      "sha256": "9efa63928bb25f86da8526190ee456b6a48432ae474bd8b0bb9c290c73ed1ef6",
+      "role": "热源法装置与数据处理"
+    },
+    {
+      "sourceKey": "heatWord5",
+      "name": "实验1数据分析.docx",
+      "bytes": 151086,
+      "sha256": "51661cb9208bdfa97e410d27b23380b728e09d45ec982bf9a1d1e5c3cdb9fcf3",
+      "role": "热源法实验数据分析"
+    },
+    {
+      "sourceKey": "heatWord6",
+      "name": "自然对流.docx",
+      "bytes": 72800,
+      "sha256": "3ed22b756cd7eb9b40bda78586f3a5ce43e102ee2c49613c7b98a3c99bff9971",
+      "role": "自然对流实验说明"
+    }
+  ],
+  "allBodyParagraphsStaticallyRead": true,
+  "embeddedOleObjectsReadOnly": 116,
+  "equationNativeObjects": 115,
+  "otherOriginalOleNativeObject": 1,
+  "rasterUniqueActuallyViewed": 10,
+  "vectorUniqueNotFullyRendered": 94,
+  "allLayoutVisuallyReviewed": false,
+  "macroOrEmbeddedCodeExecuted": false,
+  "externalWorkbookReferencesFollowed": false,
+  "sourceOriginalPathMappingPreservedInProcess": true
+}

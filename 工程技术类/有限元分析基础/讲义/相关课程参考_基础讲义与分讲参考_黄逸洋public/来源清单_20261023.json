@@ -1,0 +1,232 @@
+{
+  "sourceLabel": "黄逸洋public / 3有限元分析基础",
+  "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80&mode=list",
+  "role": "来源共享目录“3有限元分析基础”。基础讲义与原包第7–10讲展开的课件、题面和例题按来源分存。正文可见汽车工程系结构分析与CAE研究室等标记；19B、21B等仅沿原件版本标签，来源目录姓名不单独作为授课人证据。",
+  "originalPaths": 20,
+  "uniqueSHA": 20,
+  "dependencySameSHAPaths": 0,
+  "items": [
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0002",
+      "sourcePath": "有限元分析基础_马逸/01 有限元概论.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80%2F%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80_%E9%A9%AC%E9%80%B8%2F01%20%E6%9C%89%E9%99%90%E5%85%83%E6%A6%82%E8%AE%BA.pdf",
+      "originalName": "01 有限元概论.pdf",
+      "relativeTarget": "工程技术类/有限元分析基础/讲义/相关课程参考_基础讲义与分讲参考_黄逸洋public/01 有限元概论.pdf",
+      "bytes": 10769094,
+      "sha256": "658bd6f028601fbf31e149d0ffa96e3698239452e7cca84e01399c64adf8e6ee"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0003",
+      "sourcePath": "有限元分析基础_马逸/02 弹性力学简介.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80%2F%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80_%E9%A9%AC%E9%80%B8%2F02%20%E5%BC%B9%E6%80%A7%E5%8A%9B%E5%AD%A6%E7%AE%80%E4%BB%8B.pdf",
+      "originalName": "02 弹性力学简介.pdf",
+      "relativeTarget": "工程技术类/有限元分析基础/讲义/相关课程参考_基础讲义与分讲参考_黄逸洋public/02 弹性力学简介.pdf",
+      "bytes": 3151172,
+      "sha256": "6ebc4efbcaac35adf2a8871e547e5f07657262461f2ed789d8d4a706851b2c5f"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0004",
+      "sourcePath": "有限元分析基础_马逸/03 平面问题-单元分析（位移模式）.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80%2F%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80_%E9%A9%AC%E9%80%B8%2F03%20%E5%B9%B3%E9%9D%A2%E9%97%AE%E9%A2%98-%E5%8D%95%E5%85%83%E5%88%86%E6%9E%90%EF%BC%88%E4%BD%8D%E7%A7%BB%E6%A8%A1%E5%BC%8F%EF%BC%89.pdf",
+      "originalName": "03 平面问题-单元分析（位移模式）.pdf",
+      "relativeTarget": "工程技术类/有限元分析基础/讲义/相关课程参考_基础讲义与分讲参考_黄逸洋public/03 平面问题-单元分析（位移模式）.pdf",
+      "bytes": 4106867,
+      "sha256": "adcca8a52379ecff032b70a2044bd51e895f9492bb5cc4b9c9adbe7df344c253"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0005",
+      "sourcePath": "有限元分析基础_马逸/04 单元分析(刚度方程).pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80%2F%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80_%E9%A9%AC%E9%80%B8%2F04%20%E5%8D%95%E5%85%83%E5%88%86%E6%9E%90(%E5%88%9A%E5%BA%A6%E6%96%B9%E7%A8%8B).pdf",
+      "originalName": "04 单元分析(刚度方程).pdf",
+      "relativeTarget": "工程技术类/有限元分析基础/讲义/相关课程参考_基础讲义与分讲参考_黄逸洋public/04 单元分析(刚度方程).pdf",
+      "bytes": 1711531,
+      "sha256": "74efd199dfdb66416f65a6446abc1d0b2b05234bbb5374414d85a9186986a6e3"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0006",
+      "sourcePath": "有限元分析基础_马逸/05 单元分析(刚度方程).pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80%2F%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80_%E9%A9%AC%E9%80%B8%2F05%20%E5%8D%95%E5%85%83%E5%88%86%E6%9E%90(%E5%88%9A%E5%BA%A6%E6%96%B9%E7%A8%8B).pdf",
+      "originalName": "05 单元分析(刚度方程).pdf",
+      "relativeTarget": "工程技术类/有限元分析基础/讲义/相关课程参考_基础讲义与分讲参考_黄逸洋public/05 单元分析(刚度方程).pdf",
+      "bytes": 1750177,
+      "sha256": "7b374653dec80da598dbf2d7fa6319bea2e4fd1da5479ad4d779ca4726031206"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0007",
+      "sourcePath": "有限元分析基础_马逸/06 单元等效结点载荷-整体分析.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80%2F%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80_%E9%A9%AC%E9%80%B8%2F06%20%E5%8D%95%E5%85%83%E7%AD%89%E6%95%88%E7%BB%93%E7%82%B9%E8%BD%BD%E8%8D%B7-%E6%95%B4%E4%BD%93%E5%88%86%E6%9E%90.pdf",
+      "originalName": "06 单元等效结点载荷-整体分析.pdf",
+      "relativeTarget": "工程技术类/有限元分析基础/讲义/相关课程参考_基础讲义与分讲参考_黄逸洋public/06 单元等效结点载荷-整体分析.pdf",
+      "bytes": 2034157,
+      "sha256": "0c640823539470abbe3c4d8eb58884b943bac2b9dd2f29b129b24ed101fe95d1"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0008",
+      "sourcePath": "有限元分析基础_马逸/单位制.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80%2F%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80_%E9%A9%AC%E9%80%B8%2F%E5%8D%95%E4%BD%8D%E5%88%B6.pdf",
+      "originalName": "单位制.pdf",
+      "relativeTarget": "工程技术类/有限元分析基础/讲义/相关课程参考_基础讲义与分讲参考_黄逸洋public/单位制.pdf",
+      "bytes": 293742,
+      "sha256": "4ff8659b51b74d95313e322a801101d9006998e181309d1a55fb288f89a3ce4b"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0009M001",
+      "sourcePath": "有限元分析基础_马逸/有限元-第7讲.rar::有限元-第7讲/第7讲 约束处理-方程求解-结果整理-21B.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80%2F%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80_%E9%A9%AC%E9%80%B8%2F%E6%9C%89%E9%99%90%E5%85%83-%E7%AC%AC7%E8%AE%B2.rar",
+      "originalName": "第7讲 约束处理-方程求解-结果整理-21B.pdf",
+      "relativeTarget": "工程技术类/有限元分析基础/讲义/相关课程参考_基础讲义与分讲参考_黄逸洋public/有限元-第7讲/有限元-第7讲/第7讲 约束处理-方程求解-结果整理-21B.pdf",
+      "bytes": 1702111,
+      "sha256": "8769abb09de20a97b06773f700e8247c64e3eb7e7a6a68c91093b5f84050d2c5"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0009M002",
+      "sourcePath": "有限元分析基础_马逸/有限元-第7讲.rar::有限元-第7讲/第7讲作业 .pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80%2F%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80_%E9%A9%AC%E9%80%B8%2F%E6%9C%89%E9%99%90%E5%85%83-%E7%AC%AC7%E8%AE%B2.rar",
+      "originalName": "第7讲作业 .pdf",
+      "relativeTarget": "工程技术类/有限元分析基础/讲义/相关课程参考_基础讲义与分讲参考_黄逸洋public/有限元-第7讲/有限元-第7讲/第7讲作业 .pdf",
+      "bytes": 220323,
+      "sha256": "da6b7083454534e104e5095ea4895207db52a9579f6d6ec560fc4cf98a325a19"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0009M003",
+      "sourcePath": "有限元分析基础_马逸/有限元-第7讲.rar::有限元-第7讲/第7讲例题（例题1-例题4）.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80%2F%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80_%E9%A9%AC%E9%80%B8%2F%E6%9C%89%E9%99%90%E5%85%83-%E7%AC%AC7%E8%AE%B2.rar",
+      "originalName": "第7讲例题（例题1-例题4）.pdf",
+      "relativeTarget": "工程技术类/有限元分析基础/讲义/相关课程参考_基础讲义与分讲参考_黄逸洋public/有限元-第7讲/有限元-第7讲/第7讲例题（例题1-例题4）.pdf",
+      "bytes": 221779,
+      "sha256": "e245fcbc0a62eaf1abfc538e3539019a08bc8eb71695cc227c31aa4175144871"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0009M004",
+      "sourcePath": "有限元分析基础_马逸/有限元-第7讲.rar::有限元-第7讲/阅读课件：刚度方程求解-0.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80%2F%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80_%E9%A9%AC%E9%80%B8%2F%E6%9C%89%E9%99%90%E5%85%83-%E7%AC%AC7%E8%AE%B2.rar",
+      "originalName": "阅读课件：刚度方程求解-0.pdf",
+      "relativeTarget": "工程技术类/有限元分析基础/讲义/相关课程参考_基础讲义与分讲参考_黄逸洋public/有限元-第7讲/有限元-第7讲/阅读课件：刚度方程求解-0.pdf",
+      "bytes": 864862,
+      "sha256": "9dcecb20e46a8bbde92b044951ef5d88fe9f4f084d9642e91993e05df8193ac3"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0010M001",
+      "sourcePath": "有限元分析基础_马逸/有限元-第8讲.rar::有限元-第8讲/第8讲作业.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80%2F%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80_%E9%A9%AC%E9%80%B8%2F%E6%9C%89%E9%99%90%E5%85%83-%E7%AC%AC8%E8%AE%B2.rar",
+      "originalName": "第8讲作业.pdf",
+      "relativeTarget": "工程技术类/有限元分析基础/讲义/相关课程参考_基础讲义与分讲参考_黄逸洋public/有限元-第8讲/有限元-第8讲/第8讲作业.pdf",
+      "bytes": 203266,
+      "sha256": "0e8b59eaf9b86868f27483eee8fcabea891c41f84fba1dc7dde3c4fcdaade11b"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0010M002",
+      "sourcePath": "有限元分析基础_马逸/有限元-第8讲.rar::有限元-第8讲/第八讲 四结点矩形单元-高次单元-三维单元-21B.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80%2F%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80_%E9%A9%AC%E9%80%B8%2F%E6%9C%89%E9%99%90%E5%85%83-%E7%AC%AC8%E8%AE%B2.rar",
+      "originalName": "第八讲 四结点矩形单元-高次单元-三维单元-21B.pdf",
+      "relativeTarget": "工程技术类/有限元分析基础/讲义/相关课程参考_基础讲义与分讲参考_黄逸洋public/有限元-第8讲/有限元-第8讲/第八讲 四结点矩形单元-高次单元-三维单元-21B.pdf",
+      "bytes": 2893766,
+      "sha256": "efe84388fa32c342cd3a4069cbe5a0e866cdb56b4cc16edcc476b3ecc2ffce5d"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0011M001",
+      "sourcePath": "有限元分析基础_马逸/有限元-第9讲.rar::有限元-第9讲/第9讲作业.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80%2F%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80_%E9%A9%AC%E9%80%B8%2F%E6%9C%89%E9%99%90%E5%85%83-%E7%AC%AC9%E8%AE%B2.rar",
+      "originalName": "第9讲作业.pdf",
+      "relativeTarget": "工程技术类/有限元分析基础/讲义/相关课程参考_基础讲义与分讲参考_黄逸洋public/有限元-第9讲/有限元-第9讲/第9讲作业.pdf",
+      "bytes": 330109,
+      "sha256": "2bd3d675142cbe57e60c6d2de2c24acb2f58354c2e2b256da0ef5813270e219b"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0011M002",
+      "sourcePath": "有限元分析基础_马逸/有限元-第9讲.rar::有限元-第9讲/第九讲 等参数单元-21B.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80%2F%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80_%E9%A9%AC%E9%80%B8%2F%E6%9C%89%E9%99%90%E5%85%83-%E7%AC%AC9%E8%AE%B2.rar",
+      "originalName": "第九讲 等参数单元-21B.pdf",
+      "relativeTarget": "工程技术类/有限元分析基础/讲义/相关课程参考_基础讲义与分讲参考_黄逸洋public/有限元-第9讲/有限元-第9讲/第九讲 等参数单元-21B.pdf",
+      "bytes": 3050911,
+      "sha256": "4bfe3f2bdf89224caec0c61cfac7dbfec1da0629b5e1dcdbe3e05bc4567e88fa"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0011M003",
+      "sourcePath": "有限元分析基础_马逸/有限元-第9讲.rar::有限元-第9讲/阅读课件：任意四边形单元插值函数-单元映射.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80%2F%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80_%E9%A9%AC%E9%80%B8%2F%E6%9C%89%E9%99%90%E5%85%83-%E7%AC%AC9%E8%AE%B2.rar",
+      "originalName": "阅读课件：任意四边形单元插值函数-单元映射.pdf",
+      "relativeTarget": "工程技术类/有限元分析基础/讲义/相关课程参考_基础讲义与分讲参考_黄逸洋public/有限元-第9讲/有限元-第9讲/阅读课件：任意四边形单元插值函数-单元映射.pdf",
+      "bytes": 423399,
+      "sha256": "193f283eba46cc4d7feebae47ee1247f0058e30ebb7cff2886e5e69419440df0"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0012M001",
+      "sourcePath": "有限元分析基础_马逸/有限元-第10讲.rar::有限元-第10讲/第10讲作业.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80%2F%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80_%E9%A9%AC%E9%80%B8%2F%E6%9C%89%E9%99%90%E5%85%83-%E7%AC%AC10%E8%AE%B2.rar",
+      "originalName": "第10讲作业.pdf",
+      "relativeTarget": "工程技术类/有限元分析基础/讲义/相关课程参考_基础讲义与分讲参考_黄逸洋public/有限元-第10讲/有限元-第10讲/第10讲作业.pdf",
+      "bytes": 260848,
+      "sha256": "748fa4b59cb2fc62031d814487f5d224e1b8f330e2268a23124261b3c456b94e"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0012M002",
+      "sourcePath": "有限元分析基础_马逸/有限元-第10讲.rar::有限元-第10讲/第十讲 等参元-高斯积分公式-21B.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80%2F%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80_%E9%A9%AC%E9%80%B8%2F%E6%9C%89%E9%99%90%E5%85%83-%E7%AC%AC10%E8%AE%B2.rar",
+      "originalName": "第十讲 等参元-高斯积分公式-21B.pdf",
+      "relativeTarget": "工程技术类/有限元分析基础/讲义/相关课程参考_基础讲义与分讲参考_黄逸洋public/有限元-第10讲/有限元-第10讲/第十讲 等参元-高斯积分公式-21B.pdf",
+      "bytes": 2511460,
+      "sha256": "91cd256a9c1b287ee00c2117249b27adeedef4219a24486701f33e2e9c41fc23"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0012M003",
+      "sourcePath": "有限元分析基础_马逸/有限元-第10讲.rar::有限元-第10讲/阅读课件-1：高斯积分表与例题.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80%2F%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80_%E9%A9%AC%E9%80%B8%2F%E6%9C%89%E9%99%90%E5%85%83-%E7%AC%AC10%E8%AE%B2.rar",
+      "originalName": "阅读课件-1：高斯积分表与例题.pdf",
+      "relativeTarget": "工程技术类/有限元分析基础/讲义/相关课程参考_基础讲义与分讲参考_黄逸洋public/有限元-第10讲/有限元-第10讲/阅读课件-1：高斯积分表与例题.pdf",
+      "bytes": 512934,
+      "sha256": "a00066fc9a09c5ba75e0d92e53d20192357b734919512e9c4b740bd9e11b23f2"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0012M004",
+      "sourcePath": "有限元分析基础_马逸/有限元-第10讲.rar::有限元-第10讲/阅读课件-2：二维等参元高斯积分公式与例题.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80%2F%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80_%E9%A9%AC%E9%80%B8%2F%E6%9C%89%E9%99%90%E5%85%83-%E7%AC%AC10%E8%AE%B2.rar",
+      "originalName": "阅读课件-2：二维等参元高斯积分公式与例题.pdf",
+      "relativeTarget": "工程技术类/有限元分析基础/讲义/相关课程参考_基础讲义与分讲参考_黄逸洋public/有限元-第10讲/有限元-第10讲/阅读课件-2：二维等参元高斯积分公式与例题.pdf",
+      "bytes": 831291,
+      "sha256": "0149894d377d95ab3e2975313413f4c8a1d0762d1d8ae43b367cc1b70387f276"
+    }
+  ],
+  "sameSHAOtherSourcePaths": [],
+  "boundary": "原包不上传，管理/日志/缓存及身份或私人路径单件仅过程；全页结构/可读文字层静态检查与88份PDF首面有限视觉，不称全文视觉审校或数学正确性。未执行代码/模型/宏，不推作者学期或版本先后。"
+}

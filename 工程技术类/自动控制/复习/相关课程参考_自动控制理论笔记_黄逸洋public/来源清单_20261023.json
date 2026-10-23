@@ -1,0 +1,28 @@
+{
+  "sourceLabel": "黄逸洋public / 3自动控制",
+  "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6&mode=list",
+  "role": "来源复习笔记目录中的旧DOC《自控笔记》，正文涉及自动控制理论（1）课程内容、方法和参考书。按历史笔记保存，课程学期与作者身份以原件证据为限。旧DOC仅静态文字/OLE属性核对，未运行宏或嵌入对象，公式与排版未作完整视觉审校。",
+  "items": [
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0002",
+      "sourcePath": "自动控制_复习笔记_马逸/自控笔记 (1).doc",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%87%AA%E6%8E%A7%E7%AC%94%E8%AE%B0%20(1).doc",
+      "originalName": "自控笔记 (1).doc",
+      "relativeTarget": "工程技术类/自动控制/复习/相关课程参考_自动控制理论笔记_黄逸洋public/自控笔记 (1).doc",
+      "bytes": 3779072,
+      "sha256": "9353aacb3979d17e99d58d16304e30cf9ebfe43731101d7b2a5a6f53afa4cc7b"
+    }
+  ],
+  "sameSHAOtherSourcePaths": [
+    {
+      "sourcePath": "自动控制_复习笔记_马逸/自控笔记.doc",
+      "sourceAlias": "S0003",
+      "bytes": 3779072,
+      "sha256": "9353aacb3979d17e99d58d16304e30cf9ebfe43731101d7b2a5a6f53afa4cc7b",
+      "sameAsRelativeTarget": "工程技术类/自动控制/复习/相关课程参考_自动控制理论笔记_黄逸洋public/自控笔记 (1).doc"
+    }
+  ],
+  "boundary": "104来源路径按精确SHA合并别名；15不同PDF首面和2JPG实际视觉，DOC仅静态文字层/OLE核对，非全文视觉审校。两类填写身份编号参考稿整件仅过程保存；普通姓名、教学公示联系和来源文件数字后缀不当作身份编号排除。无宏/源码/模型执行、无原件改写或ZIP上传。"
+}

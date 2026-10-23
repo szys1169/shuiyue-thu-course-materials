@@ -1,0 +1,23 @@
+zuobiao=[0 0; 0 3; 5 -3;5 3];
+j=1;
+i=2;
+lx=zuobiao(j,1)-zuobiao(i,1);
+mx=zuobiao(j,2)-zuobiao(i,2);
+A=1;
+E=1;
+L=sqrt(lx*lx+mx*mx);
+mx=mx/L;
+lx=lx/L;
+T=[lx mx 0 0; 0 0 lx mx];
+xi=zuobiao(1,1);
+% yi=zuobiao(1,2);
+% xj=zuobiao(2,1);
+% yj=zuobiao(2,2);
+% delta=[xi yi xj yj]';%位移
+d=T*delta;%单元内位移
+k1=A*E/L*T'*[1 -1;-1 1]*T
+k2=A*E/L*[lx*lx lx*mx -lx*lx -lx*mx;lx*mx mx*mx -lx*mx -mx*mx;-lx*lx -lx*mx lx*lx lx*mx;-lx*mx -mx*mx lx*mx mx*mx]
+epsilon=1/L*[-1 1]*T*delta;%应变
+sigma=E*epsilon;%应力
+f=A*sigma%单元轴向力
+

@@ -1,0 +1,26 @@
+{
+  "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E4%BC%A0%E7%83%AD%E5%AD%A6&mode=list",
+  "files": [
+    {
+      "sourceKey": "heatReference1",
+      "name": "铜康铜热电偶分度表_486807837.pdf",
+      "bytes": 549018,
+      "sha256": "d58d1d1af9958a4083cdaf4b6ea09473542f7871457e63f087c818ef2b24e15c",
+      "pages": 1,
+      "role": "热电偶分度表",
+      "allPagesActuallyViewed": true
+    },
+    {
+      "sourceKey": "heatReference2",
+      "name": "水平圆管外表面空气自然对流换热实验指导书[201211版]_423107831.pdf",
+      "bytes": 296338,
+      "sha256": "b479447ee713388c858000ff28037f348a21c558eafaabffd006390581f92a3f",
+      "pages": 5,
+      "role": "自然对流实验指导",
+      "allPagesActuallyViewed": true
+    }
+  ],
+  "sourceArchivePreservedInProcess": true,
+  "sourceExecuted": false,
+  "professionalTeachingContactValuesNotTranscribed": true
+}

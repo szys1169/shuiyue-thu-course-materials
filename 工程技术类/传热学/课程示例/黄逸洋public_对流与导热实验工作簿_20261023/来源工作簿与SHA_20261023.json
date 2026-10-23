@@ -1,0 +1,76 @@
+{
+  "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E4%BC%A0%E7%83%AD%E5%AD%A6&mode=list",
+  "sourcePaths": 9,
+  "uniqueSHA": 8,
+  "files": [
+    {
+      "sourceKey": "heatWorkbook1",
+      "relativePath": "同名工作簿_来源1/工作簿1.xlsx",
+      "bytes": 42580,
+      "sha256": "546eeea51351fe6f0c73c9d67e405fbbf2868caa43df56baa8e710e00f073b64",
+      "action": "原件归档"
+    },
+    {
+      "sourceKey": "heatWorkbook2",
+      "relativePath": "自然对流_来源1/自然对流.xlsx",
+      "bytes": 26188,
+      "sha256": "5f3b7ecdae229c79a64c3f295ade9b9e00a4a9fa47b9516d12b8de46e52a272d",
+      "action": "原件归档"
+    },
+    {
+      "sourceKey": "heatWorkbook3",
+      "relativePath": "强迫对流.xlsx",
+      "bytes": 28557,
+      "sha256": "c6cd6338c4d355c190b93a63b395934da7aae12acae38e3350e9818092eee18e",
+      "action": "原件归档"
+    },
+    {
+      "sourceKey": "heatWorkbook4",
+      "relativePath": "同名工作簿_来源2/工作簿1.xlsx",
+      "bytes": 57979,
+      "sha256": "797356bec8a1b95d6538292c815faaa647540402b4e49a0c17515ff606cf4a6b",
+      "action": "原件归档"
+    },
+    {
+      "sourceKey": "heatWorkbook5",
+      "relativePath": "2.xlsx",
+      "bytes": 39658,
+      "sha256": "b35e7441945cbb5d4b8f7f2d5ef0593ec08ac3ed6ef3561ae2f826441815d531",
+      "action": "原件归档"
+    },
+    {
+      "sourceKey": "heatWorkbook6",
+      "relativePath": "自然对流_来源2/自然对流.xlsx",
+      "bytes": 21884,
+      "sha256": "17f5c426bb6ef038c062d597df737b3307ec9141dbc39824c7a4de3e0816376b",
+      "action": "原件归档"
+    },
+    {
+      "sourceKey": "heatWorkbook7",
+      "relativePath": "强迫对流.xlsx",
+      "bytes": 28557,
+      "sha256": "c6cd6338c4d355c190b93a63b395934da7aae12acae38e3350e9818092eee18e",
+      "action": "同SHA来源别名复用"
+    },
+    {
+      "sourceKey": "heatWorkbook8",
+      "relativePath": "常功率平面热源法同时测定绝热材料的导热系数和导温系数a.xlsx",
+      "bytes": 45390,
+      "sha256": "5771b73662b1eaf00d7780a94384303670d7a2eecd072c6bcba229fa6f6f0eb9",
+      "action": "原件归档"
+    },
+    {
+      "sourceKey": "heatWorkbook9",
+      "relativePath": "pb-01-0927-6b23.xls",
+      "bytes": 470016,
+      "sha256": "a432da504c9a67207a5cfbb6c31820e0932f3c1351b774f74d696736344c73ec",
+      "action": "原件归档"
+    }
+  ],
+  "sourceExecuted": false,
+  "formulasRecomputed": false,
+  "allCellsStaticallyRead": true,
+  "allSheetsVisuallyRendered": false,
+  "sourceOriginalPathMappingPreservedInProcess": true,
+  "oneDecimalFalseFlagNotIdentityID": true
+}

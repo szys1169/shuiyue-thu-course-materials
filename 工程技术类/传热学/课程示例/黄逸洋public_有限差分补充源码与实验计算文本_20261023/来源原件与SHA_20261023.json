@@ -1,0 +1,50 @@
+{
+  "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E4%BC%A0%E7%83%AD%E5%AD%A6&mode=list",
+  "files": [
+    {
+      "sourceKey": "textSource1",
+      "relativePath": "原数值输出_来源1/传热大作业.txt",
+      "bytes": 207968,
+      "sha256": "681b57f4b33597e8e752f493a8e7a5fd440abe2645dd4ee6291fe472942627e2"
+    },
+    {
+      "sourceKey": "textSource2",
+      "relativePath": "C源码/4-9.C",
+      "bytes": 2004,
+      "sha256": "628a5965557cbf01c3bb1e60b63589bb77dd480db062ef93440894e9426a0630"
+    },
+    {
+      "sourceKey": "textSource3",
+      "relativePath": "C源码/4-8.C",
+      "bytes": 3952,
+      "sha256": "a76de3e5145322ffd1fe9f454e30b57bf4d54775304dcf86e06ee291e32c6dab"
+    },
+    {
+      "sourceKey": "textSource4",
+      "relativePath": "原数值输出_来源2/传热大作业.txt",
+      "bytes": 210000,
+      "sha256": "2132e9f2cb78533a3abb7a98ef8a2764806b35468030c8d0196672eecf6ad5db"
+    },
+    {
+      "sourceKey": "textSource5",
+      "relativePath": "热源法说明与计算文本/数据.txt",
+      "bytes": 332,
+      "sha256": "b4b4c272306f66b0527ae154ed0c850552040baae9fb221c9792a5f799523738"
+    },
+    {
+      "sourceKey": "textSource6",
+      "relativePath": "热源法说明与计算文本/matlab计算式.txt",
+      "bytes": 222,
+      "sha256": "484330b514ae2669f39c4baef2b597d9e9e60b6712efa5f04aa4ce9c8eea217d"
+    },
+    {
+      "sourceKey": "textSource7",
+      "relativePath": "热源法说明与计算文本/常功率平面热源法测定绝热材料的导热系数λ和导温系数a实验指导书_V2版_97509381.txt",
+      "bytes": 14316,
+      "sha256": "8d1edc71a7198d06119013b55804802a0b2719ae47b32116ce99db16c866c489"
+    }
+  ],
+  "codeExecuted": false,
+  "outputsRecomputed": false,
+  "privateOriginalPathMappingPreservedInProcess": true
+}

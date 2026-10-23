@@ -1,0 +1,478 @@
+{
+  "sourceLabel": "黄逸洋public / 3自动控制",
+  "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6&mode=list",
+  "role": "来源原目录标记“自动控制课件_史桂英”，按“自控二课件”“自控理论一课件”分存DOC与PDF文稿；涉及状态空间、能控能观、综合、滤波、解耦、最优控制、非线性与采样系统。目录标记作为来源线索，未据其确认每件作者或授课学期。旧DOC公式嵌入对象只静态保存，不执行或重写。",
+  "items": [
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0051",
+      "sourcePath": "自动控制_复习笔记_马逸/自动控制课件_史桂英/自控二课件/ch_1_12 (1).doc",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E8%AF%BE%E4%BB%B6_%E5%8F%B2%E6%A1%82%E8%8B%B1%2F%E8%87%AA%E6%8E%A7%E4%BA%8C%E8%AF%BE%E4%BB%B6%2Fch_1_12%20(1).doc",
+      "originalName": "ch_1_12 (1).doc",
+      "relativeTarget": "工程技术类/自动控制/讲义/相关课程参考_原目录史桂英文稿_黄逸洋public/自控二课件/ch_1_12 (1).doc",
+      "bytes": 667648,
+      "sha256": "cfb10d83182c4bd9b7ea625a3319a0126546dea3589304cca0ff0478c40dadda"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0053",
+      "sourcePath": "自动控制_复习笔记_马逸/自动控制课件_史桂英/自控二课件/ch7.1 (1).doc",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E8%AF%BE%E4%BB%B6_%E5%8F%B2%E6%A1%82%E8%8B%B1%2F%E8%87%AA%E6%8E%A7%E4%BA%8C%E8%AF%BE%E4%BB%B6%2Fch7.1%20(1).doc",
+      "originalName": "ch7.1 (1).doc",
+      "relativeTarget": "工程技术类/自动控制/讲义/相关课程参考_原目录史桂英文稿_黄逸洋public/自控二课件/ch7.1 (1).doc",
+      "bytes": 873984,
+      "sha256": "c8c226a52a3fa7b0dfbe48472724f8c5e788507497e87103ef282d50d977103b"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0055",
+      "sourcePath": "自动控制_复习笔记_马逸/自动控制课件_史桂英/自控二课件/ch8.1 (1).doc",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E8%AF%BE%E4%BB%B6_%E5%8F%B2%E6%A1%82%E8%8B%B1%2F%E8%87%AA%E6%8E%A7%E4%BA%8C%E8%AF%BE%E4%BB%B6%2Fch8.1%20(1).doc",
+      "originalName": "ch8.1 (1).doc",
+      "relativeTarget": "工程技术类/自动控制/讲义/相关课程参考_原目录史桂英文稿_黄逸洋public/自控二课件/ch8.1 (1).doc",
+      "bytes": 633856,
+      "sha256": "3ac0502bc5e524512bff9a95447b545f132c433cb76858c819d0030fa2e77d80"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0057",
+      "sourcePath": "自动控制_复习笔记_马逸/自动控制课件_史桂英/自控二课件/Ch_1_34 (1).doc",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E8%AF%BE%E4%BB%B6_%E5%8F%B2%E6%A1%82%E8%8B%B1%2F%E8%87%AA%E6%8E%A7%E4%BA%8C%E8%AF%BE%E4%BB%B6%2FCh_1_34%20(1).doc",
+      "originalName": "Ch_1_34 (1).doc",
+      "relativeTarget": "工程技术类/自动控制/讲义/相关课程参考_原目录史桂英文稿_黄逸洋public/自控二课件/Ch_1_34 (1).doc",
+      "bytes": 463872,
+      "sha256": "21bf37a1b9d26add99945dbb30de7fa819bd070a5633741425235a9b13134528"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0059",
+      "sourcePath": "自动控制_复习笔记_马逸/自动控制课件_史桂英/自控二课件/Ch_1_56 (1).doc",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E8%AF%BE%E4%BB%B6_%E5%8F%B2%E6%A1%82%E8%8B%B1%2F%E8%87%AA%E6%8E%A7%E4%BA%8C%E8%AF%BE%E4%BB%B6%2FCh_1_56%20(1).doc",
+      "originalName": "Ch_1_56 (1).doc",
+      "relativeTarget": "工程技术类/自动控制/讲义/相关课程参考_原目录史桂英文稿_黄逸洋public/自控二课件/Ch_1_56 (1).doc",
+      "bytes": 567808,
+      "sha256": "4d7be6b1d485ef5d32dcda7e81d90de64f0cc636187f73090638307053fab4ed"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0061",
+      "sourcePath": "自动控制_复习笔记_马逸/自动控制课件_史桂英/自控二课件/Ch_2_12 (1).doc",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E8%AF%BE%E4%BB%B6_%E5%8F%B2%E6%A1%82%E8%8B%B1%2F%E8%87%AA%E6%8E%A7%E4%BA%8C%E8%AF%BE%E4%BB%B6%2FCh_2_12%20(1).doc",
+      "originalName": "Ch_2_12 (1).doc",
+      "relativeTarget": "工程技术类/自动控制/讲义/相关课程参考_原目录史桂英文稿_黄逸洋public/自控二课件/Ch_2_12 (1).doc",
+      "bytes": 667136,
+      "sha256": "a12a7acc452b0999f3e13d3e972cfc7979ab4cf80feb438ffedc97df7b8058b8"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0063",
+      "sourcePath": "自动控制_复习笔记_马逸/自动控制课件_史桂英/自控二课件/Ch_2_34 (1).doc",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E8%AF%BE%E4%BB%B6_%E5%8F%B2%E6%A1%82%E8%8B%B1%2F%E8%87%AA%E6%8E%A7%E4%BA%8C%E8%AF%BE%E4%BB%B6%2FCh_2_34%20(1).doc",
+      "originalName": "Ch_2_34 (1).doc",
+      "relativeTarget": "工程技术类/自动控制/讲义/相关课程参考_原目录史桂英文稿_黄逸洋public/自控二课件/Ch_2_34 (1).doc",
+      "bytes": 482304,
+      "sha256": "5803c2bc0fb88650b96b9963fc1913e4a9f27f8b16e57b61ef6ddea7f6da9922"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0065",
+      "sourcePath": "自动控制_复习笔记_马逸/自动控制课件_史桂英/自控二课件/Ch_2_56 (1).doc",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E8%AF%BE%E4%BB%B6_%E5%8F%B2%E6%A1%82%E8%8B%B1%2F%E8%87%AA%E6%8E%A7%E4%BA%8C%E8%AF%BE%E4%BB%B6%2FCh_2_56%20(1).doc",
+      "originalName": "Ch_2_56 (1).doc",
+      "relativeTarget": "工程技术类/自动控制/讲义/相关课程参考_原目录史桂英文稿_黄逸洋public/自控二课件/Ch_2_56 (1).doc",
+      "bytes": 432128,
+      "sha256": "8cacd0fd4d56cad403af7e45eaeb5964d2ce713df006cabca3f6eb1cc4378a0f"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0067",
+      "sourcePath": "自动控制_复习笔记_马逸/自动控制课件_史桂英/自控二课件/Ch_3_12[1] (1).doc",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E8%AF%BE%E4%BB%B6_%E5%8F%B2%E6%A1%82%E8%8B%B1%2F%E8%87%AA%E6%8E%A7%E4%BA%8C%E8%AF%BE%E4%BB%B6%2FCh_3_12%5B1%5D%20(1).doc",
+      "originalName": "Ch_3_12[1] (1).doc",
+      "relativeTarget": "工程技术类/自动控制/讲义/相关课程参考_原目录史桂英文稿_黄逸洋public/自控二课件/Ch_3_12[1] (1).doc",
+      "bytes": 1027584,
+      "sha256": "94aca4d1a7df4d1848caae417a8fe4ac794d5b0344616fadeb3b7288c57cf77b"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0069",
+      "sourcePath": "自动控制_复习笔记_马逸/自动控制课件_史桂英/自控二课件/Ch_3_34 (1).doc",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E8%AF%BE%E4%BB%B6_%E5%8F%B2%E6%A1%82%E8%8B%B1%2F%E8%87%AA%E6%8E%A7%E4%BA%8C%E8%AF%BE%E4%BB%B6%2FCh_3_34%20(1).doc",
+      "originalName": "Ch_3_34 (1).doc",
+      "relativeTarget": "工程技术类/自动控制/讲义/相关课程参考_原目录史桂英文稿_黄逸洋public/自控二课件/Ch_3_34 (1).doc",
+      "bytes": 927232,
+      "sha256": "116c99a3fdf5478d4b1bda4eaa0c1f51a2feb39dd56aff57dba2afccf40dc2c0"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0071",
+      "sourcePath": "自动控制_复习笔记_马逸/自动控制课件_史桂英/自控二课件/Ch_3_56 (1).doc",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E8%AF%BE%E4%BB%B6_%E5%8F%B2%E6%A1%82%E8%8B%B1%2F%E8%87%AA%E6%8E%A7%E4%BA%8C%E8%AF%BE%E4%BB%B6%2FCh_3_56%20(1).doc",
+      "originalName": "Ch_3_56 (1).doc",
+      "relativeTarget": "工程技术类/自动控制/讲义/相关课程参考_原目录史桂英文稿_黄逸洋public/自控二课件/Ch_3_56 (1).doc",
+      "bytes": 613888,
+      "sha256": "d1403fc1859b15d56feb83e9aea6bc8dd2cc99e1561d1ca72170b3d7fcf4fb5e"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0073",
+      "sourcePath": "自动控制_复习笔记_马逸/自动控制课件_史桂英/自控二课件/Ch_4_12 (1).doc",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E8%AF%BE%E4%BB%B6_%E5%8F%B2%E6%A1%82%E8%8B%B1%2F%E8%87%AA%E6%8E%A7%E4%BA%8C%E8%AF%BE%E4%BB%B6%2FCh_4_12%20(1).doc",
+      "originalName": "Ch_4_12 (1).doc",
+      "relativeTarget": "工程技术类/自动控制/讲义/相关课程参考_原目录史桂英文稿_黄逸洋public/自控二课件/Ch_4_12 (1).doc",
+      "bytes": 479744,
+      "sha256": "3ac69fdd810a229678a5da77000cbbb9c24e83d4c689fd041d01d414150a3f5a"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0075",
+      "sourcePath": "自动控制_复习笔记_马逸/自动控制课件_史桂英/自控二课件/Ch_4_34 (1).doc",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E8%AF%BE%E4%BB%B6_%E5%8F%B2%E6%A1%82%E8%8B%B1%2F%E8%87%AA%E6%8E%A7%E4%BA%8C%E8%AF%BE%E4%BB%B6%2FCh_4_34%20(1).doc",
+      "originalName": "Ch_4_34 (1).doc",
+      "relativeTarget": "工程技术类/自动控制/讲义/相关课程参考_原目录史桂英文稿_黄逸洋public/自控二课件/Ch_4_34 (1).doc",
+      "bytes": 349696,
+      "sha256": "489e8492ef0403f56a696119ac00fcc984cf8ffeba205825cce00c131bdbaa4c"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0077",
+      "sourcePath": "自动控制_复习笔记_马逸/自动控制课件_史桂英/自控二课件/Ch_5_12 (1).doc",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E8%AF%BE%E4%BB%B6_%E5%8F%B2%E6%A1%82%E8%8B%B1%2F%E8%87%AA%E6%8E%A7%E4%BA%8C%E8%AF%BE%E4%BB%B6%2FCh_5_12%20(1).doc",
+      "originalName": "Ch_5_12 (1).doc",
+      "relativeTarget": "工程技术类/自动控制/讲义/相关课程参考_原目录史桂英文稿_黄逸洋public/自控二课件/Ch_5_12 (1).doc",
+      "bytes": 583680,
+      "sha256": "76f4608f79c474114ad0e93ad33ed7730275948bc5b38cf893a57acdc10fc619"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0079",
+      "sourcePath": "自动控制_复习笔记_马逸/自动控制课件_史桂英/自控二课件/Ch_5_34 (1).doc",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E8%AF%BE%E4%BB%B6_%E5%8F%B2%E6%A1%82%E8%8B%B1%2F%E8%87%AA%E6%8E%A7%E4%BA%8C%E8%AF%BE%E4%BB%B6%2FCh_5_34%20(1).doc",
+      "originalName": "Ch_5_34 (1).doc",
+      "relativeTarget": "工程技术类/自动控制/讲义/相关课程参考_原目录史桂英文稿_黄逸洋public/自控二课件/Ch_5_34 (1).doc",
+      "bytes": 565248,
+      "sha256": "82dab202f095ec3979931b11ddb32b5ff4a91bb677815f82b46dab94e1cb1268"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0081",
+      "sourcePath": "自动控制_复习笔记_马逸/自动控制课件_史桂英/自控二课件/Ch6.1 (1).doc",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E8%AF%BE%E4%BB%B6_%E5%8F%B2%E6%A1%82%E8%8B%B1%2F%E8%87%AA%E6%8E%A7%E4%BA%8C%E8%AF%BE%E4%BB%B6%2FCh6.1%20(1).doc",
+      "originalName": "Ch6.1 (1).doc",
+      "relativeTarget": "工程技术类/自动控制/讲义/相关课程参考_原目录史桂英文稿_黄逸洋public/自控二课件/Ch6.1 (1).doc",
+      "bytes": 726016,
+      "sha256": "bdb176eaf57148f3fde866eb05c95b379ac08428bdc7cb5bd49df5015a87c47b"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0083",
+      "sourcePath": "自动控制_复习笔记_马逸/自动控制课件_史桂英/自控二课件/Ch9 (1).doc",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E8%AF%BE%E4%BB%B6_%E5%8F%B2%E6%A1%82%E8%8B%B1%2F%E8%87%AA%E6%8E%A7%E4%BA%8C%E8%AF%BE%E4%BB%B6%2FCh9%20(1).doc",
+      "originalName": "Ch9 (1).doc",
+      "relativeTarget": "工程技术类/自动控制/讲义/相关课程参考_原目录史桂英文稿_黄逸洋public/自控二课件/Ch9 (1).doc",
+      "bytes": 1596416,
+      "sha256": "97b8661a75a834aeed71af771b1edb1142d04872b9d20666f1c57f12abf5fd9a"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0085",
+      "sourcePath": "自动控制_复习笔记_马逸/自动控制课件_史桂英/自控二课件/绪论 (1).doc",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E8%AF%BE%E4%BB%B6_%E5%8F%B2%E6%A1%82%E8%8B%B1%2F%E8%87%AA%E6%8E%A7%E4%BA%8C%E8%AF%BE%E4%BB%B6%2F%E7%BB%AA%E8%AE%BA%20(1).doc",
+      "originalName": "绪论 (1).doc",
+      "relativeTarget": "工程技术类/自动控制/讲义/相关课程参考_原目录史桂英文稿_黄逸洋public/自控二课件/绪论 (1).doc",
+      "bytes": 80896,
+      "sha256": "c48eeed903e8c6d38d98efcf66a9530708b4a67f7eeeb33fbf5103cc1cb503b6"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0089",
+      "sourcePath": "自动控制_复习笔记_马逸/自动控制课件_史桂英/自控理论一课件/自控笔记第六章 (1).pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E8%AF%BE%E4%BB%B6_%E5%8F%B2%E6%A1%82%E8%8B%B1%2F%E8%87%AA%E6%8E%A7%E7%90%86%E8%AE%BA%E4%B8%80%E8%AF%BE%E4%BB%B6%2F%E8%87%AA%E6%8E%A7%E7%AC%94%E8%AE%B0%E7%AC%AC%E5%85%AD%E7%AB%A0%20(1).pdf",
+      "originalName": "自控笔记第六章 (1).pdf",
+      "relativeTarget": "工程技术类/自动控制/讲义/相关课程参考_原目录史桂英文稿_黄逸洋public/自控理论一课件/自控笔记第六章 (1).pdf",
+      "bytes": 316664,
+      "sha256": "038b70ce152dc4e0b070597c7db516144310f1629b3426d421d469510a1617cc"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0091",
+      "sourcePath": "自动控制_复习笔记_马逸/自动控制课件_史桂英/自控理论一课件/自控笔记第五章 (1).pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E8%AF%BE%E4%BB%B6_%E5%8F%B2%E6%A1%82%E8%8B%B1%2F%E8%87%AA%E6%8E%A7%E7%90%86%E8%AE%BA%E4%B8%80%E8%AF%BE%E4%BB%B6%2F%E8%87%AA%E6%8E%A7%E7%AC%94%E8%AE%B0%E7%AC%AC%E4%BA%94%E7%AB%A0%20(1).pdf",
+      "originalName": "自控笔记第五章 (1).pdf",
+      "relativeTarget": "工程技术类/自动控制/讲义/相关课程参考_原目录史桂英文稿_黄逸洋public/自控理论一课件/自控笔记第五章 (1).pdf",
+      "bytes": 255994,
+      "sha256": "8f3c9c084c14b786bc1b8ec163455f84f257dfcc6c4fd9ee67748c7a44f73348"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0093",
+      "sourcePath": "自动控制_复习笔记_马逸/自动控制课件_史桂英/自控理论一课件/自控第八章（1） (1).doc",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E8%AF%BE%E4%BB%B6_%E5%8F%B2%E6%A1%82%E8%8B%B1%2F%E8%87%AA%E6%8E%A7%E7%90%86%E8%AE%BA%E4%B8%80%E8%AF%BE%E4%BB%B6%2F%E8%87%AA%E6%8E%A7%E7%AC%AC%E5%85%AB%E7%AB%A0%EF%BC%881%EF%BC%89%20(1).doc",
+      "originalName": "自控第八章（1） (1).doc",
+      "relativeTarget": "工程技术类/自动控制/讲义/相关课程参考_原目录史桂英文稿_黄逸洋public/自控理论一课件/自控第八章（1） (1).doc",
+      "bytes": 1544704,
+      "sha256": "f0fa001f62baa34d8fc1d2b2350220afd00f3fd7729467b4d6ab5d7158bb3ec4"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0095",
+      "sourcePath": "自动控制_复习笔记_马逸/自动控制课件_史桂英/自控理论一课件/自控第八章（2） (1).doc",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E8%AF%BE%E4%BB%B6_%E5%8F%B2%E6%A1%82%E8%8B%B1%2F%E8%87%AA%E6%8E%A7%E7%90%86%E8%AE%BA%E4%B8%80%E8%AF%BE%E4%BB%B6%2F%E8%87%AA%E6%8E%A7%E7%AC%AC%E5%85%AB%E7%AB%A0%EF%BC%882%EF%BC%89%20(1).doc",
+      "originalName": "自控第八章（2） (1).doc",
+      "relativeTarget": "工程技术类/自动控制/讲义/相关课程参考_原目录史桂英文稿_黄逸洋public/自控理论一课件/自控第八章（2） (1).doc",
+      "bytes": 1562624,
+      "sha256": "d75bd201e2a497266b5aacd7ed03a91db23a2a3c6eb98ecb162f8e0e45ae1e33"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0097",
+      "sourcePath": "自动控制_复习笔记_马逸/自动控制课件_史桂英/自控理论一课件/自控第八章（3） (1).doc",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E8%AF%BE%E4%BB%B6_%E5%8F%B2%E6%A1%82%E8%8B%B1%2F%E8%87%AA%E6%8E%A7%E7%90%86%E8%AE%BA%E4%B8%80%E8%AF%BE%E4%BB%B6%2F%E8%87%AA%E6%8E%A7%E7%AC%AC%E5%85%AB%E7%AB%A0%EF%BC%883%EF%BC%89%20(1).doc",
+      "originalName": "自控第八章（3） (1).doc",
+      "relativeTarget": "工程技术类/自动控制/讲义/相关课程参考_原目录史桂英文稿_黄逸洋public/自控理论一课件/自控第八章（3） (1).doc",
+      "bytes": 126976,
+      "sha256": "2b5b1b84d2953e6ee3f4d9f67e40b6d33df38b30874f35d377435d8de5cecc71"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0099",
+      "sourcePath": "自动控制_复习笔记_马逸/自动控制课件_史桂英/自控理论一课件/自控第七章（1） (1).doc",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E8%AF%BE%E4%BB%B6_%E5%8F%B2%E6%A1%82%E8%8B%B1%2F%E8%87%AA%E6%8E%A7%E7%90%86%E8%AE%BA%E4%B8%80%E8%AF%BE%E4%BB%B6%2F%E8%87%AA%E6%8E%A7%E7%AC%AC%E4%B8%83%E7%AB%A0%EF%BC%881%EF%BC%89%20(1).doc",
+      "originalName": "自控第七章（1） (1).doc",
+      "relativeTarget": "工程技术类/自动控制/讲义/相关课程参考_原目录史桂英文稿_黄逸洋public/自控理论一课件/自控第七章（1） (1).doc",
+      "bytes": 2296320,
+      "sha256": "8099bafe229d19339c07be2552381a16aab98eb627c88053d62f0108134ff662"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0101",
+      "sourcePath": "自动控制_复习笔记_马逸/自动控制课件_史桂英/自控理论一课件/自控第七章（2） (1).doc",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E8%AF%BE%E4%BB%B6_%E5%8F%B2%E6%A1%82%E8%8B%B1%2F%E8%87%AA%E6%8E%A7%E7%90%86%E8%AE%BA%E4%B8%80%E8%AF%BE%E4%BB%B6%2F%E8%87%AA%E6%8E%A7%E7%AC%AC%E4%B8%83%E7%AB%A0%EF%BC%882%EF%BC%89%20(1).doc",
+      "originalName": "自控第七章（2） (1).doc",
+      "relativeTarget": "工程技术类/自动控制/讲义/相关课程参考_原目录史桂英文稿_黄逸洋public/自控理论一课件/自控第七章（2） (1).doc",
+      "bytes": 3961344,
+      "sha256": "c8fd4c5ce5444597927bf4025716095d665ea1492bcf911a8465d2873096d118"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0103",
+      "sourcePath": "自动控制_复习笔记_马逸/自动控制课件_史桂英/自控理论一课件/自控第七章（3） (1).doc",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E8%AF%BE%E4%BB%B6_%E5%8F%B2%E6%A1%82%E8%8B%B1%2F%E8%87%AA%E6%8E%A7%E7%90%86%E8%AE%BA%E4%B8%80%E8%AF%BE%E4%BB%B6%2F%E8%87%AA%E6%8E%A7%E7%AC%AC%E4%B8%83%E7%AB%A0%EF%BC%883%EF%BC%89%20(1).doc",
+      "originalName": "自控第七章（3） (1).doc",
+      "relativeTarget": "工程技术类/自动控制/讲义/相关课程参考_原目录史桂英文稿_黄逸洋public/自控理论一课件/自控第七章（3） (1).doc",
+      "bytes": 105472,
+      "sha256": "4417e9c861c1c86d2259a0e703931edae9f23f1c85fc4359e658120432893771"
+    }
+  ],
+  "sameSHAOtherSourcePaths": [
+    {
+      "sourcePath": "自动控制_复习笔记_马逸/自动控制课件_史桂英/自控二课件/ch_1_12.doc",
+      "sourceAlias": "S0052",
+      "bytes": 667648,
+      "sha256": "cfb10d83182c4bd9b7ea625a3319a0126546dea3589304cca0ff0478c40dadda",
+      "sameAsRelativeTarget": "工程技术类/自动控制/讲义/相关课程参考_原目录史桂英文稿_黄逸洋public/自控二课件/ch_1_12 (1).doc"
+    },
+    {
+      "sourcePath": "自动控制_复习笔记_马逸/自动控制课件_史桂英/自控二课件/ch7.1.doc",
+      "sourceAlias": "S0054",
+      "bytes": 873984,
+      "sha256": "c8c226a52a3fa7b0dfbe48472724f8c5e788507497e87103ef282d50d977103b",
+      "sameAsRelativeTarget": "工程技术类/自动控制/讲义/相关课程参考_原目录史桂英文稿_黄逸洋public/自控二课件/ch7.1 (1).doc"
+    },
+    {
+      "sourcePath": "自动控制_复习笔记_马逸/自动控制课件_史桂英/自控二课件/ch8.1.doc",
+      "sourceAlias": "S0056",
+      "bytes": 633856,
+      "sha256": "3ac0502bc5e524512bff9a95447b545f132c433cb76858c819d0030fa2e77d80",
+      "sameAsRelativeTarget": "工程技术类/自动控制/讲义/相关课程参考_原目录史桂英文稿_黄逸洋public/自控二课件/ch8.1 (1).doc"
+    },
+    {
+      "sourcePath": "自动控制_复习笔记_马逸/自动控制课件_史桂英/自控二课件/Ch_1_34.doc",
+      "sourceAlias": "S0058",
+      "bytes": 463872,
+      "sha256": "21bf37a1b9d26add99945dbb30de7fa819bd070a5633741425235a9b13134528",
+      "sameAsRelativeTarget": "工程技术类/自动控制/讲义/相关课程参考_原目录史桂英文稿_黄逸洋public/自控二课件/Ch_1_34 (1).doc"
+    },
+    {
+      "sourcePath": "自动控制_复习笔记_马逸/自动控制课件_史桂英/自控二课件/Ch_1_56.doc",
+      "sourceAlias": "S0060",
+      "bytes": 567808,
+      "sha256": "4d7be6b1d485ef5d32dcda7e81d90de64f0cc636187f73090638307053fab4ed",
+      "sameAsRelativeTarget": "工程技术类/自动控制/讲义/相关课程参考_原目录史桂英文稿_黄逸洋public/自控二课件/Ch_1_56 (1).doc"
+    },
+    {
+      "sourcePath": "自动控制_复习笔记_马逸/自动控制课件_史桂英/自控二课件/Ch_2_12.doc",
+      "sourceAlias": "S0062",
+      "bytes": 667136,
+      "sha256": "a12a7acc452b0999f3e13d3e972cfc7979ab4cf80feb438ffedc97df7b8058b8",
+      "sameAsRelativeTarget": "工程技术类/自动控制/讲义/相关课程参考_原目录史桂英文稿_黄逸洋public/自控二课件/Ch_2_12 (1).doc"
+    },
+    {
+      "sourcePath": "自动控制_复习笔记_马逸/自动控制课件_史桂英/自控二课件/Ch_2_34.doc",
+      "sourceAlias": "S0064",
+      "bytes": 482304,
+      "sha256": "5803c2bc0fb88650b96b9963fc1913e4a9f27f8b16e57b61ef6ddea7f6da9922",
+      "sameAsRelativeTarget": "工程技术类/自动控制/讲义/相关课程参考_原目录史桂英文稿_黄逸洋public/自控二课件/Ch_2_34 (1).doc"
+    },
+    {
+      "sourcePath": "自动控制_复习笔记_马逸/自动控制课件_史桂英/自控二课件/Ch_2_56.doc",
+      "sourceAlias": "S0066",
+      "bytes": 432128,
+      "sha256": "8cacd0fd4d56cad403af7e45eaeb5964d2ce713df006cabca3f6eb1cc4378a0f",
+      "sameAsRelativeTarget": "工程技术类/自动控制/讲义/相关课程参考_原目录史桂英文稿_黄逸洋public/自控二课件/Ch_2_56 (1).doc"
+    },
+    {
+      "sourcePath": "自动控制_复习笔记_马逸/自动控制课件_史桂英/自控二课件/Ch_3_12[1].doc",
+      "sourceAlias": "S0068",
+      "bytes": 1027584,
+      "sha256": "94aca4d1a7df4d1848caae417a8fe4ac794d5b0344616fadeb3b7288c57cf77b",
+      "sameAsRelativeTarget": "工程技术类/自动控制/讲义/相关课程参考_原目录史桂英文稿_黄逸洋public/自控二课件/Ch_3_12[1] (1).doc"
+    },
+    {
+      "sourcePath": "自动控制_复习笔记_马逸/自动控制课件_史桂英/自控二课件/Ch_3_34.doc",
+      "sourceAlias": "S0070",
+      "bytes": 927232,
+      "sha256": "116c99a3fdf5478d4b1bda4eaa0c1f51a2feb39dd56aff57dba2afccf40dc2c0",
+      "sameAsRelativeTarget": "工程技术类/自动控制/讲义/相关课程参考_原目录史桂英文稿_黄逸洋public/自控二课件/Ch_3_34 (1).doc"
+    },
+    {
+      "sourcePath": "自动控制_复习笔记_马逸/自动控制课件_史桂英/自控二课件/Ch_3_56.doc",
+      "sourceAlias": "S0072",
+      "bytes": 613888,
+      "sha256": "d1403fc1859b15d56feb83e9aea6bc8dd2cc99e1561d1ca72170b3d7fcf4fb5e",
+      "sameAsRelativeTarget": "工程技术类/自动控制/讲义/相关课程参考_原目录史桂英文稿_黄逸洋public/自控二课件/Ch_3_56 (1).doc"
+    },
+    {
+      "sourcePath": "自动控制_复习笔记_马逸/自动控制课件_史桂英/自控二课件/Ch_4_12.doc",
+      "sourceAlias": "S0074",
+      "bytes": 479744,
+      "sha256": "3ac69fdd810a229678a5da77000cbbb9c24e83d4c689fd041d01d414150a3f5a",
+      "sameAsRelativeTarget": "工程技术类/自动控制/讲义/相关课程参考_原目录史桂英文稿_黄逸洋public/自控二课件/Ch_4_12 (1).doc"
+    },
+    {
+      "sourcePath": "自动控制_复习笔记_马逸/自动控制课件_史桂英/自控二课件/Ch_4_34.doc",
+      "sourceAlias": "S0076",
+      "bytes": 349696,
+      "sha256": "489e8492ef0403f56a696119ac00fcc984cf8ffeba205825cce00c131bdbaa4c",
+      "sameAsRelativeTarget": "工程技术类/自动控制/讲义/相关课程参考_原目录史桂英文稿_黄逸洋public/自控二课件/Ch_4_34 (1).doc"
+    },
+    {
+      "sourcePath": "自动控制_复习笔记_马逸/自动控制课件_史桂英/自控二课件/Ch_5_12.doc",
+      "sourceAlias": "S0078",
+      "bytes": 583680,
+      "sha256": "76f4608f79c474114ad0e93ad33ed7730275948bc5b38cf893a57acdc10fc619",
+      "sameAsRelativeTarget": "工程技术类/自动控制/讲义/相关课程参考_原目录史桂英文稿_黄逸洋public/自控二课件/Ch_5_12 (1).doc"
+    },
+    {
+      "sourcePath": "自动控制_复习笔记_马逸/自动控制课件_史桂英/自控二课件/Ch_5_34.doc",
+      "sourceAlias": "S0080",
+      "bytes": 565248,
+      "sha256": "82dab202f095ec3979931b11ddb32b5ff4a91bb677815f82b46dab94e1cb1268",
+      "sameAsRelativeTarget": "工程技术类/自动控制/讲义/相关课程参考_原目录史桂英文稿_黄逸洋public/自控二课件/Ch_5_34 (1).doc"
+    },
+    {
+      "sourcePath": "自动控制_复习笔记_马逸/自动控制课件_史桂英/自控二课件/Ch6.1.doc",
+      "sourceAlias": "S0082",
+      "bytes": 726016,
+      "sha256": "bdb176eaf57148f3fde866eb05c95b379ac08428bdc7cb5bd49df5015a87c47b",
+      "sameAsRelativeTarget": "工程技术类/自动控制/讲义/相关课程参考_原目录史桂英文稿_黄逸洋public/自控二课件/Ch6.1 (1).doc"
+    },
+    {
+      "sourcePath": "自动控制_复习笔记_马逸/自动控制课件_史桂英/自控二课件/Ch9.doc",
+      "sourceAlias": "S0084",
+      "bytes": 1596416,
+      "sha256": "97b8661a75a834aeed71af771b1edb1142d04872b9d20666f1c57f12abf5fd9a",
+      "sameAsRelativeTarget": "工程技术类/自动控制/讲义/相关课程参考_原目录史桂英文稿_黄逸洋public/自控二课件/Ch9 (1).doc"
+    },
+    {
+      "sourcePath": "自动控制_复习笔记_马逸/自动控制课件_史桂英/自控二课件/绪论.doc",
+      "sourceAlias": "S0086",
+      "bytes": 80896,
+      "sha256": "c48eeed903e8c6d38d98efcf66a9530708b4a67f7eeeb33fbf5103cc1cb503b6",
+      "sameAsRelativeTarget": "工程技术类/自动控制/讲义/相关课程参考_原目录史桂英文稿_黄逸洋public/自控二课件/绪论 (1).doc"
+    },
+    {
+      "sourcePath": "自动控制_复习笔记_马逸/自动控制课件_史桂英/自控理论一课件/自控笔记第六章.pdf",
+      "sourceAlias": "S0090",
+      "bytes": 316664,
+      "sha256": "038b70ce152dc4e0b070597c7db516144310f1629b3426d421d469510a1617cc",
+      "sameAsRelativeTarget": "工程技术类/自动控制/讲义/相关课程参考_原目录史桂英文稿_黄逸洋public/自控理论一课件/自控笔记第六章 (1).pdf"
+    },
+    {
+      "sourcePath": "自动控制_复习笔记_马逸/自动控制课件_史桂英/自控理论一课件/自控笔记第五章.pdf",
+      "sourceAlias": "S0092",
+      "bytes": 255994,
+      "sha256": "8f3c9c084c14b786bc1b8ec163455f84f257dfcc6c4fd9ee67748c7a44f73348",
+      "sameAsRelativeTarget": "工程技术类/自动控制/讲义/相关课程参考_原目录史桂英文稿_黄逸洋public/自控理论一课件/自控笔记第五章 (1).pdf"
+    },
+    {
+      "sourcePath": "自动控制_复习笔记_马逸/自动控制课件_史桂英/自控理论一课件/自控第八章（1）.doc",
+      "sourceAlias": "S0094",
+      "bytes": 1544704,
+      "sha256": "f0fa001f62baa34d8fc1d2b2350220afd00f3fd7729467b4d6ab5d7158bb3ec4",
+      "sameAsRelativeTarget": "工程技术类/自动控制/讲义/相关课程参考_原目录史桂英文稿_黄逸洋public/自控理论一课件/自控第八章（1） (1).doc"
+    },
+    {
+      "sourcePath": "自动控制_复习笔记_马逸/自动控制课件_史桂英/自控理论一课件/自控第八章（2）.doc",
+      "sourceAlias": "S0096",
+      "bytes": 1562624,
+      "sha256": "d75bd201e2a497266b5aacd7ed03a91db23a2a3c6eb98ecb162f8e0e45ae1e33",
+      "sameAsRelativeTarget": "工程技术类/自动控制/讲义/相关课程参考_原目录史桂英文稿_黄逸洋public/自控理论一课件/自控第八章（2） (1).doc"
+    },
+    {
+      "sourcePath": "自动控制_复习笔记_马逸/自动控制课件_史桂英/自控理论一课件/自控第八章（3）.doc",
+      "sourceAlias": "S0098",
+      "bytes": 126976,
+      "sha256": "2b5b1b84d2953e6ee3f4d9f67e40b6d33df38b30874f35d377435d8de5cecc71",
+      "sameAsRelativeTarget": "工程技术类/自动控制/讲义/相关课程参考_原目录史桂英文稿_黄逸洋public/自控理论一课件/自控第八章（3） (1).doc"
+    },
+    {
+      "sourcePath": "自动控制_复习笔记_马逸/自动控制课件_史桂英/自控理论一课件/自控第七章（1）.doc",
+      "sourceAlias": "S0100",
+      "bytes": 2296320,
+      "sha256": "8099bafe229d19339c07be2552381a16aab98eb627c88053d62f0108134ff662",
+      "sameAsRelativeTarget": "工程技术类/自动控制/讲义/相关课程参考_原目录史桂英文稿_黄逸洋public/自控理论一课件/自控第七章（1） (1).doc"
+    },
+    {
+      "sourcePath": "自动控制_复习笔记_马逸/自动控制课件_史桂英/自控理论一课件/自控第七章（2）.doc",
+      "sourceAlias": "S0102",
+      "bytes": 3961344,
+      "sha256": "c8fd4c5ce5444597927bf4025716095d665ea1492bcf911a8465d2873096d118",
+      "sameAsRelativeTarget": "工程技术类/自动控制/讲义/相关课程参考_原目录史桂英文稿_黄逸洋public/自控理论一课件/自控第七章（2） (1).doc"
+    },
+    {
+      "sourcePath": "自动控制_复习笔记_马逸/自动控制课件_史桂英/自控理论一课件/自控第七章（3）.doc",
+      "sourceAlias": "S0104",
+      "bytes": 105472,
+      "sha256": "4417e9c861c1c86d2259a0e703931edae9f23f1c85fc4359e658120432893771",
+      "sameAsRelativeTarget": "工程技术类/自动控制/讲义/相关课程参考_原目录史桂英文稿_黄逸洋public/自控理论一课件/自控第七章（3） (1).doc"
+    }
+  ],
+  "boundary": "104来源路径按精确SHA合并别名；15不同PDF首面和2JPG实际视觉，DOC仅静态文字层/OLE核对，非全文视觉审校。两类填写身份编号参考稿整件仅过程保存；普通姓名、教学公示联系和来源文件数字后缀不当作身份编号排除。无宏/源码/模型执行、无原件改写或ZIP上传。"
+}

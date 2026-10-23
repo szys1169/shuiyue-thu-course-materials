@@ -1,0 +1,120 @@
+{
+  "sourceLabel": "黄逸洋public / 3有限元分析基础",
+  "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80&mode=list",
+  "role": "来源作业目录中的空白题面和可保留的代码参考，保留原讲次及文件名；题单、代码参考的角色分别沿原件，不称完整标准答案。个人填写编号及成绩关联稿另存过程，未包含在本组。",
+  "originalPaths": 9,
+  "uniqueSHA": 8,
+  "dependencySameSHAPaths": 1,
+  "items": [
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0024",
+      "sourcePath": "有限元分析基础_马逸/作业/02/第2讲作业.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80%2F%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80_%E9%A9%AC%E9%80%B8%2F%E4%BD%9C%E4%B8%9A%2F02%2F%E7%AC%AC2%E8%AE%B2%E4%BD%9C%E4%B8%9A.pdf",
+      "originalName": "第2讲作业.pdf",
+      "relativeTarget": "工程技术类/有限元分析基础/作业/相关课程参考_作业题面与代码参考_黄逸洋public/02/第2讲作业.pdf",
+      "bytes": 103613,
+      "sha256": "ab1ba96f94ed6a54376632a175f85ab53a2e1bbb89d59182b5aca64e377bcec1"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0028",
+      "sourcePath": "有限元分析基础_马逸/作业/03/第3讲作业.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80%2F%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80_%E9%A9%AC%E9%80%B8%2F%E4%BD%9C%E4%B8%9A%2F03%2F%E7%AC%AC3%E8%AE%B2%E4%BD%9C%E4%B8%9A.pdf",
+      "originalName": "第3讲作业.pdf",
+      "relativeTarget": "工程技术类/有限元分析基础/作业/相关课程参考_作业题面与代码参考_黄逸洋public/03/第3讲作业.pdf",
+      "bytes": 406167,
+      "sha256": "2a5d14b389dd32b8498cd4822273717054e9729ce5e34939a162e6580def03aa"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0031",
+      "sourcePath": "有限元分析基础_马逸/作业/04/hw04-10.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80%2F%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80_%E9%A9%AC%E9%80%B8%2F%E4%BD%9C%E4%B8%9A%2F04%2Fhw04-10.pdf",
+      "originalName": "hw04-10.pdf",
+      "relativeTarget": "工程技术类/有限元分析基础/作业/相关课程参考_作业题面与代码参考_黄逸洋public/04/hw04-10.pdf",
+      "bytes": 348137,
+      "sha256": "c24e622599046244912138ac26474caf63f5d3248a4cf2b2604a98f1d83c75da"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0032",
+      "sourcePath": "有限元分析基础_马逸/作业/04/hw04.mlx",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80%2F%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80_%E9%A9%AC%E9%80%B8%2F%E4%BD%9C%E4%B8%9A%2F04%2Fhw04.mlx",
+      "originalName": "hw04.mlx",
+      "relativeTarget": "工程技术类/有限元分析基础/作业/相关课程参考_作业题面与代码参考_黄逸洋public/04/hw04.mlx",
+      "bytes": 5177,
+      "sha256": "a9580f9dd9e38f1cb7ede19723d4e4f8315ce2dc33ad575b99f790d4a6ca1fba"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0033",
+      "sourcePath": "有限元分析基础_马逸/作业/04/第4讲作业.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80%2F%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80_%E9%A9%AC%E9%80%B8%2F%E4%BD%9C%E4%B8%9A%2F04%2F%E7%AC%AC4%E8%AE%B2%E4%BD%9C%E4%B8%9A.pdf",
+      "originalName": "第4讲作业.pdf",
+      "relativeTarget": "工程技术类/有限元分析基础/作业/相关课程参考_作业题面与代码参考_黄逸洋public/04/第4讲作业.pdf",
+      "bytes": 188370,
+      "sha256": "f2a03032d06cba47bfec6e63360c2dc66d7c74e494cd4b2d51d46624bcc4a8da"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0034",
+      "sourcePath": "有限元分析基础_马逸/作业/05/第5讲作业.pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80%2F%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80_%E9%A9%AC%E9%80%B8%2F%E4%BD%9C%E4%B8%9A%2F05%2F%E7%AC%AC5%E8%AE%B2%E4%BD%9C%E4%B8%9A.pdf",
+      "originalName": "第5讲作业.pdf",
+      "relativeTarget": "工程技术类/有限元分析基础/作业/相关课程参考_作业题面与代码参考_黄逸洋public/05/第5讲作业.pdf",
+      "bytes": 201204,
+      "sha256": "58443db86d5e6ca7b8dd552aa7304667b86136d5f4cf63a84a59126ec5fde46b"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0037",
+      "sourcePath": "有限元分析基础_马逸/作业/06/hw06 (1).mlx",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80%2F%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80_%E9%A9%AC%E9%80%B8%2F%E4%BD%9C%E4%B8%9A%2F06%2Fhw06%20(1).mlx",
+      "originalName": "hw06 (1).mlx",
+      "relativeTarget": "工程技术类/有限元分析基础/作业/相关课程参考_作业题面与代码参考_黄逸洋public/06/hw06 (1).mlx",
+      "bytes": 6008,
+      "sha256": "cd1d92d30d4ec61d70ff2870ed4fe31837b49dc99fa3e7aea866062d67abbed6"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0038",
+      "sourcePath": "有限元分析基础_马逸/作业/06/hw06.mlx",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80%2F%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80_%E9%A9%AC%E9%80%B8%2F%E4%BD%9C%E4%B8%9A%2F06%2Fhw06.mlx",
+      "originalName": "hw06.mlx",
+      "relativeTarget": "工程技术类/有限元分析基础/作业/相关课程参考_作业题面与代码参考_黄逸洋public/06/hw06.mlx",
+      "bytes": 6008,
+      "sha256": "cd1d92d30d4ec61d70ff2870ed4fe31837b49dc99fa3e7aea866062d67abbed6",
+      "sameSHARequiredDependencyOf": "工程技术类/有限元分析基础/作业/相关课程参考_作业题面与代码参考_黄逸洋public/06/hw06 (1).mlx"
+    },
+    {
+      "kind": "learningOriginal",
+      "sourceAlias": "S0039",
+      "sourcePath": "有限元分析基础_马逸/作业/06/第6讲作业  (1).pdf",
+      "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F3%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80&mode=list",
+      "observedSourceFileURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F3%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80%2F%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90%E5%9F%BA%E7%A1%80_%E9%A9%AC%E9%80%B8%2F%E4%BD%9C%E4%B8%9A%2F06%2F%E7%AC%AC6%E8%AE%B2%E4%BD%9C%E4%B8%9A%20%20(1).pdf",
+      "originalName": "第6讲作业  (1).pdf",
+      "relativeTarget": "工程技术类/有限元分析基础/作业/相关课程参考_作业题面与代码参考_黄逸洋public/06/第6讲作业  (1).pdf",
+      "bytes": 167713,
+      "sha256": "e89d25709d5fa9f7e3faacb655efc48bee8b0b1d58c1bbbf8fa0c792c6272bda"
+    }
+  ],
+  "sameSHAOtherSourcePaths": [
+    {
+      "sourceAlias": "S0040",
+      "sourcePath": "有限元分析基础_马逸/作业/06/第6讲作业 .pdf",
+      "bytes": 167713,
+      "sha256": "e89d25709d5fa9f7e3faacb655efc48bee8b0b1d58c1bbbf8fa0c792c6272bda",
+      "sameAsRelativeTarget": "工程技术类/有限元分析基础/作业/相关课程参考_作业题面与代码参考_黄逸洋public/06/第6讲作业  (1).pdf"
+    }
+  ],
+  "boundary": "原包不上传，管理/日志/缓存及身份或私人路径单件仅过程；全页结构/可读文字层静态检查与88份PDF首面有限视觉，不称全文视觉审校或数学正确性。未执行代码/模型/宏，不推作者学期或版本先后。"
+}

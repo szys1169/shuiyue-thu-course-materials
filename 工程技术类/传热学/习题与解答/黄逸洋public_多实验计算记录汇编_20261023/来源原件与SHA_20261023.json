@@ -1,0 +1,52 @@
+{
+  "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E4%BC%A0%E7%83%AD%E5%AD%A6&mode=list",
+  "files": [
+    {
+      "sourceKey": "heatRecord17",
+      "name": "传热学实验报告.pdf",
+      "bytes": 23717581,
+      "sha256": "d359fe7109deda88e2c19d82735fd61dc442db644a3dbe50da7863454e3af66c",
+      "pages": 17,
+      "role": "多实验填写计算与图表记录汇编",
+      "allPagesActuallyViewed": true,
+      "pageRoles": [
+        {
+          "pages": [
+            1,
+            5
+          ],
+          "role": "热源法"
+        },
+        {
+          "pages": [
+            6,
+            9
+          ],
+          "role": "球体导热"
+        },
+        {
+          "pages": [
+            10,
+            13
+          ],
+          "role": "强迫对流"
+        },
+        {
+          "pages": [
+            14,
+            17
+          ],
+          "role": "自然对流"
+        }
+      ],
+      "ordinarySignatureDateSeen": true,
+      "identityIDSeen": false,
+      "annotations": 0,
+      "widgets": 0,
+      "attachments": 0
+    }
+  ],
+  "sourceExecuted": false,
+  "pageOrderPreserved": true,
+  "answerCorrectnessNotVerified": true
+}

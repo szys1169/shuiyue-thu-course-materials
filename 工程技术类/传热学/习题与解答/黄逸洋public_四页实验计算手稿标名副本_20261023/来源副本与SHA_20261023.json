@@ -1,0 +1,27 @@
+{
+  "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E4%BC%A0%E7%83%AD%E5%AD%A6&mode=list",
+  "files": [
+    {
+      "sourceKey": "heatHandwritten4",
+      "name": "传热实验计算手稿_标名副本.pdf",
+      "sourceBytes": 1490510,
+      "sourceSha256": "c00b4049c149762c74a28d93b71915f3dbd0a25da4bbc4641049d098a8caa6aa",
+      "bytes": 1490148,
+      "sha256": "a5cae0f9bb8d266f2ff465ddf1877f1facc4194eb86f092dbb3fdef962dc4245",
+      "pages": 4,
+      "role": "实验手写计算参考标名副本",
+      "changes": [
+        "保存名匿名化",
+        "Info.Title身份字段替换为中性题名"
+      ],
+      "allPagesActuallyViewed": true,
+      "allRaw14StreamsEqual": true,
+      "independent46ObjectsEqualExceptInfoTitle": true,
+      "otherMetadataEqual": true,
+      "allPageTextContentsPixelsEqual": true
+    }
+  ],
+  "originalPreservedInProcess": true,
+  "originalFilenameAndIdentifierNotTranscribed": true,
+  "sourceBodyModified": false
+}
