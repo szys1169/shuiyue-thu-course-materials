@@ -1,0 +1,25 @@
+{
+  "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E4%BC%A0%E7%83%AD%E5%AD%A6%2F%E4%BC%A0%E7%83%AD%E5%AD%A6_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2FLecture%20Notes&mode=list",
+  "sourceDirectoryLabel": "胥瑞娜",
+  "role": "讲义",
+  "rows": [
+    {
+      "sourceMember": "Lecture Notes/胥瑞娜/07动量传递和热量传递的类比.pdf",
+      "filename": "07动量传递和热量传递的类比.pdf",
+      "bytes": 1128827,
+      "sha256": "efaaf39a5406080319c6448f323414b862cc8f57c1e34be2ac4a9f418d0db216"
+    },
+    {
+      "sourceMember": "Lecture Notes/胥瑞娜/05导热数值解法基础.pdf",
+      "filename": "05导热数值解法基础.pdf",
+      "bytes": 1052377,
+      "sha256": "2be912a49d6e3b4e0537ea3140cff96e372b720dacda58dd18a6ff0419c5fa3c"
+    },
+    {
+      "sourceMember": "Lecture Notes/胥瑞娜/01绪论.pdf",
+      "filename": "01绪论.pdf",
+      "bytes": 1722948,
+      "sha256": "9de97064d7573e833ac7be50911c4ff485d5ba811f32a39ad429d85dded21bce"
+    }
+  ]
+}

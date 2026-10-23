@@ -1,0 +1,36 @@
+{
+  "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E5%B7%A5%E7%A8%8B%E5%8A%9B%E5%AD%A6%2F%E5%B7%A5%E7%A8%8B%E5%8A%9B%E5%AD%A6%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8&mode=list",
+  "sourceDirectory": "工程力学复习笔记_马逸",
+  "role": "期中复习与期中习题课，共2个原路径。正常预览分别载入29页和16页；复习首页有2022.11.03，习题课首页署教师方菲、助教苏晓森。",
+  "wholeGroupSHACompared": false,
+  "allPagesReviewed": false,
+  "files": [
+    {
+      "name": "12期中复习_withMarginNotes.pdf",
+      "sourceHref": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E5%B7%A5%E7%A8%8B%E5%8A%9B%E5%AD%A6%2F%E5%B7%A5%E7%A8%8B%E5%8A%9B%E5%AD%A6%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F12%E6%9C%9F%E4%B8%AD%E5%A4%8D%E4%B9%A0_withMarginNotes.pdf",
+      "displaySize": "34.5 MB",
+      "preview": {
+        "status": "已载入29页，首页及相邻可见页",
+        "text": "- region \"第 1 页\":\n  - generic: 2022.11.03\n  - generic: 工程力学期中复习\n  - text: 1 1 12 期中复习\n- region \"第 2 页\":\n  - generic: 工程力学期中复习与习题课\n  - generic: \n  - generic: 静力学\n  - generic: 静力学基本概念与基本原理\n  - generic: 力系的等效与简化\n  - generic: 平衡条件与平衡方程\n  - generic: 受力分析方法与过程\n  - generic: 静力学习题讲解\n  - generic: \n  - generic: 材料力学\n  - generic: 研究对象与基本假设\n  - generic: 内力与应力关系\n  - generic: 应力与变形\n  - generic: 截面法求解内力与内力图\n  - generic: 拉压杆件应力、变形与强度\n  - generic: 材料力学习题讲解\n  - text: 2 2 2 12 期中复习\n- region \"第 3 页\":\n  - generic: 工程力学期中复习与习题课\n  - generic: \n  - generic: 静力学\n  - generic: 静力学基本概念与基本原理\n  - generic: 力系的等效与简化\n  - generic: 平衡条件与平衡方程\n  - generic: 受力分析方法与过程\n  - generic: 静力学习题讲解\n  - generic: \n  - generic: 材料力学\n  - generic: 研究对象与基本假设\n  - generic: 内力与应力关系\n  - generic: 应力与变形\n  - generic: 截面法求解内力与内力图\n  - generic: 拉压杆件应力、变形与强度\n  - generic: 材料力学习题讲解\n  - text: 3 3 3 12 期中复习\n"
+      },
+      "representativeSample": null
+    },
+    {
+      "name": "13期中习题课_withMarginNotes.pdf",
+      "sourceHref": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E5%B7%A5%E7%A8%8B%E5%8A%9B%E5%AD%A6%2F%E5%B7%A5%E7%A8%8B%E5%8A%9B%E5%AD%A6%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F13%E6%9C%9F%E4%B8%AD%E4%B9%A0%E9%A2%98%E8%AF%BE_withMarginNotes.pdf",
+      "displaySize": "10.4 MB",
+      "preview": {
+        "status": "已载入16页，首页",
+        "text": "工程力学习题课；教师方菲；助教苏晓森；未见实际学生身份字段"
+      },
+      "representativeSample": {
+        "name": "13期中习题课_withMarginNotes.pdf",
+        "bytes": 10390556,
+        "sha256": "868d40fd9e1346f5638fa2f3d8327a36d277ef147e20a8ea75b9f94f5a39eb8a",
+        "pages": 16,
+        "annotations": 0,
+        "widgets": 0
+      }
+    }
+  ]
+}

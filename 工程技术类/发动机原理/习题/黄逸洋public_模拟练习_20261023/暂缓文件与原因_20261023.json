@@ -1,0 +1,39 @@
+{
+  "source": "黄逸洋public",
+  "reason": "部分DOC的文件属性及修订表含数字式修订账号；这些记录不能据此认定为学校学号。",
+  "held": [
+    {
+      "name": "发动机原理-统考-模拟试题9-马逸.doc",
+      "bytes": 16384,
+      "sha256": "88e7e747d5a6ee6842bf502a8418387074a95be4b8a122a05609115a265ec49e"
+    },
+    {
+      "name": "发动机原理-统考-模拟试题8-马逸.doc",
+      "bytes": 3023360,
+      "sha256": "fce812ecfc880c1c1550325369caca03b7ad6dea897f8e576206d2bcb5f91abe"
+    },
+    {
+      "name": "发动机原理-统考-模拟试题7-马逸.doc",
+      "bytes": 382464,
+      "sha256": "f96234820ddbcf9b155914b1929c012d7f78a294a182503257e7c9f07a00641b"
+    },
+    {
+      "name": "发动机原理-统考-模拟试题6-马逸.doc",
+      "bytes": 235008,
+      "sha256": "ac2f801011380c1416244a55e63f2fe3757f274880b86538676e4dc20f30af35"
+    },
+    {
+      "name": "发动机原理-统考-模拟试题5-马逸.doc",
+      "bytes": 189952,
+      "sha256": "c197f9a47ffbd624a59e911013d73bc18beb88c3df6b323d2e24cfa6230aa59d"
+    },
+    {
+      "name": "发动机原理-统考-模拟试题4-马逸.doc",
+      "bytes": 305664,
+      "sha256": "38da22a33003d67094acbf5cef66e76eee59918d4d4027bc6b7e76039f53815b"
+    }
+  ],
+  "privateValuesOmitted": true,
+  "originalsRetainedLocally": true,
+  "cloudAction": "仅本轮已新增副本正常可恢复撤回，不清回收站，不改源共享库"
+}

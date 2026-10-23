@@ -1,0 +1,21 @@
+{
+  "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E5%B7%A5%E7%A8%8B%E5%8A%9B%E5%AD%A6%2F%E5%B7%A5%E7%A8%8B%E5%8A%9B%E5%AD%A6&mode=list",
+  "sourceCourse": "2.6_能源动力类_工程力学",
+  "role": "两份2页试卷，正文身份栏为空，保留原题名与试题排版。原题名含2022春、2021秋；正文打印考试日期分别为2022-06-13、2021-01-03，二者按各自证据记录，不改原文件。教师及作者标签沿来源命名，未另行核实。",
+  "files": [
+    {
+      "sourceMember": "工程力学/工程力学A-2022春期末A卷-马逸.pdf",
+      "name": "工程力学A-2022春期末A卷-马逸.pdf",
+      "bytes": 374467,
+      "sha256": "018fcdab96d41fe397ed6a116ac12bec754ffd83b608234b5e928b16361affd4",
+      "pages": 2
+    },
+    {
+      "sourceMember": "工程力学/工程力学A-2021秋期末A卷-马逸.pdf",
+      "name": "工程力学A-2021秋期末A卷-马逸.pdf",
+      "bytes": 622159,
+      "sha256": "ec6716d688392047d9934cbcbabc93a380612175afee9cff0f6b40e4b0ad50e2",
+      "pages": 2
+    }
+  ]
+}

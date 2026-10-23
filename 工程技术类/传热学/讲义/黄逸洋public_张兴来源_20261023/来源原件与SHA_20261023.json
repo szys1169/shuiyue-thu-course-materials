@@ -1,0 +1,91 @@
+{
+  "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E4%BC%A0%E7%83%AD%E5%AD%A6%2F%E4%BC%A0%E7%83%AD%E5%AD%A6_%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2FLecture%20Notes&mode=list",
+  "sourceDirectoryLabel": "张兴",
+  "role": "讲义",
+  "rows": [
+    {
+      "sourceMember": "Lecture Notes/张兴/雅可比迭代法-高斯迭代法-松弛迭代法.ppt",
+      "filename": "雅可比迭代法-高斯迭代法-松弛迭代法.ppt",
+      "bytes": 705536,
+      "sha256": "17a1b529285683add984a62a2725514012a67a71232bc8f96689abe7caed8fef"
+    },
+    {
+      "sourceMember": "Lecture Notes/张兴/22总复习.ppt",
+      "filename": "22总复习.ppt",
+      "bytes": 433152,
+      "sha256": "13859c7aae9175e1252d99b6021337d863726d40c2fbe2800c6294dc99ef6f9c"
+    },
+    {
+      "sourceMember": "Lecture Notes/张兴/21换热器.ppt",
+      "filename": "21换热器.ppt",
+      "bytes": 450560,
+      "sha256": "4a669419ff830991bc7786acfcb424145b2da27485702b74de7dd575e41fb5ea"
+    },
+    {
+      "sourceMember": "Lecture Notes/张兴/14凝结.ppt",
+      "filename": "14凝结.ppt",
+      "bytes": 1148416,
+      "sha256": "375cee79b3521a25f2e7b58285c7c128c29d41b62a22043795713e1122f2f3ff"
+    },
+    {
+      "sourceMember": "Lecture Notes/张兴/12_内部强制对流传热的实验关联式.ppt",
+      "filename": "12_内部强制对流传热的实验关联式.ppt",
+      "bytes": 1646592,
+      "sha256": "44bf2c8bc5b6d5f30dc341f0503e3ff713da165de9358fb7a1084800f2fa7dbd"
+    },
+    {
+      "sourceMember": "Lecture Notes/张兴/11_单相对流传热的实验关联式.ppt",
+      "filename": "11_单相对流传热的实验关联式.ppt",
+      "bytes": 472064,
+      "sha256": "9ea7035b718fa74215dd8f161c84e07a7b0752c008e136815132ac828ee9c25e"
+    },
+    {
+      "sourceMember": "Lecture Notes/张兴/10_管内层流对流换热.ppt",
+      "filename": "10_管内层流对流换热.ppt",
+      "bytes": 1929216,
+      "sha256": "1875bd0c9620a11bcbfcc5a899a08b446835eddffa14a512915d026582a93975"
+    },
+    {
+      "sourceMember": "Lecture Notes/张兴/09_对流传热的边界层和微分方程.ppt",
+      "filename": "09_对流传热的边界层和微分方程.ppt",
+      "bytes": 657920,
+      "sha256": "47786cdbba803285a0e61e222e831ef98c7ca8a01d9fecf3b09a78c6de0679dc"
+    },
+    {
+      "sourceMember": "Lecture Notes/张兴/08_对流传热的理论基础.ppt",
+      "filename": "08_对流传热的理论基础.ppt",
+      "bytes": 633344,
+      "sha256": "b4d110dd1ecf0e18e73fc7d3048e466d4fa88dc5b20bd5a5bdce5a9c146cf827"
+    },
+    {
+      "sourceMember": "Lecture Notes/张兴/07_热传导问题的数值解法.ppt",
+      "filename": "07_热传导问题的数值解法.ppt",
+      "bytes": 940544,
+      "sha256": "3dfc7bb25ce931dd2908ded6d0849a14aa1022b7e4219d3bb10bbe42690396b1"
+    },
+    {
+      "sourceMember": "Lecture Notes/张兴/06_简单几何形状多维非稳态热传导.ppt",
+      "filename": "06_简单几何形状多维非稳态热传导.ppt",
+      "bytes": 1205760,
+      "sha256": "e60267ff3282e28e6d19ab73bcea085e79bf7c61e783a24c4977e89c88e6be28"
+    },
+    {
+      "sourceMember": "Lecture Notes/张兴/04_变截面或变热导率物体导热.ppt",
+      "filename": "04_变截面或变热导率物体导热.ppt",
+      "bytes": 635904,
+      "sha256": "791c2401beaf3d95ee2147ceb895f59bd93da7cbb5c4ca99ca096230dd932df4"
+    },
+    {
+      "sourceMember": "Lecture Notes/张兴/03_通过肋片的导热.ppt",
+      "filename": "03_通过肋片的导热.ppt",
+      "bytes": 1440256,
+      "sha256": "1c8ce782a1e6b881eb5eba521d050bd9d9c14dfa785eb6b4d0ed6df03da40267"
+    },
+    {
+      "sourceMember": "Lecture Notes/张兴/02_稳态热传导.ppt",
+      "filename": "02_稳态热传导.ppt",
+      "bytes": 1351168,
+      "sha256": "679fcc7779eb3d1793849c83bb92331066415eb9fdd15abe41d9e1d8b8efb9d3"
+    }
+  ]
+}

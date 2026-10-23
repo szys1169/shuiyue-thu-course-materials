@@ -1,0 +1,140 @@
+{
+  "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E5%B7%A5%E7%A8%8B%E5%8A%9B%E5%AD%A6%2F%E5%B7%A5%E7%A8%8B%E5%8A%9B%E5%AD%A6%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8&mode=list",
+  "sourceDirectory": "工程力学复习笔记_马逸",
+  "role": "总论、静力学、材料力学各章的带边栏笔记PDF，共12个原路径。",
+  "wholeGroupSHACompared": false,
+  "allPagesReviewed": false,
+  "files": [
+    {
+      "name": "0总论_withMarginNotes.pdf",
+      "sourceHref": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E5%B7%A5%E7%A8%8B%E5%8A%9B%E5%AD%A6%2F%E5%B7%A5%E7%A8%8B%E5%8A%9B%E5%AD%A6%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F0%E6%80%BB%E8%AE%BA_withMarginNotes.pdf",
+      "displaySize": "1.1 GB",
+      "preview": {
+        "status": "页面0/0与加载占位，未读取正文",
+        "observedAt": "2026-10-22T20:27:46.923Z"
+      },
+      "representativeSample": null
+    },
+    {
+      "name": "01工程静力学_withMarginNotes.pdf",
+      "sourceHref": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E5%B7%A5%E7%A8%8B%E5%8A%9B%E5%AD%A6%2F%E5%B7%A5%E7%A8%8B%E5%8A%9B%E5%AD%A6%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F01%E5%B7%A5%E7%A8%8B%E9%9D%99%E5%8A%9B%E5%AD%A6_withMarginNotes.pdf",
+      "displaySize": "1.1 GB",
+      "preview": {
+        "status": "未载入正文",
+        "text": "utton \"缩小\":\n  - generic: 缩小\n- combobox \"缩放\":\n  - option \"自动缩放\" [selected]\n  - option \"实际大小\"\n  - option \"适合页面\"\n  - option \"适合页宽\"\n  - option \"50%\"\n  - option \"75%\"\n  - option \"100%\"\n  - option \"125%\"\n  - option \"150%\"\n  - option \"200%\"\n  - option \"300%\"\n  - option \"400%\"\n- button \"放大\":\n  - generic: 放大",
+        "pages": "0"
+      },
+      "representativeSample": null
+    },
+    {
+      "name": "02力系的等效与简化_withMarginNotes.pdf",
+      "sourceHref": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E5%B7%A5%E7%A8%8B%E5%8A%9B%E5%AD%A6%2F%E5%B7%A5%E7%A8%8B%E5%8A%9B%E5%AD%A6%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F02%E5%8A%9B%E7%B3%BB%E7%9A%84%E7%AD%89%E6%95%88%E4%B8%8E%E7%AE%80%E5%8C%96_withMarginNotes.pdf",
+      "displaySize": "705.4 MB",
+      "preview": {
+        "status": "未载入正文",
+        "text": "utton \"缩小\":\n  - generic: 缩小\n- combobox \"缩放\":\n  - option \"自动缩放\" [selected]\n  - option \"实际大小\"\n  - option \"适合页面\"\n  - option \"适合页宽\"\n  - option \"50%\"\n  - option \"75%\"\n  - option \"100%\"\n  - option \"125%\"\n  - option \"150%\"\n  - option \"200%\"\n  - option \"300%\"\n  - option \"400%\"\n- button \"放大\":\n  - generic: 放大",
+        "pages": "0"
+      },
+      "representativeSample": null
+    },
+    {
+      "name": "03力系的平衡条件与平衡方程_withMarginNotes.pdf",
+      "sourceHref": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E5%B7%A5%E7%A8%8B%E5%8A%9B%E5%AD%A6%2F%E5%B7%A5%E7%A8%8B%E5%8A%9B%E5%AD%A6%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F03%E5%8A%9B%E7%B3%BB%E7%9A%84%E5%B9%B3%E8%A1%A1%E6%9D%A1%E4%BB%B6%E4%B8%8E%E5%B9%B3%E8%A1%A1%E6%96%B9%E7%A8%8B_withMarginNotes.pdf",
+      "displaySize": "1.0 GB",
+      "preview": {
+        "status": "未载入正文",
+        "text": "utton \"缩小\":\n  - generic: 缩小\n- combobox \"缩放\":\n  - option \"自动缩放\" [selected]\n  - option \"实际大小\"\n  - option \"适合页面\"\n  - option \"适合页宽\"\n  - option \"50%\"\n  - option \"75%\"\n  - option \"100%\"\n  - option \"125%\"\n  - option \"150%\"\n  - option \"200%\"\n  - option \"300%\"\n  - option \"400%\"\n- button \"放大\":\n  - generic: 放大",
+        "pages": "0"
+      },
+      "representativeSample": null
+    },
+    {
+      "name": "04材料力学的基本概念_withMarginNotes.pdf",
+      "sourceHref": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E5%B7%A5%E7%A8%8B%E5%8A%9B%E5%AD%A6%2F%E5%B7%A5%E7%A8%8B%E5%8A%9B%E5%AD%A6%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F04%E6%9D%90%E6%96%99%E5%8A%9B%E5%AD%A6%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5_withMarginNotes.pdf",
+      "displaySize": "697.0 MB",
+      "preview": {
+        "status": "未载入正文",
+        "text": "utton \"缩小\":\n  - generic: 缩小\n- combobox \"缩放\":\n  - option \"自动缩放\" [selected]\n  - option \"实际大小\"\n  - option \"适合页面\"\n  - option \"适合页宽\"\n  - option \"50%\"\n  - option \"75%\"\n  - option \"100%\"\n  - option \"125%\"\n  - option \"150%\"\n  - option \"200%\"\n  - option \"300%\"\n  - option \"400%\"\n- button \"放大\":\n  - generic: 放大",
+        "pages": "0"
+      },
+      "representativeSample": null
+    },
+    {
+      "name": "05杆件的内力图_withMarginNotes.pdf",
+      "sourceHref": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E5%B7%A5%E7%A8%8B%E5%8A%9B%E5%AD%A6%2F%E5%B7%A5%E7%A8%8B%E5%8A%9B%E5%AD%A6%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F05%E6%9D%86%E4%BB%B6%E7%9A%84%E5%86%85%E5%8A%9B%E5%9B%BE_withMarginNotes.pdf",
+      "displaySize": "77.7 MB",
+      "preview": {
+        "status": "首页已载入",
+        "pages": 142,
+        "text": "第二篇\n \n材料力学\n\n\n工程力学\n(\n静力学与材料力学\n)\n\n\n1\n1\n\n\n05\n杆件的内⼒图"
+      },
+      "representativeSample": null
+    },
+    {
+      "name": "06拉压杆件的应力变形分析与强度设计_withMarginNotes.pdf",
+      "sourceHref": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E5%B7%A5%E7%A8%8B%E5%8A%9B%E5%AD%A6%2F%E5%B7%A5%E7%A8%8B%E5%8A%9B%E5%AD%A6%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F06%E6%8B%89%E5%8E%8B%E6%9D%86%E4%BB%B6%E7%9A%84%E5%BA%94%E5%8A%9B%E5%8F%98%E5%BD%A2%E5%88%86%E6%9E%90%E4%B8%8E%E5%BC%BA%E5%BA%A6%E8%AE%BE%E8%AE%A1_withMarginNotes.pdf",
+      "displaySize": "153.8 MB",
+      "preview": {
+        "status": "首页已载入",
+        "text": "第\n6\n章\n \n拉压杆件的\n\n\n应力变形分析与强度设计\n\n\n第二篇\n \n材料力学\n\n\n工程力学\n\n\n1\n1\n\n\n06\n \n拉压杆件的应⼒\n\n\n变形分析与强度设计",
+        "pages": "152"
+      },
+      "representativeSample": null
+    },
+    {
+      "name": "07梁的强度计算_withMarginNotes.pdf",
+      "sourceHref": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E5%B7%A5%E7%A8%8B%E5%8A%9B%E5%AD%A6%2F%E5%B7%A5%E7%A8%8B%E5%8A%9B%E5%AD%A6%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F07%E6%A2%81%E7%9A%84%E5%BC%BA%E5%BA%A6%E8%AE%A1%E7%AE%97_withMarginNotes.pdf",
+      "displaySize": "196.4 MB",
+      "preview": {
+        "status": "未载入正文",
+        "text": "utton \"缩小\":\n  - generic: 缩小\n- combobox \"缩放\":\n  - option \"自动缩放\" [selected]\n  - option \"实际大小\"\n  - option \"适合页面\"\n  - option \"适合页宽\"\n  - option \"50%\"\n  - option \"75%\"\n  - option \"100%\"\n  - option \"125%\"\n  - option \"150%\"\n  - option \"200%\"\n  - option \"300%\"\n  - option \"400%\"\n- button \"放大\":\n  - generic: 放大",
+        "pages": "0"
+      },
+      "representativeSample": null
+    },
+    {
+      "name": "08梁的位移分析与刚度设计_withMarginNotes.pdf",
+      "sourceHref": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E5%B7%A5%E7%A8%8B%E5%8A%9B%E5%AD%A6%2F%E5%B7%A5%E7%A8%8B%E5%8A%9B%E5%AD%A6%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F08%E6%A2%81%E7%9A%84%E4%BD%8D%E7%A7%BB%E5%88%86%E6%9E%90%E4%B8%8E%E5%88%9A%E5%BA%A6%E8%AE%BE%E8%AE%A1_withMarginNotes.pdf",
+      "displaySize": "71.3 MB",
+      "preview": {
+        "status": "首页已载入",
+        "text": "第\n8\n章\n \n梁的位移分析与刚度设计\n\n\n1\n1\n\n\n08\n梁的位移分析\n\n\n与刚度设计",
+        "pages": "98"
+      },
+      "representativeSample": null
+    },
+    {
+      "name": "09圆轴扭转时的应力变形分析与刚度强度计算_withMarginNotes.pdf",
+      "sourceHref": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E5%B7%A5%E7%A8%8B%E5%8A%9B%E5%AD%A6%2F%E5%B7%A5%E7%A8%8B%E5%8A%9B%E5%AD%A6%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F09%E5%9C%86%E8%BD%B4%E6%89%AD%E8%BD%AC%E6%97%B6%E7%9A%84%E5%BA%94%E5%8A%9B%E5%8F%98%E5%BD%A2%E5%88%86%E6%9E%90%E4%B8%8E%E5%88%9A%E5%BA%A6%E5%BC%BA%E5%BA%A6%E8%AE%A1%E7%AE%97_withMarginNotes.pdf",
+      "displaySize": "95.6 MB",
+      "preview": {
+        "status": "首页已载入",
+        "text": "第\n9\n章\n \n圆轴扭转时的应力变形\n\n\n分析与强度刚度计算\n\n\n第二篇\n \n材料力学\n\n\n工程力学\n\n\n1\n1\n\n\n09\n \n圆轴扭转时的应⼒变\n\n\n形分析与强度刚度计算",
+        "pages": "103"
+      },
+      "representativeSample": null
+    },
+    {
+      "name": "10复杂受力时构件的强度设计_withMarginNotes.pdf",
+      "sourceHref": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E5%B7%A5%E7%A8%8B%E5%8A%9B%E5%AD%A6%2F%E5%B7%A5%E7%A8%8B%E5%8A%9B%E5%AD%A6%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F10%E5%A4%8D%E6%9D%82%E5%8F%97%E5%8A%9B%E6%97%B6%E6%9E%84%E4%BB%B6%E7%9A%84%E5%BC%BA%E5%BA%A6%E8%AE%BE%E8%AE%A1_withMarginNotes.pdf",
+      "displaySize": "143.4 MB",
+      "preview": {
+        "status": "首页已载入",
+        "text": "第\n10\n章\n\n\n复杂受力时构件的强度设计\n\n\n1\n1\n\n\n10\n复杂受⼒时构件\n\n\n的强度设计",
+        "pages": "263"
+      },
+      "representativeSample": null
+    },
+    {
+      "name": "11压杆的稳定性分析与设计_withMarginNotes.pdf",
+      "sourceHref": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/files/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E5%B7%A5%E7%A8%8B%E5%8A%9B%E5%AD%A6%2F%E5%B7%A5%E7%A8%8B%E5%8A%9B%E5%AD%A6%E5%A4%8D%E4%B9%A0%E7%AC%94%E8%AE%B0_%E9%A9%AC%E9%80%B8%2F11%E5%8E%8B%E6%9D%86%E7%9A%84%E7%A8%B3%E5%AE%9A%E6%80%A7%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1_withMarginNotes.pdf",
+      "displaySize": "107.7 MB",
+      "preview": {
+        "status": "未载入正文",
+        "text": "utton \"缩小\":\n  - generic: 缩小\n- combobox \"缩放\":\n  - option \"自动缩放\" [selected]\n  - option \"实际大小\"\n  - option \"适合页面\"\n  - option \"适合页宽\"\n  - option \"50%\"\n  - option \"75%\"\n  - option \"100%\"\n  - option \"125%\"\n  - option \"150%\"\n  - option \"200%\"\n  - option \"300%\"\n  - option \"400%\"\n- button \"放大\":\n  - generic: 放大",
+        "pages": "0"
+      },
+      "representativeSample": null
+    }
+  ]
+}

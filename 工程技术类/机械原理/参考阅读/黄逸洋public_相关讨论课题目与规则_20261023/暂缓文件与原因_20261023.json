@@ -1,0 +1,19 @@
+{
+  "source": "黄逸洋public",
+  "reason": "两份幻灯存在指向个人电脑Users目录的外部AVI引用，链接未执行。",
+  "held": [
+    {
+      "name": "机原讨论课.pptx",
+      "bytes": 209039,
+      "sha256": "3ff812916d19477ee5cedcbce7abd398527930e730eb80b267b61198210585e1"
+    },
+    {
+      "name": "机原讨论课.ppt",
+      "bytes": 327680,
+      "sha256": "8d09897bed47866baa8c545a5cae76f387633f9a622355268ed90dcca1daf048"
+    }
+  ],
+  "privateValuesOmitted": true,
+  "originalsRetainedLocally": true,
+  "cloudAction": "仅本轮已新增副本正常可恢复撤回，不清回收站，不改源共享库"
+}

@@ -1,0 +1,14 @@
+{
+  "source": "黄逸洋public",
+  "reason": "部分DOC的文件属性及修订表含数字式修订账号；这些记录不能据此认定为学校学号。",
+  "held": [
+    {
+      "name": "控制工程基础-模拟试题1-马逸.doc",
+      "bytes": 2149888,
+      "sha256": "679fe63ef30c03767fd4344ea0ba9d0b8b3254f76a8b10d275d6fd427b85d8f8"
+    }
+  ],
+  "privateValuesOmitted": true,
+  "originalsRetainedLocally": true,
+  "cloudAction": "仅本轮已新增副本正常可恢复撤回，不清回收站，不改源共享库"
+}

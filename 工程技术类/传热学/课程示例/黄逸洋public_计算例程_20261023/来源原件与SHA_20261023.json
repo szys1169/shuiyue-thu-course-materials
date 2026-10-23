@@ -1,0 +1,24 @@
+{
+  "sourceURL": "https://cloud.tsinghua.edu.cn/d/cc494ee97f884a3b9ffb/?p=%2F2.6_%E8%83%BD%E6%BA%90%E5%8A%A8%E5%8A%9B%E7%B1%BB_%E4%BC%A0%E7%83%AD%E5%AD%A6&mode=list",
+  "role": "计算例程",
+  "rows": [
+    {
+      "sourceMember": "2.6_能源动力类_传热学/传热学_复习笔记_马逸/Term Work/源代码/第二题解法_python版.py",
+      "filename": "第二题解法_python版.py",
+      "bytes": 612,
+      "sha256": "a85dbe4e0415a2b64ba728a1c40ee303b79258148dc2e85b8bdadcd6321058ad"
+    },
+    {
+      "sourceMember": "2.6_能源动力类_传热学/传热学_复习笔记_马逸/Term Work/源代码/第一题解法_迭代法.py",
+      "filename": "第一题解法_迭代法.py",
+      "bytes": 1834,
+      "sha256": "3d6b9d0bb978425543bb7e5332a984b14f5bacb2a7111e757779de8cf388abaa"
+    },
+    {
+      "sourceMember": "2.6_能源动力类_传热学/传热学_复习笔记_马逸/Term Work/源代码/Q1.m",
+      "filename": "Q1.m",
+      "bytes": 1895,
+      "sha256": "b918b543db2011c1dd38ef19eb15f6ed8ffb5f2f6ed684d70c4c16d5b45a7b7d"
+    }
+  ]
+}
